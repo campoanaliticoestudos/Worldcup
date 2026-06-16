@@ -1,0 +1,1601 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,495,Morocco,0,FirstHalf,Start,Successful,0,0,,
+2,,,409,Brazil,0,FirstHalf,Start,Successful,0,0,,
+3,392361,Azzedine Ounahi,495,Morocco,0,FirstHalf,Pass,Unsuccessful,50,50,85.5,100
+4,341525,Roger Ibañez,409,Brazil,0,FirstHalf,Pass,Successful,16.5,0,10.9,20.1
+5,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Unsuccessful,11.6,18,66.6,31.8
+5,300359,Issa Diop,495,Morocco,0,FirstHalf,Pass,Unsuccessful,34.9,62.5,41.3,69.6
+6,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Aerial,Successful,58.7,30.4,,
+6,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Aerial,Unsuccessful,41.3,69.6,,
+7,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Pass,Unsuccessful,58.7,30.4,60.6,33
+7,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,BallTouch,Successful,41.1,69.7,,
+8,300447,Raphinha,409,Brazil,0,FirstHalf,BallTouch,Unsuccessful,61.8,34.2,,
+8,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,BallRecovery,Successful,37.6,67.2,,
+9,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Pass,Successful,37.6,67.2,30.8,82.2
+10,349932,Noussair Mazraoui,495,Morocco,0,FirstHalf,Pass,Successful,30.8,82.2,37.4,93.1
+11,433572,Bilal El Khannouss,495,Morocco,0,FirstHalf,Pass,Successful,35.3,93.1,32.8,83.2
+12,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Pass,Successful,32.7,83.2,41.1,90.7
+13,392361,Azzedine Ounahi,495,Morocco,0,FirstHalf,Pass,Successful,41.1,90.7,36.9,95.6
+14,433572,Bilal El Khannouss,495,Morocco,0,FirstHalf,TakeOn,Unsuccessful,44.6,90.8,,
+9,338780,Bruno Guimarães,409,Brazil,0,FirstHalf,Tackle,Successful,55.4,9.2,,
+10,338780,Bruno Guimarães,409,Brazil,0,FirstHalf,BallRecovery,Successful,48.5,10.8,,
+11,338780,Bruno Guimarães,409,Brazil,0,FirstHalf,Pass,Successful,47.7,10.6,35.8,7.6
+12,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,35.9,7.6,28.9,13.8
+13,341525,Roger Ibañez,409,Brazil,0,FirstHalf,Pass,Successful,28.9,13.8,37.9,20.8
+14,88526,Casemiro,409,Brazil,0,FirstHalf,Pass,Successful,36.8,21.1,10.5,34.3
+15,114147,Alisson Becker,409,Brazil,0,FirstHalf,Pass,Successful,12.3,35.7,27.4,53.2
+16,88526,Casemiro,409,Brazil,0,FirstHalf,Pass,Successful,27.6,52.8,12.5,37.3
+17,114147,Alisson Becker,409,Brazil,0,FirstHalf,Pass,Successful,12.5,37.2,20.2,23.5
+18,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,20.2,23.7,28.1,16.2
+19,338780,Bruno Guimarães,409,Brazil,0,FirstHalf,Pass,Successful,27.6,16.5,34.1,14.8
+20,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Pass,Successful,34.1,14.8,26.6,13.2
+21,338780,Bruno Guimarães,409,Brazil,0,FirstHalf,Pass,Successful,26.7,15.4,27.3,71.5
+22,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,29.1,72.6,37.6,92.7
+23,115097,Douglas Santos,409,Brazil,1,FirstHalf,Pass,Unsuccessful,37.6,92.7,59,88.8
+15,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Interception,Successful,41,11.2,,
+16,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,BallRecovery,Successful,38.9,7.6,,
+17,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Pass,Successful,38.9,7.6,53.9,10.1
+18,317541,Brahim Díaz,495,Morocco,1,FirstHalf,Foul,Successful,55.6,9.6,,
+24,115097,Douglas Santos,409,Brazil,1,FirstHalf,Foul,Unsuccessful,44.4,90.4,,
+19,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Pass,Successful,54.6,7.1,37.5,23.7
+20,300359,Issa Diop,495,Morocco,1,FirstHalf,Pass,Successful,37.5,23.7,29.3,53.8
+21,454342,Chadi Riad,495,Morocco,1,FirstHalf,Pass,Successful,30.4,68.7,34,87
+22,349932,Noussair Mazraoui,495,Morocco,1,FirstHalf,Pass,Successful,34,87,23,73.1
+23,454342,Chadi Riad,495,Morocco,1,FirstHalf,Pass,Successful,22.9,72.6,30.2,46.1
+24,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,TakeOn,Successful,35.2,51,,
+25,300447,Raphinha,409,Brazil,1,FirstHalf,Challenge,Unsuccessful,64.8,49,,
+25,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Pass,Successful,31.5,42.7,42.8,24
+26,404776,Ismael Saibari,495,Morocco,1,FirstHalf,Pass,Successful,61.5,20.3,70.2,5.6
+27,320834,Achraf Hakimi,495,Morocco,1,FirstHalf,TakeOn,Unsuccessful,84.2,12,,
+26,115097,Douglas Santos,409,Brazil,1,FirstHalf,Tackle,Successful,15.8,88,,
+27,115097,Douglas Santos,409,Brazil,1,FirstHalf,BallRecovery,Successful,11.9,88,,
+28,115097,Douglas Santos,409,Brazil,1,FirstHalf,Pass,Unsuccessful,13.1,89.2,58.4,81.3
+28,300359,Issa Diop,495,Morocco,1,FirstHalf,BallRecovery,Successful,45,14.8,,
+29,300359,Issa Diop,495,Morocco,1,FirstHalf,Pass,Successful,44,17,34.6,41.3
+30,454342,Chadi Riad,495,Morocco,1,FirstHalf,Pass,Successful,34.1,44,36.5,72.4
+31,349932,Noussair Mazraoui,495,Morocco,1,FirstHalf,Pass,Successful,36.3,73.3,55.2,75.8
+32,392361,Azzedine Ounahi,495,Morocco,1,FirstHalf,Pass,Successful,57,89.6,55.9,74.1
+33,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Pass,Successful,55.7,74.1,56.7,92.1
+34,392361,Azzedine Ounahi,495,Morocco,1,FirstHalf,Pass,Successful,59.8,91.4,62.5,95.6
+35,433572,Bilal El Khannouss,495,Morocco,1,FirstHalf,Pass,Successful,62.5,95.6,42.8,92.6
+36,349932,Noussair Mazraoui,495,Morocco,2,FirstHalf,TakeOn,Unsuccessful,53.3,90.6,,
+29,319756,Lucas Paquetá,409,Brazil,2,FirstHalf,Tackle,Unsuccessful,46.7,9.4,,
+37,349932,Noussair Mazraoui,495,Morocco,2,FirstHalf,BallTouch,Unsuccessful,54.9,94.9,,
+31,341525,Roger Ibañez,409,Brazil,2,FirstHalf,Pass,Successful,43.6,0,62.7,13.3
+32,443784,Igor Thiago,409,Brazil,2,FirstHalf,Aerial,Successful,62.7,13.3,,
+39,349932,Noussair Mazraoui,495,Morocco,2,FirstHalf,Aerial,Unsuccessful,37.3,86.7,,
+33,443784,Igor Thiago,409,Brazil,2,FirstHalf,Pass,Successful,62.7,13.3,53.8,33
+34,300447,Raphinha,409,Brazil,2,FirstHalf,Pass,Unsuccessful,53.8,33,42.4,26.8
+40,392361,Azzedine Ounahi,495,Morocco,2,FirstHalf,BallRecovery,Successful,55.5,65,,
+41,392361,Azzedine Ounahi,495,Morocco,2,FirstHalf,Pass,Successful,53.2,57.3,65.8,85.4
+42,433572,Bilal El Khannouss,495,Morocco,2,FirstHalf,Foul,Successful,76.6,86.4,,
+35,341525,Roger Ibañez,409,Brazil,2,FirstHalf,Foul,Unsuccessful,23.4,13.6,,
+43,433572,Bilal El Khannouss,495,Morocco,3,FirstHalf,Pass,Unsuccessful,73.5,90.9,86.8,55.6
+38,319756,Lucas Paquetá,409,Brazil,3,FirstHalf,Clearance,Successful,12.7,30.6,7.2,62.8
+44,404776,Ismael Saibari,495,Morocco,3,FirstHalf,BallTouch,Unsuccessful,93.8,29.6,,
+36,443784,Igor Thiago,409,Brazil,3,FirstHalf,BallRecovery,Successful,6.3,85,,
+37,443784,Igor Thiago,409,Brazil,3,FirstHalf,Pass,Unsuccessful,7.5,86.8,42.5,72
+45,320834,Achraf Hakimi,495,Morocco,3,FirstHalf,BallRecovery,Successful,63.4,22.4,,
+46,320834,Achraf Hakimi,495,Morocco,3,FirstHalf,Pass,Successful,63.4,22.4,45.5,32.6
+47,349932,Noussair Mazraoui,495,Morocco,3,FirstHalf,Pass,Successful,46.9,30.4,54.7,6.4
+48,320834,Achraf Hakimi,495,Morocco,3,FirstHalf,Pass,Successful,55.3,9.9,41.1,64.9
+49,504830,Ayyoub Bouaddi,495,Morocco,3,FirstHalf,Pass,Successful,41.1,70.2,44.3,60.7
+50,349932,Noussair Mazraoui,495,Morocco,3,FirstHalf,Pass,Successful,47.9,65.5,60.1,94.1
+51,433572,Bilal El Khannouss,495,Morocco,3,FirstHalf,Pass,Successful,63.3,94.8,53.6,86.2
+52,504830,Ayyoub Bouaddi,495,Morocco,3,FirstHalf,Pass,Successful,47.9,84.2,34.9,58.3
+53,454342,Chadi Riad,495,Morocco,3,FirstHalf,Pass,Successful,34.9,58.3,31.8,26.1
+54,300359,Issa Diop,495,Morocco,3,FirstHalf,Pass,Successful,32.1,18.7,38.9,5.2
+55,317541,Brahim Díaz,495,Morocco,4,FirstHalf,Pass,Successful,36.3,30.9,34.6,68.6
+56,349932,Noussair Mazraoui,495,Morocco,4,FirstHalf,Pass,Successful,38.5,71.6,60.1,75.6
+57,404776,Ismael Saibari,495,Morocco,4,FirstHalf,Pass,Successful,60.1,75.6,62.6,94.9
+58,433572,Bilal El Khannouss,495,Morocco,4,FirstHalf,Pass,Unsuccessful,62.6,95.1,68.1,83
+39,88526,Casemiro,409,Brazil,4,FirstHalf,BallTouch,Successful,31.3,17.2,,
+40,341525,Roger Ibañez,409,Brazil,4,FirstHalf,BallRecovery,Successful,29.4,10.5,,
+41,341525,Roger Ibañez,409,Brazil,4,FirstHalf,Pass,Successful,29.4,10.5,39.3,11.1
+59,349932,Noussair Mazraoui,495,Morocco,4,FirstHalf,Challenge,Unsuccessful,56.6,91.1,,
+42,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,TakeOn,Successful,43.4,8.9,,
+43,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,TakeOn,Unsuccessful,60.2,10,,
+60,349932,Noussair Mazraoui,495,Morocco,4,FirstHalf,Tackle,Unsuccessful,39.8,90,,
+44,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,BallTouch,Successful,55.4,11.4,,
+61,349932,Noussair Mazraoui,495,Morocco,4,FirstHalf,Pass,Successful,33.5,93.1,37.3,77.8
+45,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,Challenge,Unsuccessful,59.6,23,,
+62,433572,Bilal El Khannouss,495,Morocco,4,FirstHalf,TakeOn,Successful,40.4,77,,
+63,433572,Bilal El Khannouss,495,Morocco,4,FirstHalf,BallRecovery,Successful,34,73.3,,
+64,433572,Bilal El Khannouss,495,Morocco,4,FirstHalf,Pass,Successful,34,73.3,2.7,65.7
+65,136220,Yassine Bounou,495,Morocco,4,FirstHalf,Pass,Successful,4.1,63.5,8,84
+66,454342,Chadi Riad,495,Morocco,4,FirstHalf,Pass,Unsuccessful,13.8,87.6,67.4,84.7
+46,341525,Roger Ibañez,409,Brazil,4,FirstHalf,Clearance,Successful,27.6,13.2,39.7,6.9
+67,433572,Bilal El Khannouss,495,Morocco,4,FirstHalf,Pass,Successful,60.7,94.1,60.7,72.1
+68,392361,Azzedine Ounahi,495,Morocco,4,FirstHalf,Pass,Successful,61.9,65,64.1,40.7
+69,317541,Brahim Díaz,495,Morocco,4,FirstHalf,Pass,Successful,76,25.9,77.7,3.9
+70,320834,Achraf Hakimi,495,Morocco,4,FirstHalf,Pass,Successful,80.5,5.4,82.2,27.6
+71,392361,Azzedine Ounahi,495,Morocco,4,FirstHalf,Pass,Successful,79.3,29.1,69.1,26.7
+72,504830,Ayyoub Bouaddi,495,Morocco,4,FirstHalf,BallTouch,Successful,69.1,26.7,,
+73,300359,Issa Diop,495,Morocco,4,FirstHalf,Pass,Successful,62.8,23.4,72,6.7
+74,320834,Achraf Hakimi,495,Morocco,4,FirstHalf,Pass,Successful,71.7,9.6,71.4,25.4
+47,338780,Bruno Guimarães,409,Brazil,4,FirstHalf,Challenge,Unsuccessful,26.4,80,,
+223,392361,Azzedine Ounahi,495,Morocco,4,FirstHalf,TakeOn,Successful,73.6,20,,
+75,392361,Azzedine Ounahi,495,Morocco,4,FirstHalf,Pass,Successful,73,9.1,71.5,24
+76,317541,Brahim Díaz,495,Morocco,5,FirstHalf,Pass,Successful,73.9,21.9,88.5,7.2
+77,320834,Achraf Hakimi,495,Morocco,5,FirstHalf,Pass,Successful,87.1,15.8,78.9,30.6
+78,317541,Brahim Díaz,495,Morocco,5,FirstHalf,SavedShot,Successful,85.8,29.7,,
+48,334087,Gabriel Magalhães,409,Brazil,5,FirstHalf,Save,Successful,10.2,67.3,,
+49,88526,Casemiro,409,Brazil,5,FirstHalf,Clearance,Successful,10.8,54.9,26.4,100
+80,320834,Achraf Hakimi,495,Morocco,5,FirstHalf,Pass,Successful,75.3,0,68.8,13.6
+81,504830,Ayyoub Bouaddi,495,Morocco,5,FirstHalf,BallTouch,Unsuccessful,71.5,26.2,,
+71,300447,Raphinha,409,Brazil,5,FirstHalf,TakeOn,Unsuccessful,22.8,90.8,,
+111,504830,Ayyoub Bouaddi,495,Morocco,5,FirstHalf,Tackle,Unsuccessful,77.2,9.2,,
+115,504830,Ayyoub Bouaddi,495,Morocco,5,FirstHalf,Pass,Successful,69.2,37,63.1,62.8
+82,349932,Noussair Mazraoui,495,Morocco,5,FirstHalf,Pass,Successful,67.1,59.3,73.9,92.1
+83,433572,Bilal El Khannouss,495,Morocco,5,FirstHalf,Pass,Successful,71.9,88.1,82.1,92.8
+51,341525,Roger Ibañez,409,Brazil,5,FirstHalf,Challenge,Unsuccessful,11.1,12.7,,
+84,349932,Noussair Mazraoui,495,Morocco,5,FirstHalf,TakeOn,Successful,88.9,87.3,,
+85,349932,Noussair Mazraoui,495,Morocco,5,FirstHalf,Pass,Successful,95.2,78.1,86.2,59.9
+159,392361,Azzedine Ounahi,495,Morocco,5,FirstHalf,BallTouch,Successful,87.5,70.6,,
+87,486734,Neil El Aynaoui,495,Morocco,5,FirstHalf,SavedShot,Successful,84.5,52.1,,
+52,338780,Bruno Guimarães,409,Brazil,5,FirstHalf,Save,Successful,5.5,48.7,,
+88,317541,Brahim Díaz,495,Morocco,5,FirstHalf,TakeOn,Unsuccessful,86.1,4.4,,
+55,115097,Douglas Santos,409,Brazil,5,FirstHalf,BallRecovery,Successful,17.2,90.1,,
+54,115097,Douglas Santos,409,Brazil,5,FirstHalf,Pass,Successful,9.2,88,18.7,94.8
+56,300447,Raphinha,409,Brazil,5,FirstHalf,Pass,Successful,19.2,94.3,19.4,86.1
+57,338780,Bruno Guimarães,409,Brazil,5,FirstHalf,BallTouch,Unsuccessful,19.4,86.1,,
+90,320834,Achraf Hakimi,495,Morocco,6,FirstHalf,Pass,Successful,79.3,0,69.9,12.5
+140,392361,Azzedine Ounahi,495,Morocco,6,FirstHalf,Pass,Successful,76.2,20.3,82.2,18.6
+91,317541,Brahim Díaz,495,Morocco,6,FirstHalf,Pass,Successful,85,19.3,80.5,5.2
+92,320834,Achraf Hakimi,495,Morocco,6,FirstHalf,Pass,Successful,80.5,5.2,73.6,82.7
+93,433572,Bilal El Khannouss,495,Morocco,6,FirstHalf,SavedShot,Successful,72.2,70.1,,
+59,319756,Lucas Paquetá,409,Brazil,6,FirstHalf,Save,Successful,20.2,32.8,,
+60,338780,Bruno Guimarães,409,Brazil,6,FirstHalf,BallRecovery,Successful,22.4,62.2,,
+276,338780,Bruno Guimarães,409,Brazil,6,FirstHalf,Pass,Successful,21.6,75,35.3,88.2
+61,300447,Raphinha,409,Brazil,6,FirstHalf,Pass,Unsuccessful,27.4,68.1,29.7,68.1
+94,320834,Achraf Hakimi,495,Morocco,6,FirstHalf,BlockedPass,Successful,70.3,31.9,,
+95,300359,Issa Diop,495,Morocco,6,FirstHalf,Pass,Successful,67.4,26.6,80,17.7
+96,317541,Brahim Díaz,495,Morocco,6,FirstHalf,BallRecovery,Successful,78.9,14,,
+97,317541,Brahim Díaz,495,Morocco,6,FirstHalf,Pass,Successful,72.2,12.1,71.7,29.3
+98,392361,Azzedine Ounahi,495,Morocco,6,FirstHalf,Pass,Successful,72.1,28.6,86.2,24.9
+99,320834,Achraf Hakimi,495,Morocco,6,FirstHalf,MissedShots,Successful,90.8,25.2,,
+63,334087,Gabriel Magalhães,409,Brazil,6,FirstHalf,Pass,Successful,3.9,59.2,4.9,45.9
+64,114147,Alisson Becker,409,Brazil,6,FirstHalf,Pass,Unsuccessful,6.6,44.1,66.4,36
+101,454342,Chadi Riad,495,Morocco,6,FirstHalf,Interception,Successful,33.6,64,,
+102,486734,Neil El Aynaoui,495,Morocco,7,FirstHalf,Aerial,Successful,41.8,69.5,,
+65,319756,Lucas Paquetá,409,Brazil,7,FirstHalf,Aerial,Unsuccessful,58.2,30.5,,
+139,486734,Neil El Aynaoui,495,Morocco,7,FirstHalf,Pass,Unsuccessful,36.9,77.3,37.7,80.5
+66,319756,Lucas Paquetá,409,Brazil,7,FirstHalf,BallTouch,Successful,55.4,29.5,,
+67,443784,Igor Thiago,409,Brazil,7,FirstHalf,BallTouch,Successful,58.5,31.9,,
+68,319756,Lucas Paquetá,409,Brazil,7,FirstHalf,Pass,Successful,56.9,11.2,51.9,27.4
+69,338780,Bruno Guimarães,409,Brazil,7,FirstHalf,Pass,Successful,52.9,27.4,59.4,49.6
+70,88526,Casemiro,409,Brazil,7,FirstHalf,BallTouch,Unsuccessful,60.5,51.1,,
+103,504830,Ayyoub Bouaddi,495,Morocco,7,FirstHalf,Pass,Successful,35.2,39.8,41.1,25.6
+104,317541,Brahim Díaz,495,Morocco,7,FirstHalf,BallRecovery,Successful,42,25.7,,
+105,317541,Brahim Díaz,495,Morocco,7,FirstHalf,Pass,Successful,58.7,16.8,72.2,7.7
+106,404776,Ismael Saibari,495,Morocco,7,FirstHalf,Pass,Successful,70.8,9.4,66.8,20.8
+107,317541,Brahim Díaz,495,Morocco,7,FirstHalf,Pass,Successful,67.3,18.5,68.6,2.7
+108,404776,Ismael Saibari,495,Morocco,7,FirstHalf,Pass,Successful,69.1,4.6,46.4,40
+109,300359,Issa Diop,495,Morocco,7,FirstHalf,Pass,Successful,46.4,40.2,45.4,56.6
+110,454342,Chadi Riad,495,Morocco,7,FirstHalf,Pass,Successful,45.4,56.6,47.6,77.6
+112,349932,Noussair Mazraoui,495,Morocco,7,FirstHalf,Pass,Successful,47.6,77.6,52.9,53.1
+113,486734,Neil El Aynaoui,495,Morocco,7,FirstHalf,Pass,Successful,52.9,52.1,54.4,38.3
+114,320834,Achraf Hakimi,495,Morocco,7,FirstHalf,Pass,Unsuccessful,54.3,38.3,57.4,42.7
+72,300447,Raphinha,409,Brazil,7,FirstHalf,BlockedPass,Successful,42.6,57.3,,
+73,337782,Vinícius Júnior,409,Brazil,7,FirstHalf,BallRecovery,Successful,52.9,56.7,,
+74,337782,Vinícius Júnior,409,Brazil,7,FirstHalf,Pass,Successful,54.2,57.4,62.9,53.1
+75,443784,Igor Thiago,409,Brazil,7,FirstHalf,Pass,Successful,66,71.2,73.3,87.3
+76,300447,Raphinha,409,Brazil,7,FirstHalf,Pass,Successful,70.3,81.9,60.4,70.3
+77,88526,Casemiro,409,Brazil,7,FirstHalf,Pass,Successful,60.3,70.3,62,37.5
+78,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,62,37.5,70,30.1
+79,319756,Lucas Paquetá,409,Brazil,7,FirstHalf,Pass,Successful,70,30,80.8,10.6
+80,341525,Roger Ibañez,409,Brazil,7,FirstHalf,Pass,Successful,80.6,11.1,59.7,23.1
+81,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,59.6,26.5,54.2,55.9
+82,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,55.6,52.5,53,23.5
+83,101949,Marquinhos,409,Brazil,8,FirstHalf,Pass,Successful,55.2,23.4,60.5,34.3
+84,338780,Bruno Guimarães,409,Brazil,8,FirstHalf,Pass,Successful,60.6,33.6,66.3,38.2
+85,88526,Casemiro,409,Brazil,8,FirstHalf,Dispossessed,Successful,65.2,36.9,,
+116,486734,Neil El Aynaoui,495,Morocco,8,FirstHalf,Tackle,Successful,34.8,63.1,,
+117,454342,Chadi Riad,495,Morocco,8,FirstHalf,Pass,Unsuccessful,25.2,67.1,36.6,73.1
+86,319756,Lucas Paquetá,409,Brazil,8,FirstHalf,Interception,Successful,63.4,26.9,,
+174,504830,Ayyoub Bouaddi,495,Morocco,8,FirstHalf,Pass,Successful,32.1,66.7,27.7,82.8
+175,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,BallRecovery,Successful,27.7,77.1,,
+176,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,Pass,Unsuccessful,26.8,76.3,37,74.9
+87,341525,Roger Ibañez,409,Brazil,8,FirstHalf,Interception,Successful,63,25.1,,
+88,341525,Roger Ibañez,409,Brazil,8,FirstHalf,TakeOn,Unsuccessful,65.4,27.2,,
+119,504830,Ayyoub Bouaddi,495,Morocco,8,FirstHalf,Tackle,Unsuccessful,34.5,72.8,,
+89,341525,Roger Ibañez,409,Brazil,8,FirstHalf,BallTouch,Successful,62.9,30.6,,
+90,88526,Casemiro,409,Brazil,8,FirstHalf,Pass,Successful,61.6,39.4,71.4,57
+91,300447,Raphinha,409,Brazil,8,FirstHalf,SavedShot,Successful,72.5,58.3,,
+120,300359,Issa Diop,495,Morocco,8,FirstHalf,Save,Successful,18.5,43.7,,
+121,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,BallRecovery,Successful,19.2,68.2,,
+122,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,Pass,Successful,19.2,68.2,26.1,55.8
+123,504830,Ayyoub Bouaddi,495,Morocco,8,FirstHalf,Pass,Successful,29.1,61.5,27.4,90.9
+92,341525,Roger Ibañez,409,Brazil,8,FirstHalf,Challenge,Unsuccessful,64,10.3,,
+124,433572,Bilal El Khannouss,495,Morocco,8,FirstHalf,TakeOn,Successful,36,89.7,,
+125,433572,Bilal El Khannouss,495,Morocco,8,FirstHalf,Pass,Successful,42.4,84.2,65.4,78
+126,504830,Ayyoub Bouaddi,495,Morocco,8,FirstHalf,TakeOn,Successful,74,73.4,,
+93,88526,Casemiro,409,Brazil,8,FirstHalf,Challenge,Unsuccessful,26,26.6,,
+127,504830,Ayyoub Bouaddi,495,Morocco,8,FirstHalf,Pass,Successful,73.4,72.1,72.5,57
+128,433572,Bilal El Khannouss,495,Morocco,8,FirstHalf,Pass,Successful,74.2,55.5,76.6,35
+129,317541,Brahim Díaz,495,Morocco,8,FirstHalf,SavedShot,Successful,79.1,37.6,,
+94,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Save,Successful,15,61.9,,
+95,115097,Douglas Santos,409,Brazil,8,FirstHalf,BallTouch,Successful,15.4,67.2,,
+96,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Foul,Successful,10.4,67.8,,
+131,320834,Achraf Hakimi,495,Morocco,8,FirstHalf,Foul,Unsuccessful,89.6,32.2,,
+97,334087,Gabriel Magalhães,409,Brazil,9,FirstHalf,Pass,Successful,13.5,65.2,12.8,28.8
+98,101949,Marquinhos,409,Brazil,9,FirstHalf,Pass,Successful,19.1,29.1,10.5,51.4
+99,114147,Alisson Becker,409,Brazil,9,FirstHalf,Pass,Successful,12.9,53.5,23.6,83.5
+100,334087,Gabriel Magalhães,409,Brazil,9,FirstHalf,Pass,Successful,25.5,72.6,24,34
+101,101949,Marquinhos,409,Brazil,9,FirstHalf,Pass,Successful,27,33.6,35.3,30.9
+102,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,Dispossessed,Successful,36,27.2,,
+132,433572,Bilal El Khannouss,495,Morocco,9,FirstHalf,Tackle,Successful,64,72.8,,
+133,433572,Bilal El Khannouss,495,Morocco,9,FirstHalf,BallRecovery,Successful,65.7,76.6,,
+134,433572,Bilal El Khannouss,495,Morocco,9,FirstHalf,Pass,Successful,77.1,72.1,75.1,55.8
+103,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,Challenge,Unsuccessful,28.4,45.2,,
+135,392361,Azzedine Ounahi,495,Morocco,9,FirstHalf,TakeOn,Successful,71.6,54.8,,
+136,392361,Azzedine Ounahi,495,Morocco,9,FirstHalf,TakeOn,Unsuccessful,78.8,51.7,,
+104,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,Tackle,Unsuccessful,21.2,48.3,,
+137,392361,Azzedine Ounahi,495,Morocco,9,FirstHalf,BallTouch,Successful,79.5,53.4,,
+105,88526,Casemiro,409,Brazil,9,FirstHalf,BallRecovery,Successful,17.2,48.7,,
+106,88526,Casemiro,409,Brazil,9,FirstHalf,Foul,Successful,18.8,45,,
+138,486734,Neil El Aynaoui,495,Morocco,9,FirstHalf,Foul,Unsuccessful,81.2,55,,
+113,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,25.4,26.2,20.7,43.8
+107,114147,Alisson Becker,409,Brazil,10,FirstHalf,Pass,Successful,19.9,42,26.5,76.8
+108,334087,Gabriel Magalhães,409,Brazil,10,FirstHalf,Pass,Successful,26.7,74.8,19.6,49.9
+109,114147,Alisson Becker,409,Brazil,10,FirstHalf,Pass,Successful,20.6,48,27.5,23.2
+110,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,31.6,20.7,33.5,39.4
+111,338780,Bruno Guimarães,409,Brazil,10,FirstHalf,Pass,Unsuccessful,34.6,38.2,46.6,50.8
+141,486734,Neil El Aynaoui,495,Morocco,10,FirstHalf,BallRecovery,Successful,52.8,50.4,,
+142,486734,Neil El Aynaoui,495,Morocco,10,FirstHalf,Pass,Successful,61,58.7,74.2,52.8
+143,404776,Ismael Saibari,495,Morocco,10,FirstHalf,SavedShot,Successful,75.9,60.1,,
+112,88526,Casemiro,409,Brazil,10,FirstHalf,Save,Successful,22.4,43.7,,
+144,392361,Azzedine Ounahi,495,Morocco,10,FirstHalf,Pass,Successful,81.7,86,72.5,92.3
+145,433572,Bilal El Khannouss,495,Morocco,10,FirstHalf,Pass,Successful,72.5,92.3,70.3,78.3
+146,349932,Noussair Mazraoui,495,Morocco,10,FirstHalf,Pass,Successful,70.3,78.3,77.8,75.6
+147,392361,Azzedine Ounahi,495,Morocco,10,FirstHalf,Pass,Successful,77.8,75.6,70,64.9
+148,504830,Ayyoub Bouaddi,495,Morocco,10,FirstHalf,Pass,Successful,64.9,61.7,51.3,31.9
+149,300359,Issa Diop,495,Morocco,10,FirstHalf,Pass,Successful,53.9,28.9,64.7,4.4
+150,320834,Achraf Hakimi,495,Morocco,10,FirstHalf,Pass,Successful,64.6,4.4,63.5,27.6
+151,486734,Neil El Aynaoui,495,Morocco,10,FirstHalf,Pass,Successful,63.5,27.6,73.2,21.4
+152,317541,Brahim Díaz,495,Morocco,11,FirstHalf,Pass,Successful,70,21,63.9,5.6
+153,320834,Achraf Hakimi,495,Morocco,11,FirstHalf,Pass,Successful,63.9,5.6,59.2,16.6
+154,486734,Neil El Aynaoui,495,Morocco,11,FirstHalf,Pass,Successful,59.1,16.6,61.2,30.8
+155,504830,Ayyoub Bouaddi,495,Morocco,11,FirstHalf,Pass,Successful,61.2,30.8,37.9,27.7
+156,300359,Issa Diop,495,Morocco,11,FirstHalf,Pass,Successful,37.4,34.1,33.3,53.8
+157,454342,Chadi Riad,495,Morocco,11,FirstHalf,Pass,Successful,33.3,53.8,36.1,73.8
+158,349932,Noussair Mazraoui,495,Morocco,11,FirstHalf,Pass,Successful,35.6,73.4,26.3,70.1
+160,454342,Chadi Riad,495,Morocco,11,FirstHalf,Pass,Successful,27.8,71.3,39.6,94.6
+161,404776,Ismael Saibari,495,Morocco,11,FirstHalf,Pass,Successful,65.3,86,74.8,93.8
+162,433572,Bilal El Khannouss,495,Morocco,11,FirstHalf,Pass,Successful,71.6,91.4,67.8,74.6
+163,349932,Noussair Mazraoui,495,Morocco,11,FirstHalf,Pass,Unsuccessful,67.8,69.4,74.3,70.4
+114,338780,Bruno Guimarães,409,Brazil,11,FirstHalf,BallTouch,Successful,28.8,27.7,,
+115,101949,Marquinhos,409,Brazil,11,FirstHalf,BallRecovery,Successful,15.1,34.9,,
+116,101949,Marquinhos,409,Brazil,11,FirstHalf,Pass,Successful,15.1,34.9,23.7,28.5
+117,338780,Bruno Guimarães,409,Brazil,11,FirstHalf,Pass,Successful,23.8,28.5,24.6,24
+118,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,Pass,Successful,24.7,23.8,28.4,30
+119,338780,Bruno Guimarães,409,Brazil,11,FirstHalf,Foul,Successful,29.6,28.4,,
+164,504830,Ayyoub Bouaddi,495,Morocco,11,FirstHalf,Foul,Unsuccessful,70.3,71.7,,
+120,101949,Marquinhos,409,Brazil,11,FirstHalf,Pass,Successful,31.8,25.2,31.1,63
+121,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,32,64.3,32.6,32.1
+122,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,35.7,31.8,33.6,65.2
+123,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,34.4,65.7,33.2,33.3
+124,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,35,32.4,53.1,3.6
+126,341525,Roger Ibañez,409,Brazil,12,FirstHalf,Foul,Successful,42.4,10.7,,
+165,404776,Ismael Saibari,495,Morocco,12,FirstHalf,Foul,Unsuccessful,57.6,89.3,,
+127,341525,Roger Ibañez,409,Brazil,12,FirstHalf,Pass,Successful,39.1,22,29.4,26.5
+128,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,31.3,28.5,38.5,84.7
+129,115097,Douglas Santos,409,Brazil,12,FirstHalf,Pass,Successful,39,85.5,53.7,95.7
+130,300447,Raphinha,409,Brazil,12,FirstHalf,Pass,Successful,53.8,95.7,37.2,87.1
+131,115097,Douglas Santos,409,Brazil,12,FirstHalf,Pass,Successful,37.3,87.1,30.7,54.7
+132,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,33.1,54.9,38.3,25.8
+133,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,42.6,29.1,55.3,35.5
+134,319756,Lucas Paquetá,409,Brazil,12,FirstHalf,Pass,Successful,56.1,43.8,71.6,67.5
+167,320834,Achraf Hakimi,495,Morocco,12,FirstHalf,Challenge,Unsuccessful,30.6,32.6,,
+135,300447,Raphinha,409,Brazil,12,FirstHalf,TakeOn,Successful,69.4,67.4,,
+136,300447,Raphinha,409,Brazil,12,FirstHalf,Pass,Successful,70.8,68.5,79.9,87.4
+137,337782,Vinícius Júnior,409,Brazil,13,FirstHalf,Pass,Unsuccessful,98.2,77.7,98,73.6
+170,320834,Achraf Hakimi,495,Morocco,13,FirstHalf,BallTouch,Successful,4.3,34,,
+138,443784,Igor Thiago,409,Brazil,13,FirstHalf,MissedShots,Successful,95.7,53,,
+168,349932,Noussair Mazraoui,495,Morocco,13,FirstHalf,Clearance,Successful,6,72.8,24.7,100
+140,341525,Roger Ibañez,409,Brazil,13,FirstHalf,Pass,Successful,64.2,0,45.1,22.5
+141,101949,Marquinhos,409,Brazil,13,FirstHalf,Pass,Successful,45.9,22.5,38.4,48.7
+142,334087,Gabriel Magalhães,409,Brazil,13,FirstHalf,Pass,Successful,38.4,48.7,42.2,78.1
+143,115097,Douglas Santos,409,Brazil,13,FirstHalf,Pass,Successful,42.4,78.1,34.9,45.6
+144,334087,Gabriel Magalhães,409,Brazil,13,FirstHalf,Pass,Successful,34.9,45.6,37.9,21.1
+145,101949,Marquinhos,409,Brazil,13,FirstHalf,Pass,Successful,37.9,21.1,31.3,51.4
+146,334087,Gabriel Magalhães,409,Brazil,13,FirstHalf,Pass,Successful,31.5,51.3,32.2,85.3
+147,115097,Douglas Santos,409,Brazil,13,FirstHalf,Pass,Successful,32.4,85.2,12.6,46.5
+148,114147,Alisson Becker,409,Brazil,13,FirstHalf,Pass,Successful,12.8,46.3,16.4,23.1
+149,101949,Marquinhos,409,Brazil,13,FirstHalf,Pass,Successful,16.6,22.9,14.2,48.6
+150,114147,Alisson Becker,409,Brazil,13,FirstHalf,Pass,Successful,24,44.5,75.7,67.6
+151,300447,Raphinha,409,Brazil,14,FirstHalf,Aerial,Successful,75.7,67.6,,
+171,320834,Achraf Hakimi,495,Morocco,14,FirstHalf,Aerial,Unsuccessful,24.3,32.4,,
+152,300447,Raphinha,409,Brazil,14,FirstHalf,Pass,Unsuccessful,75.7,67.6,74.8,72
+172,486734,Neil El Aynaoui,495,Morocco,14,FirstHalf,Clearance,Successful,27.2,26.9,40.3,13.8
+173,404776,Ismael Saibari,495,Morocco,14,FirstHalf,Pass,Unsuccessful,40.3,13.8,71.6,16.5
+153,334087,Gabriel Magalhães,409,Brazil,14,FirstHalf,Pass,Successful,31.7,75.9,37.4,59.8
+154,338780,Bruno Guimarães,409,Brazil,14,FirstHalf,Pass,Successful,37.4,59.7,29.5,69.3
+155,334087,Gabriel Magalhães,409,Brazil,14,FirstHalf,Pass,Successful,30.4,68.7,34.1,55.2
+156,338780,Bruno Guimarães,409,Brazil,14,FirstHalf,Pass,Successful,38,50.4,46.4,48
+157,319756,Lucas Paquetá,409,Brazil,14,FirstHalf,Pass,Successful,46.4,48,35.7,46.2
+158,338780,Bruno Guimarães,409,Brazil,14,FirstHalf,Pass,Successful,37.8,49.8,33.3,73.3
+159,334087,Gabriel Magalhães,409,Brazil,14,FirstHalf,Pass,Successful,33.5,73.2,37.2,91.6
+160,115097,Douglas Santos,409,Brazil,14,FirstHalf,Pass,Successful,36,91,21.1,75.6
+161,334087,Gabriel Magalhães,409,Brazil,14,FirstHalf,Pass,Successful,21.8,75.3,15.1,45.1
+162,114147,Alisson Becker,409,Brazil,14,FirstHalf,Pass,Successful,15.2,45.1,22.3,29.1
+163,101949,Marquinhos,409,Brazil,14,FirstHalf,Pass,Successful,22.4,29.1,33.5,6
+164,341525,Roger Ibañez,409,Brazil,14,FirstHalf,Pass,Successful,35.4,6.4,33.9,18.4
+165,319756,Lucas Paquetá,409,Brazil,14,FirstHalf,Pass,Unsuccessful,43.9,25,93.2,61.6
+177,136220,Yassine Bounou,495,Morocco,14,FirstHalf,KeeperPickup,Successful,8.9,36.5,,
+178,136220,Yassine Bounou,495,Morocco,14,FirstHalf,Pass,Successful,8.9,42.5,28.5,43.7
+179,486734,Neil El Aynaoui,495,Morocco,15,FirstHalf,Foul,Successful,30.2,44,,
+167,443784,Igor Thiago,409,Brazil,15,FirstHalf,Foul,Unsuccessful,69.7,56,,
+180,486734,Neil El Aynaoui,495,Morocco,15,FirstHalf,Pass,Successful,31.9,47.9,22.2,26.4
+190,300359,Issa Diop,495,Morocco,15,FirstHalf,Pass,Successful,15.9,27.1,8.9,45
+181,136220,Yassine Bounou,495,Morocco,15,FirstHalf,Pass,Successful,7.5,44.9,14.4,83.4
+182,454342,Chadi Riad,495,Morocco,15,FirstHalf,Pass,Successful,16.4,83.6,18.5,85.2
+183,392361,Azzedine Ounahi,495,Morocco,15,FirstHalf,BallTouch,Unsuccessful,32.8,93.9,,
+168,443784,Igor Thiago,409,Brazil,15,FirstHalf,BallTouch,Successful,81.5,20.8,,
+170,341525,Roger Ibañez,409,Brazil,15,FirstHalf,Pass,Successful,59.5,0,37.2,19.9
+171,101949,Marquinhos,409,Brazil,15,FirstHalf,Pass,Successful,39,21.3,36,61.6
+172,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Pass,Successful,42.3,52.3,39.4,26.5
+173,101949,Marquinhos,409,Brazil,15,FirstHalf,Pass,Successful,39.4,26.4,34.2,57.1
+174,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Pass,Successful,35.3,58.6,42.7,49
+175,338780,Bruno Guimarães,409,Brazil,15,FirstHalf,Pass,Successful,42.8,48.4,42,28
+176,101949,Marquinhos,409,Brazil,15,FirstHalf,Pass,Successful,43,22.6,38.1,38.8
+177,338780,Bruno Guimarães,409,Brazil,16,FirstHalf,Pass,Successful,54.6,43.3,47.2,64.9
+178,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,47.3,64.6,53.9,93.3
+179,115097,Douglas Santos,409,Brazil,16,FirstHalf,Pass,Successful,54.1,93.4,67.6,95.4
+180,337782,Vinícius Júnior,409,Brazil,16,FirstHalf,TakeOn,Unsuccessful,67.2,94.8,,
+185,320834,Achraf Hakimi,495,Morocco,16,FirstHalf,Tackle,Successful,32.7,5.2,,
+182,115097,Douglas Santos,409,Brazil,16,FirstHalf,Pass,Successful,54.5,100,35.4,77.1
+183,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,35.8,74.5,41.2,30.7
+184,101949,Marquinhos,409,Brazil,16,FirstHalf,Pass,Successful,43.1,30.6,58.6,7.9
+185,341525,Roger Ibañez,409,Brazil,16,FirstHalf,Pass,Successful,53.6,7.8,36.5,29.2
+186,101949,Marquinhos,409,Brazil,16,FirstHalf,Pass,Successful,37,29.8,33,56.7
+187,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,37.5,59.1,54,94.8
+188,300447,Raphinha,409,Brazil,16,FirstHalf,Pass,Successful,57.6,95.7,48.3,87
+189,115097,Douglas Santos,409,Brazil,16,FirstHalf,Pass,Successful,51.2,86.7,53.2,95.5
+190,300447,Raphinha,409,Brazil,16,FirstHalf,Pass,Successful,54.7,88.6,44.9,51.6
+191,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,55.1,49.9,55.7,38.4
+192,338780,Bruno Guimarães,409,Brazil,16,FirstHalf,Pass,Successful,57.1,39.4,60.9,45
+193,319756,Lucas Paquetá,409,Brazil,16,FirstHalf,Pass,Successful,61,46.9,46.2,55.8
+194,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,46.4,56.4,57.1,94
+195,115097,Douglas Santos,409,Brazil,16,FirstHalf,Pass,Successful,57,93.1,65.8,96.1
+196,337782,Vinícius Júnior,409,Brazil,17,FirstHalf,Pass,Successful,60.9,62.2,68.3,63
+197,319756,Lucas Paquetá,409,Brazil,17,FirstHalf,Pass,Successful,69.4,71.8,69.1,81
+198,88526,Casemiro,409,Brazil,17,FirstHalf,Pass,Successful,69.5,80.4,87,50.7
+199,300447,Raphinha,409,Brazil,17,FirstHalf,BallTouch,Unsuccessful,86.4,51.2,,
+187,136220,Yassine Bounou,495,Morocco,17,FirstHalf,KeeperPickup,Successful,7.8,45.9,,
+188,136220,Yassine Bounou,495,Morocco,17,FirstHalf,Pass,Unsuccessful,13.2,48.6,64.4,30.8
+200,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Successful,35.3,58.8,45.9,39
+201,101949,Marquinhos,409,Brazil,17,FirstHalf,BallRecovery,Successful,46.4,39,,
+202,101949,Marquinhos,409,Brazil,17,FirstHalf,Pass,Successful,46.4,39,55.1,46.3
+203,319756,Lucas Paquetá,409,Brazil,17,FirstHalf,Pass,Unsuccessful,65.8,57.7,76,57.4
+189,300359,Issa Diop,495,Morocco,17,FirstHalf,Pass,Unsuccessful,29.1,44.9,42.4,57.8
+204,88526,Casemiro,409,Brazil,17,FirstHalf,Pass,Successful,62.7,41.1,63.5,9.7
+205,341525,Roger Ibañez,409,Brazil,17,FirstHalf,Pass,Successful,63.8,10.9,60.1,33.4
+206,88526,Casemiro,409,Brazil,17,FirstHalf,Pass,Successful,60.4,35.2,54.6,57.1
+207,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Successful,56.2,58.8,65.8,65.7
+208,300447,Raphinha,409,Brazil,17,FirstHalf,Pass,Successful,65.7,65.5,53.2,60.6
+209,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Successful,53.6,59.5,58.7,67.8
+210,300447,Raphinha,409,Brazil,17,FirstHalf,Pass,Unsuccessful,62.8,69.9,77.9,31.8
+191,349932,Noussair Mazraoui,495,Morocco,17,FirstHalf,BallRecovery,Successful,23.7,68.9,,
+192,349932,Noussair Mazraoui,495,Morocco,17,FirstHalf,Pass,Successful,26,68.7,30.7,63.2
+193,392361,Azzedine Ounahi,495,Morocco,17,FirstHalf,Pass,Successful,29.3,67.7,31.1,84.7
+194,349932,Noussair Mazraoui,495,Morocco,17,FirstHalf,Pass,Successful,31.3,88.2,41.6,91.9
+195,433572,Bilal El Khannouss,495,Morocco,18,FirstHalf,Pass,Successful,41.6,91.9,28.5,87
+196,349932,Noussair Mazraoui,495,Morocco,18,FirstHalf,Pass,Successful,29.2,84.9,20.4,83
+197,454342,Chadi Riad,495,Morocco,18,FirstHalf,Pass,Successful,23,86.9,29.1,94.3
+198,392361,Azzedine Ounahi,495,Morocco,18,FirstHalf,TakeOn,Unsuccessful,29.7,89.3,,
+211,341525,Roger Ibañez,409,Brazil,18,FirstHalf,Tackle,Successful,70.3,10.7,,
+199,349932,Noussair Mazraoui,495,Morocco,18,FirstHalf,Pass,Unsuccessful,28.1,88.4,29.3,90.1
+212,443784,Igor Thiago,409,Brazil,18,FirstHalf,BlockedPass,Successful,70.7,9.9,,
+213,88526,Casemiro,409,Brazil,18,FirstHalf,BallRecovery,Successful,65.7,27.4,,
+214,88526,Casemiro,409,Brazil,18,FirstHalf,Pass,Successful,65.7,27.4,72.3,57.7
+215,300447,Raphinha,409,Brazil,18,FirstHalf,Pass,Successful,71.8,58,89.7,65.1
+216,337782,Vinícius Júnior,409,Brazil,18,FirstHalf,BallTouch,Unsuccessful,89.5,65.1,,
+200,320834,Achraf Hakimi,495,Morocco,18,FirstHalf,BallTouch,Successful,12.8,38.7,,
+201,320834,Achraf Hakimi,495,Morocco,18,FirstHalf,CornerAwarded,Unsuccessful,0,22.8,,
+217,337782,Vinícius Júnior,409,Brazil,18,FirstHalf,CornerAwarded,Successful,100,77.2,,
+218,338780,Bruno Guimarães,409,Brazil,19,FirstHalf,Pass,Unsuccessful,99.5,99.5,93,52.9
+202,404776,Ismael Saibari,495,Morocco,19,FirstHalf,Clearance,Successful,4.4,46.7,23.9,51.9
+219,337782,Vinícius Júnior,409,Brazil,19,FirstHalf,Pass,Successful,80.8,49.6,82.4,38.5
+220,319756,Lucas Paquetá,409,Brazil,19,FirstHalf,SavedShot,Successful,82.4,38.5,,
+203,300359,Issa Diop,495,Morocco,19,FirstHalf,Save,Successful,12.8,60.8,,
+221,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Unsuccessful,83.5,26.2,81.3,29.2
+204,433572,Bilal El Khannouss,495,Morocco,19,FirstHalf,BlockedPass,Successful,18.7,70.8,,
+222,115097,Douglas Santos,409,Brazil,19,FirstHalf,Pass,Successful,39.7,22.3,27.6,46.5
+223,114147,Alisson Becker,409,Brazil,19,FirstHalf,Pass,Successful,25.3,49.5,27,35.8
+224,115097,Douglas Santos,409,Brazil,19,FirstHalf,Pass,Successful,26.5,37,28.1,73
+225,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,34.1,60.3,38.8,29.4
+226,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,39.7,34.5,33.8,58.3
+227,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,37.2,59.1,41.8,28.5
+228,101949,Marquinhos,409,Brazil,20,FirstHalf,Pass,Successful,43.1,28.6,62.5,6.3
+229,341525,Roger Ibañez,409,Brazil,20,FirstHalf,Pass,Successful,63.8,5.7,68.4,14.7
+230,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,Pass,Unsuccessful,68.6,13.2,65.2,13
+205,433572,Bilal El Khannouss,495,Morocco,20,FirstHalf,BlockedPass,Successful,34.8,87,,
+206,349932,Noussair Mazraoui,495,Morocco,20,FirstHalf,BallRecovery,Successful,32.7,82.8,,
+207,349932,Noussair Mazraoui,495,Morocco,20,FirstHalf,Pass,Successful,34.3,78.8,44.3,49.2
+208,317541,Brahim Díaz,495,Morocco,20,FirstHalf,Pass,Successful,44.3,49.2,76.9,51.7
+209,404776,Ismael Saibari,495,Morocco,20,FirstHalf,Goal,Successful,76.9,51.7,,
+393,,,409,Brazil,20,FirstHalf,FormationChange,Successful,0,0,,
+231,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Successful,49.7,50.1,32.5,52.8
+232,114147,Alisson Becker,409,Brazil,21,FirstHalf,Pass,Unsuccessful,22.9,49.1,69.7,94.8
+239,300447,Raphinha,409,Brazil,21,FirstHalf,Pass,Successful,80.6,96.9,81.6,92.2
+234,443784,Igor Thiago,409,Brazil,21,FirstHalf,TakeOn,Unsuccessful,71.2,92.8,,
+210,486734,Neil El Aynaoui,495,Morocco,21,FirstHalf,Tackle,Unsuccessful,28.8,7.2,,
+236,443784,Igor Thiago,409,Brazil,21,FirstHalf,BallTouch,Unsuccessful,74.2,87.1,,
+212,320834,Achraf Hakimi,495,Morocco,22,FirstHalf,Pass,Successful,17.9,0,35.4,5.7
+213,486734,Neil El Aynaoui,495,Morocco,22,FirstHalf,Pass,Unsuccessful,20.4,14.6,41.3,0
+242,115097,Douglas Santos,409,Brazil,25,FirstHalf,Pass,Successful,58,100,33.6,87.9
+243,334087,Gabriel Magalhães,409,Brazil,25,FirstHalf,Pass,Successful,42.7,59.7,41.3,29.1
+244,101949,Marquinhos,409,Brazil,25,FirstHalf,Pass,Successful,42.2,28.9,36.4,60.1
+245,334087,Gabriel Magalhães,409,Brazil,25,FirstHalf,Pass,Successful,44.9,58.3,46.6,26.1
+246,101949,Marquinhos,409,Brazil,25,FirstHalf,Pass,Successful,45.4,26.4,38,55
+247,334087,Gabriel Magalhães,409,Brazil,25,FirstHalf,Pass,Successful,39.2,55.6,45.1,88
+248,115097,Douglas Santos,409,Brazil,25,FirstHalf,Pass,Successful,45,88,59,96.7
+249,337782,Vinícius Júnior,409,Brazil,25,FirstHalf,Foul,Successful,59,94.8,,
+217,320834,Achraf Hakimi,495,Morocco,25,FirstHalf,Foul,Unsuccessful,41,5.2,,
+250,337782,Vinícius Júnior,409,Brazil,26,FirstHalf,Pass,Successful,52,90.4,44.6,88.5
+251,115097,Douglas Santos,409,Brazil,26,FirstHalf,Pass,Successful,44.6,88.5,47,88.5
+252,337782,Vinícius Júnior,409,Brazil,26,FirstHalf,Pass,Unsuccessful,53.8,75.9,79.2,0
+219,349932,Noussair Mazraoui,495,Morocco,26,FirstHalf,Pass,Successful,17.8,100,20.3,83.5
+220,504830,Ayyoub Bouaddi,495,Morocco,26,FirstHalf,BallTouch,Unsuccessful,20.3,83.5,,
+254,300447,Raphinha,409,Brazil,26,FirstHalf,BallRecovery,Successful,81.4,11.5,,
+255,300447,Raphinha,409,Brazil,26,FirstHalf,Pass,Unsuccessful,81.4,11.5,83.6,14.4
+222,504830,Ayyoub Bouaddi,495,Morocco,26,FirstHalf,Dispossessed,Successful,19,83.2,,
+256,338780,Bruno Guimarães,409,Brazil,26,FirstHalf,Tackle,Unsuccessful,81,16.8,,
+226,392361,Azzedine Ounahi,495,Morocco,26,FirstHalf,BallRecovery,Successful,30.3,87.3,,
+224,392361,Azzedine Ounahi,495,Morocco,26,FirstHalf,Pass,Successful,28.5,83,20.9,89.4
+225,349932,Noussair Mazraoui,495,Morocco,26,FirstHalf,Pass,Successful,20.9,89.4,34,82.8
+247,392361,Azzedine Ounahi,495,Morocco,26,FirstHalf,Dispossessed,Successful,29.5,90.2,,
+257,88526,Casemiro,409,Brazil,26,FirstHalf,Tackle,Unsuccessful,70.5,9.8,,
+258,88526,Casemiro,409,Brazil,26,FirstHalf,Challenge,Unsuccessful,69.4,24.2,,
+228,349932,Noussair Mazraoui,495,Morocco,26,FirstHalf,TakeOn,Successful,30.6,75.8,,
+227,349932,Noussair Mazraoui,495,Morocco,26,FirstHalf,Pass,Successful,28.6,83.4,34.7,65.4
+230,433572,Bilal El Khannouss,495,Morocco,26,FirstHalf,Pass,Successful,44.2,47.4,58.9,26.9
+231,320834,Achraf Hakimi,495,Morocco,26,FirstHalf,MissedShots,Successful,78.4,40.1,,
+260,334087,Gabriel Magalhães,409,Brazil,27,FirstHalf,Pass,Successful,4.6,58.5,4.8,47.1
+261,114147,Alisson Becker,409,Brazil,27,FirstHalf,Pass,Successful,5,46.9,33.8,6.7
+262,341525,Roger Ibañez,409,Brazil,27,FirstHalf,Pass,Successful,49.4,10.5,58.5,4.8
+263,300447,Raphinha,409,Brazil,27,FirstHalf,Pass,Successful,58.8,8.7,58,51
+264,88526,Casemiro,409,Brazil,27,FirstHalf,TakeOn,Unsuccessful,66.4,47.7,,
+234,504830,Ayyoub Bouaddi,495,Morocco,27,FirstHalf,Tackle,Successful,33.6,52.3,,
+235,392361,Azzedine Ounahi,495,Morocco,27,FirstHalf,BallRecovery,Successful,34.2,60.8,,
+236,392361,Azzedine Ounahi,495,Morocco,27,FirstHalf,Pass,Successful,33.8,67.2,27.7,76.1
+237,349932,Noussair Mazraoui,495,Morocco,27,FirstHalf,Pass,Successful,36.8,64,45.3,46.1
+238,317541,Brahim Díaz,495,Morocco,27,FirstHalf,Pass,Successful,74,25.4,83.2,7.6
+239,320834,Achraf Hakimi,495,Morocco,27,FirstHalf,Pass,Successful,85.2,7.1,76.2,18.8
+240,317541,Brahim Díaz,495,Morocco,27,FirstHalf,Pass,Successful,76.2,19.7,80,5.2
+241,320834,Achraf Hakimi,495,Morocco,27,FirstHalf,Pass,Successful,78.8,14.1,74,27.9
+242,392361,Azzedine Ounahi,495,Morocco,27,FirstHalf,Pass,Successful,74,27.9,70.1,7.2
+243,504830,Ayyoub Bouaddi,495,Morocco,27,FirstHalf,TakeOn,Unsuccessful,80.6,9.3,,
+265,115097,Douglas Santos,409,Brazil,27,FirstHalf,Tackle,Successful,19.3,90.8,,
+245,320834,Achraf Hakimi,495,Morocco,28,FirstHalf,Pass,Successful,86.6,0,85.8,12.8
+246,317541,Brahim Díaz,495,Morocco,28,FirstHalf,Foul,Successful,86.8,10.8,,
+267,319756,Lucas Paquetá,409,Brazil,28,FirstHalf,Foul,Unsuccessful,13.2,89.2,,
+248,320834,Achraf Hakimi,495,Morocco,28,FirstHalf,Pass,Successful,90.7,6.8,93.9,41.2
+249,486734,Neil El Aynaoui,495,Morocco,28,FirstHalf,MissedShots,Successful,93.9,41.2,,
+268,334087,Gabriel Magalhães,409,Brazil,28,FirstHalf,Clearance,Successful,1.7,45,10.5,15.4
+250,404776,Ismael Saibari,495,Morocco,28,FirstHalf,Pass,Successful,91.3,91.9,91.7,69.7
+251,317541,Brahim Díaz,495,Morocco,29,FirstHalf,Pass,Successful,89.1,71.6,96.4,68.4
+252,404776,Ismael Saibari,495,Morocco,29,FirstHalf,SavedShot,Successful,91.1,61.1,,
+270,101949,Marquinhos,409,Brazil,29,FirstHalf,Save,Successful,7.7,37.9,,
+271,319756,Lucas Paquetá,409,Brazil,29,FirstHalf,Pass,Unsuccessful,20.4,35.1,14.2,34.8
+304,319756,Lucas Paquetá,409,Brazil,29,FirstHalf,Error,Successful,27.3,36.7,,
+253,317541,Brahim Díaz,495,Morocco,29,FirstHalf,SavedShot,Successful,83.2,61.2,,
+272,114147,Alisson Becker,409,Brazil,29,FirstHalf,Save,Successful,4.9,49.6,,
+273,114147,Alisson Becker,409,Brazil,29,FirstHalf,KeeperPickup,Successful,4.9,49.6,,
+274,114147,Alisson Becker,409,Brazil,29,FirstHalf,Pass,Successful,10.9,44.7,27,40.5
+275,319756,Lucas Paquetá,409,Brazil,29,FirstHalf,Pass,Unsuccessful,26.4,41.1,35.6,19.8
+254,433572,Bilal El Khannouss,495,Morocco,29,FirstHalf,BallRecovery,Successful,66.7,87,,
+255,433572,Bilal El Khannouss,495,Morocco,29,FirstHalf,Pass,Successful,73.2,94.1,32.5,76.5
+256,454342,Chadi Riad,495,Morocco,29,FirstHalf,Pass,Successful,32.4,76.3,8.2,53.9
+257,136220,Yassine Bounou,495,Morocco,29,FirstHalf,Pass,Unsuccessful,8.2,53.9,60.8,65
+277,101949,Marquinhos,409,Brazil,29,FirstHalf,Pass,Unsuccessful,44.8,36.3,59.8,41.1
+258,320834,Achraf Hakimi,495,Morocco,29,FirstHalf,Pass,Successful,41.3,68.7,45,87.7
+259,433572,Bilal El Khannouss,495,Morocco,29,FirstHalf,Pass,Unsuccessful,44.6,72.2,57.6,74.6
+282,88526,Casemiro,409,Brazil,29,FirstHalf,BallTouch,Successful,44.2,26.1,,
+260,392361,Azzedine Ounahi,495,Morocco,29,FirstHalf,Pass,Successful,63.3,75.3,66.8,51.8
+261,317541,Brahim Díaz,495,Morocco,29,FirstHalf,TakeOn,Unsuccessful,85.2,34,,
+279,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Tackle,Unsuccessful,14.8,66,,
+262,392361,Azzedine Ounahi,495,Morocco,29,FirstHalf,Pass,Successful,78.8,43.4,72,25.2
+263,504830,Ayyoub Bouaddi,495,Morocco,29,FirstHalf,Pass,Successful,71.4,26.4,70.2,41.2
+264,486734,Neil El Aynaoui,495,Morocco,29,FirstHalf,Pass,Successful,70.2,41.2,68.5,22.5
+265,504830,Ayyoub Bouaddi,495,Morocco,29,FirstHalf,Pass,Successful,68.5,22.5,74.3,6.6
+266,404776,Ismael Saibari,495,Morocco,29,FirstHalf,Pass,Successful,74.3,6.6,87.5,10.3
+267,392361,Azzedine Ounahi,495,Morocco,29,FirstHalf,Pass,Unsuccessful,90,10.9,89.9,41
+280,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Clearance,Successful,9.2,56.1,21.9,55.8
+467,334087,Gabriel Magalhães,409,Brazil,30,FirstHalf,Error,Successful,7.3,53.8,,
+268,320834,Achraf Hakimi,495,Morocco,30,FirstHalf,MissedShots,Successful,81.4,51.8,,
+283,334087,Gabriel Magalhães,409,Brazil,30,FirstHalf,Pass,Successful,2.9,58.3,4.4,44.2
+284,114147,Alisson Becker,409,Brazil,30,FirstHalf,Pass,Unsuccessful,10.4,39.3,66.9,23.2
+270,454342,Chadi Riad,495,Morocco,30,FirstHalf,Pass,Successful,35.3,79,47,82
+271,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,BallRecovery,Successful,49.7,82.7,,
+272,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,64,86.7,69.5,93.9
+285,300447,Raphinha,409,Brazil,30,FirstHalf,Challenge,Unsuccessful,37.4,10.4,,
+273,392361,Azzedine Ounahi,495,Morocco,30,FirstHalf,TakeOn,Successful,62.6,89.6,,
+286,300447,Raphinha,409,Brazil,30,FirstHalf,Challenge,Unsuccessful,33,10,,
+274,392361,Azzedine Ounahi,495,Morocco,30,FirstHalf,TakeOn,Successful,67,90,,
+275,392361,Azzedine Ounahi,495,Morocco,30,FirstHalf,Pass,Successful,69.9,88.7,59.6,87.7
+276,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,59.9,86,46.5,64.5
+277,486734,Neil El Aynaoui,495,Morocco,30,FirstHalf,Pass,Successful,45.7,57.5,54.3,13.8
+278,320834,Achraf Hakimi,495,Morocco,30,FirstHalf,Pass,Successful,57.4,10.8,61.2,3.5
+279,317541,Brahim Díaz,495,Morocco,30,FirstHalf,Pass,Successful,58.9,12.1,36.7,29.6
+280,300359,Issa Diop,495,Morocco,30,FirstHalf,Pass,Successful,36,30.1,15.5,53.3
+281,136220,Yassine Bounou,495,Morocco,31,FirstHalf,Pass,Unsuccessful,17.9,50.8,65.7,10.8
+287,115097,Douglas Santos,409,Brazil,31,FirstHalf,Pass,Successful,28.3,79.6,56.3,83.4
+288,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,BallRecovery,Successful,58.2,84.4,,
+289,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,Pass,Successful,58.2,84.4,71.6,87.3
+290,337782,Vinícius Júnior,409,Brazil,31,FirstHalf,Pass,Successful,84.4,78,78.9,64.8
+291,338780,Bruno Guimarães,409,Brazil,31,FirstHalf,Pass,Successful,81.6,67,92.7,80.2
+292,337782,Vinícius Júnior,409,Brazil,31,FirstHalf,Goal,Successful,92.3,66.4,,
+284,392361,Azzedine Ounahi,495,Morocco,32,FirstHalf,Pass,Unsuccessful,50.1,49.5,80.1,100
+374,341525,Roger Ibañez,409,Brazil,32,FirstHalf,Pass,Successful,14.9,0,8.7,38.5
+293,114147,Alisson Becker,409,Brazil,32,FirstHalf,Pass,Successful,9.5,47.9,23.2,69.3
+294,334087,Gabriel Magalhães,409,Brazil,32,FirstHalf,Pass,Successful,24.1,66,35.7,52.8
+295,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,Pass,Successful,37.4,50.5,37,59.7
+296,88526,Casemiro,409,Brazil,33,FirstHalf,Pass,Successful,37.1,59.4,27.2,35.4
+297,101949,Marquinhos,409,Brazil,33,FirstHalf,Pass,Successful,27.8,35.4,28.5,67.3
+298,334087,Gabriel Magalhães,409,Brazil,33,FirstHalf,Pass,Successful,31.2,67.6,51.3,94.2
+299,337782,Vinícius Júnior,409,Brazil,33,FirstHalf,Pass,Successful,51.8,93.7,44.8,81.7
+300,319756,Lucas Paquetá,409,Brazil,33,FirstHalf,Pass,Unsuccessful,45.2,81.6,72.2,79.5
+285,300359,Issa Diop,495,Morocco,33,FirstHalf,Pass,Unsuccessful,28.6,22.7,70.5,31.9
+301,334087,Gabriel Magalhães,409,Brazil,33,FirstHalf,Pass,Unsuccessful,31.2,62.4,46.9,68.2
+286,486734,Neil El Aynaoui,495,Morocco,33,FirstHalf,Pass,Successful,53.3,25.1,58.1,50.3
+287,392361,Azzedine Ounahi,495,Morocco,33,FirstHalf,BallRecovery,Successful,58.1,50.3,,
+288,392361,Azzedine Ounahi,495,Morocco,33,FirstHalf,Pass,Successful,65.7,38.8,76.1,26.6
+289,404776,Ismael Saibari,495,Morocco,33,FirstHalf,Pass,Successful,76.1,26.6,73.3,5.6
+290,317541,Brahim Díaz,495,Morocco,33,FirstHalf,Pass,Successful,81.4,9.3,79.8,24
+291,404776,Ismael Saibari,495,Morocco,33,FirstHalf,Pass,Successful,79.8,24,73.6,8.2
+292,320834,Achraf Hakimi,495,Morocco,33,FirstHalf,Foul,Successful,73,10.2,,
+302,337782,Vinícius Júnior,409,Brazil,33,FirstHalf,Foul,Unsuccessful,27,89.8,,
+294,320834,Achraf Hakimi,495,Morocco,34,FirstHalf,Pass,Unsuccessful,69.9,13.5,88.5,44.4
+305,88526,Casemiro,409,Brazil,34,FirstHalf,Clearance,Successful,11.4,55.6,33.2,34.8
+295,433572,Bilal El Khannouss,495,Morocco,34,FirstHalf,Pass,Successful,72.7,67.1,76.8,78.3
+296,317541,Brahim Díaz,495,Morocco,34,FirstHalf,Pass,Unsuccessful,76.2,77.6,91.3,44.4
+306,114147,Alisson Becker,409,Brazil,34,FirstHalf,Punch,Unsuccessful,8.7,55.6,36.8,75.3
+297,320834,Achraf Hakimi,495,Morocco,34,FirstHalf,Pass,Successful,73.3,26.2,51.5,43.7
+298,349932,Noussair Mazraoui,495,Morocco,34,FirstHalf,Pass,Successful,47.6,47.7,15.1,45.7
+299,136220,Yassine Bounou,495,Morocco,34,FirstHalf,Pass,Unsuccessful,16.4,38,87.3,42.2
+307,114147,Alisson Becker,409,Brazil,34,FirstHalf,KeeperPickup,Successful,14.3,61.9,,
+308,114147,Alisson Becker,409,Brazil,34,FirstHalf,Pass,Successful,14.4,61.9,33.2,92.8
+309,115097,Douglas Santos,409,Brazil,35,FirstHalf,Pass,Successful,33.6,92.5,43.8,87.3
+310,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,Pass,Successful,47,87.9,58,96
+311,337782,Vinícius Júnior,409,Brazil,35,FirstHalf,TakeOn,Unsuccessful,60.4,96.3,,
+300,320834,Achraf Hakimi,495,Morocco,35,FirstHalf,Tackle,Successful,39.6,3.8,,
+313,337782,Vinícius Júnior,409,Brazil,35,FirstHalf,Pass,Successful,57.8,100,39.3,81.6
+315,88526,Casemiro,409,Brazil,35,FirstHalf,Pass,Successful,37.5,75.6,41,94.6
+316,115097,Douglas Santos,409,Brazil,35,FirstHalf,Pass,Successful,38.5,87.4,34,55
+317,334087,Gabriel Magalhães,409,Brazil,35,FirstHalf,Pass,Successful,34.1,55.5,38.5,33.9
+318,101949,Marquinhos,409,Brazil,35,FirstHalf,Pass,Successful,38.4,34.2,66.2,4.8
+319,341525,Roger Ibañez,409,Brazil,35,FirstHalf,Pass,Successful,64.5,4.8,40.5,27.9
+320,101949,Marquinhos,409,Brazil,35,FirstHalf,Pass,Successful,40.7,27.9,52.1,7.3
+302,317541,Brahim Díaz,495,Morocco,35,FirstHalf,Challenge,Unsuccessful,54.9,92.4,,
+321,341525,Roger Ibañez,409,Brazil,35,FirstHalf,TakeOn,Successful,45.1,7.6,,
+322,341525,Roger Ibañez,409,Brazil,35,FirstHalf,Pass,Successful,38.3,7.2,20,37.8
+323,114147,Alisson Becker,409,Brazil,35,FirstHalf,Pass,Successful,20.6,37.5,27.6,56.1
+324,334087,Gabriel Magalhães,409,Brazil,35,FirstHalf,Pass,Successful,33.8,53.1,40.7,46.8
+325,338780,Bruno Guimarães,409,Brazil,35,FirstHalf,Pass,Unsuccessful,43.6,45.1,77.1,0
+304,349932,Noussair Mazraoui,495,Morocco,35,FirstHalf,Pass,Successful,25.4,100,20.3,87.7
+305,454342,Chadi Riad,495,Morocco,35,FirstHalf,Pass,Unsuccessful,20.3,87.9,61.8,79.7
+327,101949,Marquinhos,409,Brazil,36,FirstHalf,Pass,Unsuccessful,32.4,22.3,46.4,3.4
+306,433572,Bilal El Khannouss,495,Morocco,36,FirstHalf,BallTouch,Unsuccessful,54.2,94.8,,
+329,341525,Roger Ibañez,409,Brazil,36,FirstHalf,Pass,Successful,50.3,0,52.6,14.7
+330,338780,Bruno Guimarães,409,Brazil,36,FirstHalf,Pass,Successful,53,14.4,55,6
+331,341525,Roger Ibañez,409,Brazil,36,FirstHalf,Pass,Successful,55,5.8,44,7.8
+332,300447,Raphinha,409,Brazil,36,FirstHalf,TakeOn,Unsuccessful,41.8,9.1,,
+308,404776,Ismael Saibari,495,Morocco,36,FirstHalf,Tackle,Unsuccessful,58.2,91,,
+333,300447,Raphinha,409,Brazil,36,FirstHalf,BallTouch,Successful,45.7,8.4,,
+309,404776,Ismael Saibari,495,Morocco,36,FirstHalf,Pass,Successful,61.8,88.6,46.5,81.5
+310,433572,Bilal El Khannouss,495,Morocco,36,FirstHalf,BallRecovery,Successful,46.4,81.5,,
+311,433572,Bilal El Khannouss,495,Morocco,36,FirstHalf,Pass,Successful,46.4,81.5,61.1,75.6
+312,392361,Azzedine Ounahi,495,Morocco,36,FirstHalf,Pass,Successful,58.6,81.2,59.2,93.6
+313,404776,Ismael Saibari,495,Morocco,36,FirstHalf,Pass,Successful,59.3,94.1,56,76.5
+314,504830,Ayyoub Bouaddi,495,Morocco,36,FirstHalf,Pass,Successful,56.3,76.6,43.1,60
+315,486734,Neil El Aynaoui,495,Morocco,36,FirstHalf,Pass,Successful,44.9,52.8,38.3,28.9
+316,300359,Issa Diop,495,Morocco,36,FirstHalf,Pass,Successful,38.5,28.2,48.3,3.4
+317,320834,Achraf Hakimi,495,Morocco,36,FirstHalf,Pass,Successful,48.3,3.4,57.9,18.5
+318,317541,Brahim Díaz,495,Morocco,36,FirstHalf,BallTouch,Successful,58,18.5,,
+319,486734,Neil El Aynaoui,495,Morocco,36,FirstHalf,Foul,Successful,67.4,26,,
+334,88526,Casemiro,409,Brazil,36,FirstHalf,Foul,Unsuccessful,32.6,74,,
+335,88526,Casemiro,409,Brazil,36,FirstHalf,Card,Successful,0,0,,
+320,320834,Achraf Hakimi,495,Morocco,37,FirstHalf,Pass,Successful,64.2,22.7,76.9,4.2
+321,317541,Brahim Díaz,495,Morocco,37,FirstHalf,BallTouch,Unsuccessful,97,6.1,,
+338,334087,Gabriel Magalhães,409,Brazil,38,FirstHalf,Pass,Successful,5.3,62,4,49.7
+434,114147,Alisson Becker,409,Brazil,38,FirstHalf,Pass,Successful,4.7,49.1,14.7,50.3
+435,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,Pass,Successful,14.7,50.3,2.8,59.7
+339,334087,Gabriel Magalhães,409,Brazil,38,FirstHalf,Pass,Successful,9.3,73.8,22.5,97.2
+340,115097,Douglas Santos,409,Brazil,38,FirstHalf,Pass,Successful,23,95.8,36,91.6
+341,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,Pass,Successful,35.9,91.6,59.9,81.6
+342,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Foul,Successful,62.2,83.4,,
+323,486734,Neil El Aynaoui,495,Morocco,38,FirstHalf,Foul,Unsuccessful,37.8,16.6,,
+343,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,Pass,Successful,59.7,87.1,56.4,86.2
+344,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Pass,Successful,56.7,86.1,67.8,96.1
+345,337782,Vinícius Júnior,409,Brazil,38,FirstHalf,Pass,Successful,68.5,95.8,64.2,87.3
+346,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Pass,Successful,66.1,83.8,69,69.3
+347,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,Pass,Successful,69.1,69.3,58.2,74.4
+348,88526,Casemiro,409,Brazil,38,FirstHalf,Pass,Successful,61.6,64,63.2,34.5
+349,101949,Marquinhos,409,Brazil,38,FirstHalf,Pass,Successful,61.8,33.1,81.7,7.2
+350,300447,Raphinha,409,Brazil,38,FirstHalf,TakeOn,Unsuccessful,82.9,9.2,,
+324,349932,Noussair Mazraoui,495,Morocco,38,FirstHalf,Tackle,Successful,17.1,90.8,,
+325,349932,Noussair Mazraoui,495,Morocco,38,FirstHalf,Pass,Unsuccessful,2.1,78.8,36.7,39.2
+351,88526,Casemiro,409,Brazil,38,FirstHalf,Pass,Successful,70,47.5,73.6,54.6
+352,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Pass,Successful,73.7,54.6,74.5,41.7
+353,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,BallTouch,Unsuccessful,74.6,41.7,,
+326,504830,Ayyoub Bouaddi,495,Morocco,38,FirstHalf,Pass,Successful,24.9,55.6,30,63.9
+327,392361,Azzedine Ounahi,495,Morocco,38,FirstHalf,TakeOn,Unsuccessful,28.5,62,,
+354,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Tackle,Unsuccessful,71.4,38,,
+328,392361,Azzedine Ounahi,495,Morocco,38,FirstHalf,BallTouch,Successful,30,64,,
+329,504830,Ayyoub Bouaddi,495,Morocco,38,FirstHalf,TakeOn,Unsuccessful,29.4,64,,
+355,319756,Lucas Paquetá,409,Brazil,38,FirstHalf,Tackle,Unsuccessful,70.6,36,,
+330,504830,Ayyoub Bouaddi,495,Morocco,38,FirstHalf,Pass,Successful,29.8,67.4,31.5,84.9
+331,433572,Bilal El Khannouss,495,Morocco,38,FirstHalf,BallRecovery,Successful,31.5,85,,
+332,433572,Bilal El Khannouss,495,Morocco,38,FirstHalf,Pass,Successful,31.5,85,41.6,84.9
+333,504830,Ayyoub Bouaddi,495,Morocco,39,FirstHalf,Pass,Unsuccessful,42.2,92.9,60.1,72.6
+356,334087,Gabriel Magalhães,409,Brazil,39,FirstHalf,BallRecovery,Successful,39.9,36,,
+357,334087,Gabriel Magalhães,409,Brazil,39,FirstHalf,Pass,Successful,39.9,34.6,46.6,55.3
+358,88526,Casemiro,409,Brazil,39,FirstHalf,Pass,Successful,55.7,50.4,62.5,67
+359,337782,Vinícius Júnior,409,Brazil,39,FirstHalf,Pass,Unsuccessful,64.6,71.5,62.7,74.1
+334,317541,Brahim Díaz,495,Morocco,39,FirstHalf,BlockedPass,Successful,37.3,25.9,,
+361,115097,Douglas Santos,409,Brazil,39,FirstHalf,Pass,Successful,67.9,100,58.7,85.8
+362,337782,Vinícius Júnior,409,Brazil,39,FirstHalf,Pass,Successful,61.2,77.1,64.4,67.5
+363,319756,Lucas Paquetá,409,Brazil,39,FirstHalf,Pass,Successful,64.4,67.5,59.7,67.3
+364,337782,Vinícius Júnior,409,Brazil,39,FirstHalf,TakeOn,Unsuccessful,60.1,66.9,,
+336,454342,Chadi Riad,495,Morocco,39,FirstHalf,Pass,Successful,26.1,43,27.5,42.5
+365,486734,Neil El Aynaoui,495,Morocco,39,FirstHalf,BallTouch,Successful,29,43.7,,
+337,504830,Ayyoub Bouaddi,495,Morocco,39,FirstHalf,Pass,Unsuccessful,33.8,34,34.6,51.6
+365,443784,Igor Thiago,409,Brazil,39,FirstHalf,Pass,Successful,68.1,43.8,64.2,30.1
+366,341525,Roger Ibañez,409,Brazil,39,FirstHalf,Pass,Successful,64.2,30.1,62.9,43.5
+367,338780,Bruno Guimarães,409,Brazil,39,FirstHalf,Pass,Successful,64.2,42.4,53.3,30.4
+368,101949,Marquinhos,409,Brazil,39,FirstHalf,Pass,Successful,54.7,30.9,64.7,9.1
+369,341525,Roger Ibañez,409,Brazil,39,FirstHalf,Pass,Successful,64.7,9.1,70.4,23.8
+370,443784,Igor Thiago,409,Brazil,39,FirstHalf,BallTouch,Unsuccessful,70.7,23.5,,
+371,443784,Igor Thiago,409,Brazil,39,FirstHalf,Challenge,Unsuccessful,72.4,19.2,,
+338,454342,Chadi Riad,495,Morocco,39,FirstHalf,TakeOn,Successful,27.6,80.8,,
+339,454342,Chadi Riad,495,Morocco,39,FirstHalf,BallRecovery,Successful,25.6,85,,
+340,454342,Chadi Riad,495,Morocco,39,FirstHalf,Pass,Successful,25.6,85,35.1,74.8
+341,392361,Azzedine Ounahi,495,Morocco,39,FirstHalf,BallTouch,Unsuccessful,35.1,74.8,,
+372,338780,Bruno Guimarães,409,Brazil,39,FirstHalf,BallRecovery,Successful,60.6,33.7,,
+373,338780,Bruno Guimarães,409,Brazil,39,FirstHalf,Pass,Successful,59.5,35.1,41,31.3
+375,101949,Marquinhos,409,Brazil,39,FirstHalf,Pass,Successful,42.3,31.5,42.4,74.4
+376,115097,Douglas Santos,409,Brazil,39,FirstHalf,Pass,Successful,55.3,85.8,46.5,56.1
+377,334087,Gabriel Magalhães,409,Brazil,39,FirstHalf,Pass,Successful,52.9,53.8,53,32.8
+378,101949,Marquinhos,409,Brazil,39,FirstHalf,Pass,Successful,54.1,32.7,61.5,19.3
+379,338780,Bruno Guimarães,409,Brazil,40,FirstHalf,Pass,Successful,61.7,19.2,52.9,43.9
+380,88526,Casemiro,409,Brazil,40,FirstHalf,Pass,Unsuccessful,54.3,40.8,96,33.6
+342,136220,Yassine Bounou,495,Morocco,40,FirstHalf,KeeperPickup,Successful,5.9,65.4,,
+343,136220,Yassine Bounou,495,Morocco,40,FirstHalf,Pass,Successful,6.9,57.5,9.7,35.1
+344,300359,Issa Diop,495,Morocco,40,FirstHalf,Pass,Unsuccessful,11.1,33.5,59.9,28.7
+381,334087,Gabriel Magalhães,409,Brazil,40,FirstHalf,Pass,Successful,38.7,68.8,43,77.8
+382,115097,Douglas Santos,409,Brazil,40,FirstHalf,BallRecovery,Successful,43.1,76.3,,
+383,115097,Douglas Santos,409,Brazil,40,FirstHalf,Pass,Successful,43.1,76.3,46.3,62.4
+384,88526,Casemiro,409,Brazil,40,FirstHalf,Pass,Successful,55.6,63,68.1,93.4
+385,337782,Vinícius Júnior,409,Brazil,40,FirstHalf,TakeOn,Unsuccessful,70.7,92.2,,
+345,320834,Achraf Hakimi,495,Morocco,40,FirstHalf,Tackle,Successful,29.2,7.8,,
+387,115097,Douglas Santos,409,Brazil,40,FirstHalf,Pass,Successful,70.3,100,67.4,89.4
+388,319756,Lucas Paquetá,409,Brazil,40,FirstHalf,Pass,Unsuccessful,70.2,78.3,88,0
+348,349932,Noussair Mazraoui,495,Morocco,41,FirstHalf,Pass,Unsuccessful,11.5,100,34,89.4
+390,88526,Casemiro,409,Brazil,41,FirstHalf,Interception,Successful,66,10.6,,
+462,300447,Raphinha,409,Brazil,41,FirstHalf,BallRecovery,Successful,72.6,11.8,,
+391,300447,Raphinha,409,Brazil,41,FirstHalf,Pass,Unsuccessful,64.8,9.6,56.4,14.5
+349,392361,Azzedine Ounahi,495,Morocco,41,FirstHalf,BallRecovery,Successful,31.3,90.6,,
+350,392361,Azzedine Ounahi,495,Morocco,41,FirstHalf,Pass,Successful,31.3,90.6,38.7,71.1
+351,433572,Bilal El Khannouss,495,Morocco,41,FirstHalf,BallTouch,Unsuccessful,30.9,46.6,,
+392,337782,Vinícius Júnior,409,Brazil,41,FirstHalf,TakeOn,Unsuccessful,65.9,60.2,,
+352,433572,Bilal El Khannouss,495,Morocco,41,FirstHalf,Tackle,Successful,34.1,39.8,,
+353,433572,Bilal El Khannouss,495,Morocco,41,FirstHalf,Pass,Successful,31.5,39,44,37.8
+354,317541,Brahim Díaz,495,Morocco,41,FirstHalf,Pass,Successful,75.4,32.1,81.5,8.1
+355,320834,Achraf Hakimi,495,Morocco,41,FirstHalf,Pass,Unsuccessful,86.6,13.1,86.3,45.9
+394,88526,Casemiro,409,Brazil,41,FirstHalf,Aerial,Successful,13.7,54.1,,
+356,486734,Neil El Aynaoui,495,Morocco,41,FirstHalf,Aerial,Unsuccessful,86.3,45.9,,
+395,88526,Casemiro,409,Brazil,41,FirstHalf,Clearance,Successful,13.7,54.1,16.1,55.5
+396,319756,Lucas Paquetá,409,Brazil,41,FirstHalf,Clearance,Successful,16.1,55.3,29.2,72
+357,320834,Achraf Hakimi,495,Morocco,41,FirstHalf,Dispossessed,Successful,72.6,32,,
+397,443784,Igor Thiago,409,Brazil,41,FirstHalf,Tackle,Successful,27.4,68,,
+398,319756,Lucas Paquetá,409,Brazil,41,FirstHalf,BallRecovery,Successful,25.3,64.9,,
+399,319756,Lucas Paquetá,409,Brazil,41,FirstHalf,Foul,Successful,25.7,66,,
+358,486734,Neil El Aynaoui,495,Morocco,41,FirstHalf,Foul,Unsuccessful,74.3,34,,
+400,334087,Gabriel Magalhães,409,Brazil,41,FirstHalf,Pass,Successful,29.8,67,31.2,50.2
+401,88526,Casemiro,409,Brazil,41,FirstHalf,Pass,Successful,32.8,49.8,33.4,26.7
+402,101949,Marquinhos,409,Brazil,41,FirstHalf,Pass,Successful,33.5,26.5,50.3,3.6
+403,300447,Raphinha,409,Brazil,41,FirstHalf,Pass,Successful,48.5,6,34,32.4
+404,101949,Marquinhos,409,Brazil,41,FirstHalf,Pass,Successful,35.1,32.4,34.8,60.1
+405,334087,Gabriel Magalhães,409,Brazil,41,FirstHalf,Pass,Successful,36.3,62.1,39.8,84.7
+406,115097,Douglas Santos,409,Brazil,42,FirstHalf,Pass,Successful,40.6,85,55.6,96.1
+407,337782,Vinícius Júnior,409,Brazil,42,FirstHalf,Pass,Successful,53.5,94,40.6,68.7
+408,115097,Douglas Santos,409,Brazil,42,FirstHalf,Pass,Successful,42.6,70.3,40.1,48
+409,334087,Gabriel Magalhães,409,Brazil,42,FirstHalf,Pass,Successful,51.8,47.1,48.3,24
+410,101949,Marquinhos,409,Brazil,42,FirstHalf,Pass,Successful,48.3,24,59.7,5.5
+411,341525,Roger Ibañez,409,Brazil,42,FirstHalf,Pass,Successful,59.7,5.5,70.5,6.9
+412,300447,Raphinha,409,Brazil,42,FirstHalf,Pass,Successful,70.5,6.9,62.6,13.8
+413,341525,Roger Ibañez,409,Brazil,42,FirstHalf,Pass,Successful,63,13.6,91.1,6.3
+414,338780,Bruno Guimarães,409,Brazil,42,FirstHalf,Pass,Unsuccessful,92.1,6,91.4,9.6
+359,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,Clearance,Successful,8.6,90.4,,
+360,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,Challenge,Unsuccessful,8.2,91.8,,
+415,338780,Bruno Guimarães,409,Brazil,42,FirstHalf,TakeOn,Successful,91.8,8.2,,
+416,338780,Bruno Guimarães,409,Brazil,42,FirstHalf,Dispossessed,Successful,92.4,10.1,,
+361,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,Tackle,Unsuccessful,7.5,89.8,,
+417,338780,Bruno Guimarães,409,Brazil,42,FirstHalf,Pass,Unsuccessful,94.3,7.4,93.3,10.3
+419,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,BallTouch,Successful,5.1,88.5,,
+362,504830,Ayyoub Bouaddi,495,Morocco,42,FirstHalf,BallRecovery,Successful,8.4,70.2,,
+363,504830,Ayyoub Bouaddi,495,Morocco,42,FirstHalf,Pass,Unsuccessful,13.7,72.8,21.2,89.9
+418,341525,Roger Ibañez,409,Brazil,42,FirstHalf,BallTouch,Unsuccessful,76,16.5,,
+364,317541,Brahim Díaz,495,Morocco,42,FirstHalf,Foul,Successful,36.4,62.6,,
+419,341525,Roger Ibañez,409,Brazil,42,FirstHalf,Foul,Unsuccessful,63.6,37.4,,
+420,341525,Roger Ibañez,409,Brazil,42,FirstHalf,Card,Successful,0,0,,
+366,486734,Neil El Aynaoui,495,Morocco,43,FirstHalf,Pass,Successful,40.1,57.5,28.8,51.4
+367,504830,Ayyoub Bouaddi,495,Morocco,43,FirstHalf,Pass,Successful,29.1,47.6,31.2,19.8
+368,300359,Issa Diop,495,Morocco,43,FirstHalf,Pass,Successful,32.5,16.8,39,3.4
+369,320834,Achraf Hakimi,495,Morocco,43,FirstHalf,Pass,Successful,38.9,5.1,44.1,24.2
+370,486734,Neil El Aynaoui,495,Morocco,43,FirstHalf,Dispossessed,Successful,59.2,16.5,,
+422,443784,Igor Thiago,409,Brazil,43,FirstHalf,Tackle,Unsuccessful,40.8,83.5,,
+404,486734,Neil El Aynaoui,495,Morocco,43,FirstHalf,BallTouch,Unsuccessful,54.2,9.4,,
+423,88526,Casemiro,409,Brazil,43,FirstHalf,BallRecovery,Successful,50.8,87.3,,
+424,88526,Casemiro,409,Brazil,43,FirstHalf,Pass,Successful,50.8,87.3,59.5,68.4
+425,338780,Bruno Guimarães,409,Brazil,43,FirstHalf,Pass,Successful,68.7,69.1,71.9,92.5
+426,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,71.4,94.5,63.8,87.9
+427,115097,Douglas Santos,409,Brazil,43,FirstHalf,Pass,Successful,63.4,87.4,62.9,65.2
+428,337782,Vinícius Júnior,409,Brazil,43,FirstHalf,Pass,Unsuccessful,65.6,60,77.9,49.9
+416,504830,Ayyoub Bouaddi,495,Morocco,43,FirstHalf,Pass,Successful,23.3,37.3,33.4,33.3
+371,392361,Azzedine Ounahi,495,Morocco,43,FirstHalf,BallRecovery,Successful,31.9,43.9,,
+372,392361,Azzedine Ounahi,495,Morocco,43,FirstHalf,Pass,Successful,31.9,43.9,35.5,29.3
+429,88526,Casemiro,409,Brazil,43,FirstHalf,Challenge,Unsuccessful,59.7,77.2,,
+373,317541,Brahim Díaz,495,Morocco,43,FirstHalf,TakeOn,Successful,40.3,22.8,,
+374,317541,Brahim Díaz,495,Morocco,44,FirstHalf,BallTouch,Unsuccessful,37.5,16.3,,
+430,88526,Casemiro,409,Brazil,44,FirstHalf,BallRecovery,Successful,59.1,74.7,,
+431,88526,Casemiro,409,Brazil,44,FirstHalf,Pass,Successful,59.1,74.7,53.2,55.3
+432,338780,Bruno Guimarães,409,Brazil,44,FirstHalf,Pass,Successful,53.6,55.6,65.3,39.6
+433,300447,Raphinha,409,Brazil,44,FirstHalf,Foul,Successful,64.8,45.2,,
+375,433572,Bilal El Khannouss,495,Morocco,44,FirstHalf,Foul,Unsuccessful,35.2,54.8,,
+437,338780,Bruno Guimarães,409,Brazil,45,FirstHalf,Pass,Unsuccessful,64.1,46.2,89.9,69.9
+376,504830,Ayyoub Bouaddi,495,Morocco,45,FirstHalf,Clearance,Successful,15.5,32.6,29.1,6.2
+377,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,BallRecovery,Successful,29.1,6.2,,
+378,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,53.6,10.1,63.1,2.7
+379,320834,Achraf Hakimi,495,Morocco,45,FirstHalf,Pass,Successful,62.7,3.9,65.4,13.8
+380,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,65.7,13.6,68,19.7
+381,504830,Ayyoub Bouaddi,495,Morocco,45,FirstHalf,Pass,Successful,68.2,18.3,70.3,11.3
+382,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,70,12.6,68.5,24.7
+383,504830,Ayyoub Bouaddi,495,Morocco,45,FirstHalf,Pass,Successful,71.4,25.7,71.7,11.9
+384,320834,Achraf Hakimi,495,Morocco,45,FirstHalf,Pass,Successful,72.1,13.5,77.1,6.1
+385,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,77.1,5.6,74.4,16.1
+386,320834,Achraf Hakimi,495,Morocco,45,FirstHalf,Pass,Successful,74.4,14.6,68.7,5.6
+387,504830,Ayyoub Bouaddi,495,Morocco,45,FirstHalf,Pass,Successful,68.5,7.7,66.4,25.9
+388,486734,Neil El Aynaoui,495,Morocco,45,FirstHalf,Pass,Successful,66.4,25.9,65.4,6.6
+389,504830,Ayyoub Bouaddi,495,Morocco,45,FirstHalf,Pass,Successful,65.4,6.6,56.5,28.2
+390,300359,Issa Diop,495,Morocco,45,FirstHalf,Pass,Successful,55.6,28.7,59,38.2
+391,317541,Brahim Díaz,495,Morocco,45,FirstHalf,Pass,Successful,66.6,56.3,72.5,47.6
+392,404776,Ismael Saibari,495,Morocco,45,FirstHalf,Pass,Successful,72.5,47.6,62.4,44.5
+393,486734,Neil El Aynaoui,495,Morocco,45,FirstHalf,Pass,Successful,63.4,45.5,71.9,46.4
+394,404776,Ismael Saibari,495,Morocco,45,FirstHalf,Pass,Successful,71.9,46.4,59.6,26.6
+395,300359,Issa Diop,495,Morocco,45,FirstHalf,Pass,Successful,63,23.9,68.6,4
+396,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,68.8,4,73.5,16.3
+397,320834,Achraf Hakimi,495,Morocco,45,FirstHalf,Pass,Successful,73.5,16.3,68,5.6
+398,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Pass,Successful,68.7,7.9,44.7,18
+399,300359,Issa Diop,495,Morocco,45,FirstHalf,Pass,Successful,43.8,18.3,19.6,44.9
+400,136220,Yassine Bounou,495,Morocco,46,FirstHalf,Pass,Unsuccessful,20.6,50.9,57.8,14
+440,115097,Douglas Santos,409,Brazil,46,FirstHalf,BallRecovery,Successful,41.9,77.8,,
+441,115097,Douglas Santos,409,Brazil,46,FirstHalf,Pass,Successful,43,77.5,64.4,75.7
+401,320834,Achraf Hakimi,495,Morocco,46,FirstHalf,Challenge,Unsuccessful,37.2,20.2,,
+442,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,TakeOn,Successful,62.8,79.8,,
+443,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,Pass,Successful,63.7,78.7,62.1,87.3
+444,115097,Douglas Santos,409,Brazil,46,FirstHalf,Pass,Successful,62.1,87.3,62.2,81.3
+445,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,Pass,Successful,66.3,82.5,76.1,93.9
+446,115097,Douglas Santos,409,Brazil,46,FirstHalf,Pass,Successful,78.9,94.6,87.8,58.9
+447,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,SavedShot,Successful,87.8,58.9,,
+402,136220,Yassine Bounou,495,Morocco,46,FirstHalf,Save,Successful,2.1,48.5,,
+403,136220,Yassine Bounou,495,Morocco,46,FirstHalf,CornerAwarded,Unsuccessful,0,61.2,,
+448,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,CornerAwarded,Successful,100,38.8,,
+449,300447,Raphinha,409,Brazil,47,FirstHalf,Pass,Successful,99.5,0.5,95.1,39.9
+450,101949,Marquinhos,409,Brazil,47,FirstHalf,Aerial,Successful,95.1,39.9,,
+405,320834,Achraf Hakimi,495,Morocco,47,FirstHalf,Aerial,Unsuccessful,4.9,60.1,,
+451,101949,Marquinhos,409,Brazil,47,FirstHalf,MissedShots,Successful,95.1,39.9,,
+407,136220,Yassine Bounou,495,Morocco,47,FirstHalf,Pass,Unsuccessful,5,56.1,66.8,62.9
+453,88526,Casemiro,409,Brazil,47,FirstHalf,BallTouch,Unsuccessful,36.4,36.4,,
+409,392361,Azzedine Ounahi,495,Morocco,47,FirstHalf,Pass,Unsuccessful,65.8,72.3,89.1,91.4
+454,341525,Roger Ibañez,409,Brazil,47,FirstHalf,BallRecovery,Successful,13.4,14.2,,
+455,341525,Roger Ibañez,409,Brazil,47,FirstHalf,Pass,Unsuccessful,12.5,11.5,58.7,39.6
+410,300359,Issa Diop,495,Morocco,47,FirstHalf,Pass,Successful,41,63,63.5,70.1
+411,317541,Brahim Díaz,495,Morocco,47,FirstHalf,TakeOn,Unsuccessful,63.2,65.4,,
+456,338780,Bruno Guimarães,409,Brazil,47,FirstHalf,Tackle,Successful,36.8,34.6,,
+457,338780,Bruno Guimarães,409,Brazil,47,FirstHalf,Pass,Successful,37.2,42.9,36.5,53.7
+458,88526,Casemiro,409,Brazil,47,FirstHalf,Pass,Successful,36.6,53.5,48.9,82.8
+459,337782,Vinícius Júnior,409,Brazil,48,FirstHalf,TakeOn,Unsuccessful,72.8,73,,
+412,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,Tackle,Successful,27.2,27,,
+413,486734,Neil El Aynaoui,495,Morocco,48,FirstHalf,BallRecovery,Successful,25,30.9,,
+414,486734,Neil El Aynaoui,495,Morocco,48,FirstHalf,Pass,Successful,25,30.9,35.8,17
+415,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,Foul,Successful,37.2,14.6,,
+460,319756,Lucas Paquetá,409,Brazil,48,FirstHalf,Foul,Unsuccessful,62.8,85.4,,
+417,136220,Yassine Bounou,495,Morocco,48,FirstHalf,Pass,Unsuccessful,33.4,25.7,80,70.1
+463,300447,Raphinha,409,Brazil,48,FirstHalf,BallRecovery,Successful,22.3,26.5,,
+464,300447,Raphinha,409,Brazil,48,FirstHalf,Pass,Successful,15.8,30.4,4.5,54
+465,114147,Alisson Becker,409,Brazil,48,FirstHalf,Pass,Successful,5.8,52.6,18.3,84.9
+418,,,495,Morocco,49,FirstHalf,End,Successful,0,0,,
+466,,,409,Brazil,49,FirstHalf,End,Successful,0,0,,
+468,341525,Roger Ibañez,409,Brazil,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+469,88300,Danilo,409,Brazil,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+470,88526,Casemiro,409,Brazil,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+471,115916,Fabinho,409,Brazil,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+420,,,495,Morocco,45,SecondHalf,Start,Successful,0,0,,
+472,,,409,Brazil,45,SecondHalf,Start,Successful,0,0,,
+473,338780,Bruno Guimarães,409,Brazil,45,SecondHalf,Pass,Successful,50.1,49.6,30.4,39.1
+600,,,409,Brazil,45,SecondHalf,FormationChange,Successful,0,0,,
+474,114147,Alisson Becker,409,Brazil,45,SecondHalf,Pass,Unsuccessful,31.6,37.2,81.8,28.3
+421,454342,Chadi Riad,495,Morocco,45,SecondHalf,BallTouch,Unsuccessful,22.7,73.6,,
+475,338780,Bruno Guimarães,409,Brazil,45,SecondHalf,MissedShots,Successful,72.9,27,,
+422,349932,Noussair Mazraoui,495,Morocco,45,SecondHalf,Clearance,Successful,10.9,74.4,27.2,78.3
+476,338780,Bruno Guimarães,409,Brazil,45,SecondHalf,BallTouch,Unsuccessful,77.3,26.8,,
+423,486734,Neil El Aynaoui,495,Morocco,45,SecondHalf,Pass,Successful,22.7,68.6,29.5,76.3
+424,392361,Azzedine Ounahi,495,Morocco,45,SecondHalf,Pass,Successful,29.4,76.3,38.6,70.2
+425,404776,Ismael Saibari,495,Morocco,45,SecondHalf,Pass,Unsuccessful,38.3,70.2,35.4,72.1
+477,115916,Fabinho,409,Brazil,45,SecondHalf,BlockedPass,Successful,64.6,27.9,,
+426,404776,Ismael Saibari,495,Morocco,45,SecondHalf,BallTouch,Successful,38.7,68.6,,
+479,101949,Marquinhos,409,Brazil,45,SecondHalf,Pass,Successful,56.7,35.2,37.4,48.1
+478,334087,Gabriel Magalhães,409,Brazil,45,SecondHalf,BallRecovery,Successful,63.1,32.8,,
+480,334087,Gabriel Magalhães,409,Brazil,45,SecondHalf,Pass,Successful,37.5,48,40.6,27.4
+481,88300,Danilo,409,Brazil,45,SecondHalf,Pass,Successful,43,25.6,37.2,38.5
+509,101949,Marquinhos,409,Brazil,45,SecondHalf,Pass,Successful,41.2,32.8,39.2,59.1
+482,334087,Gabriel Magalhães,409,Brazil,45,SecondHalf,Pass,Successful,40.3,61.8,59.2,94.5
+483,337782,Vinícius Júnior,409,Brazil,45,SecondHalf,Pass,Successful,59.1,94.3,50.2,64
+484,334087,Gabriel Magalhães,409,Brazil,45,SecondHalf,Pass,Successful,48.2,63,46.6,41.1
+485,101949,Marquinhos,409,Brazil,45,SecondHalf,Pass,Successful,46.6,41.1,46.5,20.8
+486,88300,Danilo,409,Brazil,45,SecondHalf,Pass,Successful,46.4,20.8,64.1,5.2
+487,300447,Raphinha,409,Brazil,45,SecondHalf,Pass,Successful,64.1,5.2,63.4,15.9
+488,338780,Bruno Guimarães,409,Brazil,45,SecondHalf,Pass,Successful,63.2,16,46.6,4.6
+489,88300,Danilo,409,Brazil,45,SecondHalf,Pass,Successful,46.7,6,43.9,34
+490,101949,Marquinhos,409,Brazil,45,SecondHalf,Pass,Successful,43.8,34,44.3,82
+491,115097,Douglas Santos,409,Brazil,45,SecondHalf,Pass,Successful,44.5,81.7,62.8,92.1
+492,337782,Vinícius Júnior,409,Brazil,45,SecondHalf,Pass,Successful,62.7,92.2,67.3,83.4
+493,319756,Lucas Paquetá,409,Brazil,46,SecondHalf,Pass,Successful,67,83.2,57.2,92.2
+494,337782,Vinícius Júnior,409,Brazil,46,SecondHalf,Pass,Successful,57.2,92.2,46.5,38.7
+495,101949,Marquinhos,409,Brazil,46,SecondHalf,Pass,Successful,47.3,37.3,72.3,9.9
+496,300447,Raphinha,409,Brazil,46,SecondHalf,TakeOn,Unsuccessful,89.9,11.1,,
+427,349932,Noussair Mazraoui,495,Morocco,46,SecondHalf,Tackle,Successful,10.1,88.9,,
+497,300447,Raphinha,409,Brazil,46,SecondHalf,CornerAwarded,Successful,100,13.4,,
+428,349932,Noussair Mazraoui,495,Morocco,46,SecondHalf,CornerAwarded,Unsuccessful,0,86.6,,
+498,300447,Raphinha,409,Brazil,47,SecondHalf,Pass,Successful,99.5,0.5,96.7,40.1
+587,101949,Marquinhos,409,Brazil,47,SecondHalf,SavedShot,Successful,96.7,40.1,,
+444,392361,Azzedine Ounahi,495,Morocco,47,SecondHalf,Save,Successful,2,57,,
+430,392361,Azzedine Ounahi,495,Morocco,47,SecondHalf,CornerAwarded,Unsuccessful,0,64.2,,
+499,101949,Marquinhos,409,Brazil,47,SecondHalf,CornerAwarded,Successful,100,35.8,,
+500,300447,Raphinha,409,Brazil,47,SecondHalf,Pass,Unsuccessful,99.5,0.5,92.8,51.9
+431,320834,Achraf Hakimi,495,Morocco,47,SecondHalf,Clearance,Successful,8.6,59.3,12.2,9.8
+502,337782,Vinícius Júnior,409,Brazil,47,SecondHalf,TakeOn,Unsuccessful,87,87.6,,
+432,433572,Bilal El Khannouss,495,Morocco,47,SecondHalf,Tackle,Unsuccessful,13,12.3,,
+503,337782,Vinícius Júnior,409,Brazil,47,SecondHalf,BallTouch,Successful,86.2,87,,
+433,433572,Bilal El Khannouss,495,Morocco,47,SecondHalf,BallRecovery,Successful,11.8,10.9,,
+434,433572,Bilal El Khannouss,495,Morocco,47,SecondHalf,Pass,Successful,32.1,13.3,37.4,6.1
+435,317541,Brahim Díaz,495,Morocco,47,SecondHalf,Dispossessed,Successful,57,5.5,,
+504,115916,Fabinho,409,Brazil,47,SecondHalf,Tackle,Successful,43,94.5,,
+437,320834,Achraf Hakimi,495,Morocco,48,SecondHalf,Pass,Successful,53.6,0,47.4,13.3
+438,504830,Ayyoub Bouaddi,495,Morocco,48,SecondHalf,Pass,Successful,47.4,13.1,56.6,1.9
+439,320834,Achraf Hakimi,495,Morocco,48,SecondHalf,Pass,Successful,56.6,1.9,58,14
+440,504830,Ayyoub Bouaddi,495,Morocco,48,SecondHalf,Pass,Unsuccessful,59.8,9.4,61.8,13.3
+506,115916,Fabinho,409,Brazil,48,SecondHalf,BlockedPass,Successful,38.2,86.7,,
+441,320834,Achraf Hakimi,495,Morocco,48,SecondHalf,Pass,Successful,47.2,17.7,28.8,20.8
+442,300359,Issa Diop,495,Morocco,48,SecondHalf,Pass,Successful,28.8,20.8,14.2,41.5
+443,136220,Yassine Bounou,495,Morocco,48,SecondHalf,Pass,Successful,14.2,41.5,16.9,16.3
+445,300359,Issa Diop,495,Morocco,48,SecondHalf,Pass,Successful,16.1,15.8,27.3,5.4
+447,320834,Achraf Hakimi,495,Morocco,48,SecondHalf,Foul,Successful,31,13.3,,
+508,338780,Bruno Guimarães,409,Brazil,48,SecondHalf,Foul,Unsuccessful,69,86.7,,
+448,136220,Yassine Bounou,495,Morocco,49,SecondHalf,Pass,Unsuccessful,29.3,17.5,78.3,0
+511,115097,Douglas Santos,409,Brazil,49,SecondHalf,Pass,Successful,25.8,100,20.2,62.8
+512,101949,Marquinhos,409,Brazil,49,SecondHalf,Pass,Successful,11,63.8,13.4,23.1
+514,88300,Danilo,409,Brazil,49,SecondHalf,Pass,Unsuccessful,14.5,18.1,39.9,11.5
+450,349932,Noussair Mazraoui,495,Morocco,49,SecondHalf,BallRecovery,Successful,62.5,88.1,,
+451,349932,Noussair Mazraoui,495,Morocco,50,SecondHalf,Pass,Successful,75,83.4,69.3,71.3
+452,392361,Azzedine Ounahi,495,Morocco,50,SecondHalf,Pass,Successful,70.9,74.6,71.4,94.4
+453,433572,Bilal El Khannouss,495,Morocco,50,SecondHalf,Pass,Successful,71.4,94.4,68.1,82
+454,392361,Azzedine Ounahi,495,Morocco,50,SecondHalf,Pass,Successful,67.5,79.8,65.5,67.6
+455,504830,Ayyoub Bouaddi,495,Morocco,50,SecondHalf,Pass,Successful,65.5,67.6,58.1,74.6
+456,454342,Chadi Riad,495,Morocco,50,SecondHalf,Pass,Successful,58.1,74.6,64.2,91.9
+457,486734,Neil El Aynaoui,495,Morocco,50,SecondHalf,Pass,Successful,64.2,91.9,72.1,96.3
+458,433572,Bilal El Khannouss,495,Morocco,50,SecondHalf,Pass,Successful,76.2,89.7,70.3,72.1
+459,504830,Ayyoub Bouaddi,495,Morocco,50,SecondHalf,Pass,Successful,70.3,72.1,67.4,97
+460,486734,Neil El Aynaoui,495,Morocco,50,SecondHalf,Pass,Successful,67.2,93.9,59.9,73.9
+461,454342,Chadi Riad,495,Morocco,50,SecondHalf,Pass,Successful,59.6,73.1,46.5,50.1
+462,300359,Issa Diop,495,Morocco,50,SecondHalf,Pass,Successful,46.2,47.6,56.7,10.3
+463,320834,Achraf Hakimi,495,Morocco,50,SecondHalf,Pass,Successful,56.9,10.1,67.2,16.5
+464,404776,Ismael Saibari,495,Morocco,50,SecondHalf,Pass,Successful,67.2,16.5,62.8,8.9
+465,320834,Achraf Hakimi,495,Morocco,50,SecondHalf,TakeOn,Unsuccessful,70.2,18.6,,
+516,115097,Douglas Santos,409,Brazil,50,SecondHalf,Tackle,Successful,29.8,81.4,,
+517,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,BallRecovery,Successful,27.4,64.2,,
+518,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Successful,27.4,64.2,26.8,74.8
+519,115097,Douglas Santos,409,Brazil,50,SecondHalf,Pass,Successful,26.8,74.8,40.3,66.4
+520,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Successful,40.2,66.4,47.7,93.7
+521,337782,Vinícius Júnior,409,Brazil,50,SecondHalf,Pass,Unsuccessful,90.5,75,90.5,46.2
+466,349932,Noussair Mazraoui,495,Morocco,50,SecondHalf,Clearance,Successful,9.4,52.8,25.9,0
+523,115097,Douglas Santos,409,Brazil,50,SecondHalf,Pass,Successful,73.8,100,63.9,85.9
+524,337782,Vinícius Júnior,409,Brazil,50,SecondHalf,Pass,Successful,63.9,85.9,54.2,44.8
+525,101949,Marquinhos,409,Brazil,50,SecondHalf,Pass,Successful,54.2,45,59.7,53.4
+526,115916,Fabinho,409,Brazil,51,SecondHalf,Pass,Successful,57.3,54.9,56.3,70.8
+527,334087,Gabriel Magalhães,409,Brazil,51,SecondHalf,Pass,Successful,59.6,70,63.6,79.2
+528,319756,Lucas Paquetá,409,Brazil,51,SecondHalf,Pass,Successful,60.6,73.6,55.5,41.7
+529,101949,Marquinhos,409,Brazil,51,SecondHalf,Pass,Successful,55.4,41.7,58.1,21
+530,88300,Danilo,409,Brazil,51,SecondHalf,Pass,Unsuccessful,57.4,23.4,100,11.1
+469,136220,Yassine Bounou,495,Morocco,51,SecondHalf,Pass,Successful,5.3,49.9,10.7,57
+470,486734,Neil El Aynaoui,495,Morocco,51,SecondHalf,Pass,Successful,10.1,50.3,9.6,13
+471,300359,Issa Diop,495,Morocco,51,SecondHalf,Pass,Unsuccessful,11.5,8.1,60,0
+533,319756,Lucas Paquetá,409,Brazil,51,SecondHalf,Pass,Successful,70.4,100,89.6,67.3
+534,443784,Igor Thiago,409,Brazil,51,SecondHalf,SavedShot,Successful,89.5,67.3,,
+473,136220,Yassine Bounou,495,Morocco,51,SecondHalf,Save,Successful,2.6,45,,
+474,454342,Chadi Riad,495,Morocco,51,SecondHalf,Clearance,Successful,3.7,32.1,10.1,4.9
+475,320834,Achraf Hakimi,495,Morocco,52,SecondHalf,BallRecovery,Successful,10.1,4.9,,
+476,320834,Achraf Hakimi,495,Morocco,52,SecondHalf,Pass,Successful,10.1,4.9,33.1,12.3
+477,317541,Brahim Díaz,495,Morocco,52,SecondHalf,BallTouch,Unsuccessful,33.1,12.3,,
+535,115916,Fabinho,409,Brazil,52,SecondHalf,BallRecovery,Successful,60.9,85.5,,
+536,115916,Fabinho,409,Brazil,52,SecondHalf,Pass,Successful,60.8,85.8,69.4,70.6
+537,338780,Bruno Guimarães,409,Brazil,52,SecondHalf,Pass,Successful,69.3,70.6,68.7,78.6
+538,319756,Lucas Paquetá,409,Brazil,52,SecondHalf,Pass,Successful,67.4,76.5,57.2,50.7
+539,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,57,50.7,56.7,77.4
+540,115916,Fabinho,409,Brazil,52,SecondHalf,Pass,Successful,56.7,77.4,66.2,73.9
+541,319756,Lucas Paquetá,409,Brazil,52,SecondHalf,Pass,Successful,66,73.9,58.1,90.9
+542,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Successful,58.5,90,64.7,63.1
+543,319756,Lucas Paquetá,409,Brazil,52,SecondHalf,Pass,Successful,64.5,63.7,56.5,42.7
+544,88300,Danilo,409,Brazil,52,SecondHalf,Pass,Successful,56.5,42.7,75.3,7.5
+545,300447,Raphinha,409,Brazil,52,SecondHalf,Pass,Unsuccessful,98.3,24.4,95.3,43.3
+478,454342,Chadi Riad,495,Morocco,52,SecondHalf,Clearance,Successful,5,57.5,23.1,89.4
+546,88300,Danilo,409,Brazil,52,SecondHalf,TakeOn,Unsuccessful,82.9,6.2,,
+479,433572,Bilal El Khannouss,495,Morocco,52,SecondHalf,Tackle,Successful,17.1,93.8,,
+548,88300,Danilo,409,Brazil,52,SecondHalf,Pass,Successful,78.1,0,63.1,15.8
+549,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,60.7,22.1,62.8,65
+550,334087,Gabriel Magalhães,409,Brazil,52,SecondHalf,Pass,Successful,66.8,68.5,70.8,90.6
+551,337782,Vinícius Júnior,409,Brazil,52,SecondHalf,Pass,Successful,70.7,90.6,71.1,63.7
+552,319756,Lucas Paquetá,409,Brazil,52,SecondHalf,Pass,Successful,71.1,63.7,63.6,72
+553,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Successful,63.6,71.7,64.6,42.3
+554,115916,Fabinho,409,Brazil,52,SecondHalf,Pass,Successful,64.5,42.4,63,25.9
+555,88300,Danilo,409,Brazil,52,SecondHalf,Pass,Successful,63,26.1,56.3,41.5
+556,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,56.5,41.2,57,59.4
+557,334087,Gabriel Magalhães,409,Brazil,52,SecondHalf,Pass,Successful,57,59.4,64.6,68.8
+558,319756,Lucas Paquetá,409,Brazil,53,SecondHalf,Pass,Successful,64.6,68.8,74.1,95.2
+559,337782,Vinícius Júnior,409,Brazil,53,SecondHalf,Pass,Successful,74.1,95.2,71.6,78.6
+560,319756,Lucas Paquetá,409,Brazil,53,SecondHalf,Pass,Successful,71.6,78.6,69.3,81.3
+561,337782,Vinícius Júnior,409,Brazil,53,SecondHalf,Pass,Successful,69.3,81.4,74.6,67.8
+562,338780,Bruno Guimarães,409,Brazil,53,SecondHalf,TakeOn,Unsuccessful,73.2,66.6,,
+481,486734,Neil El Aynaoui,495,Morocco,53,SecondHalf,Tackle,Successful,26.8,33.4,,
+482,486734,Neil El Aynaoui,495,Morocco,53,SecondHalf,BallRecovery,Successful,29.7,35.1,,
+483,486734,Neil El Aynaoui,495,Morocco,53,SecondHalf,Pass,Successful,37.6,25.2,39.9,6.9
+484,317541,Brahim Díaz,495,Morocco,53,SecondHalf,Pass,Successful,60.8,5.1,43.8,10.9
+485,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Pass,Unsuccessful,43.8,10.9,32.6,28.9
+563,337782,Vinícius Júnior,409,Brazil,53,SecondHalf,BallRecovery,Successful,64.8,73.6,,
+564,337782,Vinícius Júnior,409,Brazil,53,SecondHalf,BallTouch,Successful,74.1,63.7,,
+565,443784,Igor Thiago,409,Brazil,53,SecondHalf,Pass,Successful,74.9,65.2,71.3,54.1
+566,338780,Bruno Guimarães,409,Brazil,53,SecondHalf,Pass,Successful,71.2,54.3,83.7,71.8
+567,337782,Vinícius Júnior,409,Brazil,53,SecondHalf,TakeOn,Unsuccessful,82.2,71.8,,
+486,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Tackle,Successful,17.9,28.2,,
+487,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,BallRecovery,Successful,24.5,33.3,,
+489,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Foul,Successful,29.8,37.3,,
+568,115916,Fabinho,409,Brazil,53,SecondHalf,Foul,Unsuccessful,70.1,62.7,,
+490,504830,Ayyoub Bouaddi,495,Morocco,54,SecondHalf,Pass,Successful,34.5,31.7,27.9,67.1
+491,454342,Chadi Riad,495,Morocco,54,SecondHalf,Pass,Successful,39.3,46.7,31.5,38
+492,504830,Ayyoub Bouaddi,495,Morocco,54,SecondHalf,Pass,Successful,31.5,37.5,33.1,11.9
+493,300359,Issa Diop,495,Morocco,54,SecondHalf,Pass,Successful,33.1,10.6,44.1,4.6
+494,317541,Brahim Díaz,495,Morocco,54,SecondHalf,Dispossessed,Successful,40.8,8.2,,
+570,115097,Douglas Santos,409,Brazil,54,SecondHalf,Tackle,Successful,59.2,91.8,,
+496,320834,Achraf Hakimi,495,Morocco,54,SecondHalf,Pass,Successful,36,0,38.7,11.1
+497,486734,Neil El Aynaoui,495,Morocco,54,SecondHalf,Pass,Successful,38.7,11.1,34.3,5.1
+498,320834,Achraf Hakimi,495,Morocco,54,SecondHalf,Pass,Successful,34.3,5.1,30.9,74.3
+499,349932,Noussair Mazraoui,495,Morocco,54,SecondHalf,Pass,Successful,60.5,70.7,64,81.2
+500,392361,Azzedine Ounahi,495,Morocco,54,SecondHalf,Pass,Successful,64,81,77.8,92.3
+501,433572,Bilal El Khannouss,495,Morocco,54,SecondHalf,Pass,Unsuccessful,80.2,70.1,88.8,63
+573,101949,Marquinhos,409,Brazil,54,SecondHalf,BallTouch,Successful,17.6,36.7,,
+574,319756,Lucas Paquetá,409,Brazil,55,SecondHalf,Clearance,Successful,25.1,69.7,40.8,69.6
+502,300359,Issa Diop,495,Morocco,55,SecondHalf,Pass,Unsuccessful,62.6,32.1,80.1,26.1
+575,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,26.5,76,37.5,90.1
+576,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,BallRecovery,Successful,37.5,90.1,,
+577,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,Pass,Successful,37.4,91,33,77.5
+578,319756,Lucas Paquetá,409,Brazil,55,SecondHalf,Foul,Successful,35.8,80.6,,
+503,433572,Bilal El Khannouss,495,Morocco,55,SecondHalf,Foul,Unsuccessful,64.3,19.4,,
+579,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,37.5,93.7,43.8,83.4
+580,319756,Lucas Paquetá,409,Brazil,55,SecondHalf,Pass,Successful,43.7,83.4,37.6,94.6
+581,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,37.6,94.5,29.8,64.5
+582,334087,Gabriel Magalhães,409,Brazil,55,SecondHalf,Pass,Successful,30.6,64.5,34.3,36.9
+583,101949,Marquinhos,409,Brazil,55,SecondHalf,Pass,Successful,33.9,36.9,39.3,12.6
+584,88300,Danilo,409,Brazil,55,SecondHalf,Pass,Successful,38.4,13.2,34.1,32.5
+585,101949,Marquinhos,409,Brazil,55,SecondHalf,Pass,Successful,36.5,35.1,35.7,65.4
+586,334087,Gabriel Magalhães,409,Brazil,55,SecondHalf,Pass,Successful,38.1,65.1,36,36.3
+588,101949,Marquinhos,409,Brazil,55,SecondHalf,Pass,Successful,35.6,36.1,40.8,17.2
+589,88300,Danilo,409,Brazil,55,SecondHalf,Pass,Successful,40.2,17.2,36.1,43.2
+590,101949,Marquinhos,409,Brazil,55,SecondHalf,Pass,Successful,37.8,45,43.5,70.9
+591,334087,Gabriel Magalhães,409,Brazil,55,SecondHalf,Pass,Successful,57.1,67.8,56.5,90.1
+592,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,56.5,90.1,66.6,97.5
+593,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,Pass,Successful,65.3,96.9,57.4,89.7
+594,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,55.8,90.6,42.3,67.6
+595,334087,Gabriel Magalhães,409,Brazil,56,SecondHalf,Pass,Successful,42.2,67.8,53.2,52.9
+596,115916,Fabinho,409,Brazil,56,SecondHalf,Pass,Successful,49.6,52.6,45.2,23.1
+597,88300,Danilo,409,Brazil,56,SecondHalf,Pass,Successful,45,23.7,65.7,7
+598,300447,Raphinha,409,Brazil,56,SecondHalf,Pass,Unsuccessful,70.6,9.7,100,22.2
+506,136220,Yassine Bounou,495,Morocco,56,SecondHalf,Pass,Successful,5.2,50.3,9.1,60
+507,486734,Neil El Aynaoui,495,Morocco,56,SecondHalf,Foul,Successful,8.3,47.6,,
+601,443784,Igor Thiago,409,Brazil,56,SecondHalf,Foul,Unsuccessful,91.7,52.4,,
+508,136220,Yassine Bounou,495,Morocco,57,SecondHalf,Pass,Unsuccessful,10.9,47.1,65.8,70.2
+602,115916,Fabinho,409,Brazil,57,SecondHalf,Pass,Unsuccessful,33.8,36,43.3,64.8
+509,317541,Brahim Díaz,495,Morocco,57,SecondHalf,Dispossessed,Successful,92.4,10.8,,
+604,115097,Douglas Santos,409,Brazil,57,SecondHalf,Tackle,Successful,7.6,89.2,,
+605,319756,Lucas Paquetá,409,Brazil,57,SecondHalf,BallRecovery,Successful,14.2,86.8,,
+606,319756,Lucas Paquetá,409,Brazil,57,SecondHalf,Pass,Successful,22.4,91.6,19.5,83.7
+607,338780,Bruno Guimarães,409,Brazil,57,SecondHalf,Pass,Successful,19.4,83.8,10.1,67.6
+608,334087,Gabriel Magalhães,409,Brazil,57,SecondHalf,Pass,Successful,6.6,72.3,1.5,53.1
+609,114147,Alisson Becker,409,Brazil,57,SecondHalf,Pass,Successful,1.4,53.2,5.8,30.6
+610,101949,Marquinhos,409,Brazil,57,SecondHalf,Pass,Successful,5.8,30.6,12,9.6
+611,88300,Danilo,409,Brazil,57,SecondHalf,Pass,Successful,12,9.6,33.5,11.5
+612,300447,Raphinha,409,Brazil,57,SecondHalf,Foul,Successful,29.5,6.2,,
+510,349932,Noussair Mazraoui,495,Morocco,57,SecondHalf,Foul,Unsuccessful,70.6,93.8,,
+613,114147,Alisson Becker,409,Brazil,58,SecondHalf,Pass,Successful,9.4,49.5,16.2,72.4
+638,334087,Gabriel Magalhães,409,Brazil,58,SecondHalf,Pass,Successful,14.1,51.2,28.6,60.9
+614,338780,Bruno Guimarães,409,Brazil,58,SecondHalf,Pass,Successful,29.5,63,48.3,68.7
+615,319756,Lucas Paquetá,409,Brazil,58,SecondHalf,Pass,Successful,54.7,70.2,38.8,59.5
+616,334087,Gabriel Magalhães,409,Brazil,58,SecondHalf,Pass,Successful,36.6,59.7,35,32.9
+667,101949,Marquinhos,409,Brazil,58,SecondHalf,Pass,Successful,36.7,31.2,39.9,7.7
+617,88300,Danilo,409,Brazil,58,SecondHalf,Pass,Successful,42.6,15.6,67.1,4.3
+618,300447,Raphinha,409,Brazil,58,SecondHalf,Pass,Successful,84.3,23.8,77.9,55.5
+619,319756,Lucas Paquetá,409,Brazil,58,SecondHalf,Pass,Successful,78.9,57.9,81.2,82
+620,337782,Vinícius Júnior,409,Brazil,58,SecondHalf,Pass,Successful,78.3,74.1,71.4,40.5
+621,115916,Fabinho,409,Brazil,58,SecondHalf,Pass,Successful,69.1,39.7,64.9,26.1
+622,88300,Danilo,409,Brazil,58,SecondHalf,Pass,Successful,64.4,26.4,58,39.9
+623,101949,Marquinhos,409,Brazil,58,SecondHalf,Pass,Successful,59.6,40.2,62.3,89.1
+624,115097,Douglas Santos,409,Brazil,58,SecondHalf,Pass,Successful,61.3,90.3,71.5,92.8
+625,337782,Vinícius Júnior,409,Brazil,58,SecondHalf,Pass,Successful,68.8,89.2,52,44.5
+626,101949,Marquinhos,409,Brazil,59,SecondHalf,Pass,Successful,52.3,44.2,55.2,28
+627,88300,Danilo,409,Brazil,59,SecondHalf,Pass,Successful,55.1,28,68.7,5.4
+628,300447,Raphinha,409,Brazil,59,SecondHalf,Pass,Successful,69,6.1,61.9,26.5
+629,88300,Danilo,409,Brazil,59,SecondHalf,Pass,Successful,61.8,26.7,50.8,60.7
+630,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Successful,55,62.1,62.9,63.9
+631,319756,Lucas Paquetá,409,Brazil,59,SecondHalf,Pass,Successful,62.9,63.9,61.6,87.7
+632,115097,Douglas Santos,409,Brazil,59,SecondHalf,Pass,Successful,61.6,87.6,70.4,93.3
+633,337782,Vinícius Júnior,409,Brazil,59,SecondHalf,Pass,Unsuccessful,68.6,94.9,75.2,52
+511,454342,Chadi Riad,495,Morocco,59,SecondHalf,BallRecovery,Successful,24.5,47.1,,
+512,454342,Chadi Riad,495,Morocco,59,SecondHalf,Pass,Successful,29,60.7,21,70.1
+513,349932,Noussair Mazraoui,495,Morocco,59,SecondHalf,Pass,Successful,23.2,68.2,7.8,52.4
+514,136220,Yassine Bounou,495,Morocco,59,SecondHalf,Pass,Successful,7.8,52.4,13.1,17.2
+515,300359,Issa Diop,495,Morocco,59,SecondHalf,Pass,Unsuccessful,24.6,5.2,65.8,37.1
+634,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,BallRecovery,Successful,31.6,66.9,,
+635,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Successful,32,66.9,39.8,53.4
+636,115916,Fabinho,409,Brazil,59,SecondHalf,Pass,Successful,39.6,59.7,47.4,66.3
+637,319756,Lucas Paquetá,409,Brazil,59,SecondHalf,Pass,Unsuccessful,51.3,68.4,74.8,81.3
+516,320834,Achraf Hakimi,495,Morocco,59,SecondHalf,Pass,Successful,25.3,18.7,36.2,16.3
+517,317541,Brahim Díaz,495,Morocco,59,SecondHalf,BallRecovery,Successful,36.2,16.1,,
+518,317541,Brahim Díaz,495,Morocco,59,SecondHalf,Pass,Successful,36.2,16.1,28.4,10.6
+519,320834,Achraf Hakimi,495,Morocco,59,SecondHalf,Pass,Successful,28.4,10.6,33.6,29.8
+520,504830,Ayyoub Bouaddi,495,Morocco,59,SecondHalf,Pass,Successful,36,30.6,36.1,53.9
+521,486734,Neil El Aynaoui,495,Morocco,59,SecondHalf,Pass,Successful,45.7,56.8,55.7,92.3
+522,433572,Bilal El Khannouss,495,Morocco,60,SecondHalf,Pass,Successful,62.6,92.4,57.8,73.4
+523,486734,Neil El Aynaoui,495,Morocco,60,SecondHalf,Pass,Successful,57.8,73.4,59.8,68.9
+524,392361,Azzedine Ounahi,495,Morocco,60,SecondHalf,Pass,Successful,55.7,66.4,43,66.2
+525,454342,Chadi Riad,495,Morocco,60,SecondHalf,Pass,Successful,44.2,70.6,48.7,74.6
+526,486734,Neil El Aynaoui,495,Morocco,60,SecondHalf,Pass,Unsuccessful,48.7,74.6,40.3,81
+639,443784,Igor Thiago,409,Brazil,60,SecondHalf,BallRecovery,Successful,59.4,14.2,,
+640,443784,Igor Thiago,409,Brazil,60,SecondHalf,Pass,Successful,59.4,14.2,55.2,9.6
+641,300447,Raphinha,409,Brazil,60,SecondHalf,Pass,Unsuccessful,55.2,9.6,74.6,36.9
+527,504830,Ayyoub Bouaddi,495,Morocco,60,SecondHalf,BallRecovery,Successful,22.3,53.6,,
+528,504830,Ayyoub Bouaddi,495,Morocco,60,SecondHalf,Pass,Successful,13.1,39,4.6,49.9
+529,136220,Yassine Bounou,495,Morocco,60,SecondHalf,Pass,Successful,4.6,49.9,12.3,26.1
+530,504830,Ayyoub Bouaddi,495,Morocco,60,SecondHalf,Foul,Successful,25.4,14.8,,
+642,337782,Vinícius Júnior,409,Brazil,60,SecondHalf,Foul,Unsuccessful,74.7,85.2,,
+643,319756,Lucas Paquetá,409,Brazil,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+644,362758,Matheus Cunha,409,Brazil,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+645,443784,Igor Thiago,409,Brazil,61,SecondHalf,SubstitutionOff,Successful,0,0,,
+646,397587,Luiz Henrique,409,Brazil,61,SecondHalf,SubstitutionOn,Successful,0,0,,
+701,,,409,Brazil,61,SecondHalf,FormationChange,Successful,0,0,,
+531,300359,Issa Diop,495,Morocco,61,SecondHalf,Pass,Successful,28.8,9.1,23,35.6
+532,486734,Neil El Aynaoui,495,Morocco,61,SecondHalf,Pass,Successful,23,35.1,7.8,54.8
+533,136220,Yassine Bounou,495,Morocco,61,SecondHalf,Pass,Unsuccessful,7.8,54.8,78.3,67.1
+647,88300,Danilo,409,Brazil,61,SecondHalf,BallRecovery,Successful,24.3,31,,
+648,88300,Danilo,409,Brazil,61,SecondHalf,Pass,Successful,26,35.8,27,67.5
+649,334087,Gabriel Magalhães,409,Brazil,61,SecondHalf,Pass,Successful,28.6,67.6,27.8,34.8
+650,88300,Danilo,409,Brazil,61,SecondHalf,Pass,Successful,33.4,46.2,33.7,71.7
+651,334087,Gabriel Magalhães,409,Brazil,61,SecondHalf,Pass,Successful,33.1,70.6,26.5,48.6
+652,88300,Danilo,409,Brazil,61,SecondHalf,Pass,Successful,35.7,49.3,38.3,71.7
+653,334087,Gabriel Magalhães,409,Brazil,61,SecondHalf,Pass,Successful,36.6,70.9,65.4,56.4
+654,300447,Raphinha,409,Brazil,62,SecondHalf,Pass,Unsuccessful,65.3,56.4,66.9,58.6
+534,454342,Chadi Riad,495,Morocco,62,SecondHalf,BlockedPass,Successful,33.1,41.4,,
+535,317541,Brahim Díaz,495,Morocco,62,SecondHalf,Pass,Successful,37.9,11.3,28.8,14.8
+536,320834,Achraf Hakimi,495,Morocco,62,SecondHalf,BallRecovery,Successful,28.8,14.8,,
+537,320834,Achraf Hakimi,495,Morocco,62,SecondHalf,Pass,Successful,28.8,14.8,26.8,34.1
+538,300359,Issa Diop,495,Morocco,62,SecondHalf,Pass,Successful,25.4,35.1,7.4,49.6
+539,136220,Yassine Bounou,495,Morocco,62,SecondHalf,Pass,Unsuccessful,7.4,49.6,61.5,33.1
+655,334087,Gabriel Magalhães,409,Brazil,62,SecondHalf,Aerial,Successful,38.5,66.9,,
+540,404776,Ismael Saibari,495,Morocco,62,SecondHalf,Aerial,Unsuccessful,61.5,33.1,,
+656,334087,Gabriel Magalhães,409,Brazil,62,SecondHalf,BallTouch,Successful,38.6,61.6,,
+657,115097,Douglas Santos,409,Brazil,62,SecondHalf,BallRecovery,Successful,38.1,70.9,,
+658,115097,Douglas Santos,409,Brazil,62,SecondHalf,Pass,Successful,38.1,70.9,37.7,34.8
+659,88300,Danilo,409,Brazil,62,SecondHalf,Pass,Successful,38,33.7,47.5,4.6
+660,397587,Luiz Henrique,409,Brazil,62,SecondHalf,Pass,Successful,47.3,4.8,38.6,14.2
+661,88300,Danilo,409,Brazil,62,SecondHalf,Pass,Successful,38.4,14.4,37.2,29.1
+662,101949,Marquinhos,409,Brazil,62,SecondHalf,Pass,Successful,39.1,36.3,38.5,59.7
+663,334087,Gabriel Magalhães,409,Brazil,62,SecondHalf,Pass,Successful,42.1,65.1,41.6,83.7
+664,115097,Douglas Santos,409,Brazil,62,SecondHalf,Pass,Successful,44,85.3,58.8,66.4
+665,338780,Bruno Guimarães,409,Brazil,62,SecondHalf,Foul,Successful,61.8,68.6,,
+542,404776,Ismael Saibari,495,Morocco,62,SecondHalf,Foul,Unsuccessful,38.2,31.4,,
+545,392361,Azzedine Ounahi,495,Morocco,64,SecondHalf,SubstitutionOff,Successful,0,0,,
+546,512740,Samir El Mourabet,495,Morocco,64,SecondHalf,SubstitutionOn,Successful,0,0,,
+543,317541,Brahim Díaz,495,Morocco,64,SecondHalf,SubstitutionOff,Successful,0,0,,
+544,476110,Chemsdine Talbi,495,Morocco,64,SecondHalf,SubstitutionOn,Successful,0,0,,
+668,338780,Bruno Guimarães,409,Brazil,65,SecondHalf,Pass,Successful,60.6,63.9,42.9,37.5
+669,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,42.8,38.4,46.7,28
+670,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,45.9,29.5,39,67.3
+671,334087,Gabriel Magalhães,409,Brazil,65,SecondHalf,Pass,Successful,38.7,67.3,39,89.4
+672,115097,Douglas Santos,409,Brazil,65,SecondHalf,Pass,Successful,38.4,91.8,26.7,72.4
+673,334087,Gabriel Magalhães,409,Brazil,65,SecondHalf,Pass,Successful,27,72.1,13.1,51
+674,114147,Alisson Becker,409,Brazil,65,SecondHalf,Pass,Successful,13.2,51,22.5,22
+675,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,20.4,22.5,25,4.5
+676,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,23.9,4.5,45.5,4.5
+677,397587,Luiz Henrique,409,Brazil,65,SecondHalf,Foul,Successful,42.8,5.2,,
+547,349932,Noussair Mazraoui,495,Morocco,65,SecondHalf,Foul,Unsuccessful,57.2,94.8,,
+678,397587,Luiz Henrique,409,Brazil,65,SecondHalf,Pass,Successful,44.8,4.8,62.2,12.1
+679,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,64.8,10.8,72.9,11.1
+680,362758,Matheus Cunha,409,Brazil,65,SecondHalf,Pass,Successful,84,4.2,79.1,4.8
+681,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Unsuccessful,79.1,4.8,91.3,14.7
+548,349932,Noussair Mazraoui,495,Morocco,65,SecondHalf,Clearance,Successful,12.9,87.7,7.8,96
+549,349932,Noussair Mazraoui,495,Morocco,65,SecondHalf,Pass,Unsuccessful,7.8,96,33.9,85.9
+682,115916,Fabinho,409,Brazil,65,SecondHalf,Pass,Successful,65.8,16.2,64.1,6.3
+683,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,64,6.3,57.6,24
+684,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,57.6,24,56.1,44.8
+685,334087,Gabriel Magalhães,409,Brazil,65,SecondHalf,Pass,Successful,58.5,51.4,67.4,92.2
+686,337782,Vinícius Júnior,409,Brazil,65,SecondHalf,Pass,Successful,67.4,92.2,89.9,86.4
+687,300447,Raphinha,409,Brazil,66,SecondHalf,Pass,Unsuccessful,91.3,86.2,93.8,45.3
+550,454342,Chadi Riad,495,Morocco,66,SecondHalf,Clearance,Successful,4.7,54.5,12.3,78.6
+688,397587,Luiz Henrique,409,Brazil,66,SecondHalf,Pass,Successful,82.6,24.4,95,21.4
+689,88300,Danilo,409,Brazil,66,SecondHalf,Pass,Unsuccessful,93.9,22,94,25.2
+551,349932,Noussair Mazraoui,495,Morocco,66,SecondHalf,Clearance,Successful,6,74.8,,
+552,486734,Neil El Aynaoui,495,Morocco,66,SecondHalf,Clearance,Successful,9.4,67.6,32.8,93.4
+691,397587,Luiz Henrique,409,Brazil,66,SecondHalf,Pass,Successful,63,9,54.9,29.2
+692,101949,Marquinhos,409,Brazil,66,SecondHalf,Pass,Successful,55,30.3,55.5,74.7
+693,115097,Douglas Santos,409,Brazil,66,SecondHalf,Pass,Successful,55.4,74.7,72.7,91
+694,337782,Vinícius Júnior,409,Brazil,66,SecondHalf,Pass,Successful,66.2,79,58.4,20.8
+695,88300,Danilo,409,Brazil,66,SecondHalf,Pass,Successful,60,21,78.3,12.6
+696,397587,Luiz Henrique,409,Brazil,66,SecondHalf,Pass,Successful,78.3,12.6,93.9,24.3
+697,338780,Bruno Guimarães,409,Brazil,66,SecondHalf,Pass,Unsuccessful,93.9,24.3,90.4,100
+554,320834,Achraf Hakimi,495,Morocco,67,SecondHalf,Pass,Successful,21.1,0,23.2,13.7
+557,504830,Ayyoub Bouaddi,495,Morocco,67,SecondHalf,Pass,Successful,26.4,10.7,42.4,11.9
+555,404776,Ismael Saibari,495,Morocco,67,SecondHalf,Foul,Successful,31.8,23,,
+699,334087,Gabriel Magalhães,409,Brazil,67,SecondHalf,Foul,Unsuccessful,68.2,77,,
+559,300359,Issa Diop,495,Morocco,70,SecondHalf,Pass,Unsuccessful,39.4,14,79.7,14.6
+703,115097,Douglas Santos,409,Brazil,70,SecondHalf,Pass,Unsuccessful,16.6,82.8,27.3,79.3
+560,476110,Chemsdine Talbi,495,Morocco,70,SecondHalf,BallTouch,Unsuccessful,74.3,15.5,,
+704,115916,Fabinho,409,Brazil,70,SecondHalf,Pass,Unsuccessful,27.2,79.6,28.1,68.8
+561,512740,Samir El Mourabet,495,Morocco,70,SecondHalf,BallTouch,Unsuccessful,75.9,27.7,,
+705,115916,Fabinho,409,Brazil,70,SecondHalf,BallRecovery,Successful,22.2,70.5,,
+706,115916,Fabinho,409,Brazil,70,SecondHalf,Pass,Successful,22.2,70.5,11.8,76.8
+707,115097,Douglas Santos,409,Brazil,70,SecondHalf,Pass,Unsuccessful,12.3,79.5,41,75.9
+562,486734,Neil El Aynaoui,495,Morocco,70,SecondHalf,Pass,Unsuccessful,61.3,29.4,69.6,20.7
+708,362758,Matheus Cunha,409,Brazil,70,SecondHalf,Pass,Successful,37.7,80.8,42.6,87.1
+709,337782,Vinícius Júnior,409,Brazil,70,SecondHalf,Pass,Successful,42.4,87.3,39.5,48
+710,338780,Bruno Guimarães,409,Brazil,70,SecondHalf,Dispossessed,Successful,42.6,50.6,,
+563,486734,Neil El Aynaoui,495,Morocco,70,SecondHalf,Tackle,Successful,57.4,49.4,,
+726,338780,Bruno Guimarães,409,Brazil,70,SecondHalf,BallTouch,Successful,40.7,41.1,,
+564,504830,Ayyoub Bouaddi,495,Morocco,70,SecondHalf,BallRecovery,Successful,48.3,41.2,,
+565,504830,Ayyoub Bouaddi,495,Morocco,70,SecondHalf,Pass,Successful,48.3,41.2,38.3,19.8
+566,320834,Achraf Hakimi,495,Morocco,70,SecondHalf,Pass,Successful,38.2,19.8,44.4,47.9
+567,512740,Samir El Mourabet,495,Morocco,70,SecondHalf,Pass,Successful,44.4,47.9,35.5,24.2
+568,320834,Achraf Hakimi,495,Morocco,70,SecondHalf,Pass,Successful,35.5,24.2,25.7,34.1
+569,300359,Issa Diop,495,Morocco,70,SecondHalf,Pass,Successful,24.9,35.6,12.3,46.9
+570,136220,Yassine Bounou,495,Morocco,70,SecondHalf,Pass,Successful,12.5,46.9,21.6,81.5
+571,454342,Chadi Riad,495,Morocco,70,SecondHalf,Pass,Successful,25.9,82.3,29.8,60.7
+11580,404776,Ismael Saibari,495,Morocco,71,SecondHalf,OffsideGiven,Unsuccessful,91.7,63.6,,
+572,504830,Ayyoub Bouaddi,495,Morocco,71,SecondHalf,Pass,Successful,29.9,64.5,30,84.7
+573,454342,Chadi Riad,495,Morocco,71,SecondHalf,Pass,Successful,30,84.7,27.2,69.4
+574,504830,Ayyoub Bouaddi,495,Morocco,71,SecondHalf,Pass,Successful,27.4,69.4,25.3,36.1
+575,300359,Issa Diop,495,Morocco,71,SecondHalf,Pass,Successful,30.2,24.9,43.5,33.3
+576,404776,Ismael Saibari,495,Morocco,71,SecondHalf,Pass,Successful,43.5,33.3,53.7,5.7
+577,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,Pass,Successful,56,4.6,70.2,24.2
+578,476110,Chemsdine Talbi,495,Morocco,71,SecondHalf,Dispossessed,Successful,67.8,28.8,,
+711,115097,Douglas Santos,409,Brazil,71,SecondHalf,Tackle,Unsuccessful,32.3,71.2,,
+579,486734,Neil El Aynaoui,495,Morocco,71,SecondHalf,Pass,Successful,64.6,38.8,66.1,74.9
+580,349932,Noussair Mazraoui,495,Morocco,71,SecondHalf,OffsidePass,Successful,67.5,70.7,91.7,63.6
+713,101949,Marquinhos,409,Brazil,71,SecondHalf,OffsideProvoked,Successful,18.1,44,,
+720,114147,Alisson Becker,409,Brazil,71,SecondHalf,Pass,Successful,9.7,48.2,12.9,38
+714,101949,Marquinhos,409,Brazil,71,SecondHalf,Pass,Successful,15.8,31.9,16.5,67.9
+715,334087,Gabriel Magalhães,409,Brazil,71,SecondHalf,Pass,Successful,26.9,72.7,26.4,40.9
+716,101949,Marquinhos,409,Brazil,71,SecondHalf,Pass,Successful,28.4,40.2,28.5,70.2
+717,334087,Gabriel Magalhães,409,Brazil,72,SecondHalf,Pass,Successful,28.8,70.3,32.7,88.2
+718,115097,Douglas Santos,409,Brazil,72,SecondHalf,Pass,Successful,32.5,88.2,41.2,94.3
+719,362758,Matheus Cunha,409,Brazil,72,SecondHalf,Pass,Unsuccessful,38.8,93.3,50.7,93.9
+583,300359,Issa Diop,495,Morocco,72,SecondHalf,Pass,Successful,54.2,7.1,74.4,46.6
+584,512740,Samir El Mourabet,495,Morocco,72,SecondHalf,Pass,Unsuccessful,74.3,45.5,76.9,37.1
+721,334087,Gabriel Magalhães,409,Brazil,72,SecondHalf,Pass,Successful,17.2,61.8,3.7,48.3
+722,114147,Alisson Becker,409,Brazil,72,SecondHalf,Pass,Successful,3.7,48.1,10.9,13.3
+723,88300,Danilo,409,Brazil,72,SecondHalf,Pass,Successful,11.6,12,36.3,6.6
+724,397587,Luiz Henrique,409,Brazil,72,SecondHalf,Pass,Successful,36,6.6,31.6,15.4
+725,88300,Danilo,409,Brazil,72,SecondHalf,BallTouch,Unsuccessful,32.2,15.6,,
+585,504830,Ayyoub Bouaddi,495,Morocco,72,SecondHalf,BallRecovery,Successful,56,70.2,,
+586,504830,Ayyoub Bouaddi,495,Morocco,72,SecondHalf,Pass,Successful,46,43.5,17.1,51.3
+587,136220,Yassine Bounou,495,Morocco,72,SecondHalf,Pass,Successful,17.1,51.3,26.1,77.1
+588,454342,Chadi Riad,495,Morocco,72,SecondHalf,Pass,Successful,29,76.1,32,62.2
+589,504830,Ayyoub Bouaddi,495,Morocco,72,SecondHalf,Pass,Successful,33.1,65,35.6,75.5
+590,512740,Samir El Mourabet,495,Morocco,72,SecondHalf,Pass,Successful,35.6,75.5,36.6,62.7
+591,504830,Ayyoub Bouaddi,495,Morocco,72,SecondHalf,Pass,Successful,46.7,34,64,21.5
+592,320834,Achraf Hakimi,495,Morocco,72,SecondHalf,Dispossessed,Successful,60.2,23.4,,
+728,362758,Matheus Cunha,409,Brazil,72,SecondHalf,Tackle,Successful,39.8,76.6,,
+729,115097,Douglas Santos,409,Brazil,72,SecondHalf,Pass,Unsuccessful,37.7,88,48.9,86.8
+594,504830,Ayyoub Bouaddi,495,Morocco,72,SecondHalf,Pass,Unsuccessful,57.9,3.9,68.7,14.8
+730,115097,Douglas Santos,409,Brazil,72,SecondHalf,Pass,Unsuccessful,40,84.6,74.8,66.6
+595,300359,Issa Diop,495,Morocco,72,SecondHalf,Pass,Successful,27.1,25.9,10.9,44.7
+596,136220,Yassine Bounou,495,Morocco,73,SecondHalf,Pass,Successful,10.9,47.4,13.8,14.8
+597,300359,Issa Diop,495,Morocco,73,SecondHalf,Pass,Successful,15,14,32,4.9
+598,320834,Achraf Hakimi,495,Morocco,73,SecondHalf,Foul,Successful,29,11.8,,
+731,115916,Fabinho,409,Brazil,73,SecondHalf,Foul,Unsuccessful,71,88.2,,
+600,300359,Issa Diop,495,Morocco,73,SecondHalf,Pass,Successful,21,19.3,4.7,52.3
+601,136220,Yassine Bounou,495,Morocco,73,SecondHalf,Pass,Unsuccessful,4.7,52.3,33.9,89.9
+732,88300,Danilo,409,Brazil,73,SecondHalf,Aerial,Successful,66.1,10.1,,
+602,433572,Bilal El Khannouss,495,Morocco,73,SecondHalf,Aerial,Unsuccessful,33.9,89.9,,
+733,88300,Danilo,409,Brazil,73,SecondHalf,Pass,Unsuccessful,66.1,10.1,66.7,44.7
+734,338780,Bruno Guimarães,409,Brazil,73,SecondHalf,Challenge,Unsuccessful,69.4,38.6,,
+603,504830,Ayyoub Bouaddi,495,Morocco,73,SecondHalf,TakeOn,Successful,32.2,59.1,,
+604,504830,Ayyoub Bouaddi,495,Morocco,73,SecondHalf,Pass,Successful,24.5,58,31.8,46.9
+605,486734,Neil El Aynaoui,495,Morocco,73,SecondHalf,Pass,Successful,31.8,46.7,22.3,28.6
+606,300359,Issa Diop,495,Morocco,73,SecondHalf,Pass,Successful,22.4,28.4,27.4,5.9
+607,320834,Achraf Hakimi,495,Morocco,73,SecondHalf,Pass,Successful,27.4,5.9,30.9,19.7
+608,486734,Neil El Aynaoui,495,Morocco,73,SecondHalf,Pass,Successful,30.9,19.7,38.1,4.9
+609,404776,Ismael Saibari,495,Morocco,73,SecondHalf,Pass,Successful,38.1,4.9,34,16.1
+610,486734,Neil El Aynaoui,495,Morocco,73,SecondHalf,Pass,Successful,35.8,13.6,42.8,27.9
+611,512740,Samir El Mourabet,495,Morocco,73,SecondHalf,Pass,Successful,42.8,27.9,37.2,35.1
+612,404776,Ismael Saibari,495,Morocco,73,SecondHalf,Pass,Successful,64.8,45,62.4,74.3
+613,349932,Noussair Mazraoui,495,Morocco,73,SecondHalf,Pass,Successful,62.4,74.1,79,90.4
+614,433572,Bilal El Khannouss,495,Morocco,73,SecondHalf,Pass,Successful,85.2,90.2,82.9,73.3
+615,512740,Samir El Mourabet,495,Morocco,74,SecondHalf,Pass,Successful,82.9,73.3,91,87.6
+616,349932,Noussair Mazraoui,495,Morocco,74,SecondHalf,Pass,Unsuccessful,91.3,86.5,92.3,58
+735,115916,Fabinho,409,Brazil,74,SecondHalf,Clearance,Successful,7.8,40.1,43.3,2.3
+626,454342,Chadi Riad,495,Morocco,74,SecondHalf,Pass,Successful,57.9,95.5,71,94.7
+618,433572,Bilal El Khannouss,495,Morocco,74,SecondHalf,Pass,Successful,67.8,93.6,57,73.4
+619,504830,Ayyoub Bouaddi,495,Morocco,74,SecondHalf,Pass,Successful,58.4,67.6,26.7,56.8
+620,136220,Yassine Bounou,495,Morocco,74,SecondHalf,Pass,Successful,26.7,56.8,31.4,88.4
+621,454342,Chadi Riad,495,Morocco,74,SecondHalf,Pass,Successful,31.4,92.6,35.6,71.8
+622,504830,Ayyoub Bouaddi,495,Morocco,74,SecondHalf,Pass,Successful,33.2,71.4,29.5,92.8
+623,454342,Chadi Riad,495,Morocco,74,SecondHalf,Pass,Successful,29.5,92.8,8.2,62
+624,136220,Yassine Bounou,495,Morocco,74,SecondHalf,Pass,Successful,10.2,60.2,11.8,85.7
+625,454342,Chadi Riad,495,Morocco,74,SecondHalf,Pass,Unsuccessful,20.4,92.6,74.8,71.3
+737,114147,Alisson Becker,409,Brazil,74,SecondHalf,BallRecovery,Successful,29,29.1,,
+738,114147,Alisson Becker,409,Brazil,74,SecondHalf,Pass,Successful,28.9,29.4,37.1,25.9
+739,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,35.4,28.5,36.2,64.2
+740,334087,Gabriel Magalhães,409,Brazil,74,SecondHalf,Pass,Successful,35.9,64.2,40.1,82.9
+741,115097,Douglas Santos,409,Brazil,74,SecondHalf,Pass,Successful,40.1,82.9,58.1,94.9
+742,337782,Vinícius Júnior,409,Brazil,74,SecondHalf,Pass,Successful,57.8,95.1,44.3,87.4
+743,115097,Douglas Santos,409,Brazil,74,SecondHalf,Pass,Successful,44.2,87.4,33,62.7
+744,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,32.1,62.2,34.8,34.6
+745,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,35.7,37.8,35.2,65.4
+746,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,33.3,61.6,32,32.4
+747,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,37.5,28.6,35.2,61.8
+748,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,33.4,61.3,33.7,34.2
+749,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,33.2,34.3,35.7,22.2
+750,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,35.7,22,54.2,18.7
+751,300447,Raphinha,409,Brazil,75,SecondHalf,Pass,Successful,49.5,16.5,34.2,24
+752,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,36,25.2,35.8,64.2
+753,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,36.1,64.2,57.6,93.7
+754,337782,Vinícius Júnior,409,Brazil,75,SecondHalf,BallTouch,Unsuccessful,56.3,90.9,,
+627,476110,Chemsdine Talbi,495,Morocco,75,SecondHalf,BallRecovery,Successful,43.3,15.8,,
+628,476110,Chemsdine Talbi,495,Morocco,75,SecondHalf,Pass,Successful,54.4,20.2,56.4,49.9
+629,404776,Ismael Saibari,495,Morocco,75,SecondHalf,Pass,Successful,61,71.4,44.3,80.5
+630,349932,Noussair Mazraoui,495,Morocco,75,SecondHalf,Pass,Successful,45.8,78.8,39.2,58.1
+631,454342,Chadi Riad,495,Morocco,75,SecondHalf,Pass,Successful,39.3,58.1,47.7,40
+632,486734,Neil El Aynaoui,495,Morocco,75,SecondHalf,Pass,Successful,48.2,33.6,61.1,27.7
+633,512740,Samir El Mourabet,495,Morocco,75,SecondHalf,Pass,Successful,61.1,27.7,47.6,34
+634,486734,Neil El Aynaoui,495,Morocco,75,SecondHalf,Pass,Successful,47.6,34,60.7,27.2
+635,512740,Samir El Mourabet,495,Morocco,75,SecondHalf,Pass,Successful,60.3,36.3,53.2,75.1
+636,349932,Noussair Mazraoui,495,Morocco,76,SecondHalf,Pass,Successful,53.2,75.1,69.9,71.6
+637,404776,Ismael Saibari,495,Morocco,76,SecondHalf,Pass,Successful,69.9,71.6,61.9,70.1
+638,512740,Samir El Mourabet,495,Morocco,76,SecondHalf,Pass,Successful,65.5,69.4,66.7,54.6
+639,504830,Ayyoub Bouaddi,495,Morocco,76,SecondHalf,Pass,Successful,66.7,54.6,61.5,44.7
+640,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,61.7,44.7,66.8,55.3
+641,504830,Ayyoub Bouaddi,495,Morocco,76,SecondHalf,Pass,Successful,66.5,48.1,60.6,25.2
+642,300359,Issa Diop,495,Morocco,76,SecondHalf,Pass,Successful,60.6,25.2,61.4,43
+643,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,61.4,43,69.8,46.4
+644,504830,Ayyoub Bouaddi,495,Morocco,76,SecondHalf,Pass,Successful,69.8,46.4,59.6,41.3
+645,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,61.2,41.3,46.8,62.2
+646,454342,Chadi Riad,495,Morocco,76,SecondHalf,Pass,Successful,46.7,62.2,55.3,43.7
+647,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,53.8,43.5,68.6,6.4
+648,320834,Achraf Hakimi,495,Morocco,76,SecondHalf,TakeOn,Unsuccessful,65.8,13.2,,
+755,115097,Douglas Santos,409,Brazil,76,SecondHalf,Tackle,Unsuccessful,34.2,86.8,,
+649,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,60.3,18.3,69.6,4.7
+650,476110,Chemsdine Talbi,495,Morocco,76,SecondHalf,Pass,Successful,70.8,4.9,83.4,8.1
+651,404776,Ismael Saibari,495,Morocco,76,SecondHalf,Pass,Successful,87.6,6.2,85.8,15.8
+652,320834,Achraf Hakimi,495,Morocco,76,SecondHalf,Pass,Successful,85.8,15.8,87.3,7.2
+653,404776,Ismael Saibari,495,Morocco,76,SecondHalf,Pass,Successful,87.3,7.2,70.8,6.6
+654,486734,Neil El Aynaoui,495,Morocco,76,SecondHalf,Pass,Successful,70.9,7.2,81.1,4.6
+655,404776,Ismael Saibari,495,Morocco,76,SecondHalf,TakeOn,Successful,90.7,13.2,,
+756,115097,Douglas Santos,409,Brazil,76,SecondHalf,Challenge,Unsuccessful,9.7,89.6,,
+656,404776,Ismael Saibari,495,Morocco,76,SecondHalf,Pass,Successful,89.5,4.9,92.5,17.2
+657,476110,Chemsdine Talbi,495,Morocco,76,SecondHalf,Pass,Unsuccessful,96.8,21.7,95.4,50.3
+758,88300,Danilo,409,Brazil,76,SecondHalf,Clearance,Successful,6.7,45.1,12.8,87.6
+759,362758,Matheus Cunha,409,Brazil,76,SecondHalf,Clearance,Successful,12.6,87.6,25,100
+659,504830,Ayyoub Bouaddi,495,Morocco,76,SecondHalf,Pass,Successful,73.6,0,60.3,15.5
+660,300359,Issa Diop,495,Morocco,77,SecondHalf,Pass,Successful,60.3,15.8,66.1,26.9
+661,504830,Ayyoub Bouaddi,495,Morocco,77,SecondHalf,Pass,Successful,65.4,35.6,52.3,39.5
+662,454342,Chadi Riad,495,Morocco,77,SecondHalf,Pass,Successful,52.2,39.3,62.3,21.2
+663,486734,Neil El Aynaoui,495,Morocco,77,SecondHalf,Pass,Successful,61.9,21.9,44.1,16.8
+664,300359,Issa Diop,495,Morocco,77,SecondHalf,Pass,Successful,38.9,28.6,13.5,56.6
+665,136220,Yassine Bounou,495,Morocco,77,SecondHalf,Pass,Unsuccessful,13.6,56.6,63.3,69.6
+761,101949,Marquinhos,409,Brazil,77,SecondHalf,Pass,Unsuccessful,34.9,31.8,41.2,32.5
+666,512740,Samir El Mourabet,495,Morocco,77,SecondHalf,BallTouch,Successful,58.3,67.7,,
+762,101949,Marquinhos,409,Brazil,77,SecondHalf,BallRecovery,Successful,34.2,21.6,,
+763,101949,Marquinhos,409,Brazil,77,SecondHalf,Pass,Successful,33,23.2,12,40.2
+764,114147,Alisson Becker,409,Brazil,77,SecondHalf,Pass,Successful,12.9,40.6,43.8,89.8
+765,362758,Matheus Cunha,409,Brazil,77,SecondHalf,Pass,Successful,43.6,89.1,93.3,79.3
+766,337782,Vinícius Júnior,409,Brazil,77,SecondHalf,Pass,Successful,94.4,79.3,86.7,60.9
+767,300447,Raphinha,409,Brazil,77,SecondHalf,SavedShot,Successful,86.7,60.9,,
+667,136220,Yassine Bounou,495,Morocco,77,SecondHalf,Save,Successful,1.9,47.6,,
+668,136220,Yassine Bounou,495,Morocco,77,SecondHalf,KeeperPickup,Successful,1.7,49.1,,
+672,349932,Noussair Mazraoui,495,Morocco,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+673,437387,Anass Salah-Eddine,495,Morocco,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+670,433572,Bilal El Khannouss,495,Morocco,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+671,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+683,,,495,Morocco,79,SecondHalf,FormationChange,Successful,0,0,,
+770,338780,Bruno Guimarães,409,Brazil,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+771,399250,Danilo Santos,409,Brazil,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+676,136220,Yassine Bounou,495,Morocco,79,SecondHalf,KeeperPickup,Successful,14.6,48.4,,
+677,136220,Yassine Bounou,495,Morocco,79,SecondHalf,Pass,Unsuccessful,14.4,56.6,67.3,72.4
+773,101949,Marquinhos,409,Brazil,79,SecondHalf,Aerial,Successful,32.7,27.6,,
+678,404776,Ismael Saibari,495,Morocco,79,SecondHalf,Aerial,Unsuccessful,67.3,72.4,,
+774,101949,Marquinhos,409,Brazil,79,SecondHalf,Pass,Successful,32.7,27.6,43.5,34.5
+775,397587,Luiz Henrique,409,Brazil,79,SecondHalf,Aerial,Successful,43.5,34.5,,
+679,486734,Neil El Aynaoui,495,Morocco,79,SecondHalf,Aerial,Unsuccessful,56.5,65.5,,
+776,397587,Luiz Henrique,409,Brazil,79,SecondHalf,Pass,Unsuccessful,43.5,34.5,64.8,61.9
+680,300359,Issa Diop,495,Morocco,79,SecondHalf,Pass,Successful,37.9,37.5,18,52.8
+681,136220,Yassine Bounou,495,Morocco,80,SecondHalf,Pass,Successful,18,51.9,24.7,24.7
+682,300359,Issa Diop,495,Morocco,80,SecondHalf,Pass,Unsuccessful,24,22.2,69.5,20.8
+777,115097,Douglas Santos,409,Brazil,80,SecondHalf,Pass,Successful,33.7,73.9,35.7,57.1
+778,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,BallRecovery,Successful,35.6,56.8,,
+779,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,35.6,56.8,44.8,61.8
+780,399250,Danilo Santos,409,Brazil,80,SecondHalf,Pass,Successful,44.6,61.9,37.2,64.9
+781,115916,Fabinho,409,Brazil,80,SecondHalf,Pass,Successful,37.2,62.4,26.1,67.5
+782,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,27.1,66.4,27,33.7
+783,101949,Marquinhos,409,Brazil,80,SecondHalf,Pass,Successful,29.3,33.3,33.2,12.1
+784,88300,Danilo,409,Brazil,80,SecondHalf,Pass,Successful,33.1,12,47.7,2.2
+785,397587,Luiz Henrique,409,Brazil,80,SecondHalf,Pass,Successful,45.2,3.4,34.1,11.7
+786,88300,Danilo,409,Brazil,80,SecondHalf,Pass,Unsuccessful,34.7,11.5,60.2,34.3
+695,454342,Chadi Riad,495,Morocco,80,SecondHalf,Interception,Successful,39.8,65.7,,
+684,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,80,SecondHalf,BallRecovery,Successful,62.1,42.7,,
+685,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,80,SecondHalf,Pass,Successful,66,53.8,70.6,87.2
+686,476110,Chemsdine Talbi,495,Morocco,80,SecondHalf,Pass,Successful,79.8,83.5,87.8,92.9
+687,437387,Anass Salah-Eddine,495,Morocco,80,SecondHalf,Pass,Unsuccessful,89.1,92.4,91.8,84
+787,88300,Danilo,409,Brazil,80,SecondHalf,Clearance,Successful,8.2,16,,
+689,437387,Anass Salah-Eddine,495,Morocco,80,SecondHalf,Pass,Successful,81.6,95.6,84.3,82.5
+690,512740,Samir El Mourabet,495,Morocco,80,SecondHalf,Pass,Successful,81.2,82.2,75,65.5
+691,504830,Ayyoub Bouaddi,495,Morocco,80,SecondHalf,Pass,Successful,70.3,63.4,61.1,32.1
+692,300359,Issa Diop,495,Morocco,80,SecondHalf,Pass,Successful,61.1,32.3,66.5,10.1
+693,320834,Achraf Hakimi,495,Morocco,80,SecondHalf,Pass,Successful,66.5,10.1,75.6,5.1
+694,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,80,SecondHalf,TakeOn,Unsuccessful,71.4,9.3,,
+807,115097,Douglas Santos,409,Brazil,80,SecondHalf,Pass,Successful,32.9,85.4,45.9,70.7
+789,337782,Vinícius Júnior,409,Brazil,81,SecondHalf,BallRecovery,Successful,44.9,56.8,,
+790,337782,Vinícius Júnior,409,Brazil,81,SecondHalf,Pass,Successful,45.1,56.7,69.1,24.4
+791,300447,Raphinha,409,Brazil,81,SecondHalf,Pass,Successful,80.7,12.7,71.3,33.4
+792,399250,Danilo Santos,409,Brazil,81,SecondHalf,Pass,Successful,68.3,34.8,67.9,81.6
+793,115097,Douglas Santos,409,Brazil,81,SecondHalf,Pass,Successful,71.2,84.7,72.4,72
+794,362758,Matheus Cunha,409,Brazil,81,SecondHalf,SavedShot,Successful,95.4,67.5,,
+696,504830,Ayyoub Bouaddi,495,Morocco,81,SecondHalf,Save,Successful,4.9,35.6,,
+795,362758,Matheus Cunha,409,Brazil,81,SecondHalf,BallTouch,Successful,93.9,67.9,,
+699,136220,Yassine Bounou,495,Morocco,82,SecondHalf,Pass,Unsuccessful,5.2,53.9,67.3,68.2
+804,115916,Fabinho,409,Brazil,82,SecondHalf,Pass,Successful,33.4,28.6,46.8,30.1
+805,300447,Raphinha,409,Brazil,82,SecondHalf,Pass,Unsuccessful,47.7,33.7,62.6,47.2
+700,300359,Issa Diop,495,Morocco,82,SecondHalf,Pass,Successful,33.9,53.1,19.9,60.7
+701,136220,Yassine Bounou,495,Morocco,82,SecondHalf,KeeperSweeper,Successful,19.9,60.7,,
+702,136220,Yassine Bounou,495,Morocco,82,SecondHalf,Clearance,Successful,19.9,60.7,56.4,100
+809,88300,Danilo,409,Brazil,85,SecondHalf,Pass,Successful,44.7,0,31,13
+810,101949,Marquinhos,409,Brazil,85,SecondHalf,Pass,Successful,33.9,20.1,33.6,61.5
+811,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,36.5,64.5,39.8,85.2
+812,115097,Douglas Santos,409,Brazil,85,SecondHalf,Pass,Successful,39.8,85.2,62.4,95.5
+813,362758,Matheus Cunha,409,Brazil,85,SecondHalf,Pass,Unsuccessful,72.2,92.4,87.3,79.2
+706,300359,Issa Diop,495,Morocco,85,SecondHalf,Interception,Successful,12.7,20.8,,
+707,320834,Achraf Hakimi,495,Morocco,85,SecondHalf,BallRecovery,Successful,17.1,10.8,,
+708,320834,Achraf Hakimi,495,Morocco,85,SecondHalf,Pass,Successful,17.1,10.8,22.7,22.7
+814,362758,Matheus Cunha,409,Brazil,85,SecondHalf,Challenge,Unsuccessful,76.8,78.2,,
+709,504830,Ayyoub Bouaddi,495,Morocco,85,SecondHalf,TakeOn,Successful,22.5,21.5,,
+710,504830,Ayyoub Bouaddi,495,Morocco,85,SecondHalf,Pass,Unsuccessful,42.3,12.8,59.9,4.6
+815,115097,Douglas Santos,409,Brazil,85,SecondHalf,Interception,Successful,40.1,95.4,,
+816,115097,Douglas Santos,409,Brazil,85,SecondHalf,BallRecovery,Successful,40.3,90.1,,
+817,115097,Douglas Santos,409,Brazil,85,SecondHalf,Pass,Successful,40.2,90.7,41.3,79.6
+818,362758,Matheus Cunha,409,Brazil,85,SecondHalf,Pass,Successful,41.4,79.6,31.2,62.2
+819,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,31,61.9,38.3,59.5
+820,399250,Danilo Santos,409,Brazil,85,SecondHalf,Pass,Successful,38.1,59.4,26.7,63.7
+821,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,26.8,63.7,10.1,51.6
+822,114147,Alisson Becker,409,Brazil,85,SecondHalf,Pass,Successful,11.5,53.2,14.2,78.1
+823,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,14.2,78.1,24.8,70.6
+824,115916,Fabinho,409,Brazil,85,SecondHalf,Pass,Successful,28.2,62.4,29,26.4
+825,101949,Marquinhos,409,Brazil,85,SecondHalf,Pass,Successful,32.7,25.8,40,5.1
+826,88300,Danilo,409,Brazil,85,SecondHalf,Pass,Successful,39.7,6.4,32.4,27
+827,101949,Marquinhos,409,Brazil,85,SecondHalf,Pass,Successful,35.3,30.6,36.9,80.4
+828,115097,Douglas Santos,409,Brazil,85,SecondHalf,Pass,Successful,36.9,80.4,53.4,95.4
+829,337782,Vinícius Júnior,409,Brazil,86,SecondHalf,TakeOn,Unsuccessful,50.7,91.2,,
+711,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,86,SecondHalf,Tackle,Successful,49.3,8.8,,
+712,320834,Achraf Hakimi,495,Morocco,86,SecondHalf,BallTouch,Successful,48.2,16.8,,
+713,504830,Ayyoub Bouaddi,495,Morocco,86,SecondHalf,Pass,Successful,43.1,27.6,60.4,32.1
+743,512740,Samir El Mourabet,495,Morocco,86,SecondHalf,Pass,Successful,54.8,28.8,45.8,30
+714,504830,Ayyoub Bouaddi,495,Morocco,86,SecondHalf,BallRecovery,Successful,47.2,28.2,,
+715,504830,Ayyoub Bouaddi,495,Morocco,86,SecondHalf,Pass,Successful,47.2,28.2,55.5,11.3
+716,320834,Achraf Hakimi,495,Morocco,86,SecondHalf,Pass,Successful,61.4,8.9,66,23.4
+717,512740,Samir El Mourabet,495,Morocco,86,SecondHalf,Pass,Successful,66.1,20.8,68.3,5.2
+718,320834,Achraf Hakimi,495,Morocco,86,SecondHalf,Pass,Successful,68.3,5.2,59.2,7.6
+719,512740,Samir El Mourabet,495,Morocco,86,SecondHalf,Pass,Successful,59.2,7.6,40.1,21.9
+720,300359,Issa Diop,495,Morocco,86,SecondHalf,Pass,Successful,42.4,20,54.6,7.9
+721,512740,Samir El Mourabet,495,Morocco,86,SecondHalf,Pass,Successful,49.2,4.4,35.2,12.3
+722,300359,Issa Diop,495,Morocco,86,SecondHalf,Pass,Successful,34.9,12.3,14.9,35.1
+723,136220,Yassine Bounou,495,Morocco,86,SecondHalf,Pass,Successful,14.5,38.5,20.2,71.3
+724,454342,Chadi Riad,495,Morocco,86,SecondHalf,Pass,Successful,20.5,72.4,27.3,42.7
+725,504830,Ayyoub Bouaddi,495,Morocco,86,SecondHalf,Pass,Successful,44.9,34.5,42.2,16
+726,512740,Samir El Mourabet,495,Morocco,86,SecondHalf,Pass,Successful,45.4,26.6,44.1,37.7
+727,486734,Neil El Aynaoui,495,Morocco,86,SecondHalf,Pass,Successful,44.2,37.7,47.9,66.9
+728,437387,Anass Salah-Eddine,495,Morocco,86,SecondHalf,Pass,Successful,47.9,67.1,43,60.8
+831,397587,Luiz Henrique,409,Brazil,86,SecondHalf,Challenge,Unsuccessful,60.6,35.8,,
+753,454342,Chadi Riad,495,Morocco,86,SecondHalf,TakeOn,Successful,39.4,64.2,,
+729,454342,Chadi Riad,495,Morocco,86,SecondHalf,Pass,Successful,47.2,61.2,58.5,82.3
+730,437387,Anass Salah-Eddine,495,Morocco,86,SecondHalf,Pass,Successful,58.7,82.8,69.4,93.9
+731,476110,Chemsdine Talbi,495,Morocco,86,SecondHalf,Pass,Unsuccessful,91.9,91.6,92.9,82.3
+833,88300,Danilo,409,Brazil,86,SecondHalf,BallTouch,Successful,15,20.4,,
+834,101949,Marquinhos,409,Brazil,86,SecondHalf,Clearance,Successful,12.2,27.7,34.6,20.1
+732,486734,Neil El Aynaoui,495,Morocco,87,SecondHalf,Pass,Successful,69.3,79.7,69.2,92.4
+733,512740,Samir El Mourabet,495,Morocco,87,SecondHalf,Pass,Successful,65.7,91.6,56.2,73.8
+734,454342,Chadi Riad,495,Morocco,87,SecondHalf,Pass,Successful,56.6,72.9,59,59.3
+735,504830,Ayyoub Bouaddi,495,Morocco,87,SecondHalf,Pass,Successful,56.4,53.4,64.1,8.2
+736,320834,Achraf Hakimi,495,Morocco,87,SecondHalf,Pass,Successful,66,7.1,64.4,27.9
+737,504830,Ayyoub Bouaddi,495,Morocco,87,SecondHalf,Pass,Successful,64.4,27.9,60,38.8
+738,486734,Neil El Aynaoui,495,Morocco,87,SecondHalf,Pass,Successful,60.1,38.8,65.4,59.2
+739,512740,Samir El Mourabet,495,Morocco,87,SecondHalf,Pass,Successful,65.2,47.9,67.6,36.5
+740,504830,Ayyoub Bouaddi,495,Morocco,87,SecondHalf,Pass,Successful,67.6,36.3,57.6,35.6
+741,486734,Neil El Aynaoui,495,Morocco,87,SecondHalf,Pass,Successful,58.1,34.6,70.3,6.9
+742,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,87,SecondHalf,Pass,Successful,68.1,11.6,58.6,24.9
+744,486734,Neil El Aynaoui,495,Morocco,87,SecondHalf,Pass,Successful,58.6,24.9,36.1,31.9
+745,300359,Issa Diop,495,Morocco,87,SecondHalf,Pass,Unsuccessful,37,28.6,70.1,18.7
+835,115097,Douglas Santos,409,Brazil,87,SecondHalf,Pass,Unsuccessful,30.5,82.9,58.7,82.8
+746,300359,Issa Diop,495,Morocco,87,SecondHalf,Aerial,Successful,41.3,17.2,,
+836,337782,Vinícius Júnior,409,Brazil,87,SecondHalf,Aerial,Unsuccessful,58.7,82.8,,
+747,300359,Issa Diop,495,Morocco,87,SecondHalf,Pass,Successful,41.3,17.2,63.1,17.2
+748,320834,Achraf Hakimi,495,Morocco,87,SecondHalf,Pass,Successful,63.1,17.2,53.9,19.8
+749,504830,Ayyoub Bouaddi,495,Morocco,87,SecondHalf,Pass,Successful,60.3,16.5,77.1,6.4
+750,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,87,SecondHalf,Pass,Unsuccessful,76.6,13.5,91.7,53.1
+837,101949,Marquinhos,409,Brazil,87,SecondHalf,Clearance,Successful,7.5,54,10.5,89.5
+838,115097,Douglas Santos,409,Brazil,87,SecondHalf,Pass,Unsuccessful,10.6,89.8,12.7,89.7
+751,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,87,SecondHalf,BlockedPass,Successful,87.3,10.3,,
+754,404776,Ismael Saibari,495,Morocco,88,SecondHalf,SubstitutionOff,Successful,0,0,,
+755,430982,Soufiane Rahimi,495,Morocco,88,SecondHalf,SubstitutionOn,Successful,0,0,,
+840,115097,Douglas Santos,409,Brazil,88,SecondHalf,Pass,Successful,17.7,100,32.6,86.5
+841,362758,Matheus Cunha,409,Brazil,88,SecondHalf,Pass,Successful,32.4,86.5,18.9,94.8
+842,115097,Douglas Santos,409,Brazil,88,SecondHalf,Pass,Successful,16.6,95.1,10.3,84.9
+843,334087,Gabriel Magalhães,409,Brazil,88,SecondHalf,Pass,Unsuccessful,10.3,84.9,27,100
+757,320834,Achraf Hakimi,495,Morocco,89,SecondHalf,Pass,Successful,74.9,0,74,15.1
+758,504830,Ayyoub Bouaddi,495,Morocco,89,SecondHalf,Pass,Successful,74,15.1,73.3,3
+759,320834,Achraf Hakimi,495,Morocco,89,SecondHalf,Pass,Successful,73.3,3,68.9,11.3
+760,504830,Ayyoub Bouaddi,495,Morocco,89,SecondHalf,Foul,Successful,67.8,12,,
+845,337782,Vinícius Júnior,409,Brazil,89,SecondHalf,Foul,Unsuccessful,32.2,88,,
+761,512740,Samir El Mourabet,495,Morocco,89,SecondHalf,Pass,Successful,69.4,8.2,80.8,77.6
+762,454342,Chadi Riad,495,Morocco,89,SecondHalf,Pass,Successful,86.9,83,76,80.7
+763,320834,Achraf Hakimi,495,Morocco,89,SecondHalf,Pass,Successful,76.1,80.7,78.1,87.4
+764,454342,Chadi Riad,495,Morocco,89,SecondHalf,Pass,Unsuccessful,76.1,85.4,78,91.9
+847,397587,Luiz Henrique,409,Brazil,89,SecondHalf,BallRecovery,Successful,19.1,11.5,,
+848,397587,Luiz Henrique,409,Brazil,89,SecondHalf,Pass,Successful,22.5,19.3,31.7,28
+849,362758,Matheus Cunha,409,Brazil,89,SecondHalf,Foul,Successful,35.8,15.8,,
+765,486734,Neil El Aynaoui,495,Morocco,89,SecondHalf,Foul,Unsuccessful,64.2,84.2,,
+850,88300,Danilo,409,Brazil,90,SecondHalf,Pass,Successful,39.2,9.6,27.9,31.5
+870,115916,Fabinho,409,Brazil,90,SecondHalf,Pass,Successful,37.5,64.7,58.3,81.7
+851,115097,Douglas Santos,409,Brazil,90,SecondHalf,Pass,Successful,40.1,80.4,61.8,91.2
+852,337782,Vinícius Júnior,409,Brazil,90,SecondHalf,Foul,Successful,63.2,93.2,,
+766,320834,Achraf Hakimi,495,Morocco,90,SecondHalf,Foul,Unsuccessful,36.7,6.7,,
+853,115097,Douglas Santos,409,Brazil,90,SecondHalf,Pass,Successful,60.6,94.6,55.9,69.6
+854,115916,Fabinho,409,Brazil,90,SecondHalf,Pass,Successful,55.5,70.2,49.4,48.1
+855,88300,Danilo,409,Brazil,90,SecondHalf,Pass,Successful,49.2,46.9,54.6,15.6
+856,101949,Marquinhos,409,Brazil,90,SecondHalf,Pass,Successful,54.6,15.6,68,3.9
+857,397587,Luiz Henrique,409,Brazil,90,SecondHalf,Pass,Successful,68.1,5.5,94.7,30
+858,300447,Raphinha,409,Brazil,90,SecondHalf,Pass,Successful,94.9,29.7,90.4,45
+859,399250,Danilo Santos,409,Brazil,90,SecondHalf,MissedShots,Successful,90.4,45,,
+860,115097,Douglas Santos,409,Brazil,90,SecondHalf,Pass,Unsuccessful,74,92.5,76.2,63
+767,512740,Samir El Mourabet,495,Morocco,90,SecondHalf,Pass,Successful,27.8,29.9,35.4,19
+768,430982,Soufiane Rahimi,495,Morocco,90,SecondHalf,BallRecovery,Successful,35.4,19,,
+769,430982,Soufiane Rahimi,495,Morocco,90,SecondHalf,Pass,Successful,35.4,19,24.7,22.9
+770,512740,Samir El Mourabet,495,Morocco,90,SecondHalf,Pass,Successful,27.3,28.7,17.9,38.3
+771,300359,Issa Diop,495,Morocco,90,SecondHalf,Pass,Successful,17.9,38.3,7.7,51.4
+772,136220,Yassine Bounou,495,Morocco,91,SecondHalf,Pass,Unsuccessful,3.3,67.1,45.6,90.7
+861,88300,Danilo,409,Brazil,91,SecondHalf,Interception,Successful,54.4,9.3,,
+862,115916,Fabinho,409,Brazil,91,SecondHalf,BallRecovery,Successful,60.1,55,,
+863,115916,Fabinho,409,Brazil,91,SecondHalf,Pass,Successful,68.3,59.2,66.3,88.6
+864,115097,Douglas Santos,409,Brazil,91,SecondHalf,Pass,Successful,66.3,88.6,77.2,95.7
+865,337782,Vinícius Júnior,409,Brazil,91,SecondHalf,Pass,Unsuccessful,95,90.6,94.2,88
+774,320834,Achraf Hakimi,495,Morocco,91,SecondHalf,Clearance,Successful,5.8,12,,
+775,320834,Achraf Hakimi,495,Morocco,91,SecondHalf,CornerAwarded,Unsuccessful,0,13.4,,
+866,337782,Vinícius Júnior,409,Brazil,91,SecondHalf,CornerAwarded,Successful,100,86.5,,
+867,362758,Matheus Cunha,409,Brazil,92,SecondHalf,Pass,Unsuccessful,99.5,99.5,95.3,52.8
+777,136220,Yassine Bounou,495,Morocco,92,SecondHalf,Punch,Unsuccessful,4.7,47.2,26.5,7.6
+868,362758,Matheus Cunha,409,Brazil,92,SecondHalf,TakeOn,Unsuccessful,85.8,91,,
+778,430982,Soufiane Rahimi,495,Morocco,92,SecondHalf,Tackle,Successful,14,9,,
+869,362758,Matheus Cunha,409,Brazil,92,SecondHalf,CornerAwarded,Successful,100,89.2,,
+779,430982,Soufiane Rahimi,495,Morocco,92,SecondHalf,CornerAwarded,Unsuccessful,0,10.8,,
+871,362758,Matheus Cunha,409,Brazil,92,SecondHalf,Pass,Unsuccessful,99.5,99.5,96.1,51.1
+780,136220,Yassine Bounou,495,Morocco,92,SecondHalf,Aerial,Successful,3.9,48.9,,
+875,88300,Danilo,409,Brazil,92,SecondHalf,Aerial,Unsuccessful,96.1,51.1,,
+781,136220,Yassine Bounou,495,Morocco,92,SecondHalf,Punch,Successful,3.9,48.9,15.6,41.2
+782,476110,Chemsdine Talbi,495,Morocco,92,SecondHalf,Clearance,Successful,15.6,41.2,32.7,53.1
+872,300447,Raphinha,409,Brazil,92,SecondHalf,Pass,Successful,74.4,50.7,75.4,25.3
+873,397587,Luiz Henrique,409,Brazil,92,SecondHalf,Pass,Successful,75,24.7,90.6,28.5
+874,399250,Danilo Santos,409,Brazil,92,SecondHalf,SavedShot,Successful,93.1,30.1,,
+783,136220,Yassine Bounou,495,Morocco,92,SecondHalf,Save,Successful,1.1,53.8,,
+784,136220,Yassine Bounou,495,Morocco,92,SecondHalf,KeeperPickup,Successful,2.2,52.4,,
+785,136220,Yassine Bounou,495,Morocco,92,SecondHalf,Pass,Successful,10.8,55.2,28.2,79.1
+798,437387,Anass Salah-Eddine,495,Morocco,92,SecondHalf,Pass,Successful,27.2,77,19.6,68.8
+786,454342,Chadi Riad,495,Morocco,92,SecondHalf,Pass,Successful,23.7,67.4,27.9,56.1
+787,504830,Ayyoub Bouaddi,495,Morocco,92,SecondHalf,Pass,Successful,27.9,56.1,22,66
+788,454342,Chadi Riad,495,Morocco,92,SecondHalf,Pass,Successful,22,66,28.7,54.6
+789,504830,Ayyoub Bouaddi,495,Morocco,93,SecondHalf,Pass,Successful,27.7,54.6,25.4,28.2
+790,300359,Issa Diop,495,Morocco,93,SecondHalf,Pass,Successful,25.4,27.2,28.4,7.4
+791,320834,Achraf Hakimi,495,Morocco,93,SecondHalf,Pass,Successful,30.8,7.2,83.9,28.7
+792,430982,Soufiane Rahimi,495,Morocco,93,SecondHalf,Pass,Successful,89.7,14.6,74.9,14.5
+793,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,93,SecondHalf,Pass,Successful,83.8,10.6,75.9,14.5
+794,512740,Samir El Mourabet,495,Morocco,93,SecondHalf,Pass,Successful,76,14.6,90.2,10.3
+795,430982,Soufiane Rahimi,495,Morocco,93,SecondHalf,Pass,Unsuccessful,87.5,18.7,91.9,57.3
+876,88300,Danilo,409,Brazil,93,SecondHalf,Clearance,Successful,10.1,44.8,32.7,71.7
+796,504830,Ayyoub Bouaddi,495,Morocco,93,SecondHalf,Pass,Successful,67.2,33.8,70,11.8
+797,320834,Achraf Hakimi,495,Morocco,93,SecondHalf,Pass,Successful,70,11.8,69.5,30.9
+799,504830,Ayyoub Bouaddi,495,Morocco,93,SecondHalf,Pass,Successful,69.5,30.3,78.3,8.9
+800,512740,Samir El Mourabet,495,Morocco,93,SecondHalf,Pass,Successful,79.7,8.8,68.9,7.2
+801,320834,Achraf Hakimi,495,Morocco,93,SecondHalf,Pass,Successful,73,6.9,78.3,4.2
+802,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,93,SecondHalf,Pass,Successful,76.1,4.7,70.8,10.6
+803,504830,Ayyoub Bouaddi,495,Morocco,93,SecondHalf,Pass,Successful,69.1,11.8,69.3,31.1
+804,512740,Samir El Mourabet,495,Morocco,93,SecondHalf,Pass,Successful,69.3,31.1,53,49.7
+805,454342,Chadi Riad,495,Morocco,93,SecondHalf,Pass,Successful,53.3,52.8,62.7,36.3
+806,504830,Ayyoub Bouaddi,495,Morocco,93,SecondHalf,Pass,Successful,62.7,36.3,45,21
+807,300359,Issa Diop,495,Morocco,93,SecondHalf,Pass,Successful,54.5,12.4,63,21.4
+808,320834,Achraf Hakimi,495,Morocco,93,SecondHalf,Pass,Successful,61.7,19,56.3,6.1
+809,300359,Issa Diop,495,Morocco,94,SecondHalf,Pass,Unsuccessful,56.3,6.1,94,16.5
+877,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,BallTouch,Unsuccessful,9.3,81,,
+810,300359,Issa Diop,495,Morocco,94,SecondHalf,CornerAwarded,Successful,98.6,17.2,,
+878,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,CornerAwarded,Unsuccessful,1.5,82.8,,
+811,512740,Samir El Mourabet,495,Morocco,94,SecondHalf,Pass,Unsuccessful,99.5,0.5,94.8,57.6
+879,334087,Gabriel Magalhães,409,Brazil,95,SecondHalf,Clearance,Successful,6.8,40.9,15.4,0
+813,437387,Anass Salah-Eddine,495,Morocco,95,SecondHalf,Pass,Unsuccessful,86.1,100,91.2,68.4
+881,101949,Marquinhos,409,Brazil,95,SecondHalf,Clearance,Successful,10,28.3,22.8,21.4
+882,397587,Luiz Henrique,409,Brazil,95,SecondHalf,Clearance,Successful,22.7,22.8,37.1,30.6
+883,362758,Matheus Cunha,409,Brazil,95,SecondHalf,TakeOn,Unsuccessful,33.8,26.3,,
+814,504830,Ayyoub Bouaddi,495,Morocco,95,SecondHalf,Tackle,Unsuccessful,66.2,73.7,,
+884,362758,Matheus Cunha,409,Brazil,95,SecondHalf,BallTouch,Successful,34.4,23.7,,
+815,437387,Anass Salah-Eddine,495,Morocco,95,SecondHalf,TakeOn,Unsuccessful,63.2,74.8,,
+893,362758,Matheus Cunha,409,Brazil,95,SecondHalf,Tackle,Successful,36.8,25.2,,
+885,362758,Matheus Cunha,409,Brazil,95,SecondHalf,Pass,Unsuccessful,32.1,21.6,32.8,25.5
+826,504830,Ayyoub Bouaddi,495,Morocco,95,SecondHalf,BallTouch,Successful,65.1,73.9,,
+816,512740,Samir El Mourabet,495,Morocco,95,SecondHalf,Pass,Successful,67.3,71.9,64.8,88.6
+817,437387,Anass Salah-Eddine,495,Morocco,95,SecondHalf,Pass,Successful,64.8,88.6,75.9,92.9
+818,476110,Chemsdine Talbi,495,Morocco,95,SecondHalf,Pass,Successful,75.3,92.8,67.6,80.7
+819,512740,Samir El Mourabet,495,Morocco,95,SecondHalf,Pass,Successful,65.5,70.7,69.2,51.6
+820,486734,Neil El Aynaoui,495,Morocco,95,SecondHalf,Pass,Unsuccessful,69.5,43.9,74.1,14.6
+887,115097,Douglas Santos,409,Brazil,95,SecondHalf,Pass,Successful,27.6,83.4,35.6,80.1
+888,337782,Vinícius Júnior,409,Brazil,95,SecondHalf,BallTouch,Unsuccessful,35.8,79.3,,
+821,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,95,SecondHalf,Pass,Unsuccessful,66.9,31.6,75.5,85.2
+889,88300,Danilo,409,Brazil,95,SecondHalf,Pass,Unsuccessful,32.8,14.8,48.5,12.1
+822,437387,Anass Salah-Eddine,495,Morocco,95,SecondHalf,Pass,Successful,52.2,92.3,12.8,67.7
+823,136220,Yassine Bounou,495,Morocco,95,SecondHalf,Pass,Unsuccessful,12.8,67.7,67.5,60.3
+890,334087,Gabriel Magalhães,409,Brazil,96,SecondHalf,Clearance,Successful,24.3,53.4,29.7,57.3
+891,115916,Fabinho,409,Brazil,96,SecondHalf,Clearance,Successful,29.2,56.8,39.6,56.5
+824,486734,Neil El Aynaoui,495,Morocco,96,SecondHalf,Pass,Unsuccessful,66,48.7,70.9,41.9
+825,512740,Samir El Mourabet,495,Morocco,96,SecondHalf,Foul,Successful,66.8,40,,
+892,115916,Fabinho,409,Brazil,96,SecondHalf,Foul,Unsuccessful,33.2,60,,
+827,512740,Samir El Mourabet,495,Morocco,97,SecondHalf,Pass,Unsuccessful,68.2,44,92.9,52.3
+894,114147,Alisson Becker,409,Brazil,97,SecondHalf,KeeperPickup,Successful,12.6,51.4,,
+895,114147,Alisson Becker,409,Brazil,97,SecondHalf,Pass,Unsuccessful,15.2,52,82.5,27.1
+828,437387,Anass Salah-Eddine,495,Morocco,97,SecondHalf,Pass,Successful,19.9,74.9,2.5,69.2
+829,136220,Yassine Bounou,495,Morocco,97,SecondHalf,KeeperPickup,Successful,2.5,69.2,,
+831,136220,Yassine Bounou,495,Morocco,97,SecondHalf,Pass,Unsuccessful,19.7,67.7,76,74.4
+896,101949,Marquinhos,409,Brazil,97,SecondHalf,Aerial,Successful,25.6,29.6,,
+832,430982,Soufiane Rahimi,495,Morocco,97,SecondHalf,Aerial,Unsuccessful,74.4,70.4,,
+897,101949,Marquinhos,409,Brazil,97,SecondHalf,Clearance,Successful,28,35.7,32,35.1
+833,430982,Soufiane Rahimi,495,Morocco,97,SecondHalf,BallTouch,Successful,76,74.4,,
+898,334087,Gabriel Magalhães,409,Brazil,97,SecondHalf,Clearance,Successful,28.5,43,34.3,20.4
+834,486734,Neil El Aynaoui,495,Morocco,97,SecondHalf,Pass,Successful,66.4,81.8,70.5,94.4
+835,476110,Chemsdine Talbi,495,Morocco,97,SecondHalf,Pass,Successful,73.2,92.8,60,92.3
+836,437387,Anass Salah-Eddine,495,Morocco,97,SecondHalf,Pass,Successful,60.4,92.3,45.8,80.7
+837,454342,Chadi Riad,495,Morocco,97,SecondHalf,Pass,Successful,54.3,78.8,48.4,93.6
+838,437387,Anass Salah-Eddine,495,Morocco,97,SecondHalf,Pass,Unsuccessful,48.4,93.6,67.5,94.4
+899,88300,Danilo,409,Brazil,97,SecondHalf,Pass,Successful,31.1,8.5,47.3,6.3
+900,397587,Luiz Henrique,409,Brazil,97,SecondHalf,BallRecovery,Successful,47.2,6.4,,
+901,397587,Luiz Henrique,409,Brazil,98,SecondHalf,Pass,Successful,47,6.1,45.4,25.2
+902,399250,Danilo Santos,409,Brazil,98,SecondHalf,Pass,Successful,44.4,25.9,56.8,49.5
+903,337782,Vinícius Júnior,409,Brazil,98,SecondHalf,Pass,Unsuccessful,56.8,49.5,65.6,48.4
+839,300359,Issa Diop,495,Morocco,98,SecondHalf,BallRecovery,Successful,34.5,52.8,,
+840,300359,Issa Diop,495,Morocco,98,SecondHalf,Pass,Successful,34.5,52.8,43.6,65.9
+841,512740,Samir El Mourabet,495,Morocco,98,SecondHalf,Pass,Successful,43.6,65.9,35.5,64.7
+842,486734,Neil El Aynaoui,495,Morocco,98,SecondHalf,Pass,Successful,35.5,64.7,44.4,91.6
+843,476110,Chemsdine Talbi,495,Morocco,98,SecondHalf,Pass,Successful,63.4,83.7,58.9,72.8
+844,486734,Neil El Aynaoui,495,Morocco,98,SecondHalf,Pass,Successful,60.1,70.6,55.8,51.8
+845,504830,Ayyoub Bouaddi,495,Morocco,98,SecondHalf,Pass,Successful,55,47.9,62.8,19.5
+846,320834,Achraf Hakimi,495,Morocco,98,SecondHalf,Pass,Unsuccessful,69.6,25.4,74.3,25.1
+904,115097,Douglas Santos,409,Brazil,98,SecondHalf,BlockedPass,Successful,29.2,71.5,,
+847,486734,Neil El Aynaoui,495,Morocco,98,SecondHalf,MissedShots,Successful,70.3,53.4,,
+905,114147,Alisson Becker,409,Brazil,98,SecondHalf,Save,Successful,0.9,53.2,,
+848,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,98,SecondHalf,SavedShot,Successful,97.2,40.7,,
+906,114147,Alisson Becker,409,Brazil,98,SecondHalf,Save,Successful,2.8,53.2,,
+849,605380,Ayoube Amaimouni-Echghouyab,495,Morocco,98,SecondHalf,CornerAwarded,Successful,99.2,39.8,,
+907,114147,Alisson Becker,409,Brazil,98,SecondHalf,CornerAwarded,Unsuccessful,0.7,60.2,,
+1,,,409,Brazil,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,495,Morocco,0,PreMatch,FormationSet,Successful,0,0,,

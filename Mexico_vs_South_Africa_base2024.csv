@@ -1,0 +1,1356 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+123,,,972,Mexico,0,FirstHalf,Start,Successful,0,0,,
+87,,,485,South Africa,0,FirstHalf,Start,Successful,0,0,,
+2,396565,Brian Gutiérrez,972,Mexico,0,FirstHalf,Pass,Successful,49.7,50.1,30.1,56.3
+3,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,30,53.6,37,79.9
+4,425115,Johan Vásquez,972,Mexico,0,FirstHalf,Pass,Successful,38.9,79.4,31.1,66.4
+5,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,31.4,63.9,31.9,26.1
+6,447631,César Montes,972,Mexico,0,FirstHalf,Pass,Successful,32.7,22.8,30.6,41.5
+7,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,33.9,41.8,39.5,69.6
+8,425115,Johan Vásquez,972,Mexico,0,FirstHalf,Pass,Successful,40.7,70.5,32.8,55.7
+9,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,35.6,44.8,39.8,17
+10,447631,César Montes,972,Mexico,0,FirstHalf,Pass,Successful,40.2,16.2,31,34.9
+11,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,38,50.9,44.2,79.9
+12,425115,Johan Vásquez,972,Mexico,0,FirstHalf,Pass,Successful,44.2,79.9,39.5,67.2
+13,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,43.6,54.5,61.4,6.7
+14,447634,Israel Reyes,972,Mexico,0,FirstHalf,Pass,Successful,61.9,7.6,43.9,52.5
+15,425115,Johan Vásquez,972,Mexico,0,FirstHalf,Pass,Successful,56.4,68.8,60.7,81.7
+16,509557,Julián Quiñones,972,Mexico,0,FirstHalf,Pass,Successful,63.1,83.6,50.9,79.6
+17,425115,Johan Vásquez,972,Mexico,0,FirstHalf,Pass,Successful,50.9,79.6,53.1,66.3
+18,447638,Érik Lira,972,Mexico,0,FirstHalf,Pass,Successful,53.1,66.3,54.7,79.7
+19,425115,Johan Vásquez,972,Mexico,1,FirstHalf,Pass,Successful,57.2,79,62.9,94.7
+20,452407,Álvaro Fidalgo,972,Mexico,1,FirstHalf,Pass,Successful,63.7,93.8,55.6,73.8
+21,447638,Érik Lira,972,Mexico,1,FirstHalf,Pass,Successful,53.9,60.5,46.7,41.2
+22,447631,César Montes,972,Mexico,1,FirstHalf,Pass,Successful,46.7,41.2,45.7,70.5
+23,425115,Johan Vásquez,972,Mexico,1,FirstHalf,Pass,Successful,53,73,57.5,84.7
+24,452407,Álvaro Fidalgo,972,Mexico,1,FirstHalf,Pass,Successful,57.8,84.2,54,63.9
+25,447638,Érik Lira,972,Mexico,1,FirstHalf,Pass,Successful,54,63.9,45.9,72.7
+26,425115,Johan Vásquez,972,Mexico,1,FirstHalf,Pass,Successful,46.1,72,43.6,34.3
+27,447631,César Montes,972,Mexico,1,FirstHalf,Pass,Successful,44.9,33,56.3,12.8
+28,447634,Israel Reyes,972,Mexico,1,FirstHalf,Pass,Successful,56.6,12.6,68.2,16.5
+29,396565,Brian Gutiérrez,972,Mexico,1,FirstHalf,Pass,Successful,67.9,16.1,65,11.4
+30,447636,Roberto Alvarado,972,Mexico,1,FirstHalf,Dispossessed,Successful,64.5,14.8,,
+2,452622,Aubrey Modiba,485,South Africa,1,FirstHalf,Tackle,Successful,35.5,85.2,,
+31,447636,Roberto Alvarado,972,Mexico,1,FirstHalf,Challenge,Unsuccessful,61,15.2,,
+22,456637,Jayden Adams,485,South Africa,1,FirstHalf,TakeOn,Successful,39,84.8,,
+3,456637,Jayden Adams,485,South Africa,1,FirstHalf,BallRecovery,Successful,36.9,81.8,,
+4,456637,Jayden Adams,485,South Africa,1,FirstHalf,Pass,Successful,34.5,67.5,32.8,22.2
+5,457250,Khuliso Mudau,485,South Africa,1,FirstHalf,Pass,Successful,32.3,23.1,20.8,27.4
+6,457254,Nkosinathi Sibisi,485,South Africa,1,FirstHalf,Pass,Successful,18,28.5,3.6,48.8
+7,99002,Ronwen Williams,485,South Africa,1,FirstHalf,Pass,Successful,3.3,49.4,4.2,73.5
+8,504648,Ime Okon,485,South Africa,1,FirstHalf,Pass,Successful,4.2,75.1,29.9,72.3
+9,386978,Yaya Sithole,485,South Africa,1,FirstHalf,Pass,Successful,26.3,69.4,22.6,30.3
+10,457254,Nkosinathi Sibisi,485,South Africa,1,FirstHalf,Pass,Successful,23.5,24.4,35.8,14
+11,457247,Teboho Mokoena,485,South Africa,1,FirstHalf,Pass,Successful,35.9,12.8,41.7,2.8
+12,457250,Khuliso Mudau,485,South Africa,1,FirstHalf,Pass,Successful,39.6,4.6,35.4,10.6
+13,457247,Teboho Mokoena,485,South Africa,2,FirstHalf,Pass,Successful,34.4,13.8,15.4,39.5
+14,99002,Ronwen Williams,485,South Africa,2,FirstHalf,Pass,Successful,15.2,43.6,22.8,70.9
+15,504648,Ime Okon,485,South Africa,2,FirstHalf,Pass,Successful,26.8,82.6,29,93
+16,563880,Mbekezeli Mbokazi,485,South Africa,2,FirstHalf,Pass,Successful,30.3,90.5,23.9,85.4
+17,504648,Ime Okon,485,South Africa,2,FirstHalf,Pass,Successful,19.8,91.4,2.3,59.3
+18,99002,Ronwen Williams,485,South Africa,2,FirstHalf,Pass,Successful,2.9,60.6,38,92.9
+19,452622,Aubrey Modiba,485,South Africa,2,FirstHalf,BallTouch,Unsuccessful,38,92.9,,
+33,447634,Israel Reyes,972,Mexico,2,FirstHalf,Pass,Successful,62.4,0,68.3,21
+34,447636,Roberto Alvarado,972,Mexico,2,FirstHalf,Foul,Successful,67.4,25.2,,
+21,452622,Aubrey Modiba,485,South Africa,2,FirstHalf,Foul,Unsuccessful,32.5,74.9,,
+35,396565,Brian Gutiérrez,972,Mexico,3,FirstHalf,SavedShot,Successful,66.8,24,,
+23,456637,Jayden Adams,485,South Africa,3,FirstHalf,Save,Successful,22.3,67.2,,
+37,447634,Israel Reyes,972,Mexico,3,FirstHalf,Pass,Successful,64.7,0,71.5,20.7
+38,108186,Raúl Jiménez,972,Mexico,3,FirstHalf,Pass,Successful,71.5,20.7,77.4,5.9
+39,447636,Roberto Alvarado,972,Mexico,4,FirstHalf,Pass,Successful,76.4,6.4,87.5,7.3
+40,447634,Israel Reyes,972,Mexico,4,FirstHalf,Pass,Successful,87.5,7.3,84.5,47.8
+41,108186,Raúl Jiménez,972,Mexico,4,FirstHalf,SavedShot,Successful,84.5,47.8,,
+25,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Save,Successful,2.1,50.9,,
+26,99002,Ronwen Williams,485,South Africa,4,FirstHalf,CornerAwarded,Unsuccessful,7.4,50.4,,
+42,108186,Raúl Jiménez,972,Mexico,4,FirstHalf,CornerAwarded,Successful,92.6,49.6,,
+43,396565,Brian Gutiérrez,972,Mexico,4,FirstHalf,Pass,Unsuccessful,99.5,99.5,94.1,56
+27,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Punch,Unsuccessful,5.9,44,7.7,24.9
+28,563880,Mbekezeli Mbokazi,485,South Africa,4,FirstHalf,Clearance,Successful,3.5,54.2,4.6,59.9
+44,447631,César Montes,972,Mexico,4,FirstHalf,Pass,Successful,85.6,71.1,95.9,30.9
+45,108186,Raúl Jiménez,972,Mexico,4,FirstHalf,Aerial,Successful,95.9,30.9,,
+29,504648,Ime Okon,485,South Africa,4,FirstHalf,Aerial,Unsuccessful,4.1,69.1,,
+46,108186,Raúl Jiménez,972,Mexico,4,FirstHalf,Pass,Unsuccessful,95.9,30.9,92.8,43.3
+30,457247,Teboho Mokoena,485,South Africa,4,FirstHalf,Clearance,Successful,5.5,51.9,12.5,60.3
+31,452622,Aubrey Modiba,485,South Africa,4,FirstHalf,BallTouch,Unsuccessful,13,60.8,,
+47,425115,Johan Vásquez,972,Mexico,4,FirstHalf,BallTouch,Unsuccessful,81,47.4,,
+32,371447,Lyle Foster,485,South Africa,4,FirstHalf,BallTouch,Successful,17.3,52.2,,
+415,425115,Johan Vásquez,972,Mexico,4,FirstHalf,Pass,Unsuccessful,75.5,48.2,70.3,57.8
+33,456637,Jayden Adams,485,South Africa,4,FirstHalf,Pass,Successful,31.7,41,50.6,44.3
+34,498795,Iqraam Rayners,485,South Africa,4,FirstHalf,BallRecovery,Successful,50.8,44.3,,
+35,498795,Iqraam Rayners,485,South Africa,4,FirstHalf,Pass,Successful,59,37.9,56.9,34
+36,456637,Jayden Adams,485,South Africa,4,FirstHalf,Pass,Successful,55.2,42.5,65.9,65.1
+37,371447,Lyle Foster,485,South Africa,4,FirstHalf,Pass,Unsuccessful,75.6,67.1,91.5,60.7
+48,527319,Raúl Rangel,972,Mexico,4,FirstHalf,KeeperPickup,Successful,8.2,37.1,,
+49,527319,Raúl Rangel,972,Mexico,5,FirstHalf,Pass,Successful,8.8,42.3,20.2,39.9
+84,447638,Érik Lira,972,Mexico,5,FirstHalf,Pass,Successful,20.2,41.8,21.6,70.3
+50,425115,Johan Vásquez,972,Mexico,5,FirstHalf,Pass,Successful,27.3,71.8,27.7,59.4
+51,447638,Érik Lira,972,Mexico,5,FirstHalf,Pass,Successful,28.1,56.3,36.5,15
+52,447634,Israel Reyes,972,Mexico,5,FirstHalf,Pass,Successful,38.6,13.7,43,24.3
+53,447638,Érik Lira,972,Mexico,5,FirstHalf,Pass,Successful,43,24.3,60,94.7
+54,252248,Jesús Gallardo,972,Mexico,5,FirstHalf,Pass,Unsuccessful,61.9,93.9,72.5,70
+38,457247,Teboho Mokoena,485,South Africa,5,FirstHalf,Interception,Successful,27.5,30,,
+39,457254,Nkosinathi Sibisi,485,South Africa,5,FirstHalf,Pass,Successful,31.9,22.5,31.9,33.9
+40,386978,Yaya Sithole,485,South Africa,5,FirstHalf,BallRecovery,Successful,31.9,34.2,,
+41,386978,Yaya Sithole,485,South Africa,5,FirstHalf,Pass,Successful,33,35.7,37.1,53.1
+42,456637,Jayden Adams,485,South Africa,5,FirstHalf,Pass,Successful,38.9,60.2,49.2,57.2
+43,371447,Lyle Foster,485,South Africa,5,FirstHalf,Pass,Unsuccessful,49.6,54.6,62.3,0
+56,252248,Jesús Gallardo,972,Mexico,5,FirstHalf,Pass,Successful,41.1,100,26.4,92.9
+57,425115,Johan Vásquez,972,Mexico,6,FirstHalf,Pass,Successful,37.3,70.3,44.7,92.9
+58,252248,Jesús Gallardo,972,Mexico,6,FirstHalf,Pass,Successful,45.9,93.3,34.1,84.5
+59,425115,Johan Vásquez,972,Mexico,6,FirstHalf,Pass,Successful,34.1,84.5,30,64.8
+60,447631,César Montes,972,Mexico,6,FirstHalf,Pass,Successful,31.3,58.5,33.2,32.2
+61,447634,Israel Reyes,972,Mexico,6,FirstHalf,Pass,Successful,33.6,30.3,31,48.8
+62,447631,César Montes,972,Mexico,6,FirstHalf,Pass,Successful,31,48.8,35.4,41.8
+63,396565,Brian Gutiérrez,972,Mexico,6,FirstHalf,Pass,Successful,35.4,41.8,36.5,71.2
+64,425115,Johan Vásquez,972,Mexico,6,FirstHalf,Pass,Successful,55.2,73.3,54.9,80.5
+65,509557,Julián Quiñones,972,Mexico,6,FirstHalf,Pass,Successful,56.5,77.9,63.8,85.4
+66,452407,Álvaro Fidalgo,972,Mexico,6,FirstHalf,Pass,Successful,64.3,84.4,77.9,95.1
+67,252248,Jesús Gallardo,972,Mexico,6,FirstHalf,Dispossessed,Successful,96,90.4,,
+45,457250,Khuliso Mudau,485,South Africa,6,FirstHalf,Tackle,Unsuccessful,4.1,9.6,,
+68,252248,Jesús Gallardo,972,Mexico,6,FirstHalf,BallTouch,Successful,95.3,90.2,,
+47,99002,Ronwen Williams,485,South Africa,7,FirstHalf,Pass,Successful,4.8,49.4,6,15
+48,457254,Nkosinathi Sibisi,485,South Africa,7,FirstHalf,Pass,Unsuccessful,8,12.8,8.8,13.2
+70,108186,Raúl Jiménez,972,Mexico,7,FirstHalf,BlockedPass,Successful,91.2,86.8,,
+50,99002,Ronwen Williams,485,South Africa,7,FirstHalf,Pass,Successful,5.1,41.2,4.8,13.7
+51,457254,Nkosinathi Sibisi,485,South Africa,7,FirstHalf,Pass,Unsuccessful,4.8,11.9,59,11
+72,425115,Johan Vásquez,972,Mexico,7,FirstHalf,Aerial,Successful,41,89,,
+52,498795,Iqraam Rayners,485,South Africa,7,FirstHalf,Aerial,Unsuccessful,59,11,,
+73,425115,Johan Vásquez,972,Mexico,7,FirstHalf,Clearance,Successful,41,89,55.3,89.1
+53,457247,Teboho Mokoena,485,South Africa,7,FirstHalf,Aerial,Successful,44.7,10.9,,
+75,509557,Julián Quiñones,972,Mexico,7,FirstHalf,Aerial,Unsuccessful,55.3,89.1,,
+54,457247,Teboho Mokoena,485,South Africa,7,FirstHalf,Pass,Unsuccessful,44.7,10.9,50.1,0
+77,252248,Jesús Gallardo,972,Mexico,7,FirstHalf,Pass,Successful,54.7,100,35.7,90.5
+78,425115,Johan Vásquez,972,Mexico,7,FirstHalf,Pass,Successful,35.4,88.4,30.9,63.6
+79,447631,César Montes,972,Mexico,7,FirstHalf,Pass,Successful,31.1,63.6,34.2,30.6
+80,447634,Israel Reyes,972,Mexico,7,FirstHalf,Pass,Successful,35.8,28.6,63.8,94.7
+81,252248,Jesús Gallardo,972,Mexico,7,FirstHalf,Pass,Unsuccessful,63.8,94.7,84.2,88.3
+56,457254,Nkosinathi Sibisi,485,South Africa,7,FirstHalf,Pass,Successful,17.4,12,21.3,3.8
+57,457250,Khuliso Mudau,485,South Africa,7,FirstHalf,BallRecovery,Successful,20.6,3.1,,
+58,457250,Khuliso Mudau,485,South Africa,7,FirstHalf,Pass,Unsuccessful,17.5,2.9,21.1,2.6
+82,252248,Jesús Gallardo,972,Mexico,7,FirstHalf,BlockedPass,Successful,78.9,97.4,,
+60,457254,Nkosinathi Sibisi,485,South Africa,8,FirstHalf,Pass,Unsuccessful,21.3,0,34.6,6.1
+85,252248,Jesús Gallardo,972,Mexico,8,FirstHalf,Aerial,Successful,65.4,93.9,,
+61,498795,Iqraam Rayners,485,South Africa,8,FirstHalf,Aerial,Unsuccessful,34.6,6.1,,
+86,252248,Jesús Gallardo,972,Mexico,8,FirstHalf,Pass,Successful,65.4,93.9,68.7,91.2
+169,509557,Julián Quiñones,972,Mexico,8,FirstHalf,Pass,Successful,62.7,88.2,70,72.9
+87,396565,Brian Gutiérrez,972,Mexico,8,FirstHalf,BallTouch,Unsuccessful,68.2,73.3,,
+62,456637,Jayden Adams,485,South Africa,8,FirstHalf,Pass,Successful,27.3,33.1,6.8,45.1
+63,99002,Ronwen Williams,485,South Africa,8,FirstHalf,Pass,Successful,7.5,47.3,23.5,43
+64,386978,Yaya Sithole,485,South Africa,8,FirstHalf,Dispossessed,Successful,23.6,39,,
+88,447638,Érik Lira,972,Mexico,8,FirstHalf,Tackle,Successful,76.4,61,,
+65,386978,Yaya Sithole,485,South Africa,8,FirstHalf,Error,Successful,23.6,41,,
+89,509557,Julián Quiñones,972,Mexico,8,FirstHalf,BallRecovery,Successful,82.6,62.7,,
+90,509557,Julián Quiñones,972,Mexico,8,FirstHalf,Goal,Successful,85.1,59.5,,
+66,498795,Iqraam Rayners,485,South Africa,9,FirstHalf,Pass,Successful,50.3,49.5,47.7,51.1
+353,456637,Jayden Adams,485,South Africa,9,FirstHalf,Pass,Successful,43.8,52.1,36.3,38.2
+354,457247,Teboho Mokoena,485,South Africa,9,FirstHalf,Pass,Successful,38.9,32.4,32.5,48.8
+67,386978,Yaya Sithole,485,South Africa,9,FirstHalf,Pass,Successful,39.8,71.1,29.6,77.6
+68,563880,Mbekezeli Mbokazi,485,South Africa,9,FirstHalf,Pass,Successful,26.1,73.9,25.1,48.5
+69,504648,Ime Okon,485,South Africa,9,FirstHalf,Pass,Successful,25,44.9,27.2,11.3
+70,457254,Nkosinathi Sibisi,485,South Africa,9,FirstHalf,Pass,Unsuccessful,29.4,7,71.3,6.1
+91,425115,Johan Vásquez,972,Mexico,9,FirstHalf,Clearance,Successful,31.4,88.7,42,94.2
+71,457250,Khuliso Mudau,485,South Africa,9,FirstHalf,Pass,Unsuccessful,63.5,6.1,54.4,10.4
+417,509557,Julián Quiñones,972,Mexico,9,FirstHalf,Pass,Unsuccessful,45.9,74.7,39.2,71.1
+72,456637,Jayden Adams,485,South Africa,9,FirstHalf,Pass,Unsuccessful,61.9,40.9,71.4,44.3
+92,447631,César Montes,972,Mexico,9,FirstHalf,Pass,Successful,32.3,62.2,67.4,86.1
+187,108186,Raúl Jiménez,972,Mexico,9,FirstHalf,BallTouch,Unsuccessful,63.1,72.9,,
+73,,,485,South Africa,9,FirstHalf,Foul,Successful,36.1,30.8,,
+183,108186,Raúl Jiménez,972,Mexico,9,FirstHalf,Foul,Unsuccessful,63.9,69.2,,
+74,504648,Ime Okon,485,South Africa,10,FirstHalf,Pass,Successful,32.7,36.4,38.8,28.5
+351,457247,Teboho Mokoena,485,South Africa,10,FirstHalf,Pass,Successful,40.1,23.6,55,24.4
+350,498795,Iqraam Rayners,485,South Africa,10,FirstHalf,BallTouch,Unsuccessful,61.3,22.1,,
+414,509557,Julián Quiñones,972,Mexico,10,FirstHalf,TakeOn,Successful,54,94.4,,
+352,457250,Khuliso Mudau,485,South Africa,10,FirstHalf,Challenge,Unsuccessful,46,5.6,,
+94,509557,Julián Quiñones,972,Mexico,10,FirstHalf,Foul,Successful,53.1,94.7,,
+76,457250,Khuliso Mudau,485,South Africa,10,FirstHalf,Foul,Unsuccessful,46.9,5.3,,
+95,452407,Álvaro Fidalgo,972,Mexico,11,FirstHalf,Pass,Successful,54.1,91.2,54.8,78.1
+96,447638,Érik Lira,972,Mexico,11,FirstHalf,Pass,Successful,61.6,78.1,55.5,85.6
+97,452407,Álvaro Fidalgo,972,Mexico,11,FirstHalf,Pass,Successful,55.3,83.8,61.5,90.1
+307,509557,Julián Quiñones,972,Mexico,11,FirstHalf,Pass,Successful,56.7,87,60.1,94.7
+98,252248,Jesús Gallardo,972,Mexico,11,FirstHalf,Pass,Successful,61.4,95.9,51.9,90.8
+99,452407,Álvaro Fidalgo,972,Mexico,11,FirstHalf,Pass,Successful,47.4,87.1,34.9,50.7
+100,447631,César Montes,972,Mexico,11,FirstHalf,Pass,Successful,35.1,50.6,36.1,73.6
+101,425115,Johan Vásquez,972,Mexico,11,FirstHalf,Pass,Successful,36.3,73.8,10.1,52.4
+102,527319,Raúl Rangel,972,Mexico,11,FirstHalf,Pass,Successful,13.8,47.6,13.9,73.5
+103,425115,Johan Vásquez,972,Mexico,11,FirstHalf,Pass,Successful,22.1,75.7,8,53.9
+104,527319,Raúl Rangel,972,Mexico,11,FirstHalf,Pass,Successful,9,51.6,22.4,24.1
+105,447631,César Montes,972,Mexico,11,FirstHalf,Pass,Successful,23.3,23.7,27.2,38.3
+106,447638,Érik Lira,972,Mexico,11,FirstHalf,Pass,Successful,27.8,38.5,27.9,77.9
+107,425115,Johan Vásquez,972,Mexico,11,FirstHalf,Pass,Successful,31.2,74.2,26.6,59.4
+108,447631,César Montes,972,Mexico,11,FirstHalf,Pass,Successful,28.5,58.4,97.5,89.1
+109,108186,Raúl Jiménez,972,Mexico,11,FirstHalf,Dispossessed,Successful,97.4,90.7,,
+77,457250,Khuliso Mudau,485,South Africa,11,FirstHalf,Tackle,Successful,2.6,9.2,,
+78,457250,Khuliso Mudau,485,South Africa,11,FirstHalf,CornerAwarded,Unsuccessful,2.4,8.7,,
+110,108186,Raúl Jiménez,972,Mexico,11,FirstHalf,CornerAwarded,Successful,97.6,91.2,,
+111,447636,Roberto Alvarado,972,Mexico,12,FirstHalf,Pass,Successful,99.5,99.5,90.2,51.7
+112,108186,Raúl Jiménez,972,Mexico,12,FirstHalf,Aerial,Successful,90.2,51.7,,
+79,563880,Mbekezeli Mbokazi,485,South Africa,12,FirstHalf,Aerial,Unsuccessful,9.8,48.3,,
+113,108186,Raúl Jiménez,972,Mexico,12,FirstHalf,MissedShots,Successful,90.2,51.7,,
+80,99002,Ronwen Williams,485,South Africa,12,FirstHalf,Claim,Successful,2.8,44.2,,
+81,99002,Ronwen Williams,485,South Africa,12,FirstHalf,Pass,Successful,11.8,49.4,37.7,53
+82,456637,Jayden Adams,485,South Africa,12,FirstHalf,Pass,Unsuccessful,46.7,51.9,91.7,60.9
+114,527319,Raúl Rangel,972,Mexico,12,FirstHalf,BallRecovery,Successful,7.7,37.1,,
+115,527319,Raúl Rangel,972,Mexico,12,FirstHalf,Pass,Successful,9.1,41.2,22.5,15.8
+116,447634,Israel Reyes,972,Mexico,13,FirstHalf,Pass,Successful,26.2,17.6,25.2,42.2
+117,447631,César Montes,972,Mexico,13,FirstHalf,Pass,Successful,27.6,43.9,28,27.3
+118,447634,Israel Reyes,972,Mexico,13,FirstHalf,Pass,Successful,28,27.3,7.5,55.7
+119,527319,Raúl Rangel,972,Mexico,13,FirstHalf,Pass,Successful,7.2,56,39.5,94.8
+120,252248,Jesús Gallardo,972,Mexico,13,FirstHalf,Pass,Successful,37.6,93,22.6,91.5
+121,425115,Johan Vásquez,972,Mexico,13,FirstHalf,Pass,Unsuccessful,22.6,91.5,63.7,66.3
+83,563880,Mbekezeli Mbokazi,485,South Africa,13,FirstHalf,Pass,Successful,38.1,38.3,37.5,34.2
+84,504648,Ime Okon,485,South Africa,13,FirstHalf,Pass,Successful,36.2,35.2,44.9,37.7
+85,386978,Yaya Sithole,485,South Africa,13,FirstHalf,Pass,Unsuccessful,44.9,37.7,50.4,38.3
+122,447631,César Montes,972,Mexico,13,FirstHalf,Pass,Unsuccessful,39.2,57.8,73.1,57.5
+86,504648,Ime Okon,485,South Africa,13,FirstHalf,BallRecovery,Successful,25.2,43.3,,
+88,504648,Ime Okon,485,South Africa,13,FirstHalf,Pass,Successful,20.1,59.3,24.1,70.5
+89,563880,Mbekezeli Mbokazi,485,South Africa,13,FirstHalf,Pass,Successful,24.3,73.9,32.4,80.2
+90,456637,Jayden Adams,485,South Africa,13,FirstHalf,Pass,Successful,28.7,40.9,30.6,13.4
+91,457254,Nkosinathi Sibisi,485,South Africa,13,FirstHalf,Pass,Successful,31.6,9.8,68.7,1.6
+92,457250,Khuliso Mudau,485,South Africa,13,FirstHalf,BallTouch,Unsuccessful,68.8,1.6,,
+125,252248,Jesús Gallardo,972,Mexico,14,FirstHalf,Pass,Successful,28.3,100,46.4,95.3
+126,108186,Raúl Jiménez,972,Mexico,14,FirstHalf,Pass,Successful,47.2,95.6,39.2,84.7
+127,452407,Álvaro Fidalgo,972,Mexico,14,FirstHalf,Foul,Successful,43.2,82.3,,
+94,386978,Yaya Sithole,485,South Africa,14,FirstHalf,Foul,Unsuccessful,56.8,17.7,,
+128,425115,Johan Vásquez,972,Mexico,15,FirstHalf,Pass,Successful,40.6,79.9,31.7,67.2
+129,447631,César Montes,972,Mexico,15,FirstHalf,Pass,Successful,31.7,67.2,31.4,31.2
+130,447634,Israel Reyes,972,Mexico,15,FirstHalf,Pass,Successful,37.2,24.9,78.8,9.4
+131,396565,Brian Gutiérrez,972,Mexico,15,FirstHalf,TakeOn,Unsuccessful,72.9,13.5,,
+95,452622,Aubrey Modiba,485,South Africa,15,FirstHalf,Tackle,Unsuccessful,27,86.6,,
+132,396565,Brian Gutiérrez,972,Mexico,15,FirstHalf,BallTouch,Successful,76.2,9.7,,
+96,563880,Mbekezeli Mbokazi,485,South Africa,15,FirstHalf,Foul,Successful,25.6,89.2,,
+133,396565,Brian Gutiérrez,972,Mexico,15,FirstHalf,Foul,Unsuccessful,74.6,10.8,,
+98,563880,Mbekezeli Mbokazi,485,South Africa,15,FirstHalf,Pass,Unsuccessful,24,93.6,67.6,62.3
+855,425115,Johan Vásquez,972,Mexico,15,FirstHalf,Aerial,Successful,32.4,37.7,,
+664,498795,Iqraam Rayners,485,South Africa,15,FirstHalf,Aerial,Unsuccessful,67.6,62.3,,
+134,425115,Johan Vásquez,972,Mexico,15,FirstHalf,Clearance,Successful,32.4,37.7,31.8,26.1
+99,371447,Lyle Foster,485,South Africa,15,FirstHalf,Pass,Successful,66.3,70.8,61.7,75
+100,456637,Jayden Adams,485,South Africa,15,FirstHalf,Pass,Successful,64.8,69.4,62.9,51
+101,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,Pass,Successful,62.5,46.7,65.6,6.1
+102,457250,Khuliso Mudau,485,South Africa,15,FirstHalf,Pass,Successful,66.1,10.9,60.4,24.3
+103,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,Pass,Successful,65.9,31.3,64.8,49
+104,386978,Yaya Sithole,485,South Africa,15,FirstHalf,Pass,Successful,66.6,53.3,66.6,68.8
+105,563880,Mbekezeli Mbokazi,485,South Africa,16,FirstHalf,Pass,Unsuccessful,68.3,71.8,73.7,61.2
+135,447638,Érik Lira,972,Mexico,16,FirstHalf,Interception,Successful,26.3,38.8,,
+106,452622,Aubrey Modiba,485,South Africa,16,FirstHalf,Pass,Successful,64.2,95.7,75,96.3
+107,563880,Mbekezeli Mbokazi,485,South Africa,16,FirstHalf,Pass,Unsuccessful,73.8,96.5,80.4,69
+136,447631,César Montes,972,Mexico,16,FirstHalf,Clearance,Successful,21.3,28.5,25.4,24.4
+137,396565,Brian Gutiérrez,972,Mexico,16,FirstHalf,BallRecovery,Successful,25.4,24.6,,
+138,396565,Brian Gutiérrez,972,Mexico,16,FirstHalf,Pass,Successful,26.1,24.1,22,9.8
+139,447634,Israel Reyes,972,Mexico,16,FirstHalf,Pass,Successful,22,9.8,31.5,34
+140,452407,Álvaro Fidalgo,972,Mexico,16,FirstHalf,Foul,Successful,29.6,34,,
+108,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Foul,Unsuccessful,70.3,66,,
+109,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Card,Successful,0,0,,
+141,447634,Israel Reyes,972,Mexico,16,FirstHalf,Pass,Successful,29.8,29.2,25.9,55.8
+142,447631,César Montes,972,Mexico,16,FirstHalf,Pass,Successful,25.9,55.8,29.7,79
+143,425115,Johan Vásquez,972,Mexico,16,FirstHalf,Pass,Successful,30.1,79.1,44.4,83.8
+144,509557,Julián Quiñones,972,Mexico,16,FirstHalf,Pass,Unsuccessful,44.4,83.8,34.3,82.3
+110,498795,Iqraam Rayners,485,South Africa,17,FirstHalf,Dispossessed,Successful,68.2,16.2,,
+145,425115,Johan Vásquez,972,Mexico,17,FirstHalf,Tackle,Unsuccessful,31.9,83.8,,
+111,498795,Iqraam Rayners,485,South Africa,17,FirstHalf,Pass,Successful,69,20.1,61.2,24.7
+112,457247,Teboho Mokoena,485,South Africa,17,FirstHalf,BallRecovery,Successful,59.5,28,,
+113,457247,Teboho Mokoena,485,South Africa,17,FirstHalf,Pass,Successful,59.5,28,53.1,44.9
+114,386978,Yaya Sithole,485,South Africa,17,FirstHalf,Pass,Successful,53.2,47,53.4,66.4
+115,563880,Mbekezeli Mbokazi,485,South Africa,17,FirstHalf,Pass,Successful,54.5,69.7,58.3,93.3
+116,452622,Aubrey Modiba,485,South Africa,17,FirstHalf,Pass,Successful,54.1,91.8,41.1,91.7
+117,563880,Mbekezeli Mbokazi,485,South Africa,17,FirstHalf,Pass,Successful,36.5,92.9,13.4,60.9
+118,99002,Ronwen Williams,485,South Africa,17,FirstHalf,Pass,Successful,12.6,59,16,25.9
+119,504648,Ime Okon,485,South Africa,17,FirstHalf,Pass,Successful,14,22.8,35.8,3.5
+120,457254,Nkosinathi Sibisi,485,South Africa,17,FirstHalf,Pass,Successful,36.8,4,55.4,8.5
+121,457247,Teboho Mokoena,485,South Africa,17,FirstHalf,Pass,Unsuccessful,58.8,10.7,96.4,33.3
+146,527319,Raúl Rangel,972,Mexico,17,FirstHalf,BallRecovery,Successful,6.9,69,,
+147,527319,Raúl Rangel,972,Mexico,17,FirstHalf,Pass,Successful,12.3,57.3,24,55.2
+148,447638,Érik Lira,972,Mexico,17,FirstHalf,Pass,Successful,24,55.2,19.9,26.2
+149,447631,César Montes,972,Mexico,17,FirstHalf,Pass,Successful,20,25.5,8.6,49.3
+150,527319,Raúl Rangel,972,Mexico,17,FirstHalf,Pass,Successful,8.7,49.3,21.1,76.6
+151,425115,Johan Vásquez,972,Mexico,18,FirstHalf,Pass,Successful,21.9,75.6,8.1,50.6
+152,527319,Raúl Rangel,972,Mexico,18,FirstHalf,Pass,Successful,8.7,49.4,55.4,77.8
+153,108186,Raúl Jiménez,972,Mexico,18,FirstHalf,Aerial,Successful,55.4,77.8,,
+122,504648,Ime Okon,485,South Africa,18,FirstHalf,Aerial,Unsuccessful,44.6,22.2,,
+154,108186,Raúl Jiménez,972,Mexico,18,FirstHalf,Pass,Unsuccessful,55.4,77.8,71.9,91.2
+123,457250,Khuliso Mudau,485,South Africa,18,FirstHalf,BallRecovery,Successful,25.2,14.6,,
+124,457250,Khuliso Mudau,485,South Africa,18,FirstHalf,Pass,Successful,21.2,20.4,7.6,44.2
+125,99002,Ronwen Williams,485,South Africa,18,FirstHalf,Pass,Unsuccessful,9.9,43.7,68.4,61.7
+155,447631,César Montes,972,Mexico,18,FirstHalf,Aerial,Successful,31.6,38.3,,
+126,371447,Lyle Foster,485,South Africa,18,FirstHalf,Aerial,Unsuccessful,68.4,61.7,,
+156,447631,César Montes,972,Mexico,18,FirstHalf,Clearance,Successful,31.6,38.3,42.3,14.1
+159,447636,Roberto Alvarado,972,Mexico,18,FirstHalf,BallRecovery,Successful,55.6,22.1,,
+157,447636,Roberto Alvarado,972,Mexico,18,FirstHalf,Pass,Successful,42.3,14.1,53.3,28.6
+158,447638,Érik Lira,972,Mexico,18,FirstHalf,Pass,Successful,53.3,28.6,50.2,46.9
+160,396565,Brian Gutiérrez,972,Mexico,18,FirstHalf,Pass,Successful,50.2,46.9,68.2,15.3
+161,447636,Roberto Alvarado,972,Mexico,18,FirstHalf,Pass,Successful,68.9,15.6,88.2,17.1
+162,452407,Álvaro Fidalgo,972,Mexico,18,FirstHalf,Pass,Successful,88.5,14.9,84.9,6.2
+163,447636,Roberto Alvarado,972,Mexico,18,FirstHalf,Pass,Successful,84.9,6.2,77.5,15
+164,452407,Álvaro Fidalgo,972,Mexico,18,FirstHalf,Pass,Successful,77.5,15,70.2,8.9
+165,447634,Israel Reyes,972,Mexico,18,FirstHalf,Pass,Successful,69.2,9.7,72.9,38
+166,509557,Julián Quiñones,972,Mexico,18,FirstHalf,MissedShots,Successful,74.4,34.2,,
+128,99002,Ronwen Williams,485,South Africa,19,FirstHalf,Pass,Successful,4.9,49.3,5.2,65.7
+129,504648,Ime Okon,485,South Africa,19,FirstHalf,Pass,Unsuccessful,5.9,73.9,41.3,70.9
+130,371447,Lyle Foster,485,South Africa,19,FirstHalf,Foul,Successful,41.6,70.2,,
+168,447631,César Montes,972,Mexico,19,FirstHalf,Foul,Unsuccessful,58.4,29.8,,
+131,452622,Aubrey Modiba,485,South Africa,19,FirstHalf,Pass,Successful,42.1,68.4,36.4,51.5
+132,386978,Yaya Sithole,485,South Africa,19,FirstHalf,Pass,Successful,37,46.4,52.7,6.8
+133,457250,Khuliso Mudau,485,South Africa,19,FirstHalf,Pass,Successful,52.7,9.1,41.5,17
+134,457254,Nkosinathi Sibisi,485,South Africa,20,FirstHalf,Pass,Successful,35.4,30,27,49.7
+135,99002,Ronwen Williams,485,South Africa,20,FirstHalf,Pass,Successful,27.8,44,30.8,17.7
+136,457254,Nkosinathi Sibisi,485,South Africa,20,FirstHalf,Pass,Successful,30.6,11.7,44.7,5.8
+137,457250,Khuliso Mudau,485,South Africa,20,FirstHalf,Pass,Successful,43.5,7.3,36.1,16.4
+138,457247,Teboho Mokoena,485,South Africa,20,FirstHalf,Pass,Successful,34.3,17.4,27.3,8.8
+139,457254,Nkosinathi Sibisi,485,South Africa,20,FirstHalf,Pass,Successful,26.2,11,51.4,9.8
+140,456637,Jayden Adams,485,South Africa,20,FirstHalf,Pass,Successful,52.2,11.1,51.9,19.4
+141,457250,Khuliso Mudau,485,South Africa,20,FirstHalf,Pass,Unsuccessful,63,31.9,72.2,39.5
+170,447631,César Montes,972,Mexico,20,FirstHalf,BallRecovery,Successful,24.9,46.6,,
+171,447631,César Montes,972,Mexico,20,FirstHalf,Foul,Successful,37.2,11.9,,
+142,457250,Khuliso Mudau,485,South Africa,20,FirstHalf,Foul,Unsuccessful,62.8,88,,
+172,447634,Israel Reyes,972,Mexico,21,FirstHalf,Pass,Successful,41.6,10.7,33,34.6
+173,447631,César Montes,972,Mexico,21,FirstHalf,Pass,Successful,33,34.6,33.6,74.2
+174,425115,Johan Vásquez,972,Mexico,21,FirstHalf,Pass,Successful,33.6,74.2,40.2,94.2
+175,252248,Jesús Gallardo,972,Mexico,21,FirstHalf,Pass,Unsuccessful,41,93.9,41.3,92.4
+143,456637,Jayden Adams,485,South Africa,21,FirstHalf,BallTouch,Successful,58.7,7.6,,
+176,509557,Julián Quiñones,972,Mexico,21,FirstHalf,Pass,Unsuccessful,56.3,68.5,57.8,64.4
+144,457247,Teboho Mokoena,485,South Africa,21,FirstHalf,BlockedPass,Successful,42.2,35.6,,
+177,108186,Raúl Jiménez,972,Mexico,21,FirstHalf,Pass,Successful,65.6,57.8,57.9,49.6
+178,396565,Brian Gutiérrez,972,Mexico,21,FirstHalf,Pass,Successful,57.9,49.6,72.8,13.4
+179,447636,Roberto Alvarado,972,Mexico,21,FirstHalf,Pass,Unsuccessful,71,16.5,89,45.2
+145,504648,Ime Okon,485,South Africa,21,FirstHalf,Clearance,Successful,11.6,46.4,26.3,76.3
+146,452622,Aubrey Modiba,485,South Africa,21,FirstHalf,Pass,Successful,28.1,77,28.3,66.4
+147,386978,Yaya Sithole,485,South Africa,21,FirstHalf,Pass,Successful,28.3,66.4,19.9,77.9
+148,563880,Mbekezeli Mbokazi,485,South Africa,21,FirstHalf,BallRecovery,Successful,19.8,79.1,,
+149,563880,Mbekezeli Mbokazi,485,South Africa,21,FirstHalf,Pass,Successful,19.8,79.1,34.9,80.9
+150,371447,Lyle Foster,485,South Africa,21,FirstHalf,TakeOn,Unsuccessful,34.2,89.2,,
+180,447638,Érik Lira,972,Mexico,21,FirstHalf,Tackle,Successful,65.8,10.8,,
+152,563880,Mbekezeli Mbokazi,485,South Africa,21,FirstHalf,Pass,Successful,36.9,100,38.1,90
+153,457247,Teboho Mokoena,485,South Africa,21,FirstHalf,Pass,Successful,39.5,86.9,34.1,77.6
+154,386978,Yaya Sithole,485,South Africa,21,FirstHalf,Pass,Successful,34.9,67.9,29.1,37.1
+155,457254,Nkosinathi Sibisi,485,South Africa,21,FirstHalf,Pass,Successful,30.5,33.9,38.9,11
+156,457250,Khuliso Mudau,485,South Africa,21,FirstHalf,Pass,Successful,38.6,7.7,29.4,19.7
+157,457254,Nkosinathi Sibisi,485,South Africa,22,FirstHalf,Pass,Successful,25.3,27.9,20.3,50.1
+158,99002,Ronwen Williams,485,South Africa,22,FirstHalf,Pass,Successful,21.7,54.2,33.3,92.3
+159,563880,Mbekezeli Mbokazi,485,South Africa,22,FirstHalf,Pass,Unsuccessful,39.7,92.9,90,30.7
+182,527319,Raúl Rangel,972,Mexico,22,FirstHalf,Claim,Unsuccessful,10,69.3,,
+160,498795,Iqraam Rayners,485,South Africa,22,FirstHalf,Pass,Unsuccessful,91,13.5,92.3,19.7
+184,252248,Jesús Gallardo,972,Mexico,22,FirstHalf,Clearance,Successful,5.1,87.8,54.5,82.4
+161,457254,Nkosinathi Sibisi,485,South Africa,22,FirstHalf,Pass,Successful,47.2,18.6,70.9,15.6
+162,457250,Khuliso Mudau,485,South Africa,22,FirstHalf,Pass,Successful,73.9,13.5,68,14.6
+164,457247,Teboho Mokoena,485,South Africa,22,FirstHalf,Foul,Successful,74.4,7.8,,
+185,396565,Brian Gutiérrez,972,Mexico,22,FirstHalf,Foul,Unsuccessful,25.6,92.2,,
+186,396565,Brian Gutiérrez,972,Mexico,22,FirstHalf,Card,Successful,0,0,,
+165,457247,Teboho Mokoena,485,South Africa,23,FirstHalf,Pass,Unsuccessful,76.8,3.1,88,43.3
+188,447631,César Montes,972,Mexico,23,FirstHalf,Aerial,Successful,12,56.7,,
+166,371447,Lyle Foster,485,South Africa,23,FirstHalf,Aerial,Unsuccessful,88,43.3,,
+189,447631,César Montes,972,Mexico,23,FirstHalf,Clearance,Successful,12,56.7,32.8,31.9
+167,563880,Mbekezeli Mbokazi,485,South Africa,23,FirstHalf,Pass,Unsuccessful,67.5,78.4,85.9,33.9
+190,108186,Raúl Jiménez,972,Mexico,24,FirstHalf,Aerial,Successful,14.1,66.1,,
+168,371447,Lyle Foster,485,South Africa,24,FirstHalf,Aerial,Unsuccessful,85.9,33.9,,
+191,108186,Raúl Jiménez,972,Mexico,24,FirstHalf,Clearance,Successful,14.1,66.1,25.2,85.6
+192,509557,Julián Quiñones,972,Mexico,24,FirstHalf,BallRecovery,Successful,27,88.3,,
+193,509557,Julián Quiñones,972,Mexico,24,FirstHalf,Pass,Unsuccessful,27,89.7,25.9,87.8
+169,456637,Jayden Adams,485,South Africa,24,FirstHalf,BlockedPass,Successful,74.1,12.2,,
+197,425115,Johan Vásquez,972,Mexico,27,FirstHalf,Pass,Successful,4.6,60.9,3.5,51.2
+198,527319,Raúl Rangel,972,Mexico,27,FirstHalf,Pass,Unsuccessful,6.2,48.7,66.7,47.3
+173,504648,Ime Okon,485,South Africa,27,FirstHalf,Clearance,Successful,34.6,51.5,52.7,50.4
+174,457247,Teboho Mokoena,485,South Africa,27,FirstHalf,Pass,Successful,53.1,52.4,43,82
+175,452622,Aubrey Modiba,485,South Africa,27,FirstHalf,BallRecovery,Successful,43,82.1,,
+176,452622,Aubrey Modiba,485,South Africa,27,FirstHalf,Pass,Successful,56.5,81.2,45,72.7
+177,457247,Teboho Mokoena,485,South Africa,27,FirstHalf,Pass,Successful,41.9,72.1,33.6,43.9
+178,504648,Ime Okon,485,South Africa,27,FirstHalf,Pass,Successful,35.2,35.5,37.4,13.8
+179,457254,Nkosinathi Sibisi,485,South Africa,27,FirstHalf,Pass,Successful,37.8,15.6,33.4,30.7
+180,504648,Ime Okon,485,South Africa,27,FirstHalf,Pass,Successful,33.5,37.7,23.9,60.9
+181,99002,Ronwen Williams,485,South Africa,27,FirstHalf,Pass,Successful,24.2,62.3,29.3,77.2
+182,563880,Mbekezeli Mbokazi,485,South Africa,27,FirstHalf,Pass,Unsuccessful,30,77,71.5,72.9
+199,447634,Israel Reyes,972,Mexico,27,FirstHalf,Clearance,Successful,27.2,27,32.9,30
+200,447638,Érik Lira,972,Mexico,27,FirstHalf,Pass,Successful,32.9,30,26.9,21.3
+201,447636,Roberto Alvarado,972,Mexico,27,FirstHalf,Pass,Successful,26.9,21.3,30.1,27
+202,447638,Érik Lira,972,Mexico,27,FirstHalf,Aerial,Successful,30.1,27,,
+183,456637,Jayden Adams,485,South Africa,27,FirstHalf,Aerial,Unsuccessful,69.9,73,,
+203,447638,Érik Lira,972,Mexico,27,FirstHalf,Pass,Unsuccessful,30.1,27,31.3,14.4
+184,452622,Aubrey Modiba,485,South Africa,27,FirstHalf,Pass,Successful,66.5,84.2,54.6,83.8
+185,563880,Mbekezeli Mbokazi,485,South Africa,28,FirstHalf,Pass,Successful,55.8,76.7,62.3,73.5
+186,457247,Teboho Mokoena,485,South Africa,28,FirstHalf,Pass,Successful,57.6,71.1,39.2,56.1
+187,504648,Ime Okon,485,South Africa,28,FirstHalf,Pass,Successful,38.8,49.4,39.5,23.6
+188,457254,Nkosinathi Sibisi,485,South Africa,28,FirstHalf,Pass,Successful,39.3,18.5,60,2.3
+189,457250,Khuliso Mudau,485,South Africa,28,FirstHalf,Pass,Successful,57.4,4.9,47.8,15.6
+190,386978,Yaya Sithole,485,South Africa,28,FirstHalf,Dispossessed,Successful,45.1,13.8,,
+204,108186,Raúl Jiménez,972,Mexico,28,FirstHalf,Tackle,Successful,54.9,86.2,,
+205,108186,Raúl Jiménez,972,Mexico,28,FirstHalf,Pass,Successful,59.3,89,54.4,81.4
+206,452407,Álvaro Fidalgo,972,Mexico,28,FirstHalf,BallRecovery,Successful,57.6,80.3,,
+207,452407,Álvaro Fidalgo,972,Mexico,28,FirstHalf,Pass,Successful,61.9,75.7,64.6,80.8
+208,108186,Raúl Jiménez,972,Mexico,28,FirstHalf,Pass,Successful,64.1,78.5,84.2,93.8
+209,509557,Julián Quiñones,972,Mexico,28,FirstHalf,Pass,Successful,84.7,94.1,70.8,95
+210,252248,Jesús Gallardo,972,Mexico,28,FirstHalf,Pass,Successful,70.3,92.9,81.9,96.5
+211,509557,Julián Quiñones,972,Mexico,28,FirstHalf,Pass,Successful,81.3,96.2,66,94.7
+212,452407,Álvaro Fidalgo,972,Mexico,28,FirstHalf,Pass,Successful,67.8,91.5,71.7,94.5
+213,509557,Julián Quiñones,972,Mexico,28,FirstHalf,Pass,Successful,70.7,95.7,33.7,73.5
+214,425115,Johan Vásquez,972,Mexico,28,FirstHalf,Pass,Successful,33.7,73.5,8.3,47.5
+215,527319,Raúl Rangel,972,Mexico,28,FirstHalf,Pass,Successful,8.3,47.5,19,81.4
+216,425115,Johan Vásquez,972,Mexico,28,FirstHalf,Pass,Successful,25.5,81.4,41,96
+217,509557,Julián Quiñones,972,Mexico,28,FirstHalf,Pass,Successful,43.4,95,38.8,88
+218,452407,Álvaro Fidalgo,972,Mexico,28,FirstHalf,Pass,Successful,40.9,85.3,50.7,71.2
+219,447638,Érik Lira,972,Mexico,28,FirstHalf,Pass,Successful,50.7,71.2,60,80.9
+220,509557,Julián Quiñones,972,Mexico,28,FirstHalf,Pass,Successful,60.2,80.2,70.5,95.6
+221,252248,Jesús Gallardo,972,Mexico,29,FirstHalf,Pass,Successful,72,93.6,70.8,78.7
+222,509557,Julián Quiñones,972,Mexico,29,FirstHalf,Pass,Successful,70.2,75.4,77.6,70.8
+223,396565,Brian Gutiérrez,972,Mexico,29,FirstHalf,SavedShot,Successful,84.8,63,,
+192,386978,Yaya Sithole,485,South Africa,29,FirstHalf,Save,Successful,11.4,39.9,,
+193,504648,Ime Okon,485,South Africa,29,FirstHalf,Pass,Successful,16.3,29.8,17.1,12.6
+194,457250,Khuliso Mudau,485,South Africa,29,FirstHalf,BallRecovery,Successful,17.7,9.5,,
+195,457250,Khuliso Mudau,485,South Africa,29,FirstHalf,Pass,Unsuccessful,19.1,8.9,66.2,14
+224,527319,Raúl Rangel,972,Mexico,29,FirstHalf,BallRecovery,Successful,17.9,73.6,,
+225,527319,Raúl Rangel,972,Mexico,29,FirstHalf,Pass,Successful,19.2,72.4,29.3,75.7
+226,425115,Johan Vásquez,972,Mexico,29,FirstHalf,Pass,Successful,29.9,75.3,43.1,92.4
+227,452407,Álvaro Fidalgo,972,Mexico,29,FirstHalf,Pass,Successful,56.2,89.3,58.2,79.4
+228,509557,Julián Quiñones,972,Mexico,29,FirstHalf,Pass,Successful,60.9,79,86.4,6.1
+229,447636,Roberto Alvarado,972,Mexico,29,FirstHalf,Pass,Successful,85,6.2,69.6,18.5
+230,447634,Israel Reyes,972,Mexico,29,FirstHalf,Pass,Unsuccessful,69.6,18.5,95.6,52.4
+196,99002,Ronwen Williams,485,South Africa,29,FirstHalf,Claim,Successful,4.4,47.6,,
+197,99002,Ronwen Williams,485,South Africa,29,FirstHalf,Pass,Successful,10.8,48.4,23.1,75.7
+198,457247,Teboho Mokoena,485,South Africa,29,FirstHalf,Pass,Successful,27.5,76.3,14,75.7
+199,563880,Mbekezeli Mbokazi,485,South Africa,29,FirstHalf,Pass,Successful,20.2,94.1,8,82.1
+200,504648,Ime Okon,485,South Africa,29,FirstHalf,Pass,Successful,6.1,79.6,5.3,58.1
+201,99002,Ronwen Williams,485,South Africa,30,FirstHalf,Pass,Successful,9,49.1,11.6,72.4
+202,504648,Ime Okon,485,South Africa,30,FirstHalf,Pass,Successful,9.5,74.7,5.1,53.9
+203,99002,Ronwen Williams,485,South Africa,30,FirstHalf,Pass,Unsuccessful,5.7,47.2,60.3,26.2
+231,425115,Johan Vásquez,972,Mexico,30,FirstHalf,Pass,Successful,27.7,82.1,38.1,91.2
+232,252248,Jesús Gallardo,972,Mexico,30,FirstHalf,BallRecovery,Successful,38.6,90.9,,
+233,252248,Jesús Gallardo,972,Mexico,30,FirstHalf,Pass,Successful,38.6,90.8,40.9,75.1
+234,447638,Érik Lira,972,Mexico,30,FirstHalf,Pass,Successful,41.8,68.2,43.2,29.4
+235,447634,Israel Reyes,972,Mexico,30,FirstHalf,Pass,Successful,43.1,30.3,31.7,44
+236,447631,César Montes,972,Mexico,30,FirstHalf,Pass,Successful,32.3,43.7,35,74.5
+237,425115,Johan Vásquez,972,Mexico,30,FirstHalf,Pass,Successful,35,74.5,40.6,95
+238,252248,Jesús Gallardo,972,Mexico,30,FirstHalf,Pass,Unsuccessful,39.7,94.5,64.4,70.9
+204,504648,Ime Okon,485,South Africa,30,FirstHalf,Pass,Successful,36.2,28,29.4,25.2
+205,457254,Nkosinathi Sibisi,485,South Africa,30,FirstHalf,Pass,Successful,27.8,25.8,6.3,44.6
+206,99002,Ronwen Williams,485,South Africa,30,FirstHalf,BallRecovery,Successful,6.3,44.6,,
+207,99002,Ronwen Williams,485,South Africa,30,FirstHalf,Pass,Successful,11.6,40.4,25.2,60.8
+208,457247,Teboho Mokoena,485,South Africa,30,FirstHalf,Pass,Successful,25.5,67,36.7,81.4
+209,452622,Aubrey Modiba,485,South Africa,30,FirstHalf,Pass,Unsuccessful,37,81.5,57.1,93.9
+239,447636,Roberto Alvarado,972,Mexico,30,FirstHalf,BallRecovery,Successful,37.3,12.2,,
+240,447636,Roberto Alvarado,972,Mexico,30,FirstHalf,Pass,Successful,37.3,12.2,7.7,52.8
+11225,452622,Aubrey Modiba,485,South Africa,31,FirstHalf,OffsideGiven,Unsuccessful,76.5,92,,
+241,527319,Raúl Rangel,972,Mexico,31,FirstHalf,Pass,Successful,7.9,52.7,6.7,17.9
+242,447631,César Montes,972,Mexico,31,FirstHalf,Pass,Unsuccessful,12.3,15.3,64.8,53.3
+210,457254,Nkosinathi Sibisi,485,South Africa,31,FirstHalf,BallRecovery,Successful,35.4,43.9,,
+211,457254,Nkosinathi Sibisi,485,South Africa,31,FirstHalf,Pass,Successful,35.6,38.8,42,23.9
+212,457250,Khuliso Mudau,485,South Africa,31,FirstHalf,Pass,Successful,45.1,26.4,46.2,42.7
+213,386978,Yaya Sithole,485,South Africa,31,FirstHalf,Pass,Successful,46.2,43.6,41,58.8
+214,504648,Ime Okon,485,South Africa,31,FirstHalf,Pass,Successful,40.7,62.7,52.5,93.6
+215,563880,Mbekezeli Mbokazi,485,South Africa,31,FirstHalf,Pass,Successful,54.1,91.4,45,68.4
+216,504648,Ime Okon,485,South Africa,31,FirstHalf,Pass,Successful,44.8,66,57.1,65.4
+217,457247,Teboho Mokoena,485,South Africa,31,FirstHalf,Pass,Successful,57.1,65.4,41.2,62.7
+218,504648,Ime Okon,485,South Africa,31,FirstHalf,Pass,Successful,39.3,40.6,37.4,30
+219,457254,Nkosinathi Sibisi,485,South Africa,31,FirstHalf,Pass,Successful,35.6,31,20.2,49
+220,99002,Ronwen Williams,485,South Africa,31,FirstHalf,Pass,Successful,20.2,49.3,34.7,95.3
+221,563880,Mbekezeli Mbokazi,485,South Africa,31,FirstHalf,Pass,Successful,39.4,85,30.4,77.6
+222,504648,Ime Okon,485,South Africa,31,FirstHalf,Pass,Successful,27.5,73,27.1,35.1
+223,99002,Ronwen Williams,485,South Africa,31,FirstHalf,Pass,Successful,27,38.9,27,66.1
+224,504648,Ime Okon,485,South Africa,31,FirstHalf,Pass,Successful,27.7,70.6,31,88.7
+225,563880,Mbekezeli Mbokazi,485,South Africa,31,FirstHalf,OffsidePass,Successful,33.5,94.4,76.5,92
+243,425115,Johan Vásquez,972,Mexico,31,FirstHalf,OffsideProvoked,Successful,31.1,55.6,,
+244,527319,Raúl Rangel,972,Mexico,32,FirstHalf,Pass,Successful,12.9,19.7,62.5,92.3
+245,509557,Julián Quiñones,972,Mexico,32,FirstHalf,Pass,Successful,46.7,92.4,37,89.4
+246,252248,Jesús Gallardo,972,Mexico,32,FirstHalf,Pass,Successful,37.6,88.7,29.9,72.6
+247,425115,Johan Vásquez,972,Mexico,32,FirstHalf,Pass,Successful,31.7,71.2,38.1,95.9
+248,252248,Jesús Gallardo,972,Mexico,32,FirstHalf,Pass,Successful,38.9,95.4,27.2,80.6
+249,425115,Johan Vásquez,972,Mexico,32,FirstHalf,Pass,Successful,28,80.2,7.5,49
+250,527319,Raúl Rangel,972,Mexico,33,FirstHalf,Pass,Successful,7.7,48.1,28.6,96.3
+251,252248,Jesús Gallardo,972,Mexico,33,FirstHalf,BallTouch,Unsuccessful,28.7,96.5,,
+227,457250,Khuliso Mudau,485,South Africa,33,FirstHalf,Pass,Successful,57.9,0,57.8,16.8
+228,457247,Teboho Mokoena,485,South Africa,33,FirstHalf,Pass,Successful,57.7,26.4,57.6,65.8
+229,563880,Mbekezeli Mbokazi,485,South Africa,33,FirstHalf,Pass,Successful,57,67.6,45.3,51.6
+230,504648,Ime Okon,485,South Africa,33,FirstHalf,Pass,Successful,45,46.6,57.9,25.5
+231,457247,Teboho Mokoena,485,South Africa,33,FirstHalf,Pass,Successful,57,25.5,72.7,25.3
+232,456637,Jayden Adams,485,South Africa,33,FirstHalf,Pass,Successful,70.7,31.5,85.2,49.1
+233,371447,Lyle Foster,485,South Africa,33,FirstHalf,Pass,Unsuccessful,84.6,38,83.8,0
+254,252248,Jesús Gallardo,972,Mexico,33,FirstHalf,Pass,Successful,25.9,100,38.1,84.2
+255,108186,Raúl Jiménez,972,Mexico,34,FirstHalf,Pass,Successful,38.1,84.2,37.6,69.3
+256,396565,Brian Gutiérrez,972,Mexico,34,FirstHalf,Pass,Successful,58,51.5,65.6,18.3
+257,447636,Roberto Alvarado,972,Mexico,34,FirstHalf,Pass,Unsuccessful,67.9,23.1,83.8,12.6
+235,563880,Mbekezeli Mbokazi,485,South Africa,34,FirstHalf,Clearance,Successful,11,86.5,10.7,100
+259,447634,Israel Reyes,972,Mexico,34,FirstHalf,Pass,Successful,79.8,0,81.7,15.2
+260,447636,Roberto Alvarado,972,Mexico,34,FirstHalf,Pass,Successful,74.6,17.4,70.4,28.9
+261,396565,Brian Gutiérrez,972,Mexico,34,FirstHalf,Pass,Successful,70.4,28.9,69.1,47.3
+262,452407,Álvaro Fidalgo,972,Mexico,34,FirstHalf,Pass,Successful,68.9,47.5,71.3,71.8
+263,509557,Julián Quiñones,972,Mexico,34,FirstHalf,Pass,Successful,71.5,69,88.2,75.6
+264,252248,Jesús Gallardo,972,Mexico,34,FirstHalf,Pass,Unsuccessful,90.3,75,96.2,53.4
+238,99002,Ronwen Williams,485,South Africa,34,FirstHalf,Interception,Successful,3.8,46.6,,
+239,99002,Ronwen Williams,485,South Africa,34,FirstHalf,KeeperPickup,Successful,4.9,43.4,,
+240,99002,Ronwen Williams,485,South Africa,35,FirstHalf,Pass,Successful,8.5,48.1,64.2,4.9
+242,457247,Teboho Mokoena,485,South Africa,35,FirstHalf,BallTouch,Unsuccessful,71.3,4.6,,
+266,252248,Jesús Gallardo,972,Mexico,35,FirstHalf,Pass,Successful,30.5,100,35.3,91.4
+267,452407,Álvaro Fidalgo,972,Mexico,35,FirstHalf,Pass,Successful,35.3,91.4,30.5,96.8
+268,252248,Jesús Gallardo,972,Mexico,35,FirstHalf,Pass,Successful,31.2,95.4,19.6,34.3
+269,447634,Israel Reyes,972,Mexico,35,FirstHalf,Pass,Successful,31.1,22.4,27.3,42.4
+270,447631,César Montes,972,Mexico,35,FirstHalf,Pass,Successful,28.5,41.8,36.4,49.4
+271,447638,Érik Lira,972,Mexico,35,FirstHalf,Pass,Successful,38.4,53,40.1,78.7
+272,425115,Johan Vásquez,972,Mexico,35,FirstHalf,Pass,Successful,40.1,78.7,53.2,95.1
+273,252248,Jesús Gallardo,972,Mexico,35,FirstHalf,Pass,Successful,54,94.7,48,79.9
+274,447638,Érik Lira,972,Mexico,35,FirstHalf,Pass,Successful,46.9,77.6,42.8,30.7
+275,447634,Israel Reyes,972,Mexico,35,FirstHalf,Pass,Successful,51.9,28.8,39.2,41.2
+276,447631,César Montes,972,Mexico,35,FirstHalf,Pass,Successful,39.2,41.2,37.8,62
+277,425115,Johan Vásquez,972,Mexico,35,FirstHalf,Pass,Successful,37.8,62,43.7,94.8
+278,252248,Jesús Gallardo,972,Mexico,36,FirstHalf,Pass,Successful,44.2,89.3,48.5,75.7
+279,447638,Érik Lira,972,Mexico,36,FirstHalf,Pass,Successful,45.7,77,38.3,68.5
+280,425115,Johan Vásquez,972,Mexico,36,FirstHalf,Pass,Successful,45.9,56.9,38.7,33.6
+281,447631,César Montes,972,Mexico,36,FirstHalf,Pass,Successful,40,36.1,32.7,63.9
+282,425115,Johan Vásquez,972,Mexico,36,FirstHalf,Pass,Successful,32.2,62.6,7.1,50
+283,527319,Raúl Rangel,972,Mexico,36,FirstHalf,Pass,Unsuccessful,7.5,49.3,54,58.2
+243,504648,Ime Okon,485,South Africa,36,FirstHalf,Aerial,Successful,46,41.8,,
+284,108186,Raúl Jiménez,972,Mexico,36,FirstHalf,Aerial,Unsuccessful,54,58.2,,
+244,504648,Ime Okon,485,South Africa,36,FirstHalf,Clearance,Successful,46,41.8,60.2,3.8
+285,252248,Jesús Gallardo,972,Mexico,36,FirstHalf,Pass,Successful,41.1,89,52.9,54.3
+286,396565,Brian Gutiérrez,972,Mexico,36,FirstHalf,BallTouch,Unsuccessful,52.7,54.6,,
+245,386978,Yaya Sithole,485,South Africa,36,FirstHalf,BallRecovery,Successful,41.5,40.6,,
+246,386978,Yaya Sithole,485,South Africa,36,FirstHalf,Pass,Successful,41.5,40.6,48.6,56.9
+247,456637,Jayden Adams,485,South Africa,36,FirstHalf,Pass,Successful,60.3,68.1,60.6,79.7
+248,452622,Aubrey Modiba,485,South Africa,36,FirstHalf,Pass,Successful,57.8,73.9,47.4,59.4
+249,386978,Yaya Sithole,485,South Africa,36,FirstHalf,Pass,Successful,48.8,56.7,44.8,25.8
+250,457254,Nkosinathi Sibisi,485,South Africa,36,FirstHalf,Pass,Successful,44.1,24.4,63.1,2.8
+251,457250,Khuliso Mudau,485,South Africa,36,FirstHalf,Pass,Successful,65,4.3,59.2,15.8
+252,457247,Teboho Mokoena,485,South Africa,36,FirstHalf,Pass,Successful,61.2,20.6,62,72.1
+253,563880,Mbekezeli Mbokazi,485,South Africa,36,FirstHalf,Pass,Successful,68.9,72.4,89.1,42.1
+254,371447,Lyle Foster,485,South Africa,36,FirstHalf,MissedShots,Successful,89.2,42.1,,
+288,527319,Raúl Rangel,972,Mexico,37,FirstHalf,Pass,Unsuccessful,2.6,53.1,59.8,100
+257,457254,Nkosinathi Sibisi,485,South Africa,37,FirstHalf,Pass,Successful,37.2,0,49,2.6
+258,457250,Khuliso Mudau,485,South Africa,37,FirstHalf,Pass,Successful,47.7,5.5,44.5,27.4
+259,386978,Yaya Sithole,485,South Africa,37,FirstHalf,Pass,Successful,45.1,33.3,44.3,68.7
+260,563880,Mbekezeli Mbokazi,485,South Africa,37,FirstHalf,Pass,Successful,50.5,70.2,60.9,69.9
+261,456637,Jayden Adams,485,South Africa,37,FirstHalf,Pass,Successful,54.1,69.4,46.2,51.3
+262,386978,Yaya Sithole,485,South Africa,37,FirstHalf,Pass,Successful,45.7,47.5,45.6,21
+263,457254,Nkosinathi Sibisi,485,South Africa,37,FirstHalf,Pass,Unsuccessful,46.2,17,77.7,11.3
+290,252248,Jesús Gallardo,972,Mexico,37,FirstHalf,Aerial,Successful,22.3,88.7,,
+264,498795,Iqraam Rayners,485,South Africa,37,FirstHalf,Aerial,Unsuccessful,77.7,11.3,,
+291,252248,Jesús Gallardo,972,Mexico,37,FirstHalf,Clearance,Successful,22.3,88.7,6.8,55.7
+292,527319,Raúl Rangel,972,Mexico,37,FirstHalf,KeeperPickup,Successful,7.8,55.2,,
+293,527319,Raúl Rangel,972,Mexico,37,FirstHalf,Pass,Successful,7.3,51.9,19.4,18.5
+294,447634,Israel Reyes,972,Mexico,37,FirstHalf,Pass,Successful,19.8,18.6,27.2,31.9
+295,447638,Érik Lira,972,Mexico,38,FirstHalf,Pass,Successful,27.4,31.6,60.9,5.5
+296,447636,Roberto Alvarado,972,Mexico,38,FirstHalf,Pass,Successful,57.1,6.7,39.8,10
+297,447634,Israel Reyes,972,Mexico,38,FirstHalf,Pass,Successful,38.5,11.7,36.7,95.3
+298,252248,Jesús Gallardo,972,Mexico,38,FirstHalf,Pass,Successful,39,95.1,29.1,79.7
+299,425115,Johan Vásquez,972,Mexico,38,FirstHalf,Pass,Successful,30.1,79.1,36.3,69
+300,447638,Érik Lira,972,Mexico,38,FirstHalf,Pass,Successful,37.1,67.9,44.1,65.4
+301,452407,Álvaro Fidalgo,972,Mexico,38,FirstHalf,Pass,Successful,44.1,78.7,42.8,95
+302,252248,Jesús Gallardo,972,Mexico,38,FirstHalf,Pass,Successful,43,94.1,31.9,77.6
+303,425115,Johan Vásquez,972,Mexico,38,FirstHalf,Pass,Successful,31.9,77.6,30.5,55.4
+304,447631,César Montes,972,Mexico,38,FirstHalf,Pass,Successful,30.8,54.6,31.5,70.6
+305,425115,Johan Vásquez,972,Mexico,38,FirstHalf,Pass,Successful,31.5,70.6,36.1,52.4
+306,447638,Érik Lira,972,Mexico,38,FirstHalf,Foul,Successful,38.7,52.2,,
+266,386978,Yaya Sithole,485,South Africa,38,FirstHalf,Foul,Unsuccessful,61.3,47.8,,
+308,447631,César Montes,972,Mexico,39,FirstHalf,Pass,Successful,35.9,43.6,36.8,67.3
+309,425115,Johan Vásquez,972,Mexico,39,FirstHalf,Pass,Successful,36.8,67.3,42.6,89
+310,452407,Álvaro Fidalgo,972,Mexico,39,FirstHalf,Pass,Successful,42.6,89,38.1,69.6
+311,425115,Johan Vásquez,972,Mexico,39,FirstHalf,Pass,Successful,38.1,69.6,31.8,47
+312,447631,César Montes,972,Mexico,39,FirstHalf,Pass,Successful,32.4,45.2,31.8,23.6
+313,447634,Israel Reyes,972,Mexico,39,FirstHalf,Pass,Successful,32.3,25.9,32.3,39.5
+314,447631,César Montes,972,Mexico,39,FirstHalf,Pass,Successful,32.3,39.5,37.7,20
+315,396565,Brian Gutiérrez,972,Mexico,39,FirstHalf,Pass,Successful,37.7,20,29.2,20
+316,447634,Israel Reyes,972,Mexico,39,FirstHalf,Pass,Unsuccessful,29.2,20,37.6,34.8
+267,386978,Yaya Sithole,485,South Africa,39,FirstHalf,Interception,Successful,62.4,65.2,,
+268,452622,Aubrey Modiba,485,South Africa,39,FirstHalf,Pass,Unsuccessful,60.5,73.3,60.9,71.5
+317,447634,Israel Reyes,972,Mexico,39,FirstHalf,BlockedPass,Successful,39.1,28.5,,
+318,447638,Érik Lira,972,Mexico,39,FirstHalf,Pass,Successful,39.4,27.1,41.6,35.2
+319,509557,Julián Quiñones,972,Mexico,39,FirstHalf,Pass,Successful,41.6,35.2,38.1,28.5
+320,447638,Érik Lira,972,Mexico,39,FirstHalf,Pass,Successful,38.1,28.5,56.2,15.8
+321,396565,Brian Gutiérrez,972,Mexico,39,FirstHalf,Pass,Unsuccessful,56.2,15.8,63.5,7.4
+269,563880,Mbekezeli Mbokazi,485,South Africa,39,FirstHalf,Interception,Successful,36.5,92.6,,
+323,447634,Israel Reyes,972,Mexico,40,FirstHalf,Pass,Successful,46.5,0,34.7,19.4
+324,447631,César Montes,972,Mexico,40,FirstHalf,Pass,Successful,35.1,19.2,32.1,44.6
+325,425115,Johan Vásquez,972,Mexico,40,FirstHalf,Pass,Successful,33.8,57.9,33.8,79.7
+326,252248,Jesús Gallardo,972,Mexico,40,FirstHalf,Pass,Successful,33.8,79.7,27.4,68.1
+327,425115,Johan Vásquez,972,Mexico,40,FirstHalf,Pass,Successful,26.8,68.5,3.5,54.3
+328,527319,Raúl Rangel,972,Mexico,40,FirstHalf,Pass,Unsuccessful,3.5,54.3,42.6,47.8
+271,457247,Teboho Mokoena,485,South Africa,40,FirstHalf,Aerial,Successful,57.4,52.2,,
+349,396565,Brian Gutiérrez,972,Mexico,40,FirstHalf,Aerial,Unsuccessful,42.6,47.8,,
+272,457247,Teboho Mokoena,485,South Africa,40,FirstHalf,BallTouch,Successful,55.5,54.8,,
+273,563880,Mbekezeli Mbokazi,485,South Africa,40,FirstHalf,Dispossessed,Successful,54.2,60.4,,
+329,447636,Roberto Alvarado,972,Mexico,40,FirstHalf,Tackle,Successful,45.8,39.6,,
+331,396565,Brian Gutiérrez,972,Mexico,40,FirstHalf,Pass,Successful,41.7,48.7,52.7,57.2
+332,108186,Raúl Jiménez,972,Mexico,40,FirstHalf,Pass,Successful,52.7,57.2,39.7,61.7
+333,452407,Álvaro Fidalgo,972,Mexico,40,FirstHalf,Pass,Successful,39.7,61.7,39,44.6
+334,447638,Érik Lira,972,Mexico,40,FirstHalf,Pass,Successful,39,44.6,42.3,61.7
+335,452407,Álvaro Fidalgo,972,Mexico,40,FirstHalf,Pass,Successful,43.3,62.1,44.8,90.3
+336,252248,Jesús Gallardo,972,Mexico,40,FirstHalf,Pass,Successful,45.7,89,40.8,77.6
+337,452407,Álvaro Fidalgo,972,Mexico,40,FirstHalf,Pass,Successful,41.3,77.3,42.9,69.3
+338,447638,Érik Lira,972,Mexico,40,FirstHalf,Pass,Successful,42.9,69.3,52.6,73.5
+339,509557,Julián Quiñones,972,Mexico,40,FirstHalf,Pass,Successful,52.6,73.5,55.5,51.5
+340,396565,Brian Gutiérrez,972,Mexico,40,FirstHalf,Pass,Unsuccessful,62,50.4,71.4,63.6
+274,457254,Nkosinathi Sibisi,485,South Africa,40,FirstHalf,Interception,Successful,28.6,36.4,,
+275,457254,Nkosinathi Sibisi,485,South Africa,40,FirstHalf,BallRecovery,Successful,26.9,35.2,,
+276,457254,Nkosinathi Sibisi,485,South Africa,40,FirstHalf,Pass,Successful,26.9,35.2,33.7,28.5
+277,386978,Yaya Sithole,485,South Africa,40,FirstHalf,Pass,Unsuccessful,33.7,28.5,35.3,28.5
+341,425115,Johan Vásquez,972,Mexico,40,FirstHalf,BallRecovery,Successful,57,66.7,,
+342,425115,Johan Vásquez,972,Mexico,40,FirstHalf,Pass,Successful,57,66.7,65.3,79
+343,252248,Jesús Gallardo,972,Mexico,40,FirstHalf,Pass,Successful,65.3,78.2,68.9,69.9
+344,509557,Julián Quiñones,972,Mexico,40,FirstHalf,Pass,Successful,66.8,64.2,68.2,44.8
+345,447636,Roberto Alvarado,972,Mexico,40,FirstHalf,Pass,Successful,69.1,41.2,74.6,14.1
+346,447634,Israel Reyes,972,Mexico,40,FirstHalf,Pass,Successful,73.2,15,71.4,26.5
+347,447636,Roberto Alvarado,972,Mexico,41,FirstHalf,Pass,Successful,71.4,25.9,66.3,19.4
+348,447634,Israel Reyes,972,Mexico,41,FirstHalf,Pass,Successful,66.3,19.4,67.3,34.2
+350,447638,Érik Lira,972,Mexico,41,FirstHalf,Pass,Unsuccessful,67.3,34.2,77.5,71.8
+279,457250,Khuliso Mudau,485,South Africa,41,FirstHalf,Clearance,Successful,18.2,25.9,28.1,23
+351,452407,Álvaro Fidalgo,972,Mexico,41,FirstHalf,Pass,Unsuccessful,71.1,72.6,97.4,49.3
+280,99002,Ronwen Williams,485,South Africa,41,FirstHalf,Clearance,Successful,2,52.2,2.3,67.6
+281,99002,Ronwen Williams,485,South Africa,41,FirstHalf,KeeperPickup,Successful,2.3,67.6,,
+282,99002,Ronwen Williams,485,South Africa,41,FirstHalf,Pass,Successful,14,66,18.4,16.6
+320,457254,Nkosinathi Sibisi,485,South Africa,41,FirstHalf,Pass,Successful,18.6,13.9,32.9,6.2
+283,457250,Khuliso Mudau,485,South Africa,41,FirstHalf,Pass,Successful,31.8,5.5,23.3,7.1
+284,457254,Nkosinathi Sibisi,485,South Africa,41,FirstHalf,Pass,Unsuccessful,22.9,7.1,42.2,13.4
+352,425115,Johan Vásquez,972,Mexico,41,FirstHalf,Interception,Successful,57.8,86.6,,
+353,452407,Álvaro Fidalgo,972,Mexico,41,FirstHalf,Pass,Successful,61.4,78.5,54.7,69
+354,447638,Érik Lira,972,Mexico,41,FirstHalf,Pass,Successful,54.7,69,45,76.1
+355,425115,Johan Vásquez,972,Mexico,41,FirstHalf,Pass,Successful,45,76.1,60.7,73.3
+356,452407,Álvaro Fidalgo,972,Mexico,41,FirstHalf,BallRecovery,Successful,61.5,73.5,,
+357,452407,Álvaro Fidalgo,972,Mexico,41,FirstHalf,BallTouch,Successful,63.5,73.5,,
+358,509557,Julián Quiñones,972,Mexico,41,FirstHalf,SavedShot,Successful,75.1,45,,
+286,386978,Yaya Sithole,485,South Africa,41,FirstHalf,Save,Successful,22.8,54.7,,
+287,563880,Mbekezeli Mbokazi,485,South Africa,41,FirstHalf,BallTouch,Successful,9.6,71.2,,
+359,447636,Roberto Alvarado,972,Mexico,41,FirstHalf,Pass,Successful,91.8,23.7,89.9,34.2
+360,396565,Brian Gutiérrez,972,Mexico,41,FirstHalf,Pass,Successful,89.9,34.2,86.5,44.6
+361,509557,Julián Quiñones,972,Mexico,41,FirstHalf,ShotOnPost,Successful,86.5,44.6,,
+288,452622,Aubrey Modiba,485,South Africa,41,FirstHalf,BallRecovery,Successful,8.1,64.9,,
+289,452622,Aubrey Modiba,485,South Africa,41,FirstHalf,Pass,Successful,8.1,64.9,12.8,74.2
+291,563880,Mbekezeli Mbokazi,485,South Africa,42,FirstHalf,Foul,Successful,23.4,90.6,,
+363,447636,Roberto Alvarado,972,Mexico,42,FirstHalf,Foul,Unsuccessful,76.6,9.4,,
+292,563880,Mbekezeli Mbokazi,485,South Africa,42,FirstHalf,Pass,Successful,27.4,88.6,33.9,60.8
+294,457247,Teboho Mokoena,485,South Africa,42,FirstHalf,Pass,Successful,34.9,36.9,39.1,9.8
+295,457250,Khuliso Mudau,485,South Africa,42,FirstHalf,Pass,Successful,39.1,9.8,35,21.9
+296,457247,Teboho Mokoena,485,South Africa,42,FirstHalf,Pass,Successful,34.4,22.7,22.9,12.9
+297,457254,Nkosinathi Sibisi,485,South Africa,42,FirstHalf,Pass,Successful,22.4,20.9,23.2,59.9
+298,504648,Ime Okon,485,South Africa,42,FirstHalf,Pass,Successful,23.9,67.9,29.8,82.1
+299,563880,Mbekezeli Mbokazi,485,South Africa,42,FirstHalf,Pass,Successful,36.3,81.8,33.2,70
+300,504648,Ime Okon,485,South Africa,42,FirstHalf,Pass,Successful,35.3,63.6,35.6,30
+301,457254,Nkosinathi Sibisi,485,South Africa,42,FirstHalf,Pass,Successful,35.7,27.6,46.9,5.8
+302,457250,Khuliso Mudau,485,South Africa,42,FirstHalf,Pass,Successful,46.4,5.5,61.9,21.3
+303,498795,Iqraam Rayners,485,South Africa,42,FirstHalf,Pass,Unsuccessful,64.2,29.5,70.1,61.8
+364,447636,Roberto Alvarado,972,Mexico,42,FirstHalf,BallRecovery,Successful,29.6,34.6,,
+365,447636,Roberto Alvarado,972,Mexico,42,FirstHalf,Pass,Successful,30.4,35.5,37.3,60.8
+366,452407,Álvaro Fidalgo,972,Mexico,42,FirstHalf,Pass,Successful,37.3,60.8,44.4,65.5
+367,396565,Brian Gutiérrez,972,Mexico,43,FirstHalf,Pass,Successful,43.8,64.8,48,64.2
+368,452407,Álvaro Fidalgo,972,Mexico,43,FirstHalf,Pass,Unsuccessful,56.9,75.7,75,39.8
+305,563880,Mbekezeli Mbokazi,485,South Africa,43,FirstHalf,Pass,Successful,24.1,70.8,29.3,78.2
+306,452622,Aubrey Modiba,485,South Africa,43,FirstHalf,BallRecovery,Successful,29.4,78.2,,
+307,452622,Aubrey Modiba,485,South Africa,43,FirstHalf,Pass,Successful,31.9,76.3,33,64.5
+308,457247,Teboho Mokoena,485,South Africa,43,FirstHalf,Pass,Successful,45.4,56.3,60.6,29.2
+309,456637,Jayden Adams,485,South Africa,43,FirstHalf,Pass,Successful,61.7,27.4,74.7,27.3
+310,498795,Iqraam Rayners,485,South Africa,43,FirstHalf,Pass,Successful,74.8,27.1,72.9,9.4
+311,457250,Khuliso Mudau,485,South Africa,43,FirstHalf,Pass,Unsuccessful,73.1,6.7,79.5,14.1
+369,252248,Jesús Gallardo,972,Mexico,43,FirstHalf,BallTouch,Successful,23.2,88.1,,
+370,252248,Jesús Gallardo,972,Mexico,43,FirstHalf,CornerAwarded,Unsuccessful,22.2,87.3,,
+312,457250,Khuliso Mudau,485,South Africa,43,FirstHalf,CornerAwarded,Successful,77.8,12.7,,
+313,452622,Aubrey Modiba,485,South Africa,44,FirstHalf,Pass,Successful,99.5,0.5,77.2,15
+314,457247,Teboho Mokoena,485,South Africa,44,FirstHalf,Pass,Successful,77.2,15,83.5,9.2
+315,452622,Aubrey Modiba,485,South Africa,44,FirstHalf,Pass,Unsuccessful,83.7,9.1,90.2,45.7
+371,447634,Israel Reyes,972,Mexico,44,FirstHalf,Clearance,Successful,11,49.9,31.5,42.2
+316,563880,Mbekezeli Mbokazi,485,South Africa,44,FirstHalf,SavedShot,Successful,68,53.6,,
+372,527319,Raúl Rangel,972,Mexico,44,FirstHalf,Save,Successful,2,47.3,,
+373,527319,Raúl Rangel,972,Mexico,44,FirstHalf,KeeperPickup,Successful,8.1,42.2,,
+375,527319,Raúl Rangel,972,Mexico,44,FirstHalf,Pass,Successful,2.9,49.3,28.4,93.6
+376,252248,Jesús Gallardo,972,Mexico,44,FirstHalf,Pass,Successful,28.3,86.9,13.8,85.4
+377,425115,Johan Vásquez,972,Mexico,44,FirstHalf,Pass,Successful,20.1,73.5,14.7,33.9
+378,447631,César Montes,972,Mexico,44,FirstHalf,Pass,Successful,15.1,33.4,4.2,51.5
+379,527319,Raúl Rangel,972,Mexico,44,FirstHalf,Pass,Successful,5.2,50.7,13.5,47.8
+380,447638,Érik Lira,972,Mexico,44,FirstHalf,Pass,Successful,13.5,47.8,18.5,86.5
+381,425115,Johan Vásquez,972,Mexico,44,FirstHalf,Pass,Successful,25.6,84.5,29.6,77.9
+382,452407,Álvaro Fidalgo,972,Mexico,44,FirstHalf,Pass,Successful,36.2,78.1,42.1,90.5
+383,252248,Jesús Gallardo,972,Mexico,44,FirstHalf,Pass,Unsuccessful,42.6,90.8,87.1,71.4
+317,99002,Ronwen Williams,485,South Africa,44,FirstHalf,KeeperSweeper,Successful,14.5,29.1,,
+318,99002,Ronwen Williams,485,South Africa,45,FirstHalf,Clearance,Successful,14.1,28.8,69.9,11.6
+384,252248,Jesús Gallardo,972,Mexico,45,FirstHalf,BallTouch,Successful,37.2,85.7,,
+385,447631,César Montes,972,Mexico,45,FirstHalf,Pass,Successful,25.1,63.6,33,93.8
+386,252248,Jesús Gallardo,972,Mexico,45,FirstHalf,Pass,Successful,35.2,92.6,27.4,78.7
+387,425115,Johan Vásquez,972,Mexico,45,FirstHalf,Pass,Successful,30,75.3,37.7,65.5
+388,447638,Érik Lira,972,Mexico,45,FirstHalf,Pass,Successful,34.9,61.7,34.1,25.8
+389,447634,Israel Reyes,972,Mexico,45,FirstHalf,Pass,Successful,34.9,24.4,34.5,67.2
+390,425115,Johan Vásquez,972,Mexico,45,FirstHalf,Pass,Successful,34.5,66.9,42.2,95.1
+391,252248,Jesús Gallardo,972,Mexico,45,FirstHalf,Pass,Successful,41.2,93.8,26,77.3
+392,425115,Johan Vásquez,972,Mexico,45,FirstHalf,Pass,Successful,13.6,73.3,5.9,50.6
+393,527319,Raúl Rangel,972,Mexico,45,FirstHalf,Pass,Successful,12.1,48.5,75,35.1
+394,108186,Raúl Jiménez,972,Mexico,45,FirstHalf,Pass,Unsuccessful,75,35.1,89.3,14.3
+321,563880,Mbekezeli Mbokazi,485,South Africa,46,FirstHalf,Clearance,Successful,10,84.5,16.3,100
+396,447634,Israel Reyes,972,Mexico,46,FirstHalf,Pass,Successful,85,0,80.7,36
+397,108186,Raúl Jiménez,972,Mexico,46,FirstHalf,Pass,Successful,77.8,35.8,68.6,63.6
+398,252248,Jesús Gallardo,972,Mexico,46,FirstHalf,SavedShot,Successful,69.5,63.6,,
+323,563880,Mbekezeli Mbokazi,485,South Africa,46,FirstHalf,Save,Successful,20.5,40.8,,
+324,99002,Ronwen Williams,485,South Africa,46,FirstHalf,KeeperPickup,Successful,0.5,40.1,,
+325,99002,Ronwen Williams,485,South Africa,46,FirstHalf,Pass,Successful,11.9,29.7,18.2,73.2
+326,504648,Ime Okon,485,South Africa,46,FirstHalf,Pass,Successful,27.5,74.1,30.2,63.1
+327,386978,Yaya Sithole,485,South Africa,46,FirstHalf,Pass,Successful,32.9,59.3,32.7,28.5
+328,457254,Nkosinathi Sibisi,485,South Africa,46,FirstHalf,Pass,Successful,32.9,24,44.9,4.3
+329,457250,Khuliso Mudau,485,South Africa,46,FirstHalf,Pass,Successful,54.2,6.1,44.6,18.6
+330,456637,Jayden Adams,485,South Africa,46,FirstHalf,Pass,Successful,50.2,25,82.9,92.9
+331,452622,Aubrey Modiba,485,South Africa,46,FirstHalf,TakeOn,Unsuccessful,85,86.8,,
+399,447636,Roberto Alvarado,972,Mexico,46,FirstHalf,Tackle,Unsuccessful,15,13.2,,
+332,452622,Aubrey Modiba,485,South Africa,47,FirstHalf,TakeOn,Unsuccessful,96.2,88.5,,
+400,447636,Roberto Alvarado,972,Mexico,47,FirstHalf,Tackle,Unsuccessful,3.8,11.6,,
+333,452622,Aubrey Modiba,485,South Africa,47,FirstHalf,BallTouch,Successful,97,88.7,,
+402,527319,Raúl Rangel,972,Mexico,47,FirstHalf,Pass,Successful,3.4,48.2,70.4,44.2
+403,108186,Raúl Jiménez,972,Mexico,47,FirstHalf,Aerial,Successful,70.4,44.2,,
+335,504648,Ime Okon,485,South Africa,47,FirstHalf,Aerial,Unsuccessful,29.6,55.8,,
+411,108186,Raúl Jiménez,972,Mexico,47,FirstHalf,BallTouch,Unsuccessful,68.1,38.5,,
+337,99002,Ronwen Williams,485,South Africa,47,FirstHalf,KeeperPickup,Successful,10.8,52.2,,
+338,99002,Ronwen Williams,485,South Africa,47,FirstHalf,Pass,Successful,12.1,48.1,37.2,9.1
+339,457250,Khuliso Mudau,485,South Africa,47,FirstHalf,Pass,Successful,39,8.6,57.7,19.5
+340,498795,Iqraam Rayners,485,South Africa,47,FirstHalf,Pass,Successful,57.1,16.7,43,20.3
+341,457247,Teboho Mokoena,485,South Africa,47,FirstHalf,BallTouch,Unsuccessful,43,20.4,,
+404,452407,Álvaro Fidalgo,972,Mexico,47,FirstHalf,BallRecovery,Successful,54.1,72.7,,
+344,457247,Teboho Mokoena,485,South Africa,47,FirstHalf,Error,Successful,30.4,27.1,,
+405,452407,Álvaro Fidalgo,972,Mexico,47,FirstHalf,Pass,Successful,54.1,72.7,61.6,61.2
+406,108186,Raúl Jiménez,972,Mexico,47,FirstHalf,Pass,Successful,61.6,61.2,60.2,80.3
+342,457247,Teboho Mokoena,485,South Africa,48,FirstHalf,Challenge,Unsuccessful,36.6,23.7,,
+407,509557,Julián Quiñones,972,Mexico,48,FirstHalf,TakeOn,Successful,63.4,76.3,,
+408,509557,Julián Quiñones,972,Mexico,48,FirstHalf,Pass,Successful,61.2,74.7,87.8,61.1
+409,396565,Brian Gutiérrez,972,Mexico,48,FirstHalf,MissedShots,Successful,87.8,61.1,,
+345,99002,Ronwen Williams,485,South Africa,48,FirstHalf,Pass,Successful,4.5,57.3,30,86.5
+346,563880,Mbekezeli Mbokazi,485,South Africa,48,FirstHalf,Pass,Successful,30.6,91.8,96.4,98.4
+347,498795,Iqraam Rayners,485,South Africa,48,FirstHalf,BallTouch,Successful,96.4,98.4,,
+349,,,485,South Africa,49,FirstHalf,End,Successful,0,0,,
+413,,,972,Mexico,49,FirstHalf,End,Successful,0,0,,
+355,,,485,South Africa,45,SecondHalf,Start,Successful,0,0,,
+418,,,972,Mexico,45,SecondHalf,Start,Successful,0,0,,
+356,498795,Iqraam Rayners,485,South Africa,45,SecondHalf,Pass,Successful,49.8,49.7,38.6,53.7
+357,457247,Teboho Mokoena,485,South Africa,45,SecondHalf,Pass,Successful,38,46.7,34.3,15.2
+358,457254,Nkosinathi Sibisi,485,South Africa,45,SecondHalf,Pass,Successful,33.8,14.4,39.2,7.4
+359,457250,Khuliso Mudau,485,South Africa,45,SecondHalf,Pass,Successful,39.5,6.5,27.8,14.9
+360,457254,Nkosinathi Sibisi,485,South Africa,45,SecondHalf,Pass,Successful,22.2,14.6,7,42.5
+361,99002,Ronwen Williams,485,South Africa,45,SecondHalf,Pass,Successful,9.3,44.6,10,76.7
+362,504648,Ime Okon,485,South Africa,45,SecondHalf,Pass,Successful,6.1,76.9,4.4,54.6
+363,99002,Ronwen Williams,485,South Africa,45,SecondHalf,Pass,Unsuccessful,5.3,56.4,21.4,50.7
+419,452407,Álvaro Fidalgo,972,Mexico,45,SecondHalf,BallRecovery,Successful,86.9,40.7,,
+420,452407,Álvaro Fidalgo,972,Mexico,45,SecondHalf,Pass,Unsuccessful,92.9,32.4,93.6,39.4
+364,504648,Ime Okon,485,South Africa,45,SecondHalf,BlockedPass,Successful,6.4,60.6,,
+365,504648,Ime Okon,485,South Africa,45,SecondHalf,Clearance,Successful,3.9,60.6,29.2,67.2
+421,396565,Brian Gutiérrez,972,Mexico,45,SecondHalf,MissedShots,Successful,75.2,33.6,,
+367,99002,Ronwen Williams,485,South Africa,46,SecondHalf,Pass,Unsuccessful,4.6,50.3,64.4,76.1
+423,447631,César Montes,972,Mexico,46,SecondHalf,Pass,Unsuccessful,36.7,17.4,44,29.7
+368,386978,Yaya Sithole,485,South Africa,46,SecondHalf,Aerial,Successful,56,70.3,,
+425,396565,Brian Gutiérrez,972,Mexico,46,SecondHalf,Aerial,Unsuccessful,44,29.7,,
+424,396565,Brian Gutiérrez,972,Mexico,46,SecondHalf,BallTouch,Unsuccessful,44.5,29.5,,
+369,386978,Yaya Sithole,485,South Africa,46,SecondHalf,Pass,Successful,53.2,58.7,63.7,58.1
+370,498795,Iqraam Rayners,485,South Africa,46,SecondHalf,Pass,Successful,65.8,50.9,64.9,24.4
+371,457250,Khuliso Mudau,485,South Africa,46,SecondHalf,Pass,Successful,65.7,18.9,77.5,30.1
+372,498795,Iqraam Rayners,485,South Africa,46,SecondHalf,BallTouch,Unsuccessful,77.5,30.3,,
+426,509557,Julián Quiñones,972,Mexico,46,SecondHalf,TakeOn,Successful,27.2,67.4,,
+373,498795,Iqraam Rayners,485,South Africa,46,SecondHalf,Challenge,Unsuccessful,72.8,32.6,,
+427,509557,Julián Quiñones,972,Mexico,46,SecondHalf,BallRecovery,Successful,29.7,64.3,,
+428,509557,Julián Quiñones,972,Mexico,46,SecondHalf,Pass,Successful,30.6,63.3,29.2,59.6
+429,447638,Érik Lira,972,Mexico,46,SecondHalf,Pass,Successful,29,61.8,37.4,76
+430,452407,Álvaro Fidalgo,972,Mexico,46,SecondHalf,Pass,Unsuccessful,42.7,70.3,82.3,50.7
+374,99002,Ronwen Williams,485,South Africa,46,SecondHalf,BallRecovery,Successful,18.1,47.8,,
+375,99002,Ronwen Williams,485,South Africa,46,SecondHalf,Pass,Successful,17.8,47.3,21.2,62
+376,504648,Ime Okon,485,South Africa,46,SecondHalf,Pass,Successful,22.6,69.9,29.1,80.5
+377,563880,Mbekezeli Mbokazi,485,South Africa,46,SecondHalf,Pass,Successful,30.4,82.7,22.4,71.1
+378,504648,Ime Okon,485,South Africa,46,SecondHalf,Pass,Successful,21.7,66.9,18.4,37.6
+379,99002,Ronwen Williams,485,South Africa,46,SecondHalf,Pass,Unsuccessful,21.2,34,84.3,0
+432,252248,Jesús Gallardo,972,Mexico,47,SecondHalf,Pass,Successful,23,100,37.8,91.4
+433,108186,Raúl Jiménez,972,Mexico,47,SecondHalf,Pass,Successful,40.6,92.3,31.1,90.9
+381,457247,Teboho Mokoena,485,South Africa,47,SecondHalf,Challenge,Unsuccessful,60,9.6,,
+434,509557,Julián Quiñones,972,Mexico,47,SecondHalf,TakeOn,Successful,40,90.4,,
+435,509557,Julián Quiñones,972,Mexico,47,SecondHalf,Pass,Successful,32.2,91.1,37.7,96
+436,108186,Raúl Jiménez,972,Mexico,47,SecondHalf,Pass,Successful,39.1,96,43.6,85.3
+382,386978,Yaya Sithole,485,South Africa,47,SecondHalf,Challenge,Unsuccessful,57.6,13.5,,
+437,509557,Julián Quiñones,972,Mexico,47,SecondHalf,TakeOn,Successful,42.4,86.5,,
+438,509557,Julián Quiñones,972,Mexico,47,SecondHalf,SavedShot,Successful,59.5,70.5,,
+383,99002,Ronwen Williams,485,South Africa,47,SecondHalf,Save,Successful,2.8,50.9,,
+384,99002,Ronwen Williams,485,South Africa,47,SecondHalf,KeeperPickup,Successful,2.8,50.9,,
+385,99002,Ronwen Williams,485,South Africa,47,SecondHalf,Pass,Successful,12.5,40.9,27.1,30.1
+406,386978,Yaya Sithole,485,South Africa,47,SecondHalf,Pass,Successful,23.4,28,33.5,20.3
+403,457247,Teboho Mokoena,485,South Africa,47,SecondHalf,Pass,Successful,36.9,20.3,27.2,12.4
+386,457254,Nkosinathi Sibisi,485,South Africa,47,SecondHalf,Pass,Successful,22.9,20.1,15.2,47.8
+387,99002,Ronwen Williams,485,South Africa,47,SecondHalf,Pass,Successful,15.1,49.7,21.6,78.2
+388,504648,Ime Okon,485,South Africa,47,SecondHalf,Pass,Successful,31.6,76.7,44.9,76.4
+389,371447,Lyle Foster,485,South Africa,47,SecondHalf,BallTouch,Successful,44.9,76.4,,
+390,504648,Ime Okon,485,South Africa,47,SecondHalf,Pass,Unsuccessful,39.5,72.1,39.6,76.3
+439,447636,Roberto Alvarado,972,Mexico,47,SecondHalf,TakeOn,Successful,60.8,20.4,,
+391,371447,Lyle Foster,485,South Africa,47,SecondHalf,Challenge,Unsuccessful,39.2,79.6,,
+440,447636,Roberto Alvarado,972,Mexico,47,SecondHalf,BallRecovery,Successful,62.9,14.1,,
+441,447636,Roberto Alvarado,972,Mexico,47,SecondHalf,Pass,Successful,64.4,16.8,61.2,3.7
+442,447634,Israel Reyes,972,Mexico,48,SecondHalf,Pass,Unsuccessful,61.2,3.7,80.2,4.9
+393,452622,Aubrey Modiba,485,South Africa,48,SecondHalf,BallRecovery,Successful,11.9,94.8,,
+394,452622,Aubrey Modiba,485,South Africa,48,SecondHalf,Pass,Successful,10.9,93.2,2.7,70.3
+395,99002,Ronwen Williams,485,South Africa,48,SecondHalf,Pass,Successful,2.2,64.6,6.2,26.4
+396,457254,Nkosinathi Sibisi,485,South Africa,48,SecondHalf,Pass,Successful,7.9,23.6,22.3,5.9
+397,457250,Khuliso Mudau,485,South Africa,48,SecondHalf,Pass,Successful,22.6,5.2,35,17.9
+398,371447,Lyle Foster,485,South Africa,48,SecondHalf,Pass,Unsuccessful,34.1,16.8,34.1,18.6
+443,425115,Johan Vásquez,972,Mexico,48,SecondHalf,BlockedPass,Successful,65.9,81.4,,
+517,457254,Nkosinathi Sibisi,485,South Africa,48,SecondHalf,Pass,Successful,20.9,29.9,29.1,44.4
+399,386978,Yaya Sithole,485,South Africa,48,SecondHalf,Pass,Successful,39.9,35.4,45.7,20.4
+400,456637,Jayden Adams,485,South Africa,48,SecondHalf,Pass,Unsuccessful,55.2,12.6,68.8,18.5
+444,252248,Jesús Gallardo,972,Mexico,48,SecondHalf,Interception,Successful,31.2,81.5,,
+445,447631,César Montes,972,Mexico,48,SecondHalf,Pass,Successful,22.8,67.1,29.6,77.9
+446,252248,Jesús Gallardo,972,Mexico,48,SecondHalf,BallRecovery,Successful,27.9,75.6,,
+447,252248,Jesús Gallardo,972,Mexico,48,SecondHalf,Pass,Successful,27.9,75.6,36.4,71.2
+448,396565,Brian Gutiérrez,972,Mexico,48,SecondHalf,Pass,Successful,38.8,69.9,31.8,75.9
+449,447638,Érik Lira,972,Mexico,48,SecondHalf,Pass,Successful,31.8,75.9,39.2,89.6
+450,452407,Álvaro Fidalgo,972,Mexico,48,SecondHalf,Pass,Successful,37.2,88.1,27,63.4
+451,425115,Johan Vásquez,972,Mexico,48,SecondHalf,Pass,Successful,27,63.4,25.5,31.6
+452,447631,César Montes,972,Mexico,48,SecondHalf,Pass,Successful,25.5,31.6,30,17
+453,447634,Israel Reyes,972,Mexico,48,SecondHalf,Pass,Successful,29.8,17.7,44.8,26.7
+454,108186,Raúl Jiménez,972,Mexico,48,SecondHalf,Pass,Successful,44.8,26.7,36.2,17
+455,447636,Roberto Alvarado,972,Mexico,48,SecondHalf,Pass,Successful,36.2,17,66.5,33.9
+456,396565,Brian Gutiérrez,972,Mexico,48,SecondHalf,Foul,Successful,81.8,42.4,,
+401,386978,Yaya Sithole,485,South Africa,48,SecondHalf,Foul,Unsuccessful,18.2,57.6,,
+402,386978,Yaya Sithole,485,South Africa,49,SecondHalf,Card,Successful,0,0,,
+457,108186,Raúl Jiménez,972,Mexico,51,SecondHalf,SavedShot,Successful,81.9,46,,
+404,498795,Iqraam Rayners,485,South Africa,51,SecondHalf,Save,Successful,8.5,51.3,,
+470,447631,César Montes,972,Mexico,51,SecondHalf,BallTouch,Successful,88.5,54.4,,
+458,396565,Brian Gutiérrez,972,Mexico,51,SecondHalf,Pass,Successful,87.3,61.8,91.8,69.4
+459,252248,Jesús Gallardo,972,Mexico,51,SecondHalf,MissedShots,Successful,91.8,69.4,,
+407,99002,Ronwen Williams,485,South Africa,51,SecondHalf,Pass,Unsuccessful,4.8,45.2,67.3,45.1
+461,425115,Johan Vásquez,972,Mexico,51,SecondHalf,Aerial,Successful,32.7,54.9,,
+408,371447,Lyle Foster,485,South Africa,51,SecondHalf,Aerial,Unsuccessful,67.3,45.1,,
+462,425115,Johan Vásquez,972,Mexico,51,SecondHalf,Pass,Unsuccessful,32.7,54.9,36.6,64.5
+409,371447,Lyle Foster,485,South Africa,51,SecondHalf,BallTouch,Successful,67.3,45.1,,
+463,509557,Julián Quiñones,972,Mexico,51,SecondHalf,Pass,Successful,40.6,69.3,32.3,70.8
+464,452407,Álvaro Fidalgo,972,Mexico,51,SecondHalf,BallRecovery,Successful,32.3,70.8,,
+465,452407,Álvaro Fidalgo,972,Mexico,51,SecondHalf,Pass,Successful,35.2,64.3,54.7,66.4
+466,396565,Brian Gutiérrez,972,Mexico,51,SecondHalf,Pass,Successful,55.4,69,59,91.1
+467,509557,Julián Quiñones,972,Mexico,51,SecondHalf,Pass,Successful,59.2,90.9,82.6,87.1
+468,396565,Brian Gutiérrez,972,Mexico,51,SecondHalf,Dispossessed,Successful,90.2,82.9,,
+410,457250,Khuliso Mudau,485,South Africa,51,SecondHalf,Tackle,Successful,9.8,17.2,,
+469,396565,Brian Gutiérrez,972,Mexico,52,SecondHalf,CornerAwarded,Successful,90.8,82,,
+411,457250,Khuliso Mudau,485,South Africa,52,SecondHalf,CornerAwarded,Unsuccessful,9.2,18,,
+471,447636,Roberto Alvarado,972,Mexico,52,SecondHalf,Pass,Unsuccessful,99.5,99.5,88.1,57
+412,457250,Khuliso Mudau,485,South Africa,52,SecondHalf,Clearance,Successful,10.5,41.6,44.4,12.5
+472,447638,Érik Lira,972,Mexico,52,SecondHalf,Clearance,Successful,55.3,86.3,61.4,100
+414,456637,Jayden Adams,485,South Africa,52,SecondHalf,Pass,Successful,43.5,0,22.4,7.4
+415,457254,Nkosinathi Sibisi,485,South Africa,52,SecondHalf,Pass,Successful,22.9,7.9,31.6,20.3
+416,457247,Teboho Mokoena,485,South Africa,52,SecondHalf,Pass,Successful,34.8,30.4,38.1,72.1
+417,563880,Mbekezeli Mbokazi,485,South Africa,52,SecondHalf,Pass,Successful,39.3,72.4,34.9,64
+418,504648,Ime Okon,485,South Africa,52,SecondHalf,Pass,Successful,38.3,59.3,41.8,51.2
+419,457247,Teboho Mokoena,485,South Africa,53,SecondHalf,Pass,Successful,44.6,54.6,65,78.1
+420,452622,Aubrey Modiba,485,South Africa,53,SecondHalf,Pass,Unsuccessful,65,78.1,75.5,100
+475,447634,Israel Reyes,972,Mexico,53,SecondHalf,Pass,Successful,29.8,0,14.2,17
+476,447631,César Montes,972,Mexico,53,SecondHalf,Pass,Successful,16,23.3,23.9,52.5
+477,425115,Johan Vásquez,972,Mexico,53,SecondHalf,Pass,Successful,31.6,61.2,28.3,38.9
+478,447631,César Montes,972,Mexico,53,SecondHalf,Pass,Successful,30,38.9,41.3,25.6
+479,396565,Brian Gutiérrez,972,Mexico,53,SecondHalf,Pass,Successful,41.7,25.9,35.4,35.5
+480,447631,César Montes,972,Mexico,53,SecondHalf,Pass,Successful,34.6,36.4,44.9,47
+481,452407,Álvaro Fidalgo,972,Mexico,53,SecondHalf,Pass,Successful,44.9,47,32.8,59.4
+482,425115,Johan Vásquez,972,Mexico,53,SecondHalf,Pass,Successful,56.2,71.8,59.6,94.1
+483,252248,Jesús Gallardo,972,Mexico,53,SecondHalf,Pass,Successful,59.6,94.1,39,72.6
+484,447638,Érik Lira,972,Mexico,53,SecondHalf,Pass,Unsuccessful,40.6,69.9,87.5,0
+423,452622,Aubrey Modiba,485,South Africa,54,SecondHalf,Pass,Successful,14.2,100,28.8,89.3
+424,456637,Jayden Adams,485,South Africa,54,SecondHalf,Pass,Unsuccessful,28.8,89.3,44.7,85.4
+486,447631,César Montes,972,Mexico,54,SecondHalf,BallRecovery,Successful,58.3,13.1,,
+487,447631,César Montes,972,Mexico,54,SecondHalf,Pass,Successful,58.3,13.1,69.4,32.5
+488,509557,Julián Quiñones,972,Mexico,54,SecondHalf,Pass,Unsuccessful,68.4,33,69.6,30.4
+426,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Interception,Successful,30.4,69.6,,
+427,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,BallRecovery,Successful,35.6,56.6,,
+428,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,55.8,27.1,75.4,14
+429,498795,Iqraam Rayners,485,South Africa,54,SecondHalf,Pass,Successful,82.5,10.6,70.5,9.7
+430,457250,Khuliso Mudau,485,South Africa,54,SecondHalf,Pass,Successful,67.8,11.9,67.3,48.8
+431,456637,Jayden Adams,485,South Africa,54,SecondHalf,Pass,Successful,65.5,60,65.6,72.7
+432,452622,Aubrey Modiba,485,South Africa,54,SecondHalf,Pass,Successful,61.6,61.4,61.9,36
+433,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,61.1,27.1,66,5
+434,457250,Khuliso Mudau,485,South Africa,54,SecondHalf,Pass,Successful,63.3,5.2,58.8,23.9
+435,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,55.1,52.7,67.9,65.2
+436,452622,Aubrey Modiba,485,South Africa,55,SecondHalf,SavedShot,Successful,69.9,66,,
+490,527319,Raúl Rangel,972,Mexico,55,SecondHalf,Save,Successful,3.4,47.6,,
+491,527319,Raúl Rangel,972,Mexico,55,SecondHalf,KeeperPickup,Successful,3.4,47.6,,
+492,527319,Raúl Rangel,972,Mexico,55,SecondHalf,Pass,Successful,7.8,45.5,17.2,36.1
+493,447631,César Montes,972,Mexico,55,SecondHalf,Pass,Successful,20.1,36.4,20.9,65.2
+494,425115,Johan Vásquez,972,Mexico,55,SecondHalf,Pass,Successful,23.9,66.4,25.2,42.8
+495,447631,César Montes,972,Mexico,55,SecondHalf,Pass,Successful,25.2,42.8,28.5,26.2
+496,447634,Israel Reyes,972,Mexico,55,SecondHalf,Pass,Successful,28.3,26.8,27.8,39.5
+497,447631,César Montes,972,Mexico,55,SecondHalf,Pass,Successful,28.8,41.5,37.5,19.4
+498,396565,Brian Gutiérrez,972,Mexico,55,SecondHalf,Pass,Successful,37.5,19.4,33.4,18
+499,447634,Israel Reyes,972,Mexico,55,SecondHalf,Pass,Unsuccessful,33.4,18,37.2,15.6
+437,452622,Aubrey Modiba,485,South Africa,55,SecondHalf,BlockedPass,Successful,62.8,84.4,,
+439,371447,Lyle Foster,485,South Africa,55,SecondHalf,SubstitutionOff,Successful,0,0,,
+440,551643,Thalente Mbatha,485,South Africa,55,SecondHalf,SubstitutionOn,Successful,0,0,,
+441,,,485,South Africa,56,SecondHalf,FormationChange,Successful,0,0,,
+502,447634,Israel Reyes,972,Mexico,56,SecondHalf,Pass,Successful,25.4,0,30.3,23.7
+515,452407,Álvaro Fidalgo,972,Mexico,56,SecondHalf,Pass,Successful,30.9,49.7,31.7,86.1
+516,252248,Jesús Gallardo,972,Mexico,56,SecondHalf,Pass,Successful,31.7,86.1,28,42.7
+503,447631,César Montes,972,Mexico,56,SecondHalf,Pass,Successful,29.5,34,32.2,22.9
+507,447634,Israel Reyes,972,Mexico,56,SecondHalf,Pass,Unsuccessful,33.8,28.8,71.1,73.6
+442,457254,Nkosinathi Sibisi,485,South Africa,56,SecondHalf,Clearance,Successful,27.4,16.5,41.9,16.1
+443,551643,Thalente Mbatha,485,South Africa,56,SecondHalf,Pass,Successful,41.9,16.1,38,24.1
+444,457250,Khuliso Mudau,485,South Africa,56,SecondHalf,BallRecovery,Successful,40.1,29.8,,
+445,457250,Khuliso Mudau,485,South Africa,56,SecondHalf,Pass,Successful,47.1,41,38.2,39.1
+446,457247,Teboho Mokoena,485,South Africa,56,SecondHalf,Pass,Successful,39.4,31.3,27.9,19.1
+447,457254,Nkosinathi Sibisi,485,South Africa,56,SecondHalf,Pass,Successful,25.6,24.7,31.6,71.7
+448,563880,Mbekezeli Mbokazi,485,South Africa,56,SecondHalf,BallTouch,Unsuccessful,31.6,71.7,,
+508,108186,Raúl Jiménez,972,Mexico,56,SecondHalf,TakeOn,Unsuccessful,78.8,7.4,,
+453,563880,Mbekezeli Mbokazi,485,South Africa,56,SecondHalf,Tackle,Unsuccessful,21.2,92.6,,
+510,447636,Roberto Alvarado,972,Mexico,56,SecondHalf,BallRecovery,Successful,65.9,15.8,,
+511,447636,Roberto Alvarado,972,Mexico,56,SecondHalf,Pass,Successful,65.9,15.8,86,4.3
+512,108186,Raúl Jiménez,972,Mexico,56,SecondHalf,TakeOn,Unsuccessful,74.5,11,,
+449,504648,Ime Okon,485,South Africa,56,SecondHalf,Tackle,Successful,25.5,89,,
+450,504648,Ime Okon,485,South Africa,56,SecondHalf,BallRecovery,Successful,9.5,98,,
+451,504648,Ime Okon,485,South Africa,56,SecondHalf,Pass,Unsuccessful,10.7,97.2,19.6,82
+513,447638,Érik Lira,972,Mexico,56,SecondHalf,Foul,Successful,76.4,22,,
+452,452622,Aubrey Modiba,485,South Africa,56,SecondHalf,Foul,Unsuccessful,23.6,78.1,,
+517,396565,Brian Gutiérrez,972,Mexico,57,SecondHalf,Pass,Successful,75.3,21.5,88.2,40.6
+518,447634,Israel Reyes,972,Mexico,57,SecondHalf,Aerial,Successful,88.2,40.6,,
+454,452622,Aubrey Modiba,485,South Africa,57,SecondHalf,Aerial,Unsuccessful,11.8,59.4,,
+519,447634,Israel Reyes,972,Mexico,57,SecondHalf,MissedShots,Successful,88.2,40.6,,
+455,504648,Ime Okon,485,South Africa,57,SecondHalf,Clearance,Successful,6.7,45.2,5.2,8
+456,563880,Mbekezeli Mbokazi,485,South Africa,57,SecondHalf,Clearance,Successful,4.3,6,72.4,0
+521,252248,Jesús Gallardo,972,Mexico,58,SecondHalf,Pass,Successful,39.2,100,27.2,91.6
+523,447638,Érik Lira,972,Mexico,58,SecondHalf,Pass,Successful,27.6,69.3,30.9,32.8
+524,447631,César Montes,972,Mexico,58,SecondHalf,Pass,Successful,30.9,32.8,36,40
+525,452407,Álvaro Fidalgo,972,Mexico,58,SecondHalf,Pass,Successful,34.9,38.6,42.5,8.6
+458,452622,Aubrey Modiba,485,South Africa,58,SecondHalf,Challenge,Unsuccessful,41.9,84.2,,
+526,447636,Roberto Alvarado,972,Mexico,58,SecondHalf,TakeOn,Successful,58.1,15.8,,
+527,447636,Roberto Alvarado,972,Mexico,58,SecondHalf,Pass,Successful,62.8,11.7,66.1,5.2
+528,396565,Brian Gutiérrez,972,Mexico,58,SecondHalf,Pass,Successful,67.2,5,36.2,9.7
+529,447634,Israel Reyes,972,Mexico,58,SecondHalf,Pass,Successful,36.2,9.7,13.5,53
+530,527319,Raúl Rangel,972,Mexico,58,SecondHalf,Pass,Successful,13.3,53,26,75
+531,425115,Johan Vásquez,972,Mexico,58,SecondHalf,Pass,Successful,38.3,80,39.2,92.3
+532,252248,Jesús Gallardo,972,Mexico,58,SecondHalf,Pass,Successful,38.6,89.3,31.7,70.6
+533,447638,Érik Lira,972,Mexico,58,SecondHalf,Pass,Successful,31.7,70.6,32.1,42.4
+534,447631,César Montes,972,Mexico,58,SecondHalf,Pass,Successful,31.9,42.2,36.9,51.2
+535,447638,Érik Lira,972,Mexico,59,SecondHalf,Pass,Successful,35.7,51.8,38.7,79.4
+536,425115,Johan Vásquez,972,Mexico,59,SecondHalf,Pass,Successful,57.5,85.6,61.2,71.7
+537,452407,Álvaro Fidalgo,972,Mexico,59,SecondHalf,Pass,Successful,68.6,79.7,70.7,87.7
+538,509557,Julián Quiñones,972,Mexico,59,SecondHalf,Pass,Unsuccessful,70.9,86.3,100,32.5
+460,563880,Mbekezeli Mbokazi,485,South Africa,59,SecondHalf,Pass,Successful,4.2,60.3,4.1,48.2
+461,99002,Ronwen Williams,485,South Africa,59,SecondHalf,Pass,Successful,4.1,47.3,9.2,17.7
+462,504648,Ime Okon,485,South Africa,59,SecondHalf,Pass,Successful,14.4,12.3,27.7,4.4
+463,457254,Nkosinathi Sibisi,485,South Africa,59,SecondHalf,Pass,Successful,27.9,4.3,12.7,8.2
+464,504648,Ime Okon,485,South Africa,59,SecondHalf,Pass,Successful,14,8,38.5,19.2
+465,456637,Jayden Adams,485,South Africa,59,SecondHalf,Pass,Successful,39.3,18.8,32.2,4.7
+466,457254,Nkosinathi Sibisi,485,South Africa,59,SecondHalf,Pass,Unsuccessful,39.5,5.3,62.6,23
+540,425115,Johan Vásquez,972,Mexico,60,SecondHalf,Pass,Unsuccessful,34.9,69.6,60.3,100
+468,457254,Nkosinathi Sibisi,485,South Africa,60,SecondHalf,Pass,Successful,46.1,0,44.4,18.5
+469,457247,Teboho Mokoena,485,South Africa,60,SecondHalf,Pass,Successful,44.2,29.4,40.8,64
+470,563880,Mbekezeli Mbokazi,485,South Africa,60,SecondHalf,Pass,Successful,40.5,62,40.1,38.2
+471,504648,Ime Okon,485,South Africa,60,SecondHalf,Pass,Successful,41.6,30.9,41.5,11
+472,457254,Nkosinathi Sibisi,485,South Africa,60,SecondHalf,Pass,Successful,40.7,12.8,43.2,22.1
+473,457247,Teboho Mokoena,485,South Africa,60,SecondHalf,Pass,Successful,43.4,21.8,41,5.8
+474,457254,Nkosinathi Sibisi,485,South Africa,60,SecondHalf,Pass,Successful,38.3,7.3,28.5,22.5
+475,504648,Ime Okon,485,South Africa,60,SecondHalf,Pass,Successful,25.9,27.9,22.3,64.6
+476,99002,Ronwen Williams,485,South Africa,60,SecondHalf,Pass,Successful,22.1,67.2,30.1,70.2
+477,551643,Thalente Mbatha,485,South Africa,60,SecondHalf,Pass,Successful,28.1,76.4,44.9,78.7
+478,452622,Aubrey Modiba,485,South Africa,60,SecondHalf,Foul,Successful,43.2,77.6,,
+542,447636,Roberto Alvarado,972,Mexico,60,SecondHalf,Foul,Unsuccessful,56.8,22.4,,
+479,456637,Jayden Adams,485,South Africa,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+480,110032,Themba Zwane,485,South Africa,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+483,,,485,South Africa,60,SecondHalf,FormationChange,Successful,0,0,,
+481,563880,Mbekezeli Mbokazi,485,South Africa,61,SecondHalf,Pass,Unsuccessful,44.4,68.5,76.5,0
+544,252248,Jesús Gallardo,972,Mexico,61,SecondHalf,Pass,Successful,21.6,100,11.2,85
+545,425115,Johan Vásquez,972,Mexico,61,SecondHalf,Pass,Successful,13,83.8,20.1,43.6
+546,447631,César Montes,972,Mexico,61,SecondHalf,Pass,Successful,23.6,40.7,24.2,61.4
+547,425115,Johan Vásquez,972,Mexico,61,SecondHalf,Pass,Successful,27.7,60.6,24.1,41.8
+548,447631,César Montes,972,Mexico,61,SecondHalf,Pass,Successful,26.7,42.8,26,55.4
+549,425115,Johan Vásquez,972,Mexico,61,SecondHalf,Pass,Successful,26.7,55.1,32.1,45.8
+550,396565,Brian Gutiérrez,972,Mexico,61,SecondHalf,Pass,Successful,34.9,54.9,29.1,62.3
+551,425115,Johan Vásquez,972,Mexico,61,SecondHalf,Pass,Successful,35,59,40.1,23.6
+552,447638,Érik Lira,972,Mexico,61,SecondHalf,Pass,Successful,39.4,24.3,33,36.3
+553,447631,César Montes,972,Mexico,61,SecondHalf,Pass,Successful,32.9,36.3,45.4,45.1
+554,396565,Brian Gutiérrez,972,Mexico,61,SecondHalf,Pass,Successful,45.4,45.1,33.9,39.7
+555,447631,César Montes,972,Mexico,61,SecondHalf,Pass,Successful,36.8,44.5,36.9,27.6
+556,447638,Érik Lira,972,Mexico,61,SecondHalf,Pass,Successful,36.2,27.7,31.8,44.5
+557,447631,César Montes,972,Mexico,62,SecondHalf,Pass,Successful,31.8,44.5,36.3,60.5
+558,452407,Álvaro Fidalgo,972,Mexico,62,SecondHalf,Pass,Successful,35.1,59,8.7,47.8
+559,527319,Raúl Rangel,972,Mexico,62,SecondHalf,Pass,Successful,10.6,45.4,16.2,30.3
+560,447631,César Montes,972,Mexico,62,SecondHalf,Pass,Successful,19.9,33.7,8.6,54.8
+561,527319,Raúl Rangel,972,Mexico,62,SecondHalf,Pass,Successful,9.7,51.3,53.4,80.5
+562,108186,Raúl Jiménez,972,Mexico,62,SecondHalf,Pass,Unsuccessful,51.2,81.2,49.5,76.9
+484,457250,Khuliso Mudau,485,South Africa,62,SecondHalf,BlockedPass,Successful,50.5,23.1,,
+563,509557,Julián Quiñones,972,Mexico,62,SecondHalf,BallTouch,Unsuccessful,50.9,72.1,,
+485,457250,Khuliso Mudau,485,South Africa,62,SecondHalf,Foul,Successful,47.7,25.4,,
+564,509557,Julián Quiñones,972,Mexico,62,SecondHalf,Foul,Unsuccessful,52.3,74.6,,
+510,504648,Ime Okon,485,South Africa,63,SecondHalf,Pass,Successful,36.7,17.7,45.4,17.4
+486,457247,Teboho Mokoena,485,South Africa,63,SecondHalf,Pass,Successful,43.2,28.3,34.7,42.4
+487,504648,Ime Okon,485,South Africa,63,SecondHalf,Pass,Successful,34.3,55.7,22.6,56
+488,99002,Ronwen Williams,485,South Africa,63,SecondHalf,Pass,Unsuccessful,21.6,57.9,70.6,47.8
+565,252248,Jesús Gallardo,972,Mexico,63,SecondHalf,Interception,Successful,29.4,52.2,,
+606,447631,César Montes,972,Mexico,63,SecondHalf,BallTouch,Successful,29.2,58.3,,
+607,252248,Jesús Gallardo,972,Mexico,63,SecondHalf,BallTouch,Successful,50,50,,
+566,447631,César Montes,972,Mexico,63,SecondHalf,BallRecovery,Successful,32.1,59,,
+567,447631,César Montes,972,Mexico,63,SecondHalf,Pass,Unsuccessful,32.1,59,48.9,46
+489,457247,Teboho Mokoena,485,South Africa,63,SecondHalf,BallRecovery,Successful,50.9,59.1,,
+490,457247,Teboho Mokoena,485,South Africa,63,SecondHalf,Pass,Successful,58.3,77.3,69.4,84.4
+491,452622,Aubrey Modiba,485,South Africa,63,SecondHalf,Pass,Unsuccessful,71.9,85.1,100,20.1
+569,425115,Johan Vásquez,972,Mexico,63,SecondHalf,Pass,Successful,3.8,60.6,4.3,47.8
+570,527319,Raúl Rangel,972,Mexico,64,SecondHalf,Pass,Successful,9.1,49.9,23.1,54.8
+571,447638,Érik Lira,972,Mexico,64,SecondHalf,Pass,Successful,23.1,54.8,10.5,86.8
+572,425115,Johan Vásquez,972,Mexico,64,SecondHalf,Pass,Unsuccessful,10.5,86.8,64.1,100
+494,457250,Khuliso Mudau,485,South Africa,64,SecondHalf,Pass,Successful,57.2,0,40.1,5.9
+495,457254,Nkosinathi Sibisi,485,South Africa,64,SecondHalf,Pass,Successful,39.3,8.8,31.6,32.1
+496,504648,Ime Okon,485,South Africa,64,SecondHalf,Pass,Successful,29.1,38.9,28.6,70
+497,99002,Ronwen Williams,485,South Africa,64,SecondHalf,Pass,Unsuccessful,28.6,70.2,76.5,69.7
+574,447631,César Montes,972,Mexico,64,SecondHalf,BallRecovery,Successful,29.2,18.2,,
+575,447631,César Montes,972,Mexico,64,SecondHalf,Pass,Unsuccessful,30.4,10.4,61.7,9.7
+498,504648,Ime Okon,485,South Africa,64,SecondHalf,BallTouch,Successful,33.6,93.2,,
+499,563880,Mbekezeli Mbokazi,485,South Africa,64,SecondHalf,BallRecovery,Successful,26.8,79.6,,
+500,563880,Mbekezeli Mbokazi,485,South Africa,64,SecondHalf,Pass,Successful,27.2,78.5,25.7,57.6
+501,504648,Ime Okon,485,South Africa,64,SecondHalf,Pass,Successful,25.6,48.8,25.5,23
+502,457254,Nkosinathi Sibisi,485,South Africa,64,SecondHalf,Pass,Successful,25.5,19.1,32,4.1
+503,457250,Khuliso Mudau,485,South Africa,64,SecondHalf,Pass,Successful,31.3,7.6,20.4,10.7
+504,457254,Nkosinathi Sibisi,485,South Africa,64,SecondHalf,BallTouch,Unsuccessful,20.3,10.7,,
+577,509557,Julián Quiñones,972,Mexico,64,SecondHalf,BallRecovery,Successful,73.9,84.4,,
+578,509557,Julián Quiñones,972,Mexico,64,SecondHalf,Pass,Successful,73.9,84.4,68.7,64.9
+579,396565,Brian Gutiérrez,972,Mexico,64,SecondHalf,Pass,Unsuccessful,68.7,64.9,80.3,64.9
+505,457250,Khuliso Mudau,485,South Africa,64,SecondHalf,Interception,Successful,19.7,35.1,,
+506,504648,Ime Okon,485,South Africa,64,SecondHalf,BallRecovery,Successful,12.8,44,,
+507,504648,Ime Okon,485,South Africa,65,SecondHalf,Pass,Successful,12.8,44,1.9,44.9
+508,99002,Ronwen Williams,485,South Africa,65,SecondHalf,Pass,Unsuccessful,3,46.3,63.7,0
+581,396565,Brian Gutiérrez,972,Mexico,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+582,447642,Luis Chávez,972,Mexico,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+583,452407,Álvaro Fidalgo,972,Mexico,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+584,550680,Gilberto Mora,972,Mexico,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+612,,,972,Mexico,65,SecondHalf,FormationChange,Successful,0,0,,
+585,252248,Jesús Gallardo,972,Mexico,65,SecondHalf,Pass,Successful,29.5,100,11.7,92.7
+586,425115,Johan Vásquez,972,Mexico,65,SecondHalf,Pass,Successful,10.3,91.7,5.1,60.2
+587,527319,Raúl Rangel,972,Mexico,65,SecondHalf,Pass,Successful,5.1,54.3,41,8.2
+588,447636,Roberto Alvarado,972,Mexico,65,SecondHalf,Pass,Successful,41,8.2,40.4,12
+589,550680,Gilberto Mora,972,Mexico,65,SecondHalf,BallTouch,Successful,41.6,11.1,,
+590,447636,Roberto Alvarado,972,Mexico,65,SecondHalf,Pass,Unsuccessful,56.3,7.6,60.3,29.5
+511,457254,Nkosinathi Sibisi,485,South Africa,65,SecondHalf,BallRecovery,Successful,37.6,62,,
+512,457254,Nkosinathi Sibisi,485,South Africa,65,SecondHalf,Pass,Successful,37.7,64,43.5,84.8
+513,457247,Teboho Mokoena,485,South Africa,66,SecondHalf,Pass,Successful,50.6,86.2,60.6,79.3
+514,110032,Themba Zwane,485,South Africa,66,SecondHalf,Pass,Unsuccessful,60.6,79.3,59.2,70
+591,550680,Gilberto Mora,972,Mexico,66,SecondHalf,Interception,Successful,40.8,30,,
+592,447642,Luis Chávez,972,Mexico,66,SecondHalf,Pass,Successful,44.1,30,55,11.6
+593,447636,Roberto Alvarado,972,Mexico,66,SecondHalf,Pass,Successful,55,11.6,59.1,21.3
+594,108186,Raúl Jiménez,972,Mexico,66,SecondHalf,Pass,Successful,59.1,21.3,39.2,7.9
+595,447634,Israel Reyes,972,Mexico,66,SecondHalf,BallRecovery,Successful,39.2,7.9,,
+596,447634,Israel Reyes,972,Mexico,66,SecondHalf,Pass,Successful,38.8,8.6,29.7,28
+597,447631,César Montes,972,Mexico,66,SecondHalf,Pass,Successful,30.2,28.6,26.4,57.5
+598,425115,Johan Vásquez,972,Mexico,66,SecondHalf,Pass,Successful,25.9,60.3,32.1,57.6
+599,447638,Érik Lira,972,Mexico,66,SecondHalf,Pass,Successful,32.4,55.2,40.7,54.2
+600,509557,Julián Quiñones,972,Mexico,66,SecondHalf,Pass,Successful,44,52.4,65.5,57.3
+601,108186,Raúl Jiménez,972,Mexico,66,SecondHalf,Pass,Successful,65.5,57.3,68,41.2
+602,509557,Julián Quiñones,972,Mexico,66,SecondHalf,Pass,Successful,68.2,39.4,78.6,11.3
+603,447636,Roberto Alvarado,972,Mexico,66,SecondHalf,Pass,Successful,77.9,18.8,95.4,53
+604,108186,Raúl Jiménez,972,Mexico,66,SecondHalf,Goal,Successful,95.4,53,,
+518,498795,Iqraam Rayners,485,South Africa,70,SecondHalf,Pass,Successful,49.9,50,42.4,51.3
+519,110032,Themba Zwane,485,South Africa,70,SecondHalf,Pass,Successful,42.6,51.6,38.3,62.6
+520,551643,Thalente Mbatha,485,South Africa,70,SecondHalf,Pass,Successful,37.6,60.9,29.5,25.3
+521,457254,Nkosinathi Sibisi,485,South Africa,70,SecondHalf,Pass,Successful,22.8,19.5,9.3,39.8
+522,99002,Ronwen Williams,485,South Africa,70,SecondHalf,Pass,Unsuccessful,9.3,40,58.4,38
+609,425115,Johan Vásquez,972,Mexico,70,SecondHalf,Pass,Unsuccessful,37.1,63.9,65.6,88.7
+523,457254,Nkosinathi Sibisi,485,South Africa,70,SecondHalf,Pass,Unsuccessful,27.5,10.4,30.1,10.6
+610,447642,Luis Chávez,972,Mexico,70,SecondHalf,BallTouch,Successful,63.3,92.4,,
+525,457254,Nkosinathi Sibisi,485,South Africa,70,SecondHalf,Pass,Unsuccessful,25.3,0,40.9,2.6
+613,252248,Jesús Gallardo,972,Mexico,70,SecondHalf,Pass,Unsuccessful,53.4,92,63.9,90
+526,551643,Thalente Mbatha,485,South Africa,70,SecondHalf,Pass,Unsuccessful,29.2,9.2,35.4,11.7
+614,447638,Érik Lira,972,Mexico,70,SecondHalf,Pass,Successful,57.5,81.7,65,90.3
+615,550680,Gilberto Mora,972,Mexico,70,SecondHalf,BallRecovery,Successful,64.6,95.6,,
+616,550680,Gilberto Mora,972,Mexico,70,SecondHalf,Dispossessed,Successful,64.4,93.4,,
+528,457250,Khuliso Mudau,485,South Africa,70,SecondHalf,Tackle,Successful,35.6,6.6,,
+11625,108186,Raúl Jiménez,972,Mexico,71,SecondHalf,OffsideGiven,Unsuccessful,69.1,82.3,,
+618,252248,Jesús Gallardo,972,Mexico,71,SecondHalf,Pass,Successful,60,100,35.9,87.8
+619,425115,Johan Vásquez,972,Mexico,71,SecondHalf,Pass,Successful,39.4,73.9,40.9,92.6
+620,252248,Jesús Gallardo,972,Mexico,71,SecondHalf,Pass,Successful,39.8,92.9,44.3,80.3
+621,447642,Luis Chávez,972,Mexico,71,SecondHalf,Pass,Successful,43.4,82.9,29.1,73.9
+622,425115,Johan Vásquez,972,Mexico,71,SecondHalf,Pass,Successful,29.1,73.9,28.7,43.7
+623,447631,César Montes,972,Mexico,71,SecondHalf,Pass,Successful,30,41.8,30.5,20.7
+624,447634,Israel Reyes,972,Mexico,71,SecondHalf,Pass,Successful,29.2,29.2,53,53.4
+625,509557,Julián Quiñones,972,Mexico,71,SecondHalf,OffsidePass,Successful,53.4,53.7,69.1,82.3
+530,457254,Nkosinathi Sibisi,485,South Africa,71,SecondHalf,OffsideProvoked,Successful,36.5,29.5,,
+531,457254,Nkosinathi Sibisi,485,South Africa,72,SecondHalf,Pass,Successful,28.5,17.1,48.8,48.4
+532,110032,Themba Zwane,485,South Africa,72,SecondHalf,Pass,Unsuccessful,48.8,48.4,63.7,61.5
+626,447634,Israel Reyes,972,Mexico,72,SecondHalf,BallRecovery,Successful,40.9,34,,
+627,447634,Israel Reyes,972,Mexico,72,SecondHalf,Pass,Successful,40.9,34,52.9,30.4
+628,447636,Roberto Alvarado,972,Mexico,72,SecondHalf,Pass,Successful,52.9,30.4,56.9,31.5
+629,550680,Gilberto Mora,972,Mexico,72,SecondHalf,TakeOn,Successful,56.8,30.3,,
+533,110032,Themba Zwane,485,South Africa,72,SecondHalf,Challenge,Unsuccessful,43.2,69.8,,
+630,550680,Gilberto Mora,972,Mexico,72,SecondHalf,TakeOn,Unsuccessful,55.2,29.2,,
+534,452622,Aubrey Modiba,485,South Africa,72,SecondHalf,Tackle,Unsuccessful,44.8,70.8,,
+637,550680,Gilberto Mora,972,Mexico,72,SecondHalf,BallTouch,Successful,50,50,,
+555,110032,Themba Zwane,485,South Africa,72,SecondHalf,Dispossessed,Successful,42.3,66.2,,
+672,447636,Roberto Alvarado,972,Mexico,72,SecondHalf,Tackle,Unsuccessful,57.7,33.8,,
+539,110032,Themba Zwane,485,South Africa,72,SecondHalf,Pass,Successful,43.9,72.8,41.5,65.4
+535,551643,Thalente Mbatha,485,South Africa,72,SecondHalf,TakeOn,Unsuccessful,42.2,66.6,,
+631,447642,Luis Chávez,972,Mexico,72,SecondHalf,Tackle,Successful,57.8,33.4,,
+632,550680,Gilberto Mora,972,Mexico,72,SecondHalf,BallRecovery,Successful,56.7,31,,
+633,550680,Gilberto Mora,972,Mexico,72,SecondHalf,Dispossessed,Successful,57.7,33.9,,
+536,551643,Thalente Mbatha,485,South Africa,72,SecondHalf,Tackle,Unsuccessful,42.3,66,,
+634,447636,Roberto Alvarado,972,Mexico,72,SecondHalf,Pass,Successful,63.7,28.2,73.1,30.4
+635,108186,Raúl Jiménez,972,Mexico,72,SecondHalf,BallTouch,Unsuccessful,88.8,33.6,,
+537,99002,Ronwen Williams,485,South Africa,72,SecondHalf,KeeperPickup,Successful,4.5,65.1,,
+542,99002,Ronwen Williams,485,South Africa,73,SecondHalf,KeeperPickup,Successful,11.2,59.9,,
+543,99002,Ronwen Williams,485,South Africa,73,SecondHalf,Pass,Successful,11.4,59.9,29.4,88.6
+544,504648,Ime Okon,485,South Africa,73,SecondHalf,Pass,Unsuccessful,30.3,92.6,67,93.2
+640,447631,César Montes,972,Mexico,73,SecondHalf,Interception,Successful,33,6.8,,
+641,447636,Roberto Alvarado,972,Mexico,73,SecondHalf,BallRecovery,Successful,36.9,13.2,,
+642,447636,Roberto Alvarado,972,Mexico,73,SecondHalf,Pass,Successful,36.9,13.2,31.5,17.9
+643,447634,Israel Reyes,972,Mexico,73,SecondHalf,Pass,Successful,31.7,18.6,46.7,54.8
+644,509557,Julián Quiñones,972,Mexico,73,SecondHalf,Foul,Successful,54.7,54.7,,
+545,457254,Nkosinathi Sibisi,485,South Africa,73,SecondHalf,Foul,Unsuccessful,45.2,45.2,,
+546,457254,Nkosinathi Sibisi,485,South Africa,73,SecondHalf,Card,Successful,0,0,,
+645,447638,Érik Lira,972,Mexico,73,SecondHalf,Pass,Successful,54.5,55.7,54.2,30
+646,447634,Israel Reyes,972,Mexico,73,SecondHalf,Pass,Successful,55.4,30.1,45.9,49.7
+647,447631,César Montes,972,Mexico,74,SecondHalf,Pass,Successful,44.5,49.6,58.2,81.8
+648,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,58,81.7,67,93.5
+649,252248,Jesús Gallardo,972,Mexico,74,SecondHalf,Pass,Successful,67,93.5,57.5,84.7
+650,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,57.1,85.3,39.3,78.2
+651,425115,Johan Vásquez,972,Mexico,74,SecondHalf,Pass,Successful,35.9,68.5,43,82.7
+652,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,43.8,84.5,59.2,82.3
+653,509557,Julián Quiñones,972,Mexico,74,SecondHalf,Pass,Successful,59.2,82.3,37.1,68.4
+654,425115,Johan Vásquez,972,Mexico,74,SecondHalf,Pass,Successful,36.8,63.1,37.3,24.4
+655,447634,Israel Reyes,972,Mexico,74,SecondHalf,Pass,Successful,37.8,24.1,41.6,22.1
+656,550680,Gilberto Mora,972,Mexico,74,SecondHalf,Pass,Successful,44.3,38.9,56.7,63
+657,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,56.7,63,70.8,93.5
+658,252248,Jesús Gallardo,972,Mexico,74,SecondHalf,Pass,Successful,70.3,92.9,62.4,79.7
+659,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,61.7,82.4,75.2,92.3
+660,509557,Julián Quiñones,972,Mexico,74,SecondHalf,Pass,Successful,75,92.3,76.2,80.6
+661,550680,Gilberto Mora,972,Mexico,74,SecondHalf,Pass,Successful,76.2,80.6,74,88.1
+662,509557,Julián Quiñones,972,Mexico,74,SecondHalf,Pass,Successful,74,88.1,63.3,84.1
+663,447642,Luis Chávez,972,Mexico,74,SecondHalf,Pass,Successful,63.3,84.1,68.3,67.9
+664,509557,Julián Quiñones,972,Mexico,74,SecondHalf,Pass,Successful,68.3,67.9,69.1,46.6
+665,108186,Raúl Jiménez,972,Mexico,74,SecondHalf,Pass,Successful,68.4,50.1,75.6,62
+666,509557,Julián Quiñones,972,Mexico,74,SecondHalf,TakeOn,Unsuccessful,77.4,61,,
+547,504648,Ime Okon,485,South Africa,74,SecondHalf,Tackle,Unsuccessful,22.6,39,,
+548,504648,Ime Okon,485,South Africa,74,SecondHalf,BallRecovery,Successful,16.8,38.8,,
+667,252248,Jesús Gallardo,972,Mexico,74,SecondHalf,Pass,Unsuccessful,75.7,63.3,77.9,60.2
+549,504648,Ime Okon,485,South Africa,74,SecondHalf,Pass,Successful,17.4,38,22.2,37.7
+550,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,BallTouch,Unsuccessful,22.2,37.7,,
+668,447642,Luis Chávez,972,Mexico,74,SecondHalf,BallRecovery,Successful,73.2,55.2,,
+670,447642,Luis Chávez,972,Mexico,74,SecondHalf,Dispossessed,Successful,73.8,54.1,,
+551,563880,Mbekezeli Mbokazi,485,South Africa,74,SecondHalf,Tackle,Successful,26.2,45.9,,
+552,110032,Themba Zwane,485,South Africa,75,SecondHalf,BallRecovery,Successful,30.8,51,,
+553,110032,Themba Zwane,485,South Africa,75,SecondHalf,Pass,Successful,30,51.3,31.3,63.3
+554,452622,Aubrey Modiba,485,South Africa,75,SecondHalf,Foul,Successful,37,58.4,,
+671,447642,Luis Chávez,972,Mexico,75,SecondHalf,Foul,Unsuccessful,63,41.6,,
+673,447638,Érik Lira,972,Mexico,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+674,322696,Edson Álvarez,972,Mexico,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+675,108186,Raúl Jiménez,972,Mexico,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+676,579163,Armando González,972,Mexico,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+556,498795,Iqraam Rayners,485,South Africa,76,SecondHalf,SubstitutionOff,Successful,0,0,,
+557,457593,Evidence Makgopa,485,South Africa,76,SecondHalf,SubstitutionOn,Successful,0,0,,
+558,452622,Aubrey Modiba,485,South Africa,76,SecondHalf,SubstitutionOff,Successful,0,0,,
+559,509374,Oswin Appollis,485,South Africa,76,SecondHalf,SubstitutionOn,Successful,0,0,,
+560,457247,Teboho Mokoena,485,South Africa,76,SecondHalf,Pass,Successful,38,64.6,36.1,54.9
+561,504648,Ime Okon,485,South Africa,76,SecondHalf,Pass,Successful,26.6,50.6,7.3,50.6
+562,99002,Ronwen Williams,485,South Africa,76,SecondHalf,Pass,Unsuccessful,7,44.2,87.5,41.9
+677,527319,Raúl Rangel,972,Mexico,76,SecondHalf,KeeperPickup,Successful,10,66.1,,
+678,527319,Raúl Rangel,972,Mexico,76,SecondHalf,Pass,Successful,6.7,43.4,22,23.3
+679,447631,César Montes,972,Mexico,76,SecondHalf,Pass,Successful,22,23.3,23.1,73.6
+680,425115,Johan Vásquez,972,Mexico,77,SecondHalf,Pass,Successful,24,74.5,29.7,57
+681,322696,Edson Álvarez,972,Mexico,77,SecondHalf,Pass,Successful,29.7,56.4,28.3,74.1
+682,425115,Johan Vásquez,972,Mexico,77,SecondHalf,Pass,Successful,28.9,71.5,34.7,50.6
+683,322696,Edson Álvarez,972,Mexico,77,SecondHalf,Pass,Successful,33.4,54.3,6.6,44.8
+684,527319,Raúl Rangel,972,Mexico,77,SecondHalf,Pass,Successful,7.2,44.3,21.3,15.5
+685,447631,César Montes,972,Mexico,77,SecondHalf,Pass,Successful,26.1,17.7,32.5,16.5
+686,550680,Gilberto Mora,972,Mexico,77,SecondHalf,Pass,Successful,31.9,17.3,27.9,26.1
+687,322696,Edson Álvarez,972,Mexico,77,SecondHalf,Pass,Successful,27.9,26.1,33.4,30.9
+688,447636,Roberto Alvarado,972,Mexico,77,SecondHalf,Pass,Successful,33.4,30.9,32.5,17
+689,322696,Edson Álvarez,972,Mexico,77,SecondHalf,Pass,Successful,32.5,17,32.4,3.8
+690,447634,Israel Reyes,972,Mexico,77,SecondHalf,Pass,Successful,32.4,3.8,20.3,21.5
+691,447631,César Montes,972,Mexico,77,SecondHalf,Pass,Successful,15.6,25.5,3.4,48.4
+692,527319,Raúl Rangel,972,Mexico,77,SecondHalf,Pass,Successful,3.3,49.1,10.7,69.1
+693,425115,Johan Vásquez,972,Mexico,77,SecondHalf,Pass,Successful,29.4,80.2,34.6,61.4
+694,447642,Luis Chávez,972,Mexico,77,SecondHalf,Pass,Successful,36.3,59,43.3,5.3
+695,447634,Israel Reyes,972,Mexico,77,SecondHalf,Pass,Successful,43,6.1,46.6,22.1
+696,447636,Roberto Alvarado,972,Mexico,77,SecondHalf,Pass,Successful,45.1,28.2,35.1,42.4
+697,447631,César Montes,972,Mexico,77,SecondHalf,Pass,Successful,35.1,42.4,59.2,66.1
+698,550680,Gilberto Mora,972,Mexico,77,SecondHalf,Pass,Successful,66.6,80.3,76.7,93.8
+699,252248,Jesús Gallardo,972,Mexico,77,SecondHalf,Pass,Unsuccessful,76.7,93.8,72.7,92.1
+563,551643,Thalente Mbatha,485,South Africa,77,SecondHalf,BlockedPass,Successful,27.3,7.9,,
+701,509557,Julián Quiñones,972,Mexico,78,SecondHalf,SubstitutionOff,Successful,0,0,,
+702,447639,Alexis Vega,972,Mexico,78,SecondHalf,SubstitutionOn,Successful,0,0,,
+703,252248,Jesús Gallardo,972,Mexico,78,SecondHalf,Pass,Successful,75.3,100,68.1,90.8
+704,550680,Gilberto Mora,972,Mexico,78,SecondHalf,Pass,Successful,67.3,85.1,67,5.6
+705,447636,Roberto Alvarado,972,Mexico,78,SecondHalf,Pass,Successful,63.3,7,67.8,18.6
+706,447642,Luis Chávez,972,Mexico,78,SecondHalf,Pass,Unsuccessful,94,14.3,95.2,43.7
+565,457254,Nkosinathi Sibisi,485,South Africa,78,SecondHalf,Pass,Successful,3.2,58.2,11.8,78.2
+566,509374,Oswin Appollis,485,South Africa,78,SecondHalf,BallRecovery,Successful,12.1,77.6,,
+567,509374,Oswin Appollis,485,South Africa,78,SecondHalf,Pass,Successful,12.3,76,20.2,70
+569,457247,Teboho Mokoena,485,South Africa,78,SecondHalf,Foul,Successful,29.4,77.8,,
+707,550680,Gilberto Mora,972,Mexico,78,SecondHalf,Foul,Unsuccessful,70.7,22.3,,
+570,504648,Ime Okon,485,South Africa,79,SecondHalf,Pass,Successful,25.5,72.6,13.8,54
+571,99002,Ronwen Williams,485,South Africa,79,SecondHalf,Pass,Successful,13.8,54.2,22.2,73.8
+572,504648,Ime Okon,485,South Africa,79,SecondHalf,Pass,Successful,22.4,73.8,28.1,66.6
+573,110032,Themba Zwane,485,South Africa,79,SecondHalf,Pass,Successful,28.4,65.8,10.6,52.7
+574,99002,Ronwen Williams,485,South Africa,79,SecondHalf,Pass,Successful,10.5,49.7,58.5,51.2
+575,457593,Evidence Makgopa,485,South Africa,79,SecondHalf,Aerial,Successful,58.5,51.2,,
+709,425115,Johan Vásquez,972,Mexico,79,SecondHalf,Aerial,Unsuccessful,41.5,48.8,,
+576,457593,Evidence Makgopa,485,South Africa,79,SecondHalf,Pass,Unsuccessful,58.5,51.2,72.6,40.1
+710,447631,César Montes,972,Mexico,79,SecondHalf,Pass,Successful,24.1,70.9,32.4,90.3
+711,252248,Jesús Gallardo,972,Mexico,79,SecondHalf,BallRecovery,Successful,32.1,90.6,,
+712,252248,Jesús Gallardo,972,Mexico,79,SecondHalf,Pass,Successful,32.2,90.6,35,74.5
+713,447642,Luis Chávez,972,Mexico,79,SecondHalf,Pass,Successful,35,74.5,24.3,85.7
+714,447631,César Montes,972,Mexico,79,SecondHalf,Pass,Successful,24.3,85.7,20.5,59.3
+715,425115,Johan Vásquez,972,Mexico,79,SecondHalf,Pass,Successful,23.6,55.5,21.6,28
+716,447634,Israel Reyes,972,Mexico,79,SecondHalf,Pass,Successful,21.6,28,29.6,2.8
+717,447636,Roberto Alvarado,972,Mexico,79,SecondHalf,Pass,Unsuccessful,26.5,8,39.8,54
+577,551643,Thalente Mbatha,485,South Africa,79,SecondHalf,Pass,Unsuccessful,65.3,39.1,75.9,57.8
+718,447634,Israel Reyes,972,Mexico,79,SecondHalf,Interception,Successful,24.1,42.2,,
+578,110032,Themba Zwane,485,South Africa,79,SecondHalf,BallRecovery,Successful,70.7,71.5,,
+579,110032,Themba Zwane,485,South Africa,80,SecondHalf,Pass,Successful,76.9,76,82,80.9
+725,447636,Roberto Alvarado,972,Mexico,80,SecondHalf,Foul,Successful,21,30,,
+587,110032,Themba Zwane,485,South Africa,80,SecondHalf,Foul,Unsuccessful,79,70,,
+588,110032,Themba Zwane,485,South Africa,83,SecondHalf,Card,Successful,0,0,,
+602,,,485,South Africa,83,SecondHalf,FormationChange,Successful,0,0,,
+726,447634,Israel Reyes,972,Mexico,84,SecondHalf,Pass,Successful,26.5,26.7,24.1,40.1
+727,447631,César Montes,972,Mexico,84,SecondHalf,Pass,Successful,24.1,40.1,27.5,61.2
+728,425115,Johan Vásquez,972,Mexico,84,SecondHalf,Pass,Successful,28.6,62.9,40.8,73.3
+729,447642,Luis Chávez,972,Mexico,84,SecondHalf,Pass,Successful,45.1,81.4,36.5,66.6
+730,425115,Johan Vásquez,972,Mexico,84,SecondHalf,Pass,Successful,37.3,65.7,36,34.5
+731,447631,César Montes,972,Mexico,84,SecondHalf,Pass,Successful,35.7,34.5,51.9,78.2
+732,447642,Luis Chávez,972,Mexico,84,SecondHalf,Pass,Successful,52.2,78.4,78.6,76.9
+733,447639,Alexis Vega,972,Mexico,84,SecondHalf,TakeOn,Unsuccessful,82.3,89.3,,
+590,99002,Ronwen Williams,485,South Africa,84,SecondHalf,Pass,Successful,5.4,41.2,61.8,39.7
+591,457593,Evidence Makgopa,485,South Africa,84,SecondHalf,Aerial,Successful,61.8,39.7,,
+735,447631,César Montes,972,Mexico,84,SecondHalf,Aerial,Unsuccessful,38.2,60.3,,
+592,457593,Evidence Makgopa,485,South Africa,84,SecondHalf,Pass,Unsuccessful,61.8,39.7,88.1,54
+736,527319,Raúl Rangel,972,Mexico,84,SecondHalf,KeeperPickup,Successful,10.9,39.1,,
+737,527319,Raúl Rangel,972,Mexico,85,SecondHalf,Pass,Successful,12.4,40,14.7,64.5
+738,425115,Johan Vásquez,972,Mexico,85,SecondHalf,Pass,Successful,35.9,61.2,33.7,23.4
+739,447634,Israel Reyes,972,Mexico,85,SecondHalf,Pass,Successful,33.7,23.4,45.3,5.8
+740,447636,Roberto Alvarado,972,Mexico,85,SecondHalf,Pass,Successful,56.6,8.2,43.7,20.6
+741,322696,Edson Álvarez,972,Mexico,85,SecondHalf,Pass,Successful,54.5,22.4,72.7,95.1
+742,252248,Jesús Gallardo,972,Mexico,85,SecondHalf,Pass,Successful,71.7,91.1,65.1,76.4
+743,447642,Luis Chávez,972,Mexico,85,SecondHalf,Pass,Successful,65.7,80.5,54.6,83
+744,425115,Johan Vásquez,972,Mexico,85,SecondHalf,Pass,Successful,56,82,63.2,90.2
+745,447642,Luis Chávez,972,Mexico,85,SecondHalf,Pass,Successful,62.4,90.2,61.4,79
+746,447639,Alexis Vega,972,Mexico,85,SecondHalf,Pass,Successful,61.4,79,67.6,89
+747,447642,Luis Chávez,972,Mexico,85,SecondHalf,Pass,Successful,67.6,89,61.3,80.8
+748,447639,Alexis Vega,972,Mexico,85,SecondHalf,Pass,Successful,61.2,80,66.4,66.1
+749,550680,Gilberto Mora,972,Mexico,85,SecondHalf,Pass,Successful,66.4,66.1,63.5,74.1
+750,447639,Alexis Vega,972,Mexico,85,SecondHalf,Pass,Successful,63,74.4,69.2,88.6
+751,447642,Luis Chávez,972,Mexico,85,SecondHalf,Pass,Successful,69.2,88.6,80.1,92.4
+752,252248,Jesús Gallardo,972,Mexico,85,SecondHalf,Pass,Successful,79.9,92.4,70,75.6
+753,550680,Gilberto Mora,972,Mexico,85,SecondHalf,Pass,Successful,70.2,75.4,82.2,91.4
+754,447639,Alexis Vega,972,Mexico,85,SecondHalf,Pass,Successful,81.3,92.1,70.5,90.3
+755,447642,Luis Chávez,972,Mexico,85,SecondHalf,Pass,Successful,69.5,91.8,63.1,79
+756,425115,Johan Vásquez,972,Mexico,85,SecondHalf,Pass,Successful,63.6,75.6,67.4,74.5
+757,550680,Gilberto Mora,972,Mexico,86,SecondHalf,Pass,Successful,66.3,70.3,58.4,35.1
+758,322696,Edson Álvarez,972,Mexico,86,SecondHalf,Pass,Successful,58.4,35.1,67.2,3.2
+759,447636,Roberto Alvarado,972,Mexico,86,SecondHalf,Pass,Successful,65.8,4.4,65.8,18.9
+760,322696,Edson Álvarez,972,Mexico,86,SecondHalf,Pass,Successful,65.8,17.9,60.6,9.8
+761,447636,Roberto Alvarado,972,Mexico,86,SecondHalf,Pass,Successful,60.6,9.8,56.3,33.1
+762,550680,Gilberto Mora,972,Mexico,86,SecondHalf,Pass,Successful,58.8,35.2,64.3,56.3
+763,447642,Luis Chávez,972,Mexico,86,SecondHalf,Pass,Successful,63.4,58.1,69.7,71.4
+764,447639,Alexis Vega,972,Mexico,86,SecondHalf,Pass,Successful,77.1,74.8,69.9,69.1
+765,447642,Luis Chávez,972,Mexico,86,SecondHalf,Pass,Successful,69.9,69.1,86.8,91.5
+766,252248,Jesús Gallardo,972,Mexico,86,SecondHalf,Pass,Successful,86.2,92,88.4,62
+767,550680,Gilberto Mora,972,Mexico,86,SecondHalf,Pass,Successful,88.3,59.6,82.3,50.7
+768,579163,Armando González,972,Mexico,86,SecondHalf,BallTouch,Unsuccessful,81.8,51.1,,
+595,504648,Ime Okon,485,South Africa,86,SecondHalf,TakeOn,Unsuccessful,23.8,32.3,,
+769,447642,Luis Chávez,972,Mexico,86,SecondHalf,Tackle,Unsuccessful,76.2,67.7,,
+596,457593,Evidence Makgopa,485,South Africa,86,SecondHalf,BallRecovery,Successful,25.5,47.2,,
+597,457593,Evidence Makgopa,485,South Africa,86,SecondHalf,BallTouch,Successful,25.5,47.2,,
+598,551643,Thalente Mbatha,485,South Africa,86,SecondHalf,BallTouch,Successful,31,39.1,,
+599,509374,Oswin Appollis,485,South Africa,86,SecondHalf,BallTouch,Successful,37.8,50.1,,
+600,551643,Thalente Mbatha,485,South Africa,86,SecondHalf,Pass,Unsuccessful,44.6,74,60.4,100
+771,447634,Israel Reyes,972,Mexico,86,SecondHalf,ShieldBallOpp,Successful,40.1,5,,
+773,447636,Roberto Alvarado,972,Mexico,87,SecondHalf,Pass,Successful,43.4,0,38.3,13.1
+774,322696,Edson Álvarez,972,Mexico,87,SecondHalf,Pass,Successful,39.9,25.2,44.9,36.4
+775,550680,Gilberto Mora,972,Mexico,87,SecondHalf,Pass,Successful,46.5,42.4,47.2,74.1
+776,447642,Luis Chávez,972,Mexico,87,SecondHalf,Pass,Successful,54,77.9,66.6,93.6
+777,252248,Jesús Gallardo,972,Mexico,87,SecondHalf,Pass,Successful,65.7,93,44.2,79.4
+778,447642,Luis Chávez,972,Mexico,87,SecondHalf,Pass,Successful,53.6,78.8,59.8,86
+779,550680,Gilberto Mora,972,Mexico,87,SecondHalf,Pass,Successful,59.8,86,54.2,75.7
+780,447642,Luis Chávez,972,Mexico,87,SecondHalf,Pass,Successful,54.2,75.7,55.2,69.3
+781,447639,Alexis Vega,972,Mexico,87,SecondHalf,Pass,Successful,54.5,69.6,44.2,43.7
+782,447631,César Montes,972,Mexico,87,SecondHalf,Pass,Successful,44.9,43,57.9,69.4
+783,447642,Luis Chávez,972,Mexico,87,SecondHalf,Pass,Successful,55.3,70.8,44.3,58.2
+784,425115,Johan Vásquez,972,Mexico,87,SecondHalf,Pass,Successful,44.2,58.5,50.7,78.7
+785,447642,Luis Chávez,972,Mexico,87,SecondHalf,Pass,Successful,58.8,85.7,60.1,75.3
+786,447639,Alexis Vega,972,Mexico,88,SecondHalf,Pass,Successful,56.1,68.1,53.2,38.8
+787,447631,César Montes,972,Mexico,88,SecondHalf,Pass,Successful,53.2,38.8,56.3,15.8
+788,447634,Israel Reyes,972,Mexico,88,SecondHalf,Pass,Successful,56.3,15.8,63.3,4
+789,447636,Roberto Alvarado,972,Mexico,88,SecondHalf,Pass,Successful,60.7,5.9,70.5,27.1
+790,579163,Armando González,972,Mexico,88,SecondHalf,BallTouch,Unsuccessful,70.5,27.1,,
+603,563880,Mbekezeli Mbokazi,485,South Africa,88,SecondHalf,BallTouch,Unsuccessful,23.9,80,,
+604,563880,Mbekezeli Mbokazi,485,South Africa,88,SecondHalf,Foul,Successful,27,75.4,,
+791,579163,Armando González,972,Mexico,88,SecondHalf,Foul,Unsuccessful,73,24.5,,
+605,99002,Ronwen Williams,485,South Africa,88,SecondHalf,Pass,Successful,23.1,77.9,72.9,91.7
+606,457593,Evidence Makgopa,485,South Africa,88,SecondHalf,Pass,Unsuccessful,72.9,91.7,100,89.9
+793,527319,Raúl Rangel,972,Mexico,89,SecondHalf,Pass,Successful,3.8,49.9,23.1,62
+794,425115,Johan Vásquez,972,Mexico,89,SecondHalf,Pass,Successful,23.1,62,35.8,72.7
+795,447642,Luis Chávez,972,Mexico,89,SecondHalf,Pass,Successful,39.4,80.6,42.6,72.1
+796,447639,Alexis Vega,972,Mexico,89,SecondHalf,Pass,Successful,42.6,72.1,42.3,46.3
+797,322696,Edson Álvarez,972,Mexico,89,SecondHalf,Pass,Successful,54.2,46,68.1,5.5
+798,447636,Roberto Alvarado,972,Mexico,89,SecondHalf,Pass,Successful,67.4,7,61,27.9
+799,322696,Edson Álvarez,972,Mexico,89,SecondHalf,Pass,Unsuccessful,60.5,28.5,62.4,29.2
+608,551643,Thalente Mbatha,485,South Africa,89,SecondHalf,BlockedPass,Successful,37.6,70.8,,
+800,322696,Edson Álvarez,972,Mexico,89,SecondHalf,Pass,Successful,61.5,21,67.7,24.9
+801,550680,Gilberto Mora,972,Mexico,89,SecondHalf,Pass,Successful,67.7,24.9,63.1,17
+802,447636,Roberto Alvarado,972,Mexico,89,SecondHalf,Dispossessed,Successful,66.4,16.2,,
+610,509374,Oswin Appollis,485,South Africa,89,SecondHalf,Tackle,Unsuccessful,33.6,83.8,,
+826,447636,Roberto Alvarado,972,Mexico,89,SecondHalf,BallTouch,Successful,61.4,25.3,,
+611,509374,Oswin Appollis,485,South Africa,89,SecondHalf,BallRecovery,Successful,28.8,88.3,,
+612,509374,Oswin Appollis,485,South Africa,89,SecondHalf,Pass,Successful,32.4,94.1,33.2,86.5
+613,563880,Mbekezeli Mbokazi,485,South Africa,89,SecondHalf,Dispossessed,Successful,41.4,73.8,,
+804,322696,Edson Álvarez,972,Mexico,89,SecondHalf,Tackle,Successful,58.6,26.2,,
+805,322696,Edson Álvarez,972,Mexico,89,SecondHalf,BallRecovery,Successful,57.2,23.7,,
+806,322696,Edson Álvarez,972,Mexico,89,SecondHalf,Foul,Successful,58.2,22.6,,
+614,563880,Mbekezeli Mbokazi,485,South Africa,89,SecondHalf,Foul,Unsuccessful,41.8,77.4,,
+807,447631,César Montes,972,Mexico,90,SecondHalf,Pass,Successful,56.2,28.5,45.4,35.4
+808,322696,Edson Álvarez,972,Mexico,90,SecondHalf,Pass,Successful,45.4,35.4,44.6,61.4
+809,425115,Johan Vásquez,972,Mexico,90,SecondHalf,Pass,Successful,44.6,62.4,58.6,81.5
+810,550680,Gilberto Mora,972,Mexico,90,SecondHalf,Pass,Successful,58.5,88.1,56.5,69.3
+811,447642,Luis Chávez,972,Mexico,90,SecondHalf,Pass,Successful,57,69,55,44.3
+812,322696,Edson Álvarez,972,Mexico,90,SecondHalf,Pass,Successful,61.4,40.7,64.7,53.3
+813,447642,Luis Chávez,972,Mexico,90,SecondHalf,Pass,Successful,64.6,53.9,61.7,36.9
+814,322696,Edson Álvarez,972,Mexico,90,SecondHalf,Pass,Successful,61,35.2,76.3,7.3
+815,447636,Roberto Alvarado,972,Mexico,90,SecondHalf,Pass,Successful,75.4,8.2,59.8,12.3
+816,447634,Israel Reyes,972,Mexico,90,SecondHalf,Pass,Successful,59.8,12.3,62.4,26.5
+817,322696,Edson Álvarez,972,Mexico,90,SecondHalf,Pass,Successful,61.6,26.8,82.1,24.9
+818,579163,Armando González,972,Mexico,90,SecondHalf,Pass,Successful,88.5,26.5,81.8,11.3
+819,447636,Roberto Alvarado,972,Mexico,90,SecondHalf,Pass,Successful,78.6,10.3,60.7,11.9
+820,447634,Israel Reyes,972,Mexico,90,SecondHalf,Pass,Successful,60.8,14.6,55.8,37.1
+821,447631,César Montes,972,Mexico,90,SecondHalf,Pass,Successful,56.2,40,68.1,71.8
+822,447639,Alexis Vega,972,Mexico,90,SecondHalf,Pass,Successful,68.4,64.5,70,60
+823,447642,Luis Chávez,972,Mexico,91,SecondHalf,BallTouch,Unsuccessful,70.2,62.9,,
+617,457593,Evidence Makgopa,485,South Africa,91,SecondHalf,BallTouch,Successful,27.3,30.1,,
+618,457247,Teboho Mokoena,485,South Africa,91,SecondHalf,BallRecovery,Successful,32,26.1,,
+619,457247,Teboho Mokoena,485,South Africa,91,SecondHalf,Pass,Successful,36.4,21.5,46,12.3
+620,457250,Khuliso Mudau,485,South Africa,91,SecondHalf,Foul,Successful,78.4,27.7,,
+824,447631,César Montes,972,Mexico,91,SecondHalf,Foul,Unsuccessful,21.6,72.3,,
+825,447631,César Montes,972,Mexico,91,SecondHalf,Card,Successful,0,0,,
+854,,,972,Mexico,91,SecondHalf,FormationChange,Successful,0,0,,
+621,457247,Teboho Mokoena,485,South Africa,93,SecondHalf,Pass,Unsuccessful,81.7,28.9,79.1,36.4
+827,447642,Luis Chávez,972,Mexico,93,SecondHalf,Clearance,Successful,20.5,67.3,21.6,66.9
+623,99002,Ronwen Williams,485,South Africa,93,SecondHalf,Pass,Unsuccessful,34.4,69.6,79.6,12
+832,252248,Jesús Gallardo,972,Mexico,93,SecondHalf,Aerial,Successful,20.4,88,,
+626,457250,Khuliso Mudau,485,South Africa,93,SecondHalf,Aerial,Unsuccessful,79.6,12,,
+828,252248,Jesús Gallardo,972,Mexico,93,SecondHalf,Clearance,Successful,20.4,88,34.7,91.4
+830,447639,Alexis Vega,972,Mexico,93,SecondHalf,Dispossessed,Successful,35.4,92.3,,
+624,551643,Thalente Mbatha,485,South Africa,93,SecondHalf,Tackle,Successful,64.6,7.8,,
+833,252248,Jesús Gallardo,972,Mexico,94,SecondHalf,Pass,Successful,44.4,100,45.6,82.6
+834,447639,Alexis Vega,972,Mexico,94,SecondHalf,Pass,Successful,45.6,82.6,42.8,93.9
+835,252248,Jesús Gallardo,972,Mexico,94,SecondHalf,Pass,Unsuccessful,42.8,93.9,63.5,55.8
+628,504648,Ime Okon,485,South Africa,94,SecondHalf,Pass,Successful,33.2,35.2,37.5,31
+629,563880,Mbekezeli Mbokazi,485,South Africa,94,SecondHalf,BallRecovery,Successful,38.3,36.1,,
+630,563880,Mbekezeli Mbokazi,485,South Africa,94,SecondHalf,Pass,Successful,39.3,40.6,78.1,85.7
+631,457593,Evidence Makgopa,485,South Africa,94,SecondHalf,Pass,Successful,77.6,83,69.5,75.3
+632,509374,Oswin Appollis,485,South Africa,94,SecondHalf,Pass,Successful,69.5,72.7,67.6,63
+633,457247,Teboho Mokoena,485,South Africa,94,SecondHalf,Pass,Successful,66.3,64.6,66.3,79
+634,509374,Oswin Appollis,485,South Africa,94,SecondHalf,Pass,Successful,64.7,72.4,62.8,56.6
+635,563880,Mbekezeli Mbokazi,485,South Africa,94,SecondHalf,Pass,Unsuccessful,64.2,52.4,83.5,0
+837,252248,Jesús Gallardo,972,Mexico,94,SecondHalf,Pass,Successful,11.5,100,21.3,86.3
+838,447642,Luis Chávez,972,Mexico,94,SecondHalf,Pass,Successful,21.3,86.3,17.8,93.5
+839,252248,Jesús Gallardo,972,Mexico,94,SecondHalf,Pass,Unsuccessful,17.8,93.5,35.4,93.3
+637,551643,Thalente Mbatha,485,South Africa,94,SecondHalf,BallRecovery,Successful,60.8,2.9,,
+638,551643,Thalente Mbatha,485,South Africa,94,SecondHalf,Pass,Successful,60.8,2.9,55.8,2.9
+639,457254,Nkosinathi Sibisi,485,South Africa,94,SecondHalf,Pass,Unsuccessful,55.8,2.9,56.2,3.5
+840,579163,Armando González,972,Mexico,94,SecondHalf,BlockedPass,Successful,43.8,96.5,,
+641,457250,Khuliso Mudau,485,South Africa,95,SecondHalf,Pass,Successful,59.5,0,25.5,6.7
+642,457254,Nkosinathi Sibisi,485,South Africa,95,SecondHalf,Pass,Successful,23.3,8,9,43.6
+643,99002,Ronwen Williams,485,South Africa,95,SecondHalf,Pass,Successful,13.5,39.7,61.9,35.7
+644,457593,Evidence Makgopa,485,South Africa,95,SecondHalf,Aerial,Successful,61.9,35.7,,
+842,425115,Johan Vásquez,972,Mexico,95,SecondHalf,Aerial,Unsuccessful,38.1,64.3,,
+645,457593,Evidence Makgopa,485,South Africa,95,SecondHalf,Pass,Successful,61.9,35.7,97.4,12.3
+646,457250,Khuliso Mudau,485,South Africa,95,SecondHalf,Pass,Successful,96.9,6.4,80.4,8.9
+647,457247,Teboho Mokoena,485,South Africa,95,SecondHalf,Pass,Unsuccessful,80.4,8.9,88.2,46.4
+843,447634,Israel Reyes,972,Mexico,95,SecondHalf,Clearance,Successful,11.1,57,30.9,92.9
+844,447639,Alexis Vega,972,Mexico,95,SecondHalf,BallTouch,Unsuccessful,30.9,92.9,,
+649,457247,Teboho Mokoena,485,South Africa,95,SecondHalf,Pass,Successful,57.7,0,40.6,9.1
+650,457254,Nkosinathi Sibisi,485,South Africa,95,SecondHalf,Pass,Successful,43.2,29.4,38.8,78.8
+651,504648,Ime Okon,485,South Africa,95,SecondHalf,Pass,Successful,37.2,84.7,45.7,95.9
+652,509374,Oswin Appollis,485,South Africa,96,SecondHalf,Pass,Unsuccessful,52.2,56.1,63.4,9.8
+846,252248,Jesús Gallardo,972,Mexico,96,SecondHalf,Interception,Successful,36.6,90.2,,
+653,457254,Nkosinathi Sibisi,485,South Africa,96,SecondHalf,Pass,Unsuccessful,36.2,17.7,64.1,10.6
+847,252248,Jesús Gallardo,972,Mexico,96,SecondHalf,Pass,Successful,34,86.5,94.1,88.4
+848,447639,Alexis Vega,972,Mexico,96,SecondHalf,BallRecovery,Successful,94.1,88.4,,
+849,447639,Alexis Vega,972,Mexico,96,SecondHalf,Pass,Unsuccessful,90.3,92,87.4,48.8
+654,504648,Ime Okon,485,South Africa,96,SecondHalf,Clearance,Successful,12.7,54.8,29.6,71.2
+655,509374,Oswin Appollis,485,South Africa,96,SecondHalf,BallRecovery,Successful,29.6,71.2,,
+656,509374,Oswin Appollis,485,South Africa,96,SecondHalf,Pass,Successful,32.3,66.7,34.3,34.9
+658,457250,Khuliso Mudau,485,South Africa,96,SecondHalf,Foul,Successful,36.4,33.9,,
+850,252248,Jesús Gallardo,972,Mexico,96,SecondHalf,Foul,Unsuccessful,63.6,66.1,,
+659,457247,Teboho Mokoena,485,South Africa,97,SecondHalf,Pass,Successful,37,38.5,36.6,59.6
+660,504648,Ime Okon,485,South Africa,97,SecondHalf,Pass,Successful,36.6,59.7,36.7,42.4
+851,,,972,Mexico,97,SecondHalf,End,Successful,0,0,,
+661,,,485,South Africa,97,SecondHalf,End,Successful,0,0,,
+662,,,485,South Africa,0,PostGame,End,Successful,0,0,,
+852,,,972,Mexico,0,PostGame,End,Successful,0,0,,
+1,,,972,Mexico,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,485,South Africa,0,PreMatch,FormationSet,Successful,0,0,,

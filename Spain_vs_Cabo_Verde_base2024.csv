@@ -1,0 +1,1721 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,2555,Cabo Verde,0,FirstHalf,Start,Successful,0,0,,
+2,,,338,Spain,0,FirstHalf,Start,Successful,0,0,,
+3,528208,Dailon Livramento,2555,Cabo Verde,0,FirstHalf,Pass,Successful,49.9,50,36,51.6
+4,438902,Kevin Pina,2555,Cabo Verde,0,FirstHalf,Pass,Successful,35.5,50.3,29.5,28.4
+5,430933,Pico Lopes,2555,Cabo Verde,0,FirstHalf,Pass,Unsuccessful,32.1,28.1,90.8,41.8
+3,332823,Unai Simón,338,Spain,0,FirstHalf,KeeperPickup,Successful,11,73,,
+4,332823,Unai Simón,338,Spain,0,FirstHalf,Pass,Successful,11.5,67,18.3,42.6
+5,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Pass,Successful,20.9,40.3,24.4,68.6
+6,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,26.2,73,34.4,94.7
+7,363496,Marc Cucurella,338,Spain,0,FirstHalf,Pass,Successful,34.4,94.7,29,89.6
+8,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,38.6,76.1,34.7,56.7
+9,122117,Aymeric Laporte,338,Spain,0,FirstHalf,Pass,Successful,35.7,57,44.8,74.1
+10,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,47.1,75.2,45.1,57.6
+11,122117,Aymeric Laporte,338,Spain,0,FirstHalf,Pass,Successful,45.1,57.6,51.5,48
+12,402197,Pedri,338,Spain,0,FirstHalf,Pass,Successful,58.7,34.4,70.4,8
+13,254582,Marcos Llorente,338,Spain,0,FirstHalf,Pass,Successful,71.6,7.9,68.3,23.6
+14,402197,Pedri,338,Spain,0,FirstHalf,Pass,Successful,65.7,30.1,57,47.1
+15,122117,Aymeric Laporte,338,Spain,0,FirstHalf,Pass,Successful,56.8,48.8,61.7,71.7
+16,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,62.2,65.6,68.1,25.1
+17,294193,Fabián Ruiz,338,Spain,0,FirstHalf,Pass,Successful,67.7,22.4,80.2,7.6
+18,254582,Marcos Llorente,338,Spain,0,FirstHalf,Pass,Successful,80.6,7.2,80.4,25.1
+19,349760,Ferran Torres,338,Spain,0,FirstHalf,Pass,Successful,80.4,25.1,74.3,24.4
+20,294193,Fabián Ruiz,338,Spain,0,FirstHalf,Pass,Successful,72.9,47,74.8,81.8
+21,363496,Marc Cucurella,338,Spain,1,FirstHalf,Pass,Successful,73.5,81.4,69.1,70.8
+22,303139,Rodri,338,Spain,1,FirstHalf,Pass,Successful,66.5,68.3,60,61.8
+23,122117,Aymeric Laporte,338,Spain,1,FirstHalf,Pass,Successful,58.4,64.3,57.7,70.3
+24,303139,Rodri,338,Spain,1,FirstHalf,Pass,Successful,57.2,71.8,63.8,92.1
+25,422937,Gavi,338,Spain,1,FirstHalf,Pass,Successful,63.2,91.2,65.3,77.6
+26,402197,Pedri,338,Spain,1,FirstHalf,Pass,Successful,64.4,69.3,64.2,40.4
+27,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Successful,63.8,33.8,68.4,17.4
+28,294193,Fabián Ruiz,338,Spain,1,FirstHalf,Pass,Successful,69.6,9.5,79.4,4.7
+29,254582,Marcos Llorente,338,Spain,1,FirstHalf,Pass,Successful,73.3,7.7,61.7,17.3
+30,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Successful,59.5,19.7,56.2,40.3
+31,122117,Aymeric Laporte,338,Spain,1,FirstHalf,Pass,Unsuccessful,56.9,44.4,79.9,77
+6,74790,Ryan Mendes,2555,Cabo Verde,1,FirstHalf,Foul,Successful,22.6,20.8,,
+32,363496,Marc Cucurella,338,Spain,1,FirstHalf,Foul,Unsuccessful,77.4,79.2,,
+7,430933,Pico Lopes,2555,Cabo Verde,1,FirstHalf,Pass,Successful,21.3,16.9,5.7,45.1
+8,123577,Vozinha,2555,Cabo Verde,1,FirstHalf,Pass,Successful,5.9,44.9,15.6,71.6
+9,235763,Diney Borges,2555,Cabo Verde,1,FirstHalf,Pass,Successful,15.6,71.6,24.2,95.6
+10,505284,Sidny Cabral,2555,Cabo Verde,2,FirstHalf,Pass,Successful,23.2,94.7,32.6,93.5
+11,296684,Jamiro Monteiro,2555,Cabo Verde,2,FirstHalf,Pass,Successful,32.5,93.5,21.7,91.7
+12,235763,Diney Borges,2555,Cabo Verde,2,FirstHalf,Pass,Unsuccessful,23.5,93,41.5,100
+34,294193,Fabián Ruiz,338,Spain,2,FirstHalf,Pass,Successful,69.3,0,46,6
+35,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,45,8.5,51.7,51.1
+36,303139,Rodri,338,Spain,2,FirstHalf,Pass,Successful,59.3,69.4,52,60.3
+37,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Successful,52,60.3,59,35.7
+38,294193,Fabián Ruiz,338,Spain,2,FirstHalf,Pass,Successful,63.9,40.9,63.9,15.9
+39,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,61.7,8.8,69.9,4.2
+40,254582,Marcos Llorente,338,Spain,2,FirstHalf,Pass,Successful,70.5,4.4,93.2,11.9
+41,349760,Ferran Torres,338,Spain,2,FirstHalf,Dispossessed,Successful,92,10.4,,
+15,235763,Diney Borges,2555,Cabo Verde,2,FirstHalf,Tackle,Unsuccessful,8,89.6,,
+76,349760,Ferran Torres,338,Spain,2,FirstHalf,Dispossessed,Successful,92.6,10.2,,
+16,235763,Diney Borges,2555,Cabo Verde,2,FirstHalf,Tackle,Unsuccessful,7.4,89.8,,
+48,349760,Ferran Torres,338,Spain,2,FirstHalf,BallTouch,Successful,94.9,14.2,,
+19,235763,Diney Borges,2555,Cabo Verde,3,FirstHalf,Pass,Successful,4.2,55.7,5.1,41.2
+20,123577,Vozinha,2555,Cabo Verde,3,FirstHalf,Pass,Unsuccessful,4.1,42.4,37.4,5.9
+46,422937,Gavi,338,Spain,3,FirstHalf,Aerial,Successful,62.6,94.1,,
+21,129648,Steven Moreira,2555,Cabo Verde,3,FirstHalf,Aerial,Unsuccessful,37.4,5.9,,
+79,422937,Gavi,338,Spain,3,FirstHalf,BallTouch,Successful,76.7,95.3,,
+23,129648,Steven Moreira,2555,Cabo Verde,3,FirstHalf,Pass,Successful,34.2,0,40,13.6
+24,438902,Kevin Pina,2555,Cabo Verde,3,FirstHalf,Pass,Successful,39.2,11.2,37.9,3.4
+25,129648,Steven Moreira,2555,Cabo Verde,3,FirstHalf,Pass,Unsuccessful,37.8,3.4,62.4,11.2
+49,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Pass,Successful,48.6,89.9,55,93.2
+50,303139,Rodri,338,Spain,3,FirstHalf,BallRecovery,Successful,54.5,93.5,,
+51,303139,Rodri,338,Spain,3,FirstHalf,Pass,Successful,54.5,93.5,42.2,94.1
+52,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Pass,Successful,40.6,93.7,35.6,65.8
+53,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Successful,37.8,45.3,53.4,50.3
+54,294193,Fabián Ruiz,338,Spain,3,FirstHalf,Pass,Successful,53.4,50.3,42.9,43.6
+56,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Successful,42.9,43.6,41.9,70.5
+57,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Pass,Successful,42.9,70.5,45.7,43.8
+58,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Successful,54,39.7,80.3,82
+59,422937,Gavi,338,Spain,4,FirstHalf,Aerial,Successful,80.3,82,,
+26,129648,Steven Moreira,2555,Cabo Verde,4,FirstHalf,Aerial,Unsuccessful,19.7,18,,
+60,422937,Gavi,338,Spain,4,FirstHalf,Pass,Unsuccessful,80.3,82,87.8,55
+27,430933,Pico Lopes,2555,Cabo Verde,4,FirstHalf,Clearance,Successful,12.2,39.8,47.1,9.4
+61,363496,Marc Cucurella,338,Spain,4,FirstHalf,Pass,Successful,55.7,89.7,47.6,56.2
+62,498386,Pau Cubarsí,338,Spain,4,FirstHalf,Pass,Successful,48.4,41.8,55.4,15.3
+63,254582,Marcos Llorente,338,Spain,4,FirstHalf,Pass,Successful,54.9,15.7,41.8,23.9
+64,498386,Pau Cubarsí,338,Spain,4,FirstHalf,Pass,Successful,33.7,27.4,26.5,42.6
+65,332823,Unai Simón,338,Spain,4,FirstHalf,Pass,Successful,26.5,43.8,34.5,69.7
+66,122117,Aymeric Laporte,338,Spain,4,FirstHalf,Pass,Successful,47.4,71.1,78,13.6
+67,349760,Ferran Torres,338,Spain,4,FirstHalf,Pass,Unsuccessful,78,13.6,72.5,26.8
+28,296684,Jamiro Monteiro,2555,Cabo Verde,4,FirstHalf,BallRecovery,Successful,25.4,83,,
+29,296684,Jamiro Monteiro,2555,Cabo Verde,4,FirstHalf,Pass,Successful,23.8,84.8,18.5,83.9
+30,505284,Sidny Cabral,2555,Cabo Verde,4,FirstHalf,Pass,Successful,18.4,83.9,15.4,68.9
+31,235763,Diney Borges,2555,Cabo Verde,4,FirstHalf,Pass,Successful,15.2,69,23.6,67.7
+32,438902,Kevin Pina,2555,Cabo Verde,4,FirstHalf,Pass,Successful,23.6,67.7,23.9,86.7
+33,505284,Sidny Cabral,2555,Cabo Verde,4,FirstHalf,Pass,Unsuccessful,35.1,86,48.6,68.9
+68,122117,Aymeric Laporte,338,Spain,4,FirstHalf,Interception,Successful,51.4,31.1,,
+69,294193,Fabián Ruiz,338,Spain,4,FirstHalf,BallRecovery,Successful,57.8,19.7,,
+70,294193,Fabián Ruiz,338,Spain,4,FirstHalf,Pass,Successful,56.8,19.1,42.3,22.4
+71,498386,Pau Cubarsí,338,Spain,4,FirstHalf,Pass,Successful,42.2,23,54.5,29.4
+72,303139,Rodri,338,Spain,4,FirstHalf,Pass,Successful,53.5,31.2,55.6,46.8
+73,402197,Pedri,338,Spain,4,FirstHalf,Pass,Successful,66.5,58.5,73.6,4.8
+74,349760,Ferran Torres,338,Spain,5,FirstHalf,Pass,Successful,74.8,4.7,84.4,10.9
+75,294193,Fabián Ruiz,338,Spain,5,FirstHalf,Pass,Unsuccessful,84.4,9.5,86.2,15
+34,235763,Diney Borges,2555,Cabo Verde,5,FirstHalf,BallRecovery,Successful,15.1,85.5,,
+35,235763,Diney Borges,2555,Cabo Verde,5,FirstHalf,Pass,Successful,15.1,85.5,17.4,94.1
+36,505284,Sidny Cabral,2555,Cabo Verde,5,FirstHalf,Pass,Successful,17.4,94.4,12,84.8
+37,235763,Diney Borges,2555,Cabo Verde,5,FirstHalf,Pass,Unsuccessful,12.1,88.7,13.5,88.7
+77,349760,Ferran Torres,338,Spain,5,FirstHalf,BlockedPass,Successful,86.5,11.3,,
+39,505284,Sidny Cabral,2555,Cabo Verde,5,FirstHalf,Pass,Successful,22.7,100,43.4,87.8
+40,528208,Dailon Livramento,2555,Cabo Verde,5,FirstHalf,BallTouch,Successful,42.7,87.3,,
+41,361964,Jovane Cabral,2555,Cabo Verde,5,FirstHalf,Pass,Unsuccessful,38.9,86.7,38.7,84.2
+80,303139,Rodri,338,Spain,5,FirstHalf,BlockedPass,Successful,61.3,15.8,,
+43,505284,Sidny Cabral,2555,Cabo Verde,5,FirstHalf,Pass,Successful,36.6,100,29.8,89.3
+44,296684,Jamiro Monteiro,2555,Cabo Verde,5,FirstHalf,Pass,Successful,28.6,90.8,11.4,92.7
+45,235763,Diney Borges,2555,Cabo Verde,5,FirstHalf,TakeOn,Unsuccessful,9.6,91.4,,
+82,402197,Pedri,338,Spain,5,FirstHalf,Tackle,Successful,90.5,8.6,,
+84,402197,Pedri,338,Spain,5,FirstHalf,BallRecovery,Successful,92.8,6.8,,
+83,402197,Pedri,338,Spain,5,FirstHalf,Pass,Unsuccessful,90,8,98.2,45.6
+46,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,KeeperPickup,Successful,4.2,54.3,,
+47,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,Pass,Successful,12.6,40.6,27.8,10.6
+48,129648,Steven Moreira,2555,Cabo Verde,6,FirstHalf,Pass,Successful,29.3,9.2,39.4,4.3
+49,74790,Ryan Mendes,2555,Cabo Verde,6,FirstHalf,Pass,Successful,39.3,4.1,26,3.2
+50,129648,Steven Moreira,2555,Cabo Verde,6,FirstHalf,Pass,Successful,25.9,3.2,9.9,10.9
+51,430933,Pico Lopes,2555,Cabo Verde,6,FirstHalf,Pass,Unsuccessful,15.1,10,45.7,5.9
+85,363496,Marc Cucurella,338,Spain,6,FirstHalf,BallTouch,Successful,63.1,96.4,,
+53,129648,Steven Moreira,2555,Cabo Verde,6,FirstHalf,Pass,Successful,46.6,0,40.4,27.7
+54,438902,Kevin Pina,2555,Cabo Verde,6,FirstHalf,Pass,Successful,39.7,28.3,29.4,15.8
+55,430933,Pico Lopes,2555,Cabo Verde,6,FirstHalf,Pass,Successful,29.4,15.8,38.7,8.2
+56,129648,Steven Moreira,2555,Cabo Verde,6,FirstHalf,Pass,Successful,38.5,7.9,24,15.8
+57,430933,Pico Lopes,2555,Cabo Verde,6,FirstHalf,Pass,Successful,23,15.8,9.4,52.5
+58,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,Pass,Successful,9.8,53.1,18.3,85.8
+59,235763,Diney Borges,2555,Cabo Verde,6,FirstHalf,Pass,Successful,19.8,81.9,9.9,46.6
+60,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,Pass,Successful,15.2,43,20.4,23.9
+61,430933,Pico Lopes,2555,Cabo Verde,6,FirstHalf,Pass,Successful,22.1,29.9,34.4,49.9
+62,296684,Jamiro Monteiro,2555,Cabo Verde,6,FirstHalf,Pass,Unsuccessful,33.1,48.2,58.3,21.1
+87,122117,Aymeric Laporte,338,Spain,6,FirstHalf,BallRecovery,Successful,45.3,83.2,,
+88,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Successful,42.5,83.2,18.1,59.7
+89,332823,Unai Simón,338,Spain,7,FirstHalf,Pass,Successful,13.9,54.4,24.2,76.1
+90,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,47.6,73,46,55.6
+91,303139,Rodri,338,Spain,7,FirstHalf,Pass,Successful,46.7,55.3,54,72.9
+92,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,56.1,74,64.7,95
+93,363496,Marc Cucurella,338,Spain,7,FirstHalf,Pass,Successful,63.5,93.8,53.3,80.3
+94,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,53.2,80,59.2,71.1
+95,402197,Pedri,338,Spain,7,FirstHalf,Pass,Unsuccessful,60.6,67,84.6,45.5
+63,505284,Sidny Cabral,2555,Cabo Verde,7,FirstHalf,Clearance,Successful,15.1,56.4,26.4,35.2
+64,438902,Kevin Pina,2555,Cabo Verde,7,FirstHalf,BallRecovery,Successful,15.5,25.6,,
+65,438902,Kevin Pina,2555,Cabo Verde,7,FirstHalf,TakeOn,Unsuccessful,6.4,13.1,,
+96,422937,Gavi,338,Spain,7,FirstHalf,Tackle,Successful,93.6,86.9,,
+97,422937,Gavi,338,Spain,7,FirstHalf,Pass,Unsuccessful,91.7,96.8,89.9,95.8
+66,438902,Kevin Pina,2555,Cabo Verde,7,FirstHalf,BlockedPass,Successful,10.1,4.2,,
+67,430933,Pico Lopes,2555,Cabo Verde,7,FirstHalf,Pass,Unsuccessful,2.9,16.7,33.7,0
+99,363496,Marc Cucurella,338,Spain,7,FirstHalf,Pass,Successful,69.7,100,63.6,94.9
+100,402197,Pedri,338,Spain,7,FirstHalf,Pass,Successful,64.4,90.9,61.6,74.7
+101,294193,Fabián Ruiz,338,Spain,7,FirstHalf,Pass,Successful,61.1,71.4,57.4,45.9
+102,498386,Pau Cubarsí,338,Spain,7,FirstHalf,Pass,Successful,57.4,45.9,58.8,25.6
+103,254582,Marcos Llorente,338,Spain,8,FirstHalf,Pass,Successful,58.4,23,69.6,5.7
+104,349760,Ferran Torres,338,Spain,8,FirstHalf,Pass,Successful,70.9,5.9,62.9,15.9
+105,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,62.9,15.9,52.9,28.8
+106,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Pass,Successful,52.3,27.1,52.6,61.5
+107,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,66.6,78.2,78.5,95.8
+108,363496,Marc Cucurella,338,Spain,8,FirstHalf,Pass,Successful,74.6,95.3,68.8,92.1
+109,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Unsuccessful,71.3,93.4,88,74.4
+69,430933,Pico Lopes,2555,Cabo Verde,8,FirstHalf,Clearance,Successful,13.3,30.8,37.8,25.6
+110,294193,Fabián Ruiz,338,Spain,8,FirstHalf,Pass,Successful,65.8,80.3,53.7,53.2
+111,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,51.9,51.5,42.8,18.3
+112,254582,Marcos Llorente,338,Spain,8,FirstHalf,Pass,Successful,44,13.9,39.3,32.1
+113,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,45.3,32.7,52.9,61.2
+114,294193,Fabián Ruiz,338,Spain,8,FirstHalf,Pass,Successful,54.7,66.1,73.8,95.2
+115,363496,Marc Cucurella,338,Spain,8,FirstHalf,Pass,Successful,72.8,95.6,66.9,82.7
+116,294193,Fabián Ruiz,338,Spain,8,FirstHalf,Pass,Successful,66.9,81.8,69.6,72.7
+117,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,68.8,72.6,66.7,83.2
+118,294193,Fabián Ruiz,338,Spain,8,FirstHalf,Pass,Successful,68.4,80.5,64.4,53.5
+119,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Pass,Successful,64.2,51.8,67.6,46.4
+120,402197,Pedri,338,Spain,8,FirstHalf,Pass,Successful,69.1,40.6,85.1,7.9
+121,349760,Ferran Torres,338,Spain,8,FirstHalf,Pass,Unsuccessful,85.7,7.6,84.3,32.3
+70,296684,Jamiro Monteiro,2555,Cabo Verde,8,FirstHalf,BallRecovery,Successful,17.4,70.1,,
+71,296684,Jamiro Monteiro,2555,Cabo Verde,8,FirstHalf,Pass,Unsuccessful,20.9,66,65.3,59.9
+122,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Aerial,Successful,34.7,40.1,,
+72,528208,Dailon Livramento,2555,Cabo Verde,9,FirstHalf,Aerial,Unsuccessful,65.3,59.9,,
+123,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Clearance,Successful,34.7,40.1,48.8,27.3
+124,254582,Marcos Llorente,338,Spain,9,FirstHalf,BallRecovery,Successful,46,21,,
+125,254582,Marcos Llorente,338,Spain,9,FirstHalf,Pass,Successful,35.8,8.8,28.8,29.5
+137,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Successful,26.8,27.7,38.3,26.8
+126,303139,Rodri,338,Spain,9,FirstHalf,Pass,Successful,53.7,28.5,65.5,18.9
+127,402197,Pedri,338,Spain,9,FirstHalf,Pass,Unsuccessful,73.1,8.9,76.5,17.9
+73,505284,Sidny Cabral,2555,Cabo Verde,9,FirstHalf,BallRecovery,Successful,23.4,81.9,,
+128,402197,Pedri,338,Spain,9,FirstHalf,Challenge,Unsuccessful,75.4,20.7,,
+74,505284,Sidny Cabral,2555,Cabo Verde,9,FirstHalf,TakeOn,Successful,24.6,79.3,,
+75,505284,Sidny Cabral,2555,Cabo Verde,9,FirstHalf,TakeOn,Unsuccessful,28.9,88.7,,
+129,498386,Pau Cubarsí,338,Spain,9,FirstHalf,BallRecovery,Successful,47.9,8.6,,
+130,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Successful,46.9,8,56,25.3
+131,303139,Rodri,338,Spain,9,FirstHalf,Pass,Successful,62,27.7,64,45.6
+132,402197,Pedri,338,Spain,9,FirstHalf,Pass,Successful,63.9,46.8,61.6,66.1
+133,294193,Fabián Ruiz,338,Spain,9,FirstHalf,Pass,Successful,62.9,63,65.4,51.8
+134,402197,Pedri,338,Spain,9,FirstHalf,Pass,Successful,65.8,44.1,77.8,6.9
+135,349760,Ferran Torres,338,Spain,9,FirstHalf,Pass,Unsuccessful,79.4,6.2,95,15.6
+76,361964,Jovane Cabral,2555,Cabo Verde,9,FirstHalf,Interception,Successful,5,84.4,,
+77,361964,Jovane Cabral,2555,Cabo Verde,9,FirstHalf,CornerAwarded,Unsuccessful,2.9,83.6,,
+136,349760,Ferran Torres,338,Spain,9,FirstHalf,CornerAwarded,Successful,97.1,16.4,,
+138,402197,Pedri,338,Spain,10,FirstHalf,Pass,Unsuccessful,99.5,0.5,91.1,39.4
+78,74790,Ryan Mendes,2555,Cabo Verde,10,FirstHalf,Clearance,Successful,12.6,68.7,26.8,62.3
+79,361964,Jovane Cabral,2555,Cabo Verde,10,FirstHalf,BallRecovery,Successful,27,62.3,,
+80,361964,Jovane Cabral,2555,Cabo Verde,10,FirstHalf,Pass,Successful,27,62.3,36.8,59
+81,296684,Jamiro Monteiro,2555,Cabo Verde,10,FirstHalf,Pass,Unsuccessful,36.7,59,68.2,90
+139,254582,Marcos Llorente,338,Spain,10,FirstHalf,BallRecovery,Successful,40.2,19.5,,
+140,254582,Marcos Llorente,338,Spain,10,FirstHalf,Pass,Successful,31,8.5,38.9,27.3
+141,303139,Rodri,338,Spain,10,FirstHalf,Pass,Successful,47.2,34.4,51.7,84.9
+142,363496,Marc Cucurella,338,Spain,10,FirstHalf,Pass,Successful,54.6,92.8,54,74
+143,294193,Fabián Ruiz,338,Spain,10,FirstHalf,Pass,Successful,54,71.7,55.2,40.9
+144,303139,Rodri,338,Spain,10,FirstHalf,Pass,Successful,61.3,40.9,59.3,60.3
+145,294193,Fabián Ruiz,338,Spain,10,FirstHalf,Pass,Successful,57.8,61.1,51.5,60.8
+146,122117,Aymeric Laporte,338,Spain,10,FirstHalf,Pass,Successful,51.5,60.8,55.8,35.3
+147,303139,Rodri,338,Spain,10,FirstHalf,Pass,Successful,56.9,30.3,67.5,8.8
+148,254582,Marcos Llorente,338,Spain,10,FirstHalf,Pass,Successful,70.3,7.2,83,8.6
+149,402197,Pedri,338,Spain,11,FirstHalf,Pass,Unsuccessful,93.3,7.7,96.9,50.3
+83,430933,Pico Lopes,2555,Cabo Verde,11,FirstHalf,Aerial,Successful,3.1,49.7,,
+150,298839,Mikel Oyarzabal,338,Spain,11,FirstHalf,Aerial,Unsuccessful,96.9,50.3,,
+84,430933,Pico Lopes,2555,Cabo Verde,11,FirstHalf,Clearance,Successful,3.1,49.7,11.4,0
+152,363496,Marc Cucurella,338,Spain,11,FirstHalf,Pass,Successful,85.1,100,72.8,94.9
+153,294193,Fabián Ruiz,338,Spain,11,FirstHalf,Pass,Unsuccessful,76.6,90.9,96.5,49.8
+86,123577,Vozinha,2555,Cabo Verde,11,FirstHalf,Claim,Successful,3.5,50.2,,
+87,123577,Vozinha,2555,Cabo Verde,11,FirstHalf,Pass,Successful,11.2,51.2,19.6,72
+88,235763,Diney Borges,2555,Cabo Verde,11,FirstHalf,Pass,Successful,19.5,71,29.6,93.8
+89,361964,Jovane Cabral,2555,Cabo Verde,11,FirstHalf,Pass,Successful,22.6,73.7,8.1,44.3
+90,123577,Vozinha,2555,Cabo Verde,11,FirstHalf,Pass,Successful,9.8,43.3,17.1,17
+91,430933,Pico Lopes,2555,Cabo Verde,11,FirstHalf,Pass,Successful,16.3,23,14.7,67.5
+92,235763,Diney Borges,2555,Cabo Verde,11,FirstHalf,Pass,Successful,15.9,66.9,31.1,72.6
+93,296684,Jamiro Monteiro,2555,Cabo Verde,11,FirstHalf,Pass,Successful,30.9,72.6,22.8,59
+94,235763,Diney Borges,2555,Cabo Verde,11,FirstHalf,Pass,Successful,22,58.5,32.1,26.9
+95,430933,Pico Lopes,2555,Cabo Verde,11,FirstHalf,Pass,Successful,35.5,25.7,42.2,4.4
+96,129648,Steven Moreira,2555,Cabo Verde,11,FirstHalf,Pass,Successful,41.2,4.4,41.5,14
+97,74790,Ryan Mendes,2555,Cabo Verde,11,FirstHalf,Pass,Successful,41.1,14,28.6,36.8
+98,235763,Diney Borges,2555,Cabo Verde,12,FirstHalf,Pass,Successful,30.9,39.4,38,49.9
+99,296684,Jamiro Monteiro,2555,Cabo Verde,12,FirstHalf,Pass,Successful,35.2,38.9,33.1,19.9
+100,430933,Pico Lopes,2555,Cabo Verde,12,FirstHalf,Pass,Successful,34.8,23.9,30.5,44.5
+101,235763,Diney Borges,2555,Cabo Verde,12,FirstHalf,Pass,Successful,31.4,47.8,34.3,81.9
+102,438902,Kevin Pina,2555,Cabo Verde,12,FirstHalf,Pass,Unsuccessful,36,81,47.4,53.4
+154,294193,Fabián Ruiz,338,Spain,12,FirstHalf,Interception,Successful,52.6,46.6,,
+103,235763,Diney Borges,2555,Cabo Verde,12,FirstHalf,Pass,Successful,26.6,67.5,9.2,53.1
+104,123577,Vozinha,2555,Cabo Verde,12,FirstHalf,Pass,Successful,9.2,53.1,23.6,13.1
+105,430933,Pico Lopes,2555,Cabo Verde,12,FirstHalf,Pass,Successful,23.6,13.1,37.6,3.1
+106,74790,Ryan Mendes,2555,Cabo Verde,12,FirstHalf,Pass,Successful,36.3,18.7,42.2,30.4
+107,379742,Laros Duarte,2555,Cabo Verde,12,FirstHalf,Pass,Successful,37.6,22.7,42.2,4.3
+108,430933,Pico Lopes,2555,Cabo Verde,12,FirstHalf,Pass,Unsuccessful,42.1,4.3,96.6,24.4
+155,332823,Unai Simón,338,Spain,12,FirstHalf,KeeperPickup,Successful,8.3,75.6,,
+156,332823,Unai Simón,338,Spain,12,FirstHalf,Pass,Successful,8.3,57,25.4,38.7
+168,498386,Pau Cubarsí,338,Spain,12,FirstHalf,Pass,Successful,21.6,34.7,35.5,36.5
+157,303139,Rodri,338,Spain,12,FirstHalf,Pass,Successful,51.6,45.4,66.7,6.8
+158,349760,Ferran Torres,338,Spain,12,FirstHalf,Pass,Unsuccessful,68.9,28.2,67.4,29.9
+110,296684,Jamiro Monteiro,2555,Cabo Verde,12,FirstHalf,BlockedPass,Successful,32.6,70.1,,
+111,361964,Jovane Cabral,2555,Cabo Verde,12,FirstHalf,BallRecovery,Successful,30.9,86.7,,
+112,361964,Jovane Cabral,2555,Cabo Verde,13,FirstHalf,BallTouch,Unsuccessful,31.3,93.3,,
+161,254582,Marcos Llorente,338,Spain,13,FirstHalf,Pass,Successful,60.3,0,55.8,4.1
+162,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,56,5.4,53.2,45.8
+163,294193,Fabián Ruiz,338,Spain,13,FirstHalf,Pass,Successful,54.6,58.3,68.5,94.3
+164,422937,Gavi,338,Spain,13,FirstHalf,Pass,Successful,63.6,95,55.3,91.5
+165,363496,Marc Cucurella,338,Spain,13,FirstHalf,Pass,Successful,55.6,90.5,55.1,74.4
+166,294193,Fabián Ruiz,338,Spain,13,FirstHalf,Pass,Successful,57,66.8,55.9,35.4
+167,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,57.5,30.4,61.7,7.9
+169,254582,Marcos Llorente,338,Spain,13,FirstHalf,Pass,Successful,61.3,7.6,53,43.9
+170,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,53,43.9,61.5,67.7
+171,294193,Fabián Ruiz,338,Spain,13,FirstHalf,Pass,Successful,61.9,72.3,65.6,62.9
+172,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,64.8,62.6,54.3,57.4
+173,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,62.3,68,65.4,81.8
+174,294193,Fabián Ruiz,338,Spain,13,FirstHalf,Pass,Successful,65.4,81.8,72,94.3
+175,363496,Marc Cucurella,338,Spain,13,FirstHalf,Pass,Successful,70.9,92.9,68.4,83
+176,294193,Fabián Ruiz,338,Spain,13,FirstHalf,Pass,Successful,68.8,80.6,65.8,35.3
+177,254582,Marcos Llorente,338,Spain,13,FirstHalf,Pass,Successful,67.1,28,66.3,42.7
+178,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,66.2,43.8,68.7,57.3
+179,294193,Fabián Ruiz,338,Spain,14,FirstHalf,Pass,Successful,68.6,56.1,72.5,56.4
+180,303139,Rodri,338,Spain,14,FirstHalf,Pass,Unsuccessful,72.5,56.5,75.6,72
+114,74790,Ryan Mendes,2555,Cabo Verde,14,FirstHalf,Pass,Unsuccessful,33.3,25.9,32.1,39.4
+203,422937,Gavi,338,Spain,14,FirstHalf,BallTouch,Unsuccessful,68.7,71.7,,
+115,,,2555,Cabo Verde,14,FirstHalf,Foul,Successful,27.6,34.6,,
+181,422937,Gavi,338,Spain,14,FirstHalf,Foul,Unsuccessful,72.4,65.4,,
+116,430933,Pico Lopes,2555,Cabo Verde,14,FirstHalf,Pass,Successful,29.6,41,30.3,57.9
+117,296684,Jamiro Monteiro,2555,Cabo Verde,14,FirstHalf,Pass,Successful,30.4,57.9,31,25
+118,430933,Pico Lopes,2555,Cabo Verde,14,FirstHalf,Pass,Unsuccessful,31,25,43.7,26
+182,422937,Gavi,338,Spain,14,FirstHalf,Interception,Successful,56.3,74,,
+119,129648,Steven Moreira,2555,Cabo Verde,14,FirstHalf,Pass,Successful,14.4,6.1,6.2,31.9
+120,123577,Vozinha,2555,Cabo Verde,14,FirstHalf,Pass,Unsuccessful,6.3,31.9,42.9,36.1
+183,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,55.9,68.8,60.4,67.3
+184,303139,Rodri,338,Spain,14,FirstHalf,BallRecovery,Successful,57.9,67.4,,
+185,303139,Rodri,338,Spain,14,FirstHalf,Pass,Successful,57.9,67.4,56.1,54.9
+186,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,56.1,54.9,55.9,66.1
+187,303139,Rodri,338,Spain,14,FirstHalf,Pass,Successful,56.4,67.3,65.6,87
+188,422937,Gavi,338,Spain,14,FirstHalf,Pass,Successful,64.9,91.8,62.1,79.6
+189,294193,Fabián Ruiz,338,Spain,14,FirstHalf,Pass,Successful,60.7,75.2,54.7,47.1
+190,498386,Pau Cubarsí,338,Spain,14,FirstHalf,Pass,Successful,54.1,44.8,58.9,10.3
+191,254582,Marcos Llorente,338,Spain,14,FirstHalf,Pass,Successful,62.6,4.7,70,3.9
+192,349760,Ferran Torres,338,Spain,14,FirstHalf,Pass,Successful,70,3.9,69.3,12.9
+193,254582,Marcos Llorente,338,Spain,14,FirstHalf,Pass,Successful,67.6,13.9,66.3,35.4
+194,294193,Fabián Ruiz,338,Spain,14,FirstHalf,Pass,Successful,67.1,40,69.7,36.7
+195,303139,Rodri,338,Spain,14,FirstHalf,Pass,Unsuccessful,69.7,38,69.9,45.8
+123,438902,Kevin Pina,2555,Cabo Verde,14,FirstHalf,Pass,Unsuccessful,28.8,54,26.7,38
+126,438902,Kevin Pina,2555,Cabo Verde,14,FirstHalf,Error,Successful,44.4,55.4,,
+196,402197,Pedri,338,Spain,14,FirstHalf,SavedShot,Successful,76,70.1,,
+124,123577,Vozinha,2555,Cabo Verde,14,FirstHalf,Save,Successful,2.9,50,,
+125,123577,Vozinha,2555,Cabo Verde,14,FirstHalf,KeeperPickup,Successful,2.9,50,,
+127,123577,Vozinha,2555,Cabo Verde,15,FirstHalf,Pass,Successful,8.5,53,14.1,35
+128,430933,Pico Lopes,2555,Cabo Verde,15,FirstHalf,Pass,Successful,14.6,27.5,29.6,9.2
+129,129648,Steven Moreira,2555,Cabo Verde,15,FirstHalf,Pass,Successful,29.1,9.4,16.6,25.1
+130,430933,Pico Lopes,2555,Cabo Verde,15,FirstHalf,Pass,Successful,16.6,25.1,28,37.6
+131,438902,Kevin Pina,2555,Cabo Verde,15,FirstHalf,BallTouch,Unsuccessful,27.9,37.6,,
+197,294193,Fabián Ruiz,338,Spain,15,FirstHalf,Pass,Successful,71.7,65.9,78.1,72
+198,402197,Pedri,338,Spain,15,FirstHalf,BallRecovery,Successful,78.1,72,,
+199,402197,Pedri,338,Spain,15,FirstHalf,Pass,Unsuccessful,78.1,72,82.3,68.2
+132,430933,Pico Lopes,2555,Cabo Verde,15,FirstHalf,BallRecovery,Successful,19.5,35.3,,
+133,430933,Pico Lopes,2555,Cabo Verde,15,FirstHalf,Pass,Successful,22.8,39.4,30.3,82.5
+134,505284,Sidny Cabral,2555,Cabo Verde,15,FirstHalf,BallTouch,Unsuccessful,41.5,90,,
+200,254582,Marcos Llorente,338,Spain,15,FirstHalf,BallRecovery,Successful,46.9,9.4,,
+201,254582,Marcos Llorente,338,Spain,15,FirstHalf,Pass,Unsuccessful,46.9,9.4,55.7,20.7
+202,254582,Marcos Llorente,338,Spain,15,FirstHalf,Foul,Successful,59,10.8,,
+135,505284,Sidny Cabral,2555,Cabo Verde,15,FirstHalf,Foul,Unsuccessful,41,89.2,,
+136,505284,Sidny Cabral,2555,Cabo Verde,15,FirstHalf,Card,Successful,0,0,,
+204,254582,Marcos Llorente,338,Spain,16,FirstHalf,Pass,Successful,56.8,7.1,45.1,23.5
+205,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,46,32.3,46.4,44.6
+206,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,46.6,55.2,58.1,60.3
+207,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,59,60.2,47.1,51.1
+208,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,54.3,50.2,58.9,30.9
+209,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,61.6,25.6,72.7,6.6
+210,254582,Marcos Llorente,338,Spain,16,FirstHalf,Pass,Successful,73.2,6.3,92.7,6.6
+211,349760,Ferran Torres,338,Spain,16,FirstHalf,Pass,Successful,91,6.6,95.3,27.1
+212,254582,Marcos Llorente,338,Spain,16,FirstHalf,Pass,Unsuccessful,98.3,29.1,96.8,30.6
+137,505284,Sidny Cabral,2555,Cabo Verde,16,FirstHalf,BlockedPass,Successful,3.2,69.4,,
+138,235763,Diney Borges,2555,Cabo Verde,16,FirstHalf,Clearance,Successful,5.1,64.1,27.7,100
+214,349760,Ferran Torres,338,Spain,16,FirstHalf,Pass,Successful,61.5,0,54,16.3
+215,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,55.1,13,60.7,27.7
+216,294193,Fabián Ruiz,338,Spain,16,FirstHalf,Pass,Successful,59.8,30.1,62.3,47.6
+217,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,62.4,48,53.5,35.6
+218,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,54.4,43.8,54,71.7
+219,363496,Marc Cucurella,338,Spain,16,FirstHalf,Pass,Successful,55.1,75.8,62.7,94.7
+220,422937,Gavi,338,Spain,16,FirstHalf,Pass,Successful,61.3,92.4,54.3,56.5
+221,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,68.6,47,66.3,24.4
+222,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,66.2,23.5,77.1,8.3
+223,254582,Marcos Llorente,338,Spain,17,FirstHalf,Pass,Unsuccessful,77.1,7.7,91.1,14.4
+140,235763,Diney Borges,2555,Cabo Verde,17,FirstHalf,BallRecovery,Successful,10.1,90.5,,
+141,235763,Diney Borges,2555,Cabo Verde,17,FirstHalf,Pass,Unsuccessful,9.9,92.4,11.6,92.3
+224,294193,Fabián Ruiz,338,Spain,17,FirstHalf,BlockedPass,Successful,88.4,7.7,,
+143,505284,Sidny Cabral,2555,Cabo Verde,17,FirstHalf,Pass,Unsuccessful,17.7,100,39.5,92.1
+226,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Interception,Successful,60.5,7.9,,
+227,254582,Marcos Llorente,338,Spain,17,FirstHalf,Pass,Unsuccessful,70.6,6.6,74.5,22.1
+144,438902,Kevin Pina,2555,Cabo Verde,17,FirstHalf,Pass,Unsuccessful,25.7,83.6,34.4,74.9
+228,303139,Rodri,338,Spain,17,FirstHalf,Aerial,Successful,65.6,25.1,,
+145,379742,Laros Duarte,2555,Cabo Verde,17,FirstHalf,Aerial,Unsuccessful,34.4,74.9,,
+229,303139,Rodri,338,Spain,17,FirstHalf,Pass,Unsuccessful,65.6,25.1,72.1,31.4
+148,379742,Laros Duarte,2555,Cabo Verde,17,FirstHalf,BallTouch,Successful,33.4,74,,
+146,438902,Kevin Pina,2555,Cabo Verde,17,FirstHalf,BallTouch,Successful,30.5,72.2,,
+147,235763,Diney Borges,2555,Cabo Verde,17,FirstHalf,Pass,Unsuccessful,26.7,71.6,37.7,81.2
+230,303139,Rodri,338,Spain,17,FirstHalf,Pass,Successful,69.5,31.4,66.8,27.4
+233,294193,Fabián Ruiz,338,Spain,17,FirstHalf,BallRecovery,Successful,63.8,28.6,,
+231,294193,Fabián Ruiz,338,Spain,17,FirstHalf,Pass,Successful,66.5,29.2,60.3,61.4
+232,363496,Marc Cucurella,338,Spain,17,FirstHalf,Pass,Successful,58.6,61.2,35.6,12.3
+234,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,32.9,10.9,21.2,36.8
+235,332823,Unai Simón,338,Spain,17,FirstHalf,Pass,Successful,21.4,39.1,30.7,53.2
+236,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,58.2,61.7,60.8,50
+237,303139,Rodri,338,Spain,18,FirstHalf,Pass,Successful,60.8,50,59.2,66.2
+238,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,59.2,68,74.4,94.6
+239,363496,Marc Cucurella,338,Spain,18,FirstHalf,Pass,Successful,73,93.4,68.9,85.9
+240,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,68.9,85.9,71,96.1
+241,363496,Marc Cucurella,338,Spain,18,FirstHalf,Pass,Successful,69.9,95.5,57.9,74.3
+242,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,57.9,74.3,64.1,72.6
+243,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,63.9,56.4,63.9,37.6
+244,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,66.8,28.2,70.6,26.7
+245,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,66.6,24.8,72.6,19.8
+246,294193,Fabián Ruiz,338,Spain,18,FirstHalf,Pass,Unsuccessful,72.6,19.8,75.7,30
+247,349760,Ferran Torres,338,Spain,18,FirstHalf,BallTouch,Successful,76.2,35.7,,
+149,505284,Sidny Cabral,2555,Cabo Verde,18,FirstHalf,Interception,Successful,25.4,67.8,,
+150,379742,Laros Duarte,2555,Cabo Verde,18,FirstHalf,BallRecovery,Successful,33.9,74.3,,
+151,379742,Laros Duarte,2555,Cabo Verde,18,FirstHalf,Pass,Successful,33.9,74.3,25.2,72.3
+152,235763,Diney Borges,2555,Cabo Verde,18,FirstHalf,Pass,Unsuccessful,25.9,72.5,72.1,83.3
+248,498386,Pau Cubarsí,338,Spain,18,FirstHalf,BallRecovery,Successful,28.8,24.8,,
+249,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,27.8,25.4,14.2,42.9
+250,332823,Unai Simón,338,Spain,18,FirstHalf,Pass,Successful,14.3,45.1,30.2,62.3
+251,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,33.4,62.7,47,71.4
+252,303139,Rodri,338,Spain,18,FirstHalf,Pass,Successful,57.9,69.7,72.9,95.2
+253,363496,Marc Cucurella,338,Spain,18,FirstHalf,Pass,Successful,73.8,90.3,70.8,75.9
+254,303139,Rodri,338,Spain,18,FirstHalf,Pass,Successful,70.5,73.8,96.1,26.8
+255,349760,Ferran Torres,338,Spain,18,FirstHalf,Pass,Unsuccessful,96.1,26.8,90.2,61.2
+153,129648,Steven Moreira,2555,Cabo Verde,18,FirstHalf,Clearance,Successful,11.7,48.1,28.7,56.4
+256,294193,Fabián Ruiz,338,Spain,18,FirstHalf,MissedShots,Successful,76,46.8,,
+11157,528208,Dailon Livramento,2555,Cabo Verde,19,FirstHalf,OffsideGiven,Unsuccessful,71.5,33.1,,
+257,294193,Fabián Ruiz,338,Spain,19,FirstHalf,Pass,Successful,74.4,56.5,80.7,74
+258,422937,Gavi,338,Spain,19,FirstHalf,Pass,Successful,80.7,74,73.1,80.9
+259,363496,Marc Cucurella,338,Spain,19,FirstHalf,Pass,Successful,73,81.2,82.4,87.6
+260,422937,Gavi,338,Spain,19,FirstHalf,Pass,Successful,78.6,88.1,71.8,87.4
+261,363496,Marc Cucurella,338,Spain,19,FirstHalf,Pass,Successful,71.4,87,70,77.1
+262,303139,Rodri,338,Spain,19,FirstHalf,Pass,Successful,70,75.9,74.5,75.2
+263,422937,Gavi,338,Spain,19,FirstHalf,Pass,Successful,73.3,74.4,69.3,77.4
+264,303139,Rodri,338,Spain,19,FirstHalf,Pass,Successful,69.9,74.6,68.1,45.6
+265,498386,Pau Cubarsí,338,Spain,19,FirstHalf,SavedShot,Successful,70.7,42.5,,
+266,294193,Fabián Ruiz,338,Spain,19,FirstHalf,BallTouch,Successful,80.8,48.8,,
+156,123577,Vozinha,2555,Cabo Verde,19,FirstHalf,Pass,Successful,3.5,48.4,15.7,9.8
+157,430933,Pico Lopes,2555,Cabo Verde,19,FirstHalf,OffsidePass,Successful,13.8,10.9,71.5,33.1
+268,498386,Pau Cubarsí,338,Spain,19,FirstHalf,OffsideProvoked,Successful,44.3,49.7,,
+269,122117,Aymeric Laporte,338,Spain,20,FirstHalf,Pass,Successful,38.4,65.5,44.2,43.3
+270,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,53.2,37.4,47.7,55.9
+271,122117,Aymeric Laporte,338,Spain,20,FirstHalf,Pass,Successful,54.3,56.2,60.5,65.5
+272,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,60.6,65.5,67.6,57.9
+273,402197,Pedri,338,Spain,20,FirstHalf,Pass,Successful,66.9,55.2,56,35
+274,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,63,28.5,66.5,56.5
+275,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,67.4,54.2,68.7,33.2
+276,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,66.7,27.6,78.5,6.9
+277,349760,Ferran Torres,338,Spain,20,FirstHalf,Pass,Unsuccessful,82.4,6.6,89.8,36.5
+158,235763,Diney Borges,2555,Cabo Verde,20,FirstHalf,Clearance,Successful,11.5,66.2,12.2,93.3
+159,361964,Jovane Cabral,2555,Cabo Verde,20,FirstHalf,BallRecovery,Successful,10.5,91.8,,
+160,361964,Jovane Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,6.9,81.8,14,94.5
+161,505284,Sidny Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Unsuccessful,9,91.8,8.6,87.3
+278,402197,Pedri,338,Spain,20,FirstHalf,BlockedPass,Successful,91.4,12.7,,
+163,505284,Sidny Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,17.7,100,11.1,88.8
+164,361964,Jovane Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,11.1,88.8,10.6,95.1
+165,505284,Sidny Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,7.7,93.8,9.8,53
+166,430933,Pico Lopes,2555,Cabo Verde,20,FirstHalf,BallTouch,Successful,9.7,53,,
+11181,74790,Ryan Mendes,2555,Cabo Verde,21,FirstHalf,OffsideGiven,Unsuccessful,88,62.4,,
+167,123577,Vozinha,2555,Cabo Verde,21,FirstHalf,Pass,Successful,14.4,31.3,22.1,19.3
+168,430933,Pico Lopes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,22.2,21.4,23.8,66.9
+169,235763,Diney Borges,2555,Cabo Verde,21,FirstHalf,Pass,Successful,25,66.6,31.2,66.2
+170,296684,Jamiro Monteiro,2555,Cabo Verde,21,FirstHalf,Pass,Successful,31.3,66.2,25.9,77.4
+171,235763,Diney Borges,2555,Cabo Verde,21,FirstHalf,Pass,Successful,25.9,77.4,20.3,59.3
+172,296684,Jamiro Monteiro,2555,Cabo Verde,21,FirstHalf,Pass,Successful,21.8,58.4,28.1,27.7
+173,430933,Pico Lopes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,31.6,26.6,49.6,3.5
+174,74790,Ryan Mendes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,54.4,6.5,67.9,19.1
+175,129648,Steven Moreira,2555,Cabo Verde,21,FirstHalf,Pass,Successful,68,19.1,59.1,21.8
+176,74790,Ryan Mendes,2555,Cabo Verde,21,FirstHalf,Pass,Unsuccessful,58.7,23.3,65.4,39.8
+280,294193,Fabián Ruiz,338,Spain,21,FirstHalf,Pass,Unsuccessful,39.9,63.2,35.9,53.6
+177,379742,Laros Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,67.4,64.2,84.1,91.1
+178,361964,Jovane Cabral,2555,Cabo Verde,21,FirstHalf,Pass,Successful,83.1,89.6,69,78.2
+179,379742,Laros Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Unsuccessful,82.7,80.1,86.8,56.3
+281,303139,Rodri,338,Spain,21,FirstHalf,Clearance,Successful,15.2,37,24.8,37.3
+180,235763,Diney Borges,2555,Cabo Verde,21,FirstHalf,Aerial,Successful,75.2,62.7,,
+282,298839,Mikel Oyarzabal,338,Spain,21,FirstHalf,Aerial,Unsuccessful,24.8,37.3,,
+181,235763,Diney Borges,2555,Cabo Verde,21,FirstHalf,OffsidePass,Successful,75.2,62.7,88,62.4
+283,122117,Aymeric Laporte,338,Spain,21,FirstHalf,OffsideProvoked,Successful,15,49.1,,
+284,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,25.5,32.1,32,33.2
+285,294193,Fabián Ruiz,338,Spain,22,FirstHalf,Pass,Successful,45.7,42.6,39,33.6
+286,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,38.2,32.4,41.9,13.9
+287,254582,Marcos Llorente,338,Spain,22,FirstHalf,Pass,Successful,42.8,12.9,38.3,29.5
+288,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,39.5,30.1,46.9,54.1
+289,294193,Fabián Ruiz,338,Spain,22,FirstHalf,Pass,Successful,47.6,55.9,71.6,96.1
+290,363496,Marc Cucurella,338,Spain,22,FirstHalf,Pass,Successful,70.9,95,74,87.6
+291,402197,Pedri,338,Spain,22,FirstHalf,Pass,Successful,74,87.6,69.6,94.6
+292,363496,Marc Cucurella,338,Spain,22,FirstHalf,Pass,Successful,68.4,94,63.6,75.8
+293,294193,Fabián Ruiz,338,Spain,22,FirstHalf,Pass,Successful,63.7,74.1,65,59.4
+294,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,65.9,55.5,76,7.4
+295,349760,Ferran Torres,338,Spain,22,FirstHalf,Pass,Successful,74.7,7.7,70.6,9.7
+296,254582,Marcos Llorente,338,Spain,22,FirstHalf,Pass,Successful,70.6,9.7,98.3,11.9
+297,402197,Pedri,338,Spain,22,FirstHalf,BallTouch,Unsuccessful,98.3,11.9,,
+185,235763,Diney Borges,2555,Cabo Verde,25,FirstHalf,Pass,Successful,4.4,60.3,4,48.4
+186,123577,Vozinha,2555,Cabo Verde,25,FirstHalf,Pass,Successful,7,53.6,47.1,77.4
+187,361964,Jovane Cabral,2555,Cabo Verde,25,FirstHalf,Pass,Successful,47,77.4,41.8,68.4
+188,74790,Ryan Mendes,2555,Cabo Verde,26,FirstHalf,Pass,Successful,41.8,68.4,34.6,53
+189,379742,Laros Duarte,2555,Cabo Verde,26,FirstHalf,Pass,Successful,34.5,53,28.7,34.4
+190,430933,Pico Lopes,2555,Cabo Verde,26,FirstHalf,Pass,Successful,30.4,32.6,47.2,7
+191,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,Pass,Successful,51.2,6.4,41.9,17
+192,379742,Laros Duarte,2555,Cabo Verde,26,FirstHalf,Pass,Successful,42,17.3,32.2,49.4
+193,235763,Diney Borges,2555,Cabo Verde,26,FirstHalf,Pass,Successful,54.8,69.9,62.8,94.4
+194,505284,Sidny Cabral,2555,Cabo Verde,26,FirstHalf,Pass,Successful,58,91.7,36.2,65.3
+195,235763,Diney Borges,2555,Cabo Verde,26,FirstHalf,Pass,Successful,39.4,62.1,79.6,4.3
+196,74790,Ryan Mendes,2555,Cabo Verde,26,FirstHalf,Pass,Unsuccessful,78.1,6.7,80.1,9.5
+301,363496,Marc Cucurella,338,Spain,26,FirstHalf,BallTouch,Successful,21.3,89,,
+197,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,TakeOn,Successful,85.8,25,,
+302,122117,Aymeric Laporte,338,Spain,26,FirstHalf,Challenge,Unsuccessful,14.2,75,,
+198,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,GoodSkill,Successful,88.7,21.4,,
+199,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,SavedShot,Successful,89.9,22.9,,
+303,363496,Marc Cucurella,338,Spain,26,FirstHalf,Save,Successful,8.1,71.1,,
+201,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,Pass,Successful,80.9,0,90.4,9.5
+202,74790,Ryan Mendes,2555,Cabo Verde,26,FirstHalf,Pass,Successful,92.8,6.5,86.9,3.5
+203,129648,Steven Moreira,2555,Cabo Verde,26,FirstHalf,Pass,Unsuccessful,96.8,7,86.2,80.1
+305,349760,Ferran Torres,338,Spain,27,FirstHalf,BallRecovery,Successful,18.8,13.6,,
+306,349760,Ferran Torres,338,Spain,27,FirstHalf,Pass,Unsuccessful,41.8,3.9,45.2,7.1
+204,505284,Sidny Cabral,2555,Cabo Verde,27,FirstHalf,BallTouch,Successful,59.4,89.6,,
+205,235763,Diney Borges,2555,Cabo Verde,27,FirstHalf,Pass,Successful,40.5,68.9,66.9,75.3
+206,361964,Jovane Cabral,2555,Cabo Verde,27,FirstHalf,Pass,Unsuccessful,67.1,75.6,56.5,91.5
+307,349760,Ferran Torres,338,Spain,27,FirstHalf,Pass,Successful,45.5,14.4,41.4,20.3
+308,294193,Fabián Ruiz,338,Spain,27,FirstHalf,Pass,Successful,39.9,20,32,20
+309,254582,Marcos Llorente,338,Spain,27,FirstHalf,Pass,Successful,30.8,20.1,26.6,36.8
+310,498386,Pau Cubarsí,338,Spain,27,FirstHalf,Pass,Successful,27.1,38,42.8,52.4
+311,303139,Rodri,338,Spain,27,FirstHalf,Pass,Successful,54.8,57.6,62.9,55.8
+312,402197,Pedri,338,Spain,27,FirstHalf,Pass,Successful,63.9,50.8,67.3,28.3
+313,294193,Fabián Ruiz,338,Spain,27,FirstHalf,Pass,Successful,68.1,24.5,79.4,5.9
+314,349760,Ferran Torres,338,Spain,27,FirstHalf,Pass,Successful,80.9,6.2,78.2,16.6
+315,294193,Fabián Ruiz,338,Spain,27,FirstHalf,Pass,Successful,78.2,16.6,77,6
+316,349760,Ferran Torres,338,Spain,27,FirstHalf,Pass,Unsuccessful,77.3,6.2,71.8,25.9
+207,438902,Kevin Pina,2555,Cabo Verde,27,FirstHalf,Interception,Successful,28.2,74.1,,
+208,361964,Jovane Cabral,2555,Cabo Verde,27,FirstHalf,BallRecovery,Successful,38.6,85.7,,
+209,361964,Jovane Cabral,2555,Cabo Verde,27,FirstHalf,Pass,Successful,35.2,75.2,25.6,84.2
+210,235763,Diney Borges,2555,Cabo Verde,27,FirstHalf,Pass,Successful,23.1,81,4.8,44.2
+211,123577,Vozinha,2555,Cabo Verde,27,FirstHalf,Pass,Successful,12.7,52.1,42.5,70.1
+212,296684,Jamiro Monteiro,2555,Cabo Verde,27,FirstHalf,BallTouch,Unsuccessful,42.5,70.2,,
+319,349760,Ferran Torres,338,Spain,27,FirstHalf,BallRecovery,Successful,59.9,24.8,,
+320,349760,Ferran Torres,338,Spain,27,FirstHalf,Pass,Successful,58.6,24.8,51.5,20.1
+321,254582,Marcos Llorente,338,Spain,27,FirstHalf,Pass,Successful,51.5,20.1,41.8,25.4
+322,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,49.5,34.1,46.9,60.6
+323,122117,Aymeric Laporte,338,Spain,28,FirstHalf,Pass,Successful,70.5,83.5,91,80.2
+324,363496,Marc Cucurella,338,Spain,28,FirstHalf,Pass,Successful,91.1,80.2,84.8,67.9
+325,422937,Gavi,338,Spain,28,FirstHalf,SavedShot,Successful,85.8,65.2,,
+213,430933,Pico Lopes,2555,Cabo Verde,28,FirstHalf,Save,Successful,11.1,37.2,,
+326,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,62.2,62.9,65.9,70.8
+327,303139,Rodri,338,Spain,28,FirstHalf,Pass,Successful,66,71.5,54.5,89.7
+328,122117,Aymeric Laporte,338,Spain,28,FirstHalf,Pass,Successful,53.9,91.5,65,97.1
+329,422937,Gavi,338,Spain,28,FirstHalf,Pass,Successful,65.5,94.4,63.7,80.3
+330,303139,Rodri,338,Spain,28,FirstHalf,Pass,Successful,63.7,80.2,73.9,87
+331,422937,Gavi,338,Spain,28,FirstHalf,Pass,Successful,72.1,74.6,69.2,55.3
+332,402197,Pedri,338,Spain,28,FirstHalf,Pass,Successful,71.3,54.4,86.9,75.2
+333,363496,Marc Cucurella,338,Spain,28,FirstHalf,Pass,Unsuccessful,86.9,75.2,88.8,72.6
+214,129648,Steven Moreira,2555,Cabo Verde,28,FirstHalf,Interception,Successful,11.2,27.4,,
+334,363496,Marc Cucurella,338,Spain,28,FirstHalf,MissedShots,Successful,84.6,71.6,,
+216,123577,Vozinha,2555,Cabo Verde,29,FirstHalf,Pass,Successful,4.1,46,23.3,5.2
+217,129648,Steven Moreira,2555,Cabo Verde,29,FirstHalf,Pass,Successful,27.5,6.5,44.7,27.4
+223,379742,Laros Duarte,2555,Cabo Verde,29,FirstHalf,Pass,Successful,44.6,25.9,34.3,21.5
+218,74790,Ryan Mendes,2555,Cabo Verde,29,FirstHalf,Pass,Unsuccessful,44.6,27.4,73.9,100
+337,254582,Marcos Llorente,338,Spain,29,FirstHalf,Pass,Successful,29.6,0,14.1,22.7
+338,498386,Pau Cubarsí,338,Spain,29,FirstHalf,Pass,Successful,15.4,32.7,24.3,70
+339,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,35,69.7,44.9,55.9
+340,303139,Rodri,338,Spain,29,FirstHalf,Pass,Successful,52.9,31.5,54.2,12.1
+341,254582,Marcos Llorente,338,Spain,29,FirstHalf,Pass,Successful,54.8,10,51.9,40.8
+342,498386,Pau Cubarsí,338,Spain,29,FirstHalf,Pass,Successful,52.2,42.1,63.3,54.5
+343,402197,Pedri,338,Spain,29,FirstHalf,Pass,Unsuccessful,66.5,50.6,74.5,42.9
+220,296684,Jamiro Monteiro,2555,Cabo Verde,29,FirstHalf,Interception,Successful,25.5,57.1,,
+221,123577,Vozinha,2555,Cabo Verde,29,FirstHalf,KeeperPickup,Successful,6.4,67.7,,
+222,123577,Vozinha,2555,Cabo Verde,29,FirstHalf,Pass,Successful,13.8,51,25.8,10.4
+224,129648,Steven Moreira,2555,Cabo Verde,29,FirstHalf,Pass,Successful,26.1,17,14.3,61.8
+225,235763,Diney Borges,2555,Cabo Verde,30,FirstHalf,Pass,Successful,31,69.6,13.6,44.6
+226,123577,Vozinha,2555,Cabo Verde,30,FirstHalf,Pass,Successful,13.7,44.6,33.9,26.6
+227,430933,Pico Lopes,2555,Cabo Verde,30,FirstHalf,Pass,Successful,36.9,22.1,43.2,2.5
+228,74790,Ryan Mendes,2555,Cabo Verde,30,FirstHalf,Pass,Successful,41.9,3.8,30.8,17.3
+229,430933,Pico Lopes,2555,Cabo Verde,30,FirstHalf,Pass,Successful,27.7,17.6,7.8,45.1
+230,123577,Vozinha,2555,Cabo Verde,30,FirstHalf,Pass,Successful,8.2,45.2,14.3,83
+231,235763,Diney Borges,2555,Cabo Verde,30,FirstHalf,Pass,Successful,14.3,83,18.6,16.1
+232,430933,Pico Lopes,2555,Cabo Verde,30,FirstHalf,Pass,Unsuccessful,29,15.1,42.8,42.7
+344,294193,Fabián Ruiz,338,Spain,30,FirstHalf,BallRecovery,Successful,58.2,65.5,,
+345,294193,Fabián Ruiz,338,Spain,30,FirstHalf,Pass,Successful,58.2,65.5,68.6,68.8
+346,303139,Rodri,338,Spain,30,FirstHalf,Pass,Successful,68.8,66.8,74.5,43.6
+347,349760,Ferran Torres,338,Spain,30,FirstHalf,Pass,Successful,74.7,42.1,86.2,36.7
+348,298839,Mikel Oyarzabal,338,Spain,30,FirstHalf,Dispossessed,Successful,92.4,31.4,,
+233,505284,Sidny Cabral,2555,Cabo Verde,30,FirstHalf,Tackle,Unsuccessful,7.6,68.6,,
+349,298839,Mikel Oyarzabal,338,Spain,30,FirstHalf,TakeOn,Unsuccessful,89.4,8.2,,
+235,235763,Diney Borges,2555,Cabo Verde,30,FirstHalf,Tackle,Unsuccessful,10.5,91.8,,
+350,298839,Mikel Oyarzabal,338,Spain,30,FirstHalf,BallTouch,Successful,92.5,7.2,,
+237,505284,Sidny Cabral,2555,Cabo Verde,31,FirstHalf,Pass,Successful,18.6,100,42.7,93
+238,528208,Dailon Livramento,2555,Cabo Verde,31,FirstHalf,BallTouch,Unsuccessful,42.5,93,,
+352,254582,Marcos Llorente,338,Spain,31,FirstHalf,Pass,Successful,64.9,6.5,55.2,23.2
+353,122117,Aymeric Laporte,338,Spain,31,FirstHalf,BallRecovery,Successful,54.5,24.2,,
+354,122117,Aymeric Laporte,338,Spain,31,FirstHalf,Pass,Successful,54.5,24.2,53.9,54.4
+355,363496,Marc Cucurella,338,Spain,31,FirstHalf,Pass,Successful,57.5,64.6,63,49.7
+356,303139,Rodri,338,Spain,31,FirstHalf,Pass,Unsuccessful,69,54.2,71.3,35.1
+239,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,BallRecovery,Successful,35.1,58.2,,
+357,422937,Gavi,338,Spain,31,FirstHalf,Challenge,Unsuccessful,69,50.5,,
+240,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,TakeOn,Successful,31,49.5,,
+241,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,Pass,Successful,25.6,45.8,31.6,8.2
+242,129648,Steven Moreira,2555,Cabo Verde,31,FirstHalf,Pass,Successful,31.6,7.7,46,11.8
+243,74790,Ryan Mendes,2555,Cabo Verde,31,FirstHalf,Pass,Successful,45.7,11.8,37.7,5.6
+244,129648,Steven Moreira,2555,Cabo Verde,31,FirstHalf,Pass,Unsuccessful,37.4,5.6,59.1,10
+358,422937,Gavi,338,Spain,31,FirstHalf,BallRecovery,Successful,46.5,93.5,,
+359,422937,Gavi,338,Spain,31,FirstHalf,Pass,Successful,44.7,93.5,35.9,86.8
+360,122117,Aymeric Laporte,338,Spain,31,FirstHalf,Pass,Successful,37.3,81.8,41.6,67.9
+361,294193,Fabián Ruiz,338,Spain,31,FirstHalf,Pass,Successful,44.4,66.5,45.3,26
+362,254582,Marcos Llorente,338,Spain,31,FirstHalf,Pass,Successful,54.6,14.2,52.8,33.9
+363,294193,Fabián Ruiz,338,Spain,31,FirstHalf,Pass,Successful,54.7,42.1,58.9,71.5
+364,303139,Rodri,338,Spain,31,FirstHalf,Pass,Successful,58.6,69,54.7,41.7
+365,498386,Pau Cubarsí,338,Spain,31,FirstHalf,Pass,Successful,56.8,32.3,69.5,7.1
+366,254582,Marcos Llorente,338,Spain,31,FirstHalf,Pass,Successful,71.4,9.5,73.4,23.8
+367,294193,Fabián Ruiz,338,Spain,31,FirstHalf,Pass,Successful,72.5,23.6,77.3,23
+368,349760,Ferran Torres,338,Spain,31,FirstHalf,TakeOn,Unsuccessful,71.2,14.8,,
+245,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,Tackle,Successful,28.8,85.2,,
+246,296684,Jamiro Monteiro,2555,Cabo Verde,31,FirstHalf,Pass,Successful,26.3,92.4,20.4,86.4
+11260,74790,Ryan Mendes,2555,Cabo Verde,32,FirstHalf,OffsideGiven,Unsuccessful,57.4,7.6,,
+247,505284,Sidny Cabral,2555,Cabo Verde,32,FirstHalf,BallRecovery,Successful,20.3,86.4,,
+248,505284,Sidny Cabral,2555,Cabo Verde,32,FirstHalf,Pass,Successful,20.3,86.4,27.7,95.1
+249,361964,Jovane Cabral,2555,Cabo Verde,32,FirstHalf,Pass,Successful,27.6,95.1,19.1,92.4
+250,296684,Jamiro Monteiro,2555,Cabo Verde,32,FirstHalf,Pass,Successful,19.9,92.3,22,78.3
+251,438902,Kevin Pina,2555,Cabo Verde,32,FirstHalf,Pass,Successful,22,78.2,7.2,65.4
+252,235763,Diney Borges,2555,Cabo Verde,32,FirstHalf,Pass,Successful,7.2,65.4,14,34.6
+253,430933,Pico Lopes,2555,Cabo Verde,32,FirstHalf,Pass,Successful,14.8,34.6,28.3,12.4
+254,129648,Steven Moreira,2555,Cabo Verde,32,FirstHalf,Pass,Successful,24.2,16,12.8,31.1
+255,430933,Pico Lopes,2555,Cabo Verde,32,FirstHalf,Pass,Successful,12.8,31.1,12.5,83.6
+256,235763,Diney Borges,2555,Cabo Verde,32,FirstHalf,Pass,Successful,12.1,82.4,8.2,52.1
+257,123577,Vozinha,2555,Cabo Verde,32,FirstHalf,Pass,Successful,11.5,49.3,24.4,19.3
+258,430933,Pico Lopes,2555,Cabo Verde,32,FirstHalf,Pass,Successful,23.4,20.2,10.2,45.4
+259,123577,Vozinha,2555,Cabo Verde,32,FirstHalf,Pass,Successful,10.1,45.5,32.5,36.8
+260,438902,Kevin Pina,2555,Cabo Verde,32,FirstHalf,OffsidePass,Successful,28.1,36.2,57.4,7.6
+369,363496,Marc Cucurella,338,Spain,32,FirstHalf,OffsideProvoked,Successful,46,85.2,,
+370,363496,Marc Cucurella,338,Spain,32,FirstHalf,Pass,Successful,28.2,89.9,28.3,69.1
+371,122117,Aymeric Laporte,338,Spain,32,FirstHalf,Pass,Successful,31.8,68.1,32.8,40.3
+372,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,53.1,29.2,63.2,7.1
+373,349760,Ferran Torres,338,Spain,33,FirstHalf,Pass,Successful,64.1,6.5,56.1,8
+374,254582,Marcos Llorente,338,Spain,33,FirstHalf,Pass,Successful,56.1,8.2,39.7,21.8
+375,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,35.7,26.5,28.2,47.9
+376,332823,Unai Simón,338,Spain,33,FirstHalf,Pass,Successful,27.8,49.2,39.9,63.8
+377,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,60.1,68.6,62.5,56.2
+378,303139,Rodri,338,Spain,33,FirstHalf,Pass,Successful,64.2,55.2,68.6,75.9
+379,402197,Pedri,338,Spain,33,FirstHalf,Pass,Successful,70.3,72.7,83.9,17.3
+380,349760,Ferran Torres,338,Spain,33,FirstHalf,Pass,Unsuccessful,81.8,18.6,84.3,20
+261,505284,Sidny Cabral,2555,Cabo Verde,33,FirstHalf,BlockedPass,Successful,15.7,80,,
+383,349760,Ferran Torres,338,Spain,33,FirstHalf,BallTouch,Successful,79.8,20.4,,
+262,505284,Sidny Cabral,2555,Cabo Verde,33,FirstHalf,BallRecovery,Successful,25,88.5,,
+263,505284,Sidny Cabral,2555,Cabo Verde,33,FirstHalf,Foul,Successful,23.3,86,,
+382,349760,Ferran Torres,338,Spain,33,FirstHalf,Foul,Unsuccessful,76.8,14.1,,
+264,505284,Sidny Cabral,2555,Cabo Verde,33,FirstHalf,Pass,Successful,30.6,81.4,27.8,75.8
+265,235763,Diney Borges,2555,Cabo Verde,33,FirstHalf,Pass,Successful,23.4,81.2,8.1,53
+266,123577,Vozinha,2555,Cabo Verde,34,FirstHalf,Pass,Successful,11.4,52.5,22.2,83.3
+267,235763,Diney Borges,2555,Cabo Verde,34,FirstHalf,Pass,Successful,21.2,84.2,36.7,70.7
+268,438902,Kevin Pina,2555,Cabo Verde,34,FirstHalf,Pass,Successful,32.8,73.1,31.3,95.1
+269,505284,Sidny Cabral,2555,Cabo Verde,34,FirstHalf,Foul,Successful,28.5,90.2,,
+384,349760,Ferran Torres,338,Spain,34,FirstHalf,Foul,Unsuccessful,71.5,9.8,,
+270,235763,Diney Borges,2555,Cabo Verde,34,FirstHalf,Pass,Unsuccessful,31.1,91.5,72.1,37.3
+385,363496,Marc Cucurella,338,Spain,34,FirstHalf,Pass,Successful,31,63.6,33.8,54.2
+386,303139,Rodri,338,Spain,34,FirstHalf,Pass,Successful,33.3,54.1,18.4,29.2
+387,254582,Marcos Llorente,338,Spain,34,FirstHalf,BallRecovery,Successful,17.8,28.5,,
+388,254582,Marcos Llorente,338,Spain,34,FirstHalf,Pass,Successful,14.2,17.1,23.5,8
+389,294193,Fabián Ruiz,338,Spain,34,FirstHalf,Pass,Successful,23.5,8,25.3,36.7
+390,303139,Rodri,338,Spain,34,FirstHalf,Pass,Successful,25.3,36.7,43.3,42.7
+391,402197,Pedri,338,Spain,34,FirstHalf,Pass,Successful,46.6,43.8,58,31
+392,298839,Mikel Oyarzabal,338,Spain,34,FirstHalf,Pass,Unsuccessful,61.6,30.6,63.3,29.4
+271,235763,Diney Borges,2555,Cabo Verde,34,FirstHalf,BlockedPass,Successful,36.7,70.6,,
+393,303139,Rodri,338,Spain,34,FirstHalf,Pass,Unsuccessful,53.9,42.3,56.4,54.4
+272,528208,Dailon Livramento,2555,Cabo Verde,34,FirstHalf,BallRecovery,Successful,43.5,47.9,,
+273,528208,Dailon Livramento,2555,Cabo Verde,34,FirstHalf,MissedShots,Successful,45.5,48.7,,
+11410,363496,Marc Cucurella,338,Spain,35,FirstHalf,OffsideGiven,Unsuccessful,85.8,72.2,,
+395,332823,Unai Simón,338,Spain,35,FirstHalf,Pass,Successful,4,44,28.1,39.5
+396,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,32.5,37.2,35.8,64.2
+397,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Successful,54.9,75,58.9,69.7
+398,303139,Rodri,338,Spain,35,FirstHalf,Pass,Successful,59.9,69,63.3,94.1
+399,363496,Marc Cucurella,338,Spain,35,FirstHalf,Pass,Successful,63.3,94.1,72.5,96.8
+400,422937,Gavi,338,Spain,35,FirstHalf,Pass,Successful,65.8,96.1,55.2,78
+401,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Successful,60.1,68.8,62.3,43.6
+402,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,64.2,36.2,66.8,16
+403,294193,Fabián Ruiz,338,Spain,35,FirstHalf,Pass,Successful,67,13.5,79.6,6.9
+404,254582,Marcos Llorente,338,Spain,35,FirstHalf,Pass,Successful,75.1,8.3,67.2,16.3
+405,294193,Fabián Ruiz,338,Spain,35,FirstHalf,Pass,Successful,66.8,17.7,65.1,60.5
+406,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Successful,69.2,65.5,67.7,44.5
+407,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,67.1,34.5,75.1,10
+408,254582,Marcos Llorente,338,Spain,35,FirstHalf,Pass,Successful,73.4,9.8,67.1,22.1
+409,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,67.7,24.7,69.2,48.8
+410,402197,Pedri,338,Spain,35,FirstHalf,OffsidePass,Successful,71.1,49.7,85.8,72.2
+276,430933,Pico Lopes,2555,Cabo Verde,35,FirstHalf,OffsideProvoked,Successful,16.4,47.4,,
+277,123577,Vozinha,2555,Cabo Verde,36,FirstHalf,Pass,Unsuccessful,14.8,48.2,64.9,85.4
+412,254582,Marcos Llorente,338,Spain,36,FirstHalf,Aerial,Successful,35.1,14.6,,
+281,528208,Dailon Livramento,2555,Cabo Verde,36,FirstHalf,Aerial,Unsuccessful,64.9,85.4,,
+416,254582,Marcos Llorente,338,Spain,36,FirstHalf,Clearance,Successful,35.1,14.6,38.7,10.5
+278,528208,Dailon Livramento,2555,Cabo Verde,36,FirstHalf,BallTouch,Successful,64.8,85.4,,
+413,254582,Marcos Llorente,338,Spain,36,FirstHalf,Aerial,Successful,40.4,10.1,,
+279,528208,Dailon Livramento,2555,Cabo Verde,36,FirstHalf,Aerial,Unsuccessful,59.6,90,,
+414,254582,Marcos Llorente,338,Spain,36,FirstHalf,BallTouch,Unsuccessful,42.4,7.1,,
+280,528208,Dailon Livramento,2555,Cabo Verde,36,FirstHalf,Foul,Successful,55.8,90.6,,
+415,254582,Marcos Llorente,338,Spain,36,FirstHalf,Foul,Unsuccessful,44.2,9.4,,
+282,505284,Sidny Cabral,2555,Cabo Verde,36,FirstHalf,Pass,Successful,60,93.8,79.6,93.5
+283,361964,Jovane Cabral,2555,Cabo Verde,37,FirstHalf,MissedShots,Successful,80,79.7,,
+418,332823,Unai Simón,338,Spain,37,FirstHalf,Pass,Successful,4.5,50,12.7,64.4
+419,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Pass,Successful,16.8,67,21.8,32
+420,498386,Pau Cubarsí,338,Spain,37,FirstHalf,Pass,Successful,46.6,46.2,49.6,72.7
+421,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Pass,Successful,58.1,79,71.4,80.2
+422,422937,Gavi,338,Spain,37,FirstHalf,Pass,Successful,68.8,71.8,81.4,9.7
+423,349760,Ferran Torres,338,Spain,37,FirstHalf,Pass,Successful,79.1,9.8,70.5,11.5
+424,254582,Marcos Llorente,338,Spain,37,FirstHalf,Pass,Successful,68.9,11.9,69.8,25.9
+425,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,69.8,23,77.9,5.7
+426,349760,Ferran Torres,338,Spain,37,FirstHalf,Pass,Successful,76.8,5.4,67.4,43.3
+427,498386,Pau Cubarsí,338,Spain,37,FirstHalf,Pass,Successful,69.5,45.3,72.4,43.6
+428,402197,Pedri,338,Spain,37,FirstHalf,Pass,Successful,72.5,49.8,72.4,65.6
+429,122117,Aymeric Laporte,338,Spain,38,FirstHalf,Pass,Successful,71.3,64.6,71.7,52.9
+430,402197,Pedri,338,Spain,38,FirstHalf,Pass,Successful,74.3,63.6,82,93.5
+431,363496,Marc Cucurella,338,Spain,38,FirstHalf,Pass,Successful,80.4,93.5,74.3,76.5
+432,122117,Aymeric Laporte,338,Spain,38,FirstHalf,Pass,Successful,72.8,71.7,70.3,39.1
+433,294193,Fabián Ruiz,338,Spain,38,FirstHalf,Pass,Successful,71.4,37,78.7,11.8
+434,254582,Marcos Llorente,338,Spain,38,FirstHalf,Pass,Successful,79,11.8,91.5,17.4
+435,298839,Mikel Oyarzabal,338,Spain,38,FirstHalf,Pass,Successful,90.9,17,74.2,23.8
+436,303139,Rodri,338,Spain,38,FirstHalf,Pass,Successful,72.8,26.2,71.3,45.3
+437,402197,Pedri,338,Spain,38,FirstHalf,Pass,Successful,73.8,41.7,74.8,38.9
+438,294193,Fabián Ruiz,338,Spain,38,FirstHalf,Pass,Unsuccessful,74.4,40,73.6,43.6
+288,296684,Jamiro Monteiro,2555,Cabo Verde,38,FirstHalf,BallTouch,Successful,27,61.7,,
+439,363496,Marc Cucurella,338,Spain,38,FirstHalf,Pass,Successful,71.4,81.8,56.2,69.4
+440,122117,Aymeric Laporte,338,Spain,38,FirstHalf,Pass,Successful,56.7,73.7,73.8,95.6
+441,363496,Marc Cucurella,338,Spain,38,FirstHalf,Pass,Successful,72.9,94.6,68.5,82.1
+442,422937,Gavi,338,Spain,38,FirstHalf,Pass,Successful,67.4,75,67.3,50
+443,294193,Fabián Ruiz,338,Spain,38,FirstHalf,Pass,Successful,69.6,43.5,73.6,26.7
+444,303139,Rodri,338,Spain,38,FirstHalf,Pass,Successful,74.9,31.4,96.2,59.9
+445,363496,Marc Cucurella,338,Spain,38,FirstHalf,Pass,Successful,96.9,60.5,95.6,49.7
+446,349760,Ferran Torres,338,Spain,38,FirstHalf,ShotOnPost,Successful,95,49.1,,
+447,298839,Mikel Oyarzabal,338,Spain,38,FirstHalf,Aerial,Successful,91.1,46.8,,
+285,505284,Sidny Cabral,2555,Cabo Verde,38,FirstHalf,Aerial,Unsuccessful,8.9,53.2,,
+448,298839,Mikel Oyarzabal,338,Spain,38,FirstHalf,SavedShot,Successful,91.1,46.8,,
+286,123577,Vozinha,2555,Cabo Verde,38,FirstHalf,Save,Successful,1.6,49.9,,
+449,298839,Mikel Oyarzabal,338,Spain,38,FirstHalf,CornerAwarded,Successful,96.8,50,,
+287,123577,Vozinha,2555,Cabo Verde,38,FirstHalf,CornerAwarded,Unsuccessful,3.2,50,,
+450,402197,Pedri,338,Spain,39,FirstHalf,Pass,Successful,99.5,99.5,95.8,53.4
+451,349760,Ferran Torres,338,Spain,39,FirstHalf,Aerial,Successful,95.8,53.4,,
+289,235763,Diney Borges,2555,Cabo Verde,39,FirstHalf,Aerial,Unsuccessful,4.2,46.6,,
+550,349760,Ferran Torres,338,Spain,39,FirstHalf,SavedShot,Successful,95.8,53.4,,
+290,235763,Diney Borges,2555,Cabo Verde,39,FirstHalf,Save,Successful,3.2,48,,
+452,422937,Gavi,338,Spain,39,FirstHalf,Aerial,Successful,87.5,86.1,,
+291,379742,Laros Duarte,2555,Cabo Verde,39,FirstHalf,Aerial,Unsuccessful,12.5,13.9,,
+453,422937,Gavi,338,Spain,39,FirstHalf,Pass,Successful,87.5,86.1,89.2,95.6
+454,402197,Pedri,338,Spain,39,FirstHalf,Pass,Successful,87.5,95.2,84.5,74.9
+455,303139,Rodri,338,Spain,40,FirstHalf,Pass,Successful,84.5,74.9,88.6,72.1
+456,298839,Mikel Oyarzabal,338,Spain,40,FirstHalf,Pass,Successful,85.5,65.9,75,54.2
+457,294193,Fabián Ruiz,338,Spain,40,FirstHalf,MissedShots,Successful,75,54.2,,
+293,123577,Vozinha,2555,Cabo Verde,40,FirstHalf,Pass,Unsuccessful,3.4,44.6,63.8,26
+459,422937,Gavi,338,Spain,40,FirstHalf,Aerial,Successful,36.2,74,,
+294,74790,Ryan Mendes,2555,Cabo Verde,40,FirstHalf,Aerial,Unsuccessful,63.8,26,,
+460,422937,Gavi,338,Spain,40,FirstHalf,Pass,Successful,36.2,74,59,94.1
+461,298839,Mikel Oyarzabal,338,Spain,40,FirstHalf,Pass,Successful,59,94.1,56.8,83.8
+462,402197,Pedri,338,Spain,40,FirstHalf,Pass,Successful,56.8,83.8,61.3,85.9
+463,422937,Gavi,338,Spain,40,FirstHalf,BallTouch,Unsuccessful,61,84,,
+296,430933,Pico Lopes,2555,Cabo Verde,40,FirstHalf,Pass,Unsuccessful,34.3,24.5,58,13.7
+464,363496,Marc Cucurella,338,Spain,40,FirstHalf,Pass,Successful,41.9,89.7,52.5,86.5
+465,402197,Pedri,338,Spain,40,FirstHalf,BallRecovery,Successful,46.5,82.4,,
+466,402197,Pedri,338,Spain,40,FirstHalf,Pass,Successful,40,69.7,38.9,23.5
+467,254582,Marcos Llorente,338,Spain,40,FirstHalf,Pass,Successful,38.2,23.9,34.5,42.9
+468,498386,Pau Cubarsí,338,Spain,40,FirstHalf,Pass,Successful,34.9,43.3,45.7,57.3
+469,402197,Pedri,338,Spain,40,FirstHalf,Pass,Successful,52.9,59.1,71.8,96.2
+470,363496,Marc Cucurella,338,Spain,40,FirstHalf,BallTouch,Unsuccessful,71.8,96.2,,
+298,129648,Steven Moreira,2555,Cabo Verde,41,FirstHalf,Pass,Successful,31.7,0,23.7,10.3
+299,430933,Pico Lopes,2555,Cabo Verde,41,FirstHalf,Pass,Successful,21.3,10.3,29.3,4.6
+300,129648,Steven Moreira,2555,Cabo Verde,41,FirstHalf,Pass,Unsuccessful,29.3,4.6,28.7,15.1
+472,402197,Pedri,338,Spain,41,FirstHalf,BallRecovery,Successful,76.7,88.7,,
+473,402197,Pedri,338,Spain,41,FirstHalf,Pass,Successful,75,87.1,77,71.7
+474,303139,Rodri,338,Spain,41,FirstHalf,Pass,Successful,80.3,72.1,88.1,80.8
+475,422937,Gavi,338,Spain,41,FirstHalf,Pass,Unsuccessful,88.1,80.8,87.2,50.2
+301,505284,Sidny Cabral,2555,Cabo Verde,41,FirstHalf,Interception,Successful,12.8,49.8,,
+302,361964,Jovane Cabral,2555,Cabo Verde,41,FirstHalf,BallRecovery,Successful,35.4,68.3,,
+303,361964,Jovane Cabral,2555,Cabo Verde,41,FirstHalf,Pass,Successful,36.6,67.5,54,59
+304,74790,Ryan Mendes,2555,Cabo Verde,41,FirstHalf,Pass,Successful,64.5,54.3,70.7,34
+305,379742,Laros Duarte,2555,Cabo Verde,41,FirstHalf,TakeOn,Unsuccessful,92.1,22.3,,
+476,332823,Unai Simón,338,Spain,41,FirstHalf,KeeperPickup,Successful,2.2,62.3,,
+477,332823,Unai Simón,338,Spain,41,FirstHalf,Pass,Successful,9,60.7,27.1,70.3
+478,303139,Rodri,338,Spain,41,FirstHalf,Pass,Successful,35.2,75.8,44.9,85.8
+479,402197,Pedri,338,Spain,41,FirstHalf,Pass,Successful,52.6,83.5,58.7,93.2
+480,422937,Gavi,338,Spain,41,FirstHalf,Pass,Successful,58.8,91.4,53.9,76.2
+481,402197,Pedri,338,Spain,41,FirstHalf,Pass,Successful,48,70.9,45.8,41.1
+11501,402197,Pedri,338,Spain,42,FirstHalf,OffsideGiven,Unsuccessful,89.2,73.7,,
+482,498386,Pau Cubarsí,338,Spain,42,FirstHalf,Pass,Successful,52.8,32.4,65.8,7.1
+483,254582,Marcos Llorente,338,Spain,42,FirstHalf,Pass,Successful,66.7,7.1,63.3,25.6
+484,294193,Fabián Ruiz,338,Spain,42,FirstHalf,Pass,Successful,62.5,26.8,54.7,26.5
+485,498386,Pau Cubarsí,338,Spain,42,FirstHalf,Pass,Successful,54.6,26.5,56.8,48.5
+486,303139,Rodri,338,Spain,42,FirstHalf,Pass,Successful,63.4,53,65,72.9
+487,122117,Aymeric Laporte,338,Spain,42,FirstHalf,Pass,Successful,66.1,72.9,68.4,65.5
+306,361964,Jovane Cabral,2555,Cabo Verde,42,FirstHalf,Challenge,Unsuccessful,31.2,45,,
+488,402197,Pedri,338,Spain,42,FirstHalf,TakeOn,Successful,68.8,55,,
+489,402197,Pedri,338,Spain,42,FirstHalf,Pass,Successful,70.7,45.8,72.8,29.5
+490,294193,Fabián Ruiz,338,Spain,42,FirstHalf,Pass,Successful,73.2,26.8,86.2,9.5
+491,254582,Marcos Llorente,338,Spain,42,FirstHalf,Pass,Successful,86,9.2,79.3,13.2
+492,298839,Mikel Oyarzabal,338,Spain,42,FirstHalf,Pass,Successful,75.1,17,66.2,29.8
+493,498386,Pau Cubarsí,338,Spain,42,FirstHalf,Pass,Successful,67.1,32.9,72,72
+494,303139,Rodri,338,Spain,42,FirstHalf,Pass,Successful,72.9,73,88.1,93.7
+495,363496,Marc Cucurella,338,Spain,42,FirstHalf,Pass,Successful,84.9,91.7,72.9,79.9
+496,303139,Rodri,338,Spain,42,FirstHalf,Pass,Successful,72.3,79.9,73.4,72.1
+497,402197,Pedri,338,Spain,42,FirstHalf,Pass,Successful,71,71.4,66.1,73
+498,122117,Aymeric Laporte,338,Spain,42,FirstHalf,Pass,Successful,70.6,72.9,75,83.7
+499,303139,Rodri,338,Spain,42,FirstHalf,Pass,Successful,74.1,82.1,70.4,66.2
+500,402197,Pedri,338,Spain,42,FirstHalf,Pass,Successful,80.1,71.7,80.7,57.3
+501,349760,Ferran Torres,338,Spain,42,FirstHalf,OffsidePass,Successful,81.1,56.8,89.2,73.7
+307,235763,Diney Borges,2555,Cabo Verde,42,FirstHalf,OffsideProvoked,Successful,12.1,32.6,,
+308,123577,Vozinha,2555,Cabo Verde,43,FirstHalf,Pass,Unsuccessful,14.5,35.3,66.4,63.5
+503,498386,Pau Cubarsí,338,Spain,43,FirstHalf,Aerial,Successful,33.6,36.5,,
+309,528208,Dailon Livramento,2555,Cabo Verde,43,FirstHalf,Aerial,Unsuccessful,66.4,63.5,,
+504,498386,Pau Cubarsí,338,Spain,43,FirstHalf,Pass,Successful,33.6,36.5,46.9,38
+505,298839,Mikel Oyarzabal,338,Spain,43,FirstHalf,Pass,Successful,46.9,38,42.4,32.4
+506,349760,Ferran Torres,338,Spain,43,FirstHalf,Dispossessed,Successful,42.8,29.4,,
+310,438902,Kevin Pina,2555,Cabo Verde,43,FirstHalf,Tackle,Successful,57.2,70.6,,
+311,296684,Jamiro Monteiro,2555,Cabo Verde,43,FirstHalf,Pass,Successful,71.1,90.9,80.5,94.5
+312,505284,Sidny Cabral,2555,Cabo Verde,43,FirstHalf,Pass,Unsuccessful,79.9,91.4,100,24.4
+508,332823,Unai Simón,338,Spain,43,FirstHalf,Pass,Successful,4.7,55.5,14.1,64.6
+509,122117,Aymeric Laporte,338,Spain,44,FirstHalf,Pass,Successful,20.3,72.1,30.1,75.8
+510,294193,Fabián Ruiz,338,Spain,44,FirstHalf,Pass,Successful,40.2,72.6,31.3,61.2
+511,122117,Aymeric Laporte,338,Spain,44,FirstHalf,Pass,Successful,31.4,59.2,36.5,34.7
+512,498386,Pau Cubarsí,338,Spain,44,FirstHalf,Pass,Successful,48.9,30.6,56,13.2
+513,254582,Marcos Llorente,338,Spain,44,FirstHalf,Pass,Successful,56.4,14.5,46.8,30.1
+514,498386,Pau Cubarsí,338,Spain,44,FirstHalf,Pass,Successful,48.3,31.2,53.5,61.4
+515,122117,Aymeric Laporte,338,Spain,44,FirstHalf,Pass,Successful,60.5,68.6,73.5,68.2
+516,402197,Pedri,338,Spain,44,FirstHalf,Pass,Successful,75,68.8,90.3,88.5
+517,363496,Marc Cucurella,338,Spain,44,FirstHalf,Pass,Unsuccessful,90.4,88.5,89.6,53
+314,430933,Pico Lopes,2555,Cabo Verde,44,FirstHalf,Interception,Successful,10.4,47,,
+518,349760,Ferran Torres,338,Spain,44,FirstHalf,SavedShot,Successful,88.2,44,,
+315,123577,Vozinha,2555,Cabo Verde,44,FirstHalf,Save,Successful,2.1,50.4,,
+316,123577,Vozinha,2555,Cabo Verde,44,FirstHalf,KeeperPickup,Successful,2.1,50.4,,
+317,123577,Vozinha,2555,Cabo Verde,44,FirstHalf,Pass,Successful,10.1,44.8,21.6,19.9
+326,129648,Steven Moreira,2555,Cabo Verde,44,FirstHalf,Pass,Successful,22.2,20.6,9.5,33.5
+318,430933,Pico Lopes,2555,Cabo Verde,44,FirstHalf,Pass,Successful,11.9,25.3,5.8,40
+319,123577,Vozinha,2555,Cabo Verde,44,FirstHalf,Pass,Successful,7.8,39.5,22.9,35.2
+320,438902,Kevin Pina,2555,Cabo Verde,44,FirstHalf,Pass,Successful,22.9,35.2,13.6,15.8
+321,430933,Pico Lopes,2555,Cabo Verde,44,FirstHalf,Pass,Unsuccessful,15.1,16.3,43.6,37.4
+519,294193,Fabián Ruiz,338,Spain,44,FirstHalf,BallRecovery,Successful,68.8,69.6,,
+520,294193,Fabián Ruiz,338,Spain,44,FirstHalf,Pass,Successful,68.8,69.6,76.3,76.8
+521,422937,Gavi,338,Spain,44,FirstHalf,Pass,Unsuccessful,76.3,76.8,88.6,76.7
+322,430933,Pico Lopes,2555,Cabo Verde,44,FirstHalf,Clearance,Successful,7.3,27.7,8.2,25.1
+522,402197,Pedri,338,Spain,44,FirstHalf,BallTouch,Successful,88.6,76.4,,
+324,123577,Vozinha,2555,Cabo Verde,45,FirstHalf,Pass,Unsuccessful,3.5,43,65.1,67.4
+524,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,39.9,27.3,53,28.5
+525,349760,Ferran Torres,338,Spain,45,FirstHalf,BallRecovery,Successful,52.6,28.3,,
+526,349760,Ferran Torres,338,Spain,45,FirstHalf,Pass,Successful,52.6,28.3,44.1,32.9
+527,303139,Rodri,338,Spain,45,FirstHalf,Pass,Successful,42,34.5,31.7,54.2
+528,122117,Aymeric Laporte,338,Spain,45,FirstHalf,Pass,Successful,31.5,56.1,36.4,74
+529,363496,Marc Cucurella,338,Spain,45,FirstHalf,Pass,Successful,37.8,74,42.2,63.3
+530,294193,Fabián Ruiz,338,Spain,45,FirstHalf,Pass,Successful,45.6,63.5,45.4,34.8
+531,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,56.9,24.7,65.5,6.3
+532,349760,Ferran Torres,338,Spain,45,FirstHalf,Pass,Successful,64.3,5.9,57.6,7.2
+533,254582,Marcos Llorente,338,Spain,45,FirstHalf,Pass,Successful,56.3,7.4,44.8,23.9
+534,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,45.5,25.4,54.5,59.6
+535,122117,Aymeric Laporte,338,Spain,45,FirstHalf,Pass,Successful,59.3,67,67.4,73.5
+536,422937,Gavi,338,Spain,45,FirstHalf,Pass,Successful,66.7,72.9,54.2,56.2
+537,122117,Aymeric Laporte,338,Spain,46,FirstHalf,Pass,Successful,61.1,49.7,62.4,37.9
+538,498386,Pau Cubarsí,338,Spain,46,FirstHalf,Pass,Successful,65.4,33.9,62.1,54.7
+539,122117,Aymeric Laporte,338,Spain,46,FirstHalf,Pass,Successful,62.1,56.1,71.5,76.7
+540,303139,Rodri,338,Spain,46,FirstHalf,Pass,Successful,74.3,83.5,83.8,92.1
+541,363496,Marc Cucurella,338,Spain,46,FirstHalf,Pass,Successful,82.1,91.4,74.1,90
+542,303139,Rodri,338,Spain,46,FirstHalf,Pass,Successful,72.2,87.9,70.3,52.9
+543,294193,Fabián Ruiz,338,Spain,46,FirstHalf,Pass,Successful,70.3,54.5,92.9,82.9
+544,303139,Rodri,338,Spain,46,FirstHalf,Pass,Unsuccessful,93.6,82.1,89.1,29.8
+328,361964,Jovane Cabral,2555,Cabo Verde,46,FirstHalf,Clearance,Successful,12.1,71.6,0,86
+329,361964,Jovane Cabral,2555,Cabo Verde,46,FirstHalf,CornerAwarded,Unsuccessful,4.2,79.6,,
+545,303139,Rodri,338,Spain,46,FirstHalf,CornerAwarded,Successful,95.8,20.4,,
+546,402197,Pedri,338,Spain,46,FirstHalf,Pass,Unsuccessful,99.5,0.5,93,48.2
+333,430933,Pico Lopes,2555,Cabo Verde,46,FirstHalf,Aerial,Successful,7,51.8,,
+547,122117,Aymeric Laporte,338,Spain,46,FirstHalf,Aerial,Unsuccessful,93,48.2,,
+330,430933,Pico Lopes,2555,Cabo Verde,47,FirstHalf,Clearance,Successful,7,51.8,12.8,52.7
+548,122117,Aymeric Laporte,338,Spain,47,FirstHalf,SavedShot,Successful,91.1,47.4,,
+331,123577,Vozinha,2555,Cabo Verde,47,FirstHalf,Save,Successful,1.4,50.1,,
+332,123577,Vozinha,2555,Cabo Verde,47,FirstHalf,CornerAwarded,Unsuccessful,2.4,44.6,,
+549,122117,Aymeric Laporte,338,Spain,47,FirstHalf,CornerAwarded,Successful,97.6,55.4,,
+551,402197,Pedri,338,Spain,47,FirstHalf,Pass,Successful,99.5,99.5,96.2,58.4
+569,303139,Rodri,338,Spain,47,FirstHalf,SavedShot,Successful,96.2,58.4,,
+334,430933,Pico Lopes,2555,Cabo Verde,47,FirstHalf,Save,Successful,2.4,43.5,,
+335,379742,Laros Duarte,2555,Cabo Verde,47,FirstHalf,BallRecovery,Successful,10.9,16.1,,
+336,379742,Laros Duarte,2555,Cabo Verde,47,FirstHalf,Pass,Unsuccessful,13.1,16,34.3,16
+552,363496,Marc Cucurella,338,Spain,47,FirstHalf,Pass,Unsuccessful,70.7,89.9,72.1,100
+339,129648,Steven Moreira,2555,Cabo Verde,47,FirstHalf,Pass,Successful,36.7,0,26,8.6
+340,430933,Pico Lopes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,28,6.4,65.4,14.3
+341,528208,Dailon Livramento,2555,Cabo Verde,47,FirstHalf,Aerial,Successful,65.4,14.3,,
+554,122117,Aymeric Laporte,338,Spain,47,FirstHalf,Aerial,Unsuccessful,34.6,85.7,,
+342,528208,Dailon Livramento,2555,Cabo Verde,47,FirstHalf,BallTouch,Unsuccessful,65.3,14.3,,
+555,498386,Pau Cubarsí,338,Spain,47,FirstHalf,BallRecovery,Successful,32.4,71.8,,
+556,498386,Pau Cubarsí,338,Spain,47,FirstHalf,Pass,Successful,31,71.5,18.4,52.9
+557,332823,Unai Simón,338,Spain,47,FirstHalf,Pass,Successful,18.4,52.9,33.4,24.8
+558,254582,Marcos Llorente,338,Spain,48,FirstHalf,Pass,Successful,42.9,16.2,46.2,42.3
+559,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,53.9,43.6,71.3,97.6
+560,363496,Marc Cucurella,338,Spain,48,FirstHalf,Pass,Successful,69.5,94.9,63.9,77.7
+561,122117,Aymeric Laporte,338,Spain,48,FirstHalf,Pass,Successful,64.7,72.9,67.8,60.8
+562,402197,Pedri,338,Spain,48,FirstHalf,Pass,Successful,71.7,46.1,78.6,30.9
+563,349760,Ferran Torres,338,Spain,48,FirstHalf,Pass,Successful,78.7,29.7,93.1,24.7
+564,254582,Marcos Llorente,338,Spain,48,FirstHalf,Pass,Successful,93.1,24.7,94.6,55.1
+565,298839,Mikel Oyarzabal,338,Spain,48,FirstHalf,Aerial,Successful,94.6,55.1,,
+343,129648,Steven Moreira,2555,Cabo Verde,48,FirstHalf,Aerial,Unsuccessful,5.4,44.9,,
+566,298839,Mikel Oyarzabal,338,Spain,48,FirstHalf,MissedShots,Successful,94.6,55.1,,
+345,123577,Vozinha,2555,Cabo Verde,49,FirstHalf,Pass,Successful,3.5,55.1,68.3,83.7
+568,,,338,Spain,49,FirstHalf,End,Successful,0,0,,
+346,,,2555,Cabo Verde,49,FirstHalf,End,Successful,0,0,,
+570,,,338,Spain,45,SecondHalf,Start,Successful,0,0,,
+348,,,2555,Cabo Verde,45,SecondHalf,Start,Successful,0,0,,
+571,298839,Mikel Oyarzabal,338,Spain,45,SecondHalf,Pass,Successful,49.8,50,38.3,49.2
+572,303139,Rodri,338,Spain,45,SecondHalf,Pass,Successful,56.6,69.4,55.9,87.3
+573,363496,Marc Cucurella,338,Spain,45,SecondHalf,Pass,Successful,54.9,88.5,45.5,67.1
+574,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,58.4,66.8,54.9,43.6
+575,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,56.2,42.4,75.7,3.8
+576,349760,Ferran Torres,338,Spain,45,SecondHalf,Pass,Successful,75.1,4.8,61.1,4.7
+577,254582,Marcos Llorente,338,Spain,45,SecondHalf,Pass,Successful,60,6,53.5,30.7
+578,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,54.4,31.8,58.6,62.4
+579,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,73.6,73.3,74.9,89.1
+580,363496,Marc Cucurella,338,Spain,45,SecondHalf,Pass,Successful,72.3,89.9,67.8,72.3
+581,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,66.8,71.2,57.7,52.7
+582,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,63.3,48.9,66.5,72.3
+583,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,66.3,73,68,55
+584,303139,Rodri,338,Spain,45,SecondHalf,Pass,Successful,68.9,51.8,69.6,6.6
+585,254582,Marcos Llorente,338,Spain,45,SecondHalf,Pass,Successful,66.5,7.2,63.8,27.9
+586,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,67.9,30.1,70.6,55.3
+587,303139,Rodri,338,Spain,45,SecondHalf,Pass,Successful,72.9,58,70.8,73
+588,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,69.8,73.3,57.6,46.5
+589,498386,Pau Cubarsí,338,Spain,46,SecondHalf,Pass,Successful,57.6,45.1,78,6.6
+590,254582,Marcos Llorente,338,Spain,46,SecondHalf,Pass,Successful,78.9,8,73.1,19.1
+591,294193,Fabián Ruiz,338,Spain,46,SecondHalf,Pass,Successful,72.8,20,76.7,27.7
+592,402197,Pedri,338,Spain,46,SecondHalf,Pass,Successful,76.7,27.7,71.3,26
+593,294193,Fabián Ruiz,338,Spain,46,SecondHalf,Pass,Successful,69.8,25.7,54.7,65
+594,498386,Pau Cubarsí,338,Spain,46,SecondHalf,Pass,Successful,54.8,65.5,58.9,79.6
+595,122117,Aymeric Laporte,338,Spain,46,SecondHalf,Pass,Successful,58.9,79.6,65,64.6
+596,303139,Rodri,338,Spain,46,SecondHalf,Pass,Successful,66,64.3,67.5,77.7
+597,122117,Aymeric Laporte,338,Spain,46,SecondHalf,Pass,Successful,69.6,76.5,75.3,77.6
+598,422937,Gavi,338,Spain,46,SecondHalf,Pass,Successful,75.3,77.6,69.5,83.2
+599,122117,Aymeric Laporte,338,Spain,46,SecondHalf,Pass,Successful,72.1,82.7,88.7,70.5
+600,422937,Gavi,338,Spain,46,SecondHalf,BallTouch,Unsuccessful,88.7,70.5,,
+349,123577,Vozinha,2555,Cabo Verde,46,SecondHalf,KeeperPickup,Successful,8.6,42.4,,
+350,123577,Vozinha,2555,Cabo Verde,46,SecondHalf,Pass,Successful,11.7,48.7,20.6,9.1
+351,129648,Steven Moreira,2555,Cabo Verde,46,SecondHalf,Pass,Successful,21.4,9.5,10.1,19
+352,430933,Pico Lopes,2555,Cabo Verde,46,SecondHalf,Pass,Successful,10,18.8,5.2,35.6
+353,123577,Vozinha,2555,Cabo Verde,46,SecondHalf,Pass,Unsuccessful,5.8,35.6,35.3,20.3
+601,303139,Rodri,338,Spain,46,SecondHalf,Aerial,Successful,64.7,79.7,,
+354,379742,Laros Duarte,2555,Cabo Verde,46,SecondHalf,Aerial,Unsuccessful,35.3,20.3,,
+602,303139,Rodri,338,Spain,46,SecondHalf,Pass,Unsuccessful,64.7,79.7,71.8,75.5
+603,402197,Pedri,338,Spain,46,SecondHalf,Aerial,Successful,71.8,75.5,,
+355,438902,Kevin Pina,2555,Cabo Verde,46,SecondHalf,Aerial,Unsuccessful,28.2,24.5,,
+624,402197,Pedri,338,Spain,46,SecondHalf,Pass,Unsuccessful,71.8,75.5,73.2,80.6
+356,438902,Kevin Pina,2555,Cabo Verde,46,SecondHalf,BallTouch,Successful,28.2,24.5,,
+357,129648,Steven Moreira,2555,Cabo Verde,46,SecondHalf,Dispossessed,Successful,28.9,6.6,,
+604,422937,Gavi,338,Spain,46,SecondHalf,Tackle,Unsuccessful,71.1,93.4,,
+359,129648,Steven Moreira,2555,Cabo Verde,46,SecondHalf,BallTouch,Successful,22.6,6.7,,
+606,363496,Marc Cucurella,338,Spain,46,SecondHalf,Pass,Successful,68.1,100,63.9,80.9
+607,303139,Rodri,338,Spain,46,SecondHalf,Pass,Successful,63.8,80.9,49.3,90.2
+608,122117,Aymeric Laporte,338,Spain,47,SecondHalf,Pass,Successful,48.5,87.1,53.1,49.2
+609,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,65.6,30.1,74.6,3.3
+610,349760,Ferran Torres,338,Spain,47,SecondHalf,Pass,Successful,73.6,5,60.2,30.4
+611,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,62.5,32.9,64.8,62.3
+612,122117,Aymeric Laporte,338,Spain,47,SecondHalf,Pass,Successful,67.1,67.9,73.9,82.7
+613,402197,Pedri,338,Spain,47,SecondHalf,Pass,Successful,70.8,74.9,70.4,40.1
+614,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,73.2,34.8,81.9,12.7
+615,254582,Marcos Llorente,338,Spain,47,SecondHalf,Pass,Successful,74.6,9.8,59.3,23.8
+616,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,61.1,26,63.4,50.8
+617,122117,Aymeric Laporte,338,Spain,47,SecondHalf,Pass,Successful,67.5,55.8,80.6,62.9
+618,422937,Gavi,338,Spain,47,SecondHalf,Pass,Successful,80.9,64.4,87.7,85.5
+619,402197,Pedri,338,Spain,47,SecondHalf,Pass,Successful,96.6,82.6,90.6,50.9
+620,298839,Mikel Oyarzabal,338,Spain,47,SecondHalf,MissedShots,Successful,90.6,50.9,,
+621,254582,Marcos Llorente,338,Spain,47,SecondHalf,Pass,Successful,95.2,24.2,78.6,28.3
+622,294193,Fabián Ruiz,338,Spain,47,SecondHalf,MissedShots,Successful,74.6,27.6,,
+366,235763,Diney Borges,2555,Cabo Verde,48,SecondHalf,Pass,Successful,5.1,60.6,2.2,53.2
+361,123577,Vozinha,2555,Cabo Verde,48,SecondHalf,Pass,Successful,3.4,43.4,14.1,5.9
+362,430933,Pico Lopes,2555,Cabo Verde,48,SecondHalf,Pass,Unsuccessful,15.5,7.1,34.6,53.4
+625,349760,Ferran Torres,338,Spain,48,SecondHalf,BallRecovery,Successful,67.1,32.3,,
+626,349760,Ferran Torres,338,Spain,48,SecondHalf,Dispossessed,Successful,70.1,41.4,,
+363,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,Tackle,Successful,29.9,58.6,,
+364,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,TakeOn,Unsuccessful,30.2,54.6,,
+627,303139,Rodri,338,Spain,48,SecondHalf,Tackle,Successful,69.8,45.4,,
+628,303139,Rodri,338,Spain,48,SecondHalf,Pass,Successful,71.1,24.7,63.1,16.5
+629,254582,Marcos Llorente,338,Spain,48,SecondHalf,Pass,Successful,61.7,18.8,57.4,30
+630,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Pass,Successful,59.7,32.9,61.1,54.2
+631,122117,Aymeric Laporte,338,Spain,48,SecondHalf,Pass,Successful,61.4,54.4,64.8,35
+632,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Pass,Successful,66.6,33.6,68.9,25.6
+633,303139,Rodri,338,Spain,48,SecondHalf,Pass,Successful,68.9,25.6,66.3,35
+634,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Pass,Successful,67.2,40,69.1,61.4
+635,122117,Aymeric Laporte,338,Spain,48,SecondHalf,Pass,Successful,71.1,65,77.5,72
+636,422937,Gavi,338,Spain,48,SecondHalf,Pass,Successful,77.5,72,75.6,65.8
+637,402197,Pedri,338,Spain,48,SecondHalf,Pass,Successful,76.2,65.3,79.4,64.4
+638,422937,Gavi,338,Spain,48,SecondHalf,Pass,Unsuccessful,79.4,64.4,77.7,54.9
+365,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,TakeOn,Unsuccessful,21,47,,
+639,303139,Rodri,338,Spain,48,SecondHalf,Tackle,Successful,79,53,,
+640,303139,Rodri,338,Spain,48,SecondHalf,Dispossessed,Successful,76.3,53.3,,
+367,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,Tackle,Successful,23.7,46.7,,
+368,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,BallRecovery,Successful,27.5,45.1,,
+369,296684,Jamiro Monteiro,2555,Cabo Verde,48,SecondHalf,Pass,Unsuccessful,27.5,45.1,38.5,38
+641,498386,Pau Cubarsí,338,Spain,48,SecondHalf,BallRecovery,Successful,60.3,68,,
+642,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Pass,Successful,58.8,71.4,45.6,80.6
+643,363496,Marc Cucurella,338,Spain,48,SecondHalf,Pass,Successful,46.7,82.6,55.1,76.4
+644,422937,Gavi,338,Spain,49,SecondHalf,Pass,Successful,57.1,73,52.6,48.3
+645,303139,Rodri,338,Spain,49,SecondHalf,Pass,Successful,63,37.9,71.3,30.7
+646,294193,Fabián Ruiz,338,Spain,49,SecondHalf,Pass,Successful,71.7,30.3,65.8,13.5
+647,254582,Marcos Llorente,338,Spain,49,SecondHalf,Pass,Successful,67.1,8.8,73,3.8
+648,349760,Ferran Torres,338,Spain,49,SecondHalf,Pass,Successful,71.3,4.7,61.3,8.9
+649,254582,Marcos Llorente,338,Spain,49,SecondHalf,Pass,Successful,59.5,11.5,54.7,38.3
+650,498386,Pau Cubarsí,338,Spain,49,SecondHalf,Pass,Successful,55,41.4,65.4,64.1
+651,122117,Aymeric Laporte,338,Spain,49,SecondHalf,Pass,Successful,71.3,68.8,76.9,77.9
+652,363496,Marc Cucurella,338,Spain,49,SecondHalf,Pass,Successful,76.9,77.9,66.9,78.2
+653,402197,Pedri,338,Spain,49,SecondHalf,Pass,Successful,71.6,62.7,87.3,55.3
+654,298839,Mikel Oyarzabal,338,Spain,49,SecondHalf,TakeOn,Unsuccessful,91.4,60.8,,
+370,235763,Diney Borges,2555,Cabo Verde,49,SecondHalf,Tackle,Successful,8.6,39.2,,
+371,438902,Kevin Pina,2555,Cabo Verde,49,SecondHalf,BallRecovery,Successful,6.6,24.8,,
+372,438902,Kevin Pina,2555,Cabo Verde,49,SecondHalf,Pass,Successful,11.9,13.9,6,17.2
+373,129648,Steven Moreira,2555,Cabo Verde,49,SecondHalf,Pass,Successful,6.2,17.3,9.1,7.7
+374,438902,Kevin Pina,2555,Cabo Verde,49,SecondHalf,Pass,Unsuccessful,9.4,7.6,35.6,15.7
+655,122117,Aymeric Laporte,338,Spain,49,SecondHalf,Interception,Successful,64.4,84.3,,
+656,303139,Rodri,338,Spain,49,SecondHalf,Aerial,Successful,68.8,74.6,,
+375,379742,Laros Duarte,2555,Cabo Verde,49,SecondHalf,Aerial,Unsuccessful,31.2,25.4,,
+657,303139,Rodri,338,Spain,49,SecondHalf,Pass,Unsuccessful,64.8,73.5,51.9,57.9
+377,361964,Jovane Cabral,2555,Cabo Verde,49,SecondHalf,Pass,Unsuccessful,55.6,37.1,84.5,23.5
+658,332823,Unai Simón,338,Spain,49,SecondHalf,BallRecovery,Successful,19.2,69.9,,
+659,332823,Unai Simón,338,Spain,49,SecondHalf,Pass,Successful,20.3,72.4,31.5,90.2
+660,363496,Marc Cucurella,338,Spain,49,SecondHalf,Pass,Successful,34.6,90.9,42.3,82.3
+661,402197,Pedri,338,Spain,49,SecondHalf,Pass,Successful,51.1,70.6,59.4,17.9
+662,294193,Fabián Ruiz,338,Spain,50,SecondHalf,BallTouch,Unsuccessful,76.1,18.2,,
+378,505284,Sidny Cabral,2555,Cabo Verde,50,SecondHalf,BallRecovery,Successful,15.6,83.9,,
+379,505284,Sidny Cabral,2555,Cabo Verde,50,SecondHalf,Pass,Successful,27.1,84.3,40.3,59.7
+380,528208,Dailon Livramento,2555,Cabo Verde,50,SecondHalf,Pass,Successful,40.6,59.9,32.9,78.5
+381,505284,Sidny Cabral,2555,Cabo Verde,50,SecondHalf,Pass,Unsuccessful,33.5,77.3,30.6,70.5
+663,402197,Pedri,338,Spain,50,SecondHalf,BallTouch,Successful,63.4,27.9,,
+709,298839,Mikel Oyarzabal,338,Spain,50,SecondHalf,BallTouch,Unsuccessful,61.3,32.1,,
+382,438902,Kevin Pina,2555,Cabo Verde,50,SecondHalf,BallTouch,Unsuccessful,33.5,63.2,,
+383,438902,Kevin Pina,2555,Cabo Verde,50,SecondHalf,Challenge,Unsuccessful,32.2,62.4,,
+664,402197,Pedri,338,Spain,50,SecondHalf,TakeOn,Successful,67.8,37.6,,
+665,402197,Pedri,338,Spain,50,SecondHalf,BallRecovery,Successful,70.7,47,,
+666,402197,Pedri,338,Spain,50,SecondHalf,Pass,Successful,73.8,47.4,81.8,32.3
+667,294193,Fabián Ruiz,338,Spain,50,SecondHalf,MissedShots,Successful,81.3,36,,
+385,123577,Vozinha,2555,Cabo Verde,50,SecondHalf,Pass,Successful,4.7,50.7,55.6,53.8
+388,528208,Dailon Livramento,2555,Cabo Verde,50,SecondHalf,Aerial,Successful,55.6,53.8,,
+681,303139,Rodri,338,Spain,50,SecondHalf,Aerial,Unsuccessful,44.4,46.2,,
+395,528208,Dailon Livramento,2555,Cabo Verde,50,SecondHalf,Pass,Unsuccessful,55.6,53.8,66.5,46.5
+691,122117,Aymeric Laporte,338,Spain,50,SecondHalf,Pass,Successful,39.3,61.2,16.1,54.4
+669,332823,Unai Simón,338,Spain,50,SecondHalf,BallRecovery,Successful,14.6,54.5,,
+670,332823,Unai Simón,338,Spain,50,SecondHalf,Pass,Successful,15.9,53.9,32.7,31.5
+671,498386,Pau Cubarsí,338,Spain,51,SecondHalf,Pass,Successful,35.8,37.3,41.2,69.3
+672,122117,Aymeric Laporte,338,Spain,51,SecondHalf,Pass,Successful,56.9,75,62.3,58.8
+673,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,62.3,58.8,62.7,66.2
+674,402197,Pedri,338,Spain,51,SecondHalf,Pass,Successful,61,58.9,62.1,8.6
+675,254582,Marcos Llorente,338,Spain,51,SecondHalf,Pass,Successful,64,7.6,69.2,4.5
+676,349760,Ferran Torres,338,Spain,51,SecondHalf,Pass,Successful,68.5,4.8,59.4,7.4
+677,254582,Marcos Llorente,338,Spain,51,SecondHalf,Pass,Successful,59.8,10.4,64.9,26
+678,402197,Pedri,338,Spain,51,SecondHalf,Pass,Successful,73.6,23.2,81.6,8.8
+679,294193,Fabián Ruiz,338,Spain,51,SecondHalf,Pass,Successful,82.6,8.3,97.5,14.2
+680,402197,Pedri,338,Spain,51,SecondHalf,Pass,Unsuccessful,97.9,14.2,96.8,24.8
+386,438902,Kevin Pina,2555,Cabo Verde,51,SecondHalf,BallTouch,Successful,8.2,75.5,,
+387,123577,Vozinha,2555,Cabo Verde,51,SecondHalf,Claim,Successful,9.7,51.3,,
+389,123577,Vozinha,2555,Cabo Verde,51,SecondHalf,Pass,Successful,12.7,46.4,26.7,10.9
+390,129648,Steven Moreira,2555,Cabo Verde,51,SecondHalf,Pass,Successful,27.6,7.4,17.4,15.8
+391,430933,Pico Lopes,2555,Cabo Verde,51,SecondHalf,Pass,Successful,18.4,15.5,4.8,33.5
+392,123577,Vozinha,2555,Cabo Verde,51,SecondHalf,Pass,Unsuccessful,7,25.7,45.6,33.7
+682,294193,Fabián Ruiz,338,Spain,51,SecondHalf,Pass,Successful,60.2,64.9,68.1,50.9
+683,349760,Ferran Torres,338,Spain,51,SecondHalf,Pass,Successful,67.3,51.1,65.1,67.4
+684,422937,Gavi,338,Spain,51,SecondHalf,BallRecovery,Successful,65.1,67.9,,
+685,422937,Gavi,338,Spain,51,SecondHalf,Pass,Successful,65.1,67.9,66.1,62.6
+686,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,66.1,62.6,70.9,64.7
+687,402197,Pedri,338,Spain,51,SecondHalf,Pass,Successful,71.1,64.7,67.2,69
+688,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,67.2,69,71.2,74.4
+689,422937,Gavi,338,Spain,51,SecondHalf,Dispossessed,Successful,73,75.2,,
+393,74790,Ryan Mendes,2555,Cabo Verde,51,SecondHalf,Tackle,Unsuccessful,27,24.8,,
+394,74790,Ryan Mendes,2555,Cabo Verde,51,SecondHalf,Foul,Successful,29,27.4,,
+690,422937,Gavi,338,Spain,51,SecondHalf,Foul,Unsuccessful,71,72.6,,
+396,430933,Pico Lopes,2555,Cabo Verde,52,SecondHalf,Pass,Successful,34.4,10.6,9.8,36.5
+397,123577,Vozinha,2555,Cabo Verde,52,SecondHalf,Pass,Successful,9.6,38.6,15.1,82.8
+398,235763,Diney Borges,2555,Cabo Verde,52,SecondHalf,Pass,Successful,16.1,82.7,27,95.3
+399,505284,Sidny Cabral,2555,Cabo Verde,52,SecondHalf,Pass,Successful,25.3,83.9,12.5,86.6
+400,235763,Diney Borges,2555,Cabo Verde,52,SecondHalf,Pass,Successful,12.6,86.3,3.4,51.8
+401,123577,Vozinha,2555,Cabo Verde,52,SecondHalf,Pass,Successful,8.6,45.4,33.6,4.1
+402,129648,Steven Moreira,2555,Cabo Verde,52,SecondHalf,Pass,Successful,31.6,6.2,18.1,10.1
+403,430933,Pico Lopes,2555,Cabo Verde,52,SecondHalf,Dispossessed,Successful,30.6,16.9,,
+692,422937,Gavi,338,Spain,52,SecondHalf,Tackle,Successful,69.4,83.1,,
+693,402197,Pedri,338,Spain,52,SecondHalf,BallRecovery,Successful,71.4,72.4,,
+694,402197,Pedri,338,Spain,52,SecondHalf,Pass,Successful,71.4,72.4,81.6,84.6
+695,298839,Mikel Oyarzabal,338,Spain,52,SecondHalf,Pass,Unsuccessful,82,84.4,100,56.1
+405,123577,Vozinha,2555,Cabo Verde,53,SecondHalf,Pass,Successful,4.4,50.1,10,78.1
+406,235763,Diney Borges,2555,Cabo Verde,53,SecondHalf,Pass,Successful,9,76.9,18.6,93.2
+407,505284,Sidny Cabral,2555,Cabo Verde,53,SecondHalf,Pass,Successful,18.9,93.3,8.8,89.9
+408,235763,Diney Borges,2555,Cabo Verde,53,SecondHalf,Pass,Unsuccessful,11.7,92.7,13.9,91.7
+697,402197,Pedri,338,Spain,53,SecondHalf,BallTouch,Successful,87.6,4.4,,
+698,349760,Ferran Torres,338,Spain,53,SecondHalf,Pass,Unsuccessful,81.6,4.7,86.9,15.6
+409,438902,Kevin Pina,2555,Cabo Verde,53,SecondHalf,Pass,Successful,16,82.4,16.6,92.9
+410,505284,Sidny Cabral,2555,Cabo Verde,53,SecondHalf,Pass,Successful,16.6,92.9,31.1,83.6
+411,296684,Jamiro Monteiro,2555,Cabo Verde,53,SecondHalf,Pass,Successful,27.2,85.1,19.4,93.5
+412,505284,Sidny Cabral,2555,Cabo Verde,53,SecondHalf,Pass,Successful,19.4,93.5,10.3,73.7
+413,235763,Diney Borges,2555,Cabo Verde,53,SecondHalf,Pass,Unsuccessful,12,71,66.8,0
+700,363496,Marc Cucurella,338,Spain,53,SecondHalf,Pass,Successful,29.5,100,9.3,90.6
+701,122117,Aymeric Laporte,338,Spain,53,SecondHalf,Pass,Successful,10.1,90.3,5,57.7
+702,332823,Unai Simón,338,Spain,53,SecondHalf,Pass,Successful,6.8,53.9,28.4,10.4
+703,254582,Marcos Llorente,338,Spain,54,SecondHalf,Pass,Successful,44.3,6.3,41.1,16.6
+704,294193,Fabián Ruiz,338,Spain,54,SecondHalf,Pass,Successful,47.6,36.8,47.6,69.9
+705,122117,Aymeric Laporte,338,Spain,54,SecondHalf,Pass,Successful,59,70.8,57.7,47.3
+706,498386,Pau Cubarsí,338,Spain,54,SecondHalf,Pass,Successful,70.9,30,82.5,4.5
+707,349760,Ferran Torres,338,Spain,54,SecondHalf,Pass,Unsuccessful,85.5,4.1,97.7,44.7
+415,123577,Vozinha,2555,Cabo Verde,54,SecondHalf,KeeperPickup,Successful,3.2,50.3,,
+416,123577,Vozinha,2555,Cabo Verde,54,SecondHalf,Pass,Successful,14,47.9,19.4,21.8
+417,430933,Pico Lopes,2555,Cabo Verde,54,SecondHalf,Pass,Successful,19.7,21.7,9.8,51
+418,123577,Vozinha,2555,Cabo Verde,54,SecondHalf,Pass,Successful,10.5,55.5,15.8,76.8
+419,235763,Diney Borges,2555,Cabo Verde,54,SecondHalf,BallTouch,Successful,15.9,81,,
+710,298839,Mikel Oyarzabal,338,Spain,55,SecondHalf,Pass,Unsuccessful,82.6,0,82.7,23
+422,235763,Diney Borges,2555,Cabo Verde,55,SecondHalf,BallRecovery,Successful,16.5,77.7,,
+423,235763,Diney Borges,2555,Cabo Verde,55,SecondHalf,Pass,Successful,16.5,77.1,20.1,29.9
+424,430933,Pico Lopes,2555,Cabo Verde,55,SecondHalf,Pass,Successful,19.9,29.9,42,6.2
+425,129648,Steven Moreira,2555,Cabo Verde,55,SecondHalf,Pass,Unsuccessful,46.9,6.4,89.5,26.6
+711,332823,Unai Simón,338,Spain,55,SecondHalf,KeeperPickup,Successful,12.5,76.2,,
+712,332823,Unai Simón,338,Spain,55,SecondHalf,Pass,Successful,13.7,72.9,27.9,46.5
+713,294193,Fabián Ruiz,338,Spain,55,SecondHalf,Pass,Successful,48.6,29.5,55.7,9.8
+714,254582,Marcos Llorente,338,Spain,55,SecondHalf,Pass,Successful,55.9,8.6,47.3,36.7
+715,498386,Pau Cubarsí,338,Spain,55,SecondHalf,Pass,Successful,53.7,39.8,55.7,50.5
+716,303139,Rodri,338,Spain,55,SecondHalf,Pass,Successful,66.1,54.1,84.3,93.8
+717,363496,Marc Cucurella,338,Spain,55,SecondHalf,Pass,Successful,81.7,93.2,77.7,87.1
+718,402197,Pedri,338,Spain,55,SecondHalf,Pass,Successful,77.8,84,90.9,50.5
+720,294193,Fabián Ruiz,338,Spain,55,SecondHalf,Aerial,Successful,90.9,50.5,,
+426,235763,Diney Borges,2555,Cabo Verde,55,SecondHalf,Aerial,Unsuccessful,9.1,49.5,,
+719,294193,Fabián Ruiz,338,Spain,55,SecondHalf,SavedShot,Successful,90.9,50.5,,
+427,123577,Vozinha,2555,Cabo Verde,55,SecondHalf,Save,Successful,1.4,49.7,,
+428,123577,Vozinha,2555,Cabo Verde,56,SecondHalf,KeeperPickup,Successful,4.5,52.7,,
+430,123577,Vozinha,2555,Cabo Verde,56,SecondHalf,Pass,Successful,11.3,48.8,25.2,5.6
+431,129648,Steven Moreira,2555,Cabo Verde,56,SecondHalf,Pass,Successful,24.5,6.5,7.5,37.9
+432,123577,Vozinha,2555,Cabo Verde,56,SecondHalf,Pass,Unsuccessful,11.2,27.7,67.3,9.7
+722,122117,Aymeric Laporte,338,Spain,56,SecondHalf,BallRecovery,Successful,33.4,89,,
+723,122117,Aymeric Laporte,338,Spain,56,SecondHalf,Pass,Successful,32.8,89,17.9,56.1
+724,332823,Unai Simón,338,Spain,56,SecondHalf,Pass,Successful,19.4,54.2,25.6,48.6
+725,498386,Pau Cubarsí,338,Spain,56,SecondHalf,Pass,Successful,38,43.2,46.7,50.8
+726,303139,Rodri,338,Spain,56,SecondHalf,Pass,Successful,62.9,49.1,69.3,11
+727,254582,Marcos Llorente,338,Spain,56,SecondHalf,Pass,Successful,72.6,6,69.8,25.1
+728,303139,Rodri,338,Spain,56,SecondHalf,Pass,Successful,72.7,29.4,70.7,59.1
+729,122117,Aymeric Laporte,338,Spain,56,SecondHalf,Pass,Unsuccessful,73,59.9,89.1,36.7
+433,505284,Sidny Cabral,2555,Cabo Verde,56,SecondHalf,Clearance,Successful,12.2,61.4,31.1,42.1
+434,528208,Dailon Livramento,2555,Cabo Verde,56,SecondHalf,Pass,Successful,30.7,43.3,27.4,56
+435,296684,Jamiro Monteiro,2555,Cabo Verde,56,SecondHalf,Pass,Successful,26.5,56.9,3.7,75
+436,123577,Vozinha,2555,Cabo Verde,56,SecondHalf,Clearance,Successful,3.5,75.2,40.7,100
+731,254582,Marcos Llorente,338,Spain,57,SecondHalf,Pass,Successful,76,0,71.8,18.9
+732,303139,Rodri,338,Spain,57,SecondHalf,Pass,Successful,72.7,23.2,73.3,30
+733,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,73,27.9,75.4,9.5
+734,294193,Fabián Ruiz,338,Spain,57,SecondHalf,Pass,Successful,76,15,73.2,26.7
+735,303139,Rodri,338,Spain,57,SecondHalf,Pass,Successful,73,33.9,70.7,55.3
+736,122117,Aymeric Laporte,338,Spain,57,SecondHalf,MissedShots,Successful,72.9,61.3,,
+439,123577,Vozinha,2555,Cabo Verde,57,SecondHalf,Pass,Successful,3.2,44.9,9.3,31.7
+440,430933,Pico Lopes,2555,Cabo Verde,57,SecondHalf,Pass,Successful,9.3,31.1,17.3,6.2
+441,129648,Steven Moreira,2555,Cabo Verde,57,SecondHalf,Pass,Successful,21.4,11.2,27.1,32.6
+442,438902,Kevin Pina,2555,Cabo Verde,57,SecondHalf,Pass,Successful,26.8,32.5,5.6,18.4
+443,430933,Pico Lopes,2555,Cabo Verde,57,SecondHalf,Pass,Successful,5.7,18.4,14,32.3
+444,438902,Kevin Pina,2555,Cabo Verde,57,SecondHalf,Pass,Unsuccessful,13.1,32.9,17.4,91.2
+738,349760,Ferran Torres,338,Spain,57,SecondHalf,BallRecovery,Successful,83.3,12.4,,
+739,349760,Ferran Torres,338,Spain,58,SecondHalf,Pass,Unsuccessful,97.7,15.3,92.2,41.5
+445,235763,Diney Borges,2555,Cabo Verde,58,SecondHalf,Interception,Successful,7.8,58.5,,
+740,349760,Ferran Torres,338,Spain,58,SecondHalf,CornerAwarded,Successful,97.4,37,,
+446,235763,Diney Borges,2555,Cabo Verde,58,SecondHalf,CornerAwarded,Unsuccessful,2.6,63,,
+741,402197,Pedri,338,Spain,58,SecondHalf,Pass,Successful,99.5,0.5,85.5,5.1
+742,422937,Gavi,338,Spain,58,SecondHalf,Pass,Successful,85.5,5.1,77.3,11.5
+743,294193,Fabián Ruiz,338,Spain,58,SecondHalf,Pass,Successful,77.3,11.5,85.1,7.1
+744,422937,Gavi,338,Spain,58,SecondHalf,Pass,Unsuccessful,84.8,6,90,43.3
+447,74790,Ryan Mendes,2555,Cabo Verde,58,SecondHalf,Clearance,Successful,11,57,40.2,51.3
+745,294193,Fabián Ruiz,338,Spain,58,SecondHalf,Pass,Successful,58.7,36.2,53.9,50.5
+746,254582,Marcos Llorente,338,Spain,58,SecondHalf,Pass,Successful,53.4,48.3,56.7,26.7
+747,294193,Fabián Ruiz,338,Spain,58,SecondHalf,Pass,Successful,56,27.4,56.8,51.2
+748,303139,Rodri,338,Spain,58,SecondHalf,Pass,Successful,60.5,85.2,55.1,64.1
+749,498386,Pau Cubarsí,338,Spain,58,SecondHalf,Pass,Successful,54.7,63.9,54.8,28
+750,254582,Marcos Llorente,338,Spain,59,SecondHalf,BallTouch,Successful,54.8,28,,
+751,294193,Fabián Ruiz,338,Spain,59,SecondHalf,Pass,Successful,59,13.6,58.4,31.8
+752,402197,Pedri,338,Spain,59,SecondHalf,Pass,Unsuccessful,63,32.7,80.1,30.1
+449,430933,Pico Lopes,2555,Cabo Verde,59,SecondHalf,Interception,Successful,19.9,69.9,,
+753,294193,Fabián Ruiz,338,Spain,59,SecondHalf,Pass,Unsuccessful,94.9,18,93.7,49.4
+450,123577,Vozinha,2555,Cabo Verde,59,SecondHalf,Claim,Successful,6.3,50.6,,
+451,123577,Vozinha,2555,Cabo Verde,59,SecondHalf,Pass,Successful,14.3,44,15.1,78
+452,235763,Diney Borges,2555,Cabo Verde,59,SecondHalf,Pass,Successful,21.3,79.1,32.7,95.7
+453,505284,Sidny Cabral,2555,Cabo Verde,59,SecondHalf,Pass,Successful,30.6,95.1,30.7,68.3
+454,438902,Kevin Pina,2555,Cabo Verde,59,SecondHalf,Pass,Successful,33.1,65.6,68.2,11.2
+455,74790,Ryan Mendes,2555,Cabo Verde,59,SecondHalf,BallTouch,Unsuccessful,71.3,30.1,,
+754,303139,Rodri,338,Spain,59,SecondHalf,BallRecovery,Successful,24.4,66.1,,
+755,303139,Rodri,338,Spain,59,SecondHalf,Pass,Successful,32,65,73.1,15
+756,349760,Ferran Torres,338,Spain,59,SecondHalf,TakeOn,Unsuccessful,78.2,15,,
+456,235763,Diney Borges,2555,Cabo Verde,59,SecondHalf,Tackle,Successful,21.8,85,,
+457,235763,Diney Borges,2555,Cabo Verde,59,SecondHalf,Clearance,Successful,1.3,92.8,0.6,98.3
+757,349760,Ferran Torres,338,Spain,59,SecondHalf,CornerAwarded,Successful,91,5.9,,
+459,235763,Diney Borges,2555,Cabo Verde,59,SecondHalf,CornerAwarded,Unsuccessful,9,94.1,,
+461,361964,Jovane Cabral,2555,Cabo Verde,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+462,415948,Willy Semedo,2555,Cabo Verde,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+463,379742,Laros Duarte,2555,Cabo Verde,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+464,328549,Deroy Duarte,2555,Cabo Verde,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+465,528208,Dailon Livramento,2555,Cabo Verde,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+466,342550,Nuno da Costa,2555,Cabo Verde,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+758,402197,Pedri,338,Spain,60,SecondHalf,Pass,Unsuccessful,99.5,0.5,95.3,43.2
+467,430933,Pico Lopes,2555,Cabo Verde,60,SecondHalf,Clearance,Successful,7.9,57.3,20.6,73.1
+468,296684,Jamiro Monteiro,2555,Cabo Verde,61,SecondHalf,Clearance,Successful,20.7,72.8,29.4,49.6
+759,363496,Marc Cucurella,338,Spain,61,SecondHalf,Pass,Unsuccessful,74.2,38.5,95.8,33.3
+469,123577,Vozinha,2555,Cabo Verde,61,SecondHalf,KeeperPickup,Successful,6.6,63.6,,
+470,123577,Vozinha,2555,Cabo Verde,61,SecondHalf,Pass,Successful,13.8,69.5,37.2,91.8
+471,415948,Willy Semedo,2555,Cabo Verde,61,SecondHalf,Dispossessed,Successful,38,88.6,,
+761,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Tackle,Successful,62,11.6,,
+808,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Pass,Successful,62.7,17.4,71,11.5
+762,349760,Ferran Torres,338,Spain,61,SecondHalf,BallRecovery,Successful,65.1,6.3,,
+763,349760,Ferran Torres,338,Spain,61,SecondHalf,Pass,Successful,64.7,6.3,49.3,6.6
+764,254582,Marcos Llorente,338,Spain,61,SecondHalf,Pass,Successful,49,6.6,55,11.9
+765,303139,Rodri,338,Spain,61,SecondHalf,Pass,Successful,59,27,71.5,23.8
+766,402197,Pedri,338,Spain,61,SecondHalf,Pass,Successful,71.5,23.8,71.3,4.8
+767,349760,Ferran Torres,338,Spain,61,SecondHalf,Pass,Successful,72.3,4.5,68.7,15.9
+768,254582,Marcos Llorente,338,Spain,61,SecondHalf,Pass,Successful,69.1,17.9,67.5,12.7
+769,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Pass,Successful,73.2,22.1,79,3.8
+770,349760,Ferran Torres,338,Spain,61,SecondHalf,Pass,Successful,76.6,5.1,70.7,12.9
+771,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Pass,Unsuccessful,73.1,19.4,91.4,60.5
+473,129648,Steven Moreira,2555,Cabo Verde,61,SecondHalf,BallTouch,Unsuccessful,7,36.2,,
+772,363496,Marc Cucurella,338,Spain,61,SecondHalf,Pass,Successful,91.9,91.7,73.3,84.1
+773,303139,Rodri,338,Spain,61,SecondHalf,Pass,Successful,73.6,85.3,79.7,88.1
+774,422937,Gavi,338,Spain,61,SecondHalf,Pass,Successful,79.9,88.5,71.4,91.2
+775,303139,Rodri,338,Spain,61,SecondHalf,Pass,Successful,70.2,91.1,73,75.3
+776,402197,Pedri,338,Spain,61,SecondHalf,TakeOn,Successful,73.8,76.4,,
+474,342550,Nuno da Costa,2555,Cabo Verde,61,SecondHalf,Challenge,Unsuccessful,26.2,23.6,,
+777,402197,Pedri,338,Spain,61,SecondHalf,TakeOn,Unsuccessful,74.8,69,,
+475,328549,Deroy Duarte,2555,Cabo Verde,61,SecondHalf,BallRecovery,Successful,21.4,28.9,,
+476,328549,Deroy Duarte,2555,Cabo Verde,61,SecondHalf,Pass,Successful,21.4,28.9,9.3,27.8
+477,129648,Steven Moreira,2555,Cabo Verde,61,SecondHalf,Pass,Successful,9.3,27.7,19.1,9.1
+478,74790,Ryan Mendes,2555,Cabo Verde,61,SecondHalf,Pass,Unsuccessful,14.2,9.7,13.6,13
+778,402197,Pedri,338,Spain,61,SecondHalf,BlockedPass,Successful,86.4,87,,
+481,129648,Steven Moreira,2555,Cabo Verde,62,SecondHalf,Pass,Unsuccessful,16.6,0,44.6,12.4
+780,122117,Aymeric Laporte,338,Spain,62,SecondHalf,Pass,Successful,60.3,84.9,65.2,76.2
+781,303139,Rodri,338,Spain,62,SecondHalf,Pass,Successful,65.2,76.2,52.8,70.5
+782,498386,Pau Cubarsí,338,Spain,62,SecondHalf,BallRecovery,Successful,52.8,70.5,,
+783,498386,Pau Cubarsí,338,Spain,62,SecondHalf,Pass,Successful,52.8,70.5,55.3,54.4
+784,294193,Fabián Ruiz,338,Spain,62,SecondHalf,Pass,Successful,68.3,46.8,66.1,73.2
+785,122117,Aymeric Laporte,338,Spain,62,SecondHalf,Pass,Successful,72,75.2,74.1,83.4
+786,402197,Pedri,338,Spain,62,SecondHalf,Pass,Successful,74,84.4,72.1,75
+787,122117,Aymeric Laporte,338,Spain,62,SecondHalf,Pass,Successful,74,75,78.5,86.5
+788,402197,Pedri,338,Spain,62,SecondHalf,Pass,Successful,76.3,84.4,68.4,51.8
+789,498386,Pau Cubarsí,338,Spain,62,SecondHalf,Pass,Successful,68.7,48.8,75.8,27.3
+790,294193,Fabián Ruiz,338,Spain,62,SecondHalf,Pass,Successful,76.6,26.2,87.7,11.8
+791,254582,Marcos Llorente,338,Spain,62,SecondHalf,Pass,Unsuccessful,88,11.6,89,14.1
+482,415948,Willy Semedo,2555,Cabo Verde,62,SecondHalf,Clearance,Successful,11,85.9,,
+483,505284,Sidny Cabral,2555,Cabo Verde,62,SecondHalf,Clearance,Successful,14.2,72.9,32.4,93.3
+792,294193,Fabián Ruiz,338,Spain,62,SecondHalf,Pass,Successful,64.3,5.7,54.9,24.5
+793,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Unsuccessful,63.7,28.6,71.7,30.6
+484,296684,Jamiro Monteiro,2555,Cabo Verde,63,SecondHalf,Interception,Successful,28.3,69.4,,
+794,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,71.2,36.2,67.1,24.1
+795,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,68,23.5,73.8,5.9
+796,254582,Marcos Llorente,338,Spain,63,SecondHalf,Pass,Successful,73.8,5.9,69,16.6
+797,294193,Fabián Ruiz,338,Spain,63,SecondHalf,Pass,Successful,69.5,19.2,69.1,28
+798,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,71.6,30.6,92.7,71.8
+799,363496,Marc Cucurella,338,Spain,63,SecondHalf,Pass,Unsuccessful,91.2,71.7,91.2,51.7
+485,430933,Pico Lopes,2555,Cabo Verde,63,SecondHalf,Clearance,Successful,9.7,42.7,15.7,23.9
+486,328549,Deroy Duarte,2555,Cabo Verde,63,SecondHalf,Clearance,Successful,15.4,23.9,12.6,24.2
+487,129648,Steven Moreira,2555,Cabo Verde,63,SecondHalf,BallTouch,Successful,12.6,24.1,,
+490,342550,Nuno da Costa,2555,Cabo Verde,63,SecondHalf,Dispossessed,Successful,34.2,42.1,,
+800,363496,Marc Cucurella,338,Spain,63,SecondHalf,Tackle,Successful,65.8,57.9,,
+801,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,39.4,31.7,41.5,65.2
+802,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,63.7,73.5,63.7,63.6
+803,402197,Pedri,338,Spain,63,SecondHalf,Pass,Successful,66.7,50.6,69.7,22.7
+804,254582,Marcos Llorente,338,Spain,63,SecondHalf,Pass,Successful,70.4,22.9,68.4,27.6
+805,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,72.6,23.8,68.4,10.9
+806,254582,Marcos Llorente,338,Spain,63,SecondHalf,Pass,Successful,66.9,12.1,66.1,25
+807,294193,Fabián Ruiz,338,Spain,63,SecondHalf,Pass,Successful,66.9,28.2,71.5,61.5
+809,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,71.4,63,72.1,53.8
+810,402197,Pedri,338,Spain,63,SecondHalf,Pass,Successful,72.3,45.9,69,48.6
+811,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,68.5,47.7,70.9,68.5
+812,122117,Aymeric Laporte,338,Spain,64,SecondHalf,Pass,Unsuccessful,74.9,72.3,100,69.3
+492,123577,Vozinha,2555,Cabo Verde,64,SecondHalf,Pass,Successful,4,55.4,57.4,82.1
+493,415948,Willy Semedo,2555,Cabo Verde,64,SecondHalf,Aerial,Successful,57.4,82.1,,
+814,254582,Marcos Llorente,338,Spain,64,SecondHalf,Aerial,Unsuccessful,42.6,17.9,,
+494,415948,Willy Semedo,2555,Cabo Verde,64,SecondHalf,Pass,Successful,57.4,82.1,65.9,58.1
+495,342550,Nuno da Costa,2555,Cabo Verde,64,SecondHalf,Aerial,Successful,65.9,58.1,,
+815,122117,Aymeric Laporte,338,Spain,64,SecondHalf,Aerial,Unsuccessful,34.1,41.9,,
+496,342550,Nuno da Costa,2555,Cabo Verde,64,SecondHalf,Pass,Unsuccessful,65.9,58.1,67.9,57.3
+816,122117,Aymeric Laporte,338,Spain,64,SecondHalf,BallTouch,Successful,32,43,,
+817,363496,Marc Cucurella,338,Spain,64,SecondHalf,Pass,Successful,28.9,51.7,13.1,48.2
+818,332823,Unai Simón,338,Spain,64,SecondHalf,KeeperPickup,Successful,13.1,48.2,,
+822,332823,Unai Simón,338,Spain,65,SecondHalf,KeeperPickup,Successful,13.7,46.5,,
+823,332823,Unai Simón,338,Spain,65,SecondHalf,Pass,Successful,13.4,46.7,24.3,61.8
+824,122117,Aymeric Laporte,338,Spain,65,SecondHalf,Pass,Successful,28.5,62.6,38.6,66
+825,303139,Rodri,338,Spain,65,SecondHalf,Pass,Successful,58.3,83.5,46.9,69
+826,122117,Aymeric Laporte,338,Spain,65,SecondHalf,Pass,Successful,46.9,69,57.5,62.6
+827,402197,Pedri,338,Spain,65,SecondHalf,Pass,Unsuccessful,65.9,56.7,81.6,70.3
+500,129648,Steven Moreira,2555,Cabo Verde,65,SecondHalf,Clearance,Successful,12.1,28.7,29.6,6.1
+828,303139,Rodri,338,Spain,65,SecondHalf,Pass,Successful,72,92.4,66.3,66.4
+829,402197,Pedri,338,Spain,65,SecondHalf,Pass,Successful,64.9,54.1,63.9,28.5
+830,498386,Pau Cubarsí,338,Spain,65,SecondHalf,Pass,Successful,66,29.4,66,54.2
+831,122117,Aymeric Laporte,338,Spain,65,SecondHalf,Pass,Successful,69.2,64.1,79.1,86.8
+832,363496,Marc Cucurella,338,Spain,65,SecondHalf,Pass,Successful,79.1,86.8,74,84.6
+833,303139,Rodri,338,Spain,65,SecondHalf,Pass,Successful,72.4,76.8,73,62.7
+834,402197,Pedri,338,Spain,65,SecondHalf,Pass,Successful,73,62.7,70.2,72.1
+835,122117,Aymeric Laporte,338,Spain,65,SecondHalf,Pass,Successful,70.5,69.3,72.8,35.7
+836,498386,Pau Cubarsí,338,Spain,65,SecondHalf,Pass,Successful,72.8,34.1,79.4,33.9
+837,349760,Ferran Torres,338,Spain,65,SecondHalf,BallTouch,Unsuccessful,79.4,33.9,,
+501,296684,Jamiro Monteiro,2555,Cabo Verde,65,SecondHalf,BallRecovery,Successful,22.8,67.7,,
+502,296684,Jamiro Monteiro,2555,Cabo Verde,65,SecondHalf,Pass,Successful,23.2,67.1,22.9,59
+503,438902,Kevin Pina,2555,Cabo Verde,65,SecondHalf,Pass,Unsuccessful,23.2,59.4,60.6,100
+840,254582,Marcos Llorente,338,Spain,65,SecondHalf,Pass,Successful,44.4,0,44.7,14.8
+841,498386,Pau Cubarsí,338,Spain,66,SecondHalf,Pass,Successful,47.4,21.3,60.7,27.1
+842,402197,Pedri,338,Spain,66,SecondHalf,Pass,Successful,62.6,29.5,63.5,51.5
+843,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,69.7,60.9,82.6,90.5
+844,363496,Marc Cucurella,338,Spain,66,SecondHalf,Pass,Successful,85.5,91.5,93.3,85.8
+845,422937,Gavi,338,Spain,66,SecondHalf,Pass,Successful,93.7,87.9,89.1,95.3
+846,363496,Marc Cucurella,338,Spain,66,SecondHalf,Pass,Successful,86.9,95.3,74.1,80.5
+847,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,74.9,76.4,77.2,78
+848,422937,Gavi,338,Spain,66,SecondHalf,Pass,Successful,77.2,78,72.3,71.1
+849,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,69.8,69.1,69.2,40.9
+850,498386,Pau Cubarsí,338,Spain,66,SecondHalf,Pass,Successful,72.3,35.4,77.1,22.9
+851,294193,Fabián Ruiz,338,Spain,66,SecondHalf,Pass,Successful,79,22.6,87,7.4
+852,254582,Marcos Llorente,338,Spain,66,SecondHalf,Pass,Successful,86.6,7.7,74,10.9
+853,294193,Fabián Ruiz,338,Spain,66,SecondHalf,Pass,Successful,71.5,12.7,68,27.6
+854,498386,Pau Cubarsí,338,Spain,66,SecondHalf,Pass,Successful,69.7,31.8,68.9,49.8
+855,122117,Aymeric Laporte,338,Spain,66,SecondHalf,Pass,Successful,70.4,52.7,76.2,72.4
+856,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,77.9,74.7,89.4,87.7
+857,363496,Marc Cucurella,338,Spain,66,SecondHalf,Pass,Successful,86.7,87.9,73.8,76.4
+858,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,73.5,75.6,73.3,67
+859,402197,Pedri,338,Spain,66,SecondHalf,Pass,Successful,73.9,73.2,77.8,88.2
+860,303139,Rodri,338,Spain,66,SecondHalf,Pass,Successful,79.9,91.4,73.4,79.6
+861,402197,Pedri,338,Spain,66,SecondHalf,Pass,Successful,72.7,65.6,77,23.8
+862,294193,Fabián Ruiz,338,Spain,66,SecondHalf,Pass,Successful,79.7,23.5,94.9,9.4
+863,254582,Marcos Llorente,338,Spain,67,SecondHalf,Pass,Successful,92.7,5,78,3.6
+864,294193,Fabián Ruiz,338,Spain,67,SecondHalf,Pass,Successful,77.8,4.2,89.1,12.1
+865,254582,Marcos Llorente,338,Spain,67,SecondHalf,Dispossessed,Successful,88.6,17.3,,
+506,296684,Jamiro Monteiro,2555,Cabo Verde,67,SecondHalf,Tackle,Successful,11.4,82.7,,
+507,342550,Nuno da Costa,2555,Cabo Verde,67,SecondHalf,TakeOn,Unsuccessful,14.5,75.9,,
+866,402197,Pedri,338,Spain,67,SecondHalf,Tackle,Successful,85.5,24.1,,
+867,254582,Marcos Llorente,338,Spain,67,SecondHalf,BallTouch,Successful,89.6,22.9,,
+508,505284,Sidny Cabral,2555,Cabo Verde,67,SecondHalf,BallRecovery,Successful,10.2,81.9,,
+509,505284,Sidny Cabral,2555,Cabo Verde,67,SecondHalf,BallTouch,Unsuccessful,3.7,85.2,,
+510,505284,Sidny Cabral,2555,Cabo Verde,67,SecondHalf,CornerAwarded,Unsuccessful,2.4,83,,
+869,254582,Marcos Llorente,338,Spain,67,SecondHalf,CornerAwarded,Successful,97.6,16.9,,
+870,402197,Pedri,338,Spain,67,SecondHalf,Pass,Unsuccessful,99.5,0.5,90.7,51.7
+511,123577,Vozinha,2555,Cabo Verde,67,SecondHalf,Aerial,Successful,9.3,48.3,,
+871,122117,Aymeric Laporte,338,Spain,67,SecondHalf,Aerial,Unsuccessful,90.7,51.7,,
+512,123577,Vozinha,2555,Cabo Verde,67,SecondHalf,Claim,Unsuccessful,8,47.9,,
+516,235763,Diney Borges,2555,Cabo Verde,67,SecondHalf,BallTouch,Successful,8.4,54.4,,
+514,123577,Vozinha,2555,Cabo Verde,67,SecondHalf,KeeperPickup,Successful,9.8,52.1,,
+513,123577,Vozinha,2555,Cabo Verde,67,SecondHalf,Foul,Successful,10.4,48.6,,
+872,303139,Rodri,338,Spain,67,SecondHalf,Foul,Unsuccessful,89.6,51.4,,
+875,294193,Fabián Ruiz,338,Spain,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+876,238916,Mikel Merino,338,Spain,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+877,422937,Gavi,338,Spain,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+878,480249,Lamine Yamal,338,Spain,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+879,,,338,Spain,70,SecondHalf,FormationChange,Successful,0,0,,
+518,123577,Vozinha,2555,Cabo Verde,71,SecondHalf,Pass,Unsuccessful,13.8,56.1,65.5,74.7
+880,498386,Pau Cubarsí,338,Spain,71,SecondHalf,Clearance,Successful,33.5,17.4,43.7,29.1
+519,438902,Kevin Pina,2555,Cabo Verde,71,SecondHalf,Pass,Unsuccessful,55.1,63.8,65.7,61.5
+881,402197,Pedri,338,Spain,71,SecondHalf,BallTouch,Unsuccessful,38.6,33.9,,
+520,74790,Ryan Mendes,2555,Cabo Verde,71,SecondHalf,Dispossessed,Successful,57,56.2,,
+882,298839,Mikel Oyarzabal,338,Spain,71,SecondHalf,Tackle,Successful,43,43.8,,
+883,402197,Pedri,338,Spain,71,SecondHalf,BallRecovery,Successful,43.3,49.8,,
+884,402197,Pedri,338,Spain,71,SecondHalf,Pass,Successful,43.3,49.8,42.4,70
+885,363496,Marc Cucurella,338,Spain,71,SecondHalf,Pass,Successful,41.2,76.8,35.3,68.5
+886,122117,Aymeric Laporte,338,Spain,71,SecondHalf,Pass,Successful,36.5,67.7,63.7,5.4
+887,480249,Lamine Yamal,338,Spain,71,SecondHalf,TakeOn,Successful,68.6,7.5,,
+529,505284,Sidny Cabral,2555,Cabo Verde,71,SecondHalf,Challenge,Unsuccessful,31.4,92.5,,
+888,480249,Lamine Yamal,338,Spain,71,SecondHalf,Dispossessed,Successful,69.9,9.1,,
+521,505284,Sidny Cabral,2555,Cabo Verde,71,SecondHalf,Tackle,Successful,30.1,90.9,,
+522,505284,Sidny Cabral,2555,Cabo Verde,71,SecondHalf,Dispossessed,Successful,25.4,91.4,,
+889,238916,Mikel Merino,338,Spain,71,SecondHalf,Tackle,Successful,74.6,8.6,,
+890,480249,Lamine Yamal,338,Spain,71,SecondHalf,Pass,Successful,84.2,14.1,79.4,24.5
+891,238916,Mikel Merino,338,Spain,71,SecondHalf,Pass,Successful,78.5,25.3,75.1,41.5
+892,402197,Pedri,338,Spain,71,SecondHalf,Pass,Successful,74.4,47.9,77.2,68.3
+893,363496,Marc Cucurella,338,Spain,71,SecondHalf,Pass,Successful,75.7,69.6,71.8,55.8
+894,402197,Pedri,338,Spain,71,SecondHalf,Pass,Unsuccessful,71.8,55.8,71.2,52.6
+523,342550,Nuno da Costa,2555,Cabo Verde,71,SecondHalf,BlockedPass,Successful,28.8,47.4,,
+524,438902,Kevin Pina,2555,Cabo Verde,71,SecondHalf,Clearance,Successful,20.7,50.4,25.5,100
+896,254582,Marcos Llorente,338,Spain,71,SecondHalf,Pass,Successful,72.5,0,65.7,5.1
+897,303139,Rodri,338,Spain,71,SecondHalf,Pass,Successful,69.6,20.4,68.1,59.1
+898,122117,Aymeric Laporte,338,Spain,72,SecondHalf,Pass,Successful,72.7,69.4,86.1,95.2
+899,363496,Marc Cucurella,338,Spain,72,SecondHalf,Pass,Successful,85.5,95.3,73.8,79.7
+900,122117,Aymeric Laporte,338,Spain,72,SecondHalf,Pass,Successful,73.4,75.6,71.4,66.4
+901,402197,Pedri,338,Spain,72,SecondHalf,Pass,Successful,70.5,63.5,70.9,31.8
+902,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,72.2,30.6,76.5,21.8
+903,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Successful,76.5,21.8,84.5,10
+904,480249,Lamine Yamal,338,Spain,72,SecondHalf,Pass,Successful,85,10.7,74,7.6
+905,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Successful,73.2,7.4,70.6,13.2
+906,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,73.6,12.9,78.6,2.7
+526,505284,Sidny Cabral,2555,Cabo Verde,72,SecondHalf,Challenge,Unsuccessful,11,94.4,,
+907,480249,Lamine Yamal,338,Spain,72,SecondHalf,TakeOn,Successful,89.8,6.4,,
+908,480249,Lamine Yamal,338,Spain,72,SecondHalf,Pass,Successful,85.9,12.4,85.9,24.5
+909,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Successful,86.4,25.6,89.3,49.9
+910,238916,Mikel Merino,338,Spain,72,SecondHalf,SavedShot,Successful,89.3,49.9,,
+527,123577,Vozinha,2555,Cabo Verde,72,SecondHalf,Save,Successful,2,50.1,,
+528,123577,Vozinha,2555,Cabo Verde,72,SecondHalf,KeeperPickup,Successful,2,50.1,,
+531,123577,Vozinha,2555,Cabo Verde,72,SecondHalf,Pass,Successful,15.6,22.3,64.2,37.9
+532,342550,Nuno da Costa,2555,Cabo Verde,72,SecondHalf,Pass,Unsuccessful,64.3,37.7,89.7,40.3
+911,498386,Pau Cubarsí,338,Spain,72,SecondHalf,BallRecovery,Successful,23.6,60.9,,
+912,498386,Pau Cubarsí,338,Spain,73,SecondHalf,Pass,Successful,28.6,45.1,34,39.4
+913,303139,Rodri,338,Spain,73,SecondHalf,Pass,Successful,38.2,41.7,44.1,63.8
+914,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,47.8,65.9,61.4,94.1
+915,363496,Marc Cucurella,338,Spain,73,SecondHalf,Pass,Successful,61.3,94.1,58,72.4
+916,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,59.2,62.6,58.3,30.6
+917,498386,Pau Cubarsí,338,Spain,73,SecondHalf,Pass,Successful,60.5,30,71.4,26.2
+918,238916,Mikel Merino,338,Spain,73,SecondHalf,Pass,Successful,73.6,27.3,71,31.8
+919,303139,Rodri,338,Spain,73,SecondHalf,Pass,Successful,70.8,30.7,72,10.7
+920,254582,Marcos Llorente,338,Spain,73,SecondHalf,Pass,Successful,72,10.7,77.8,4.2
+921,480249,Lamine Yamal,338,Spain,73,SecondHalf,Pass,Successful,78,4.2,71.3,10.4
+922,254582,Marcos Llorente,338,Spain,73,SecondHalf,Pass,Successful,71,11.3,70,23.3
+923,303139,Rodri,338,Spain,73,SecondHalf,Pass,Unsuccessful,72.2,25.6,90.6,54.1
+534,430933,Pico Lopes,2555,Cabo Verde,73,SecondHalf,Clearance,Successful,10.8,48.5,13.6,30.7
+924,363496,Marc Cucurella,338,Spain,73,SecondHalf,Pass,Successful,87.6,63.8,70.7,71.2
+925,122117,Aymeric Laporte,338,Spain,73,SecondHalf,Pass,Successful,70.3,70.9,70.8,61.1
+926,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,70.9,59.7,75,71.5
+927,122117,Aymeric Laporte,338,Spain,73,SecondHalf,Pass,Unsuccessful,77.9,72.1,85.6,48
+535,505284,Sidny Cabral,2555,Cabo Verde,73,SecondHalf,Interception,Successful,14.4,52,,
+536,296684,Jamiro Monteiro,2555,Cabo Verde,73,SecondHalf,Pass,Unsuccessful,22.2,61.1,45.9,49.4
+928,498386,Pau Cubarsí,338,Spain,73,SecondHalf,Pass,Successful,55.7,44.7,66.7,48
+929,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,69.4,43.2,89.7,23
+930,480249,Lamine Yamal,338,Spain,73,SecondHalf,Pass,Successful,87.9,16.8,80.2,11.3
+931,254582,Marcos Llorente,338,Spain,73,SecondHalf,Pass,Successful,79,11.9,76,23.5
+932,303139,Rodri,338,Spain,73,SecondHalf,Pass,Successful,77.3,25,80.3,29.2
+933,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,81.1,29.1,82.4,25.1
+934,254582,Marcos Llorente,338,Spain,73,SecondHalf,Pass,Successful,82.1,26,82.1,32.1
+935,402197,Pedri,338,Spain,74,SecondHalf,BallTouch,Unsuccessful,88.5,33.7,,
+538,505284,Sidny Cabral,2555,Cabo Verde,74,SecondHalf,Clearance,Successful,10.8,66.2,13.4,67.9
+936,402197,Pedri,338,Spain,74,SecondHalf,BallTouch,Successful,86.4,32.1,,
+539,415948,Willy Semedo,2555,Cabo Verde,74,SecondHalf,Clearance,Successful,9.5,72,25,67.1
+540,342550,Nuno da Costa,2555,Cabo Verde,74,SecondHalf,Clearance,Successful,25,67.2,45.3,85.7
+937,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,65,13.3,67.8,13.2
+938,254582,Marcos Llorente,338,Spain,74,SecondHalf,Pass,Successful,65.7,5.6,63.3,16.8
+939,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,64.4,19.1,67.6,42
+940,303139,Rodri,338,Spain,74,SecondHalf,Pass,Successful,71.4,53.3,81.1,49.1
+941,349760,Ferran Torres,338,Spain,74,SecondHalf,SavedShot,Successful,82.1,46.2,,
+541,235763,Diney Borges,2555,Cabo Verde,74,SecondHalf,Save,Successful,13.2,52.9,,
+542,74790,Ryan Mendes,2555,Cabo Verde,74,SecondHalf,BallRecovery,Successful,26.2,38.9,,
+543,74790,Ryan Mendes,2555,Cabo Verde,74,SecondHalf,Pass,Successful,29,39.5,37.7,31.6
+544,342550,Nuno da Costa,2555,Cabo Verde,74,SecondHalf,Pass,Successful,37.7,31.6,37.5,41.6
+545,328549,Deroy Duarte,2555,Cabo Verde,74,SecondHalf,BallTouch,Unsuccessful,37.4,40.4,,
+942,498386,Pau Cubarsí,338,Spain,74,SecondHalf,BallRecovery,Successful,54.8,57.6,,
+943,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,54.6,65,46.3,74
+944,122117,Aymeric Laporte,338,Spain,74,SecondHalf,Pass,Successful,45.5,74.3,24.6,62.4
+945,332823,Unai Simón,338,Spain,74,SecondHalf,Pass,Successful,26.6,61.4,46,43.3
+946,402197,Pedri,338,Spain,74,SecondHalf,Pass,Unsuccessful,64.2,32.9,79.4,40.1
+546,235763,Diney Borges,2555,Cabo Verde,74,SecondHalf,Interception,Successful,20.6,59.9,,
+547,296684,Jamiro Monteiro,2555,Cabo Verde,74,SecondHalf,Pass,Successful,25,63.6,26.8,62.1
+548,438902,Kevin Pina,2555,Cabo Verde,74,SecondHalf,Foul,Successful,26.2,59.2,,
+947,238916,Mikel Merino,338,Spain,74,SecondHalf,Foul,Unsuccessful,73.8,40.8,,
+549,505284,Sidny Cabral,2555,Cabo Verde,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+550,431439,João Paulo,2555,Cabo Verde,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+551,438902,Kevin Pina,2555,Cabo Verde,75,SecondHalf,Pass,Successful,28.1,58.7,24.5,35.3
+552,430933,Pico Lopes,2555,Cabo Verde,75,SecondHalf,Pass,Unsuccessful,28.8,21.2,100,14.2
+949,332823,Unai Simón,338,Spain,75,SecondHalf,Pass,Successful,3.7,54.2,27.2,28.5
+950,498386,Pau Cubarsí,338,Spain,75,SecondHalf,Pass,Successful,46.9,25.3,55.6,9.1
+951,254582,Marcos Llorente,338,Spain,75,SecondHalf,Pass,Successful,57.1,12.3,60.1,26.2
+952,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,63.6,25.6,87.3,8.3
+953,480249,Lamine Yamal,338,Spain,75,SecondHalf,Pass,Successful,86.3,10.3,76,13.9
+954,254582,Marcos Llorente,338,Spain,75,SecondHalf,Pass,Successful,75.2,15.4,74,27
+955,303139,Rodri,338,Spain,75,SecondHalf,Pass,Unsuccessful,75.3,28.5,89.9,49.8
+554,129648,Steven Moreira,2555,Cabo Verde,75,SecondHalf,Clearance,Successful,7,45.8,24.5,70.7
+555,296684,Jamiro Monteiro,2555,Cabo Verde,76,SecondHalf,Clearance,Successful,24.5,70.7,38.3,63.5
+956,303139,Rodri,338,Spain,76,SecondHalf,Pass,Successful,69.7,33.2,69,52.4
+957,122117,Aymeric Laporte,338,Spain,76,SecondHalf,Pass,Successful,69.8,56.2,78.2,60.8
+958,349760,Ferran Torres,338,Spain,76,SecondHalf,Pass,Successful,78.6,62.3,86.2,85.5
+959,363496,Marc Cucurella,338,Spain,76,SecondHalf,Pass,Successful,85,85.8,76.7,73.2
+960,122117,Aymeric Laporte,338,Spain,76,SecondHalf,Dispossessed,Successful,94.7,90.6,,
+556,342550,Nuno da Costa,2555,Cabo Verde,76,SecondHalf,Tackle,Successful,4,7.8,,
+557,342550,Nuno da Costa,2555,Cabo Verde,76,SecondHalf,BallRecovery,Successful,12.6,7,,
+558,342550,Nuno da Costa,2555,Cabo Verde,76,SecondHalf,Pass,Successful,17.3,7,21.7,19.3
+559,328549,Deroy Duarte,2555,Cabo Verde,76,SecondHalf,Pass,Unsuccessful,21.8,19.3,30.3,8.2
+961,402197,Pedri,338,Spain,76,SecondHalf,BallRecovery,Successful,77,93.2,,
+962,402197,Pedri,338,Spain,76,SecondHalf,Pass,Successful,75.7,91.2,72.8,68.5
+963,303139,Rodri,338,Spain,76,SecondHalf,Pass,Successful,72.6,68.2,88.1,72.6
+964,363496,Marc Cucurella,338,Spain,76,SecondHalf,Pass,Successful,88.1,72.6,86,62.7
+965,298839,Mikel Oyarzabal,338,Spain,76,SecondHalf,Pass,Successful,86,62.7,88.7,66.7
+966,349760,Ferran Torres,338,Spain,76,SecondHalf,Pass,Successful,89.5,67.3,89,62.9
+967,298839,Mikel Oyarzabal,338,Spain,76,SecondHalf,BallTouch,Unsuccessful,88.8,62.9,,
+968,363496,Marc Cucurella,338,Spain,76,SecondHalf,Challenge,Unsuccessful,86.3,63.2,,
+560,438902,Kevin Pina,2555,Cabo Verde,76,SecondHalf,TakeOn,Successful,13.4,36.8,,
+561,438902,Kevin Pina,2555,Cabo Verde,76,SecondHalf,Clearance,Successful,14.3,36.8,65.2,41.3
+969,498386,Pau Cubarsí,338,Spain,76,SecondHalf,Pass,Successful,46.8,57.3,54.4,46.1
+970,303139,Rodri,338,Spain,76,SecondHalf,Pass,Successful,55.9,46.2,83.6,93.1
+971,363496,Marc Cucurella,338,Spain,76,SecondHalf,Pass,Successful,84.5,93.5,74,68.8
+972,402197,Pedri,338,Spain,76,SecondHalf,Pass,Successful,70.6,60.6,72.3,25.4
+973,254582,Marcos Llorente,338,Spain,76,SecondHalf,Pass,Successful,73.5,25.7,84.4,6.6
+974,480249,Lamine Yamal,338,Spain,77,SecondHalf,Pass,Successful,88.2,10.9,90.2,30.4
+975,254582,Marcos Llorente,338,Spain,77,SecondHalf,Pass,Unsuccessful,90.2,31,90,34.4
+571,235763,Diney Borges,2555,Cabo Verde,77,SecondHalf,BlockedPass,Successful,10,65.6,,
+562,328549,Deroy Duarte,2555,Cabo Verde,77,SecondHalf,Clearance,Successful,14.1,52.1,14.7,53
+995,349760,Ferran Torres,338,Spain,77,SecondHalf,BallTouch,Successful,85.5,45.6,,
+976,238916,Mikel Merino,338,Spain,77,SecondHalf,Pass,Successful,88.4,37.4,77.9,48.5
+977,402197,Pedri,338,Spain,77,SecondHalf,SavedShot,Successful,77.9,48.5,,
+563,235763,Diney Borges,2555,Cabo Verde,77,SecondHalf,Save,Successful,11.8,52.2,,
+978,122117,Aymeric Laporte,338,Spain,77,SecondHalf,Pass,Successful,74.6,74.1,84.3,85.8
+979,363496,Marc Cucurella,338,Spain,77,SecondHalf,Pass,Successful,84.3,88.1,73.5,77.3
+980,122117,Aymeric Laporte,338,Spain,77,SecondHalf,Pass,Successful,75.3,74.1,72.1,67
+981,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,71.6,61.2,73.2,32.6
+982,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,68.8,37.9,70.2,56.8
+983,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,71.7,62.7,75.8,80.8
+984,122117,Aymeric Laporte,338,Spain,77,SecondHalf,Pass,Successful,76.4,81.8,74.6,71.5
+985,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,75.8,72.9,85.7,89.9
+986,363496,Marc Cucurella,338,Spain,77,SecondHalf,TakeOn,Unsuccessful,88.8,85,,
+564,74790,Ryan Mendes,2555,Cabo Verde,77,SecondHalf,Tackle,Successful,11,13.6,,
+565,74790,Ryan Mendes,2555,Cabo Verde,77,SecondHalf,BallRecovery,Successful,9.9,17,,
+566,74790,Ryan Mendes,2555,Cabo Verde,77,SecondHalf,Pass,Successful,11.3,14.3,5.9,23.6
+567,129648,Steven Moreira,2555,Cabo Verde,77,SecondHalf,Pass,Successful,5.9,23.6,19.6,25.3
+568,328549,Deroy Duarte,2555,Cabo Verde,77,SecondHalf,Pass,Unsuccessful,19.7,25.3,16.5,23.2
+987,402197,Pedri,338,Spain,77,SecondHalf,BlockedPass,Successful,83.5,76.8,,
+569,129648,Steven Moreira,2555,Cabo Verde,77,SecondHalf,Pass,Successful,8.3,21.2,11.9,4.7
+597,74790,Ryan Mendes,2555,Cabo Verde,77,SecondHalf,BallTouch,Unsuccessful,12.1,11.2,,
+988,363496,Marc Cucurella,338,Spain,77,SecondHalf,TakeOn,Successful,88.6,94.3,,
+570,74790,Ryan Mendes,2555,Cabo Verde,77,SecondHalf,Challenge,Unsuccessful,11.4,5.7,,
+989,363496,Marc Cucurella,338,Spain,77,SecondHalf,Pass,Successful,87.8,95.8,73.9,88.7
+990,122117,Aymeric Laporte,338,Spain,77,SecondHalf,BallRecovery,Successful,74,88.7,,
+991,122117,Aymeric Laporte,338,Spain,77,SecondHalf,Pass,Successful,74.3,89,78.7,90.6
+992,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,78.5,90.6,75.2,92.1
+993,122117,Aymeric Laporte,338,Spain,77,SecondHalf,Pass,Successful,73.4,93.2,77,95
+994,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,74.2,85,67.4,32.7
+996,254582,Marcos Llorente,338,Spain,78,SecondHalf,Pass,Successful,69.4,28.3,77.1,5
+997,480249,Lamine Yamal,338,Spain,78,SecondHalf,TakeOn,Unsuccessful,91.2,17.9,,
+572,415948,Willy Semedo,2555,Cabo Verde,78,SecondHalf,Tackle,Unsuccessful,9.6,85,,
+998,480249,Lamine Yamal,338,Spain,78,SecondHalf,BallTouch,Successful,89.5,12.1,,
+573,235763,Diney Borges,2555,Cabo Verde,78,SecondHalf,Clearance,Successful,2.9,62.1,0,60.9
+574,235763,Diney Borges,2555,Cabo Verde,78,SecondHalf,CornerAwarded,Unsuccessful,3.2,69.2,,
+999,480249,Lamine Yamal,338,Spain,78,SecondHalf,CornerAwarded,Successful,96.8,30.8,,
+576,296684,Jamiro Monteiro,2555,Cabo Verde,78,SecondHalf,SubstitutionOff,Successful,0,0,,
+577,395962,Telmo Arcanjo,2555,Cabo Verde,78,SecondHalf,SubstitutionOn,Successful,0,0,,
+594,,,2555,Cabo Verde,78,SecondHalf,FormationChange,Successful,0,0,,
+1000,480249,Lamine Yamal,338,Spain,78,SecondHalf,Pass,Unsuccessful,99.5,0.5,97.2,46.8
+578,74790,Ryan Mendes,2555,Cabo Verde,78,SecondHalf,Clearance,Successful,4.4,57.5,25.7,65.6
+1001,363496,Marc Cucurella,338,Spain,78,SecondHalf,Pass,Unsuccessful,77.6,33.8,91.9,48.6
+579,438902,Kevin Pina,2555,Cabo Verde,79,SecondHalf,Aerial,Successful,8.1,51.4,,
+1002,122117,Aymeric Laporte,338,Spain,79,SecondHalf,Aerial,Unsuccessful,91.9,48.6,,
+580,438902,Kevin Pina,2555,Cabo Verde,79,SecondHalf,Clearance,Successful,8.1,51.4,16.2,41.8
+584,328549,Deroy Duarte,2555,Cabo Verde,79,SecondHalf,Clearance,Successful,11.8,43.4,17.3,26.6
+1003,298839,Mikel Oyarzabal,338,Spain,79,SecondHalf,Pass,Unsuccessful,96.6,71.2,96.8,51.1
+581,431439,João Paulo,2555,Cabo Verde,79,SecondHalf,Clearance,Successful,4.6,53.6,2.6,0
+1005,363496,Marc Cucurella,338,Spain,79,SecondHalf,Pass,Successful,96.5,100,74.9,94.4
+1006,303139,Rodri,338,Spain,79,SecondHalf,Pass,Successful,73.8,94,72.6,72
+1007,402197,Pedri,338,Spain,79,SecondHalf,Pass,Successful,73.6,64.4,72,32.6
+1008,254582,Marcos Llorente,338,Spain,79,SecondHalf,Pass,Successful,72.5,30.3,78.9,25
+1009,238916,Mikel Merino,338,Spain,79,SecondHalf,Pass,Successful,78.9,25,73.2,14.8
+1010,480249,Lamine Yamal,338,Spain,79,SecondHalf,Pass,Successful,73,22,80.3,7.9
+1011,238916,Mikel Merino,338,Spain,79,SecondHalf,Pass,Successful,79.3,8.5,72.1,7.2
+1012,480249,Lamine Yamal,338,Spain,79,SecondHalf,Pass,Successful,70.2,10,67,22.6
+1013,254582,Marcos Llorente,338,Spain,79,SecondHalf,Pass,Successful,68.1,25,67.7,45.6
+1014,498386,Pau Cubarsí,338,Spain,79,SecondHalf,Pass,Successful,68.6,48.6,71.1,63.6
+1015,363496,Marc Cucurella,338,Spain,79,SecondHalf,Pass,Successful,73,71.2,85,92.1
+1016,303139,Rodri,338,Spain,79,SecondHalf,Pass,Successful,91.3,90.9,76.7,77.7
+1017,363496,Marc Cucurella,338,Spain,79,SecondHalf,Pass,Successful,75.1,75.6,69.9,51.8
+1018,498386,Pau Cubarsí,338,Spain,79,SecondHalf,Pass,Successful,69.8,49.2,71.4,31.7
+1019,254582,Marcos Llorente,338,Spain,79,SecondHalf,Pass,Successful,72.2,28.3,73.3,10.9
+1020,480249,Lamine Yamal,338,Spain,79,SecondHalf,Pass,Unsuccessful,70.9,17,88.4,42.6
+585,235763,Diney Borges,2555,Cabo Verde,80,SecondHalf,Clearance,Successful,8,55.7,36.6,50.7
+1021,498386,Pau Cubarsí,338,Spain,80,SecondHalf,Pass,Successful,66.5,49.1,67.9,59.7
+1022,363496,Marc Cucurella,338,Spain,80,SecondHalf,Pass,Successful,68.1,59.6,66.9,37.9
+1023,402197,Pedri,338,Spain,80,SecondHalf,Pass,Unsuccessful,71.8,33.5,90,25
+586,415948,Willy Semedo,2555,Cabo Verde,80,SecondHalf,BallTouch,Successful,6.8,73.5,,
+1024,480249,Lamine Yamal,338,Spain,80,SecondHalf,Pass,Unsuccessful,98.8,29.7,98,31.8
+587,431439,João Paulo,2555,Cabo Verde,80,SecondHalf,BlockedPass,Successful,2,68.2,,
+1031,480249,Lamine Yamal,338,Spain,80,SecondHalf,BallTouch,Successful,97.9,29.1,,
+1026,349760,Ferran Torres,338,Spain,80,SecondHalf,SubstitutionOff,Successful,0,0,,
+1027,261212,Dani Olmo,338,Spain,80,SecondHalf,SubstitutionOn,Successful,0,0,,
+589,123577,Vozinha,2555,Cabo Verde,81,SecondHalf,Pass,Successful,4.6,54,57.7,90
+590,415948,Willy Semedo,2555,Cabo Verde,81,SecondHalf,Pass,Unsuccessful,57.8,90,70.2,80.6
+1033,303139,Rodri,338,Spain,81,SecondHalf,Pass,Successful,33.5,19.4,14.7,41.8
+1034,332823,Unai Simón,338,Spain,81,SecondHalf,BallRecovery,Successful,14.6,41.8,,
+1035,332823,Unai Simón,338,Spain,81,SecondHalf,Pass,Successful,18.4,48.9,27,59.2
+1036,122117,Aymeric Laporte,338,Spain,81,SecondHalf,Pass,Successful,28.7,58.9,36.4,55.3
+1037,303139,Rodri,338,Spain,81,SecondHalf,Pass,Unsuccessful,49.9,62.9,66.1,36.1
+591,328549,Deroy Duarte,2555,Cabo Verde,81,SecondHalf,Interception,Successful,33.9,63.9,,
+1038,480249,Lamine Yamal,338,Spain,81,SecondHalf,TakeOn,Unsuccessful,68.9,18.9,,
+592,235763,Diney Borges,2555,Cabo Verde,81,SecondHalf,Clearance,Successful,23.2,77.4,33.3,100
+1040,238916,Mikel Merino,338,Spain,81,SecondHalf,Pass,Successful,72.5,0,67.5,16
+1041,402197,Pedri,338,Spain,81,SecondHalf,Pass,Successful,68.1,18.9,64.5,48.6
+1042,122117,Aymeric Laporte,338,Spain,81,SecondHalf,Pass,Successful,67.6,55.9,83.8,90.9
+1043,363496,Marc Cucurella,338,Spain,81,SecondHalf,Pass,Successful,83.8,91.2,74.3,75.3
+1044,303139,Rodri,338,Spain,81,SecondHalf,Pass,Successful,71.5,70.5,72.4,27.6
+1045,254582,Marcos Llorente,338,Spain,81,SecondHalf,Pass,Successful,73.5,26.5,86.8,10.4
+1046,480249,Lamine Yamal,338,Spain,81,SecondHalf,Pass,Successful,87.1,10.4,90.2,42.4
+1047,238916,Mikel Merino,338,Spain,81,SecondHalf,Pass,Successful,90.2,42.4,93.9,58.4
+1048,363496,Marc Cucurella,338,Spain,82,SecondHalf,SavedShot,Successful,93.9,58.4,,
+595,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,Save,Successful,1.8,48.1,,
+596,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,KeeperPickup,Successful,1.8,48.1,,
+598,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,Pass,Unsuccessful,4.7,48.5,58.1,36.1
+1049,122117,Aymeric Laporte,338,Spain,82,SecondHalf,Aerial,Successful,41.9,63.9,,
+599,342550,Nuno da Costa,2555,Cabo Verde,82,SecondHalf,Aerial,Unsuccessful,58.1,36.1,,
+1050,122117,Aymeric Laporte,338,Spain,82,SecondHalf,Clearance,Successful,41.9,63.9,41.9,68.3
+600,342550,Nuno da Costa,2555,Cabo Verde,82,SecondHalf,BallTouch,Successful,58.4,35,,
+601,74790,Ryan Mendes,2555,Cabo Verde,82,SecondHalf,Pass,Successful,55,13.7,53.1,44.9
+602,328549,Deroy Duarte,2555,Cabo Verde,82,SecondHalf,Pass,Successful,53.4,44.5,37.6,66
+603,235763,Diney Borges,2555,Cabo Verde,82,SecondHalf,Pass,Successful,38,69.5,55.5,94.7
+604,431439,João Paulo,2555,Cabo Verde,82,SecondHalf,Foul,Successful,54.6,94.5,,
+1051,480249,Lamine Yamal,338,Spain,82,SecondHalf,Foul,Unsuccessful,45.4,5.4,,
+605,235763,Diney Borges,2555,Cabo Verde,82,SecondHalf,Pass,Successful,56.5,92,69.1,89.7
+606,328549,Deroy Duarte,2555,Cabo Verde,82,SecondHalf,Pass,Successful,69.8,89.9,72,95.7
+607,415948,Willy Semedo,2555,Cabo Verde,82,SecondHalf,Pass,Successful,72,95.7,70.4,80.6
+608,431439,João Paulo,2555,Cabo Verde,82,SecondHalf,Pass,Unsuccessful,71.2,80.4,90.9,60.9
+1052,332823,Unai Simón,338,Spain,82,SecondHalf,KeeperPickup,Successful,7.1,31,,
+1053,332823,Unai Simón,338,Spain,83,SecondHalf,Pass,Successful,14.3,32.7,24.7,29.8
+1054,303139,Rodri,338,Spain,83,SecondHalf,Pass,Successful,24.7,29.8,33.7,16.2
+1055,402197,Pedri,338,Spain,83,SecondHalf,Pass,Successful,33.4,12.4,24.9,12.1
+1056,254582,Marcos Llorente,338,Spain,83,SecondHalf,Pass,Successful,26.8,14.1,29.5,33
+1057,303139,Rodri,338,Spain,83,SecondHalf,Pass,Successful,47.1,47,51.1,70.5
+1058,122117,Aymeric Laporte,338,Spain,83,SecondHalf,Pass,Successful,57.4,77.3,68.5,95.9
+1059,363496,Marc Cucurella,338,Spain,83,SecondHalf,Pass,Successful,69.4,95.3,63.1,81.5
+1060,122117,Aymeric Laporte,338,Spain,83,SecondHalf,Pass,Successful,64.1,80,57.2,51.1
+1061,498386,Pau Cubarsí,338,Spain,83,SecondHalf,Pass,Successful,57.4,49.4,66,32.3
+1062,402197,Pedri,338,Spain,83,SecondHalf,Pass,Successful,66.9,30.6,72.3,17.6
+1063,254582,Marcos Llorente,338,Spain,83,SecondHalf,Pass,Successful,76.1,13.6,73.6,3.5
+1064,480249,Lamine Yamal,338,Spain,83,SecondHalf,Pass,Successful,73.2,3.5,72,21.8
+1065,402197,Pedri,338,Spain,83,SecondHalf,Pass,Successful,73.1,21.7,77.5,10.7
+1066,480249,Lamine Yamal,338,Spain,83,SecondHalf,Pass,Successful,78.3,10.7,86.2,23
+1067,254582,Marcos Llorente,338,Spain,83,SecondHalf,BallTouch,Successful,86.2,23,,
+609,415948,Willy Semedo,2555,Cabo Verde,83,SecondHalf,TakeOn,Unsuccessful,14.1,92.4,,
+1068,254582,Marcos Llorente,338,Spain,83,SecondHalf,Tackle,Successful,85.8,7.6,,
+611,431439,João Paulo,2555,Cabo Verde,83,SecondHalf,Pass,Successful,17.3,100,31,86.1
+612,342550,Nuno da Costa,2555,Cabo Verde,84,SecondHalf,BallTouch,Unsuccessful,31.3,86.4,,
+1070,254582,Marcos Llorente,338,Spain,84,SecondHalf,Pass,Unsuccessful,61.4,6.8,64.7,8.2
+613,415948,Willy Semedo,2555,Cabo Verde,84,SecondHalf,BlockedPass,Successful,35.3,91.8,,
+1072,254582,Marcos Llorente,338,Spain,84,SecondHalf,Pass,Successful,60.1,0,47,19.7
+1073,122117,Aymeric Laporte,338,Spain,84,SecondHalf,Pass,Successful,54.1,27,56.4,44.7
+1074,303139,Rodri,338,Spain,84,SecondHalf,Pass,Successful,65.7,46.1,66.5,31.4
+1075,402197,Pedri,338,Spain,84,SecondHalf,Pass,Successful,68.1,32.3,72.2,47.1
+1076,261212,Dani Olmo,338,Spain,84,SecondHalf,Pass,Successful,72.2,47.1,76.7,40.8
+1077,238916,Mikel Merino,338,Spain,84,SecondHalf,Pass,Unsuccessful,77.5,40.8,79.7,41.7
+615,430933,Pico Lopes,2555,Cabo Verde,84,SecondHalf,BlockedPass,Successful,20.3,58.3,,
+616,415948,Willy Semedo,2555,Cabo Verde,84,SecondHalf,Pass,Unsuccessful,22.6,77.6,37.3,65.7
+1078,498386,Pau Cubarsí,338,Spain,84,SecondHalf,Pass,Successful,58.8,35.3,54.8,51.7
+1079,122117,Aymeric Laporte,338,Spain,84,SecondHalf,Pass,Successful,55.4,55,65,64.1
+1080,303139,Rodri,338,Spain,84,SecondHalf,Pass,Unsuccessful,69.4,62.9,85.9,23
+617,431439,João Paulo,2555,Cabo Verde,84,SecondHalf,Interception,Successful,14.1,77,,
+1082,254582,Marcos Llorente,338,Spain,84,SecondHalf,Pass,Successful,67.1,0,61.5,25
+1083,498386,Pau Cubarsí,338,Spain,84,SecondHalf,Pass,Successful,64.1,28.6,68.4,60.9
+1084,303139,Rodri,338,Spain,84,SecondHalf,Pass,Successful,72.5,65.9,87.4,87.6
+1085,363496,Marc Cucurella,338,Spain,84,SecondHalf,Pass,Unsuccessful,90.3,88.1,87.2,56.8
+619,438902,Kevin Pina,2555,Cabo Verde,84,SecondHalf,Clearance,Successful,10.3,39.1,21.8,27.2
+634,438902,Kevin Pina,2555,Cabo Verde,84,SecondHalf,Error,Successful,13.5,39.4,,
+1086,303139,Rodri,338,Spain,84,SecondHalf,MissedShots,Successful,76.9,63.8,,
+621,123577,Vozinha,2555,Cabo Verde,85,SecondHalf,Pass,Unsuccessful,3.7,44.8,65.4,41.5
+1088,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Aerial,Successful,34.6,58.5,,
+622,342550,Nuno da Costa,2555,Cabo Verde,85,SecondHalf,Aerial,Unsuccessful,65.4,41.5,,
+1089,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Clearance,Successful,34.6,58.5,53.5,62.1
+623,438902,Kevin Pina,2555,Cabo Verde,85,SecondHalf,Pass,Unsuccessful,43.5,45.1,61.9,84.5
+1090,254582,Marcos Llorente,338,Spain,85,SecondHalf,Pass,Unsuccessful,36.2,7.2,43.6,6.9
+624,431439,João Paulo,2555,Cabo Verde,85,SecondHalf,Interception,Successful,56.4,93.1,,
+625,415948,Willy Semedo,2555,Cabo Verde,85,SecondHalf,BallTouch,Unsuccessful,55.4,94.8,,
+1092,254582,Marcos Llorente,338,Spain,85,SecondHalf,Pass,Successful,41.1,0,38.2,5.3
+1093,402197,Pedri,338,Spain,85,SecondHalf,Pass,Successful,55.9,17.7,59.6,28.2
+1094,303139,Rodri,338,Spain,85,SecondHalf,Pass,Successful,62.1,34.8,58.7,61.1
+1095,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Pass,Successful,65.3,69.1,80.7,92.9
+1096,261212,Dani Olmo,338,Spain,85,SecondHalf,Pass,Successful,78.4,92.1,73.4,66.2
+1097,303139,Rodri,338,Spain,85,SecondHalf,Pass,Successful,72.8,63.6,75.4,69.7
+1098,261212,Dani Olmo,338,Spain,85,SecondHalf,Pass,Successful,73.8,68.6,71.4,59.9
+1099,303139,Rodri,338,Spain,85,SecondHalf,Pass,Successful,74.7,66.2,85.9,84.9
+1100,363496,Marc Cucurella,338,Spain,85,SecondHalf,Pass,Successful,85.2,86.1,72.7,74.9
+1101,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Pass,Successful,70.2,73.5,69.1,47.6
+1102,498386,Pau Cubarsí,338,Spain,85,SecondHalf,Pass,Successful,69.1,45.5,72.3,33.9
+1103,402197,Pedri,338,Spain,85,SecondHalf,Pass,Successful,74.1,31.2,82.7,6.8
+1104,480249,Lamine Yamal,338,Spain,86,SecondHalf,Pass,Unsuccessful,76.5,22.1,78.1,24.5
+627,415948,Willy Semedo,2555,Cabo Verde,86,SecondHalf,Clearance,Successful,21.9,75.5,,
+1105,402197,Pedri,338,Spain,86,SecondHalf,Pass,Unsuccessful,71,32.9,73.9,34.1
+628,328549,Deroy Duarte,2555,Cabo Verde,86,SecondHalf,BallTouch,Successful,26.1,65.9,,
+1106,303139,Rodri,338,Spain,86,SecondHalf,Pass,Unsuccessful,72.7,37.4,74,25.1
+630,415948,Willy Semedo,2555,Cabo Verde,86,SecondHalf,Pass,Successful,22,74.3,27.3,67.4
+629,328549,Deroy Duarte,2555,Cabo Verde,86,SecondHalf,BallRecovery,Successful,22,74.3,,
+631,328549,Deroy Duarte,2555,Cabo Verde,86,SecondHalf,Pass,Successful,27.4,67.1,38.6,82.5
+632,415948,Willy Semedo,2555,Cabo Verde,86,SecondHalf,TakeOn,Unsuccessful,44.2,93,,
+1107,254582,Marcos Llorente,338,Spain,86,SecondHalf,Tackle,Successful,55.8,7,,
+1109,303139,Rodri,338,Spain,86,SecondHalf,SubstitutionOff,Successful,0,0,,
+1110,408449,Nico Williams,338,Spain,86,SecondHalf,SubstitutionOn,Successful,0,0,,
+1111,,,338,Spain,86,SecondHalf,FormationChange,Successful,0,0,,
+635,431439,João Paulo,2555,Cabo Verde,86,SecondHalf,Pass,Successful,43.8,100,55.2,91.7
+636,415948,Willy Semedo,2555,Cabo Verde,86,SecondHalf,Pass,Successful,56.2,92.7,49.8,93.3
+637,431439,João Paulo,2555,Cabo Verde,86,SecondHalf,Pass,Unsuccessful,49.5,92.3,70.2,89
+1112,498386,Pau Cubarsí,338,Spain,87,SecondHalf,Pass,Unsuccessful,34.6,13.3,45.6,16.8
+638,415948,Willy Semedo,2555,Cabo Verde,87,SecondHalf,Pass,Successful,59.6,79.8,58.7,66.2
+639,395962,Telmo Arcanjo,2555,Cabo Verde,87,SecondHalf,Pass,Successful,56.6,64.4,34.8,47.2
+640,430933,Pico Lopes,2555,Cabo Verde,87,SecondHalf,Pass,Successful,32.5,46.4,9.4,52.1
+641,123577,Vozinha,2555,Cabo Verde,87,SecondHalf,Pass,Unsuccessful,10.5,51,61.3,29.9
+1113,122117,Aymeric Laporte,338,Spain,87,SecondHalf,Pass,Successful,42.3,68,52.5,55.8
+1114,261212,Dani Olmo,338,Spain,87,SecondHalf,BallRecovery,Successful,52.8,54.9,,
+1115,261212,Dani Olmo,338,Spain,87,SecondHalf,Pass,Successful,54.3,50.6,54.5,29.2
+1116,238916,Mikel Merino,338,Spain,87,SecondHalf,Pass,Successful,58.9,24.2,66.7,6.8
+1117,480249,Lamine Yamal,338,Spain,87,SecondHalf,Pass,Successful,70.8,6.3,88.7,35.4
+1118,261212,Dani Olmo,338,Spain,87,SecondHalf,Pass,Successful,88.9,32.1,86.9,48.3
+1119,298839,Mikel Oyarzabal,338,Spain,87,SecondHalf,SavedShot,Successful,86.9,48.3,,
+642,430933,Pico Lopes,2555,Cabo Verde,87,SecondHalf,Save,Successful,9.9,51.3,,
+1120,298839,Mikel Oyarzabal,338,Spain,87,SecondHalf,CornerAwarded,Successful,96.3,44.4,,
+643,430933,Pico Lopes,2555,Cabo Verde,87,SecondHalf,CornerAwarded,Unsuccessful,3.8,55.6,,
+1121,480249,Lamine Yamal,338,Spain,87,SecondHalf,Pass,Successful,99.5,0.5,82.6,17.9
+1122,402197,Pedri,338,Spain,87,SecondHalf,Pass,Successful,83.6,17.6,85.6,7.2
+1123,480249,Lamine Yamal,338,Spain,88,SecondHalf,Pass,Unsuccessful,81.7,11.3,83.4,17.6
+669,431439,João Paulo,2555,Cabo Verde,88,SecondHalf,BallTouch,Successful,14.9,89.4,,
+644,415948,Willy Semedo,2555,Cabo Verde,88,SecondHalf,BallTouch,Successful,19,81,,
+645,129648,Steven Moreira,2555,Cabo Verde,88,SecondHalf,Clearance,Successful,11.9,36.4,30.9,77.9
+1124,402197,Pedri,338,Spain,88,SecondHalf,Pass,Unsuccessful,72.1,24.2,80.1,32.6
+646,430933,Pico Lopes,2555,Cabo Verde,88,SecondHalf,Clearance,Successful,19.1,62.6,26.6,77.1
+647,431439,João Paulo,2555,Cabo Verde,88,SecondHalf,Clearance,Successful,24.7,72.5,41.5,73.2
+1125,261212,Dani Olmo,338,Spain,88,SecondHalf,Pass,Unsuccessful,58.7,25.9,65.3,6
+649,431439,João Paulo,2555,Cabo Verde,88,SecondHalf,Pass,Unsuccessful,28.8,94.7,44.6,89.9
+1126,261212,Dani Olmo,338,Spain,88,SecondHalf,Pass,Unsuccessful,64.3,28.3,63.2,0
+652,431439,João Paulo,2555,Cabo Verde,88,SecondHalf,Pass,Unsuccessful,40,100,63.1,82.4
+1128,122117,Aymeric Laporte,338,Spain,88,SecondHalf,BallRecovery,Successful,30.5,23.1,,
+1129,122117,Aymeric Laporte,338,Spain,88,SecondHalf,Pass,Successful,30.8,23.3,40.7,38
+1130,402197,Pedri,338,Spain,89,SecondHalf,Pass,Successful,58.1,36.5,74,7.9
+1131,480249,Lamine Yamal,338,Spain,89,SecondHalf,Pass,Unsuccessful,77.2,9.7,66.9,34.1
+653,342550,Nuno da Costa,2555,Cabo Verde,89,SecondHalf,BallRecovery,Successful,31.6,49.9,,
+654,342550,Nuno da Costa,2555,Cabo Verde,89,SecondHalf,Pass,Successful,38.5,46.9,78.6,84.2
+655,328549,Deroy Duarte,2555,Cabo Verde,89,SecondHalf,Pass,Successful,85.8,72.5,68.2,59.9
+656,438902,Kevin Pina,2555,Cabo Verde,89,SecondHalf,SavedShot,Successful,70.2,56.7,,
+1133,261212,Dani Olmo,338,Spain,89,SecondHalf,Save,Successful,21.2,44.9,,
+657,438902,Kevin Pina,2555,Cabo Verde,89,SecondHalf,CornerAwarded,Successful,84.2,47.9,,
+1132,261212,Dani Olmo,338,Spain,89,SecondHalf,CornerAwarded,Unsuccessful,15.8,52.1,,
+658,395962,Telmo Arcanjo,2555,Cabo Verde,90,SecondHalf,Pass,Successful,99.6,0.7,93.4,53
+659,235763,Diney Borges,2555,Cabo Verde,90,SecondHalf,SavedShot,Successful,93.4,53,,
+1134,332823,Unai Simón,338,Spain,90,SecondHalf,Save,Successful,1.7,49.2,,
+1135,332823,Unai Simón,338,Spain,90,SecondHalf,KeeperPickup,Successful,1.7,49.2,,
+1136,332823,Unai Simón,338,Spain,90,SecondHalf,Pass,Successful,8.9,51.4,39.3,75.8
+1137,298839,Mikel Oyarzabal,338,Spain,90,SecondHalf,Pass,Successful,42.8,77.9,67.5,85.3
+1138,408449,Nico Williams,338,Spain,90,SecondHalf,TakeOn,Unsuccessful,70.8,84,,
+660,123577,Vozinha,2555,Cabo Verde,90,SecondHalf,KeeperPickup,Successful,5.7,31.3,,
+663,123577,Vozinha,2555,Cabo Verde,90,SecondHalf,Pass,Successful,13.1,36.5,36.5,15.7
+664,74790,Ryan Mendes,2555,Cabo Verde,90,SecondHalf,Pass,Successful,36,15.7,24.2,23.9
+665,129648,Steven Moreira,2555,Cabo Verde,90,SecondHalf,Pass,Unsuccessful,24.3,23.9,37.1,22.9
+1139,402197,Pedri,338,Spain,90,SecondHalf,Interception,Successful,62.9,77.1,,
+1140,238916,Mikel Merino,338,Spain,90,SecondHalf,BallRecovery,Successful,63.6,72,,
+1141,238916,Mikel Merino,338,Spain,90,SecondHalf,Pass,Successful,65.9,72.9,69.9,84.3
+1142,363496,Marc Cucurella,338,Spain,90,SecondHalf,Pass,Successful,74.6,87.4,84.9,93.8
+1143,408449,Nico Williams,338,Spain,90,SecondHalf,Pass,Successful,86.2,94.1,94.5,81.7
+1144,363496,Marc Cucurella,338,Spain,90,SecondHalf,Pass,Unsuccessful,95.8,80.9,95.4,56.1
+666,235763,Diney Borges,2555,Cabo Verde,90,SecondHalf,Clearance,Successful,7,41.9,0,9.8
+667,235763,Diney Borges,2555,Cabo Verde,90,SecondHalf,CornerAwarded,Unsuccessful,1.4,23.4,,
+1145,363496,Marc Cucurella,338,Spain,90,SecondHalf,CornerAwarded,Successful,98.6,76.6,,
+1146,402197,Pedri,338,Spain,91,SecondHalf,Pass,Unsuccessful,99.5,99.5,91,50.6
+668,430933,Pico Lopes,2555,Cabo Verde,91,SecondHalf,Clearance,Successful,11.4,42.8,32.4,50.4
+1147,363496,Marc Cucurella,338,Spain,91,SecondHalf,Pass,Successful,73,42.3,63.2,46.1
+1148,254582,Marcos Llorente,338,Spain,91,SecondHalf,Pass,Successful,64.7,58.5,64,87.9
+1149,402197,Pedri,338,Spain,91,SecondHalf,Pass,Successful,63.8,85.6,69.3,37.3
+1150,498386,Pau Cubarsí,338,Spain,91,SecondHalf,Pass,Successful,71.1,34.4,75.7,21.7
+1151,480249,Lamine Yamal,338,Spain,91,SecondHalf,SavedShot,Successful,77.1,23.9,,
+1152,298839,Mikel Oyarzabal,338,Spain,91,SecondHalf,BallTouch,Successful,87,41.4,,
+670,74790,Ryan Mendes,2555,Cabo Verde,91,SecondHalf,BallRecovery,Successful,13.7,46.7,,
+671,74790,Ryan Mendes,2555,Cabo Verde,91,SecondHalf,Pass,Successful,21,46.3,40.6,41
+672,342550,Nuno da Costa,2555,Cabo Verde,91,SecondHalf,Pass,Unsuccessful,56,44.5,68.1,36.8
+1153,363496,Marc Cucurella,338,Spain,91,SecondHalf,BallTouch,Successful,37.1,62.7,,
+1154,498386,Pau Cubarsí,338,Spain,91,SecondHalf,BallRecovery,Successful,23.2,29.4,,
+1155,498386,Pau Cubarsí,338,Spain,91,SecondHalf,Pass,Successful,28.8,23.6,55,8
+1156,480249,Lamine Yamal,338,Spain,91,SecondHalf,Pass,Successful,69.5,20,61,24.2
+1157,261212,Dani Olmo,338,Spain,91,SecondHalf,Pass,Successful,62.6,25.9,66.5,44.4
+1158,402197,Pedri,338,Spain,91,SecondHalf,Pass,Successful,69.6,47.4,88.2,83
+1159,363496,Marc Cucurella,338,Spain,91,SecondHalf,Pass,Successful,87.5,82.9,78.6,67.9
+1160,402197,Pedri,338,Spain,92,SecondHalf,Pass,Successful,74.8,72.7,68.8,68.5
+1161,122117,Aymeric Laporte,338,Spain,92,SecondHalf,Pass,Successful,68.7,69.3,75.4,81.1
+1162,402197,Pedri,338,Spain,92,SecondHalf,Pass,Successful,74.1,74.4,69.7,46.2
+1163,498386,Pau Cubarsí,338,Spain,92,SecondHalf,Pass,Successful,71.5,43.2,81.6,19.7
+1164,480249,Lamine Yamal,338,Spain,92,SecondHalf,TakeOn,Unsuccessful,90.6,26,,
+673,431439,João Paulo,2555,Cabo Verde,92,SecondHalf,Tackle,Unsuccessful,9.3,74,,
+1165,480249,Lamine Yamal,338,Spain,92,SecondHalf,Pass,Unsuccessful,86.7,11.8,84.1,32.7
+674,415948,Willy Semedo,2555,Cabo Verde,92,SecondHalf,Interception,Successful,15.9,67.3,,
+675,342550,Nuno da Costa,2555,Cabo Verde,92,SecondHalf,BallRecovery,Successful,26.8,58.2,,
+676,342550,Nuno da Costa,2555,Cabo Verde,92,SecondHalf,Foul,Successful,33.8,50.8,,
+1166,402197,Pedri,338,Spain,92,SecondHalf,Foul,Unsuccessful,66.2,49.2,,
+1167,402197,Pedri,338,Spain,92,SecondHalf,Card,Successful,0,0,,
+677,235763,Diney Borges,2555,Cabo Verde,93,SecondHalf,Pass,Unsuccessful,40.2,49,74.3,76.5
+1168,254582,Marcos Llorente,338,Spain,93,SecondHalf,Clearance,Successful,24.6,17.9,38.5,15.3
+678,431439,João Paulo,2555,Cabo Verde,93,SecondHalf,BallTouch,Unsuccessful,57.8,80.9,,
+1169,480249,Lamine Yamal,338,Spain,93,SecondHalf,BallRecovery,Successful,45.5,7.9,,
+1170,480249,Lamine Yamal,338,Spain,93,SecondHalf,Pass,Successful,57.9,14.4,58.6,25.9
+1171,261212,Dani Olmo,338,Spain,93,SecondHalf,Pass,Successful,60.6,26.5,72.1,18.2
+1172,480249,Lamine Yamal,338,Spain,93,SecondHalf,Pass,Successful,71.1,20.3,65.6,25.7
+1173,238916,Mikel Merino,338,Spain,93,SecondHalf,Pass,Unsuccessful,65.6,25.7,68.6,26.8
+679,395962,Telmo Arcanjo,2555,Cabo Verde,93,SecondHalf,BlockedPass,Successful,31.4,73.2,,
+680,415948,Willy Semedo,2555,Cabo Verde,93,SecondHalf,BallRecovery,Successful,30.9,93.2,,
+681,415948,Willy Semedo,2555,Cabo Verde,93,SecondHalf,Pass,Successful,27.6,90.5,23.6,80.9
+682,328549,Deroy Duarte,2555,Cabo Verde,93,SecondHalf,Pass,Successful,26.3,80.9,39,71.1
+683,395962,Telmo Arcanjo,2555,Cabo Verde,93,SecondHalf,Pass,Successful,57.4,76.2,63.4,54.9
+684,74790,Ryan Mendes,2555,Cabo Verde,93,SecondHalf,MissedShots,Successful,70.4,50.7,,
+1178,332823,Unai Simón,338,Spain,93,SecondHalf,Pass,Successful,4.3,51.8,12.4,64.1
+1179,122117,Aymeric Laporte,338,Spain,93,SecondHalf,Pass,Successful,24.2,62,35,62.3
+1180,402197,Pedri,338,Spain,93,SecondHalf,Pass,Successful,44.3,70.6,57,90.3
+1181,408449,Nico Williams,338,Spain,94,SecondHalf,Pass,Unsuccessful,84.9,81.1,90.6,58.9
+686,430933,Pico Lopes,2555,Cabo Verde,94,SecondHalf,Clearance,Successful,9.5,37.7,35.6,0
+1183,122117,Aymeric Laporte,338,Spain,94,SecondHalf,Pass,Successful,64.8,100,71.6,76.4
+1184,402197,Pedri,338,Spain,94,SecondHalf,Pass,Successful,72.9,71.5,73.2,45
+1185,261212,Dani Olmo,338,Spain,94,SecondHalf,Pass,Successful,73.6,40.3,77.2,16.5
+1186,480249,Lamine Yamal,338,Spain,94,SecondHalf,Pass,Unsuccessful,77.6,17.4,89.5,45.3
+688,235763,Diney Borges,2555,Cabo Verde,94,SecondHalf,Clearance,Successful,10.6,56,19.3,80.6
+689,415948,Willy Semedo,2555,Cabo Verde,94,SecondHalf,Pass,Unsuccessful,19.4,79.5,11.7,71.9
+692,415948,Willy Semedo,2555,Cabo Verde,94,SecondHalf,Error,Successful,23,75.3,,
+1187,480249,Lamine Yamal,338,Spain,94,SecondHalf,MissedShots,Successful,85.7,27.3,,
+690,438902,Kevin Pina,2555,Cabo Verde,94,SecondHalf,BallTouch,Successful,12.7,70.2,,
+1188,480249,Lamine Yamal,338,Spain,94,SecondHalf,CornerAwarded,Successful,94.6,31.1,,
+691,438902,Kevin Pina,2555,Cabo Verde,94,SecondHalf,CornerAwarded,Unsuccessful,5.5,69,,
+1189,480249,Lamine Yamal,338,Spain,94,SecondHalf,Pass,Successful,99.5,0.5,95.9,41.6
+1190,298839,Mikel Oyarzabal,338,Spain,94,SecondHalf,MissedShots,Successful,95.9,41.6,,
+1192,,,338,Spain,95,SecondHalf,End,Successful,0,0,,
+694,,,2555,Cabo Verde,95,SecondHalf,End,Successful,0,0,,
+695,,,2555,Cabo Verde,0,PostGame,End,Successful,0,0,,
+1193,,,338,Spain,0,PostGame,End,Successful,0,0,,
+1,,,338,Spain,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,2555,Cabo Verde,0,PreMatch,FormationSet,Successful,0,0,,

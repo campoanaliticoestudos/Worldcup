@@ -1,0 +1,1370 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,863,Cameroon,0,FirstHalf,Start,Successful,0,0,,
+2,,,485,South Africa,0,FirstHalf,Start,Successful,0,0,,
+3,371447,Lyle Foster,485,South Africa,0,FirstHalf,Pass,Successful,50,50,35.7,55.4
+4,457247,Teboho Mokoena,485,South Africa,0,FirstHalf,Pass,Successful,35.7,55.4,45.1,91.8
+5,554736,Samukele Kabini,485,South Africa,0,FirstHalf,Pass,Successful,45.1,91.8,30.2,73.6
+6,563880,Mbekezeli Mbokazi,485,South Africa,0,FirstHalf,Pass,Successful,27.9,69.3,23.9,48.2
+7,457254,Nkosinathi Sibisi,485,South Africa,0,FirstHalf,Pass,Successful,23.8,46.1,26.6,26.2
+8,458440,Siyabonga Ngezana,485,South Africa,0,FirstHalf,Pass,Successful,30.6,17,32.9,7.4
+9,457250,Khuliso Mudau,485,South Africa,0,FirstHalf,Pass,Successful,34.3,5.3,56.5,27.4
+10,371447,Lyle Foster,485,South Africa,0,FirstHalf,Pass,Successful,53.6,25.8,47.5,17.7
+11,457247,Teboho Mokoena,485,South Africa,0,FirstHalf,Pass,Successful,47.5,17.7,59.6,6.5
+12,457250,Khuliso Mudau,485,South Africa,0,FirstHalf,Pass,Successful,59.6,6.5,71.6,4.6
+14,509374,Oswin Appollis,485,South Africa,0,FirstHalf,TakeOn,Unsuccessful,74.8,11.6,,
+3,444789,Darlin Yongwa,863,Cameroon,0,FirstHalf,Tackle,Successful,25.2,88.4,,
+4,444789,Darlin Yongwa,863,Cameroon,0,FirstHalf,BallRecovery,Successful,19.7,75.7,,
+5,444789,Darlin Yongwa,863,Cameroon,0,FirstHalf,Pass,Successful,26.1,88.1,25.2,84
+15,468190,Arthur Avom,863,Cameroon,0,FirstHalf,BallTouch,Successful,27.3,87.6,,
+16,509374,Oswin Appollis,485,South Africa,0,FirstHalf,BallTouch,Unsuccessful,71.6,7.9,,
+7,436048,Carlos Baleba,863,Cameroon,0,FirstHalf,BallTouch,Unsuccessful,18.6,77.2,,
+17,457250,Khuliso Mudau,485,South Africa,0,FirstHalf,Pass,Successful,70.4,7.9,65.6,8.8
+18,457247,Teboho Mokoena,485,South Africa,0,FirstHalf,Pass,Unsuccessful,65.6,9.8,68.5,17.4
+8,342857,Danny Namaso,863,Cameroon,0,FirstHalf,Interception,Successful,31.5,82.6,,
+9,463416,Che Malone,863,Cameroon,0,FirstHalf,Pass,Successful,6.2,75.7,14.1,90.1
+10,335583,Nouhou Tolo,863,Cameroon,0,FirstHalf,BallTouch,Unsuccessful,17.4,88.1,,
+20,457247,Teboho Mokoena,485,South Africa,0,FirstHalf,Foul,Successful,78.2,11.5,,
+11,335583,Nouhou Tolo,863,Cameroon,0,FirstHalf,Foul,Unsuccessful,21.8,88.5,,
+12,335583,Nouhou Tolo,863,Cameroon,1,FirstHalf,Card,Successful,0,0,,
+23,509374,Oswin Appollis,485,South Africa,2,FirstHalf,Pass,Successful,76,8.8,90.5,43.8
+24,371447,Lyle Foster,485,South Africa,2,FirstHalf,MissedShots,Successful,90.5,43.8,,
+17,139110,Dévis Epassy,863,Cameroon,3,FirstHalf,Pass,Successful,4.4,51.3,9.4,57.1
+18,443793,Samuel Kotto,863,Cameroon,3,FirstHalf,Pass,Successful,11.4,55.8,15.5,28.5
+19,463416,Che Malone,863,Cameroon,3,FirstHalf,Pass,Unsuccessful,20.5,22.8,56,29.5
+26,563880,Mbekezeli Mbokazi,485,South Africa,3,FirstHalf,Aerial,Successful,44,70.5,,
+20,353377,Bryan Mbeumo,863,Cameroon,3,FirstHalf,Aerial,Unsuccessful,56,29.5,,
+27,563880,Mbekezeli Mbokazi,485,South Africa,3,FirstHalf,Pass,Successful,43,72.6,53.1,83.8
+28,554736,Samukele Kabini,485,South Africa,3,FirstHalf,BallRecovery,Successful,47.7,84.7,,
+29,554736,Samukele Kabini,485,South Africa,3,FirstHalf,Pass,Unsuccessful,40.2,88.1,41.9,88.3
+21,407649,Junior Tchamadeu,863,Cameroon,3,FirstHalf,BlockedPass,Successful,58.1,11.7,,
+22,342857,Danny Namaso,863,Cameroon,3,FirstHalf,BallTouch,Unsuccessful,53.8,16.6,,
+30,464874,Bathusi Aubaas,485,South Africa,3,FirstHalf,Pass,Successful,40.5,84.1,34.6,90.5
+31,554736,Samukele Kabini,485,South Africa,3,FirstHalf,Pass,Successful,34.3,90.9,21.5,84.4
+32,563880,Mbekezeli Mbokazi,485,South Africa,3,FirstHalf,Pass,Unsuccessful,21.5,84.8,54.9,89.7
+23,436048,Carlos Baleba,863,Cameroon,3,FirstHalf,BallRecovery,Successful,43.3,21,,
+24,436048,Carlos Baleba,863,Cameroon,3,FirstHalf,Pass,Successful,42.3,34.6,47,45.4
+25,468190,Arthur Avom,863,Cameroon,3,FirstHalf,Pass,Successful,45.4,45.8,36.3,63.2
+26,335583,Nouhou Tolo,863,Cameroon,3,FirstHalf,Pass,Unsuccessful,40.7,70.2,100,79
+35,457254,Nkosinathi Sibisi,485,South Africa,4,FirstHalf,Pass,Successful,4.2,50.6,3.6,41.6
+36,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Pass,Unsuccessful,12.9,44.9,64.4,69
+28,463416,Che Malone,863,Cameroon,4,FirstHalf,Clearance,Successful,29.2,34,41.7,30.7
+37,527865,Relebohile Mofokeng,485,South Africa,4,FirstHalf,Pass,Unsuccessful,61.7,60.5,80.1,31.7
+29,335583,Nouhou Tolo,863,Cameroon,4,FirstHalf,BallRecovery,Successful,20.9,65.2,,
+30,335583,Nouhou Tolo,863,Cameroon,4,FirstHalf,Pass,Successful,20.8,64.2,5.1,54.6
+31,139110,Dévis Epassy,863,Cameroon,4,FirstHalf,Pass,Unsuccessful,7.5,54.7,64.7,33.6
+38,457254,Nkosinathi Sibisi,485,South Africa,4,FirstHalf,Pass,Successful,33.8,81.5,45.5,92.7
+39,554736,Samukele Kabini,485,South Africa,4,FirstHalf,BallRecovery,Successful,45.3,92.7,,
+40,554736,Samukele Kabini,485,South Africa,4,FirstHalf,Pass,Successful,41.9,92.1,29.8,90.3
+41,563880,Mbekezeli Mbokazi,485,South Africa,4,FirstHalf,Pass,Successful,25.1,84.4,9.3,59.3
+42,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Pass,Successful,9.8,56.9,22.7,18.9
+43,458440,Siyabonga Ngezana,485,South Africa,4,FirstHalf,Pass,Successful,27.3,14.9,25.3,35.7
+44,457254,Nkosinathi Sibisi,485,South Africa,4,FirstHalf,Pass,Successful,27.2,43,31.1,39.2
+45,457247,Teboho Mokoena,485,South Africa,4,FirstHalf,Pass,Successful,31.1,39.2,20.1,47.3
+46,457254,Nkosinathi Sibisi,485,South Africa,4,FirstHalf,Pass,Successful,20.1,47.3,9.4,44.5
+47,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Pass,Successful,9.4,44.5,16.3,83.6
+48,563880,Mbekezeli Mbokazi,485,South Africa,4,FirstHalf,Pass,Successful,16.3,83.6,5.8,54.6
+49,99002,Ronwen Williams,485,South Africa,4,FirstHalf,Pass,Successful,7.7,51.5,40.6,63.6
+11051,371447,Lyle Foster,485,South Africa,5,FirstHalf,OffsideGiven,Unsuccessful,76.8,73.8,,
+50,527865,Relebohile Mofokeng,485,South Africa,5,FirstHalf,Pass,Successful,40.6,63.6,42.1,79.4
+51,464874,Bathusi Aubaas,485,South Africa,5,FirstHalf,OffsidePass,Successful,55.3,85.7,76.8,73.8
+32,335583,Nouhou Tolo,863,Cameroon,5,FirstHalf,OffsideProvoked,Successful,27.8,54.4,,
+34,139110,Dévis Epassy,863,Cameroon,5,FirstHalf,Pass,Successful,20.1,35.5,19.5,58
+35,443793,Samuel Kotto,863,Cameroon,5,FirstHalf,Pass,Successful,26.8,57.1,37.2,55.6
+36,468190,Arthur Avom,863,Cameroon,5,FirstHalf,Pass,Successful,38.2,53.7,28.4,61.2
+37,436048,Carlos Baleba,863,Cameroon,5,FirstHalf,Pass,Unsuccessful,30.3,63,70.1,100
+54,458440,Siyabonga Ngezana,485,South Africa,6,FirstHalf,Pass,Successful,25.6,0,32.3,10.4
+55,509374,Oswin Appollis,485,South Africa,6,FirstHalf,Pass,Successful,32.3,10.4,24.3,7.3
+56,458440,Siyabonga Ngezana,485,South Africa,6,FirstHalf,Pass,Unsuccessful,25.2,6.4,26.6,5.9
+39,468190,Arthur Avom,863,Cameroon,6,FirstHalf,BlockedPass,Successful,73.4,94.1,,
+57,458440,Siyabonga Ngezana,485,South Africa,6,FirstHalf,Clearance,Successful,24,4.9,27.2,0
+41,444789,Darlin Yongwa,863,Cameroon,6,FirstHalf,Pass,Successful,65.3,100,63.8,76.2
+42,436048,Carlos Baleba,863,Cameroon,6,FirstHalf,Pass,Successful,57.7,67.2,41,43.3
+43,463416,Che Malone,863,Cameroon,6,FirstHalf,Pass,Successful,41.5,43.3,52.1,20.7
+44,407649,Junior Tchamadeu,863,Cameroon,6,FirstHalf,Pass,Successful,51.6,21.7,37.6,45.7
+45,463416,Che Malone,863,Cameroon,6,FirstHalf,Pass,Successful,35.1,46.3,33.1,63.4
+46,443793,Samuel Kotto,863,Cameroon,6,FirstHalf,Pass,Unsuccessful,35,62.5,91.2,68.2
+59,99002,Ronwen Williams,485,South Africa,6,FirstHalf,KeeperPickup,Successful,5.6,28.5,,
+60,99002,Ronwen Williams,485,South Africa,6,FirstHalf,Pass,Successful,10.4,28.8,38,8.6
+61,457247,Teboho Mokoena,485,South Africa,6,FirstHalf,Pass,Successful,39.6,8.5,46.4,16.2
+62,509374,Oswin Appollis,485,South Africa,6,FirstHalf,Pass,Successful,53.7,19.7,70.1,55.8
+133,463416,Che Malone,863,Cameroon,6,FirstHalf,Error,Successful,22.7,40.5,,
+63,527865,Relebohile Mofokeng,485,South Africa,6,FirstHalf,MissedShots,Successful,84.2,52.2,,
+48,139110,Dévis Epassy,863,Cameroon,7,FirstHalf,Pass,Successful,5.3,54.6,10.7,68.2
+49,443793,Samuel Kotto,863,Cameroon,7,FirstHalf,Pass,Successful,14.1,63.7,9.2,42.9
+50,139110,Dévis Epassy,863,Cameroon,7,FirstHalf,Pass,Successful,9.2,40.9,14.9,14.5
+51,463416,Che Malone,863,Cameroon,7,FirstHalf,Pass,Unsuccessful,23,10.9,54.6,0
+66,563880,Mbekezeli Mbokazi,485,South Africa,7,FirstHalf,Pass,Successful,39.5,100,19.1,90.3
+67,457254,Nkosinathi Sibisi,485,South Africa,7,FirstHalf,Pass,Successful,15.7,82.8,11,61.7
+68,99002,Ronwen Williams,485,South Africa,7,FirstHalf,Pass,Successful,9.2,52.5,21.1,24.1
+69,458440,Siyabonga Ngezana,485,South Africa,7,FirstHalf,Pass,Successful,35.9,11.4,26.6,21.8
+70,457247,Teboho Mokoena,485,South Africa,8,FirstHalf,Pass,Successful,31.6,22.1,80.9,60.5
+71,554736,Samukele Kabini,485,South Africa,8,FirstHalf,MissedShots,Successful,80.9,60.5,,
+54,139110,Dévis Epassy,863,Cameroon,8,FirstHalf,Pass,Successful,4.9,47.2,8.4,58.9
+55,443793,Samuel Kotto,863,Cameroon,8,FirstHalf,Pass,Successful,9.2,58.5,18,37.3
+56,463416,Che Malone,863,Cameroon,8,FirstHalf,Pass,Successful,23.5,35.2,23.2,68.7
+57,443793,Samuel Kotto,863,Cameroon,8,FirstHalf,Pass,Successful,27.5,63.4,26.2,38.5
+58,463416,Che Malone,863,Cameroon,8,FirstHalf,Pass,Successful,26.2,38.5,9.2,54.7
+59,139110,Dévis Epassy,863,Cameroon,8,FirstHalf,Pass,Successful,9.2,54.6,41.4,65.8
+60,342857,Danny Namaso,863,Cameroon,8,FirstHalf,Foul,Successful,44.6,74.4,,
+74,457247,Teboho Mokoena,485,South Africa,8,FirstHalf,Foul,Unsuccessful,55.4,25.7,,
+61,436048,Carlos Baleba,863,Cameroon,9,FirstHalf,Pass,Successful,54.1,70.7,51.6,85.7
+62,335583,Nouhou Tolo,863,Cameroon,9,FirstHalf,Pass,Successful,52.3,85,43.9,68.5
+63,443793,Samuel Kotto,863,Cameroon,9,FirstHalf,Pass,Successful,42.6,64.6,49.3,51
+64,436048,Carlos Baleba,863,Cameroon,9,FirstHalf,Pass,Successful,47.7,53.8,38.8,31.3
+65,463416,Che Malone,863,Cameroon,9,FirstHalf,Pass,Successful,56.8,21.1,62.1,14.4
+66,353377,Bryan Mbeumo,863,Cameroon,9,FirstHalf,Dispossessed,Successful,64,14.4,,
+75,464874,Bathusi Aubaas,485,South Africa,9,FirstHalf,Tackle,Unsuccessful,36,85.6,,
+67,353377,Bryan Mbeumo,863,Cameroon,9,FirstHalf,BallTouch,Successful,62.1,14.4,,
+76,527865,Relebohile Mofokeng,485,South Africa,9,FirstHalf,BallRecovery,Successful,31.1,83.6,,
+77,527865,Relebohile Mofokeng,485,South Africa,9,FirstHalf,Pass,Successful,31.1,83.6,28.1,78.4
+78,457247,Teboho Mokoena,485,South Africa,9,FirstHalf,Pass,Successful,28.1,78.4,23.5,77.8
+79,563880,Mbekezeli Mbokazi,485,South Africa,9,FirstHalf,Pass,Successful,23.5,77.8,34.7,91.1
+80,464874,Bathusi Aubaas,485,South Africa,9,FirstHalf,Pass,Successful,34.7,91.1,35.9,83.9
+81,527865,Relebohile Mofokeng,485,South Africa,9,FirstHalf,Pass,Successful,35.9,83.9,30.9,89.7
+82,554736,Samukele Kabini,485,South Africa,9,FirstHalf,BallTouch,Unsuccessful,29,94.4,,
+69,407649,Junior Tchamadeu,863,Cameroon,9,FirstHalf,Pass,Successful,62,0,53.8,25.9
+70,436048,Carlos Baleba,863,Cameroon,9,FirstHalf,Pass,Successful,55.1,32.4,45,54.6
+71,443793,Samuel Kotto,863,Cameroon,9,FirstHalf,Dispossessed,Successful,63.3,59.3,,
+84,509374,Oswin Appollis,485,South Africa,9,FirstHalf,Tackle,Unsuccessful,36.7,40.7,,
+99,443793,Samuel Kotto,863,Cameroon,9,FirstHalf,BallTouch,Successful,43,54.1,,
+85,509374,Oswin Appollis,485,South Africa,9,FirstHalf,BallRecovery,Successful,37,42.2,,
+86,509374,Oswin Appollis,485,South Africa,9,FirstHalf,Pass,Successful,49.8,56.9,54.3,58.7
+87,527865,Relebohile Mofokeng,485,South Africa,9,FirstHalf,Pass,Unsuccessful,54.3,58.7,64.6,31.8
+72,335583,Nouhou Tolo,863,Cameroon,10,FirstHalf,BallRecovery,Successful,35,69.1,,
+73,335583,Nouhou Tolo,863,Cameroon,10,FirstHalf,Dispossessed,Successful,61,94.1,,
+88,457247,Teboho Mokoena,485,South Africa,10,FirstHalf,Tackle,Successful,39,6,,
+75,444789,Darlin Yongwa,863,Cameroon,10,FirstHalf,Pass,Successful,63.8,100,59,77.5
+76,468190,Arthur Avom,863,Cameroon,10,FirstHalf,Pass,Successful,55.1,72.7,55.3,30
+77,407649,Junior Tchamadeu,863,Cameroon,10,FirstHalf,Pass,Unsuccessful,57.7,30.3,79.9,67.9
+90,457250,Khuliso Mudau,485,South Africa,10,FirstHalf,BallRecovery,Successful,7.2,24.4,,
+91,457250,Khuliso Mudau,485,South Africa,10,FirstHalf,Pass,Successful,3,21.6,20.3,20.1
+92,509374,Oswin Appollis,485,South Africa,10,FirstHalf,Dispossessed,Successful,21.8,22.7,,
+78,342857,Danny Namaso,863,Cameroon,10,FirstHalf,Tackle,Successful,78.2,77.3,,
+79,444789,Darlin Yongwa,863,Cameroon,10,FirstHalf,BallRecovery,Successful,89.7,71.8,,
+80,444789,Darlin Yongwa,863,Cameroon,10,FirstHalf,Pass,Unsuccessful,95.8,70.2,85.5,55
+93,464874,Bathusi Aubaas,485,South Africa,10,FirstHalf,Clearance,Successful,12.5,49.1,36.3,69
+81,463416,Che Malone,863,Cameroon,10,FirstHalf,MissedShots,Successful,61.7,34.8,,
+95,457254,Nkosinathi Sibisi,485,South Africa,11,FirstHalf,Pass,Successful,3.9,54.9,7.4,40.3
+96,99002,Ronwen Williams,485,South Africa,11,FirstHalf,Pass,Unsuccessful,8.7,40.7,55.6,35.8
+83,443793,Samuel Kotto,863,Cameroon,11,FirstHalf,Aerial,Successful,44.4,64.2,,
+97,371447,Lyle Foster,485,South Africa,11,FirstHalf,Aerial,Unsuccessful,55.6,35.8,,
+84,443793,Samuel Kotto,863,Cameroon,11,FirstHalf,Pass,Unsuccessful,44.4,64.2,53.8,57.4
+98,464874,Bathusi Aubaas,485,South Africa,11,FirstHalf,Pass,Successful,45.1,46.3,53.1,32.8
+99,371447,Lyle Foster,485,South Africa,11,FirstHalf,BallTouch,Unsuccessful,53.3,33.3,,
+86,342857,Danny Namaso,863,Cameroon,11,FirstHalf,Pass,Successful,45.4,55.2,33.5,47.5
+85,436048,Carlos Baleba,863,Cameroon,11,FirstHalf,BallRecovery,Successful,45.4,55.2,,
+87,436048,Carlos Baleba,863,Cameroon,11,FirstHalf,Pass,Successful,35,49.8,14.7,44.1
+88,139110,Dévis Epassy,863,Cameroon,11,FirstHalf,Pass,Successful,22.5,39.7,29.6,46.2
+89,436048,Carlos Baleba,863,Cameroon,11,FirstHalf,Pass,Successful,30.8,46.3,22.9,38.8
+90,139110,Dévis Epassy,863,Cameroon,11,FirstHalf,Pass,Successful,18,42.4,24.6,69.6
+91,443793,Samuel Kotto,863,Cameroon,11,FirstHalf,Pass,Successful,28.3,68.5,38.5,61.8
+92,342857,Danny Namaso,863,Cameroon,11,FirstHalf,Pass,Successful,37.7,62.8,25.2,68.4
+93,443793,Samuel Kotto,863,Cameroon,11,FirstHalf,Pass,Successful,26.4,68.5,32,58.5
+94,342857,Danny Namaso,863,Cameroon,11,FirstHalf,Pass,Successful,32.8,56.7,63.1,29.7
+95,407649,Junior Tchamadeu,863,Cameroon,11,FirstHalf,BallTouch,Unsuccessful,63,27.9,,
+100,554736,Samukele Kabini,485,South Africa,11,FirstHalf,BallRecovery,Successful,31.2,91.1,,
+101,554736,Samukele Kabini,485,South Africa,11,FirstHalf,Pass,Unsuccessful,42.2,89.7,45.9,76.3
+96,342857,Danny Namaso,863,Cameroon,12,FirstHalf,BallRecovery,Successful,58,31.9,,
+97,342857,Danny Namaso,863,Cameroon,12,FirstHalf,Pass,Unsuccessful,67.6,18.4,74.2,38.1
+102,457254,Nkosinathi Sibisi,485,South Africa,12,FirstHalf,Pass,Successful,24.5,67.9,26.4,70.2
+103,464874,Bathusi Aubaas,485,South Africa,12,FirstHalf,BallRecovery,Successful,26.4,70.2,,
+104,464874,Bathusi Aubaas,485,South Africa,12,FirstHalf,Pass,Successful,26.4,70.2,31.2,62
+105,457247,Teboho Mokoena,485,South Africa,12,FirstHalf,Foul,Successful,34.4,60.3,,
+98,444789,Darlin Yongwa,863,Cameroon,12,FirstHalf,Foul,Unsuccessful,65.6,39.7,,
+106,457254,Nkosinathi Sibisi,485,South Africa,12,FirstHalf,Pass,Successful,35.2,53.2,30.6,27.8
+107,458440,Siyabonga Ngezana,485,South Africa,12,FirstHalf,Pass,Successful,38.3,25.4,57,8.2
+108,457250,Khuliso Mudau,485,South Africa,12,FirstHalf,Pass,Successful,53,9.2,45,14
+109,458440,Siyabonga Ngezana,485,South Africa,12,FirstHalf,Pass,Successful,45,14,54.7,20.6
+110,509374,Oswin Appollis,485,South Africa,12,FirstHalf,Pass,Successful,54.1,21.3,40,19.5
+111,457247,Teboho Mokoena,485,South Africa,12,FirstHalf,Pass,Successful,40,19.5,28.6,51.6
+112,457254,Nkosinathi Sibisi,485,South Africa,12,FirstHalf,Pass,Successful,28.6,51.6,32,28.9
+113,458440,Siyabonga Ngezana,485,South Africa,12,FirstHalf,Pass,Successful,34.5,33.6,31.2,49.9
+114,457254,Nkosinathi Sibisi,485,South Africa,12,FirstHalf,Pass,Successful,31.2,49.9,30.1,23.4
+115,458440,Siyabonga Ngezana,485,South Africa,12,FirstHalf,Pass,Unsuccessful,39,25.8,91,28.9
+100,139110,Dévis Epassy,863,Cameroon,12,FirstHalf,KeeperPickup,Successful,11.7,68.4,,
+11120,371447,Lyle Foster,485,South Africa,13,FirstHalf,OffsideGiven,Unsuccessful,62.5,59.6,,
+101,139110,Dévis Epassy,863,Cameroon,13,FirstHalf,Pass,Successful,14.8,57.9,20.7,71.1
+102,443793,Samuel Kotto,863,Cameroon,13,FirstHalf,Pass,Unsuccessful,26.4,67,80.9,69.9
+116,457250,Khuliso Mudau,485,South Africa,13,FirstHalf,BallRecovery,Successful,21.4,23.4,,
+117,457250,Khuliso Mudau,485,South Africa,13,FirstHalf,Pass,Successful,21.4,25.2,3.6,37.9
+118,99002,Ronwen Williams,485,South Africa,13,FirstHalf,Pass,Successful,3,42.1,25.9,65.2
+119,464874,Bathusi Aubaas,485,South Africa,13,FirstHalf,Pass,Successful,26.5,65.1,32.5,58.7
+120,527865,Relebohile Mofokeng,485,South Africa,13,FirstHalf,OffsidePass,Successful,34.4,55.1,62.5,59.6
+103,443793,Samuel Kotto,863,Cameroon,13,FirstHalf,OffsideProvoked,Successful,45.3,48.9,,
+104,139110,Dévis Epassy,863,Cameroon,14,FirstHalf,Pass,Unsuccessful,25.9,46.8,64.2,46.6
+121,457254,Nkosinathi Sibisi,485,South Africa,14,FirstHalf,Pass,Successful,30,57.9,40.6,54.5
+122,371447,Lyle Foster,485,South Africa,14,FirstHalf,Pass,Successful,40.6,54.5,39.2,59.7
+123,527865,Relebohile Mofokeng,485,South Africa,14,FirstHalf,BallRecovery,Successful,40.9,58.5,,
+124,527865,Relebohile Mofokeng,485,South Africa,14,FirstHalf,Pass,Successful,40.9,58.5,85.4,23.3
+125,509374,Oswin Appollis,485,South Africa,14,FirstHalf,Pass,Unsuccessful,86.4,24.4,86.4,27.1
+105,335583,Nouhou Tolo,863,Cameroon,14,FirstHalf,BallTouch,Successful,13.5,70.8,,
+106,443793,Samuel Kotto,863,Cameroon,14,FirstHalf,BallTouch,Successful,13,70.2,,
+107,468190,Arthur Avom,863,Cameroon,14,FirstHalf,Clearance,Successful,15.4,61.2,41.7,40
+126,563880,Mbekezeli Mbokazi,485,South Africa,14,FirstHalf,Pass,Successful,59,61.5,61.3,80.2
+127,554736,Samukele Kabini,485,South Africa,14,FirstHalf,Pass,Unsuccessful,61.3,80.2,64.2,69.9
+108,342857,Danny Namaso,863,Cameroon,15,FirstHalf,BallRecovery,Successful,37.9,43.2,,
+109,342857,Danny Namaso,863,Cameroon,15,FirstHalf,Pass,Successful,38.3,29.9,34.3,17.4
+110,407649,Junior Tchamadeu,863,Cameroon,15,FirstHalf,Pass,Successful,34.1,17.1,34.1,32.1
+111,342857,Danny Namaso,863,Cameroon,15,FirstHalf,Pass,Successful,32.9,24.8,22.5,15
+112,463416,Che Malone,863,Cameroon,15,FirstHalf,Pass,Unsuccessful,23.1,14.6,45.6,26.6
+128,563880,Mbekezeli Mbokazi,485,South Africa,15,FirstHalf,Pass,Successful,54,78.5,60.3,53.1
+129,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,BallRecovery,Successful,60.3,53.1,,
+130,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,Pass,Successful,60.3,53.1,64.4,33.9
+131,509374,Oswin Appollis,485,South Africa,15,FirstHalf,Pass,Successful,70.4,33.6,73.6,48.1
+132,527865,Relebohile Mofokeng,485,South Africa,15,FirstHalf,Pass,Successful,73.8,50.5,91.7,52.1
+211,371447,Lyle Foster,485,South Africa,15,FirstHalf,SavedShot,Successful,91.7,52.1,,
+113,139110,Dévis Epassy,863,Cameroon,15,FirstHalf,Save,Successful,5.9,48.5,,
+114,139110,Dévis Epassy,863,Cameroon,15,FirstHalf,KeeperPickup,Successful,8.3,47.2,,
+115,139110,Dévis Epassy,863,Cameroon,15,FirstHalf,Pass,Successful,15.3,50.4,27,52.6
+116,468190,Arthur Avom,863,Cameroon,15,FirstHalf,Pass,Successful,27.4,50.5,25.1,30.6
+117,407649,Junior Tchamadeu,863,Cameroon,15,FirstHalf,Pass,Successful,26.2,35.2,33,41.8
+118,342857,Danny Namaso,863,Cameroon,15,FirstHalf,Pass,Successful,33.1,41.8,45,33.6
+119,468190,Arthur Avom,863,Cameroon,15,FirstHalf,Pass,Unsuccessful,49.2,33.6,75.7,48.4
+133,457254,Nkosinathi Sibisi,485,South Africa,15,FirstHalf,Clearance,Successful,22.1,53.1,24.2,28.5
+134,458440,Siyabonga Ngezana,485,South Africa,15,FirstHalf,BallRecovery,Successful,24.2,28.5,,
+135,458440,Siyabonga Ngezana,485,South Africa,15,FirstHalf,Pass,Successful,27.7,24.6,24.4,23.9
+136,457250,Khuliso Mudau,485,South Africa,15,FirstHalf,Pass,Successful,24.4,23.9,29.9,37.3
+137,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,TakeOn,Unsuccessful,32,42.2,,
+120,436048,Carlos Baleba,863,Cameroon,15,FirstHalf,Tackle,Unsuccessful,68,57.8,,
+138,457247,Teboho Mokoena,485,South Africa,15,FirstHalf,Pass,Successful,30.6,42.5,42,60.6
+139,527865,Relebohile Mofokeng,485,South Africa,15,FirstHalf,Pass,Successful,38.7,56,52,43.2
+140,464874,Bathusi Aubaas,485,South Africa,15,FirstHalf,Pass,Successful,51,41.3,57.3,48.5
+141,509374,Oswin Appollis,485,South Africa,15,FirstHalf,Pass,Successful,56.5,43.4,60.3,11.6
+142,457250,Khuliso Mudau,485,South Africa,15,FirstHalf,Pass,Successful,72.1,14.6,78.5,23.7
+143,509374,Oswin Appollis,485,South Africa,16,FirstHalf,Pass,Unsuccessful,87.1,25.6,87.9,33.6
+122,443793,Samuel Kotto,863,Cameroon,16,FirstHalf,Clearance,Successful,12.8,57.9,26.5,85.3
+144,457250,Khuliso Mudau,485,South Africa,16,FirstHalf,Pass,Successful,74.6,16.8,67.8,21.6
+145,464874,Bathusi Aubaas,485,South Africa,16,FirstHalf,Pass,Successful,66.1,27.9,68.7,36
+146,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Pass,Successful,68.7,36,63.8,25.8
+147,464874,Bathusi Aubaas,485,South Africa,16,FirstHalf,Pass,Successful,63.8,25.8,54.9,44.8
+148,457254,Nkosinathi Sibisi,485,South Africa,16,FirstHalf,Pass,Successful,54.9,44.8,57.2,65.7
+149,563880,Mbekezeli Mbokazi,485,South Africa,16,FirstHalf,Pass,Successful,56.9,68.7,68.4,92.7
+150,554736,Samukele Kabini,485,South Africa,16,FirstHalf,Pass,Successful,68.4,92.7,40.6,72.7
+151,563880,Mbekezeli Mbokazi,485,South Africa,16,FirstHalf,Pass,Successful,39.6,67,41.9,26.7
+152,458440,Siyabonga Ngezana,485,South Africa,16,FirstHalf,Pass,Successful,45.1,26.7,63.1,22.4
+153,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Pass,Successful,63.8,20.7,71.6,6.5
+154,457250,Khuliso Mudau,485,South Africa,16,FirstHalf,Pass,Successful,71.6,6.5,64,9.8
+155,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Pass,Successful,64,9.8,52.6,21.5
+156,458440,Siyabonga Ngezana,485,South Africa,16,FirstHalf,Pass,Successful,55,24,45.8,41.3
+157,457254,Nkosinathi Sibisi,485,South Africa,16,FirstHalf,Pass,Successful,45.8,41.3,41.4,22.8
+158,458440,Siyabonga Ngezana,485,South Africa,16,FirstHalf,Pass,Successful,41.4,22.8,53.7,11.4
+159,457247,Teboho Mokoena,485,South Africa,16,FirstHalf,Pass,Successful,53.7,11.4,34.6,10.7
+160,458440,Siyabonga Ngezana,485,South Africa,16,FirstHalf,Pass,Successful,34.5,10.7,11.6,34.2
+161,99002,Ronwen Williams,485,South Africa,16,FirstHalf,Pass,Successful,11.6,34.2,21.7,73.8
+162,563880,Mbekezeli Mbokazi,485,South Africa,16,FirstHalf,Pass,Unsuccessful,36.5,77.5,57.6,79
+123,407649,Junior Tchamadeu,863,Cameroon,16,FirstHalf,Interception,Successful,39.7,21.3,,
+163,527865,Relebohile Mofokeng,485,South Africa,16,FirstHalf,BallTouch,Unsuccessful,56.6,83.2,,
+124,463416,Che Malone,863,Cameroon,16,FirstHalf,Pass,Successful,42.3,13.5,54.6,19
+126,342857,Danny Namaso,863,Cameroon,17,FirstHalf,Pass,Successful,46.2,18,39.2,25.6
+125,468190,Arthur Avom,863,Cameroon,17,FirstHalf,BallRecovery,Successful,41.3,26,,
+127,468190,Arthur Avom,863,Cameroon,17,FirstHalf,Pass,Successful,38,26.6,29.5,14.6
+128,463416,Che Malone,863,Cameroon,17,FirstHalf,Pass,Successful,25.9,14.6,5.1,30.7
+129,139110,Dévis Epassy,863,Cameroon,17,FirstHalf,Pass,Unsuccessful,6.6,23.2,52.1,30.6
+164,563880,Mbekezeli Mbokazi,485,South Africa,17,FirstHalf,Pass,Unsuccessful,44.4,69.4,51.7,69.1
+130,342857,Danny Namaso,863,Cameroon,17,FirstHalf,Pass,Unsuccessful,42.4,28.8,43.5,20.1
+165,527865,Relebohile Mofokeng,485,South Africa,17,FirstHalf,BallRecovery,Successful,57,79,,
+166,527865,Relebohile Mofokeng,485,South Africa,17,FirstHalf,Pass,Successful,57,79,52.3,70.9
+167,457247,Teboho Mokoena,485,South Africa,17,FirstHalf,Pass,Successful,52.3,70.9,57.4,41.9
+168,509374,Oswin Appollis,485,South Africa,17,FirstHalf,Pass,Successful,56.2,41.5,56.9,23.7
+169,457250,Khuliso Mudau,485,South Africa,17,FirstHalf,Pass,Successful,58.9,23.4,51.6,30
+170,457247,Teboho Mokoena,485,South Africa,17,FirstHalf,Pass,Successful,44.3,36.7,47.3,51
+171,464874,Bathusi Aubaas,485,South Africa,17,FirstHalf,Pass,Successful,41.1,42.1,32.2,25
+172,458440,Siyabonga Ngezana,485,South Africa,17,FirstHalf,Pass,Successful,30.5,27.9,11.8,32.1
+176,99002,Ronwen Williams,485,South Africa,19,FirstHalf,KeeperPickup,Successful,10.5,39.1,,
+177,99002,Ronwen Williams,485,South Africa,19,FirstHalf,Pass,Successful,10.5,39.1,28.7,67.6
+178,464874,Bathusi Aubaas,485,South Africa,19,FirstHalf,Pass,Successful,32.6,68.4,42.8,73
+179,527865,Relebohile Mofokeng,485,South Africa,19,FirstHalf,Pass,Successful,42.8,73,31.2,65.8
+180,464874,Bathusi Aubaas,485,South Africa,19,FirstHalf,Pass,Successful,31.8,62.3,41,39.5
+181,457247,Teboho Mokoena,485,South Africa,19,FirstHalf,Pass,Successful,40.9,35.7,68,6.7
+182,457250,Khuliso Mudau,485,South Africa,19,FirstHalf,Pass,Successful,71,10,63.4,14.9
+183,509374,Oswin Appollis,485,South Africa,19,FirstHalf,Pass,Successful,63.4,14.9,57.4,24.7
+184,457247,Teboho Mokoena,485,South Africa,19,FirstHalf,Pass,Successful,57.4,24.7,63.6,38.8
+185,464874,Bathusi Aubaas,485,South Africa,19,FirstHalf,Pass,Successful,63.6,38.8,54.4,23.4
+186,457247,Teboho Mokoena,485,South Africa,19,FirstHalf,Pass,Successful,55.3,33.6,58.9,69.6
+187,563880,Mbekezeli Mbokazi,485,South Africa,19,FirstHalf,Pass,Successful,58.9,69.6,62.2,40
+188,457247,Teboho Mokoena,485,South Africa,19,FirstHalf,Pass,Successful,61.6,37.3,81.5,5
+189,457250,Khuliso Mudau,485,South Africa,19,FirstHalf,Pass,Unsuccessful,86.3,7.4,91.2,40.9
+136,443793,Samuel Kotto,863,Cameroon,19,FirstHalf,Clearance,Successful,11,57,4.5,100
+191,457250,Khuliso Mudau,485,South Africa,19,FirstHalf,Pass,Successful,89.3,0,59.9,4.7
+192,458440,Siyabonga Ngezana,485,South Africa,20,FirstHalf,Pass,Successful,57.1,11,51.3,39.8
+193,457254,Nkosinathi Sibisi,485,South Africa,20,FirstHalf,Pass,Successful,52.6,46.9,56.3,69.7
+194,563880,Mbekezeli Mbokazi,485,South Africa,20,FirstHalf,Pass,Successful,56,69.3,53.8,54.5
+195,457254,Nkosinathi Sibisi,485,South Africa,20,FirstHalf,Pass,Successful,53,49.6,86.9,5
+196,457250,Khuliso Mudau,485,South Africa,20,FirstHalf,BallTouch,Unsuccessful,85.6,5.5,,
+138,444789,Darlin Yongwa,863,Cameroon,20,FirstHalf,BallRecovery,Successful,17.9,85.6,,
+139,444789,Darlin Yongwa,863,Cameroon,20,FirstHalf,TakeOn,Successful,35.9,90.8,,
+198,457247,Teboho Mokoena,485,South Africa,20,FirstHalf,Challenge,Unsuccessful,64.1,9.2,,
+140,444789,Darlin Yongwa,863,Cameroon,20,FirstHalf,Pass,Successful,37,81.1,55.4,86.7
+141,342857,Danny Namaso,863,Cameroon,20,FirstHalf,TakeOn,Unsuccessful,51.2,91.4,,
+199,458440,Siyabonga Ngezana,485,South Africa,20,FirstHalf,Tackle,Successful,48.8,8.6,,
+143,444789,Darlin Yongwa,863,Cameroon,20,FirstHalf,SubstitutionOff,Successful,0,0,,
+144,502951,Aboubakar Nagida,863,Cameroon,20,FirstHalf,SubstitutionOn,Successful,0,0,,
+145,502951,Aboubakar Nagida,863,Cameroon,20,FirstHalf,Pass,Successful,58.7,100,23.1,90.7
+146,443793,Samuel Kotto,863,Cameroon,20,FirstHalf,Pass,Successful,19.8,83.4,7.9,51.9
+147,139110,Dévis Epassy,863,Cameroon,21,FirstHalf,Pass,Successful,14,42.7,23.5,51.9
+148,436048,Carlos Baleba,863,Cameroon,21,FirstHalf,Pass,Successful,23.8,52,13.6,78.9
+149,443793,Samuel Kotto,863,Cameroon,21,FirstHalf,Pass,Successful,31.3,81.1,54.7,82.6
+150,342857,Danny Namaso,863,Cameroon,21,FirstHalf,Pass,Unsuccessful,57.5,84.1,88.7,85.2
+201,457250,Khuliso Mudau,485,South Africa,21,FirstHalf,Clearance,Successful,9.9,15.8,7.5,6.5
+152,502951,Aboubakar Nagida,863,Cameroon,21,FirstHalf,BallTouch,Unsuccessful,88.8,95.4,,
+204,458440,Siyabonga Ngezana,485,South Africa,21,FirstHalf,Pass,Successful,16.3,0,29.2,13.4
+205,371447,Lyle Foster,485,South Africa,21,FirstHalf,Pass,Successful,27.7,19.1,34.5,30.9
+206,527865,Relebohile Mofokeng,485,South Africa,21,FirstHalf,Pass,Successful,34.5,30.9,33.6,23.3
+207,371447,Lyle Foster,485,South Africa,21,FirstHalf,Pass,Unsuccessful,40.4,27.7,58.9,59.9
+153,407649,Junior Tchamadeu,863,Cameroon,22,FirstHalf,BallRecovery,Successful,39.3,35.8,,
+154,407649,Junior Tchamadeu,863,Cameroon,22,FirstHalf,Pass,Successful,40.4,36.6,46.4,48.4
+155,468190,Arthur Avom,863,Cameroon,22,FirstHalf,Pass,Successful,44.8,52,30.4,58.8
+156,443793,Samuel Kotto,863,Cameroon,22,FirstHalf,Pass,Successful,29.4,57.7,31.8,33.3
+157,463416,Che Malone,863,Cameroon,22,FirstHalf,Pass,Successful,33.3,32.8,45.3,22.2
+158,353377,Bryan Mbeumo,863,Cameroon,22,FirstHalf,Pass,Successful,46.3,21.4,37.9,9.7
+159,407649,Junior Tchamadeu,863,Cameroon,22,FirstHalf,Pass,Successful,37.9,9.7,68,7.5
+160,353377,Bryan Mbeumo,863,Cameroon,22,FirstHalf,Pass,Unsuccessful,89.6,21.1,90.6,25.5
+208,563880,Mbekezeli Mbokazi,485,South Africa,22,FirstHalf,Clearance,Successful,9.4,74.5,,
+161,407649,Junior Tchamadeu,863,Cameroon,22,FirstHalf,Pass,Successful,75,15.7,87.3,11.7
+162,353377,Bryan Mbeumo,863,Cameroon,22,FirstHalf,Pass,Successful,86.9,10.5,69.3,17.1
+163,463416,Che Malone,863,Cameroon,22,FirstHalf,Pass,Successful,71,19.5,89.5,93.7
+164,502951,Aboubakar Nagida,863,Cameroon,22,FirstHalf,Pass,Successful,88.3,91.8,88,69.1
+165,342857,Danny Namaso,863,Cameroon,22,FirstHalf,Pass,Successful,90.9,75.4,79.3,71.5
+166,468190,Arthur Avom,863,Cameroon,22,FirstHalf,Dispossessed,Successful,80.2,69.8,,
+209,464874,Bathusi Aubaas,485,South Africa,22,FirstHalf,Tackle,Successful,19.8,30.2,,
+210,509374,Oswin Appollis,485,South Africa,22,FirstHalf,BallRecovery,Successful,20.4,31.8,,
+212,509374,Oswin Appollis,485,South Africa,22,FirstHalf,TakeOn,Unsuccessful,20.7,30.6,,
+167,436048,Carlos Baleba,863,Cameroon,22,FirstHalf,Tackle,Successful,79.3,69.4,,
+168,436048,Carlos Baleba,863,Cameroon,22,FirstHalf,BallRecovery,Successful,77.1,72.9,,
+169,436048,Carlos Baleba,863,Cameroon,22,FirstHalf,Pass,Successful,77.1,72.9,89,90.9
+170,502951,Aboubakar Nagida,863,Cameroon,22,FirstHalf,Pass,Unsuccessful,92.4,91.9,90.7,88.6
+213,457250,Khuliso Mudau,485,South Africa,22,FirstHalf,BlockedPass,Successful,9.3,11.4,,
+171,502951,Aboubakar Nagida,863,Cameroon,22,FirstHalf,Pass,Successful,89.2,92.7,76.2,86.7
+172,468190,Arthur Avom,863,Cameroon,23,FirstHalf,Pass,Unsuccessful,76.2,85.6,100,32.1
+215,457254,Nkosinathi Sibisi,485,South Africa,23,FirstHalf,Pass,Successful,5,63,3.9,51
+216,99002,Ronwen Williams,485,South Africa,23,FirstHalf,Pass,Successful,11.2,49,8.7,18.3
+217,458440,Siyabonga Ngezana,485,South Africa,23,FirstHalf,Pass,Unsuccessful,8.1,12,20.6,7.1
+174,502951,Aboubakar Nagida,863,Cameroon,23,FirstHalf,Pass,Unsuccessful,60.7,84,87.7,87.1
+218,458440,Siyabonga Ngezana,485,South Africa,23,FirstHalf,Foul,Successful,8.6,12,,
+175,550465,Christian Kofane,863,Cameroon,23,FirstHalf,Foul,Unsuccessful,91.4,88,,
+219,458440,Siyabonga Ngezana,485,South Africa,24,FirstHalf,Pass,Successful,13,8.2,9,25.2
+220,99002,Ronwen Williams,485,South Africa,24,FirstHalf,Pass,Unsuccessful,9.2,25.2,43.4,16.5
+176,335583,Nouhou Tolo,863,Cameroon,24,FirstHalf,Aerial,Successful,56.6,83.5,,
+221,509374,Oswin Appollis,485,South Africa,24,FirstHalf,Aerial,Unsuccessful,43.4,16.5,,
+177,335583,Nouhou Tolo,863,Cameroon,24,FirstHalf,Pass,Successful,56.6,83.5,70.4,74.8
+178,468190,Arthur Avom,863,Cameroon,24,FirstHalf,BallRecovery,Successful,69.6,72.6,,
+179,468190,Arthur Avom,863,Cameroon,24,FirstHalf,Foul,Successful,67.6,66.8,,
+222,457247,Teboho Mokoena,485,South Africa,24,FirstHalf,Foul,Unsuccessful,32.4,33.2,,
+180,353377,Bryan Mbeumo,863,Cameroon,25,FirstHalf,Pass,Unsuccessful,64.2,67.2,82.4,51.6
+243,563880,Mbekezeli Mbokazi,485,South Africa,25,FirstHalf,Aerial,Successful,17.6,48.4,,
+181,463416,Che Malone,863,Cameroon,25,FirstHalf,Aerial,Unsuccessful,82.4,51.6,,
+223,563880,Mbekezeli Mbokazi,485,South Africa,25,FirstHalf,Clearance,Successful,17.6,48.4,31.3,43.4
+182,436048,Carlos Baleba,863,Cameroon,25,FirstHalf,Aerial,Successful,68.7,56.6,,
+224,527865,Relebohile Mofokeng,485,South Africa,25,FirstHalf,Aerial,Unsuccessful,31.3,43.4,,
+183,436048,Carlos Baleba,863,Cameroon,25,FirstHalf,Pass,Successful,68.7,56.6,67.4,37.9
+184,468190,Arthur Avom,863,Cameroon,25,FirstHalf,Pass,Successful,67.4,37.9,53.7,48.9
+185,407649,Junior Tchamadeu,863,Cameroon,25,FirstHalf,Pass,Successful,53.6,48.7,63.6,17.4
+186,468190,Arthur Avom,863,Cameroon,25,FirstHalf,Pass,Unsuccessful,63.7,15.4,76.4,10
+225,554736,Samukele Kabini,485,South Africa,25,FirstHalf,Interception,Successful,23.6,90,,
+226,554736,Samukele Kabini,485,South Africa,25,FirstHalf,Pass,Unsuccessful,24.6,96.9,25.5,95.1
+643,468190,Arthur Avom,863,Cameroon,25,FirstHalf,BallTouch,Successful,75.3,6.4,,
+227,464874,Bathusi Aubaas,485,South Africa,25,FirstHalf,BallRecovery,Successful,16.2,85.7,,
+229,464874,Bathusi Aubaas,485,South Africa,25,FirstHalf,Foul,Successful,21,84.8,,
+187,443793,Samuel Kotto,863,Cameroon,25,FirstHalf,Foul,Unsuccessful,79,15.2,,
+230,563880,Mbekezeli Mbokazi,485,South Africa,25,FirstHalf,Pass,Successful,19.1,83.2,9.1,57.6
+231,99002,Ronwen Williams,485,South Africa,25,FirstHalf,Pass,Successful,9.1,52.5,14.4,25.3
+232,458440,Siyabonga Ngezana,485,South Africa,25,FirstHalf,Pass,Successful,14.4,25.3,18.4,3.7
+233,457250,Khuliso Mudau,485,South Africa,25,FirstHalf,Pass,Unsuccessful,18.4,3.7,57,8.9
+188,463416,Che Malone,863,Cameroon,25,FirstHalf,Clearance,Successful,37,91.6,43,100
+235,457250,Khuliso Mudau,485,South Africa,25,FirstHalf,Pass,Successful,45,0,29.5,15.2
+236,458440,Siyabonga Ngezana,485,South Africa,25,FirstHalf,Pass,Successful,39.1,13.7,32.6,46
+237,457254,Nkosinathi Sibisi,485,South Africa,26,FirstHalf,Pass,Successful,32.2,47.6,43.9,82.4
+238,563880,Mbekezeli Mbokazi,485,South Africa,26,FirstHalf,Pass,Successful,42.2,83.9,31.5,65.2
+239,457254,Nkosinathi Sibisi,485,South Africa,26,FirstHalf,Pass,Successful,31.5,65.2,42.4,31.9
+240,457247,Teboho Mokoena,485,South Africa,26,FirstHalf,Pass,Unsuccessful,44.7,24.4,77.9,28.2
+190,443793,Samuel Kotto,863,Cameroon,26,FirstHalf,Clearance,Successful,21.9,59.8,28.7,62.7
+241,509374,Oswin Appollis,485,South Africa,26,FirstHalf,SavedShot,Successful,84.9,40.3,,
+191,443793,Samuel Kotto,863,Cameroon,26,FirstHalf,Save,Successful,12.7,61,,
+192,342857,Danny Namaso,863,Cameroon,26,FirstHalf,BallRecovery,Successful,24.8,55,,
+193,342857,Danny Namaso,863,Cameroon,26,FirstHalf,Pass,Successful,25,55,24.8,46.5
+194,468190,Arthur Avom,863,Cameroon,26,FirstHalf,Pass,Successful,24.8,46.5,39.3,33.3
+195,353377,Bryan Mbeumo,863,Cameroon,26,FirstHalf,Pass,Successful,37.6,57.9,37,86.2
+196,502951,Aboubakar Nagida,863,Cameroon,26,FirstHalf,Pass,Successful,53.9,90,53.2,78.7
+197,353377,Bryan Mbeumo,863,Cameroon,26,FirstHalf,Pass,Successful,56,72,44.9,29.7
+198,463416,Che Malone,863,Cameroon,26,FirstHalf,Pass,Successful,49.3,30.3,61.9,58.6
+199,342857,Danny Namaso,863,Cameroon,26,FirstHalf,Pass,Successful,61.9,58.6,55.4,48.3
+200,436048,Carlos Baleba,863,Cameroon,26,FirstHalf,Pass,Successful,55.4,48.3,55.2,72.1
+201,335583,Nouhou Tolo,863,Cameroon,26,FirstHalf,Pass,Successful,56.2,73.9,40.9,56.2
+202,443793,Samuel Kotto,863,Cameroon,26,FirstHalf,Pass,Successful,40.5,54.3,38,17.8
+203,463416,Che Malone,863,Cameroon,26,FirstHalf,Pass,Unsuccessful,38,17.8,71.2,25.3
+244,563880,Mbekezeli Mbokazi,485,South Africa,26,FirstHalf,BallRecovery,Successful,25.9,78.4,,
+245,563880,Mbekezeli Mbokazi,485,South Africa,27,FirstHalf,Pass,Successful,28.1,92.1,83.8,90
+246,527865,Relebohile Mofokeng,485,South Africa,27,FirstHalf,TakeOn,Unsuccessful,84.1,88.2,,
+204,463416,Che Malone,863,Cameroon,27,FirstHalf,Tackle,Successful,15.9,11.8,,
+207,463416,Che Malone,863,Cameroon,27,FirstHalf,CornerAwarded,Unsuccessful,8,36.8,,
+247,527865,Relebohile Mofokeng,485,South Africa,27,FirstHalf,CornerAwarded,Successful,92,63.2,,
+248,509374,Oswin Appollis,485,South Africa,27,FirstHalf,Pass,Unsuccessful,99.6,99.5,95.8,49.4
+644,443793,Samuel Kotto,863,Cameroon,27,FirstHalf,Clearance,Successful,5.8,47.8,6.4,56.5
+208,407649,Junior Tchamadeu,863,Cameroon,27,FirstHalf,BallTouch,Successful,4.8,54.6,,
+209,353377,Bryan Mbeumo,863,Cameroon,28,FirstHalf,BallRecovery,Successful,19.4,83.5,,
+210,353377,Bryan Mbeumo,863,Cameroon,28,FirstHalf,Pass,Successful,19.7,86.2,11.4,79.9
+211,502951,Aboubakar Nagida,863,Cameroon,28,FirstHalf,Pass,Successful,31.9,82.2,35.5,93
+212,353377,Bryan Mbeumo,863,Cameroon,28,FirstHalf,Pass,Successful,35.5,93,34.1,81.6
+213,502951,Aboubakar Nagida,863,Cameroon,28,FirstHalf,Pass,Successful,35.1,80.8,45.8,92.2
+214,353377,Bryan Mbeumo,863,Cameroon,28,FirstHalf,Pass,Successful,46.4,91.8,39.6,70.8
+215,342857,Danny Namaso,863,Cameroon,28,FirstHalf,Pass,Successful,38,68.8,38.7,27.6
+216,463416,Che Malone,863,Cameroon,28,FirstHalf,Pass,Successful,39,27.2,47.4,9
+217,407649,Junior Tchamadeu,863,Cameroon,28,FirstHalf,Pass,Successful,47.9,10.1,38.7,20.1
+218,463416,Che Malone,863,Cameroon,28,FirstHalf,Pass,Successful,43.3,23.8,43.8,33.4
+219,436048,Carlos Baleba,863,Cameroon,28,FirstHalf,Pass,Successful,43.8,33.4,36.5,18
+220,463416,Che Malone,863,Cameroon,28,FirstHalf,Pass,Successful,37.1,19.2,9.8,32.4
+221,139110,Dévis Epassy,863,Cameroon,28,FirstHalf,Pass,Unsuccessful,20,31.3,64.8,47.4
+249,457254,Nkosinathi Sibisi,485,South Africa,28,FirstHalf,BallRecovery,Successful,27.4,50.4,,
+250,457254,Nkosinathi Sibisi,485,South Africa,28,FirstHalf,Pass,Successful,27.4,50.4,30.2,36.3
+251,457250,Khuliso Mudau,485,South Africa,28,FirstHalf,Pass,Successful,31.5,33.9,39.8,37.9
+252,457247,Teboho Mokoena,485,South Africa,28,FirstHalf,Foul,Successful,42.3,30.9,,
+222,342857,Danny Namaso,863,Cameroon,28,FirstHalf,Foul,Unsuccessful,57.7,69.1,,
+253,458440,Siyabonga Ngezana,485,South Africa,29,FirstHalf,Pass,Successful,39.1,33.6,33,53.4
+254,457254,Nkosinathi Sibisi,485,South Africa,29,FirstHalf,Pass,Successful,34,55.2,41.5,71.1
+255,563880,Mbekezeli Mbokazi,485,South Africa,29,FirstHalf,Pass,Successful,41.5,71.1,32.1,56.6
+256,457254,Nkosinathi Sibisi,485,South Africa,29,FirstHalf,Pass,Successful,32.1,54.8,34.3,31
+257,458440,Siyabonga Ngezana,485,South Africa,29,FirstHalf,Pass,Successful,38.9,30.6,36.4,56.6
+258,457254,Nkosinathi Sibisi,485,South Africa,29,FirstHalf,Pass,Successful,36.4,56.6,43.8,82
+259,563880,Mbekezeli Mbokazi,485,South Africa,29,FirstHalf,Pass,Unsuccessful,45.9,85,88.1,54.5
+223,139110,Dévis Epassy,863,Cameroon,29,FirstHalf,KeeperPickup,Successful,13.3,40,,
+225,139110,Dévis Epassy,863,Cameroon,29,FirstHalf,Pass,Successful,11.4,48.7,15.8,71.2
+226,443793,Samuel Kotto,863,Cameroon,29,FirstHalf,Pass,Successful,16.9,72.8,26.8,62.6
+227,468190,Arthur Avom,863,Cameroon,29,FirstHalf,Pass,Successful,24.6,59.7,8.8,50.7
+228,139110,Dévis Epassy,863,Cameroon,29,FirstHalf,Pass,Successful,6.7,42,21.6,17.4
+229,463416,Che Malone,863,Cameroon,29,FirstHalf,Foul,Successful,26.6,7.8,,
+261,527865,Relebohile Mofokeng,485,South Africa,29,FirstHalf,Foul,Unsuccessful,73.5,92.3,,
+230,463416,Che Malone,863,Cameroon,30,FirstHalf,Pass,Successful,29.7,9.7,27.7,27
+231,468190,Arthur Avom,863,Cameroon,30,FirstHalf,Pass,Successful,26.3,36.7,25.1,89.5
+232,335583,Nouhou Tolo,863,Cameroon,30,FirstHalf,Pass,Successful,25.1,89.8,29.5,70.3
+233,468190,Arthur Avom,863,Cameroon,30,FirstHalf,Pass,Unsuccessful,35.1,72.1,65.8,60.3
+262,458440,Siyabonga Ngezana,485,South Africa,30,FirstHalf,BallRecovery,Successful,35.9,36.3,,
+263,458440,Siyabonga Ngezana,485,South Africa,30,FirstHalf,Pass,Successful,35.7,36.3,39.2,66
+264,563880,Mbekezeli Mbokazi,485,South Africa,30,FirstHalf,Pass,Successful,39.2,66,30.6,53.6
+265,457254,Nkosinathi Sibisi,485,South Africa,30,FirstHalf,Pass,Successful,30.6,53.6,34.6,32.8
+266,458440,Siyabonga Ngezana,485,South Africa,30,FirstHalf,Pass,Successful,34.6,32.8,41.3,28.6
+267,457247,Teboho Mokoena,485,South Africa,30,FirstHalf,Pass,Successful,41.3,28.6,31.2,56.7
+268,457254,Nkosinathi Sibisi,485,South Africa,30,FirstHalf,Pass,Successful,31.2,56.7,33.8,36.1
+269,458440,Siyabonga Ngezana,485,South Africa,30,FirstHalf,Pass,Successful,33.8,36.1,45.3,12.9
+270,457247,Teboho Mokoena,485,South Africa,30,FirstHalf,Pass,Successful,45.3,12.9,35.2,30.9
+271,458440,Siyabonga Ngezana,485,South Africa,30,FirstHalf,Pass,Successful,31.1,44.4,3.3,41.7
+272,99002,Ronwen Williams,485,South Africa,30,FirstHalf,Pass,Unsuccessful,3,41.3,34.4,40.1
+234,468190,Arthur Avom,863,Cameroon,31,FirstHalf,Pass,Unsuccessful,60,60,75,63
+235,342857,Danny Namaso,863,Cameroon,31,FirstHalf,Foul,Successful,71.8,71.2,,
+273,458440,Siyabonga Ngezana,485,South Africa,31,FirstHalf,Foul,Unsuccessful,28.2,28.8,,
+274,458440,Siyabonga Ngezana,485,South Africa,31,FirstHalf,Card,Successful,0,0,,
+236,353377,Bryan Mbeumo,863,Cameroon,32,FirstHalf,Pass,Unsuccessful,68.9,75.9,89.4,51.4
+275,563880,Mbekezeli Mbokazi,485,South Africa,32,FirstHalf,Aerial,Successful,10.6,48.6,,
+237,335583,Nouhou Tolo,863,Cameroon,32,FirstHalf,Aerial,Unsuccessful,89.4,51.4,,
+276,563880,Mbekezeli Mbokazi,485,South Africa,32,FirstHalf,Clearance,Successful,10.6,48.6,0,76.1
+238,353377,Bryan Mbeumo,863,Cameroon,32,FirstHalf,CornerAwarded,Successful,97.2,34.2,,
+277,563880,Mbekezeli Mbokazi,485,South Africa,32,FirstHalf,CornerAwarded,Unsuccessful,2.8,65.8,,
+239,353377,Bryan Mbeumo,863,Cameroon,33,FirstHalf,Pass,Unsuccessful,99.5,0.5,93.2,46
+278,371447,Lyle Foster,485,South Africa,33,FirstHalf,Clearance,Successful,7.8,58.7,24.5,41.3
+240,436048,Carlos Baleba,863,Cameroon,33,FirstHalf,SavedShot,Successful,80.8,51.9,,
+242,443793,Samuel Kotto,863,Cameroon,33,FirstHalf,BallTouch,Successful,91.7,50.8,,
+241,407649,Junior Tchamadeu,863,Cameroon,33,FirstHalf,Goal,Successful,93.4,58.7,,
+279,371447,Lyle Foster,485,South Africa,36,FirstHalf,Pass,Successful,49.9,50.3,41.7,56
+280,464874,Bathusi Aubaas,485,South Africa,36,FirstHalf,Pass,Successful,41.7,56,49.1,86.9
+281,554736,Samukele Kabini,485,South Africa,36,FirstHalf,Pass,Successful,48.3,87.2,43.9,76.1
+282,464874,Bathusi Aubaas,485,South Africa,36,FirstHalf,Pass,Successful,40,68.8,37.2,26.1
+283,458440,Siyabonga Ngezana,485,South Africa,36,FirstHalf,Pass,Successful,39.5,21,44.9,5.8
+284,457250,Khuliso Mudau,485,South Africa,36,FirstHalf,Pass,Successful,44.9,5.8,46.6,13.7
+285,457247,Teboho Mokoena,485,South Africa,36,FirstHalf,Pass,Unsuccessful,46.2,16.2,51.7,13.1
+243,468190,Arthur Avom,863,Cameroon,36,FirstHalf,BlockedPass,Successful,47.7,84.2,,
+287,457250,Khuliso Mudau,485,South Africa,36,FirstHalf,Pass,Successful,42.4,0,23.2,5.9
+288,458440,Siyabonga Ngezana,485,South Africa,36,FirstHalf,Pass,Successful,25,11.6,27.2,43.1
+289,457254,Nkosinathi Sibisi,485,South Africa,36,FirstHalf,Pass,Successful,27.5,42.1,35.9,27
+290,457247,Teboho Mokoena,485,South Africa,36,FirstHalf,Pass,Unsuccessful,38.7,28.5,42.1,28.6
+250,468190,Arthur Avom,863,Cameroon,36,FirstHalf,BallTouch,Successful,62.2,66.9,,
+245,342857,Danny Namaso,863,Cameroon,36,FirstHalf,BallTouch,Successful,55.7,58.1,,
+247,468190,Arthur Avom,863,Cameroon,36,FirstHalf,Pass,Successful,63.4,64.6,66.5,55.2
+246,550465,Christian Kofane,863,Cameroon,36,FirstHalf,BallRecovery,Successful,69.5,68.1,,
+248,550465,Christian Kofane,863,Cameroon,36,FirstHalf,Pass,Successful,74.8,79.7,72.4,79.1
+249,342857,Danny Namaso,863,Cameroon,37,FirstHalf,Foul,Successful,76.4,82.8,,
+292,464874,Bathusi Aubaas,485,South Africa,37,FirstHalf,Foul,Unsuccessful,23.6,17.2,,
+251,342857,Danny Namaso,863,Cameroon,38,FirstHalf,Pass,Successful,73.6,78.4,88.6,48.7
+252,550465,Christian Kofane,863,Cameroon,38,FirstHalf,SavedShot,Successful,88.6,48.7,,
+293,99002,Ronwen Williams,485,South Africa,38,FirstHalf,Save,Successful,3,50.4,,
+294,99002,Ronwen Williams,485,South Africa,38,FirstHalf,KeeperPickup,Successful,3,50.4,,
+295,99002,Ronwen Williams,485,South Africa,38,FirstHalf,Pass,Successful,11.8,41.6,36,8.3
+898,457250,Khuliso Mudau,485,South Africa,38,FirstHalf,TakeOn,Unsuccessful,58.2,12.1,,
+296,457250,Khuliso Mudau,485,South Africa,38,FirstHalf,Foul,Successful,59,10.2,,
+253,342857,Danny Namaso,863,Cameroon,38,FirstHalf,Foul,Unsuccessful,41,89.8,,
+297,457250,Khuliso Mudau,485,South Africa,38,FirstHalf,Pass,Successful,64.2,2.6,59.9,10.7
+298,509374,Oswin Appollis,485,South Africa,38,FirstHalf,Pass,Successful,60.7,12.5,56.3,21
+299,464874,Bathusi Aubaas,485,South Africa,38,FirstHalf,Pass,Successful,57.7,28.4,45.6,44.6
+300,457254,Nkosinathi Sibisi,485,South Africa,38,FirstHalf,Pass,Successful,43.2,45.4,58.1,58.1
+301,527865,Relebohile Mofokeng,485,South Africa,38,FirstHalf,Pass,Successful,55.7,46.6,43.2,16.1
+302,458440,Siyabonga Ngezana,485,South Africa,38,FirstHalf,Pass,Successful,45.1,26.1,49.9,74.1
+303,563880,Mbekezeli Mbokazi,485,South Africa,38,FirstHalf,Pass,Successful,51,76.3,63.4,78.4
+305,527865,Relebohile Mofokeng,485,South Africa,38,FirstHalf,Foul,Successful,70.2,84.6,,
+254,463416,Che Malone,863,Cameroon,38,FirstHalf,Foul,Unsuccessful,29.8,15.4,,
+306,509374,Oswin Appollis,485,South Africa,39,FirstHalf,Pass,Unsuccessful,71.2,86.5,89.4,51.9
+255,335583,Nouhou Tolo,863,Cameroon,39,FirstHalf,Clearance,Successful,14.4,49.9,11.1,57.9
+256,342857,Danny Namaso,863,Cameroon,39,FirstHalf,BallTouch,Successful,11,56.6,,
+307,457254,Nkosinathi Sibisi,485,South Africa,39,FirstHalf,Pass,Successful,87.6,46.9,80.3,37.3
+308,457247,Teboho Mokoena,485,South Africa,39,FirstHalf,SavedShot,Successful,80.3,35,,
+309,554736,Samukele Kabini,485,South Africa,39,FirstHalf,BallTouch,Successful,89.5,39.3,,
+257,342857,Danny Namaso,863,Cameroon,39,FirstHalf,BallRecovery,Successful,9.3,88.8,,
+258,342857,Danny Namaso,863,Cameroon,39,FirstHalf,Pass,Successful,8.5,89.1,8.9,75.6
+259,436048,Carlos Baleba,863,Cameroon,39,FirstHalf,Pass,Successful,10,79.6,57.6,29.7
+260,353377,Bryan Mbeumo,863,Cameroon,39,FirstHalf,Pass,Successful,61.2,30.6,74.8,31.2
+261,550465,Christian Kofane,863,Cameroon,39,FirstHalf,Pass,Successful,87.7,17.4,66.7,15.9
+262,407649,Junior Tchamadeu,863,Cameroon,39,FirstHalf,Pass,Unsuccessful,66.4,20.4,89.5,76.2
+310,458440,Siyabonga Ngezana,485,South Africa,39,FirstHalf,Aerial,Successful,10.5,23.8,,
+263,502951,Aboubakar Nagida,863,Cameroon,39,FirstHalf,Aerial,Unsuccessful,89.5,76.2,,
+311,458440,Siyabonga Ngezana,485,South Africa,39,FirstHalf,Clearance,Successful,12.7,28,14.4,27.4
+264,502951,Aboubakar Nagida,863,Cameroon,39,FirstHalf,BallTouch,Successful,88.8,74.5,,
+265,342857,Danny Namaso,863,Cameroon,39,FirstHalf,MissedShots,Successful,81.8,65.6,,
+11323,371447,Lyle Foster,485,South Africa,40,FirstHalf,OffsideGiven,Unsuccessful,66.7,33.6,,
+313,99002,Ronwen Williams,485,South Africa,40,FirstHalf,Pass,Successful,5,37,18,24.3
+314,458440,Siyabonga Ngezana,485,South Africa,40,FirstHalf,Pass,Successful,19.2,23.9,28,8.5
+315,457250,Khuliso Mudau,485,South Africa,40,FirstHalf,Pass,Successful,28,8.5,35.6,13.5
+316,509374,Oswin Appollis,485,South Africa,40,FirstHalf,Pass,Successful,35.6,13.5,28.1,7.1
+317,457250,Khuliso Mudau,485,South Africa,40,FirstHalf,Pass,Successful,38.5,2.2,68.7,10.9
+318,371447,Lyle Foster,485,South Africa,40,FirstHalf,Pass,Unsuccessful,68.7,10.9,67.3,16.5
+267,335583,Nouhou Tolo,863,Cameroon,40,FirstHalf,BallRecovery,Successful,30.5,75.9,,
+268,335583,Nouhou Tolo,863,Cameroon,40,FirstHalf,Pass,Successful,30,74.7,6.2,56.5
+269,139110,Dévis Epassy,863,Cameroon,40,FirstHalf,Pass,Unsuccessful,9.1,58.8,50.9,100
+320,457250,Khuliso Mudau,485,South Africa,40,FirstHalf,Pass,Successful,47.7,0,32.1,8
+321,458440,Siyabonga Ngezana,485,South Africa,40,FirstHalf,Pass,Successful,32.1,8,31.3,48.7
+322,457254,Nkosinathi Sibisi,485,South Africa,40,FirstHalf,Pass,Successful,33.3,51.5,40.5,27.4
+323,457247,Teboho Mokoena,485,South Africa,40,FirstHalf,OffsidePass,Successful,43.4,27.2,66.7,33.6
+271,443793,Samuel Kotto,863,Cameroon,40,FirstHalf,OffsideProvoked,Successful,30.4,55,,
+272,139110,Dévis Epassy,863,Cameroon,41,FirstHalf,Pass,Successful,28.8,54.7,69.8,69.4
+325,458440,Siyabonga Ngezana,485,South Africa,41,FirstHalf,Foul,Successful,28,33.6,,
+273,550465,Christian Kofane,863,Cameroon,41,FirstHalf,Foul,Unsuccessful,72,66.4,,
+326,458440,Siyabonga Ngezana,485,South Africa,41,FirstHalf,Pass,Successful,24.2,37.3,25.9,15.2
+327,457250,Khuliso Mudau,485,South Africa,41,FirstHalf,Pass,Successful,35,11,26.6,24.6
+328,458440,Siyabonga Ngezana,485,South Africa,41,FirstHalf,Pass,Successful,25,26.5,23.6,56.1
+329,457254,Nkosinathi Sibisi,485,South Africa,41,FirstHalf,Pass,Successful,23.6,56.1,20.2,26.8
+330,458440,Siyabonga Ngezana,485,South Africa,41,FirstHalf,Pass,Successful,20.2,26.8,6,41.8
+331,99002,Ronwen Williams,485,South Africa,41,FirstHalf,Pass,Unsuccessful,6,41.8,55.2,36.3
+274,443793,Samuel Kotto,863,Cameroon,41,FirstHalf,Foul,Successful,46.7,62.8,,
+332,371447,Lyle Foster,485,South Africa,41,FirstHalf,Foul,Unsuccessful,53.3,37.2,,
+275,443793,Samuel Kotto,863,Cameroon,42,FirstHalf,Pass,Successful,43.5,59.5,26.5,47.4
+276,139110,Dévis Epassy,863,Cameroon,42,FirstHalf,Pass,Unsuccessful,27.2,45.3,70.2,48.4
+333,457254,Nkosinathi Sibisi,485,South Africa,42,FirstHalf,Clearance,Successful,26.1,50,40.7,50.4
+277,468190,Arthur Avom,863,Cameroon,42,FirstHalf,Pass,Unsuccessful,57.8,48.1,72.1,57.9
+334,458440,Siyabonga Ngezana,485,South Africa,42,FirstHalf,Pass,Unsuccessful,29.9,40.9,40.2,32.8
+278,468190,Arthur Avom,863,Cameroon,42,FirstHalf,Pass,Successful,62.9,56.4,66.7,83.1
+279,502951,Aboubakar Nagida,863,Cameroon,42,FirstHalf,Pass,Successful,66.7,83.1,47.6,75.4
+280,335583,Nouhou Tolo,863,Cameroon,42,FirstHalf,Pass,Successful,44.6,79.6,19.5,51.6
+281,139110,Dévis Epassy,863,Cameroon,42,FirstHalf,Pass,Unsuccessful,15.6,43.9,67,72.6
+335,457250,Khuliso Mudau,485,South Africa,42,FirstHalf,Clearance,Successful,29.7,28,24.3,0
+283,502951,Aboubakar Nagida,863,Cameroon,42,FirstHalf,Pass,Successful,69.7,100,57,89.7
+284,335583,Nouhou Tolo,863,Cameroon,42,FirstHalf,Pass,Successful,57.8,90.6,64.8,91.6
+285,502951,Aboubakar Nagida,863,Cameroon,42,FirstHalf,Pass,Successful,64.8,91.6,72.5,79.3
+289,468190,Arthur Avom,863,Cameroon,42,FirstHalf,TakeOn,Successful,84.8,91,,
+338,458440,Siyabonga Ngezana,485,South Africa,42,FirstHalf,Challenge,Unsuccessful,15.2,9,,
+286,468190,Arthur Avom,863,Cameroon,42,FirstHalf,TakeOn,Unsuccessful,89.6,89.3,,
+339,458440,Siyabonga Ngezana,485,South Africa,42,FirstHalf,Tackle,Unsuccessful,10.3,10.6,,
+287,468190,Arthur Avom,863,Cameroon,42,FirstHalf,BallTouch,Successful,87.5,85.5,,
+341,99002,Ronwen Williams,485,South Africa,43,FirstHalf,Pass,Successful,4.8,43.4,15.7,15.2
+342,458440,Siyabonga Ngezana,485,South Africa,43,FirstHalf,Pass,Successful,24.9,5.9,65.5,16.4
+343,371447,Lyle Foster,485,South Africa,43,FirstHalf,BallTouch,Unsuccessful,65.5,16.4,,
+290,443793,Samuel Kotto,863,Cameroon,43,FirstHalf,BallRecovery,Successful,38.6,71.8,,
+291,443793,Samuel Kotto,863,Cameroon,43,FirstHalf,Pass,Successful,35,78.1,38.5,90.6
+292,502951,Aboubakar Nagida,863,Cameroon,43,FirstHalf,Pass,Successful,58.5,88.7,67.4,80.3
+293,342857,Danny Namaso,863,Cameroon,43,FirstHalf,Pass,Successful,68,76,62.4,65.8
+294,550465,Christian Kofane,863,Cameroon,43,FirstHalf,Pass,Successful,62.6,64.9,58.4,59.2
+295,436048,Carlos Baleba,863,Cameroon,43,FirstHalf,Pass,Successful,60,57.4,66.4,45.3
+296,550465,Christian Kofane,863,Cameroon,43,FirstHalf,Pass,Successful,65.3,46,63.7,17.7
+297,407649,Junior Tchamadeu,863,Cameroon,43,FirstHalf,Pass,Successful,63.7,17.7,72.7,12.7
+298,353377,Bryan Mbeumo,863,Cameroon,43,FirstHalf,Dispossessed,Successful,76,12.9,,
+345,563880,Mbekezeli Mbokazi,485,South Africa,43,FirstHalf,Tackle,Unsuccessful,24,87.1,,
+299,353377,Bryan Mbeumo,863,Cameroon,43,FirstHalf,BallTouch,Successful,73.5,12.6,,
+347,563880,Mbekezeli Mbokazi,485,South Africa,43,FirstHalf,Pass,Successful,27.7,100,36.6,94.8
+348,527865,Relebohile Mofokeng,485,South Africa,43,FirstHalf,BallTouch,Unsuccessful,36.6,94.8,,
+301,342857,Danny Namaso,863,Cameroon,43,FirstHalf,BallRecovery,Successful,67.6,24,,
+302,342857,Danny Namaso,863,Cameroon,43,FirstHalf,Pass,Successful,68.9,16,52,31.3
+303,463416,Che Malone,863,Cameroon,44,FirstHalf,Pass,Successful,53,34.3,16.6,53.8
+304,139110,Dévis Epassy,863,Cameroon,44,FirstHalf,Pass,Unsuccessful,14.9,51,81.2,100
+350,457250,Khuliso Mudau,485,South Africa,44,FirstHalf,Pass,Unsuccessful,25.5,0,55.8,7.6
+306,443793,Samuel Kotto,863,Cameroon,44,FirstHalf,BallTouch,Successful,44.2,92.4,,
+351,371447,Lyle Foster,485,South Africa,44,FirstHalf,Pass,Successful,64.2,12.1,61.4,39.3
+352,527865,Relebohile Mofokeng,485,South Africa,44,FirstHalf,Pass,Successful,60.4,21.8,72,84.2
+353,554736,Samukele Kabini,485,South Africa,44,FirstHalf,Pass,Successful,70.9,82.7,62.5,78.5
+354,464874,Bathusi Aubaas,485,South Africa,44,FirstHalf,Pass,Successful,62.5,78.5,65.1,66.9
+355,527865,Relebohile Mofokeng,485,South Africa,44,FirstHalf,Pass,Successful,66.6,62,74,34.5
+356,509374,Oswin Appollis,485,South Africa,44,FirstHalf,Pass,Successful,77.8,31.9,88.4,13.8
+357,457250,Khuliso Mudau,485,South Africa,44,FirstHalf,Pass,Unsuccessful,89.8,14.3,90.3,16.8
+307,502951,Aboubakar Nagida,863,Cameroon,44,FirstHalf,Clearance,Successful,9.7,83.2,,
+308,502951,Aboubakar Nagida,863,Cameroon,44,FirstHalf,CornerAwarded,Unsuccessful,9.5,80.2,,
+358,457250,Khuliso Mudau,485,South Africa,44,FirstHalf,CornerAwarded,Successful,90.4,19.8,,
+359,509374,Oswin Appollis,485,South Africa,45,FirstHalf,Pass,Successful,99.5,0.5,86.9,8
+360,527865,Relebohile Mofokeng,485,South Africa,45,FirstHalf,Pass,Successful,89.5,11.7,95.7,69.7
+361,457254,Nkosinathi Sibisi,485,South Africa,45,FirstHalf,Aerial,Successful,93.1,72,,
+309,335583,Nouhou Tolo,863,Cameroon,45,FirstHalf,Aerial,Unsuccessful,6.9,28,,
+362,457254,Nkosinathi Sibisi,485,South Africa,45,FirstHalf,Pass,Successful,93.1,72,87.4,68.2
+363,554736,Samukele Kabini,485,South Africa,45,FirstHalf,Pass,Successful,87.1,69.1,76.2,72.7
+364,457247,Teboho Mokoena,485,South Africa,45,FirstHalf,Pass,Successful,76.1,73,78.7,83.2
+365,554736,Samukele Kabini,485,South Africa,45,FirstHalf,Pass,Successful,77,83.2,71.2,49.3
+366,563880,Mbekezeli Mbokazi,485,South Africa,45,FirstHalf,Pass,Successful,69,46.4,73.4,9.2
+367,527865,Relebohile Mofokeng,485,South Africa,45,FirstHalf,Pass,Successful,73.6,10,88.1,16.7
+368,509374,Oswin Appollis,485,South Africa,45,FirstHalf,TakeOn,Unsuccessful,91.2,17.4,,
+310,353377,Bryan Mbeumo,863,Cameroon,45,FirstHalf,Tackle,Successful,8.8,82.6,,
+311,353377,Bryan Mbeumo,863,Cameroon,45,FirstHalf,CornerAwarded,Unsuccessful,4.2,82.3,,
+369,509374,Oswin Appollis,485,South Africa,45,FirstHalf,CornerAwarded,Successful,95.8,17.7,,
+370,509374,Oswin Appollis,485,South Africa,46,FirstHalf,Pass,Unsuccessful,99.5,0.5,90.1,37
+313,436048,Carlos Baleba,863,Cameroon,46,FirstHalf,Clearance,Successful,8.4,61.7,15.4,90.6
+371,527865,Relebohile Mofokeng,485,South Africa,46,FirstHalf,Pass,Successful,88.3,4.7,88.1,44
+372,464874,Bathusi Aubaas,485,South Africa,46,FirstHalf,Aerial,Successful,88.1,44,,
+314,342857,Danny Namaso,863,Cameroon,46,FirstHalf,Aerial,Unsuccessful,11.9,56,,
+373,464874,Bathusi Aubaas,485,South Africa,46,FirstHalf,MissedShots,Successful,88.1,44,,
+316,139110,Dévis Epassy,863,Cameroon,46,FirstHalf,Pass,Successful,5.2,43.6,63.8,36
+317,550465,Christian Kofane,863,Cameroon,46,FirstHalf,Pass,Successful,64,31.2,53.3,11.7
+318,407649,Junior Tchamadeu,863,Cameroon,46,FirstHalf,Pass,Unsuccessful,52.7,9.4,56,10.7
+375,554736,Samukele Kabini,485,South Africa,46,FirstHalf,BallTouch,Successful,35.9,80.8,,
+376,457247,Teboho Mokoena,485,South Africa,47,FirstHalf,BallTouch,Successful,34.3,76,,
+377,527865,Relebohile Mofokeng,485,South Africa,47,FirstHalf,BallRecovery,Successful,35.1,73.5,,
+378,527865,Relebohile Mofokeng,485,South Africa,47,FirstHalf,Pass,Successful,43.4,77.5,42.3,67.9
+379,464874,Bathusi Aubaas,485,South Africa,47,FirstHalf,Pass,Unsuccessful,38.9,70.5,60.3,70.5
+319,443793,Samuel Kotto,863,Cameroon,47,FirstHalf,Interception,Successful,44.3,34.5,,
+320,436048,Carlos Baleba,863,Cameroon,47,FirstHalf,BallRecovery,Successful,44.8,29.7,,
+321,436048,Carlos Baleba,863,Cameroon,47,FirstHalf,Pass,Successful,44.8,29.7,42.3,18
+322,407649,Junior Tchamadeu,863,Cameroon,47,FirstHalf,Pass,Unsuccessful,46.7,8.6,100,7.8
+382,99002,Ronwen Williams,485,South Africa,47,FirstHalf,Pass,Successful,4.3,55.2,30.1,74.4
+384,457247,Teboho Mokoena,485,South Africa,47,FirstHalf,Pass,Successful,26.2,73.2,29.3,88.6
+385,554736,Samukele Kabini,485,South Africa,47,FirstHalf,Pass,Successful,31.4,89.1,31,76.7
+386,457247,Teboho Mokoena,485,South Africa,47,FirstHalf,Pass,Unsuccessful,32.1,74.4,61.8,78.7
+324,463416,Che Malone,863,Cameroon,47,FirstHalf,BallTouch,Unsuccessful,34.1,40.8,,
+387,371447,Lyle Foster,485,South Africa,47,FirstHalf,BallTouch,Unsuccessful,66.5,54.9,,
+325,502951,Aboubakar Nagida,863,Cameroon,47,FirstHalf,Pass,Successful,37.1,67.5,36.8,46.8
+326,436048,Carlos Baleba,863,Cameroon,47,FirstHalf,Pass,Successful,42.3,46.2,54.3,66.2
+327,550465,Christian Kofane,863,Cameroon,47,FirstHalf,Pass,Successful,52.8,67.5,46.3,76.9
+328,502951,Aboubakar Nagida,863,Cameroon,47,FirstHalf,BallRecovery,Successful,46.2,73.6,,
+329,502951,Aboubakar Nagida,863,Cameroon,47,FirstHalf,Pass,Successful,46.9,74.2,43,65.4
+330,468190,Arthur Avom,863,Cameroon,47,FirstHalf,Pass,Successful,43,65.4,34.4,72.7
+331,335583,Nouhou Tolo,863,Cameroon,47,FirstHalf,Pass,Successful,34.9,72,41.8,73.5
+332,468190,Arthur Avom,863,Cameroon,47,FirstHalf,Pass,Successful,42,73.5,41.9,90.3
+333,502951,Aboubakar Nagida,863,Cameroon,47,FirstHalf,Foul,Successful,23.2,94.4,,
+388,464874,Bathusi Aubaas,485,South Africa,47,FirstHalf,Foul,Unsuccessful,76.8,5.6,,
+334,,,863,Cameroon,48,FirstHalf,End,Successful,0,0,,
+389,,,485,South Africa,48,FirstHalf,End,Successful,0,0,,
+337,,,863,Cameroon,45,SecondHalf,Start,Successful,0,0,,
+390,,,485,South Africa,45,SecondHalf,Start,Successful,0,0,,
+338,353377,Bryan Mbeumo,863,Cameroon,45,SecondHalf,Pass,Successful,49.9,49.8,28.6,57
+339,443793,Samuel Kotto,863,Cameroon,45,SecondHalf,Pass,Unsuccessful,28.7,59.4,68,64.3
+391,458440,Siyabonga Ngezana,485,South Africa,45,SecondHalf,Aerial,Successful,32,35.7,,
+340,550465,Christian Kofane,863,Cameroon,45,SecondHalf,Aerial,Unsuccessful,68,64.3,,
+392,458440,Siyabonga Ngezana,485,South Africa,45,SecondHalf,Pass,Successful,32,35.7,40.2,43.7
+393,527865,Relebohile Mofokeng,485,South Africa,45,SecondHalf,Pass,Successful,40.2,43.7,37.8,41.2
+394,464874,Bathusi Aubaas,485,South Africa,45,SecondHalf,Pass,Successful,38.1,41.2,42.2,47.8
+395,527865,Relebohile Mofokeng,485,South Africa,45,SecondHalf,Pass,Unsuccessful,38.5,46.8,60.1,75
+341,463416,Che Malone,863,Cameroon,45,SecondHalf,Pass,Unsuccessful,42.9,21.3,76.4,29.5
+396,563880,Mbekezeli Mbokazi,485,South Africa,45,SecondHalf,BallRecovery,Successful,22.6,74.7,,
+397,563880,Mbekezeli Mbokazi,485,South Africa,45,SecondHalf,Pass,Successful,33,68.2,37.6,41.8
+398,457247,Teboho Mokoena,485,South Africa,45,SecondHalf,Pass,Successful,35.3,33.4,45.1,29.1
+399,509374,Oswin Appollis,485,South Africa,45,SecondHalf,Pass,Successful,45.1,29.1,41.7,5.8
+400,457250,Khuliso Mudau,485,South Africa,45,SecondHalf,Pass,Unsuccessful,41.7,5.8,47.4,10.6
+342,502951,Aboubakar Nagida,863,Cameroon,45,SecondHalf,BallRecovery,Successful,49.5,75.7,,
+343,502951,Aboubakar Nagida,863,Cameroon,45,SecondHalf,Pass,Successful,57.6,88.5,63,70.1
+344,550465,Christian Kofane,863,Cameroon,45,SecondHalf,Pass,Successful,63.7,68.9,54.4,72.4
+345,436048,Carlos Baleba,863,Cameroon,45,SecondHalf,Pass,Successful,55.7,69.9,85.5,70.5
+346,502951,Aboubakar Nagida,863,Cameroon,45,SecondHalf,Pass,Unsuccessful,86,73.9,94.6,45
+401,563880,Mbekezeli Mbokazi,485,South Africa,45,SecondHalf,Clearance,Successful,3.6,53.3,0,32.2
+347,502951,Aboubakar Nagida,863,Cameroon,45,SecondHalf,CornerAwarded,Successful,98.8,59.2,,
+402,563880,Mbekezeli Mbokazi,485,South Africa,45,SecondHalf,CornerAwarded,Unsuccessful,1.2,40.8,,
+348,342857,Danny Namaso,863,Cameroon,46,SecondHalf,Pass,Unsuccessful,99.5,99.5,94,60
+403,371447,Lyle Foster,485,South Africa,46,SecondHalf,Clearance,Successful,9.4,40.3,26,29.7
+404,509374,Oswin Appollis,485,South Africa,46,SecondHalf,BallRecovery,Successful,24.5,28.2,,
+405,509374,Oswin Appollis,485,South Africa,46,SecondHalf,Pass,Successful,21.5,27.7,12.4,28.9
+406,457250,Khuliso Mudau,485,South Africa,46,SecondHalf,Pass,Unsuccessful,12.5,27,37.3,25
+349,436048,Carlos Baleba,863,Cameroon,46,SecondHalf,Pass,Successful,67.3,68.2,74.7,72.3
+350,342857,Danny Namaso,863,Cameroon,46,SecondHalf,BallRecovery,Successful,74.8,72.3,,
+351,342857,Danny Namaso,863,Cameroon,46,SecondHalf,Pass,Successful,74.9,72.4,86.2,86.1
+352,502951,Aboubakar Nagida,863,Cameroon,46,SecondHalf,Pass,Successful,86.2,86.1,94.2,52.4
+353,550465,Christian Kofane,863,Cameroon,46,SecondHalf,Goal,Successful,94.2,52.4,,
+407,371447,Lyle Foster,485,South Africa,47,SecondHalf,Pass,Successful,50.1,50.1,37.7,45.8
+408,457247,Teboho Mokoena,485,South Africa,47,SecondHalf,Pass,Successful,38.2,47.2,35.3,76.9
+409,563880,Mbekezeli Mbokazi,485,South Africa,47,SecondHalf,Pass,Unsuccessful,37.7,89,65.5,91.2
+354,463416,Che Malone,863,Cameroon,48,SecondHalf,Pass,Successful,33.6,22.3,37.5,17.7
+355,468190,Arthur Avom,863,Cameroon,48,SecondHalf,BallRecovery,Successful,36.4,18.3,,
+356,468190,Arthur Avom,863,Cameroon,48,SecondHalf,Pass,Unsuccessful,34.4,13.9,37.1,12.3
+410,554736,Samukele Kabini,485,South Africa,48,SecondHalf,BlockedPass,Successful,62.9,87.7,,
+358,407649,Junior Tchamadeu,863,Cameroon,48,SecondHalf,Pass,Successful,34.1,0,37,14.2
+359,468190,Arthur Avom,863,Cameroon,48,SecondHalf,Pass,Successful,37,14.2,31.1,4.2
+360,407649,Junior Tchamadeu,863,Cameroon,48,SecondHalf,Pass,Unsuccessful,31.3,5.4,36.6,7.3
+412,527865,Relebohile Mofokeng,485,South Africa,48,SecondHalf,BlockedPass,Successful,63.4,92.7,,
+362,407649,Junior Tchamadeu,863,Cameroon,48,SecondHalf,Pass,Successful,39.2,0,38.8,18.1
+363,436048,Carlos Baleba,863,Cameroon,48,SecondHalf,Pass,Successful,38.7,18.1,37.2,7.9
+364,407649,Junior Tchamadeu,863,Cameroon,48,SecondHalf,Pass,Unsuccessful,36.5,9.4,33.9,44.1
+414,509374,Oswin Appollis,485,South Africa,48,SecondHalf,BallRecovery,Successful,72.5,62.1,,
+415,509374,Oswin Appollis,485,South Africa,48,SecondHalf,Pass,Successful,74.3,62.1,87,65.4
+416,371447,Lyle Foster,485,South Africa,48,SecondHalf,TakeOn,Unsuccessful,88.3,64.6,,
+365,436048,Carlos Baleba,863,Cameroon,48,SecondHalf,Clearance,Successful,16.4,39.9,13.5,31.9
+366,463416,Che Malone,863,Cameroon,48,SecondHalf,Clearance,Successful,16.4,32.5,52.8,46
+417,457254,Nkosinathi Sibisi,485,South Africa,48,SecondHalf,Pass,Unsuccessful,49.1,53.6,72.8,46.3
+367,436048,Carlos Baleba,863,Cameroon,48,SecondHalf,Pass,Successful,33.8,54.2,38.9,43.2
+368,468190,Arthur Avom,863,Cameroon,48,SecondHalf,BallRecovery,Successful,40.9,43.6,,
+369,468190,Arthur Avom,863,Cameroon,48,SecondHalf,Pass,Successful,38.6,47.7,39.5,60.3
+370,436048,Carlos Baleba,863,Cameroon,48,SecondHalf,Pass,Unsuccessful,57.6,69.4,72.9,65.5
+418,457250,Khuliso Mudau,485,South Africa,48,SecondHalf,BallTouch,Successful,29.1,21.3,,
+419,457254,Nkosinathi Sibisi,485,South Africa,48,SecondHalf,Clearance,Successful,25.9,35.5,42.9,11.7
+371,436048,Carlos Baleba,863,Cameroon,48,SecondHalf,BallTouch,Unsuccessful,64.2,82.3,,
+420,509374,Oswin Appollis,485,South Africa,48,SecondHalf,BallRecovery,Successful,42.9,11.7,,
+421,509374,Oswin Appollis,485,South Africa,48,SecondHalf,Pass,Successful,38,16.5,29.2,23
+422,457250,Khuliso Mudau,485,South Africa,49,SecondHalf,Pass,Successful,30.9,23.1,29.7,16.1
+423,458440,Siyabonga Ngezana,485,South Africa,49,SecondHalf,Pass,Successful,30.3,17.4,23.3,38.5
+424,457254,Nkosinathi Sibisi,485,South Africa,49,SecondHalf,Pass,Successful,23.8,40.6,29.6,24.7
+425,458440,Siyabonga Ngezana,485,South Africa,49,SecondHalf,Pass,Successful,29.6,24.7,43.8,14.1
+426,457247,Teboho Mokoena,485,South Africa,49,SecondHalf,Pass,Unsuccessful,44.4,14.3,75,24.7
+372,335583,Nouhou Tolo,863,Cameroon,49,SecondHalf,Clearance,Successful,33.3,68.4,31.6,56.8
+373,463416,Che Malone,863,Cameroon,49,SecondHalf,Pass,Successful,27.6,62,46.2,65.2
+374,436048,Carlos Baleba,863,Cameroon,49,SecondHalf,Aerial,Successful,49.7,53.5,,
+427,464874,Bathusi Aubaas,485,South Africa,49,SecondHalf,Aerial,Unsuccessful,50.3,46.5,,
+375,436048,Carlos Baleba,863,Cameroon,49,SecondHalf,Pass,Successful,45.9,65,55.7,55.2
+376,550465,Christian Kofane,863,Cameroon,49,SecondHalf,BallRecovery,Successful,47.9,46.3,,
+377,550465,Christian Kofane,863,Cameroon,49,SecondHalf,Foul,Successful,47,47.6,,
+428,457254,Nkosinathi Sibisi,485,South Africa,49,SecondHalf,Foul,Unsuccessful,53,52.4,,
+378,443793,Samuel Kotto,863,Cameroon,49,SecondHalf,Pass,Successful,45.4,51.9,63.5,10
+379,407649,Junior Tchamadeu,863,Cameroon,49,SecondHalf,Pass,Successful,63.5,10,66.1,23.2
+380,468190,Arthur Avom,863,Cameroon,49,SecondHalf,Dispossessed,Successful,67.7,22,,
+429,563880,Mbekezeli Mbokazi,485,South Africa,49,SecondHalf,Tackle,Successful,32.3,78,,
+430,464874,Bathusi Aubaas,485,South Africa,49,SecondHalf,BallRecovery,Successful,29.3,70.6,,
+431,464874,Bathusi Aubaas,485,South Africa,49,SecondHalf,Pass,Successful,28.1,63.4,3.7,49.7
+432,99002,Ronwen Williams,485,South Africa,49,SecondHalf,Pass,Successful,2.8,45.2,14.4,14.8
+433,458440,Siyabonga Ngezana,485,South Africa,49,SecondHalf,Pass,Successful,16.3,15.8,24.8,6.4
+434,457250,Khuliso Mudau,485,South Africa,50,SecondHalf,Pass,Successful,24.8,6.4,31.4,19.1
+435,464874,Bathusi Aubaas,485,South Africa,50,SecondHalf,Pass,Successful,33.6,29.4,46.6,91.5
+436,554736,Samukele Kabini,485,South Africa,50,SecondHalf,Pass,Successful,39.3,77,30,80.2
+437,563880,Mbekezeli Mbokazi,485,South Africa,50,SecondHalf,Pass,Successful,30,80.2,36.1,72
+438,464874,Bathusi Aubaas,485,South Africa,50,SecondHalf,Pass,Successful,45.7,45.2,85.8,90.6
+439,527865,Relebohile Mofokeng,485,South Africa,50,SecondHalf,TakeOn,Unsuccessful,78.2,89.2,,
+381,463416,Che Malone,863,Cameroon,50,SecondHalf,Tackle,Unsuccessful,21.8,10.8,,
+440,527865,Relebohile Mofokeng,485,South Africa,50,SecondHalf,BallTouch,Successful,78.6,90.8,,
+383,407649,Junior Tchamadeu,863,Cameroon,50,SecondHalf,Pass,Successful,20.7,0,41.2,12
+384,353377,Bryan Mbeumo,863,Cameroon,50,SecondHalf,Pass,Successful,41.2,12,38.5,12
+391,550465,Christian Kofane,863,Cameroon,50,SecondHalf,Pass,Successful,37.3,17.1,43.7,7.2
+385,353377,Bryan Mbeumo,863,Cameroon,50,SecondHalf,TakeOn,Unsuccessful,39,9.2,,
+442,563880,Mbekezeli Mbokazi,485,South Africa,50,SecondHalf,Tackle,Unsuccessful,61,90.8,,
+386,353377,Bryan Mbeumo,863,Cameroon,50,SecondHalf,BallTouch,Successful,40.4,8.8,,
+444,563880,Mbekezeli Mbokazi,485,South Africa,51,SecondHalf,Pass,Successful,57.2,100,80.3,93.5
+445,371447,Lyle Foster,485,South Africa,51,SecondHalf,BallTouch,Unsuccessful,80.3,94.2,,
+388,463416,Che Malone,863,Cameroon,51,SecondHalf,BallRecovery,Successful,24.9,8.1,,
+389,463416,Che Malone,863,Cameroon,51,SecondHalf,Pass,Unsuccessful,20.1,6.6,29.6,8.8
+446,554736,Samukele Kabini,485,South Africa,51,SecondHalf,BallTouch,Successful,74.4,92.1,,
+447,464874,Bathusi Aubaas,485,South Africa,51,SecondHalf,BallRecovery,Successful,68,91.8,,
+448,464874,Bathusi Aubaas,485,South Africa,51,SecondHalf,Pass,Successful,68,91.8,64.1,96
+449,563880,Mbekezeli Mbokazi,485,South Africa,51,SecondHalf,Pass,Successful,60.4,91.8,51.9,66
+450,457247,Teboho Mokoena,485,South Africa,51,SecondHalf,Pass,Successful,45.6,58.1,54,33.3
+451,458440,Siyabonga Ngezana,485,South Africa,51,SecondHalf,Pass,Successful,56.2,27.9,67.6,7.9
+452,457250,Khuliso Mudau,485,South Africa,51,SecondHalf,Pass,Successful,67.6,7.9,65.8,16.7
+453,509374,Oswin Appollis,485,South Africa,51,SecondHalf,Pass,Successful,71.7,17.3,71.3,9.2
+454,457250,Khuliso Mudau,485,South Africa,51,SecondHalf,Pass,Successful,71.3,9.2,60.1,14.4
+455,457247,Teboho Mokoena,485,South Africa,51,SecondHalf,Pass,Successful,61.2,18,59.5,50.4
+456,464874,Bathusi Aubaas,485,South Africa,51,SecondHalf,Pass,Successful,62,63.3,56.8,80
+457,563880,Mbekezeli Mbokazi,485,South Africa,51,SecondHalf,Pass,Successful,56.6,77.3,48.7,55.6
+458,457254,Nkosinathi Sibisi,485,South Africa,51,SecondHalf,Pass,Successful,48,55.4,56.8,29.7
+459,458440,Siyabonga Ngezana,485,South Africa,51,SecondHalf,Pass,Successful,56.8,29.7,63.7,12.3
+460,509374,Oswin Appollis,485,South Africa,51,SecondHalf,Pass,Unsuccessful,63.7,12.3,69.4,23.6
+390,436048,Carlos Baleba,863,Cameroon,51,SecondHalf,Foul,Successful,29.2,67.8,,
+461,457247,Teboho Mokoena,485,South Africa,51,SecondHalf,Foul,Unsuccessful,70.8,32.2,,
+392,443793,Samuel Kotto,863,Cameroon,52,SecondHalf,Pass,Unsuccessful,24.8,61.5,71.1,60.3
+462,458440,Siyabonga Ngezana,485,South Africa,52,SecondHalf,Pass,Unsuccessful,29.3,34.4,44.2,42.5
+393,436048,Carlos Baleba,863,Cameroon,52,SecondHalf,Aerial,Successful,60.3,54.6,,
+463,464874,Bathusi Aubaas,485,South Africa,52,SecondHalf,Aerial,Unsuccessful,39.7,45.4,,
+394,436048,Carlos Baleba,863,Cameroon,52,SecondHalf,Pass,Unsuccessful,55.1,53.8,66.4,40.5
+395,468190,Arthur Avom,863,Cameroon,52,SecondHalf,Challenge,Unsuccessful,66.2,35.6,,
+464,563880,Mbekezeli Mbokazi,485,South Africa,52,SecondHalf,TakeOn,Successful,33.8,64.4,,
+465,563880,Mbekezeli Mbokazi,485,South Africa,52,SecondHalf,BallRecovery,Successful,37,66.1,,
+466,563880,Mbekezeli Mbokazi,485,South Africa,52,SecondHalf,Pass,Successful,37,66.1,44.2,72.6
+467,527865,Relebohile Mofokeng,485,South Africa,52,SecondHalf,Pass,Successful,47.9,73.5,73.7,83.6
+468,371447,Lyle Foster,485,South Africa,52,SecondHalf,TakeOn,Unsuccessful,73.8,79.4,,
+396,443793,Samuel Kotto,863,Cameroon,52,SecondHalf,Tackle,Unsuccessful,26.2,20.6,,
+470,371447,Lyle Foster,485,South Africa,52,SecondHalf,BallTouch,Successful,71.5,90.9,,
+398,407649,Junior Tchamadeu,863,Cameroon,53,SecondHalf,Pass,Unsuccessful,29.1,0,54.1,7.8
+471,464874,Bathusi Aubaas,485,South Africa,53,SecondHalf,Aerial,Successful,45.3,89.7,,
+399,550465,Christian Kofane,863,Cameroon,53,SecondHalf,Aerial,Unsuccessful,54.7,10.3,,
+472,464874,Bathusi Aubaas,485,South Africa,53,SecondHalf,Pass,Unsuccessful,45,92,57.8,91.6
+400,468190,Arthur Avom,863,Cameroon,53,SecondHalf,Pass,Successful,40.1,7.9,36.1,27.9
+401,436048,Carlos Baleba,863,Cameroon,53,SecondHalf,Pass,Successful,35.7,28.6,34.9,79.3
+642,502951,Aboubakar Nagida,863,Cameroon,53,SecondHalf,TakeOn,Unsuccessful,57.2,94.2,,
+402,502951,Aboubakar Nagida,863,Cameroon,53,SecondHalf,Dispossessed,Successful,55.6,86,,
+473,509374,Oswin Appollis,485,South Africa,53,SecondHalf,Tackle,Successful,44.4,14,,
+474,509374,Oswin Appollis,485,South Africa,53,SecondHalf,TakeOn,Unsuccessful,45.4,12.2,,
+403,502951,Aboubakar Nagida,863,Cameroon,53,SecondHalf,Tackle,Successful,54.6,87.8,,
+476,457250,Khuliso Mudau,485,South Africa,53,SecondHalf,Pass,Successful,41.8,0,36.9,20.9
+477,464874,Bathusi Aubaas,485,South Africa,53,SecondHalf,Pass,Successful,36.9,26.5,41.2,38.2
+478,457247,Teboho Mokoena,485,South Africa,53,SecondHalf,Pass,Successful,41.2,38.2,36.7,33.7
+479,464874,Bathusi Aubaas,485,South Africa,53,SecondHalf,Pass,Successful,36.7,33.7,44.7,25.8
+480,457247,Teboho Mokoena,485,South Africa,53,SecondHalf,Pass,Successful,44.7,25.8,42,12.9
+481,458440,Siyabonga Ngezana,485,South Africa,53,SecondHalf,Pass,Successful,40.9,12.7,53.7,8.4
+482,457247,Teboho Mokoena,485,South Africa,53,SecondHalf,Pass,Successful,47.7,8.8,36,14.8
+483,458440,Siyabonga Ngezana,485,South Africa,53,SecondHalf,Pass,Successful,40.6,27,34.9,50.9
+484,457254,Nkosinathi Sibisi,485,South Africa,53,SecondHalf,Pass,Successful,38.2,54.3,44.8,88.3
+485,563880,Mbekezeli Mbokazi,485,South Africa,53,SecondHalf,Pass,Successful,44.8,88.3,38.6,65.7
+486,457254,Nkosinathi Sibisi,485,South Africa,54,SecondHalf,Pass,Successful,36.1,55.4,41,37.3
+487,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,40,34.6,46.7,12.2
+488,458440,Siyabonga Ngezana,485,South Africa,54,SecondHalf,Pass,Successful,60.3,16.5,63.6,6.1
+489,457250,Khuliso Mudau,485,South Africa,54,SecondHalf,Pass,Successful,63.6,6.1,51.3,9.2
+490,458440,Siyabonga Ngezana,485,South Africa,54,SecondHalf,Pass,Successful,51.3,9.2,42.5,28.9
+491,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,42.3,33.9,39.1,63
+492,457254,Nkosinathi Sibisi,485,South Africa,54,SecondHalf,Pass,Successful,39.1,63,44.7,37.1
+493,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,44.7,37.1,59.5,22.2
+494,509374,Oswin Appollis,485,South Africa,54,SecondHalf,Pass,Successful,47.2,33.6,41.7,33.1
+495,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,46.8,31.5,58.6,13.4
+496,458440,Siyabonga Ngezana,485,South Africa,54,SecondHalf,Pass,Successful,62.8,11.6,68.7,4.4
+497,457250,Khuliso Mudau,485,South Africa,54,SecondHalf,Pass,Successful,66.5,10.9,56.6,21.3
+498,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,64.6,20.6,70.9,13.8
+499,509374,Oswin Appollis,485,South Africa,54,SecondHalf,Pass,Successful,72.4,14.7,79.5,35.1
+500,371447,Lyle Foster,485,South Africa,54,SecondHalf,Pass,Unsuccessful,79.5,35.4,77.3,52.5
+406,463416,Che Malone,863,Cameroon,54,SecondHalf,Clearance,Successful,27.1,55.8,46.3,46.2
+501,457254,Nkosinathi Sibisi,485,South Africa,54,SecondHalf,Pass,Successful,54.6,53.6,42.2,84.4
+502,563880,Mbekezeli Mbokazi,485,South Africa,54,SecondHalf,Pass,Successful,43.3,81.8,38.1,60.8
+503,457254,Nkosinathi Sibisi,485,South Africa,54,SecondHalf,Pass,Successful,38.7,55.4,47.4,34.5
+504,457247,Teboho Mokoena,485,South Africa,54,SecondHalf,Pass,Successful,52.6,29.1,62.5,20.3
+505,509374,Oswin Appollis,485,South Africa,55,SecondHalf,Pass,Unsuccessful,62.5,20.3,100,70
+408,139110,Dévis Epassy,863,Cameroon,55,SecondHalf,Pass,Unsuccessful,4.6,42.6,59.8,48.4
+507,458440,Siyabonga Ngezana,485,South Africa,55,SecondHalf,Aerial,Successful,40.2,51.6,,
+409,550465,Christian Kofane,863,Cameroon,55,SecondHalf,Aerial,Unsuccessful,59.8,48.4,,
+508,458440,Siyabonga Ngezana,485,South Africa,55,SecondHalf,Pass,Unsuccessful,34.5,48.5,47.2,30.1
+410,502951,Aboubakar Nagida,863,Cameroon,55,SecondHalf,Pass,Successful,53.3,65.7,61.9,54
+411,342857,Danny Namaso,863,Cameroon,55,SecondHalf,Pass,Successful,63,65.2,53.3,56.6
+412,436048,Carlos Baleba,863,Cameroon,55,SecondHalf,Pass,Successful,53.5,45.3,46.1,14.2
+413,407649,Junior Tchamadeu,863,Cameroon,55,SecondHalf,Pass,Successful,46,16.9,34.7,21
+414,463416,Che Malone,863,Cameroon,55,SecondHalf,Pass,Unsuccessful,35.2,17.8,45.5,13.9
+510,554736,Samukele Kabini,485,South Africa,55,SecondHalf,Pass,Unsuccessful,51.7,81,47,74.2
+416,468190,Arthur Avom,863,Cameroon,55,SecondHalf,Interception,Successful,52.2,28.3,,
+417,407649,Junior Tchamadeu,863,Cameroon,55,SecondHalf,Pass,Successful,46.1,20.7,33.4,48.4
+418,443793,Samuel Kotto,863,Cameroon,56,SecondHalf,Pass,Successful,33.4,48.7,54.2,68.8
+419,342857,Danny Namaso,863,Cameroon,56,SecondHalf,Dispossessed,Successful,53.9,67.5,,
+512,458440,Siyabonga Ngezana,485,South Africa,56,SecondHalf,Tackle,Successful,46.1,32.5,,
+513,509374,Oswin Appollis,485,South Africa,56,SecondHalf,TakeOn,Unsuccessful,57.2,34.4,,
+420,436048,Carlos Baleba,863,Cameroon,56,SecondHalf,Tackle,Successful,42.8,65.6,,
+421,436048,Carlos Baleba,863,Cameroon,56,SecondHalf,Pass,Unsuccessful,48.7,69.9,74.4,75.7
+514,457250,Khuliso Mudau,485,South Africa,56,SecondHalf,BallRecovery,Successful,28.9,20.7,,
+515,457250,Khuliso Mudau,485,South Africa,56,SecondHalf,Pass,Successful,21.7,16.2,3.6,30.3
+516,99002,Ronwen Williams,485,South Africa,56,SecondHalf,Pass,Unsuccessful,3.6,30.3,44.3,23.1
+422,436048,Carlos Baleba,863,Cameroon,56,SecondHalf,Pass,Successful,54.8,81.4,36.5,77.7
+423,443793,Samuel Kotto,863,Cameroon,56,SecondHalf,Pass,Successful,35.8,78.3,16,53.6
+424,139110,Dévis Epassy,863,Cameroon,56,SecondHalf,Pass,Successful,14.8,57.9,54.7,93.8
+425,502951,Aboubakar Nagida,863,Cameroon,56,SecondHalf,BallRecovery,Successful,48,87.6,,
+426,502951,Aboubakar Nagida,863,Cameroon,56,SecondHalf,Pass,Successful,48,87.6,39.2,88
+427,335583,Nouhou Tolo,863,Cameroon,56,SecondHalf,Pass,Successful,39.2,88,43.9,90.3
+428,502951,Aboubakar Nagida,863,Cameroon,56,SecondHalf,Pass,Unsuccessful,43.9,90.3,65.8,74.7
+517,457254,Nkosinathi Sibisi,485,South Africa,56,SecondHalf,TakeOn,Unsuccessful,30.6,36.1,,
+429,550465,Christian Kofane,863,Cameroon,56,SecondHalf,Tackle,Unsuccessful,69.4,63.9,,
+900,457254,Nkosinathi Sibisi,485,South Africa,56,SecondHalf,BallTouch,Successful,26.7,32,,
+430,550465,Christian Kofane,863,Cameroon,56,SecondHalf,SavedShot,Successful,79,52.9,,
+518,563880,Mbekezeli Mbokazi,485,South Africa,56,SecondHalf,Save,Successful,17.9,48.5,,
+431,353377,Bryan Mbeumo,863,Cameroon,56,SecondHalf,Pass,Successful,86.8,17.8,90,10.9
+432,407649,Junior Tchamadeu,863,Cameroon,56,SecondHalf,Pass,Successful,90,10.9,87.4,27.1
+433,342857,Danny Namaso,863,Cameroon,56,SecondHalf,Pass,Unsuccessful,87.4,27.7,84,33.6
+519,457254,Nkosinathi Sibisi,485,South Africa,56,SecondHalf,Interception,Successful,16,66.4,,
+434,468190,Arthur Avom,863,Cameroon,56,SecondHalf,BallTouch,Successful,84,33.6,,
+521,99002,Ronwen Williams,485,South Africa,57,SecondHalf,Pass,Successful,5.3,58.5,21.9,24.4
+523,457250,Khuliso Mudau,485,South Africa,57,SecondHalf,Pass,Successful,26.1,22.5,34.7,24.1
+524,464874,Bathusi Aubaas,485,South Africa,57,SecondHalf,Pass,Successful,34.9,24.1,41,11.4
+525,457250,Khuliso Mudau,485,South Africa,57,SecondHalf,Pass,Successful,41.9,11.4,90.4,16.8
+526,371447,Lyle Foster,485,South Africa,57,SecondHalf,Pass,Successful,89.8,15.6,80.2,12
+527,509374,Oswin Appollis,485,South Africa,57,SecondHalf,Pass,Successful,80.8,12.2,90.2,58.7
+528,527865,Relebohile Mofokeng,485,South Africa,57,SecondHalf,Pass,Unsuccessful,90.2,58.7,79.5,63.7
+436,353377,Bryan Mbeumo,863,Cameroon,57,SecondHalf,BallRecovery,Successful,19.2,32.8,,
+437,353377,Bryan Mbeumo,863,Cameroon,57,SecondHalf,Pass,Successful,24.1,24.6,28.3,9.7
+438,407649,Junior Tchamadeu,863,Cameroon,57,SecondHalf,Dispossessed,Successful,52.6,37.4,,
+530,563880,Mbekezeli Mbokazi,485,South Africa,57,SecondHalf,Tackle,Unsuccessful,47.4,62.6,,
+439,407649,Junior Tchamadeu,863,Cameroon,57,SecondHalf,BallTouch,Successful,58,40.9,,
+531,527865,Relebohile Mofokeng,485,South Africa,57,SecondHalf,BallRecovery,Successful,46.7,60.5,,
+532,527865,Relebohile Mofokeng,485,South Africa,57,SecondHalf,Pass,Successful,57.8,49.1,60.3,36.9
+533,457250,Khuliso Mudau,485,South Africa,57,SecondHalf,Pass,Successful,60.4,38.3,61.9,46.7
+534,527865,Relebohile Mofokeng,485,South Africa,57,SecondHalf,Pass,Successful,61.9,46.7,67,20.9
+535,509374,Oswin Appollis,485,South Africa,57,SecondHalf,Pass,Successful,69.2,22.7,62.8,27.6
+536,458440,Siyabonga Ngezana,485,South Africa,57,SecondHalf,Pass,Successful,62.8,27.6,65.2,56.4
+537,457247,Teboho Mokoena,485,South Africa,57,SecondHalf,SavedShot,Successful,67.3,51.5,,
+440,468190,Arthur Avom,863,Cameroon,57,SecondHalf,Save,Successful,28.9,50.9,,
+538,554736,Samukele Kabini,485,South Africa,57,SecondHalf,Pass,Successful,89.3,89.9,75,81.5
+539,457247,Teboho Mokoena,485,South Africa,57,SecondHalf,Pass,Successful,80.4,84.1,87.6,79.1
+540,527865,Relebohile Mofokeng,485,South Africa,58,SecondHalf,Pass,Successful,92.5,85.4,89.1,94.8
+541,554736,Samukele Kabini,485,South Africa,58,SecondHalf,Pass,Successful,81.3,91.2,66.7,79.1
+901,563880,Mbekezeli Mbokazi,485,South Africa,58,SecondHalf,BallTouch,Unsuccessful,66.1,80.7,,
+441,353377,Bryan Mbeumo,863,Cameroon,58,SecondHalf,BallRecovery,Successful,31.2,14.2,,
+442,353377,Bryan Mbeumo,863,Cameroon,58,SecondHalf,Pass,Successful,31.8,9.6,29.3,23.7
+443,468190,Arthur Avom,863,Cameroon,58,SecondHalf,Pass,Successful,34.8,15.6,58,6
+444,353377,Bryan Mbeumo,863,Cameroon,58,SecondHalf,Pass,Unsuccessful,57,6.9,59.8,15.3
+595,554736,Samukele Kabini,485,South Africa,58,SecondHalf,BallTouch,Successful,41,82.4,,
+446,468190,Arthur Avom,863,Cameroon,58,SecondHalf,BallTouch,Successful,65.9,23.4,,
+445,550465,Christian Kofane,863,Cameroon,58,SecondHalf,Foul,Successful,60.4,19.6,,
+542,457254,Nkosinathi Sibisi,485,South Africa,58,SecondHalf,Foul,Unsuccessful,39.6,80.4,,
+543,457254,Nkosinathi Sibisi,485,South Africa,58,SecondHalf,Card,Successful,0,0,,
+447,353377,Bryan Mbeumo,863,Cameroon,59,SecondHalf,Pass,Successful,65.4,23.7,65.3,44.2
+448,342857,Danny Namaso,863,Cameroon,59,SecondHalf,Pass,Successful,64.8,45.6,52,57.3
+449,436048,Carlos Baleba,863,Cameroon,59,SecondHalf,Pass,Successful,51.3,56.8,24.3,47.1
+450,139110,Dévis Epassy,863,Cameroon,59,SecondHalf,Pass,Unsuccessful,24.6,45.1,76,0
+545,554736,Samukele Kabini,485,South Africa,59,SecondHalf,Pass,Successful,30.3,100,19.1,75.7
+546,457254,Nkosinathi Sibisi,485,South Africa,59,SecondHalf,Pass,Successful,15.6,71.8,32.1,32.2
+547,458440,Siyabonga Ngezana,485,South Africa,59,SecondHalf,Pass,Successful,39.9,25.8,48.3,17
+548,509374,Oswin Appollis,485,South Africa,59,SecondHalf,Pass,Successful,46.2,17,29.7,28.9
+549,458440,Siyabonga Ngezana,485,South Africa,59,SecondHalf,Pass,Successful,29.7,28.9,28.3,41.3
+550,457254,Nkosinathi Sibisi,485,South Africa,59,SecondHalf,Pass,Successful,28.3,41.3,37.5,19.5
+551,458440,Siyabonga Ngezana,485,South Africa,59,SecondHalf,Pass,Successful,40.1,17.3,57.1,9.8
+552,457247,Teboho Mokoena,485,South Africa,59,SecondHalf,Pass,Successful,55.9,9.1,43.2,17.1
+553,458440,Siyabonga Ngezana,485,South Africa,59,SecondHalf,Pass,Successful,42.5,20.1,37.6,44.8
+554,457254,Nkosinathi Sibisi,485,South Africa,59,SecondHalf,Pass,Unsuccessful,39,43.9,67.8,75.7
+452,407649,Junior Tchamadeu,863,Cameroon,59,SecondHalf,Clearance,Successful,23.9,29.7,37.7,21.6
+453,353377,Bryan Mbeumo,863,Cameroon,59,SecondHalf,BallTouch,Unsuccessful,37.9,21.9,,
+555,527865,Relebohile Mofokeng,485,South Africa,59,SecondHalf,Pass,Successful,60.1,80.6,57.1,69.9
+556,464874,Bathusi Aubaas,485,South Africa,59,SecondHalf,Pass,Successful,57.1,67.3,70.7,32.8
+557,509374,Oswin Appollis,485,South Africa,60,SecondHalf,Pass,Successful,71.7,34.5,81.6,36.4
+558,371447,Lyle Foster,485,South Africa,60,SecondHalf,Pass,Successful,80.8,35,75.8,40.1
+559,509374,Oswin Appollis,485,South Africa,60,SecondHalf,SavedShot,Successful,79.6,42.1,,
+454,436048,Carlos Baleba,863,Cameroon,60,SecondHalf,Save,Successful,16.3,56.5,,
+560,457250,Khuliso Mudau,485,South Africa,60,SecondHalf,Pass,Successful,81.6,7.3,74.6,16.1
+561,509374,Oswin Appollis,485,South Africa,60,SecondHalf,Pass,Successful,74.6,16.1,68.2,21.2
+562,457247,Teboho Mokoena,485,South Africa,60,SecondHalf,Pass,Successful,68.2,21.2,72.9,28.2
+563,509374,Oswin Appollis,485,South Africa,60,SecondHalf,Pass,Successful,72.6,31.8,68.8,50.9
+564,464874,Bathusi Aubaas,485,South Africa,60,SecondHalf,Pass,Successful,68.7,34.8,69.9,17.4
+565,457247,Teboho Mokoena,485,South Africa,60,SecondHalf,Pass,Unsuccessful,72.5,20.3,90.5,48.3
+455,443793,Samuel Kotto,863,Cameroon,60,SecondHalf,Clearance,Successful,13.1,62.1,8.4,4.9
+566,563880,Mbekezeli Mbokazi,485,South Africa,60,SecondHalf,Pass,Unsuccessful,96.1,92.9,89.6,50.7
+456,335583,Nouhou Tolo,863,Cameroon,60,SecondHalf,Clearance,Successful,11.4,54.1,31.3,60.4
+457,342857,Danny Namaso,863,Cameroon,60,SecondHalf,Clearance,Successful,31.1,61,43,51.9
+567,458440,Siyabonga Ngezana,485,South Africa,60,SecondHalf,Pass,Successful,55.3,44.8,66,11.4
+568,457247,Teboho Mokoena,485,South Africa,60,SecondHalf,Pass,Successful,65.1,10.9,70.8,7.6
+569,457250,Khuliso Mudau,485,South Africa,60,SecondHalf,Pass,Successful,70.8,7.6,71.7,16.4
+570,509374,Oswin Appollis,485,South Africa,60,SecondHalf,Pass,Successful,69.6,22.7,64,36.3
+571,464874,Bathusi Aubaas,485,South Africa,60,SecondHalf,Pass,Successful,63.7,47,67.9,84.4
+572,563880,Mbekezeli Mbokazi,485,South Africa,60,SecondHalf,Pass,Successful,67.9,84.4,77.9,93.6
+573,554736,Samukele Kabini,485,South Africa,60,SecondHalf,Pass,Successful,77.9,93.6,69.4,94.2
+574,563880,Mbekezeli Mbokazi,485,South Africa,60,SecondHalf,Pass,Successful,69.4,94.2,55.3,68.8
+575,457254,Nkosinathi Sibisi,485,South Africa,60,SecondHalf,Pass,Successful,55,58.2,59.3,37.1
+576,458440,Siyabonga Ngezana,485,South Africa,61,SecondHalf,Pass,Successful,60.7,35.8,69,15.2
+577,457247,Teboho Mokoena,485,South Africa,61,SecondHalf,Pass,Successful,69,15.2,76.9,8
+578,457250,Khuliso Mudau,485,South Africa,61,SecondHalf,Pass,Successful,76.9,8,66.3,11.3
+579,457247,Teboho Mokoena,485,South Africa,61,SecondHalf,Pass,Successful,66.3,11.3,62.4,31.2
+580,458440,Siyabonga Ngezana,485,South Africa,61,SecondHalf,Pass,Successful,63.4,33.4,69.5,93.3
+581,563880,Mbekezeli Mbokazi,485,South Africa,61,SecondHalf,Pass,Successful,69.5,93.3,55.7,74.4
+582,457254,Nkosinathi Sibisi,485,South Africa,61,SecondHalf,Pass,Successful,60.3,64.6,56.7,43
+583,458440,Siyabonga Ngezana,485,South Africa,61,SecondHalf,Pass,Successful,65,34.8,78.2,12.2
+584,457247,Teboho Mokoena,485,South Africa,61,SecondHalf,Pass,Successful,83.1,7.3,89.5,43.7
+585,457250,Khuliso Mudau,485,South Africa,61,SecondHalf,BallTouch,Successful,89.5,43.7,,
+628,371447,Lyle Foster,485,South Africa,61,SecondHalf,BallTouch,Successful,92.1,50.3,,
+586,554736,Samukele Kabini,485,South Africa,61,SecondHalf,SavedShot,Successful,93.7,53.6,,
+458,139110,Dévis Epassy,863,Cameroon,61,SecondHalf,Save,Successful,2.4,47.5,,
+587,527865,Relebohile Mofokeng,485,South Africa,61,SecondHalf,Pass,Successful,94.1,69.7,85.5,73.5
+588,563880,Mbekezeli Mbokazi,485,South Africa,61,SecondHalf,MissedShots,Successful,85.5,73.5,,
+459,463416,Che Malone,863,Cameroon,61,SecondHalf,Clearance,Successful,7.3,49.3,29.8,56.5
+589,457247,Teboho Mokoena,485,South Africa,61,SecondHalf,Pass,Successful,72.4,33,79.5,24.3
+590,509374,Oswin Appollis,485,South Africa,61,SecondHalf,Pass,Unsuccessful,75.9,23.1,79.2,26
+460,502951,Aboubakar Nagida,863,Cameroon,61,SecondHalf,Clearance,Successful,18.3,73.6,,
+591,464874,Bathusi Aubaas,485,South Africa,61,SecondHalf,Pass,Successful,77.3,61.5,89.3,84.1
+592,563880,Mbekezeli Mbokazi,485,South Africa,61,SecondHalf,Pass,Unsuccessful,89.8,85.4,93,48.4
+461,335583,Nouhou Tolo,863,Cameroon,61,SecondHalf,Aerial,Successful,7,51.6,,
+593,457250,Khuliso Mudau,485,South Africa,61,SecondHalf,Aerial,Unsuccessful,93,48.4,,
+462,335583,Nouhou Tolo,863,Cameroon,61,SecondHalf,Clearance,Successful,7,51.6,2.7,100
+596,554736,Samukele Kabini,485,South Africa,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+597,452622,Aubrey Modiba,485,South Africa,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+598,509374,Oswin Appollis,485,South Africa,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+599,457593,Evidence Makgopa,485,South Africa,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+600,457250,Khuliso Mudau,485,South Africa,63,SecondHalf,Pass,Successful,86.9,0,74.6,6
+601,464874,Bathusi Aubaas,485,South Africa,63,SecondHalf,Pass,Successful,61.7,14.3,55.6,38.2
+602,457254,Nkosinathi Sibisi,485,South Africa,63,SecondHalf,Pass,Successful,55.6,38.2,60.2,74.7
+603,563880,Mbekezeli Mbokazi,485,South Africa,63,SecondHalf,Dispossessed,Successful,68,87.5,,
+465,436048,Carlos Baleba,863,Cameroon,63,SecondHalf,Tackle,Successful,32,12.6,,
+605,452622,Aubrey Modiba,485,South Africa,63,SecondHalf,Pass,Successful,68.8,100,55.5,88
+606,457254,Nkosinathi Sibisi,485,South Africa,63,SecondHalf,Pass,Successful,55.9,80.3,51.5,38.6
+607,458440,Siyabonga Ngezana,485,South Africa,63,SecondHalf,Pass,Successful,60,25.2,61.2,10.9
+608,457250,Khuliso Mudau,485,South Africa,63,SecondHalf,Pass,Successful,61.2,10.9,56.9,26.1
+609,457247,Teboho Mokoena,485,South Africa,63,SecondHalf,Pass,Successful,56.9,26.1,65.6,39.2
+610,464874,Bathusi Aubaas,485,South Africa,63,SecondHalf,Pass,Successful,66.4,51.5,52.3,57.8
+611,457254,Nkosinathi Sibisi,485,South Africa,63,SecondHalf,Pass,Successful,52.3,57.8,56.8,44.3
+612,457247,Teboho Mokoena,485,South Africa,63,SecondHalf,Pass,Successful,56.8,44.3,65.2,61.7
+613,464874,Bathusi Aubaas,485,South Africa,63,SecondHalf,Pass,Successful,65.2,61.7,75,92.3
+614,563880,Mbekezeli Mbokazi,485,South Africa,63,SecondHalf,Pass,Unsuccessful,75.7,92.3,85,82
+467,468190,Arthur Avom,863,Cameroon,63,SecondHalf,Interception,Successful,17.2,19.5,,
+468,436048,Carlos Baleba,863,Cameroon,63,SecondHalf,BallRecovery,Successful,32.8,28.5,,
+469,436048,Carlos Baleba,863,Cameroon,63,SecondHalf,Pass,Successful,26.1,26.8,46.2,22.9
+470,353377,Bryan Mbeumo,863,Cameroon,63,SecondHalf,Pass,Unsuccessful,57.8,21.7,79.6,32.4
+615,99002,Ronwen Williams,485,South Africa,63,SecondHalf,KeeperSweeper,Successful,20.8,62.1,,
+616,99002,Ronwen Williams,485,South Africa,63,SecondHalf,Clearance,Successful,20.8,62.1,19.9,85.3
+617,457254,Nkosinathi Sibisi,485,South Africa,63,SecondHalf,BallRecovery,Successful,20,85.3,,
+618,457254,Nkosinathi Sibisi,485,South Africa,64,SecondHalf,Pass,Successful,20,85.3,32.7,93.2
+619,563880,Mbekezeli Mbokazi,485,South Africa,64,SecondHalf,Pass,Unsuccessful,40.9,93.8,55.5,86
+471,436048,Carlos Baleba,863,Cameroon,64,SecondHalf,Interception,Successful,45.6,26.4,,
+472,468190,Arthur Avom,863,Cameroon,64,SecondHalf,BallRecovery,Successful,46,24.2,,
+473,468190,Arthur Avom,863,Cameroon,64,SecondHalf,Pass,Successful,44.6,22.9,44,30.5
+474,436048,Carlos Baleba,863,Cameroon,64,SecondHalf,Pass,Successful,46.3,30,39,14.7
+475,407649,Junior Tchamadeu,863,Cameroon,64,SecondHalf,Pass,Successful,38.6,15.6,24.8,28.8
+476,463416,Che Malone,863,Cameroon,64,SecondHalf,TakeOn,Unsuccessful,9.4,11.4,,
+620,527865,Relebohile Mofokeng,485,South Africa,64,SecondHalf,Tackle,Successful,90.6,88.6,,
+478,407649,Junior Tchamadeu,863,Cameroon,64,SecondHalf,Pass,Unsuccessful,17.2,0,35.6,10.9
+622,563880,Mbekezeli Mbokazi,485,South Africa,64,SecondHalf,Pass,Successful,57.1,92.7,66.2,88.6
+623,457593,Evidence Makgopa,485,South Africa,64,SecondHalf,Pass,Successful,66.2,88.6,71,84.2
+624,527865,Relebohile Mofokeng,485,South Africa,64,SecondHalf,Pass,Unsuccessful,71,84.2,72.9,83
+480,463416,Che Malone,863,Cameroon,64,SecondHalf,Pass,Successful,25.4,27.3,26,18.7
+481,436048,Carlos Baleba,863,Cameroon,64,SecondHalf,Pass,Successful,26,18.7,28.4,27.9
+482,468190,Arthur Avom,863,Cameroon,64,SecondHalf,Pass,Successful,28.9,28.8,29.8,22
+483,342857,Danny Namaso,863,Cameroon,64,SecondHalf,Pass,Successful,29.8,21.7,36.2,26.4
+484,436048,Carlos Baleba,863,Cameroon,64,SecondHalf,Foul,Successful,36,25.3,,
+625,452622,Aubrey Modiba,485,South Africa,64,SecondHalf,Foul,Unsuccessful,64,74.7,,
+626,452622,Aubrey Modiba,485,South Africa,64,SecondHalf,Card,Successful,0,0,,
+485,463416,Che Malone,863,Cameroon,65,SecondHalf,Pass,Successful,43.9,29.5,41.7,72.6
+486,335583,Nouhou Tolo,863,Cameroon,65,SecondHalf,Pass,Successful,41.8,72.7,72.4,81.4
+487,550465,Christian Kofane,863,Cameroon,65,SecondHalf,Pass,Unsuccessful,80.2,84,69.8,87.3
+627,457250,Khuliso Mudau,485,South Africa,65,SecondHalf,BallTouch,Unsuccessful,29.7,12.2,,
+488,468190,Arthur Avom,863,Cameroon,65,SecondHalf,Pass,Successful,68.7,79,91.1,80.2
+489,550465,Christian Kofane,863,Cameroon,65,SecondHalf,Pass,Successful,96.1,80.5,95.5,92.4
+490,502951,Aboubakar Nagida,863,Cameroon,65,SecondHalf,Pass,Successful,94.6,91.6,91.3,47.8
+491,353377,Bryan Mbeumo,863,Cameroon,65,SecondHalf,Aerial,Successful,91.3,47.8,,
+629,563880,Mbekezeli Mbokazi,485,South Africa,65,SecondHalf,Aerial,Unsuccessful,8.7,52.2,,
+492,353377,Bryan Mbeumo,863,Cameroon,65,SecondHalf,MissedShots,Successful,91.3,47.8,,
+631,99002,Ronwen Williams,485,South Africa,65,SecondHalf,Pass,Successful,5.1,59.7,11.1,69.3
+632,457254,Nkosinathi Sibisi,485,South Africa,65,SecondHalf,Pass,Successful,8.8,65,10,53
+633,99002,Ronwen Williams,485,South Africa,66,SecondHalf,Pass,Unsuccessful,18.4,53,68.4,68.1
+494,463416,Che Malone,863,Cameroon,66,SecondHalf,Aerial,Successful,31.6,31.9,,
+634,457593,Evidence Makgopa,485,South Africa,66,SecondHalf,Aerial,Unsuccessful,68.4,68.1,,
+495,463416,Che Malone,863,Cameroon,66,SecondHalf,Clearance,Successful,31.6,31.9,35.3,0
+636,563880,Mbekezeli Mbokazi,485,South Africa,66,SecondHalf,Pass,Successful,64.1,100,46.7,91.2
+637,457254,Nkosinathi Sibisi,485,South Africa,66,SecondHalf,Pass,Successful,46.7,87.7,55.7,73.8
+638,457247,Teboho Mokoena,485,South Africa,66,SecondHalf,Pass,Successful,57.1,68.8,53,35.1
+639,458440,Siyabonga Ngezana,485,South Africa,66,SecondHalf,Pass,Successful,54.7,32.4,61.4,17.6
+640,464874,Bathusi Aubaas,485,South Africa,66,SecondHalf,Pass,Successful,61.4,17.6,65.6,10.9
+641,457250,Khuliso Mudau,485,South Africa,66,SecondHalf,Pass,Successful,63,19.5,47.5,25
+642,458440,Siyabonga Ngezana,485,South Africa,66,SecondHalf,Pass,Successful,47.5,25,47.1,57.9
+643,457254,Nkosinathi Sibisi,485,South Africa,66,SecondHalf,Pass,Unsuccessful,47.1,57.9,64.2,62.6
+497,436048,Carlos Baleba,863,Cameroon,66,SecondHalf,Interception,Successful,35.8,37.4,,
+644,457247,Teboho Mokoena,485,South Africa,66,SecondHalf,Pass,Successful,61.7,62.8,70.1,60.1
+645,468190,Arthur Avom,863,Cameroon,66,SecondHalf,Challenge,Unsuccessful,31.1,43.5,,
+902,527865,Relebohile Mofokeng,485,South Africa,66,SecondHalf,TakeOn,Successful,68.9,56.5,,
+645,527865,Relebohile Mofokeng,485,South Africa,66,SecondHalf,Foul,Successful,71.8,38.5,,
+498,468190,Arthur Avom,863,Cameroon,66,SecondHalf,Foul,Unsuccessful,28.2,61.5,,
+646,457247,Teboho Mokoena,485,South Africa,68,SecondHalf,SavedShot,Successful,74.9,42.3,,
+499,139110,Dévis Epassy,863,Cameroon,68,SecondHalf,Save,Successful,1.1,53.5,,
+500,139110,Dévis Epassy,863,Cameroon,68,SecondHalf,CornerAwarded,Unsuccessful,0.3,60.2,,
+647,457247,Teboho Mokoena,485,South Africa,68,SecondHalf,CornerAwarded,Successful,99.7,39.8,,
+648,527865,Relebohile Mofokeng,485,South Africa,69,SecondHalf,Pass,Unsuccessful,99.5,0.5,90.5,43.9
+501,443793,Samuel Kotto,863,Cameroon,69,SecondHalf,Clearance,Successful,7.1,49.3,26.9,63
+502,353377,Bryan Mbeumo,863,Cameroon,69,SecondHalf,BallRecovery,Successful,30,67.2,,
+503,353377,Bryan Mbeumo,863,Cameroon,69,SecondHalf,Pass,Unsuccessful,83,74.1,88.5,55.2
+662,452622,Aubrey Modiba,485,South Africa,69,SecondHalf,Clearance,Successful,9.3,47.9,10.3,43.7
+504,468190,Arthur Avom,863,Cameroon,69,SecondHalf,SavedShot,Successful,92.1,55.4,,
+649,99002,Ronwen Williams,485,South Africa,69,SecondHalf,Save,Successful,5.5,46.9,,
+506,502951,Aboubakar Nagida,863,Cameroon,70,SecondHalf,Pass,Successful,90.4,100,93.7,85.5
+507,550465,Christian Kofane,863,Cameroon,70,SecondHalf,BallTouch,Unsuccessful,93.8,85.5,,
+651,457250,Khuliso Mudau,485,South Africa,70,SecondHalf,ShieldBallOpp,Successful,6,14.8,,
+653,99002,Ronwen Williams,485,South Africa,70,SecondHalf,Pass,Successful,3.7,42.5,21.6,72.4
+654,457254,Nkosinathi Sibisi,485,South Africa,70,SecondHalf,Pass,Successful,25.7,70.5,46,83.8
+655,452622,Aubrey Modiba,485,South Africa,70,SecondHalf,Pass,Successful,46,83.8,40.9,92.7
+656,563880,Mbekezeli Mbokazi,485,South Africa,70,SecondHalf,Pass,Successful,40.9,92.7,34.5,70.5
+657,457254,Nkosinathi Sibisi,485,South Africa,71,SecondHalf,Pass,Unsuccessful,36.5,63,45.4,33.4
+509,342857,Danny Namaso,863,Cameroon,71,SecondHalf,Interception,Successful,54.6,66.6,,
+510,342857,Danny Namaso,863,Cameroon,71,SecondHalf,Foul,Successful,58.7,66.8,,
+658,457247,Teboho Mokoena,485,South Africa,71,SecondHalf,Foul,Unsuccessful,41.2,33.2,,
+659,457247,Teboho Mokoena,485,South Africa,71,SecondHalf,Card,Successful,0,0,,
+511,353377,Bryan Mbeumo,863,Cameroon,71,SecondHalf,Pass,Successful,68,66.7,94.8,73.6
+512,550465,Christian Kofane,863,Cameroon,71,SecondHalf,Pass,Unsuccessful,97.3,71.7,96.4,69.3
+660,371447,Lyle Foster,485,South Africa,71,SecondHalf,BlockedPass,Successful,3.6,30.7,,
+513,550465,Christian Kofane,863,Cameroon,71,SecondHalf,CornerAwarded,Successful,98.8,72.4,,
+661,371447,Lyle Foster,485,South Africa,71,SecondHalf,CornerAwarded,Unsuccessful,1.2,27.6,,
+514,342857,Danny Namaso,863,Cameroon,72,SecondHalf,Pass,Unsuccessful,99.5,99.5,94.1,44.8
+663,457593,Evidence Makgopa,485,South Africa,72,SecondHalf,Aerial,Successful,5.9,55.2,,
+515,443793,Samuel Kotto,863,Cameroon,72,SecondHalf,Aerial,Unsuccessful,94.1,44.8,,
+664,457593,Evidence Makgopa,485,South Africa,72,SecondHalf,Clearance,Successful,5.9,55.2,15.6,59.1
+665,452622,Aubrey Modiba,485,South Africa,72,SecondHalf,Clearance,Successful,15.8,58.8,27.6,61.7
+516,463416,Che Malone,863,Cameroon,72,SecondHalf,Pass,Successful,74.9,50.8,69.8,54
+517,436048,Carlos Baleba,863,Cameroon,72,SecondHalf,Pass,Unsuccessful,67,50.7,77.6,51.3
+666,458440,Siyabonga Ngezana,485,South Africa,72,SecondHalf,Clearance,Successful,25.1,47.8,35.2,68.8
+667,452622,Aubrey Modiba,485,South Africa,72,SecondHalf,Foul,Successful,31.6,67.1,,
+518,353377,Bryan Mbeumo,863,Cameroon,72,SecondHalf,Foul,Unsuccessful,68.4,32.9,,
+668,563880,Mbekezeli Mbokazi,485,South Africa,72,SecondHalf,Pass,Successful,34.8,79.6,31,65.7
+669,457254,Nkosinathi Sibisi,485,South Africa,72,SecondHalf,Pass,Successful,30.3,59.6,38.8,29.5
+670,458440,Siyabonga Ngezana,485,South Africa,72,SecondHalf,Pass,Successful,38.8,29.5,43.9,15.5
+671,457250,Khuliso Mudau,485,South Africa,73,SecondHalf,Pass,Successful,43.9,15.5,34,29.4
+672,458440,Siyabonga Ngezana,485,South Africa,73,SecondHalf,Pass,Successful,34,29.4,39.9,37.9
+673,457247,Teboho Mokoena,485,South Africa,73,SecondHalf,Pass,Successful,39.9,37.9,33.2,27.6
+674,458440,Siyabonga Ngezana,485,South Africa,73,SecondHalf,Pass,Successful,33.6,28.2,34,39.8
+675,457247,Teboho Mokoena,485,South Africa,73,SecondHalf,Pass,Successful,33,44.9,26.6,66.3
+676,457254,Nkosinathi Sibisi,485,South Africa,73,SecondHalf,Pass,Successful,28.3,59.4,21.7,45.1
+677,99002,Ronwen Williams,485,South Africa,73,SecondHalf,Pass,Unsuccessful,24.3,44.5,64,57.5
+519,463416,Che Malone,863,Cameroon,73,SecondHalf,Aerial,Successful,36,42.5,,
+678,457593,Evidence Makgopa,485,South Africa,73,SecondHalf,Aerial,Unsuccessful,64,57.5,,
+646,463416,Che Malone,863,Cameroon,73,SecondHalf,Pass,Unsuccessful,43.9,45.2,45.6,46
+679,457593,Evidence Makgopa,485,South Africa,73,SecondHalf,BallTouch,Successful,57.7,56,,
+680,457247,Teboho Mokoena,485,South Africa,73,SecondHalf,Pass,Unsuccessful,53,47.9,63.8,37
+520,335583,Nouhou Tolo,863,Cameroon,73,SecondHalf,Pass,Unsuccessful,29.2,62.1,70.6,54
+681,99002,Ronwen Williams,485,South Africa,73,SecondHalf,KeeperSweeper,Successful,24.8,38.9,,
+682,99002,Ronwen Williams,485,South Africa,73,SecondHalf,Pass,Successful,25.7,39.4,56.1,16.2
+683,457250,Khuliso Mudau,485,South Africa,73,SecondHalf,Aerial,Successful,56.1,16.2,,
+521,502951,Aboubakar Nagida,863,Cameroon,73,SecondHalf,Aerial,Unsuccessful,43.9,83.8,,
+684,457250,Khuliso Mudau,485,South Africa,73,SecondHalf,Pass,Successful,56.1,16.2,64.8,26.2
+685,371447,Lyle Foster,485,South Africa,73,SecondHalf,BallTouch,Unsuccessful,67.5,25.8,,
+522,335583,Nouhou Tolo,863,Cameroon,73,SecondHalf,BallRecovery,Successful,16.1,90.4,,
+523,335583,Nouhou Tolo,863,Cameroon,73,SecondHalf,Pass,Unsuccessful,16.3,92.8,40.9,100
+687,457250,Khuliso Mudau,485,South Africa,73,SecondHalf,Pass,Successful,67.2,0,60.4,10.6
+688,457247,Teboho Mokoena,485,South Africa,73,SecondHalf,Pass,Successful,59.7,11.3,49.6,36.4
+689,457254,Nkosinathi Sibisi,485,South Africa,73,SecondHalf,Pass,Successful,51.5,33,63.8,15.5
+690,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,Pass,Successful,64.7,15.5,75.3,41.8
+691,371447,Lyle Foster,485,South Africa,74,SecondHalf,Pass,Successful,75.3,41.8,77.9,60.8
+692,452622,Aubrey Modiba,485,South Africa,74,SecondHalf,Pass,Successful,77.9,60.8,80.8,46.9
+693,371447,Lyle Foster,485,South Africa,74,SecondHalf,Pass,Successful,81,44.9,87.8,33.1
+694,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,Pass,Unsuccessful,87.6,27.8,92.5,48.7
+525,443793,Samuel Kotto,863,Cameroon,74,SecondHalf,Clearance,Successful,8.4,53.8,3.6,72.8
+526,502951,Aboubakar Nagida,863,Cameroon,74,SecondHalf,Clearance,Successful,6,67.6,32.2,100
+696,527865,Relebohile Mofokeng,485,South Africa,74,SecondHalf,SubstitutionOff,Successful,0,0,,
+697,458425,Sipho Mbule,485,South Africa,74,SecondHalf,SubstitutionOn,Successful,0,0,,
+698,458440,Siyabonga Ngezana,485,South Africa,74,SecondHalf,Pass,Successful,66.2,0,73,11.1
+699,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,Pass,Unsuccessful,71.4,9,88.6,52.1
+528,463416,Che Malone,863,Cameroon,74,SecondHalf,Clearance,Successful,13.7,55.3,39.4,100
+701,458440,Siyabonga Ngezana,485,South Africa,74,SecondHalf,Pass,Successful,50.6,0,43,15.2
+702,457254,Nkosinathi Sibisi,485,South Africa,74,SecondHalf,Pass,Successful,44.6,21.3,45.4,36.6
+703,464874,Bathusi Aubaas,485,South Africa,74,SecondHalf,Pass,Successful,45.4,36.6,54.1,25.9
+704,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,Pass,Successful,49.5,26.4,57.7,10.6
+705,458440,Siyabonga Ngezana,485,South Africa,74,SecondHalf,Pass,Successful,59.6,10.4,51.6,16.7
+706,457247,Teboho Mokoena,485,South Africa,74,SecondHalf,Pass,Successful,55.9,18.8,82,90.3
+707,563880,Mbekezeli Mbokazi,485,South Africa,75,SecondHalf,Pass,Unsuccessful,80.9,88.5,100,74
+531,139110,Dévis Epassy,863,Cameroon,75,SecondHalf,Pass,Unsuccessful,4.7,43.8,56.5,37
+710,464874,Bathusi Aubaas,485,South Africa,75,SecondHalf,Aerial,Successful,43.5,63,,
+532,550465,Christian Kofane,863,Cameroon,75,SecondHalf,Aerial,Unsuccessful,56.5,37,,
+711,464874,Bathusi Aubaas,485,South Africa,75,SecondHalf,Pass,Unsuccessful,44.3,66.2,53.8,69.1
+533,468190,Arthur Avom,863,Cameroon,75,SecondHalf,BallTouch,Unsuccessful,42,36.7,,
+712,457593,Evidence Makgopa,485,South Africa,75,SecondHalf,Pass,Successful,56.2,78.1,53.5,84.8
+713,452622,Aubrey Modiba,485,South Africa,75,SecondHalf,BallRecovery,Successful,53.5,85,,
+714,452622,Aubrey Modiba,485,South Africa,75,SecondHalf,Pass,Unsuccessful,53.5,85,56.2,76.9
+534,468190,Arthur Avom,863,Cameroon,75,SecondHalf,Interception,Successful,45.9,27.4,,
+535,468190,Arthur Avom,863,Cameroon,75,SecondHalf,BallRecovery,Successful,48.9,29.7,,
+536,468190,Arthur Avom,863,Cameroon,75,SecondHalf,Pass,Successful,54.1,28.8,68.7,9.3
+537,353377,Bryan Mbeumo,863,Cameroon,75,SecondHalf,Pass,Successful,68,9.3,75.7,16.8
+538,468190,Arthur Avom,863,Cameroon,75,SecondHalf,TakeOn,Unsuccessful,83.3,5.8,,
+715,464874,Bathusi Aubaas,485,South Africa,75,SecondHalf,Tackle,Successful,16.7,94.2,,
+716,464874,Bathusi Aubaas,485,South Africa,75,SecondHalf,Pass,Unsuccessful,19.5,93.6,22.1,93.9
+539,468190,Arthur Avom,863,Cameroon,75,SecondHalf,BlockedPass,Successful,77.9,6.1,,
+540,353377,Bryan Mbeumo,863,Cameroon,76,SecondHalf,Dispossessed,Successful,77.2,12.7,,
+717,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,Tackle,Successful,22.8,87.3,,
+718,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,TakeOn,Unsuccessful,25.4,90.3,,
+541,468190,Arthur Avom,863,Cameroon,76,SecondHalf,Tackle,Successful,74.6,9.7,,
+720,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,Pass,Successful,26.7,100,13.1,82
+721,457254,Nkosinathi Sibisi,485,South Africa,76,SecondHalf,Pass,Successful,11.2,74.2,8.1,53.4
+722,99002,Ronwen Williams,485,South Africa,76,SecondHalf,Pass,Successful,8.1,53.4,11.1,31.6
+723,458440,Siyabonga Ngezana,485,South Africa,76,SecondHalf,Pass,Successful,11.1,31.6,14.4,8.9
+724,457250,Khuliso Mudau,485,South Africa,76,SecondHalf,Pass,Successful,16.4,10.1,8.4,43.3
+725,99002,Ronwen Williams,485,South Africa,76,SecondHalf,Pass,Successful,8.4,43.7,30.6,83.9
+726,452622,Aubrey Modiba,485,South Africa,76,SecondHalf,Pass,Successful,44.6,83.5,38.4,57.2
+727,457254,Nkosinathi Sibisi,485,South Africa,76,SecondHalf,Pass,Successful,38.4,57.2,42.5,66.1
+728,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,Pass,Successful,42.5,66.1,47.9,51.6
+729,457247,Teboho Mokoena,485,South Africa,76,SecondHalf,Pass,Successful,47.9,51.6,37.3,54.2
+730,457254,Nkosinathi Sibisi,485,South Africa,76,SecondHalf,Pass,Successful,37.3,54.2,56.4,30
+731,458425,Sipho Mbule,485,South Africa,76,SecondHalf,Pass,Successful,67.3,28.6,83.6,11.3
+732,457250,Khuliso Mudau,485,South Africa,76,SecondHalf,Pass,Unsuccessful,89.5,14.1,84.9,37.1
+543,468190,Arthur Avom,863,Cameroon,76,SecondHalf,BallRecovery,Successful,17.8,58.2,,
+544,468190,Arthur Avom,863,Cameroon,76,SecondHalf,Pass,Successful,17.8,58.5,13.2,60.7
+545,335583,Nouhou Tolo,863,Cameroon,76,SecondHalf,Pass,Unsuccessful,12.9,60.1,55.1,38.8
+733,457254,Nkosinathi Sibisi,485,South Africa,76,SecondHalf,Pass,Successful,45.4,60.8,64.7,63.7
+734,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,BallRecovery,Successful,63.8,66,,
+735,464874,Bathusi Aubaas,485,South Africa,76,SecondHalf,Pass,Unsuccessful,61,77.2,72.5,56.3
+546,468190,Arthur Avom,863,Cameroon,76,SecondHalf,Clearance,Successful,23.5,42.5,35.9,8.8
+549,502951,Aboubakar Nagida,863,Cameroon,78,SecondHalf,SubstitutionOff,Successful,0,0,,
+550,422136,Christopher Wooh,863,Cameroon,78,SecondHalf,SubstitutionOn,Successful,0,0,,
+551,342857,Danny Namaso,863,Cameroon,78,SecondHalf,SubstitutionOff,Successful,0,0,,
+552,274906,Olivier Kemen,863,Cameroon,78,SecondHalf,SubstitutionOn,Successful,0,0,,
+555,,,863,Cameroon,78,SecondHalf,FormationChange,Successful,0,0,,
+739,563880,Mbekezeli Mbokazi,485,South Africa,79,SecondHalf,Pass,Successful,61.3,91.1,44.7,68.7
+740,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,44.7,68.7,48.8,41.3
+741,458440,Siyabonga Ngezana,485,South Africa,79,SecondHalf,Pass,Successful,53.6,39.4,59.4,63.1
+742,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,60.7,59.1,62.3,41.2
+743,457247,Teboho Mokoena,485,South Africa,79,SecondHalf,Pass,Successful,57.3,46,55.4,72
+744,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,54.1,70.3,46.3,39.7
+745,458440,Siyabonga Ngezana,485,South Africa,79,SecondHalf,Pass,Successful,56.5,37,54.1,62.6
+746,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,54.7,58.5,47.7,28
+747,458440,Siyabonga Ngezana,485,South Africa,79,SecondHalf,Pass,Successful,61.6,28.6,67.2,47.2
+748,457247,Teboho Mokoena,485,South Africa,79,SecondHalf,Pass,Successful,67.2,47.2,60,69.9
+749,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,60,69.9,70.4,78.2
+750,452622,Aubrey Modiba,485,South Africa,79,SecondHalf,Pass,Successful,65.2,81.5,45.5,93.9
+751,563880,Mbekezeli Mbokazi,485,South Africa,79,SecondHalf,Pass,Successful,42.9,87.2,39.5,69.4
+752,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,39.9,65.8,30.8,46.9
+753,99002,Ronwen Williams,485,South Africa,79,SecondHalf,Pass,Successful,30.8,46.9,36.6,66.1
+754,457254,Nkosinathi Sibisi,485,South Africa,79,SecondHalf,Pass,Successful,41.2,63.6,78.8,92.6
+755,563880,Mbekezeli Mbokazi,485,South Africa,79,SecondHalf,BallTouch,Unsuccessful,77.1,86.3,,
+556,468190,Arthur Avom,863,Cameroon,79,SecondHalf,Pass,Unsuccessful,23.3,35.5,26.1,29.1
+756,563880,Mbekezeli Mbokazi,485,South Africa,79,SecondHalf,BlockedPass,Successful,73.9,70.9,,
+557,274906,Olivier Kemen,863,Cameroon,80,SecondHalf,BallRecovery,Successful,27.5,39.4,,
+558,274906,Olivier Kemen,863,Cameroon,80,SecondHalf,Pass,Successful,29.2,43,39,81
+559,353377,Bryan Mbeumo,863,Cameroon,80,SecondHalf,Pass,Successful,39.8,82,87.5,38
+560,550465,Christian Kofane,863,Cameroon,80,SecondHalf,MissedShots,Successful,87.5,38,,
+758,99002,Ronwen Williams,485,South Africa,80,SecondHalf,Pass,Successful,5,63,26.7,43.1
+759,457254,Nkosinathi Sibisi,485,South Africa,80,SecondHalf,Pass,Successful,28,44,41.5,35.2
+760,458425,Sipho Mbule,485,South Africa,80,SecondHalf,Pass,Successful,48,28.6,43.2,49.3
+761,464874,Bathusi Aubaas,485,South Africa,80,SecondHalf,Pass,Successful,43.7,51.1,51.3,62.4
+762,457247,Teboho Mokoena,485,South Africa,80,SecondHalf,Pass,Successful,55.3,57.9,54.8,43
+763,464874,Bathusi Aubaas,485,South Africa,80,SecondHalf,Pass,Unsuccessful,60.6,31.9,72.4,22.2
+562,353377,Bryan Mbeumo,863,Cameroon,80,SecondHalf,Interception,Successful,27.6,77.8,,
+764,457593,Evidence Makgopa,485,South Africa,80,SecondHalf,Pass,Successful,71.6,37.4,65,17.3
+765,458440,Siyabonga Ngezana,485,South Africa,80,SecondHalf,Pass,Successful,69.5,17.1,67.8,33
+766,464874,Bathusi Aubaas,485,South Africa,80,SecondHalf,Pass,Successful,69,35.8,74.4,66
+767,457247,Teboho Mokoena,485,South Africa,80,SecondHalf,Pass,Successful,74.4,66,93.6,75.4
+768,452622,Aubrey Modiba,485,South Africa,80,SecondHalf,Pass,Successful,93.6,75.4,89.4,55.7
+769,371447,Lyle Foster,485,South Africa,80,SecondHalf,MissedShots,Successful,89.4,55.7,,
+770,457250,Khuliso Mudau,485,South Africa,80,SecondHalf,MissedShots,Successful,88.4,45.5,,
+564,139110,Dévis Epassy,863,Cameroon,81,SecondHalf,Pass,Successful,4.6,42,59.6,34.3
+565,436048,Carlos Baleba,863,Cameroon,81,SecondHalf,Aerial,Successful,59.6,34.3,,
+772,457247,Teboho Mokoena,485,South Africa,81,SecondHalf,Aerial,Unsuccessful,40.4,65.7,,
+566,436048,Carlos Baleba,863,Cameroon,81,SecondHalf,Pass,Unsuccessful,56.7,30.9,73.8,15.8
+773,563880,Mbekezeli Mbokazi,485,South Africa,81,SecondHalf,BallRecovery,Successful,28.8,78.5,,
+774,563880,Mbekezeli Mbokazi,485,South Africa,81,SecondHalf,Pass,Successful,26.6,80.9,15.7,64
+775,457254,Nkosinathi Sibisi,485,South Africa,81,SecondHalf,Pass,Successful,15.7,64,8.7,42.2
+776,99002,Ronwen Williams,485,South Africa,81,SecondHalf,Pass,Successful,10.9,45.2,55.6,17.3
+778,457593,Evidence Makgopa,485,South Africa,81,SecondHalf,Pass,Unsuccessful,54.1,21.9,62.7,32.5
+568,422136,Christopher Wooh,863,Cameroon,81,SecondHalf,BallTouch,Unsuccessful,29.8,55,,
+779,371447,Lyle Foster,485,South Africa,81,SecondHalf,TakeOn,Unsuccessful,88.1,36.4,,
+569,463416,Che Malone,863,Cameroon,81,SecondHalf,Tackle,Successful,11.9,63.6,,
+570,463416,Che Malone,863,Cameroon,82,SecondHalf,Foul,Successful,11.2,85.6,,
+780,371447,Lyle Foster,485,South Africa,82,SecondHalf,Foul,Unsuccessful,88.8,14.4,,
+781,371447,Lyle Foster,485,South Africa,82,SecondHalf,Card,Successful,0,0,,
+782,457254,Nkosinathi Sibisi,485,South Africa,82,SecondHalf,SubstitutionOff,Successful,0,0,,
+783,512221,Tshepang Moremi,485,South Africa,82,SecondHalf,SubstitutionOn,Successful,0,0,,
+903,,,485,South Africa,82,SecondHalf,FormationChange,Successful,0,0,,
+571,139110,Dévis Epassy,863,Cameroon,82,SecondHalf,Pass,Unsuccessful,12.9,83.5,63.6,85
+784,464874,Bathusi Aubaas,485,South Africa,83,SecondHalf,Foul,Successful,38.6,12.8,,
+572,353377,Bryan Mbeumo,863,Cameroon,83,SecondHalf,Foul,Unsuccessful,61.4,87.2,,
+785,457250,Khuliso Mudau,485,South Africa,83,SecondHalf,Pass,Successful,41.4,9.4,28.9,18.3
+786,458440,Siyabonga Ngezana,485,South Africa,83,SecondHalf,Pass,Successful,31.6,23.4,35.3,46.3
+787,563880,Mbekezeli Mbokazi,485,South Africa,83,SecondHalf,Pass,Successful,36.6,51.8,42.9,86.5
+788,452622,Aubrey Modiba,485,South Africa,83,SecondHalf,Pass,Successful,41,82.1,43.8,76.6
+789,457247,Teboho Mokoena,485,South Africa,83,SecondHalf,Pass,Successful,43.8,76.6,56.9,83.6
+573,463416,Che Malone,863,Cameroon,83,SecondHalf,Challenge,Unsuccessful,41.2,15.4,,
+790,512221,Tshepang Moremi,485,South Africa,83,SecondHalf,TakeOn,Successful,58.8,84.6,,
+791,512221,Tshepang Moremi,485,South Africa,83,SecondHalf,BallTouch,Unsuccessful,74.8,83.9,,
+574,468190,Arthur Avom,863,Cameroon,83,SecondHalf,Pass,Unsuccessful,22.7,3.7,25.3,2.8
+792,512221,Tshepang Moremi,485,South Africa,83,SecondHalf,BlockedPass,Successful,74.7,97.2,,
+576,463416,Che Malone,863,Cameroon,83,SecondHalf,Pass,Successful,25,0,36.9,11.1
+577,407649,Junior Tchamadeu,863,Cameroon,83,SecondHalf,Pass,Unsuccessful,36.9,11.1,57.5,15.9
+794,452622,Aubrey Modiba,485,South Africa,83,SecondHalf,BallRecovery,Successful,47.7,86.9,,
+795,452622,Aubrey Modiba,485,South Africa,83,SecondHalf,Pass,Successful,47,87.4,60.1,82.4
+796,458425,Sipho Mbule,485,South Africa,83,SecondHalf,Pass,Successful,60.1,82.4,57,87.1
+797,457247,Teboho Mokoena,485,South Africa,83,SecondHalf,Pass,Unsuccessful,57,87.1,73.7,91.8
+578,422136,Christopher Wooh,863,Cameroon,83,SecondHalf,Clearance,Successful,24.1,16.3,31.9,7.8
+798,457247,Teboho Mokoena,485,South Africa,84,SecondHalf,Pass,Unsuccessful,92.7,92.8,94,83.6
+579,422136,Christopher Wooh,863,Cameroon,84,SecondHalf,BallTouch,Successful,11,16.8,,
+580,422136,Christopher Wooh,863,Cameroon,84,SecondHalf,CornerAwarded,Unsuccessful,6.2,25.5,,
+799,457247,Teboho Mokoena,485,South Africa,84,SecondHalf,CornerAwarded,Successful,93.8,74.5,,
+800,457247,Teboho Mokoena,485,South Africa,84,SecondHalf,Pass,Unsuccessful,99.8,99.5,93.7,60
+581,463416,Che Malone,863,Cameroon,84,SecondHalf,Aerial,Successful,6.3,40,,
+801,458440,Siyabonga Ngezana,485,South Africa,84,SecondHalf,Aerial,Unsuccessful,93.7,60,,
+582,463416,Che Malone,863,Cameroon,84,SecondHalf,Clearance,Successful,6.3,40,13.5,54.4
+583,443793,Samuel Kotto,863,Cameroon,84,SecondHalf,Clearance,Successful,13.5,54.4,32.2,67.3
+802,512221,Tshepang Moremi,485,South Africa,84,SecondHalf,Pass,Successful,74.1,28.2,62.6,25.5
+804,563880,Mbekezeli Mbokazi,485,South Africa,84,SecondHalf,Foul,Successful,57.6,20.4,,
+584,436048,Carlos Baleba,863,Cameroon,84,SecondHalf,Foul,Unsuccessful,42.4,79.6,,
+805,563880,Mbekezeli Mbokazi,485,South Africa,84,SecondHalf,Pass,Successful,56.1,15.5,43.2,40.9
+806,464874,Bathusi Aubaas,485,South Africa,84,SecondHalf,Pass,Successful,43.5,42.5,56.4,69.3
+807,458425,Sipho Mbule,485,South Africa,84,SecondHalf,Pass,Successful,57.1,70.3,75.5,86.5
+808,457593,Evidence Makgopa,485,South Africa,84,SecondHalf,Pass,Unsuccessful,81.8,89.6,76.7,93.6
+585,407649,Junior Tchamadeu,863,Cameroon,85,SecondHalf,BallTouch,Successful,31.1,14.2,,
+810,457247,Teboho Mokoena,485,South Africa,85,SecondHalf,Pass,Successful,75.8,100,69.4,85.4
+811,458425,Sipho Mbule,485,South Africa,85,SecondHalf,Pass,Successful,67.1,85.3,68.8,91.8
+812,457247,Teboho Mokoena,485,South Africa,85,SecondHalf,Pass,Successful,67.9,88.6,65,81.5
+813,458425,Sipho Mbule,485,South Africa,85,SecondHalf,Pass,Successful,65.6,80,71,78.8
+814,452622,Aubrey Modiba,485,South Africa,85,SecondHalf,Pass,Successful,71,78.8,69,89.4
+815,457247,Teboho Mokoena,485,South Africa,85,SecondHalf,Pass,Successful,67.8,88.6,62.9,80.3
+816,452622,Aubrey Modiba,485,South Africa,85,SecondHalf,Pass,Successful,63.6,78.2,72.5,64.8
+817,458425,Sipho Mbule,485,South Africa,85,SecondHalf,Pass,Successful,73.1,64.6,77.4,75.4
+818,452622,Aubrey Modiba,485,South Africa,85,SecondHalf,Pass,Successful,78.7,76,80.8,53.7
+819,371447,Lyle Foster,485,South Africa,85,SecondHalf,Pass,Successful,80.8,53.7,88.4,57.6
+820,458425,Sipho Mbule,485,South Africa,85,SecondHalf,BallTouch,Unsuccessful,88.4,57.6,,
+647,443793,Samuel Kotto,863,Cameroon,85,SecondHalf,Clearance,Successful,13.5,45,14.9,46.1
+587,422136,Christopher Wooh,863,Cameroon,85,SecondHalf,Clearance,Successful,14.4,45.6,46.1,48.4
+822,563880,Mbekezeli Mbokazi,485,South Africa,85,SecondHalf,Pass,Successful,53,51.9,59.1,74.5
+823,457247,Teboho Mokoena,485,South Africa,85,SecondHalf,Pass,Successful,59.3,74.8,66.6,79.6
+824,452622,Aubrey Modiba,485,South Africa,85,SecondHalf,Pass,Successful,65,76.3,73.1,75.4
+825,458425,Sipho Mbule,485,South Africa,85,SecondHalf,Pass,Successful,76.6,77.1,92.2,85.4
+826,512221,Tshepang Moremi,485,South Africa,85,SecondHalf,Pass,Unsuccessful,93.3,87.8,92.7,65.2
+588,422136,Christopher Wooh,863,Cameroon,85,SecondHalf,Clearance,Successful,9.1,35,1.1,0
+592,436048,Carlos Baleba,863,Cameroon,86,SecondHalf,Card,Successful,0,0,,
+830,512221,Tshepang Moremi,485,South Africa,86,SecondHalf,Pass,Successful,90.7,100,68.6,91.1
+831,457247,Teboho Mokoena,485,South Africa,87,SecondHalf,Pass,Successful,67.7,89,62.7,61.8
+832,563880,Mbekezeli Mbokazi,485,South Africa,87,SecondHalf,Pass,Successful,63,66.3,66.8,89.3
+833,457247,Teboho Mokoena,485,South Africa,87,SecondHalf,Pass,Successful,66.8,87.8,76.1,92.6
+834,452622,Aubrey Modiba,485,South Africa,87,SecondHalf,Pass,Successful,78.7,93.3,96.1,51.6
+835,457593,Evidence Makgopa,485,South Africa,87,SecondHalf,Goal,Successful,96.1,51.6,,
+593,550465,Christian Kofane,863,Cameroon,88,SecondHalf,Pass,Successful,49.7,50.2,27.5,60.1
+594,443793,Samuel Kotto,863,Cameroon,88,SecondHalf,Pass,Unsuccessful,28.5,60.9,89.7,64.5
+836,99002,Ronwen Williams,485,South Africa,88,SecondHalf,KeeperPickup,Successful,9,31.8,,
+837,99002,Ronwen Williams,485,South Africa,88,SecondHalf,Pass,Successful,10.8,35.4,24.6,60.2
+838,563880,Mbekezeli Mbokazi,485,South Africa,88,SecondHalf,Pass,Successful,34.6,66.4,43.8,86.2
+839,452622,Aubrey Modiba,485,South Africa,88,SecondHalf,Pass,Successful,62.8,83.5,59.1,66.6
+840,457247,Teboho Mokoena,485,South Africa,88,SecondHalf,Pass,Successful,59.2,64.9,65.1,25.5
+841,464874,Bathusi Aubaas,485,South Africa,88,SecondHalf,Pass,Successful,64.6,23.9,72.6,7.7
+842,457250,Khuliso Mudau,485,South Africa,88,SecondHalf,Pass,Unsuccessful,74.9,8.8,78.9,13.2
+595,353377,Bryan Mbeumo,863,Cameroon,88,SecondHalf,BallTouch,Successful,24.1,84.6,,
+597,436048,Carlos Baleba,863,Cameroon,89,SecondHalf,SubstitutionOff,Successful,0,0,,
+598,447842,Enzo Boyomo,863,Cameroon,89,SecondHalf,SubstitutionOn,Successful,0,0,,
+599,550465,Christian Kofane,863,Cameroon,89,SecondHalf,SubstitutionOff,Successful,0,0,,
+600,448141,Patrick Soko,863,Cameroon,89,SecondHalf,SubstitutionOn,Successful,0,0,,
+844,457250,Khuliso Mudau,485,South Africa,89,SecondHalf,Pass,Successful,72.8,0,66.4,14.4
+845,464874,Bathusi Aubaas,485,South Africa,89,SecondHalf,Pass,Successful,66.4,16.4,59,37.6
+846,458440,Siyabonga Ngezana,485,South Africa,89,SecondHalf,Pass,Successful,53.1,47,61.7,73.4
+847,563880,Mbekezeli Mbokazi,485,South Africa,89,SecondHalf,Pass,Successful,59.8,68.9,37,52.1
+848,99002,Ronwen Williams,485,South Africa,89,SecondHalf,Pass,Unsuccessful,38.1,52.7,87,58.4
+601,422136,Christopher Wooh,863,Cameroon,89,SecondHalf,Clearance,Successful,14.3,47.8,24.2,39.7
+849,458425,Sipho Mbule,485,South Africa,89,SecondHalf,Pass,Successful,76.1,62.7,81.2,59.6
+850,371447,Lyle Foster,485,South Africa,89,SecondHalf,SavedShot,Successful,83.1,56,,
+602,422136,Christopher Wooh,863,Cameroon,89,SecondHalf,Save,Successful,14.8,44.9,,
+851,457250,Khuliso Mudau,485,South Africa,89,SecondHalf,SavedShot,Successful,73.7,37.4,,
+603,274906,Olivier Kemen,863,Cameroon,89,SecondHalf,Save,Successful,22,60.8,,
+852,464874,Bathusi Aubaas,485,South Africa,89,SecondHalf,ShieldBallOpp,Successful,87.3,4.6,,
+854,457250,Khuliso Mudau,485,South Africa,90,SecondHalf,Pass,Successful,85.1,0,73.7,5.3
+855,464874,Bathusi Aubaas,485,South Africa,90,SecondHalf,Pass,Successful,73.7,5.3,47.4,14.3
+856,458440,Siyabonga Ngezana,485,South Africa,90,SecondHalf,Pass,Successful,46.8,15.2,42.4,39.4
+857,99002,Ronwen Williams,485,South Africa,90,SecondHalf,Pass,Successful,44.2,39.4,86.5,51.3
+858,457593,Evidence Makgopa,485,South Africa,90,SecondHalf,Aerial,Successful,86.5,51.3,,
+606,139110,Dévis Epassy,863,Cameroon,90,SecondHalf,Aerial,Unsuccessful,13.5,48.7,,
+859,457593,Evidence Makgopa,485,South Africa,90,SecondHalf,MissedShots,Successful,86.5,51.3,,
+610,139110,Dévis Epassy,863,Cameroon,90,SecondHalf,Pass,Unsuccessful,4.9,45.4,58.7,27.7
+861,458425,Sipho Mbule,485,South Africa,90,SecondHalf,Pass,Unsuccessful,43.7,66.9,63.9,63.1
+611,443793,Samuel Kotto,863,Cameroon,90,SecondHalf,Pass,Unsuccessful,31.2,46.2,39.8,40
+862,457247,Teboho Mokoena,485,South Africa,90,SecondHalf,Interception,Successful,60.2,60,,
+612,443793,Samuel Kotto,863,Cameroon,90,SecondHalf,Pass,Unsuccessful,39.3,40.5,91.1,38.1
+863,99002,Ronwen Williams,485,South Africa,91,SecondHalf,BallRecovery,Successful,10.9,58.8,,
+864,99002,Ronwen Williams,485,South Africa,91,SecondHalf,Pass,Successful,20.4,58.4,31.7,87.1
+865,452622,Aubrey Modiba,485,South Africa,91,SecondHalf,Pass,Unsuccessful,67.9,90,89.5,43.6
+613,139110,Dévis Epassy,863,Cameroon,91,SecondHalf,Foul,Successful,10.6,55,,
+866,457593,Evidence Makgopa,485,South Africa,91,SecondHalf,Foul,Unsuccessful,89.4,45,,
+614,139110,Dévis Epassy,863,Cameroon,91,SecondHalf,Pass,Unsuccessful,15.6,45.9,64.1,51
+867,458440,Siyabonga Ngezana,485,South Africa,91,SecondHalf,Aerial,Successful,35.9,49,,
+615,448141,Patrick Soko,863,Cameroon,91,SecondHalf,Aerial,Unsuccessful,64.1,51,,
+868,458440,Siyabonga Ngezana,485,South Africa,91,SecondHalf,Pass,Unsuccessful,35.9,49,49.5,51.3
+616,443793,Samuel Kotto,863,Cameroon,92,SecondHalf,Aerial,Successful,50.5,48.7,,
+869,371447,Lyle Foster,485,South Africa,92,SecondHalf,Aerial,Unsuccessful,49.5,51.3,,
+617,443793,Samuel Kotto,863,Cameroon,92,SecondHalf,Pass,Successful,47.6,53.6,45.9,53.2
+618,447842,Enzo Boyomo,863,Cameroon,92,SecondHalf,Dispossessed,Successful,43.2,49.6,,
+870,457593,Evidence Makgopa,485,South Africa,92,SecondHalf,Tackle,Successful,56.8,50.4,,
+871,457593,Evidence Makgopa,485,South Africa,92,SecondHalf,BallRecovery,Successful,58.7,45.7,,
+872,457593,Evidence Makgopa,485,South Africa,92,SecondHalf,Pass,Unsuccessful,60.4,40.6,91.2,50.7
+619,139110,Dévis Epassy,863,Cameroon,92,SecondHalf,BallRecovery,Successful,5,51.1,,
+623,139110,Dévis Epassy,863,Cameroon,92,SecondHalf,KeeperPickup,Successful,3.4,71.4,,
+625,139110,Dévis Epassy,863,Cameroon,93,SecondHalf,Pass,Successful,23.7,53.1,56.1,36.6
+626,448141,Patrick Soko,863,Cameroon,93,SecondHalf,Pass,Unsuccessful,58.4,39.1,70,46.8
+876,563880,Mbekezeli Mbokazi,485,South Africa,93,SecondHalf,BallRecovery,Successful,29.3,53.3,,
+877,563880,Mbekezeli Mbokazi,485,South Africa,93,SecondHalf,Pass,Successful,33.3,52.4,70.3,83
+878,458440,Siyabonga Ngezana,485,South Africa,93,SecondHalf,Pass,Successful,70.3,83,61.6,90
+879,452622,Aubrey Modiba,485,South Africa,93,SecondHalf,Pass,Successful,61.4,89.9,52.7,69.6
+880,457247,Teboho Mokoena,485,South Africa,93,SecondHalf,Pass,Successful,45.5,65.2,62.2,19.8
+881,464874,Bathusi Aubaas,485,South Africa,93,SecondHalf,Pass,Unsuccessful,66.4,20.7,80.5,43.2
+628,447842,Enzo Boyomo,863,Cameroon,93,SecondHalf,Clearance,Successful,19.3,62.5,31,33.7
+882,457247,Teboho Mokoena,485,South Africa,93,SecondHalf,Pass,Successful,67.4,74.4,78.4,87.4
+883,452622,Aubrey Modiba,485,South Africa,93,SecondHalf,Pass,Unsuccessful,74.4,75.1,88.8,42.5
+629,335583,Nouhou Tolo,863,Cameroon,93,SecondHalf,Clearance,Successful,11.1,57.1,32.2,51.6
+884,457247,Teboho Mokoena,485,South Africa,93,SecondHalf,Foul,Successful,71.2,45.9,,
+630,448141,Patrick Soko,863,Cameroon,93,SecondHalf,Foul,Unsuccessful,28.8,54.1,,
+885,458425,Sipho Mbule,485,South Africa,94,SecondHalf,Pass,Unsuccessful,74,48.5,91.9,65.2
+631,463416,Che Malone,863,Cameroon,94,SecondHalf,Clearance,Successful,6.3,44.8,2.4,0
+887,458425,Sipho Mbule,485,South Africa,94,SecondHalf,Pass,Successful,96.4,100,86.5,95.5
+888,452622,Aubrey Modiba,485,South Africa,94,SecondHalf,Pass,Successful,84.8,93.5,93,95.7
+889,458425,Sipho Mbule,485,South Africa,94,SecondHalf,Pass,Unsuccessful,95.5,94.7,95.3,90.3
+635,468190,Arthur Avom,863,Cameroon,94,SecondHalf,BallTouch,Successful,6.9,18.6,,
+633,443793,Samuel Kotto,863,Cameroon,94,SecondHalf,Clearance,Successful,1.5,38.2,0,34.2
+634,443793,Samuel Kotto,863,Cameroon,94,SecondHalf,CornerAwarded,Unsuccessful,0,30,,
+890,458425,Sipho Mbule,485,South Africa,94,SecondHalf,CornerAwarded,Successful,100,70,,
+891,458425,Sipho Mbule,485,South Africa,94,SecondHalf,Pass,Unsuccessful,99.5,99.5,95.1,53.3
+636,443793,Samuel Kotto,863,Cameroon,94,SecondHalf,Clearance,Successful,7.5,46.6,5,26.6
+892,457593,Evidence Makgopa,485,South Africa,94,SecondHalf,Pass,Unsuccessful,96.6,73.2,90.4,67
+637,448141,Patrick Soko,863,Cameroon,95,SecondHalf,Clearance,Successful,8.1,32.1,51.4,31.8
+893,99002,Ronwen Williams,485,South Africa,95,SecondHalf,Pass,Successful,46.8,69.6,74.5,37.4
+894,371447,Lyle Foster,485,South Africa,95,SecondHalf,Pass,Unsuccessful,74.5,37.4,77.3,32.2
+638,335583,Nouhou Tolo,863,Cameroon,95,SecondHalf,Clearance,Successful,22.7,68.5,39.4,49.8
+639,,,863,Cameroon,95,SecondHalf,End,Successful,0,0,,
+895,,,485,South Africa,95,SecondHalf,End,Successful,0,0,,
+640,,,863,Cameroon,0,PostGame,End,Successful,0,0,,
+896,,,485,South Africa,0,PostGame,End,Successful,0,0,,
+1,,,485,South Africa,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,863,Cameroon,0,PreMatch,FormationSet,Successful,0,0,,

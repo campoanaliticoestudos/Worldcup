@@ -1,0 +1,1586 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+3,,,26,Liverpool,0,FirstHalf,Start,Successful,0,0,,
+3,,,32,Man Utd,0,FirstHalf,Start,Successful,0,0,,
+4,369875,Dominik Szoboszlai,26,Liverpool,0,FirstHalf,Pass,Successful,50.2,50,26.5,47.4
+5,136466,Freddie Woodman,26,Liverpool,0,FirstHalf,Pass,Successful,27.1,46.5,74.3,71.2
+6,352825,Cody Gakpo,26,Liverpool,0,FirstHalf,Pass,Unsuccessful,74.3,71.2,96.3,29.7
+4,402184,Senne Lammens,32,Man Utd,0,FirstHalf,BallRecovery,Successful,5.8,68.1,,
+5,402184,Senne Lammens,32,Man Utd,0,FirstHalf,Pass,Successful,14.3,49.9,22.1,34.2
+6,88526,Casemiro,32,Man Utd,0,FirstHalf,Pass,Successful,22.1,34.2,18.2,31.2
+7,99487,Harry Maguire,32,Man Utd,0,FirstHalf,Pass,Successful,18.3,31.2,8.1,49.6
+8,402184,Senne Lammens,32,Man Utd,0,FirstHalf,Pass,Successful,8.2,49.6,16.2,76.2
+9,517341,Ayden Heaven,32,Man Utd,0,FirstHalf,Pass,Successful,18.4,76.9,5.5,64.2
+10,402184,Senne Lammens,32,Man Utd,0,FirstHalf,Pass,Unsuccessful,8.1,66.4,55.9,91.2
+7,355354,Curtis Jones,26,Liverpool,0,FirstHalf,Aerial,Successful,44.1,8.8,,
+11,362758,Matheus Cunha,32,Man Utd,0,FirstHalf,Aerial,Unsuccessful,55.9,91.2,,
+8,355354,Curtis Jones,26,Liverpool,0,FirstHalf,Pass,Unsuccessful,44.1,8.8,54.6,16
+12,118244,Luke Shaw,32,Man Utd,0,FirstHalf,Aerial,Successful,44.3,88.4,,
+9,392644,Jeremie Frimpong,26,Liverpool,0,FirstHalf,Aerial,Unsuccessful,55.7,11.6,,
+29,118244,Luke Shaw,32,Man Utd,0,FirstHalf,Pass,Unsuccessful,33.3,90.4,35.2,89.8
+10,392644,Jeremie Frimpong,26,Liverpool,0,FirstHalf,BallTouch,Successful,54.7,15.6,,
+11,369875,Dominik Szoboszlai,26,Liverpool,0,FirstHalf,Pass,Successful,63.3,14.8,61.9,23.2
+12,345319,Alexis Mac Allister,26,Liverpool,0,FirstHalf,Pass,Successful,61.9,23.2,68.4,23.2
+13,394786,Florian Wirtz,26,Liverpool,0,FirstHalf,BallRecovery,Successful,68.4,23.2,,
+14,394786,Florian Wirtz,26,Liverpool,0,FirstHalf,Pass,Successful,68.4,21.8,68.6,10.1
+15,392644,Jeremie Frimpong,26,Liverpool,0,FirstHalf,Pass,Successful,68.6,8.5,67.7,11.6
+16,394786,Florian Wirtz,26,Liverpool,0,FirstHalf,Pass,Unsuccessful,67.7,11.8,73.4,0
+11028,424191,Benjamin Sesko,32,Man Utd,1,FirstHalf,OffsideGiven,Unsuccessful,89.3,53.2,,
+14,118244,Luke Shaw,32,Man Utd,1,FirstHalf,Pass,Successful,34.3,100,13.4,87.4
+15,517341,Ayden Heaven,32,Man Utd,1,FirstHalf,Pass,Successful,11.6,84.4,1.7,55.5
+16,402184,Senne Lammens,32,Man Utd,1,FirstHalf,Pass,Successful,1.7,55.5,8.7,25
+17,99487,Harry Maguire,32,Man Utd,1,FirstHalf,Pass,Successful,8.7,25,40.7,15.1
+18,353377,Bryan Mbeumo,32,Man Utd,1,FirstHalf,Pass,Successful,40.7,15.1,32.8,21.6
+19,88526,Casemiro,32,Man Utd,1,FirstHalf,Pass,Successful,32.8,23.4,45.4,40.8
+20,424191,Benjamin Sesko,32,Man Utd,1,FirstHalf,Pass,Successful,45.3,39.9,50.5,20.7
+21,353418,Diogo Dalot,32,Man Utd,1,FirstHalf,Pass,Successful,59.3,19.9,76.8,7.6
+22,353377,Bryan Mbeumo,32,Man Utd,1,FirstHalf,Pass,Successful,84.8,22.5,92.5,26.1
+23,123761,Bruno Fernandes,32,Man Utd,1,FirstHalf,Pass,Unsuccessful,92.6,26.1,87.9,36.6
+18,95408,Virgil van Dijk,26,Liverpool,1,FirstHalf,Clearance,Successful,12.4,60.6,14.3,80.3
+19,115726,Andy Robertson,26,Liverpool,1,FirstHalf,BallRecovery,Successful,14.3,80.3,,
+20,115726,Andy Robertson,26,Liverpool,1,FirstHalf,Pass,Successful,14.3,80.3,25.6,89.6
+21,394786,Florian Wirtz,26,Liverpool,1,FirstHalf,TakeOn,Successful,21.6,88.4,,
+24,88526,Casemiro,32,Man Utd,1,FirstHalf,Challenge,Unsuccessful,78.4,11.6,,
+22,394786,Florian Wirtz,26,Liverpool,1,FirstHalf,Pass,Successful,29.6,93.4,35.3,84.1
+23,115726,Andy Robertson,26,Liverpool,1,FirstHalf,Pass,Unsuccessful,35.6,84,45.5,90
+25,99487,Harry Maguire,32,Man Utd,1,FirstHalf,Pass,Successful,59.4,12.1,69.3,13.8
+26,88526,Casemiro,32,Man Utd,1,FirstHalf,BallRecovery,Successful,69.4,13.8,,
+27,88526,Casemiro,32,Man Utd,1,FirstHalf,Pass,Successful,69.4,13.8,81.4,11.1
+28,123761,Bruno Fernandes,32,Man Utd,1,FirstHalf,OffsidePass,Successful,81.6,11.1,89.3,53.2
+24,355354,Curtis Jones,26,Liverpool,1,FirstHalf,OffsideProvoked,Successful,13.6,42.1,,
+25,136466,Freddie Woodman,26,Liverpool,2,FirstHalf,Pass,Successful,11.5,56.5,61.4,93.4
+26,352825,Cody Gakpo,26,Liverpool,2,FirstHalf,Aerial,Successful,61.4,93.4,,
+30,353418,Diogo Dalot,32,Man Utd,2,FirstHalf,Aerial,Unsuccessful,38.6,6.6,,
+27,352825,Cody Gakpo,26,Liverpool,2,FirstHalf,BallTouch,Unsuccessful,62,93.4,,
+32,353418,Diogo Dalot,32,Man Utd,2,FirstHalf,Pass,Successful,32.5,0,9.2,13.8
+33,99487,Harry Maguire,32,Man Utd,3,FirstHalf,Pass,Successful,9.2,13.8,18.6,5.4
+34,353418,Diogo Dalot,32,Man Utd,3,FirstHalf,Pass,Successful,18.8,5.4,4,47.1
+35,402184,Senne Lammens,32,Man Utd,3,FirstHalf,Pass,Successful,4,47.1,11.5,74.7
+36,517341,Ayden Heaven,32,Man Utd,3,FirstHalf,Pass,Successful,12.2,78.3,25.3,97.8
+37,118244,Luke Shaw,32,Man Utd,3,FirstHalf,BallTouch,Unsuccessful,25.3,97.8,,
+30,355354,Curtis Jones,26,Liverpool,3,FirstHalf,Pass,Successful,68.6,0,56.9,12.7
+31,363884,Ryan Gravenberch,26,Liverpool,3,FirstHalf,Pass,Successful,40.5,6.8,14.5,36.4
+32,136466,Freddie Woodman,26,Liverpool,3,FirstHalf,Pass,Unsuccessful,14.9,36.8,42.4,77.4
+39,353377,Bryan Mbeumo,32,Man Utd,3,FirstHalf,BallRecovery,Successful,61.8,27.3,,
+40,353377,Bryan Mbeumo,32,Man Utd,3,FirstHalf,Pass,Unsuccessful,65.9,29.4,66.9,31
+33,345319,Alexis Mac Allister,26,Liverpool,3,FirstHalf,BlockedPass,Successful,33.1,69,,
+34,95408,Virgil van Dijk,26,Liverpool,3,FirstHalf,Clearance,Successful,15.4,66.8,20.7,54.4
+41,362758,Matheus Cunha,32,Man Utd,3,FirstHalf,Pass,Unsuccessful,81.3,54.1,81.3,50.8
+35,95408,Virgil van Dijk,26,Liverpool,3,FirstHalf,Clearance,Successful,19.9,57,30,68
+42,88526,Casemiro,32,Man Utd,3,FirstHalf,Pass,Successful,71.9,40.2,78,28.6
+43,353377,Bryan Mbeumo,32,Man Utd,3,FirstHalf,Pass,Unsuccessful,78.2,17.4,100,66.4
+37,95408,Virgil van Dijk,26,Liverpool,4,FirstHalf,Pass,Successful,4.9,57.4,5.8,47.7
+38,136466,Freddie Woodman,26,Liverpool,4,FirstHalf,Pass,Unsuccessful,5,48.5,60.8,94.4
+731,353418,Diogo Dalot,32,Man Utd,4,FirstHalf,Pass,Unsuccessful,41.6,16.1,52.8,15.9
+40,394786,Florian Wirtz,26,Liverpool,4,FirstHalf,TakeOn,Unsuccessful,48.8,87.6,,
+45,88526,Casemiro,32,Man Utd,4,FirstHalf,Tackle,Successful,51.2,12.3,,
+46,353377,Bryan Mbeumo,32,Man Utd,4,FirstHalf,BallRecovery,Successful,55.4,6.9,,
+47,353377,Bryan Mbeumo,32,Man Utd,4,FirstHalf,Pass,Unsuccessful,55.4,6.9,55.8,10.3
+41,394786,Florian Wirtz,26,Liverpool,4,FirstHalf,BallTouch,Successful,49.6,89.4,,
+48,88526,Casemiro,32,Man Utd,4,FirstHalf,TakeOn,Unsuccessful,57.3,17.2,,
+42,369875,Dominik Szoboszlai,26,Liverpool,4,FirstHalf,Tackle,Unsuccessful,42.7,82.8,,
+133,88526,Casemiro,32,Man Utd,4,FirstHalf,BallTouch,Successful,62.6,24.4,,
+44,394786,Florian Wirtz,26,Liverpool,4,FirstHalf,BallTouch,Unsuccessful,51.2,58.2,,
+49,,,32,Man Utd,4,FirstHalf,Foul,Successful,55.8,15.7,,
+43,394786,Florian Wirtz,26,Liverpool,4,FirstHalf,Foul,Unsuccessful,44.2,84.4,,
+50,99487,Harry Maguire,32,Man Utd,4,FirstHalf,Pass,Successful,52.9,22.3,42.5,31
+51,460260,Kobbie Mainoo,32,Man Utd,4,FirstHalf,Pass,Successful,42.3,31.8,45.5,14.4
+52,99487,Harry Maguire,32,Man Utd,5,FirstHalf,Pass,Successful,66.6,11.7,81.9,6
+53,353418,Diogo Dalot,32,Man Utd,5,FirstHalf,Pass,Successful,84.1,8.4,93.9,20.2
+54,353377,Bryan Mbeumo,32,Man Utd,5,FirstHalf,Pass,Successful,93.7,19.2,92.9,43.8
+56,424191,Benjamin Sesko,32,Man Utd,5,FirstHalf,SavedShot,Successful,93,42.3,,
+45,345957,Ibrahima Konaté,26,Liverpool,5,FirstHalf,Save,Successful,6.7,55.6,,
+46,345957,Ibrahima Konaté,26,Liverpool,5,FirstHalf,CornerAwarded,Unsuccessful,2.8,64.2,,
+55,424191,Benjamin Sesko,32,Man Utd,5,FirstHalf,CornerAwarded,Successful,97.2,35.8,,
+57,353377,Bryan Mbeumo,32,Man Utd,5,FirstHalf,Pass,Unsuccessful,99.7,0.7,95.7,43.6
+47,115726,Andy Robertson,26,Liverpool,5,FirstHalf,Clearance,Successful,3.3,58.3,18.4,46.4
+58,362758,Matheus Cunha,32,Man Utd,5,FirstHalf,SavedShot,Successful,80.6,51.9,,
+48,363884,Ryan Gravenberch,26,Liverpool,5,FirstHalf,Save,Successful,11.5,48.2,,
+59,362758,Matheus Cunha,32,Man Utd,5,FirstHalf,Goal,Successful,84.7,54.3,,
+49,369875,Dominik Szoboszlai,26,Liverpool,6,FirstHalf,Pass,Successful,50.6,49.7,40.6,47.9
+962,363884,Ryan Gravenberch,26,Liverpool,6,FirstHalf,Pass,Successful,39.8,44.4,36.3,22.5
+11054,352825,Cody Gakpo,26,Liverpool,7,FirstHalf,OffsideGiven,Unsuccessful,92.7,54.5,,
+963,355354,Curtis Jones,26,Liverpool,7,FirstHalf,Pass,Successful,36.3,22.5,47.4,33.4
+964,345319,Alexis Mac Allister,26,Liverpool,7,FirstHalf,Pass,Successful,47.4,33.4,57.6,13.8
+965,369875,Dominik Szoboszlai,26,Liverpool,7,FirstHalf,Pass,Successful,57.6,13.8,39.8,15
+966,355354,Curtis Jones,26,Liverpool,7,FirstHalf,Pass,Successful,39.8,15,27.1,42.7
+967,345957,Ibrahima Konaté,26,Liverpool,7,FirstHalf,Pass,Successful,27.1,42.7,27.9,69.2
+968,95408,Virgil van Dijk,26,Liverpool,7,FirstHalf,Pass,Unsuccessful,27.9,69.2,70.7,66.6
+60,99487,Harry Maguire,32,Man Utd,7,FirstHalf,Pass,Unsuccessful,27.1,39.4,42.4,19.8
+51,345319,Alexis Mac Allister,26,Liverpool,7,FirstHalf,Pass,Successful,58,79.4,62.7,84.1
+52,115726,Andy Robertson,26,Liverpool,7,FirstHalf,Pass,Successful,64.9,87.9,71.6,47.7
+53,369875,Dominik Szoboszlai,26,Liverpool,7,FirstHalf,Pass,Successful,76.2,40.7,85.3,25.8
+54,392644,Jeremie Frimpong,26,Liverpool,7,FirstHalf,OffsidePass,Successful,84,24.2,92.7,54.5
+61,99487,Harry Maguire,32,Man Utd,7,FirstHalf,OffsideProvoked,Successful,15.1,55.6,,
+62,517341,Ayden Heaven,32,Man Utd,8,FirstHalf,Pass,Successful,13.4,60.1,11.6,47.2
+63,402184,Senne Lammens,32,Man Utd,8,FirstHalf,Pass,Successful,7.3,45,7.8,19.5
+64,99487,Harry Maguire,32,Man Utd,8,FirstHalf,Pass,Unsuccessful,7.8,16.6,58.2,17.5
+55,95408,Virgil van Dijk,26,Liverpool,8,FirstHalf,Pass,Unsuccessful,45.7,83,65.4,100
+66,353418,Diogo Dalot,32,Man Utd,8,FirstHalf,Pass,Successful,31.4,0,35.4,11.4
+67,88526,Casemiro,32,Man Utd,8,FirstHalf,Pass,Successful,35.4,11.4,31.3,6.7
+68,353418,Diogo Dalot,32,Man Utd,8,FirstHalf,Pass,Successful,31.3,6.7,34.2,12.6
+69,88526,Casemiro,32,Man Utd,8,FirstHalf,Pass,Successful,34.2,12.6,18.8,17.1
+70,99487,Harry Maguire,32,Man Utd,8,FirstHalf,Pass,Successful,18.4,19.9,21.6,13.2
+71,88526,Casemiro,32,Man Utd,8,FirstHalf,Pass,Successful,21.6,13,5.2,45
+72,402184,Senne Lammens,32,Man Utd,8,FirstHalf,Pass,Successful,5.2,45,21,76.8
+73,517341,Ayden Heaven,32,Man Utd,8,FirstHalf,BallTouch,Successful,21.1,77.4,,
+74,118244,Luke Shaw,32,Man Utd,8,FirstHalf,Pass,Successful,28.9,92.1,24.6,86.4
+75,517341,Ayden Heaven,32,Man Utd,8,FirstHalf,Pass,Successful,24.6,86.4,29.1,94.5
+76,118244,Luke Shaw,32,Man Utd,8,FirstHalf,Pass,Unsuccessful,29.1,94.5,30.7,95.5
+57,392644,Jeremie Frimpong,26,Liverpool,8,FirstHalf,BlockedPass,Successful,69.3,4.5,,
+58,392644,Jeremie Frimpong,26,Liverpool,8,FirstHalf,TakeOn,Unsuccessful,84.4,7.6,,
+79,118244,Luke Shaw,32,Man Utd,8,FirstHalf,Tackle,Successful,15.6,92.4,,
+77,517341,Ayden Heaven,32,Man Utd,8,FirstHalf,Pass,Unsuccessful,9.6,87.4,10.9,88.3
+59,369875,Dominik Szoboszlai,26,Liverpool,8,FirstHalf,BlockedPass,Successful,89.1,11.7,,
+80,118244,Luke Shaw,32,Man Utd,9,FirstHalf,Pass,Successful,21.1,100,32,93.7
+81,362758,Matheus Cunha,32,Man Utd,9,FirstHalf,Pass,Unsuccessful,29.9,92.8,33.7,88.2
+61,345957,Ibrahima Konaté,26,Liverpool,9,FirstHalf,Pass,Successful,73.8,10.9,75,14.2
+62,345319,Alexis Mac Allister,26,Liverpool,9,FirstHalf,BallTouch,Successful,75,14.2,,
+63,345957,Ibrahima Konaté,26,Liverpool,9,FirstHalf,Aerial,Successful,67.8,15,,
+82,424191,Benjamin Sesko,32,Man Utd,9,FirstHalf,Aerial,Unsuccessful,32.2,85,,
+64,345957,Ibrahima Konaté,26,Liverpool,9,FirstHalf,Pass,Successful,69.6,15.4,73.8,11
+65,363884,Ryan Gravenberch,26,Liverpool,9,FirstHalf,Pass,Successful,74.2,10.9,77.5,18.8
+66,369875,Dominik Szoboszlai,26,Liverpool,9,FirstHalf,Pass,Successful,77.6,19.4,78.2,31.7
+67,352825,Cody Gakpo,26,Liverpool,9,FirstHalf,BallRecovery,Successful,78.2,31.7,,
+68,352825,Cody Gakpo,26,Liverpool,9,FirstHalf,TakeOn,Unsuccessful,79,26.8,,
+83,460260,Kobbie Mainoo,32,Man Utd,9,FirstHalf,Tackle,Unsuccessful,21,73.2,,
+69,352825,Cody Gakpo,26,Liverpool,9,FirstHalf,BallTouch,Successful,80,28.3,,
+86,460260,Kobbie Mainoo,32,Man Utd,9,FirstHalf,BallTouch,Successful,26.9,73.3,,
+84,99487,Harry Maguire,32,Man Utd,9,FirstHalf,Pass,Unsuccessful,22.4,66.7,22.9,66.1
+70,369875,Dominik Szoboszlai,26,Liverpool,9,FirstHalf,BlockedPass,Successful,77.1,33.9,,
+90,99487,Harry Maguire,32,Man Utd,9,FirstHalf,BallTouch,Successful,24.9,59.7,,
+98,369875,Dominik Szoboszlai,26,Liverpool,9,FirstHalf,BallTouch,Successful,77.1,54.5,,
+85,99487,Harry Maguire,32,Man Utd,9,FirstHalf,Pass,Unsuccessful,22.9,66.1,29.3,70.3
+71,363884,Ryan Gravenberch,26,Liverpool,9,FirstHalf,Pass,Successful,64.4,25.7,60.4,11.2
+72,355354,Curtis Jones,26,Liverpool,9,FirstHalf,Pass,Successful,59.6,23,62.5,27.1
+73,345319,Alexis Mac Allister,26,Liverpool,9,FirstHalf,Pass,Successful,62.6,27.1,64.3,8.9
+74,363884,Ryan Gravenberch,26,Liverpool,9,FirstHalf,Pass,Successful,65.6,9.7,61.1,18
+75,355354,Curtis Jones,26,Liverpool,9,FirstHalf,Pass,Successful,63.9,25.3,56.4,38.3
+76,345957,Ibrahima Konaté,26,Liverpool,9,FirstHalf,Pass,Successful,56.4,38.3,47.7,64.6
+77,95408,Virgil van Dijk,26,Liverpool,9,FirstHalf,Pass,Successful,47.6,65.6,48.8,86.7
+78,115726,Andy Robertson,26,Liverpool,9,FirstHalf,Pass,Successful,48.7,86.7,41.7,66.4
+79,95408,Virgil van Dijk,26,Liverpool,9,FirstHalf,Pass,Successful,43.8,58.5,45.1,34.2
+80,345957,Ibrahima Konaté,26,Liverpool,9,FirstHalf,Pass,Successful,45.4,33.3,49.7,16
+81,355354,Curtis Jones,26,Liverpool,9,FirstHalf,Pass,Successful,46.5,11.8,53.9,33.6
+82,345319,Alexis Mac Allister,26,Liverpool,9,FirstHalf,Pass,Successful,53.9,33.6,60.6,18.3
+83,369875,Dominik Szoboszlai,26,Liverpool,9,FirstHalf,Pass,Successful,77.2,18.4,90.2,17.2
+84,363884,Ryan Gravenberch,26,Liverpool,9,FirstHalf,Pass,Unsuccessful,87.8,19.2,89.2,35
+87,517341,Ayden Heaven,32,Man Utd,9,FirstHalf,Clearance,Successful,6.4,64.5,41.4,97.9
+85,355354,Curtis Jones,26,Liverpool,10,FirstHalf,Pass,Successful,60.7,14.4,59.5,33.8
+86,345319,Alexis Mac Allister,26,Liverpool,10,FirstHalf,Pass,Successful,58,45.1,56.4,75
+87,95408,Virgil van Dijk,26,Liverpool,10,FirstHalf,Pass,Successful,57.9,76.5,53.5,57.3
+88,345319,Alexis Mac Allister,26,Liverpool,10,FirstHalf,Pass,Successful,53.5,57.3,56.6,24.1
+89,355354,Curtis Jones,26,Liverpool,10,FirstHalf,Pass,Unsuccessful,56.7,22.9,100,23.8
+88,517341,Ayden Heaven,32,Man Utd,10,FirstHalf,ShieldBallOpp,Successful,4.9,73.8,,
+91,517341,Ayden Heaven,32,Man Utd,10,FirstHalf,Pass,Successful,4.4,59.2,3.6,48
+92,402184,Senne Lammens,32,Man Utd,10,FirstHalf,Pass,Successful,5.4,46.3,12.9,79.3
+93,517341,Ayden Heaven,32,Man Utd,10,FirstHalf,Pass,Successful,20.8,80.5,31.8,66.4
+94,362758,Matheus Cunha,32,Man Utd,10,FirstHalf,Pass,Successful,31.3,61.9,31.4,14.2
+95,353418,Diogo Dalot,32,Man Utd,10,FirstHalf,Pass,Unsuccessful,39.9,13.5,47.7,21.7
+91,352825,Cody Gakpo,26,Liverpool,10,FirstHalf,Interception,Successful,54,79.1,,
+92,115726,Andy Robertson,26,Liverpool,11,FirstHalf,BallRecovery,Successful,28.4,79.4,,
+93,115726,Andy Robertson,26,Liverpool,11,FirstHalf,Pass,Successful,27.9,79.7,15.1,58.9
+94,136466,Freddie Woodman,26,Liverpool,11,FirstHalf,Pass,Successful,14.9,58.6,44.4,85.5
+95,352825,Cody Gakpo,26,Liverpool,11,FirstHalf,Aerial,Successful,44.4,85.5,,
+96,362758,Matheus Cunha,32,Man Utd,11,FirstHalf,Aerial,Unsuccessful,55.6,14.5,,
+96,352825,Cody Gakpo,26,Liverpool,11,FirstHalf,Pass,Unsuccessful,44.4,85.5,56.9,82.6
+97,353418,Diogo Dalot,32,Man Utd,11,FirstHalf,BallRecovery,Successful,44.4,16.8,,
+98,353418,Diogo Dalot,32,Man Utd,11,FirstHalf,Pass,Successful,44.4,16.8,35.2,17.1
+99,99487,Harry Maguire,32,Man Utd,11,FirstHalf,Pass,Successful,35.2,17.1,41.5,7.9
+100,353418,Diogo Dalot,32,Man Utd,11,FirstHalf,Pass,Successful,41.5,7.9,42.4,27.9
+101,460260,Kobbie Mainoo,32,Man Utd,11,FirstHalf,Pass,Successful,42.4,27.9,29.1,25.5
+102,99487,Harry Maguire,32,Man Utd,11,FirstHalf,Pass,Successful,29.6,28.2,28.5,58.6
+103,517341,Ayden Heaven,32,Man Utd,11,FirstHalf,Pass,Successful,27.2,65.2,7.4,52.9
+104,402184,Senne Lammens,32,Man Utd,11,FirstHalf,Pass,Successful,7.4,52.9,16,23.4
+105,99487,Harry Maguire,32,Man Utd,11,FirstHalf,Pass,Successful,17.2,22,27.2,27.6
+106,88526,Casemiro,32,Man Utd,11,FirstHalf,Pass,Successful,27.3,27.6,27.3,38.1
+107,460260,Kobbie Mainoo,32,Man Utd,11,FirstHalf,Foul,Successful,32,36.3,,
+97,369875,Dominik Szoboszlai,26,Liverpool,11,FirstHalf,Foul,Unsuccessful,68,63.7,,
+108,88526,Casemiro,32,Man Utd,11,FirstHalf,Pass,Successful,39.1,40.9,35.3,47.4
+109,460260,Kobbie Mainoo,32,Man Utd,11,FirstHalf,Pass,Successful,42.5,51.1,48.4,10.9
+110,99487,Harry Maguire,32,Man Utd,11,FirstHalf,Pass,Successful,47.7,12,48.4,37.3
+111,88526,Casemiro,32,Man Utd,12,FirstHalf,Pass,Successful,48.7,38.4,42.6,49.5
+112,460260,Kobbie Mainoo,32,Man Utd,12,FirstHalf,Pass,Successful,45.8,58.8,44.1,88
+113,517341,Ayden Heaven,32,Man Utd,12,FirstHalf,Pass,Successful,44.1,88,55.3,92.1
+114,118244,Luke Shaw,32,Man Utd,12,FirstHalf,Pass,Successful,55.3,92.1,54.7,87.7
+115,460260,Kobbie Mainoo,32,Man Utd,12,FirstHalf,Pass,Unsuccessful,54.7,87.7,42.6,87.4
+99,369875,Dominik Szoboszlai,26,Liverpool,12,FirstHalf,TakeOn,Unsuccessful,60.4,14.3,,
+116,517341,Ayden Heaven,32,Man Utd,12,FirstHalf,Tackle,Successful,39.6,85.7,,
+117,99487,Harry Maguire,32,Man Utd,12,FirstHalf,Pass,Unsuccessful,36.2,52.8,47.5,70.9
+100,363884,Ryan Gravenberch,26,Liverpool,12,FirstHalf,Pass,Successful,56.5,28.2,68.6,60.8
+101,352825,Cody Gakpo,26,Liverpool,12,FirstHalf,BallRecovery,Successful,67.3,67.3,,
+102,352825,Cody Gakpo,26,Liverpool,12,FirstHalf,Pass,Successful,67.1,73.2,75.7,84.6
+103,115726,Andy Robertson,26,Liverpool,12,FirstHalf,BallTouch,Unsuccessful,85.6,87.6,,
+119,353377,Bryan Mbeumo,32,Man Utd,12,FirstHalf,BallTouch,Unsuccessful,12.6,5.4,,
+105,115726,Andy Robertson,26,Liverpool,12,FirstHalf,Pass,Successful,82.5,100,63,89.7
+106,345319,Alexis Mac Allister,26,Liverpool,12,FirstHalf,Pass,Successful,62.7,88.2,63.7,69
+107,363884,Ryan Gravenberch,26,Liverpool,12,FirstHalf,TakeOn,Successful,70.4,65.7,,
+121,88526,Casemiro,32,Man Utd,12,FirstHalf,Challenge,Unsuccessful,29.6,34.3,,
+108,363884,Ryan Gravenberch,26,Liverpool,12,FirstHalf,Pass,Successful,64.9,67.9,72.1,73.5
+109,394786,Florian Wirtz,26,Liverpool,12,FirstHalf,Pass,Successful,72.4,72.9,73.8,58.6
+110,363884,Ryan Gravenberch,26,Liverpool,12,FirstHalf,Pass,Successful,74.4,58.5,76.7,46.4
+111,369875,Dominik Szoboszlai,26,Liverpool,12,FirstHalf,Pass,Successful,77,45.3,84.3,28.3
+112,392644,Jeremie Frimpong,26,Liverpool,12,FirstHalf,Pass,Successful,85.3,26.3,80.1,32.7
+113,369875,Dominik Szoboszlai,26,Liverpool,12,FirstHalf,Pass,Successful,80.1,32.7,71.8,36.1
+114,355354,Curtis Jones,26,Liverpool,12,FirstHalf,Pass,Successful,71.1,36.4,65.3,59.9
+115,345957,Ibrahima Konaté,26,Liverpool,12,FirstHalf,Pass,Successful,65,60.5,58.9,70.5
+116,95408,Virgil van Dijk,26,Liverpool,12,FirstHalf,Pass,Successful,58.6,70.9,68.1,69.6
+117,345319,Alexis Mac Allister,26,Liverpool,12,FirstHalf,Pass,Successful,68.3,72,75.4,91.7
+118,115726,Andy Robertson,26,Liverpool,12,FirstHalf,Pass,Successful,75.7,91.8,66.2,87.1
+119,345319,Alexis Mac Allister,26,Liverpool,13,FirstHalf,Pass,Successful,66.2,89.7,67.5,79.4
+120,394786,Florian Wirtz,26,Liverpool,13,FirstHalf,Pass,Successful,67.5,79.4,54.9,79.4
+121,95408,Virgil van Dijk,26,Liverpool,13,FirstHalf,Pass,Successful,54.9,79.4,61.6,88.5
+122,345319,Alexis Mac Allister,26,Liverpool,13,FirstHalf,Pass,Unsuccessful,67.3,83,72.2,65.5
+122,460260,Kobbie Mainoo,32,Man Utd,13,FirstHalf,BallRecovery,Successful,28.5,37.9,,
+123,460260,Kobbie Mainoo,32,Man Utd,13,FirstHalf,Pass,Successful,28.5,37.9,33.7,39.1
+124,123761,Bruno Fernandes,32,Man Utd,13,FirstHalf,Pass,Successful,33.7,39.1,30,32.2
+125,88526,Casemiro,32,Man Utd,13,FirstHalf,Pass,Successful,30,32.2,45.7,11.2
+126,353377,Bryan Mbeumo,32,Man Utd,13,FirstHalf,Pass,Successful,50.5,14.7,80.3,16.2
+127,123761,Bruno Fernandes,32,Man Utd,13,FirstHalf,Pass,Successful,82.8,16.6,91.6,54.1
+128,424191,Benjamin Sesko,32,Man Utd,13,FirstHalf,SavedShot,Successful,91.6,54.1,,
+123,136466,Freddie Woodman,26,Liverpool,13,FirstHalf,Save,Successful,4.5,47.6,,
+129,362758,Matheus Cunha,32,Man Utd,13,FirstHalf,Pass,Successful,90.6,79.8,79.2,75.6
+130,118244,Luke Shaw,32,Man Utd,13,FirstHalf,Pass,Successful,87.2,75,96.3,39.9
+131,123761,Bruno Fernandes,32,Man Utd,13,FirstHalf,Pass,Unsuccessful,96.4,41.3,97.2,51.5
+124,136466,Freddie Woodman,26,Liverpool,13,FirstHalf,Clearance,Successful,1.7,50.9,3.7,49.5
+132,424191,Benjamin Sesko,32,Man Utd,13,FirstHalf,Goal,Successful,97.1,50.1,,
+126,369875,Dominik Szoboszlai,26,Liverpool,16,FirstHalf,Pass,Successful,49.8,50.3,38.7,46.1
+127,363884,Ryan Gravenberch,26,Liverpool,16,FirstHalf,Pass,Successful,38.7,46.1,35.6,32.7
+128,355354,Curtis Jones,26,Liverpool,16,FirstHalf,Pass,Successful,34.6,31.8,33.9,40.1
+129,363884,Ryan Gravenberch,26,Liverpool,16,FirstHalf,Pass,Successful,33.9,40.1,23.1,47.4
+130,345957,Ibrahima Konaté,26,Liverpool,16,FirstHalf,Pass,Successful,23.1,47.4,8.9,47.9
+131,136466,Freddie Woodman,26,Liverpool,16,FirstHalf,Pass,Successful,8.8,47.9,16.2,20.6
+132,355354,Curtis Jones,26,Liverpool,17,FirstHalf,Pass,Successful,11.9,22,32.7,65.3
+133,394786,Florian Wirtz,26,Liverpool,17,FirstHalf,Pass,Successful,34.1,66.4,35.1,89.7
+134,115726,Andy Robertson,26,Liverpool,17,FirstHalf,Pass,Successful,68.6,85.8,88,90.9
+135,394786,Florian Wirtz,26,Liverpool,17,FirstHalf,Pass,Unsuccessful,95.9,90.3,96.3,67.7
+134,99487,Harry Maguire,32,Man Utd,17,FirstHalf,Clearance,Successful,4.7,36.7,21.4,21.1
+136,115726,Andy Robertson,26,Liverpool,17,FirstHalf,Pass,Successful,78.6,86.8,70.3,79.4
+137,95408,Virgil van Dijk,26,Liverpool,17,FirstHalf,Pass,Successful,70.3,79.4,75,90.6
+138,115726,Andy Robertson,26,Liverpool,17,FirstHalf,Pass,Successful,75,90.8,62.5,77.4
+139,95408,Virgil van Dijk,26,Liverpool,17,FirstHalf,Pass,Successful,62,74,65.3,62.6
+140,363884,Ryan Gravenberch,26,Liverpool,17,FirstHalf,Pass,Successful,66.5,64.3,73.2,70.8
+141,394786,Florian Wirtz,26,Liverpool,17,FirstHalf,Pass,Successful,74.1,71.7,71,72.1
+142,363884,Ryan Gravenberch,26,Liverpool,17,FirstHalf,Pass,Successful,71,69.9,62.2,49.7
+143,345957,Ibrahima Konaté,26,Liverpool,17,FirstHalf,Pass,Successful,61.8,47.7,63.2,23.3
+144,355354,Curtis Jones,26,Liverpool,17,FirstHalf,Pass,Unsuccessful,65.4,13.6,73.6,14.2
+135,362758,Matheus Cunha,32,Man Utd,17,FirstHalf,Interception,Successful,26.4,85.8,,
+146,355354,Curtis Jones,26,Liverpool,18,FirstHalf,Pass,Successful,77.1,0,87.9,8.2
+147,394786,Florian Wirtz,26,Liverpool,18,FirstHalf,Pass,Successful,88.8,9.7,78.6,5
+148,355354,Curtis Jones,26,Liverpool,18,FirstHalf,Pass,Successful,73.5,8,81.7,14.2
+149,392644,Jeremie Frimpong,26,Liverpool,18,FirstHalf,BallTouch,Unsuccessful,83.4,13.2,,
+137,517341,Ayden Heaven,32,Man Utd,18,FirstHalf,BallRecovery,Successful,4.8,88.8,,
+138,517341,Ayden Heaven,32,Man Utd,18,FirstHalf,Pass,Successful,4.8,88.8,6.5,75.3
+139,88526,Casemiro,32,Man Utd,18,FirstHalf,Pass,Unsuccessful,6.5,75.3,28.9,51.3
+150,95408,Virgil van Dijk,26,Liverpool,18,FirstHalf,Pass,Successful,69.8,58.8,70.3,50.2
+151,345319,Alexis Mac Allister,26,Liverpool,18,FirstHalf,BallRecovery,Successful,70.3,50.2,,
+140,123761,Bruno Fernandes,32,Man Utd,18,FirstHalf,Challenge,Unsuccessful,26.8,59.2,,
+152,345319,Alexis Mac Allister,26,Liverpool,18,FirstHalf,TakeOn,Successful,73.2,40.7,,
+153,345319,Alexis Mac Allister,26,Liverpool,18,FirstHalf,Pass,Successful,71.3,45,73.4,35.9
+154,363884,Ryan Gravenberch,26,Liverpool,18,FirstHalf,Pass,Unsuccessful,73.4,35.9,75.7,36.4
+141,362758,Matheus Cunha,32,Man Utd,18,FirstHalf,BlockedPass,Successful,24.3,63.6,,
+143,424191,Benjamin Sesko,32,Man Utd,18,FirstHalf,TakeOn,Unsuccessful,30.8,69.2,,
+155,345319,Alexis Mac Allister,26,Liverpool,18,FirstHalf,Tackle,Successful,69.2,30.8,,
+156,363884,Ryan Gravenberch,26,Liverpool,18,FirstHalf,BallTouch,Unsuccessful,66.4,30,,
+142,424191,Benjamin Sesko,32,Man Utd,18,FirstHalf,BallRecovery,Successful,33.7,73.3,,
+144,424191,Benjamin Sesko,32,Man Utd,18,FirstHalf,TakeOn,Unsuccessful,34.2,71,,
+157,369875,Dominik Szoboszlai,26,Liverpool,18,FirstHalf,Tackle,Successful,65.8,29,,
+158,95408,Virgil van Dijk,26,Liverpool,18,FirstHalf,BallRecovery,Successful,43,16.3,,
+159,95408,Virgil van Dijk,26,Liverpool,18,FirstHalf,Pass,Successful,42.8,16.3,46,29.2
+160,345319,Alexis Mac Allister,26,Liverpool,18,FirstHalf,Pass,Successful,45.7,29.5,56.8,36.1
+161,394786,Florian Wirtz,26,Liverpool,18,FirstHalf,Pass,Unsuccessful,57.8,32,60.4,22.9
+146,362758,Matheus Cunha,32,Man Utd,18,FirstHalf,Interception,Successful,39.6,77.1,,
+147,118244,Luke Shaw,32,Man Utd,18,FirstHalf,BallRecovery,Successful,31.3,86.5,,
+148,118244,Luke Shaw,32,Man Utd,18,FirstHalf,Pass,Successful,31.3,86.5,36.2,75.7
+149,362758,Matheus Cunha,32,Man Utd,18,FirstHalf,TakeOn,Unsuccessful,37.5,76.2,,
+163,369875,Dominik Szoboszlai,26,Liverpool,18,FirstHalf,TakeOn,Unsuccessful,62.6,28.5,,
+150,88526,Casemiro,32,Man Utd,18,FirstHalf,Tackle,Unsuccessful,37.4,71.5,,
+488,369875,Dominik Szoboszlai,26,Liverpool,18,FirstHalf,BallTouch,Successful,68.7,31.8,,
+151,362758,Matheus Cunha,32,Man Utd,18,FirstHalf,Dispossessed,Successful,35.7,77.2,,
+164,394786,Florian Wirtz,26,Liverpool,18,FirstHalf,Tackle,Successful,64.3,22.8,,
+165,392644,Jeremie Frimpong,26,Liverpool,18,FirstHalf,BallRecovery,Successful,60.2,11.8,,
+166,392644,Jeremie Frimpong,26,Liverpool,18,FirstHalf,Pass,Successful,61.3,11.6,66.8,15.9
+167,394786,Florian Wirtz,26,Liverpool,18,FirstHalf,Pass,Successful,67.3,16.6,62.3,11
+168,355354,Curtis Jones,26,Liverpool,18,FirstHalf,Pass,Successful,60.5,10.6,48,57.4
+169,345957,Ibrahima Konaté,26,Liverpool,18,FirstHalf,Pass,Successful,55.9,57.3,67.6,52.9
+170,369875,Dominik Szoboszlai,26,Liverpool,18,FirstHalf,Pass,Successful,68.5,46.7,64.8,34.4
+171,363884,Ryan Gravenberch,26,Liverpool,19,FirstHalf,Pass,Successful,64,31,67,11.2
+172,355354,Curtis Jones,26,Liverpool,19,FirstHalf,Pass,Successful,70.6,11.5,66.1,21.5
+173,363884,Ryan Gravenberch,26,Liverpool,19,FirstHalf,Pass,Successful,65.4,25.4,63.8,55.6
+174,95408,Virgil van Dijk,26,Liverpool,19,FirstHalf,Pass,Successful,65.5,63.5,64.2,54.7
+175,345957,Ibrahima Konaté,26,Liverpool,19,FirstHalf,Pass,Successful,63.9,53.5,66.2,34.2
+176,363884,Ryan Gravenberch,26,Liverpool,19,FirstHalf,Pass,Successful,65.8,33.2,68.4,13.9
+177,355354,Curtis Jones,26,Liverpool,19,FirstHalf,Pass,Successful,70.5,15.3,73.6,30
+178,345319,Alexis Mac Allister,26,Liverpool,19,FirstHalf,Pass,Successful,73.6,30,68.9,25.7
+179,363884,Ryan Gravenberch,26,Liverpool,19,FirstHalf,Pass,Successful,66.3,32.9,59,40
+180,345957,Ibrahima Konaté,26,Liverpool,19,FirstHalf,Pass,Successful,61.9,23.3,72.5,1.8
+181,392644,Jeremie Frimpong,26,Liverpool,19,FirstHalf,Pass,Successful,75.8,5.7,62.3,28.5
+182,345957,Ibrahima Konaté,26,Liverpool,19,FirstHalf,Pass,Successful,62.2,28.6,64.7,17.7
+183,355354,Curtis Jones,26,Liverpool,19,FirstHalf,Pass,Successful,64.8,17.6,74.5,7.4
+184,392644,Jeremie Frimpong,26,Liverpool,19,FirstHalf,Pass,Successful,74.5,7.4,77.5,14.2
+185,394786,Florian Wirtz,26,Liverpool,19,FirstHalf,Pass,Unsuccessful,77.5,14.2,88.4,14.2
+153,118244,Luke Shaw,32,Man Utd,19,FirstHalf,Pass,Successful,6.5,91.3,6.9,88.5
+154,517341,Ayden Heaven,32,Man Utd,19,FirstHalf,BallRecovery,Successful,6.9,88.5,,
+155,517341,Ayden Heaven,32,Man Utd,19,FirstHalf,Pass,Successful,6.9,88.5,5.3,94.5
+156,118244,Luke Shaw,32,Man Utd,19,FirstHalf,Pass,Unsuccessful,5.3,94.5,22.6,100
+187,355354,Curtis Jones,26,Liverpool,19,FirstHalf,Pass,Successful,77.6,0,77.9,10.7
+188,369875,Dominik Szoboszlai,26,Liverpool,19,FirstHalf,Pass,Successful,71.3,17.6,57.2,32.4
+189,95408,Virgil van Dijk,26,Liverpool,19,FirstHalf,Pass,Successful,56.7,33.8,60.2,48.5
+190,345319,Alexis Mac Allister,26,Liverpool,20,FirstHalf,Pass,Successful,61.5,45.1,62.1,24.4
+191,345957,Ibrahima Konaté,26,Liverpool,20,FirstHalf,Pass,Successful,64.8,20.3,58.7,34.8
+192,95408,Virgil van Dijk,26,Liverpool,20,FirstHalf,Pass,Successful,58.7,34.8,61.7,51.7
+193,345319,Alexis Mac Allister,26,Liverpool,20,FirstHalf,Pass,Successful,59.2,42.4,58.4,18.5
+194,345957,Ibrahima Konaté,26,Liverpool,20,FirstHalf,Pass,Successful,58.4,18.5,62.7,8.3
+195,355354,Curtis Jones,26,Liverpool,20,FirstHalf,Pass,Successful,63,8.2,55.2,17.3
+196,345957,Ibrahima Konaté,26,Liverpool,20,FirstHalf,Pass,Successful,46.8,34.8,45.7,59.6
+197,95408,Virgil van Dijk,26,Liverpool,20,FirstHalf,Pass,Successful,45.7,59.6,58.8,66.5
+198,369875,Dominik Szoboszlai,26,Liverpool,20,FirstHalf,Pass,Successful,67.1,64.6,80,90
+199,352825,Cody Gakpo,26,Liverpool,20,FirstHalf,Pass,Successful,80.8,90.6,70.5,91.8
+200,115726,Andy Robertson,26,Liverpool,20,FirstHalf,Pass,Successful,70.4,91.8,59.3,70.9
+201,95408,Virgil van Dijk,26,Liverpool,20,FirstHalf,Pass,Successful,56.1,65.5,53.1,37.1
+202,345957,Ibrahima Konaté,26,Liverpool,20,FirstHalf,Pass,Successful,53.1,37.1,54.6,24.7
+203,355354,Curtis Jones,26,Liverpool,20,FirstHalf,Pass,Successful,54.6,24.2,58.7,31.7
+204,345319,Alexis Mac Allister,26,Liverpool,20,FirstHalf,Pass,Successful,60.5,25.6,67,7.6
+205,394786,Florian Wirtz,26,Liverpool,20,FirstHalf,Pass,Unsuccessful,68.9,9.2,80.4,34.1
+174,460260,Kobbie Mainoo,32,Man Utd,20,FirstHalf,Interception,Successful,19.6,65.9,,
+159,88526,Casemiro,32,Man Utd,20,FirstHalf,BallTouch,Unsuccessful,21.1,63.4,,
+206,363884,Ryan Gravenberch,26,Liverpool,20,FirstHalf,Pass,Successful,77.3,31,81.6,21
+207,392644,Jeremie Frimpong,26,Liverpool,20,FirstHalf,Pass,Successful,81.6,21,89.9,19.2
+208,394786,Florian Wirtz,26,Liverpool,20,FirstHalf,Pass,Unsuccessful,94.6,20.3,92.2,40.3
+161,99487,Harry Maguire,32,Man Utd,20,FirstHalf,Clearance,Successful,7,58.5,12,67.2
+162,362758,Matheus Cunha,32,Man Utd,20,FirstHalf,BallTouch,Successful,12,67.2,,
+486,392644,Jeremie Frimpong,26,Liverpool,21,FirstHalf,BallTouch,Successful,85.1,31.2,,
+163,460260,Kobbie Mainoo,32,Man Utd,21,FirstHalf,BallRecovery,Successful,18.8,79.2,,
+164,460260,Kobbie Mainoo,32,Man Utd,21,FirstHalf,Pass,Successful,18.8,79.2,31.9,65.5
+165,123761,Bruno Fernandes,32,Man Utd,21,FirstHalf,Pass,Successful,32.1,65.5,92.8,91.6
+166,424191,Benjamin Sesko,32,Man Utd,21,FirstHalf,BallTouch,Unsuccessful,95.5,89.8,,
+210,95408,Virgil van Dijk,26,Liverpool,22,FirstHalf,Pass,Successful,4,57.9,5.4,49.5
+211,136466,Freddie Woodman,26,Liverpool,22,FirstHalf,Pass,Unsuccessful,8.7,52.3,53.1,85
+168,353418,Diogo Dalot,32,Man Utd,22,FirstHalf,Aerial,Successful,46.9,15,,
+212,352825,Cody Gakpo,26,Liverpool,22,FirstHalf,Aerial,Unsuccessful,53.1,85,,
+169,353418,Diogo Dalot,32,Man Utd,22,FirstHalf,Interception,Successful,42.7,13.5,,
+213,394786,Florian Wirtz,26,Liverpool,22,FirstHalf,Pass,Successful,43.8,77.6,56.1,77.7
+214,352825,Cody Gakpo,26,Liverpool,22,FirstHalf,Pass,Unsuccessful,56.5,77.6,52.5,83.2
+170,353377,Bryan Mbeumo,32,Man Utd,22,FirstHalf,Pass,Successful,47.1,11.4,59.4,14.4
+171,123761,Bruno Fernandes,32,Man Utd,22,FirstHalf,BallRecovery,Successful,60.9,13.6,,
+172,123761,Bruno Fernandes,32,Man Utd,22,FirstHalf,Pass,Successful,60.9,13.6,56.7,27
+173,88526,Casemiro,32,Man Utd,22,FirstHalf,Pass,Unsuccessful,56.7,27,86.3,40.9
+215,136466,Freddie Woodman,26,Liverpool,22,FirstHalf,KeeperPickup,Successful,14.5,60.8,,
+216,136466,Freddie Woodman,26,Liverpool,22,FirstHalf,Pass,Successful,14.5,60.3,35.9,71.7
+217,345319,Alexis Mac Allister,26,Liverpool,22,FirstHalf,Pass,Successful,55,52.3,45.6,49.8
+218,363884,Ryan Gravenberch,26,Liverpool,22,FirstHalf,Pass,Successful,45.6,48.8,53.5,7.4
+219,355354,Curtis Jones,26,Liverpool,22,FirstHalf,Pass,Successful,58,7.2,69.4,10.6
+220,369875,Dominik Szoboszlai,26,Liverpool,22,FirstHalf,Pass,Successful,69.5,10.9,58.5,9.8
+221,355354,Curtis Jones,26,Liverpool,22,FirstHalf,Pass,Successful,61.1,12.3,72.4,19.2
+222,363884,Ryan Gravenberch,26,Liverpool,22,FirstHalf,TakeOn,Unsuccessful,73.6,24.8,,
+176,517341,Ayden Heaven,32,Man Utd,22,FirstHalf,Tackle,Successful,26.4,75.2,,
+177,362758,Matheus Cunha,32,Man Utd,22,FirstHalf,BallRecovery,Successful,32.8,77.8,,
+178,362758,Matheus Cunha,32,Man Utd,22,FirstHalf,Pass,Successful,32.8,77.8,28.3,75.6
+179,460260,Kobbie Mainoo,32,Man Utd,22,FirstHalf,Pass,Successful,26.9,84.1,8.9,80.1
+180,118244,Luke Shaw,32,Man Utd,22,FirstHalf,Pass,Successful,11.1,86.2,11.2,94.3
+181,460260,Kobbie Mainoo,32,Man Utd,22,FirstHalf,Pass,Successful,11.2,94.3,12.6,82.8
+182,88526,Casemiro,32,Man Utd,22,FirstHalf,Pass,Successful,12.6,82.8,8.6,75.1
+183,517341,Ayden Heaven,32,Man Utd,22,FirstHalf,Pass,Successful,8.6,73.6,15.5,75
+184,88526,Casemiro,32,Man Utd,23,FirstHalf,Pass,Unsuccessful,15.7,72.1,43.9,40
+223,95408,Virgil van Dijk,26,Liverpool,23,FirstHalf,BallRecovery,Successful,57.4,69.1,,
+224,95408,Virgil van Dijk,26,Liverpool,23,FirstHalf,Pass,Successful,71,69.1,80.5,84.7
+185,99487,Harry Maguire,32,Man Utd,23,FirstHalf,Challenge,Unsuccessful,23,21,,
+225,352825,Cody Gakpo,26,Liverpool,23,FirstHalf,TakeOn,Successful,77,79,,
+187,353377,Bryan Mbeumo,32,Man Utd,23,FirstHalf,Challenge,Unsuccessful,25.5,26,,
+226,352825,Cody Gakpo,26,Liverpool,23,FirstHalf,TakeOn,Successful,74.5,74,,
+227,352825,Cody Gakpo,26,Liverpool,23,FirstHalf,Pass,Successful,69.8,70.8,66.3,61.5
+228,394786,Florian Wirtz,26,Liverpool,23,FirstHalf,Pass,Successful,71,54.1,70.4,36.1
+229,363884,Ryan Gravenberch,26,Liverpool,23,FirstHalf,Pass,Successful,72,27.1,75.6,12.7
+230,392644,Jeremie Frimpong,26,Liverpool,23,FirstHalf,Pass,Successful,78.6,11.5,74,16.6
+231,369875,Dominik Szoboszlai,26,Liverpool,23,FirstHalf,Pass,Successful,73.5,17.1,65.4,45.3
+232,345957,Ibrahima Konaté,26,Liverpool,23,FirstHalf,Pass,Successful,65.2,46.7,71.6,57.4
+233,345319,Alexis Mac Allister,26,Liverpool,23,FirstHalf,Pass,Successful,71.7,58,76.8,58.2
+234,352825,Cody Gakpo,26,Liverpool,23,FirstHalf,MissedShots,Successful,79.7,54.8,,
+189,517341,Ayden Heaven,32,Man Utd,23,FirstHalf,Pass,Successful,4,59.8,2.9,47.4
+190,402184,Senne Lammens,32,Man Utd,24,FirstHalf,Pass,Successful,2.9,47.4,10.3,14.8
+191,99487,Harry Maguire,32,Man Utd,24,FirstHalf,Pass,Unsuccessful,18.8,11.8,78.4,30.4
+236,95408,Virgil van Dijk,26,Liverpool,24,FirstHalf,Pass,Successful,27.4,74.1,10.1,65.9
+237,136466,Freddie Woodman,26,Liverpool,24,FirstHalf,KeeperPickup,Successful,10,65.9,,
+238,136466,Freddie Woodman,26,Liverpool,24,FirstHalf,Pass,Successful,10,64.9,26.5,14.7
+239,355354,Curtis Jones,26,Liverpool,24,FirstHalf,Pass,Unsuccessful,57.2,12.6,66.2,12.6
+192,460260,Kobbie Mainoo,32,Man Utd,24,FirstHalf,Pass,Successful,24.2,84.7,19.8,77.2
+193,517341,Ayden Heaven,32,Man Utd,24,FirstHalf,BallRecovery,Successful,19.8,77.2,,
+194,517341,Ayden Heaven,32,Man Utd,24,FirstHalf,Pass,Successful,19.8,77.2,16.4,59.1
+195,99487,Harry Maguire,32,Man Utd,24,FirstHalf,Pass,Successful,16.6,59.1,3.2,53.7
+196,402184,Senne Lammens,32,Man Utd,24,FirstHalf,Pass,Unsuccessful,4.1,48.6,68.6,63.1
+240,95408,Virgil van Dijk,26,Liverpool,24,FirstHalf,BallRecovery,Successful,29,32.4,,
+241,95408,Virgil van Dijk,26,Liverpool,24,FirstHalf,Pass,Successful,28.3,31.4,35.7,17.9
+242,355354,Curtis Jones,26,Liverpool,24,FirstHalf,Pass,Successful,36.9,18.3,41.6,24.5
+243,363884,Ryan Gravenberch,26,Liverpool,24,FirstHalf,Pass,Successful,41.7,24.5,37.5,15.7
+244,355354,Curtis Jones,26,Liverpool,24,FirstHalf,Pass,Successful,37.4,15.7,31.1,32.6
+245,345957,Ibrahima Konaté,26,Liverpool,24,FirstHalf,Pass,Successful,34.1,38,40.3,52.6
+246,345319,Alexis Mac Allister,26,Liverpool,24,FirstHalf,Pass,Successful,40.6,60,36.8,35.9
+247,345957,Ibrahima Konaté,26,Liverpool,24,FirstHalf,Pass,Successful,36.8,35.9,37.9,21.3
+248,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Pass,Successful,37.3,19.5,15.9,46.7
+249,136466,Freddie Woodman,26,Liverpool,25,FirstHalf,Pass,Successful,15.9,46.7,28.9,50
+250,345319,Alexis Mac Allister,26,Liverpool,25,FirstHalf,Pass,Successful,29.5,48.2,32.6,9.1
+251,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Pass,Successful,32.9,7.4,47.7,6.5
+252,345957,Ibrahima Konaté,26,Liverpool,25,FirstHalf,Pass,Successful,46.8,6,43.9,19.5
+253,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Foul,Successful,57.6,29.6,,
+197,88526,Casemiro,32,Man Utd,25,FirstHalf,Foul,Unsuccessful,42.4,70.4,,
+254,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Pass,Successful,57.4,36.2,62,49.3
+969,345319,Alexis Mac Allister,26,Liverpool,25,FirstHalf,Pass,Successful,61.8,49.6,50.8,56.2
+255,95408,Virgil van Dijk,26,Liverpool,25,FirstHalf,Pass,Successful,53.8,57.7,54.8,32.7
+256,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Pass,Successful,54.3,31.5,65,10.4
+257,363884,Ryan Gravenberch,26,Liverpool,25,FirstHalf,Pass,Successful,67.2,6.2,56.3,13
+258,355354,Curtis Jones,26,Liverpool,25,FirstHalf,Pass,Successful,55.4,14.7,48,51.4
+259,345957,Ibrahima Konaté,26,Liverpool,25,FirstHalf,Pass,Successful,54.2,52,63.8,65.8
+260,352825,Cody Gakpo,26,Liverpool,25,FirstHalf,Pass,Successful,69.6,64.9,76.7,67.7
+261,394786,Florian Wirtz,26,Liverpool,25,FirstHalf,Pass,Successful,76.9,67.7,77.6,56.5
+262,352825,Cody Gakpo,26,Liverpool,25,FirstHalf,Pass,Unsuccessful,78.6,56.6,81.6,47.2
+199,118244,Luke Shaw,32,Man Utd,25,FirstHalf,Interception,Successful,18.8,51.7,,
+200,460260,Kobbie Mainoo,32,Man Utd,25,FirstHalf,TakeOn,Successful,20,54.8,,
+263,345319,Alexis Mac Allister,26,Liverpool,25,FirstHalf,Challenge,Unsuccessful,80,45.2,,
+201,460260,Kobbie Mainoo,32,Man Utd,26,FirstHalf,BallRecovery,Successful,23.5,53.5,,
+202,460260,Kobbie Mainoo,32,Man Utd,26,FirstHalf,Pass,Successful,25.5,61.3,41.3,81.3
+203,362758,Matheus Cunha,32,Man Utd,26,FirstHalf,Pass,Successful,38.5,82.9,31.1,79.8
+204,460260,Kobbie Mainoo,32,Man Utd,26,FirstHalf,Pass,Successful,31.4,78.9,32,69.4
+205,88526,Casemiro,32,Man Utd,26,FirstHalf,Pass,Successful,31.6,65.2,33.9,18.7
+206,353418,Diogo Dalot,32,Man Utd,26,FirstHalf,Pass,Successful,71.3,25.2,90.2,20.5
+207,353377,Bryan Mbeumo,32,Man Utd,26,FirstHalf,Pass,Successful,89,19.9,88.5,49.7
+208,123761,Bruno Fernandes,32,Man Utd,26,FirstHalf,MissedShots,Successful,87.2,50.1,,
+265,95408,Virgil van Dijk,26,Liverpool,26,FirstHalf,Pass,Successful,3.7,59.5,5.1,33.6
+300,345957,Ibrahima Konaté,26,Liverpool,26,FirstHalf,Pass,Successful,4.8,34.2,4.1,52.3
+970,136466,Freddie Woodman,26,Liverpool,26,FirstHalf,Pass,Successful,2.4,51,12.7,44.1
+971,363884,Ryan Gravenberch,26,Liverpool,26,FirstHalf,Pass,Successful,12.7,44.1,6.4,30.3
+972,345957,Ibrahima Konaté,26,Liverpool,26,FirstHalf,Pass,Successful,6.4,30.3,3.4,18.2
+267,355354,Curtis Jones,26,Liverpool,26,FirstHalf,Pass,Unsuccessful,9,17.3,46.5,13.6
+232,118244,Luke Shaw,32,Man Utd,26,FirstHalf,Aerial,Successful,53.5,86.4,,
+279,392644,Jeremie Frimpong,26,Liverpool,26,FirstHalf,Aerial,Unsuccessful,46.5,13.6,,
+210,118244,Luke Shaw,32,Man Utd,26,FirstHalf,Interception,Successful,58,88.8,,
+268,369875,Dominik Szoboszlai,26,Liverpool,26,FirstHalf,Pass,Successful,34.3,3.7,63.4,2.9
+269,394786,Florian Wirtz,26,Liverpool,26,FirstHalf,TakeOn,Unsuccessful,59.8,10,,
+211,88526,Casemiro,32,Man Utd,26,FirstHalf,Tackle,Successful,40.3,89.9,,
+212,88526,Casemiro,32,Man Utd,26,FirstHalf,Pass,Unsuccessful,35.5,95.5,36.3,95.1
+315,394786,Florian Wirtz,26,Liverpool,26,FirstHalf,BallTouch,Successful,57.6,7.7,,
+213,460260,Kobbie Mainoo,32,Man Utd,27,FirstHalf,Pass,Successful,42.6,88.9,34.7,93.6
+214,517341,Ayden Heaven,32,Man Utd,27,FirstHalf,BallRecovery,Successful,34.6,92.5,,
+215,517341,Ayden Heaven,32,Man Utd,27,FirstHalf,Pass,Successful,34.6,92.5,30,66.1
+216,99487,Harry Maguire,32,Man Utd,27,FirstHalf,Pass,Unsuccessful,30,63.3,49.4,82.9
+270,355354,Curtis Jones,26,Liverpool,27,FirstHalf,Pass,Successful,52.1,18.3,64.9,28.2
+271,394786,Florian Wirtz,26,Liverpool,27,FirstHalf,BallRecovery,Successful,64.9,28.2,,
+272,394786,Florian Wirtz,26,Liverpool,27,FirstHalf,Dispossessed,Successful,62.2,23.4,,
+217,88526,Casemiro,32,Man Utd,27,FirstHalf,Tackle,Unsuccessful,37.8,76.6,,
+273,355354,Curtis Jones,26,Liverpool,27,FirstHalf,Pass,Unsuccessful,62.4,26.3,59.9,30.7
+299,123761,Bruno Fernandes,32,Man Utd,27,FirstHalf,BallTouch,Successful,43.2,67.6,,
+274,394786,Florian Wirtz,26,Liverpool,27,FirstHalf,Pass,Successful,57.2,34.1,55.4,51.7
+275,345319,Alexis Mac Allister,26,Liverpool,27,FirstHalf,Pass,Successful,55.3,52,70.8,58
+276,352825,Cody Gakpo,26,Liverpool,27,FirstHalf,Pass,Successful,72.3,56.1,79.9,66.5
+277,394786,Florian Wirtz,26,Liverpool,27,FirstHalf,MissedShots,Successful,83.3,62.2,,
+219,517341,Ayden Heaven,32,Man Utd,27,FirstHalf,Pass,Successful,3.8,59.1,4.1,50.2
+220,402184,Senne Lammens,32,Man Utd,27,FirstHalf,Pass,Successful,4.2,50.2,15.7,48.4
+221,460260,Kobbie Mainoo,32,Man Utd,27,FirstHalf,Pass,Successful,15.7,48.4,3.3,50.1
+222,402184,Senne Lammens,32,Man Utd,28,FirstHalf,Pass,Successful,4.7,50.1,8.7,22.9
+223,99487,Harry Maguire,32,Man Utd,28,FirstHalf,Pass,Successful,18.4,15.3,37.4,14.8
+224,123761,Bruno Fernandes,32,Man Utd,28,FirstHalf,Pass,Unsuccessful,36.4,12.4,41.4,12
+280,352825,Cody Gakpo,26,Liverpool,28,FirstHalf,Interception,Successful,58.6,88,,
+225,88526,Casemiro,32,Man Utd,28,FirstHalf,Pass,Successful,39.3,31.8,50.1,36.1
+226,353418,Diogo Dalot,32,Man Utd,28,FirstHalf,Pass,Successful,49.8,36,32,64.8
+227,517341,Ayden Heaven,32,Man Utd,28,FirstHalf,Pass,Successful,37.6,69.3,43.8,62.1
+228,362758,Matheus Cunha,32,Man Utd,28,FirstHalf,Pass,Successful,43.9,62.2,37.2,67.5
+229,517341,Ayden Heaven,32,Man Utd,28,FirstHalf,Pass,Successful,37.2,67.6,49.9,67
+230,362758,Matheus Cunha,32,Man Utd,28,FirstHalf,TakeOn,Successful,51.6,70.4,,
+281,392644,Jeremie Frimpong,26,Liverpool,28,FirstHalf,Challenge,Unsuccessful,48.4,29.6,,
+231,362758,Matheus Cunha,32,Man Utd,28,FirstHalf,TakeOn,Unsuccessful,62.1,73,,
+282,355354,Curtis Jones,26,Liverpool,28,FirstHalf,Tackle,Successful,37.9,27,,
+283,355354,Curtis Jones,26,Liverpool,28,FirstHalf,BallRecovery,Successful,39.7,26,,
+284,355354,Curtis Jones,26,Liverpool,28,FirstHalf,Pass,Successful,42.2,31.2,40.1,39.2
+285,345319,Alexis Mac Allister,26,Liverpool,28,FirstHalf,Pass,Successful,43.6,35.7,38.7,28.9
+286,345957,Ibrahima Konaté,26,Liverpool,28,FirstHalf,Pass,Successful,38,30.3,42.6,51.8
+287,363884,Ryan Gravenberch,26,Liverpool,28,FirstHalf,Pass,Successful,47.3,55.6,42.8,35.1
+288,345957,Ibrahima Konaté,26,Liverpool,28,FirstHalf,Pass,Successful,47.1,36.7,55.8,44.7
+289,355354,Curtis Jones,26,Liverpool,28,FirstHalf,Pass,Successful,53,35.1,46.8,56.5
+290,95408,Virgil van Dijk,26,Liverpool,28,FirstHalf,Pass,Successful,46.8,56.5,52.4,71.5
+291,363884,Ryan Gravenberch,26,Liverpool,28,FirstHalf,Pass,Successful,53.1,72.6,63.5,94.3
+292,115726,Andy Robertson,26,Liverpool,28,FirstHalf,Pass,Successful,64.3,92.8,57.5,83
+293,363884,Ryan Gravenberch,26,Liverpool,28,FirstHalf,Pass,Successful,57.2,79.9,49.3,60.3
+294,95408,Virgil van Dijk,26,Liverpool,28,FirstHalf,Pass,Successful,48.3,60.3,62.6,59.9
+295,345319,Alexis Mac Allister,26,Liverpool,28,FirstHalf,Pass,Successful,62.6,59.9,45.8,46.2
+296,345957,Ibrahima Konaté,26,Liverpool,29,FirstHalf,Pass,Successful,45.6,41.4,53.7,48.6
+297,345319,Alexis Mac Allister,26,Liverpool,29,FirstHalf,Pass,Successful,53.7,48.6,63.2,36.1
+298,369875,Dominik Szoboszlai,26,Liverpool,29,FirstHalf,BallTouch,Unsuccessful,63.6,36.5,,
+233,88526,Casemiro,32,Man Utd,29,FirstHalf,Foul,Successful,35.2,57.8,,
+299,369875,Dominik Szoboszlai,26,Liverpool,29,FirstHalf,Foul,Unsuccessful,64.8,42.2,,
+235,460260,Kobbie Mainoo,32,Man Utd,29,FirstHalf,Pass,Successful,32.7,53.5,42.1,55.2
+236,88526,Casemiro,32,Man Utd,29,FirstHalf,Pass,Successful,42.1,55.2,32.1,52.5
+237,460260,Kobbie Mainoo,32,Man Utd,29,FirstHalf,Pass,Successful,32.1,52.5,41.4,52.5
+238,88526,Casemiro,32,Man Utd,29,FirstHalf,Pass,Successful,41.4,52.5,32.8,50.8
+239,460260,Kobbie Mainoo,32,Man Utd,29,FirstHalf,Pass,Successful,32.8,50.8,33.6,19.6
+240,99487,Harry Maguire,32,Man Utd,29,FirstHalf,Pass,Successful,62,16.9,57,9.4
+241,353418,Diogo Dalot,32,Man Utd,29,FirstHalf,Pass,Successful,57,9.4,30.4,31
+242,460260,Kobbie Mainoo,32,Man Utd,29,FirstHalf,Pass,Successful,30.4,31,45,34.8
+243,88526,Casemiro,32,Man Utd,29,FirstHalf,Pass,Successful,44.7,35.1,37.2,57.9
+244,517341,Ayden Heaven,32,Man Utd,30,FirstHalf,Foul,Successful,65.2,88.4,,
+303,392644,Jeremie Frimpong,26,Liverpool,30,FirstHalf,Foul,Unsuccessful,34.8,11.6,,
+245,118244,Luke Shaw,32,Man Utd,30,FirstHalf,Pass,Successful,62.7,94.8,52.9,91.6
+246,460260,Kobbie Mainoo,32,Man Utd,30,FirstHalf,Pass,Successful,53.4,86.2,44.6,62.7
+247,88526,Casemiro,32,Man Utd,30,FirstHalf,Pass,Successful,46.7,60.3,90,24
+248,353418,Diogo Dalot,32,Man Utd,30,FirstHalf,Pass,Unsuccessful,90,24,89.5,44.7
+304,345957,Ibrahima Konaté,26,Liverpool,30,FirstHalf,Clearance,Successful,14.6,58.3,17.7,75.9
+305,352825,Cody Gakpo,26,Liverpool,30,FirstHalf,BallTouch,Successful,24.1,77.1,,
+484,345319,Alexis Mac Allister,26,Liverpool,30,FirstHalf,BallTouch,Successful,37.6,77.9,,
+485,352825,Cody Gakpo,26,Liverpool,30,FirstHalf,BallTouch,Successful,29.1,79.6,,
+306,345319,Alexis Mac Allister,26,Liverpool,30,FirstHalf,BallRecovery,Successful,26.8,80.6,,
+307,345319,Alexis Mac Allister,26,Liverpool,30,FirstHalf,Pass,Successful,27.1,80.8,35.5,88.4
+308,369875,Dominik Szoboszlai,26,Liverpool,30,FirstHalf,Pass,Unsuccessful,36.3,89.6,38.2,85.8
+249,362758,Matheus Cunha,32,Man Utd,30,FirstHalf,BallTouch,Successful,66.2,13,,
+250,460260,Kobbie Mainoo,32,Man Utd,30,FirstHalf,BallRecovery,Successful,65.6,16.2,,
+251,460260,Kobbie Mainoo,32,Man Utd,30,FirstHalf,Pass,Successful,69.2,14.5,75.4,8.8
+252,353377,Bryan Mbeumo,32,Man Utd,30,FirstHalf,Pass,Unsuccessful,90.4,9.3,88.9,9.6
+313,345319,Alexis Mac Allister,26,Liverpool,30,FirstHalf,BlockedPass,Successful,11.1,90.4,,
+254,353377,Bryan Mbeumo,32,Man Utd,31,FirstHalf,BallTouch,Successful,86.1,12.3,,
+311,345319,Alexis Mac Allister,26,Liverpool,31,FirstHalf,BallTouch,Unsuccessful,23.8,90.2,,
+253,460260,Kobbie Mainoo,32,Man Utd,31,FirstHalf,Foul,Successful,78.8,10.9,,
+312,345319,Alexis Mac Allister,26,Liverpool,31,FirstHalf,Foul,Unsuccessful,21.2,89,,
+255,123761,Bruno Fernandes,32,Man Utd,32,FirstHalf,Pass,Unsuccessful,86.2,12.6,88.5,55.8
+314,95408,Virgil van Dijk,26,Liverpool,32,FirstHalf,Clearance,Successful,13.4,50.8,29.2,57.3
+256,353418,Diogo Dalot,32,Man Utd,32,FirstHalf,Pass,Unsuccessful,70.2,47.4,100,3.4
+317,95408,Virgil van Dijk,26,Liverpool,32,FirstHalf,Pass,Successful,4,58.3,5.3,38
+318,345957,Ibrahima Konaté,26,Liverpool,32,FirstHalf,Pass,Successful,6.3,35.4,20.9,15
+319,355354,Curtis Jones,26,Liverpool,32,FirstHalf,Pass,Successful,30.4,11.8,35.9,23.8
+320,363884,Ryan Gravenberch,26,Liverpool,32,FirstHalf,Pass,Successful,38.3,24.4,36.7,13.2
+321,355354,Curtis Jones,26,Liverpool,32,FirstHalf,Pass,Successful,35.7,20.9,29.5,43
+322,345957,Ibrahima Konaté,26,Liverpool,32,FirstHalf,Pass,Successful,29.2,44.5,40.3,68.8
+323,352825,Cody Gakpo,26,Liverpool,32,FirstHalf,Pass,Successful,41.9,65.9,30.5,71.5
+324,95408,Virgil van Dijk,26,Liverpool,32,FirstHalf,Pass,Successful,30.5,71.5,33.1,85.5
+325,115726,Andy Robertson,26,Liverpool,32,FirstHalf,Pass,Successful,33.1,85.5,28.6,74.6
+326,95408,Virgil van Dijk,26,Liverpool,32,FirstHalf,Pass,Successful,30.9,72.3,35.2,88.8
+327,115726,Andy Robertson,26,Liverpool,32,FirstHalf,Pass,Successful,35.3,88.8,41.5,92.8
+328,394786,Florian Wirtz,26,Liverpool,32,FirstHalf,Pass,Unsuccessful,44.1,94.3,53.2,74.4
+258,460260,Kobbie Mainoo,32,Man Utd,32,FirstHalf,BallRecovery,Successful,43.7,32.4,,
+259,460260,Kobbie Mainoo,32,Man Utd,32,FirstHalf,Pass,Successful,43.7,32.4,54.1,28.2
+260,123761,Bruno Fernandes,32,Man Utd,32,FirstHalf,Pass,Successful,62.6,32.4,62.8,51.6
+261,362758,Matheus Cunha,32,Man Utd,32,FirstHalf,BallTouch,Unsuccessful,65.9,54.7,,
+330,355354,Curtis Jones,26,Liverpool,33,FirstHalf,BallRecovery,Successful,13.9,46.4,,
+331,355354,Curtis Jones,26,Liverpool,33,FirstHalf,Pass,Successful,27.1,65.8,21.3,79.6
+332,115726,Andy Robertson,26,Liverpool,33,FirstHalf,Pass,Successful,21.4,78.7,5,50.2
+333,136466,Freddie Woodman,26,Liverpool,33,FirstHalf,Pass,Successful,5.1,49.8,13.9,13.5
+334,345957,Ibrahima Konaté,26,Liverpool,33,FirstHalf,Foul,Successful,13.2,15.8,,
+263,362758,Matheus Cunha,32,Man Utd,33,FirstHalf,Foul,Unsuccessful,86.8,84.2,,
+335,345957,Ibrahima Konaté,26,Liverpool,33,FirstHalf,Pass,Successful,25.9,11.2,12.4,32.3
+336,136466,Freddie Woodman,26,Liverpool,33,FirstHalf,Pass,Successful,12.4,32.1,18.2,14.1
+337,345957,Ibrahima Konaté,26,Liverpool,33,FirstHalf,Pass,Successful,18.7,12.6,24.8,7.6
+338,363884,Ryan Gravenberch,26,Liverpool,33,FirstHalf,Pass,Unsuccessful,24.8,7.6,39.5,12.9
+264,118244,Luke Shaw,32,Man Utd,33,FirstHalf,Interception,Successful,60.5,87.1,,
+265,460260,Kobbie Mainoo,32,Man Utd,33,FirstHalf,BallRecovery,Successful,59.2,91.8,,
+266,460260,Kobbie Mainoo,32,Man Utd,33,FirstHalf,Pass,Successful,59.3,91.9,68.7,93.4
+267,362758,Matheus Cunha,32,Man Utd,33,FirstHalf,Pass,Successful,68.7,93.4,61.9,81.6
+268,460260,Kobbie Mainoo,32,Man Utd,33,FirstHalf,Pass,Unsuccessful,61.9,81.3,62.3,77.2
+339,345319,Alexis Mac Allister,26,Liverpool,33,FirstHalf,BlockedPass,Successful,37.7,22.8,,
+269,88526,Casemiro,32,Man Utd,33,FirstHalf,Pass,Unsuccessful,56.5,76.8,57.8,76.3
+340,369875,Dominik Szoboszlai,26,Liverpool,33,FirstHalf,BlockedPass,Successful,42.2,23.7,,
+270,517341,Ayden Heaven,32,Man Utd,34,FirstHalf,Pass,Successful,31.9,61.6,10.4,41.4
+271,402184,Senne Lammens,32,Man Utd,34,FirstHalf,Pass,Unsuccessful,14.1,45.4,69.5,67.2
+341,355354,Curtis Jones,26,Liverpool,34,FirstHalf,Pass,Successful,39,36.8,14.9,59.6
+342,136466,Freddie Woodman,26,Liverpool,34,FirstHalf,BallRecovery,Successful,14.9,59.6,,
+343,136466,Freddie Woodman,26,Liverpool,34,FirstHalf,Pass,Successful,14.9,59.1,31.9,65.5
+344,345319,Alexis Mac Allister,26,Liverpool,34,FirstHalf,Pass,Successful,34.4,63.9,32.6,43.5
+345,345957,Ibrahima Konaté,26,Liverpool,34,FirstHalf,Pass,Unsuccessful,37.4,39.1,39.5,38.3
+272,460260,Kobbie Mainoo,32,Man Utd,34,FirstHalf,BlockedPass,Successful,60.5,61.7,,
+346,355354,Curtis Jones,26,Liverpool,34,FirstHalf,Pass,Successful,56.3,8.8,64.2,80.2
+347,115726,Andy Robertson,26,Liverpool,34,FirstHalf,BallTouch,Unsuccessful,64.4,77.6,,
+273,88526,Casemiro,32,Man Utd,34,FirstHalf,BallRecovery,Successful,34.2,22.3,,
+274,88526,Casemiro,32,Man Utd,34,FirstHalf,Pass,Successful,36.9,26.2,44.3,9.2
+275,353377,Bryan Mbeumo,32,Man Utd,34,FirstHalf,Pass,Successful,43.7,7.8,43.4,20.1
+276,123761,Bruno Fernandes,32,Man Utd,34,FirstHalf,Pass,Unsuccessful,45,23.5,87.3,8
+348,95408,Virgil van Dijk,26,Liverpool,34,FirstHalf,BallRecovery,Successful,18.3,87.9,,
+349,95408,Virgil van Dijk,26,Liverpool,34,FirstHalf,Pass,Successful,23,82.3,32.8,68.5
+350,345319,Alexis Mac Allister,26,Liverpool,34,FirstHalf,Pass,Successful,56.7,74,64.2,88.8
+351,352825,Cody Gakpo,26,Liverpool,34,FirstHalf,Pass,Successful,64.2,88.8,60.4,79.4
+352,345319,Alexis Mac Allister,26,Liverpool,34,FirstHalf,Pass,Successful,60.2,79.4,43.5,87.9
+353,115726,Andy Robertson,26,Liverpool,34,FirstHalf,Pass,Successful,43.4,87.6,38.6,78
+354,95408,Virgil van Dijk,26,Liverpool,34,FirstHalf,Pass,Successful,36.6,68.3,42.9,59.9
+355,363884,Ryan Gravenberch,26,Liverpool,35,FirstHalf,Pass,Successful,45.3,57.4,41.3,33.8
+356,345957,Ibrahima Konaté,26,Liverpool,35,FirstHalf,Pass,Successful,54.7,26.5,54,42.7
+357,363884,Ryan Gravenberch,26,Liverpool,35,FirstHalf,Pass,Successful,53.7,47.7,66.9,38.8
+358,394786,Florian Wirtz,26,Liverpool,35,FirstHalf,Pass,Successful,67.1,37.6,72.8,46.8
+359,352825,Cody Gakpo,26,Liverpool,35,FirstHalf,TakeOn,Unsuccessful,72,48.8,,
+277,99487,Harry Maguire,32,Man Utd,35,FirstHalf,Tackle,Successful,28,51.3,,
+278,460260,Kobbie Mainoo,32,Man Utd,35,FirstHalf,BallTouch,Successful,29.4,48.7,,
+279,99487,Harry Maguire,32,Man Utd,35,FirstHalf,BallTouch,Unsuccessful,30.5,51.6,,
+360,369875,Dominik Szoboszlai,26,Liverpool,35,FirstHalf,Pass,Successful,71.4,32.4,79.1,19.4
+361,392644,Jeremie Frimpong,26,Liverpool,35,FirstHalf,TakeOn,Unsuccessful,85.6,21.3,,
+280,118244,Luke Shaw,32,Man Utd,35,FirstHalf,Tackle,Unsuccessful,14.4,78.7,,
+362,392644,Jeremie Frimpong,26,Liverpool,35,FirstHalf,BallTouch,Successful,79.7,18.8,,
+284,118244,Luke Shaw,32,Man Utd,35,FirstHalf,Clearance,Successful,12.3,77.4,14.2,79.8
+364,392644,Jeremie Frimpong,26,Liverpool,35,FirstHalf,BallTouch,Successful,87.2,21.7,,
+281,362758,Matheus Cunha,32,Man Utd,35,FirstHalf,BallRecovery,Successful,14.3,77.8,,
+11288,424191,Benjamin Sesko,32,Man Utd,36,FirstHalf,OffsideGiven,Unsuccessful,56.9,23.2,,
+286,118244,Luke Shaw,32,Man Utd,36,FirstHalf,KeeperPickup,Successful,14.4,72.4,,
+733,402184,Senne Lammens,32,Man Utd,36,FirstHalf,Pass,Successful,11.7,44.1,12.5,12.1
+287,99487,Harry Maguire,32,Man Utd,36,FirstHalf,Pass,Successful,16,21.3,5.5,34.5
+288,402184,Senne Lammens,32,Man Utd,36,FirstHalf,OffsidePass,Successful,5.5,34.5,56.9,23.2
+367,345957,Ibrahima Konaté,26,Liverpool,36,FirstHalf,OffsideProvoked,Successful,43.4,76.2,,
+368,95408,Virgil van Dijk,26,Liverpool,36,FirstHalf,Pass,Successful,39.6,73.8,46.8,73
+369,345319,Alexis Mac Allister,26,Liverpool,36,FirstHalf,Pass,Successful,46.8,73,39.6,75
+370,95408,Virgil van Dijk,26,Liverpool,36,FirstHalf,Pass,Successful,38.8,72.1,41.4,46.4
+371,345957,Ibrahima Konaté,26,Liverpool,37,FirstHalf,Pass,Successful,36.8,47.2,46.3,22.7
+372,355354,Curtis Jones,26,Liverpool,37,FirstHalf,Pass,Successful,65,5.7,67.4,17.1
+373,363884,Ryan Gravenberch,26,Liverpool,37,FirstHalf,Pass,Successful,63,23,46.9,38.3
+374,345957,Ibrahima Konaté,26,Liverpool,37,FirstHalf,Pass,Successful,46.9,38.5,48.4,67.1
+375,95408,Virgil van Dijk,26,Liverpool,37,FirstHalf,Pass,Successful,55.3,67.1,62,71.2
+376,394786,Florian Wirtz,26,Liverpool,37,FirstHalf,Pass,Successful,62.2,71.5,47.7,71.4
+377,95408,Virgil van Dijk,26,Liverpool,37,FirstHalf,Pass,Successful,47.7,70.8,48.7,24.5
+378,355354,Curtis Jones,26,Liverpool,37,FirstHalf,Pass,Successful,48.3,26,56.7,38.5
+379,345319,Alexis Mac Allister,26,Liverpool,37,FirstHalf,Pass,Successful,58.1,37.3,64,24.8
+380,392644,Jeremie Frimpong,26,Liverpool,37,FirstHalf,Pass,Successful,65.1,24.8,58.1,23.2
+381,355354,Curtis Jones,26,Liverpool,37,FirstHalf,Pass,Successful,62.7,19.5,68.8,8.8
+382,369875,Dominik Szoboszlai,26,Liverpool,37,FirstHalf,Pass,Successful,68.8,13.9,65,23.8
+383,363884,Ryan Gravenberch,26,Liverpool,37,FirstHalf,Pass,Successful,64.5,26.5,62.7,38.3
+384,345957,Ibrahima Konaté,26,Liverpool,37,FirstHalf,Pass,Successful,62.7,38.3,66.7,65.6
+385,95408,Virgil van Dijk,26,Liverpool,37,FirstHalf,Pass,Successful,65.8,68.3,72.8,66.5
+386,394786,Florian Wirtz,26,Liverpool,37,FirstHalf,Pass,Successful,72.3,69.3,75.6,89
+387,352825,Cody Gakpo,26,Liverpool,37,FirstHalf,Pass,Successful,73.8,92.1,65.4,82.6
+388,95408,Virgil van Dijk,26,Liverpool,37,FirstHalf,Pass,Successful,63.4,72.4,57.2,35.1
+389,345957,Ibrahima Konaté,26,Liverpool,37,FirstHalf,Pass,Successful,55.2,28.9,66.7,4.7
+390,355354,Curtis Jones,26,Liverpool,37,FirstHalf,Pass,Successful,68,4.8,75.1,12.7
+11394,392644,Jeremie Frimpong,26,Liverpool,38,FirstHalf,OffsideGiven,Unsuccessful,78.3,9.8,,
+391,369875,Dominik Szoboszlai,26,Liverpool,38,FirstHalf,Pass,Successful,75.3,9.2,63.6,3.5
+392,355354,Curtis Jones,26,Liverpool,38,FirstHalf,Pass,Successful,64.3,25.4,68.3,6.9
+393,369875,Dominik Szoboszlai,26,Liverpool,38,FirstHalf,Pass,Successful,67.7,22.6,70.9,37
+394,363884,Ryan Gravenberch,26,Liverpool,38,FirstHalf,OffsidePass,Successful,75.9,31.5,78.3,9.8
+289,517341,Ayden Heaven,32,Man Utd,38,FirstHalf,OffsideProvoked,Successful,24.9,71.1,,
+290,402184,Senne Lammens,32,Man Utd,38,FirstHalf,Pass,Successful,17.9,78.9,71,88.6
+291,424191,Benjamin Sesko,32,Man Utd,39,FirstHalf,Aerial,Successful,71,88.6,,
+395,345957,Ibrahima Konaté,26,Liverpool,39,FirstHalf,Aerial,Unsuccessful,29,11.4,,
+292,424191,Benjamin Sesko,32,Man Utd,39,FirstHalf,Pass,Successful,71,88.6,86.8,77.7
+293,362758,Matheus Cunha,32,Man Utd,39,FirstHalf,Pass,Unsuccessful,92.4,89.8,77.2,81.1
+396,369875,Dominik Szoboszlai,26,Liverpool,39,FirstHalf,BallRecovery,Successful,27.4,19.2,,
+397,369875,Dominik Szoboszlai,26,Liverpool,39,FirstHalf,Pass,Successful,31.9,8.3,44,32.7
+398,394786,Florian Wirtz,26,Liverpool,39,FirstHalf,Pass,Unsuccessful,43.9,33.3,59.5,11.5
+294,118244,Luke Shaw,32,Man Utd,39,FirstHalf,Foul,Successful,38.7,87.2,,
+399,392644,Jeremie Frimpong,26,Liverpool,39,FirstHalf,Foul,Unsuccessful,61.2,12.8,,
+295,517341,Ayden Heaven,32,Man Utd,39,FirstHalf,Pass,Successful,39,95.1,12.7,68.5
+296,402184,Senne Lammens,32,Man Utd,39,FirstHalf,Pass,Successful,11.5,65.5,14.5,32.4
+297,99487,Harry Maguire,32,Man Utd,39,FirstHalf,Pass,Unsuccessful,19.2,25.9,68.2,12.9
+400,95408,Virgil van Dijk,26,Liverpool,39,FirstHalf,Pass,Successful,37.6,89.9,64.2,82.6
+401,352825,Cody Gakpo,26,Liverpool,40,FirstHalf,BallRecovery,Successful,61.7,84,,
+403,352825,Cody Gakpo,26,Liverpool,40,FirstHalf,Foul,Successful,59.3,83.6,,
+298,353377,Bryan Mbeumo,32,Man Utd,40,FirstHalf,Foul,Unsuccessful,40.7,16.4,,
+404,115726,Andy Robertson,26,Liverpool,40,FirstHalf,Pass,Successful,59.5,84,54.3,63.4
+405,363884,Ryan Gravenberch,26,Liverpool,40,FirstHalf,Pass,Successful,55.1,53.9,56.1,16.6
+406,355354,Curtis Jones,26,Liverpool,40,FirstHalf,Pass,Successful,52.8,23.6,45,52.6
+407,345957,Ibrahima Konaté,26,Liverpool,40,FirstHalf,Pass,Successful,44.9,52.9,56.1,55.5
+408,345319,Alexis Mac Allister,26,Liverpool,40,FirstHalf,Pass,Successful,60.6,34.4,66.7,22.7
+409,369875,Dominik Szoboszlai,26,Liverpool,40,FirstHalf,Pass,Successful,71.6,13,65.7,21.2
+410,355354,Curtis Jones,26,Liverpool,40,FirstHalf,Pass,Successful,61.8,33.5,58.3,63.3
+411,95408,Virgil van Dijk,26,Liverpool,40,FirstHalf,Pass,Successful,58.6,64.3,64.5,66.2
+412,394786,Florian Wirtz,26,Liverpool,40,FirstHalf,Pass,Successful,68,58,74.4,47.6
+300,88526,Casemiro,32,Man Utd,40,FirstHalf,Challenge,Unsuccessful,24.6,60.8,,
+413,363884,Ryan Gravenberch,26,Liverpool,40,FirstHalf,TakeOn,Successful,75.4,39.2,,
+414,363884,Ryan Gravenberch,26,Liverpool,40,FirstHalf,SavedShot,Successful,74.3,40.1,,
+301,402184,Senne Lammens,32,Man Utd,40,FirstHalf,Save,Successful,3.9,50.2,,
+302,402184,Senne Lammens,32,Man Utd,40,FirstHalf,KeeperPickup,Successful,3.9,50.2,,
+304,402184,Senne Lammens,32,Man Utd,40,FirstHalf,Pass,Unsuccessful,5.1,47.7,43.3,81.6
+415,355354,Curtis Jones,26,Liverpool,41,FirstHalf,BallRecovery,Successful,57,27.9,,
+416,355354,Curtis Jones,26,Liverpool,41,FirstHalf,Pass,Unsuccessful,64.2,46,96,52.8
+305,402184,Senne Lammens,32,Man Utd,41,FirstHalf,KeeperPickup,Successful,4.3,45.6,,
+307,402184,Senne Lammens,32,Man Utd,41,FirstHalf,Pass,Successful,10.7,50.2,22.7,59.2
+308,460260,Kobbie Mainoo,32,Man Utd,41,FirstHalf,Pass,Successful,22.7,59.2,18.1,77.5
+309,517341,Ayden Heaven,32,Man Utd,41,FirstHalf,Pass,Successful,18.8,79.9,25.8,92.8
+310,118244,Luke Shaw,32,Man Utd,41,FirstHalf,Pass,Successful,25.8,92.8,46.6,82.8
+311,424191,Benjamin Sesko,32,Man Utd,41,FirstHalf,Pass,Successful,47.5,82.3,43.1,82.9
+312,123761,Bruno Fernandes,32,Man Utd,41,FirstHalf,Pass,Successful,43.1,82.8,64,12.7
+313,353377,Bryan Mbeumo,32,Man Utd,41,FirstHalf,Pass,Successful,64,12.7,90.9,59.4
+314,424191,Benjamin Sesko,32,Man Utd,41,FirstHalf,BallTouch,Unsuccessful,89,59.4,,
+417,355354,Curtis Jones,26,Liverpool,41,FirstHalf,BallRecovery,Successful,12.5,25,,
+418,355354,Curtis Jones,26,Liverpool,41,FirstHalf,Pass,Successful,12.2,16.2,18.7,29.1
+419,363884,Ryan Gravenberch,26,Liverpool,41,FirstHalf,Pass,Successful,35,17.7,41,4.8
+420,392644,Jeremie Frimpong,26,Liverpool,41,FirstHalf,Pass,Unsuccessful,41,4.8,42.5,9.8
+322,118244,Luke Shaw,32,Man Utd,41,FirstHalf,Interception,Successful,63.1,88.6,,
+316,118244,Luke Shaw,32,Man Utd,41,FirstHalf,Pass,Successful,69.5,84.7,73.8,88
+317,123761,Bruno Fernandes,32,Man Utd,41,FirstHalf,BallRecovery,Successful,73.8,88,,
+318,123761,Bruno Fernandes,32,Man Utd,41,FirstHalf,Pass,Successful,73.8,88,87.7,90.9
+319,362758,Matheus Cunha,32,Man Utd,41,FirstHalf,Pass,Unsuccessful,94.1,74.7,92.5,41.8
+422,115726,Andy Robertson,26,Liverpool,41,FirstHalf,Clearance,Successful,8.1,52.7,9.5,87.4
+320,353377,Bryan Mbeumo,32,Man Utd,41,FirstHalf,Pass,Unsuccessful,89.5,16.6,100,73
+424,95408,Virgil van Dijk,26,Liverpool,42,FirstHalf,Pass,Successful,4,60.3,4,49.3
+973,136466,Freddie Woodman,26,Liverpool,42,FirstHalf,Pass,Successful,5.6,47.3,21.1,33.4
+974,363884,Ryan Gravenberch,26,Liverpool,42,FirstHalf,Pass,Successful,21.1,33.4,30.9,29.1
+975,369875,Dominik Szoboszlai,26,Liverpool,42,FirstHalf,Pass,Successful,30.9,29.1,41.6,10.1
+425,392644,Jeremie Frimpong,26,Liverpool,42,FirstHalf,Pass,Successful,41,23.2,27.6,10.4
+426,369875,Dominik Szoboszlai,26,Liverpool,42,FirstHalf,Pass,Successful,28.6,6,2.8,15.6
+427,355354,Curtis Jones,26,Liverpool,42,FirstHalf,Pass,Unsuccessful,6.7,24.8,34.5,35
+323,88526,Casemiro,32,Man Utd,42,FirstHalf,Pass,Successful,63,47.7,70.3,41.1
+324,123761,Bruno Fernandes,32,Man Utd,42,FirstHalf,BallTouch,Unsuccessful,70.3,41.1,,
+428,95408,Virgil van Dijk,26,Liverpool,42,FirstHalf,Clearance,Successful,21.3,57,47.3,45.6
+325,99487,Harry Maguire,32,Man Utd,42,FirstHalf,BallRecovery,Successful,57.4,61,,
+326,99487,Harry Maguire,32,Man Utd,42,FirstHalf,Pass,Successful,57.4,61,60.2,69
+327,517341,Ayden Heaven,32,Man Utd,42,FirstHalf,Foul,Successful,62,70.6,,
+429,369875,Dominik Szoboszlai,26,Liverpool,42,FirstHalf,Foul,Unsuccessful,38,29.4,,
+328,123761,Bruno Fernandes,32,Man Utd,43,FirstHalf,Pass,Successful,63.2,77.4,67,46.2
+329,353418,Diogo Dalot,32,Man Utd,43,FirstHalf,Pass,Successful,67,46.2,65.6,74.7
+330,123761,Bruno Fernandes,32,Man Utd,43,FirstHalf,Pass,Successful,67.1,69.6,83.7,64.5
+331,362758,Matheus Cunha,32,Man Utd,43,FirstHalf,SavedShot,Successful,83.9,62.4,,
+430,352825,Cody Gakpo,26,Liverpool,43,FirstHalf,Save,Successful,12.9,39.5,,
+332,362758,Matheus Cunha,32,Man Utd,43,FirstHalf,BallTouch,Successful,83.9,62.4,,
+431,345957,Ibrahima Konaté,26,Liverpool,43,FirstHalf,Pass,Successful,14.6,48,9,54.5
+432,136466,Freddie Woodman,26,Liverpool,43,FirstHalf,Clearance,Successful,9,54.5,43.7,89.4
+333,353418,Diogo Dalot,32,Man Utd,43,FirstHalf,Pass,Successful,57.4,31.6,62.6,47.2
+334,460260,Kobbie Mainoo,32,Man Utd,43,FirstHalf,Pass,Successful,64.4,52,58.5,62.5
+335,123761,Bruno Fernandes,32,Man Utd,43,FirstHalf,BallTouch,Successful,59.7,63.6,,
+336,460260,Kobbie Mainoo,32,Man Utd,43,FirstHalf,Pass,Unsuccessful,62.7,61.5,87.1,61.6
+435,136466,Freddie Woodman,26,Liverpool,43,FirstHalf,KeeperPickup,Successful,12.4,38.5,,
+11449,352825,Cody Gakpo,26,Liverpool,44,FirstHalf,OffsideGiven,Unsuccessful,84.6,53.2,,
+436,136466,Freddie Woodman,26,Liverpool,44,FirstHalf,Pass,Successful,10,42.6,23.2,67.3
+437,95408,Virgil van Dijk,26,Liverpool,44,FirstHalf,Pass,Successful,33.9,70.3,38.8,87.4
+438,115726,Andy Robertson,26,Liverpool,44,FirstHalf,Pass,Successful,39,87.9,34.3,68.5
+439,95408,Virgil van Dijk,26,Liverpool,44,FirstHalf,Pass,Successful,37.4,65.8,37.9,46.8
+440,345957,Ibrahima Konaté,26,Liverpool,44,FirstHalf,Pass,Successful,40.3,37.4,47.4,12.1
+441,355354,Curtis Jones,26,Liverpool,44,FirstHalf,Pass,Successful,47.6,11.3,55.3,11.5
+442,394786,Florian Wirtz,26,Liverpool,44,FirstHalf,Pass,Successful,55.3,11.5,52.6,17.1
+443,355354,Curtis Jones,26,Liverpool,44,FirstHalf,Pass,Successful,54.6,21.3,47.3,33.9
+444,394786,Florian Wirtz,26,Liverpool,44,FirstHalf,Pass,Successful,47.2,34.2,52.2,72.7
+445,95408,Virgil van Dijk,26,Liverpool,44,FirstHalf,Pass,Successful,56.8,72.3,67.4,66.1
+446,369875,Dominik Szoboszlai,26,Liverpool,44,FirstHalf,Pass,Successful,68.5,66.8,64.9,60.3
+447,394786,Florian Wirtz,26,Liverpool,44,FirstHalf,Pass,Successful,64.5,55.6,72.5,34.8
+448,363884,Ryan Gravenberch,26,Liverpool,44,FirstHalf,SavedShot,Successful,81.6,43.3,,
+338,88526,Casemiro,32,Man Utd,44,FirstHalf,Save,Successful,18.5,55.6,,
+449,363884,Ryan Gravenberch,26,Liverpool,44,FirstHalf,OffsidePass,Successful,77.1,40.1,84.6,53.2
+342,353418,Diogo Dalot,32,Man Utd,44,FirstHalf,OffsideProvoked,Successful,19.5,51.5,,
+343,402184,Senne Lammens,32,Man Utd,45,FirstHalf,Pass,Unsuccessful,13.8,38.5,62.3,27.8
+452,95408,Virgil van Dijk,26,Liverpool,45,FirstHalf,Aerial,Successful,41.5,69.7,,
+344,353377,Bryan Mbeumo,32,Man Utd,45,FirstHalf,Aerial,Unsuccessful,58.5,30.3,,
+453,95408,Virgil van Dijk,26,Liverpool,45,FirstHalf,Clearance,Successful,41.5,69.7,53.5,58.9
+483,369875,Dominik Szoboszlai,26,Liverpool,45,FirstHalf,Pass,Unsuccessful,45,51.5,58.8,18.6
+346,517341,Ayden Heaven,32,Man Utd,46,FirstHalf,Clearance,Successful,35.8,87.9,44.2,94.5
+347,362758,Matheus Cunha,32,Man Utd,46,FirstHalf,BallRecovery,Successful,44.2,94.5,,
+348,362758,Matheus Cunha,32,Man Utd,46,FirstHalf,Pass,Successful,44.2,94.5,38.5,91.2
+349,517341,Ayden Heaven,32,Man Utd,46,FirstHalf,Pass,Successful,40.7,90.7,45.7,85
+350,460260,Kobbie Mainoo,32,Man Utd,46,FirstHalf,Pass,Successful,53,84.3,51.2,79.9
+351,88526,Casemiro,32,Man Utd,46,FirstHalf,Pass,Successful,51.2,79.9,61.3,92.7
+352,362758,Matheus Cunha,32,Man Utd,46,FirstHalf,Pass,Successful,65.3,92.2,65.2,87
+353,88526,Casemiro,32,Man Utd,46,FirstHalf,Pass,Successful,65.2,87,80.1,85.5
+354,362758,Matheus Cunha,32,Man Utd,46,FirstHalf,Pass,Unsuccessful,90.7,76.8,92.1,72.1
+455,345957,Ibrahima Konaté,26,Liverpool,46,FirstHalf,Clearance,Successful,7.9,27.9,,
+355,362758,Matheus Cunha,32,Man Utd,46,FirstHalf,CornerAwarded,Successful,85.2,64.6,,
+457,345957,Ibrahima Konaté,26,Liverpool,46,FirstHalf,CornerAwarded,Unsuccessful,14.8,35.4,,
+11359,88526,Casemiro,32,Man Utd,47,FirstHalf,OffsideGiven,Unsuccessful,93.8,38.5,,
+356,123761,Bruno Fernandes,32,Man Utd,47,FirstHalf,Pass,Successful,99.8,99.6,83.4,46
+357,353377,Bryan Mbeumo,32,Man Utd,47,FirstHalf,SavedShot,Successful,83.4,46,,
+456,95408,Virgil van Dijk,26,Liverpool,47,FirstHalf,Save,Successful,12.4,52.5,,
+358,353418,Diogo Dalot,32,Man Utd,47,FirstHalf,Pass,Successful,76,75,84.8,91.6
+359,123761,Bruno Fernandes,32,Man Utd,47,FirstHalf,OffsidePass,Successful,84.8,91.6,93.8,38.5
+460,355354,Curtis Jones,26,Liverpool,47,FirstHalf,OffsideProvoked,Successful,13.7,63.2,,
+461,136466,Freddie Woodman,26,Liverpool,47,FirstHalf,Pass,Unsuccessful,13.7,63.2,80.9,94.4
+362,353418,Diogo Dalot,32,Man Utd,47,FirstHalf,BallRecovery,Successful,26.2,10.9,,
+363,353418,Diogo Dalot,32,Man Utd,47,FirstHalf,Pass,Successful,26.2,10.9,24.1,20.4
+364,99487,Harry Maguire,32,Man Utd,47,FirstHalf,Pass,Successful,24.3,18.4,53.6,13.9
+365,424191,Benjamin Sesko,32,Man Utd,47,FirstHalf,Dispossessed,Successful,54.7,14.4,,
+462,345957,Ibrahima Konaté,26,Liverpool,47,FirstHalf,Tackle,Unsuccessful,45.2,85.6,,
+366,88526,Casemiro,32,Man Utd,47,FirstHalf,BallTouch,Unsuccessful,39,11.4,,
+463,345319,Alexis Mac Allister,26,Liverpool,48,FirstHalf,Foul,Successful,45.2,93.4,,
+367,424191,Benjamin Sesko,32,Man Utd,48,FirstHalf,Foul,Unsuccessful,54.8,6.5,,
+464,345319,Alexis Mac Allister,26,Liverpool,48,FirstHalf,Pass,Successful,47,92,42,77
+465,95408,Virgil van Dijk,26,Liverpool,48,FirstHalf,Pass,Successful,42,76.8,38.5,56.1
+466,345957,Ibrahima Konaté,26,Liverpool,48,FirstHalf,Pass,Successful,39.3,53.9,41.3,75.6
+467,95408,Virgil van Dijk,26,Liverpool,48,FirstHalf,Pass,Successful,44.3,69,40.4,45.1
+468,345957,Ibrahima Konaté,26,Liverpool,48,FirstHalf,Pass,Successful,40.2,43.5,46.9,7.4
+469,355354,Curtis Jones,26,Liverpool,48,FirstHalf,Pass,Successful,50.7,22.6,53.4,36.1
+470,345319,Alexis Mac Allister,26,Liverpool,48,FirstHalf,Pass,Successful,54.1,36.5,51,34.5
+471,355354,Curtis Jones,26,Liverpool,48,FirstHalf,Pass,Successful,51.6,32.6,65.8,7.9
+472,369875,Dominik Szoboszlai,26,Liverpool,48,FirstHalf,Pass,Unsuccessful,65.5,7.1,67.4,10.1
+368,460260,Kobbie Mainoo,32,Man Utd,48,FirstHalf,Clearance,Successful,32.6,89.9,,
+474,369875,Dominik Szoboszlai,26,Liverpool,48,FirstHalf,Pass,Successful,62.7,0,54.3,27.4
+475,345957,Ibrahima Konaté,26,Liverpool,48,FirstHalf,Pass,Successful,54.3,27.4,58.2,9.2
+476,369875,Dominik Szoboszlai,26,Liverpool,48,FirstHalf,Pass,Successful,48.9,11.5,40.5,22.9
+477,345957,Ibrahima Konaté,26,Liverpool,48,FirstHalf,Pass,Successful,43.2,19.4,46.5,7.4
+478,355354,Curtis Jones,26,Liverpool,48,FirstHalf,Pass,Successful,52.7,5.4,66.2,7.6
+479,363884,Ryan Gravenberch,26,Liverpool,48,FirstHalf,Pass,Successful,66.3,6.6,64.8,16.6
+480,355354,Curtis Jones,26,Liverpool,48,FirstHalf,Pass,Successful,63.8,21.8,58.8,28.8
+481,345957,Ibrahima Konaté,26,Liverpool,49,FirstHalf,Pass,Unsuccessful,58.6,28.8,61.2,59.7
+370,,,32,Man Utd,49,FirstHalf,End,Successful,0,0,,
+482,,,26,Liverpool,49,FirstHalf,End,Successful,0,0,,
+371,424191,Benjamin Sesko,32,Man Utd,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+372,386634,Amad Diallo,32,Man Utd,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+373,,,32,Man Utd,45,SecondHalf,FormationChange,Successful,0,0,,
+374,,,32,Man Utd,45,SecondHalf,Start,Successful,0,0,,
+489,,,26,Liverpool,45,SecondHalf,Start,Successful,0,0,,
+375,123761,Bruno Fernandes,32,Man Utd,45,SecondHalf,Pass,Successful,50.2,49.8,29.3,52.8
+593,,,26,Liverpool,45,SecondHalf,FormationChange,Successful,0,0,,
+376,402184,Senne Lammens,32,Man Utd,45,SecondHalf,Pass,Unsuccessful,28.9,52.2,71.5,21.4
+490,95408,Virgil van Dijk,26,Liverpool,45,SecondHalf,Pass,Unsuccessful,27.4,72.9,16.5,62.4
+493,95408,Virgil van Dijk,26,Liverpool,45,SecondHalf,Error,Successful,25,68.8,,
+377,353377,Bryan Mbeumo,32,Man Utd,45,SecondHalf,SavedShot,Successful,87.3,33.1,,
+492,345957,Ibrahima Konaté,26,Liverpool,45,SecondHalf,Save,Successful,10.3,63.5,,
+378,353377,Bryan Mbeumo,32,Man Utd,45,SecondHalf,CornerAwarded,Successful,87.2,35.2,,
+494,345957,Ibrahima Konaté,26,Liverpool,45,SecondHalf,CornerAwarded,Unsuccessful,12.8,64.8,,
+379,353377,Bryan Mbeumo,32,Man Utd,45,SecondHalf,Pass,Successful,99.5,0.5,96.2,54.7
+380,99487,Harry Maguire,32,Man Utd,45,SecondHalf,Aerial,Successful,96.2,54.7,,
+495,369875,Dominik Szoboszlai,26,Liverpool,45,SecondHalf,Aerial,Unsuccessful,3.8,45.3,,
+381,99487,Harry Maguire,32,Man Utd,45,SecondHalf,MissedShots,Successful,96.2,54.7,,
+497,95408,Virgil van Dijk,26,Liverpool,46,SecondHalf,Pass,Successful,5.2,58.8,5.3,53.8
+498,136466,Freddie Woodman,26,Liverpool,46,SecondHalf,Pass,Unsuccessful,5.4,53.6,56.5,62.6
+383,99487,Harry Maguire,32,Man Utd,46,SecondHalf,Aerial,Successful,43.5,37.4,,
+499,352825,Cody Gakpo,26,Liverpool,46,SecondHalf,Aerial,Unsuccessful,56.5,62.6,,
+384,99487,Harry Maguire,32,Man Utd,46,SecondHalf,Pass,Unsuccessful,43.5,37.4,54.5,15.4
+500,394786,Florian Wirtz,26,Liverpool,46,SecondHalf,Dispossessed,Successful,61.6,75.9,,
+415,386634,Amad Diallo,32,Man Utd,46,SecondHalf,Tackle,Successful,38.4,24.1,,
+387,88526,Casemiro,32,Man Utd,46,SecondHalf,TakeOn,Unsuccessful,43.2,23.3,,
+501,345319,Alexis Mac Allister,26,Liverpool,46,SecondHalf,Tackle,Unsuccessful,56.8,76.7,,
+388,88526,Casemiro,32,Man Utd,46,SecondHalf,BallRecovery,Successful,41.2,22.3,,
+389,88526,Casemiro,32,Man Utd,46,SecondHalf,Pass,Successful,41.2,22.3,36.2,15.3
+390,353418,Diogo Dalot,32,Man Utd,46,SecondHalf,Pass,Successful,36.2,15.3,41,12.7
+391,386634,Amad Diallo,32,Man Utd,46,SecondHalf,Pass,Successful,41,12.7,44.8,15.6
+392,123761,Bruno Fernandes,32,Man Utd,46,SecondHalf,Pass,Successful,44.8,13.8,58.8,8.4
+393,386634,Amad Diallo,32,Man Utd,46,SecondHalf,Pass,Successful,64.3,8.7,59.1,5.2
+394,123761,Bruno Fernandes,32,Man Utd,46,SecondHalf,Pass,Successful,60.1,6.4,47.3,9.3
+395,353418,Diogo Dalot,32,Man Utd,46,SecondHalf,Pass,Successful,47.3,9.3,53.7,13.5
+396,88526,Casemiro,32,Man Utd,46,SecondHalf,Pass,Successful,53.7,13.5,44.8,8.1
+397,353418,Diogo Dalot,32,Man Utd,46,SecondHalf,Pass,Successful,44.8,8.1,46.5,15.1
+398,88526,Casemiro,32,Man Utd,46,SecondHalf,Pass,Successful,46.5,15.4,57.7,12.4
+399,123761,Bruno Fernandes,32,Man Utd,46,SecondHalf,Pass,Successful,58.4,12.4,57.7,15.6
+400,460260,Kobbie Mainoo,32,Man Utd,46,SecondHalf,Pass,Successful,57.7,15.6,44.5,6.3
+401,353418,Diogo Dalot,32,Man Utd,46,SecondHalf,Pass,Successful,44,6.3,53.2,10.6
+402,460260,Kobbie Mainoo,32,Man Utd,46,SecondHalf,Pass,Successful,53.2,10.5,59.5,8.8
+403,386634,Amad Diallo,32,Man Utd,46,SecondHalf,Pass,Unsuccessful,58.4,23.2,55.6,40
+404,386634,Amad Diallo,32,Man Utd,46,SecondHalf,Error,Successful,33.6,41.2,,
+503,369875,Dominik Szoboszlai,26,Liverpool,46,SecondHalf,Interception,Successful,44.4,60,,
+504,369875,Dominik Szoboszlai,26,Liverpool,46,SecondHalf,BallRecovery,Successful,51.4,56.8,,
+505,369875,Dominik Szoboszlai,26,Liverpool,46,SecondHalf,Goal,Successful,87,57.9,,
+405,123761,Bruno Fernandes,32,Man Utd,47,SecondHalf,Pass,Successful,49.9,49.7,25.1,49.5
+406,402184,Senne Lammens,32,Man Utd,47,SecondHalf,Pass,Unsuccessful,24.9,48.3,64.5,11.9
+976,115726,Andy Robertson,26,Liverpool,47,SecondHalf,Aerial,Successful,34.7,90.8,,
+734,386634,Amad Diallo,32,Man Utd,47,SecondHalf,Aerial,Unsuccessful,65.3,9.2,,
+977,115726,Andy Robertson,26,Liverpool,47,SecondHalf,Pass,Unsuccessful,34.7,90.8,36.3,68.9
+735,123761,Bruno Fernandes,32,Man Utd,47,SecondHalf,BallTouch,Unsuccessful,63.7,31.1,,
+978,345319,Alexis Mac Allister,26,Liverpool,47,SecondHalf,Pass,Successful,36.3,68.9,35.1,53
+506,369875,Dominik Szoboszlai,26,Liverpool,47,SecondHalf,BallRecovery,Successful,36.9,42.3,,
+507,369875,Dominik Szoboszlai,26,Liverpool,47,SecondHalf,Pass,Successful,39.6,35.2,46.2,13.7
+508,355354,Curtis Jones,26,Liverpool,47,SecondHalf,Pass,Successful,53.8,14.1,70.3,8.6
+509,392644,Jeremie Frimpong,26,Liverpool,47,SecondHalf,Foul,Successful,81.2,13.3,,
+407,118244,Luke Shaw,32,Man Utd,47,SecondHalf,Foul,Unsuccessful,18.8,86.7,,
+408,118244,Luke Shaw,32,Man Utd,48,SecondHalf,Card,Successful,0,0,,
+510,115726,Andy Robertson,26,Liverpool,48,SecondHalf,Pass,Unsuccessful,81.8,10.1,100,68
+410,517341,Ayden Heaven,32,Man Utd,49,SecondHalf,Pass,Successful,3.3,58.5,4,47.4
+411,402184,Senne Lammens,32,Man Utd,49,SecondHalf,Pass,Successful,7.2,44.4,24.9,62.7
+412,460260,Kobbie Mainoo,32,Man Utd,49,SecondHalf,Pass,Successful,24.9,62.7,14.4,78.4
+413,517341,Ayden Heaven,32,Man Utd,49,SecondHalf,Pass,Unsuccessful,14.4,78.4,28.1,78.4
+512,345319,Alexis Mac Allister,26,Liverpool,49,SecondHalf,Pass,Successful,66.1,18.5,73.9,10.4
+513,392644,Jeremie Frimpong,26,Liverpool,49,SecondHalf,BallRecovery,Successful,73.9,10.4,,
+514,392644,Jeremie Frimpong,26,Liverpool,49,SecondHalf,Foul,Successful,83.4,10.6,,
+414,460260,Kobbie Mainoo,32,Man Utd,49,SecondHalf,Foul,Unsuccessful,16.6,89.3,,
+515,115726,Andy Robertson,26,Liverpool,50,SecondHalf,Pass,Unsuccessful,86.3,12.9,89.9,39.8
+416,88526,Casemiro,32,Man Utd,50,SecondHalf,Aerial,Successful,10.1,60.2,,
+516,352825,Cody Gakpo,26,Liverpool,50,SecondHalf,Aerial,Unsuccessful,89.9,39.8,,
+417,88526,Casemiro,32,Man Utd,50,SecondHalf,Clearance,Successful,10.1,60.2,28.6,75.3
+524,352825,Cody Gakpo,26,Liverpool,50,SecondHalf,BallTouch,Successful,89.1,43.8,,
+517,363884,Ryan Gravenberch,26,Liverpool,50,SecondHalf,Aerial,Successful,70.2,24.4,,
+418,362758,Matheus Cunha,32,Man Utd,50,SecondHalf,Aerial,Unsuccessful,29.8,75.6,,
+518,363884,Ryan Gravenberch,26,Liverpool,50,SecondHalf,Pass,Unsuccessful,68.5,26.7,67.2,17.4
+419,362758,Matheus Cunha,32,Man Utd,50,SecondHalf,Pass,Successful,32,84.6,52.6,89.3
+420,353377,Bryan Mbeumo,32,Man Utd,50,SecondHalf,BallRecovery,Successful,53.2,90.9,,
+519,363884,Ryan Gravenberch,26,Liverpool,50,SecondHalf,Challenge,Unsuccessful,37.6,18.2,,
+527,353377,Bryan Mbeumo,32,Man Utd,50,SecondHalf,TakeOn,Successful,62.4,81.8,,
+421,353377,Bryan Mbeumo,32,Man Utd,50,SecondHalf,BallTouch,Unsuccessful,59.9,80.4,,
+521,369875,Dominik Szoboszlai,26,Liverpool,50,SecondHalf,BallRecovery,Successful,49.2,41.5,,
+522,369875,Dominik Szoboszlai,26,Liverpool,50,SecondHalf,TakeOn,Unsuccessful,51.4,40.5,,
+422,353377,Bryan Mbeumo,32,Man Utd,50,SecondHalf,Tackle,Successful,48.6,59.5,,
+423,88526,Casemiro,32,Man Utd,50,SecondHalf,BallRecovery,Successful,43.6,42.1,,
+424,88526,Casemiro,32,Man Utd,50,SecondHalf,Pass,Unsuccessful,43.6,42.1,100,11.1
+525,95408,Virgil van Dijk,26,Liverpool,50,SecondHalf,Pass,Successful,4,60,5,50.2
+526,136466,Freddie Woodman,26,Liverpool,51,SecondHalf,Pass,Unsuccessful,7.4,52.3,45.2,86.5
+736,353418,Diogo Dalot,32,Man Utd,51,SecondHalf,Pass,Successful,53.2,10.4,62,19.6
+737,386634,Amad Diallo,32,Man Utd,51,SecondHalf,Pass,Unsuccessful,62,19.6,63.9,28.5
+979,363884,Ryan Gravenberch,26,Liverpool,51,SecondHalf,Interception,Successful,36.1,71.5,,
+527,345319,Alexis Mac Allister,26,Liverpool,51,SecondHalf,Pass,Successful,45.2,63.8,48.1,55.4
+528,352825,Cody Gakpo,26,Liverpool,51,SecondHalf,Pass,Successful,57.8,48.2,62.7,35.1
+529,369875,Dominik Szoboszlai,26,Liverpool,51,SecondHalf,Pass,Unsuccessful,65.5,33.9,72.5,31.8
+426,118244,Luke Shaw,32,Man Utd,51,SecondHalf,Interception,Successful,27.5,68.2,,
+530,369875,Dominik Szoboszlai,26,Liverpool,51,SecondHalf,BallTouch,Unsuccessful,72.5,31.7,,
+427,118244,Luke Shaw,32,Man Utd,51,SecondHalf,BallRecovery,Successful,29.7,69.9,,
+428,118244,Luke Shaw,32,Man Utd,51,SecondHalf,Pass,Successful,32.6,72.7,38,61.5
+429,460260,Kobbie Mainoo,32,Man Utd,51,SecondHalf,Pass,Successful,45.2,39,56.2,21.1
+430,386634,Amad Diallo,32,Man Utd,51,SecondHalf,Pass,Successful,56.2,18.7,65.4,5.1
+431,123761,Bruno Fernandes,32,Man Utd,51,SecondHalf,Pass,Successful,65.8,8.4,59.8,11.4
+432,460260,Kobbie Mainoo,32,Man Utd,51,SecondHalf,Pass,Successful,59.5,11.5,55.3,41.8
+433,88526,Casemiro,32,Man Utd,51,SecondHalf,Pass,Successful,55.7,45,57,66.6
+434,517341,Ayden Heaven,32,Man Utd,51,SecondHalf,Pass,Successful,62.2,71.4,63.2,60.7
+435,362758,Matheus Cunha,32,Man Utd,51,SecondHalf,Pass,Successful,66,58,66,69.1
+436,517341,Ayden Heaven,32,Man Utd,51,SecondHalf,Pass,Successful,66.1,68.5,68,49.9
+437,362758,Matheus Cunha,32,Man Utd,51,SecondHalf,Pass,Unsuccessful,68,49.9,70.2,58.6
+531,355354,Curtis Jones,26,Liverpool,51,SecondHalf,Interception,Successful,29.8,41.4,,
+532,355354,Curtis Jones,26,Liverpool,51,SecondHalf,BallRecovery,Successful,28.4,32.7,,
+533,355354,Curtis Jones,26,Liverpool,51,SecondHalf,Pass,Successful,28.8,36.1,36.6,56.5
+438,88526,Casemiro,32,Man Utd,51,SecondHalf,Challenge,Unsuccessful,49.7,46.6,,
+534,352825,Cody Gakpo,26,Liverpool,51,SecondHalf,TakeOn,Successful,50.3,53.4,,
+535,352825,Cody Gakpo,26,Liverpool,51,SecondHalf,TakeOn,Unsuccessful,55.8,56,,
+439,99487,Harry Maguire,32,Man Utd,51,SecondHalf,Tackle,Unsuccessful,44.2,44,,
+536,345319,Alexis Mac Allister,26,Liverpool,51,SecondHalf,Pass,Successful,44.3,51.4,45.9,43.5
+537,369875,Dominik Szoboszlai,26,Liverpool,51,SecondHalf,Pass,Successful,46,43.3,44.3,51.5
+538,345319,Alexis Mac Allister,26,Liverpool,51,SecondHalf,Pass,Successful,52.7,51.5,52.2,69.7
+539,115726,Andy Robertson,26,Liverpool,51,SecondHalf,Pass,Successful,53.8,75,61.4,89
+540,394786,Florian Wirtz,26,Liverpool,51,SecondHalf,Pass,Successful,61.5,89.5,48.3,78.3
+541,115726,Andy Robertson,26,Liverpool,52,SecondHalf,Pass,Successful,49.9,83,59.8,92.4
+542,394786,Florian Wirtz,26,Liverpool,52,SecondHalf,Pass,Successful,57.9,77.7,44.2,38.2
+543,345957,Ibrahima Konaté,26,Liverpool,52,SecondHalf,Pass,Successful,44.2,37.1,45.4,16.5
+544,355354,Curtis Jones,26,Liverpool,52,SecondHalf,Pass,Successful,45.5,15,40,34.8
+545,345957,Ibrahima Konaté,26,Liverpool,52,SecondHalf,Pass,Successful,39.7,36.5,39.2,60.3
+546,95408,Virgil van Dijk,26,Liverpool,52,SecondHalf,Pass,Successful,39.2,60.3,49.4,68
+547,394786,Florian Wirtz,26,Liverpool,52,SecondHalf,Pass,Unsuccessful,49.4,68.5,69.7,22
+440,118244,Luke Shaw,32,Man Utd,52,SecondHalf,BallRecovery,Successful,32.2,74.8,,
+441,118244,Luke Shaw,32,Man Utd,52,SecondHalf,Pass,Successful,32.4,73.2,42.3,46
+442,460260,Kobbie Mainoo,32,Man Utd,52,SecondHalf,Pass,Successful,42.3,46,45.4,52.9
+443,362758,Matheus Cunha,32,Man Utd,52,SecondHalf,Pass,Successful,45.5,53.1,41.9,52.3
+444,88526,Casemiro,32,Man Utd,52,SecondHalf,Pass,Successful,41.9,51.9,49.6,44.1
+445,362758,Matheus Cunha,32,Man Utd,52,SecondHalf,Pass,Successful,50.6,39.9,49.1,18
+446,353418,Diogo Dalot,32,Man Utd,52,SecondHalf,Pass,Successful,48.8,17.2,65.8,7.9
+447,386634,Amad Diallo,32,Man Utd,52,SecondHalf,Pass,Successful,65.8,7.9,52.3,9.6
+448,353418,Diogo Dalot,32,Man Utd,52,SecondHalf,Pass,Successful,51.2,10,47.7,15.1
+449,88526,Casemiro,32,Man Utd,52,SecondHalf,Pass,Successful,47.7,15.1,95,27.3
+450,123761,Bruno Fernandes,32,Man Utd,52,SecondHalf,Pass,Successful,94.8,27.1,95,48.6
+451,353377,Bryan Mbeumo,32,Man Utd,52,SecondHalf,ShotOnPost,Successful,95,48.6,,
+548,136466,Freddie Woodman,26,Liverpool,52,SecondHalf,KeeperPickup,Successful,10.7,28,,
+549,136466,Freddie Woodman,26,Liverpool,52,SecondHalf,Pass,Successful,10.7,28,27.6,29.2
+550,363884,Ryan Gravenberch,26,Liverpool,52,SecondHalf,Pass,Successful,38.7,28.2,57.1,11.5
+551,369875,Dominik Szoboszlai,26,Liverpool,53,SecondHalf,Pass,Successful,53.7,17.7,47.7,22
+552,355354,Curtis Jones,26,Liverpool,53,SecondHalf,Pass,Successful,55.9,22.7,61.5,8.6
+553,369875,Dominik Szoboszlai,26,Liverpool,53,SecondHalf,Pass,Successful,61.5,8.5,56.2,16.5
+554,355354,Curtis Jones,26,Liverpool,53,SecondHalf,Pass,Successful,57.1,19.5,64.5,5.9
+555,392644,Jeremie Frimpong,26,Liverpool,53,SecondHalf,Pass,Successful,64.1,6.5,66.2,17.3
+556,369875,Dominik Szoboszlai,26,Liverpool,53,SecondHalf,Pass,Successful,66.2,17.3,62.4,7.6
+557,392644,Jeremie Frimpong,26,Liverpool,53,SecondHalf,Pass,Successful,63.1,6.8,50.4,12.7
+558,355354,Curtis Jones,26,Liverpool,53,SecondHalf,Pass,Successful,50.4,11.9,55.9,31.2
+559,345319,Alexis Mac Allister,26,Liverpool,53,SecondHalf,Pass,Successful,55.4,30.6,44.8,14.4
+560,355354,Curtis Jones,26,Liverpool,53,SecondHalf,Pass,Successful,53.1,10.6,58.3,15.3
+561,369875,Dominik Szoboszlai,26,Liverpool,53,SecondHalf,Pass,Successful,58.6,16.5,54.6,11.5
+562,355354,Curtis Jones,26,Liverpool,53,SecondHalf,Pass,Successful,56.2,14.5,53.4,25
+563,369875,Dominik Szoboszlai,26,Liverpool,53,SecondHalf,Pass,Successful,54.4,29.5,49.3,62.4
+564,95408,Virgil van Dijk,26,Liverpool,53,SecondHalf,Pass,Successful,47,64.7,53.4,79.6
+565,115726,Andy Robertson,26,Liverpool,53,SecondHalf,Pass,Successful,53.7,80.8,60.5,91.5
+566,394786,Florian Wirtz,26,Liverpool,53,SecondHalf,Pass,Successful,61,91.8,57.9,86.5
+567,115726,Andy Robertson,26,Liverpool,53,SecondHalf,Pass,Successful,57.9,86.5,44.8,70.8
+568,95408,Virgil van Dijk,26,Liverpool,53,SecondHalf,Pass,Successful,43.7,67.9,21.5,50.9
+569,136466,Freddie Woodman,26,Liverpool,53,SecondHalf,Pass,Successful,21.4,50.9,28.2,70.8
+570,95408,Virgil van Dijk,26,Liverpool,53,SecondHalf,Pass,Successful,28.5,71.4,14.8,59.1
+571,136466,Freddie Woodman,26,Liverpool,53,SecondHalf,Pass,Successful,17.8,57.6,28,82.7
+572,345319,Alexis Mac Allister,26,Liverpool,53,SecondHalf,Pass,Successful,31.1,86.5,24.6,80.9
+573,95408,Virgil van Dijk,26,Liverpool,54,SecondHalf,Pass,Successful,23.6,79.9,27.1,51.1
+574,363884,Ryan Gravenberch,26,Liverpool,54,SecondHalf,Pass,Successful,27.2,51.5,22,38.3
+575,345957,Ibrahima Konaté,26,Liverpool,54,SecondHalf,Pass,Successful,22.8,34.8,38.3,9.8
+576,392644,Jeremie Frimpong,26,Liverpool,54,SecondHalf,Pass,Successful,38.8,15.6,34.2,26.2
+577,363884,Ryan Gravenberch,26,Liverpool,54,SecondHalf,Pass,Successful,46.2,40.3,50.6,65.2
+578,345319,Alexis Mac Allister,26,Liverpool,54,SecondHalf,Pass,Successful,52.2,66.7,61.9,89.1
+579,115726,Andy Robertson,26,Liverpool,54,SecondHalf,Pass,Successful,65.5,90.9,59.4,82.7
+580,345319,Alexis Mac Allister,26,Liverpool,54,SecondHalf,Pass,Successful,63.6,78.5,54.9,43.3
+581,345957,Ibrahima Konaté,26,Liverpool,54,SecondHalf,Pass,Successful,57.8,37.6,63.8,8.6
+582,355354,Curtis Jones,26,Liverpool,54,SecondHalf,Pass,Successful,65.8,7.4,76.3,7.2
+583,392644,Jeremie Frimpong,26,Liverpool,54,SecondHalf,Pass,Successful,75.1,7.9,66.6,6.5
+584,355354,Curtis Jones,26,Liverpool,54,SecondHalf,Pass,Successful,66.6,6.5,56.9,34.1
+585,345957,Ibrahima Konaté,26,Liverpool,54,SecondHalf,Pass,Successful,56.1,34.8,58.3,10.3
+586,355354,Curtis Jones,26,Liverpool,54,SecondHalf,Pass,Successful,57,6.6,63.8,4.8
+587,392644,Jeremie Frimpong,26,Liverpool,54,SecondHalf,Pass,Successful,63.8,4.8,46,30.1
+588,345957,Ibrahima Konaté,26,Liverpool,54,SecondHalf,Pass,Successful,47.2,43,62.1,55.2
+589,394786,Florian Wirtz,26,Liverpool,54,SecondHalf,Pass,Successful,63.6,54.9,73.2,34.4
+590,369875,Dominik Szoboszlai,26,Liverpool,54,SecondHalf,Pass,Successful,73.9,35.1,75.4,55.2
+591,394786,Florian Wirtz,26,Liverpool,54,SecondHalf,MissedShots,Successful,75.4,55.2,,
+453,517341,Ayden Heaven,32,Man Utd,55,SecondHalf,Pass,Successful,4.1,58.6,4.2,49.8
+454,402184,Senne Lammens,32,Man Utd,55,SecondHalf,Pass,Unsuccessful,4.2,49.8,21.5,49.9
+455,402184,Senne Lammens,32,Man Utd,55,SecondHalf,Error,Successful,6,50.7,,
+594,345319,Alexis Mac Allister,26,Liverpool,55,SecondHalf,Pass,Successful,79.2,50.9,88,48.3
+595,369875,Dominik Szoboszlai,26,Liverpool,55,SecondHalf,BallRecovery,Successful,88.2,48.1,,
+596,369875,Dominik Szoboszlai,26,Liverpool,55,SecondHalf,Pass,Successful,88.5,48.5,87.8,55.2
+597,352825,Cody Gakpo,26,Liverpool,55,SecondHalf,Goal,Successful,88.4,56,,
+456,123761,Bruno Fernandes,32,Man Utd,56,SecondHalf,Pass,Successful,50.2,49.8,29.5,44.7
+457,402184,Senne Lammens,32,Man Utd,56,SecondHalf,Pass,Unsuccessful,29.9,46,73.8,26.2
+980,95408,Virgil van Dijk,26,Liverpool,56,SecondHalf,Aerial,Successful,30.1,71.5,,
+738,353377,Bryan Mbeumo,32,Man Utd,56,SecondHalf,Aerial,Unsuccessful,69.9,28.5,,
+981,95408,Virgil van Dijk,26,Liverpool,56,SecondHalf,Pass,Successful,30.1,71.5,42,87.6
+982,394786,Florian Wirtz,26,Liverpool,56,SecondHalf,Pass,Successful,42,87.6,55.6,81.8
+983,352825,Cody Gakpo,26,Liverpool,56,SecondHalf,BallTouch,Unsuccessful,55.2,86.2,,
+739,99487,Harry Maguire,32,Man Utd,56,SecondHalf,Pass,Successful,44.8,13.8,70.9,9.5
+740,353377,Bryan Mbeumo,32,Man Utd,56,SecondHalf,Pass,Successful,70.7,7.8,67.1,18.2
+741,123761,Bruno Fernandes,32,Man Utd,56,SecondHalf,Pass,Successful,67.1,18.2,64.3,6.6
+742,353377,Bryan Mbeumo,32,Man Utd,56,SecondHalf,Pass,Successful,64.3,6.6,62,23.4
+743,460260,Kobbie Mainoo,32,Man Utd,56,SecondHalf,Pass,Successful,62,23.4,67.7,25.9
+744,88526,Casemiro,32,Man Utd,56,SecondHalf,Pass,Successful,67.5,33.1,67.7,50.4
+459,362758,Matheus Cunha,32,Man Utd,56,SecondHalf,Pass,Successful,71.3,48.7,66.4,57.6
+460,460260,Kobbie Mainoo,32,Man Utd,56,SecondHalf,Pass,Successful,66.4,57.6,78.3,85.5
+461,118244,Luke Shaw,32,Man Utd,56,SecondHalf,Pass,Successful,80.3,85.6,69.7,78.6
+462,460260,Kobbie Mainoo,32,Man Utd,56,SecondHalf,Pass,Successful,69.4,78.6,62.9,63.4
+463,517341,Ayden Heaven,32,Man Utd,56,SecondHalf,Pass,Successful,62.9,63.4,68,78.6
+464,460260,Kobbie Mainoo,32,Man Utd,56,SecondHalf,Pass,Unsuccessful,83.9,72.3,84.3,66.9
+598,345957,Ibrahima Konaté,26,Liverpool,56,SecondHalf,Interception,Successful,15.7,33.1,,
+599,369875,Dominik Szoboszlai,26,Liverpool,56,SecondHalf,BallRecovery,Successful,21.2,33.6,,
+600,369875,Dominik Szoboszlai,26,Liverpool,56,SecondHalf,Pass,Unsuccessful,22.8,30.9,36.8,14.8
+466,517341,Ayden Heaven,32,Man Utd,56,SecondHalf,BallTouch,Unsuccessful,72.8,91.3,,
+602,355354,Curtis Jones,26,Liverpool,57,SecondHalf,Pass,Successful,29.1,0,32,17.6
+603,363884,Ryan Gravenberch,26,Liverpool,57,SecondHalf,BallTouch,Successful,32,17.6,,
+612,369875,Dominik Szoboszlai,26,Liverpool,57,SecondHalf,Pass,Unsuccessful,35.9,23.2,35.3,38.6
+468,460260,Kobbie Mainoo,32,Man Utd,57,SecondHalf,Pass,Unsuccessful,70.3,72,70,69
+615,394786,Florian Wirtz,26,Liverpool,57,SecondHalf,BlockedPass,Successful,36.4,43.3,,
+469,460260,Kobbie Mainoo,32,Man Utd,57,SecondHalf,Pass,Successful,69.7,67.8,71.8,69.6
+470,88526,Casemiro,32,Man Utd,57,SecondHalf,Pass,Unsuccessful,72.2,69.1,67.2,65.1
+604,369875,Dominik Szoboszlai,26,Liverpool,57,SecondHalf,Pass,Successful,36.8,30.9,44.1,40
+605,352825,Cody Gakpo,26,Liverpool,57,SecondHalf,TakeOn,Unsuccessful,53.8,38.4,,
+471,99487,Harry Maguire,32,Man Utd,57,SecondHalf,Tackle,Successful,46.2,61.6,,
+472,123761,Bruno Fernandes,32,Man Utd,57,SecondHalf,BallRecovery,Successful,59.2,73.2,,
+473,123761,Bruno Fernandes,32,Man Utd,57,SecondHalf,Pass,Successful,58.8,70.5,69.3,50.2
+474,88526,Casemiro,32,Man Utd,57,SecondHalf,Pass,Unsuccessful,69.3,50.2,69.2,48.7
+606,345957,Ibrahima Konaté,26,Liverpool,57,SecondHalf,BlockedPass,Successful,30,33.8,,
+607,345957,Ibrahima Konaté,26,Liverpool,57,SecondHalf,BallRecovery,Successful,30,33.8,,
+608,345957,Ibrahima Konaté,26,Liverpool,57,SecondHalf,Pass,Successful,30,33.8,33.5,29.2
+475,460260,Kobbie Mainoo,32,Man Utd,57,SecondHalf,Challenge,Unsuccessful,60.6,67,,
+609,355354,Curtis Jones,26,Liverpool,57,SecondHalf,TakeOn,Successful,39.4,33,,
+610,355354,Curtis Jones,26,Liverpool,57,SecondHalf,Pass,Unsuccessful,52,27.4,87,39.4
+476,402184,Senne Lammens,32,Man Utd,57,SecondHalf,BallRecovery,Successful,12.6,59.2,,
+477,402184,Senne Lammens,32,Man Utd,57,SecondHalf,Pass,Successful,12.8,58.5,29.6,49.3
+478,99487,Harry Maguire,32,Man Utd,57,SecondHalf,Pass,Successful,35.9,49.2,84.7,90.4
+479,123761,Bruno Fernandes,32,Man Utd,57,SecondHalf,Pass,Successful,86.7,89.5,86.4,49.2
+480,353377,Bryan Mbeumo,32,Man Utd,57,SecondHalf,MissedShots,Successful,86.4,49.2,,
+613,115726,Andy Robertson,26,Liverpool,58,SecondHalf,SubstitutionOff,Successful,0,0,,
+614,424273,Milos Kerkez,26,Liverpool,58,SecondHalf,SubstitutionOn,Successful,0,0,,
+616,95408,Virgil van Dijk,26,Liverpool,59,SecondHalf,Pass,Unsuccessful,4.5,58.5,58.1,80.3
+482,353418,Diogo Dalot,32,Man Utd,59,SecondHalf,Aerial,Successful,41.9,19.7,,
+617,352825,Cody Gakpo,26,Liverpool,59,SecondHalf,Aerial,Unsuccessful,58.1,80.3,,
+483,353418,Diogo Dalot,32,Man Utd,59,SecondHalf,Pass,Unsuccessful,41.9,19.7,58.8,16.9
+618,363884,Ryan Gravenberch,26,Liverpool,59,SecondHalf,Pass,Successful,40.8,72.4,34.9,89.4
+619,424273,Milos Kerkez,26,Liverpool,59,SecondHalf,Pass,Successful,34.5,90,10.4,57.7
+620,136466,Freddie Woodman,26,Liverpool,59,SecondHalf,Pass,Successful,11.4,55,50.4,4.2
+621,392644,Jeremie Frimpong,26,Liverpool,59,SecondHalf,BallTouch,Unsuccessful,50.9,4.2,,
+486,118244,Luke Shaw,32,Man Utd,59,SecondHalf,Pass,Successful,53.4,100,31.9,76
+487,517341,Ayden Heaven,32,Man Utd,59,SecondHalf,Pass,Successful,31.6,68.4,39,81.9
+488,460260,Kobbie Mainoo,32,Man Utd,59,SecondHalf,Pass,Successful,38.2,66.9,35.1,35.1
+489,99487,Harry Maguire,32,Man Utd,59,SecondHalf,Pass,Successful,36.1,37.2,33.2,50.2
+490,460260,Kobbie Mainoo,32,Man Utd,59,SecondHalf,Pass,Successful,46.1,63,52.9,84.1
+491,517341,Ayden Heaven,32,Man Utd,59,SecondHalf,Pass,Unsuccessful,55.4,84.4,69.1,81.6
+622,355354,Curtis Jones,26,Liverpool,60,SecondHalf,Interception,Successful,30.9,18.4,,
+623,355354,Curtis Jones,26,Liverpool,60,SecondHalf,BallRecovery,Successful,31.6,22.3,,
+624,355354,Curtis Jones,26,Liverpool,60,SecondHalf,Pass,Unsuccessful,33.2,29.4,71.4,65.6
+492,99487,Harry Maguire,32,Man Utd,60,SecondHalf,Clearance,Successful,30.3,31.2,42,32.1
+493,123761,Bruno Fernandes,32,Man Utd,60,SecondHalf,BallRecovery,Successful,41.2,30.9,,
+494,123761,Bruno Fernandes,32,Man Utd,60,SecondHalf,Pass,Successful,41.2,30.9,14.1,50.8
+495,402184,Senne Lammens,32,Man Utd,60,SecondHalf,Pass,Successful,14,51,25.1,77.1
+496,460260,Kobbie Mainoo,32,Man Utd,60,SecondHalf,Pass,Successful,35.3,77.5,33.8,51.3
+497,88526,Casemiro,32,Man Utd,60,SecondHalf,Pass,Successful,37,37.3,45.8,3.9
+498,353418,Diogo Dalot,32,Man Utd,60,SecondHalf,Pass,Successful,56.7,10.3,38.6,36.7
+499,99487,Harry Maguire,32,Man Utd,60,SecondHalf,Pass,Successful,46,39.1,46.2,70.5
+500,517341,Ayden Heaven,32,Man Utd,60,SecondHalf,Pass,Successful,45.1,70.2,44,89.2
+501,118244,Luke Shaw,32,Man Utd,60,SecondHalf,Pass,Successful,44,89.2,56.3,91
+502,362758,Matheus Cunha,32,Man Utd,60,SecondHalf,Pass,Successful,56.3,91,35.7,89.1
+503,118244,Luke Shaw,32,Man Utd,60,SecondHalf,Pass,Successful,35,78.7,26.9,71.2
+504,517341,Ayden Heaven,32,Man Utd,60,SecondHalf,Pass,Successful,31.1,65.7,63.2,6.7
+505,123761,Bruno Fernandes,32,Man Utd,60,SecondHalf,Pass,Unsuccessful,63.5,6.7,64.6,8.1
+626,424273,Milos Kerkez,26,Liverpool,60,SecondHalf,BlockedPass,Successful,35.4,91.9,,
+507,123761,Bruno Fernandes,32,Man Utd,61,SecondHalf,Pass,Successful,60.8,0,52.4,9.4
+508,353418,Diogo Dalot,32,Man Utd,61,SecondHalf,Pass,Successful,52.4,9.4,54,44.4
+509,460260,Kobbie Mainoo,32,Man Utd,61,SecondHalf,Pass,Successful,54,43.8,57.6,25.6
+510,353418,Diogo Dalot,32,Man Utd,61,SecondHalf,Pass,Successful,62.6,16.9,64.4,2.7
+511,123761,Bruno Fernandes,32,Man Utd,61,SecondHalf,Pass,Successful,63.4,5.7,69.8,13
+512,88526,Casemiro,32,Man Utd,61,SecondHalf,Pass,Successful,69.8,13,73.3,18.7
+513,386634,Amad Diallo,32,Man Utd,61,SecondHalf,Pass,Successful,71.8,22.8,70.2,28.5
+514,123761,Bruno Fernandes,32,Man Utd,61,SecondHalf,Pass,Successful,70.2,28.5,64.9,46.5
+515,460260,Kobbie Mainoo,32,Man Utd,61,SecondHalf,Pass,Successful,68.2,51.4,73.6,55.6
+516,353377,Bryan Mbeumo,32,Man Utd,61,SecondHalf,Pass,Successful,73.6,55.6,66.1,77.1
+517,517341,Ayden Heaven,32,Man Utd,61,SecondHalf,Pass,Successful,66,75.1,66.6,68.5
+518,460260,Kobbie Mainoo,32,Man Utd,61,SecondHalf,Pass,Successful,67.1,64.6,72.6,66.9
+519,353377,Bryan Mbeumo,32,Man Utd,61,SecondHalf,Pass,Successful,71.9,68.4,68.4,79.3
+520,362758,Matheus Cunha,32,Man Utd,61,SecondHalf,Pass,Successful,68.1,78.1,57.6,49.8
+521,99487,Harry Maguire,32,Man Utd,61,SecondHalf,Pass,Successful,57,49.8,61.8,27.6
+522,123761,Bruno Fernandes,32,Man Utd,61,SecondHalf,Pass,Successful,61.9,27.1,67.3,36.6
+523,460260,Kobbie Mainoo,32,Man Utd,61,SecondHalf,TakeOn,Successful,70.6,37.8,,
+629,363884,Ryan Gravenberch,26,Liverpool,61,SecondHalf,Challenge,Unsuccessful,29.4,62.2,,
+524,460260,Kobbie Mainoo,32,Man Utd,61,SecondHalf,Pass,Unsuccessful,67.6,35.2,69,35.7
+630,345319,Alexis Mac Allister,26,Liverpool,61,SecondHalf,BlockedPass,Successful,31,64.3,,
+631,345319,Alexis Mac Allister,26,Liverpool,61,SecondHalf,BallRecovery,Successful,27.8,65.6,,
+632,345319,Alexis Mac Allister,26,Liverpool,61,SecondHalf,Pass,Successful,30.3,67,36.9,47.9
+633,369875,Dominik Szoboszlai,26,Liverpool,61,SecondHalf,Pass,Successful,37.9,46.2,53.8,16.3
+634,392644,Jeremie Frimpong,26,Liverpool,61,SecondHalf,Pass,Successful,68.8,13.2,86.6,69.9
+635,394786,Florian Wirtz,26,Liverpool,61,SecondHalf,Pass,Successful,87.1,70.6,85.7,62.7
+636,352825,Cody Gakpo,26,Liverpool,62,SecondHalf,SavedShot,Successful,85.7,62.7,,
+525,99487,Harry Maguire,32,Man Utd,62,SecondHalf,Save,Successful,11.6,39.7,,
+526,99487,Harry Maguire,32,Man Utd,62,SecondHalf,CornerAwarded,Unsuccessful,13.4,39.6,,
+637,352825,Cody Gakpo,26,Liverpool,62,SecondHalf,CornerAwarded,Successful,86.6,60.4,,
+638,369875,Dominik Szoboszlai,26,Liverpool,63,SecondHalf,Pass,Unsuccessful,99.5,99.5,92.5,52
+528,88526,Casemiro,32,Man Utd,63,SecondHalf,Aerial,Successful,7.5,48,,
+639,352825,Cody Gakpo,26,Liverpool,63,SecondHalf,Aerial,Unsuccessful,92.5,52,,
+529,88526,Casemiro,32,Man Utd,63,SecondHalf,Clearance,Successful,7.5,48,32.6,43.6
+640,355354,Curtis Jones,26,Liverpool,63,SecondHalf,Pass,Successful,64.4,64.9,70.8,86.5
+641,369875,Dominik Szoboszlai,26,Liverpool,63,SecondHalf,Pass,Successful,67.6,89.9,89.1,43.6
+642,95408,Virgil van Dijk,26,Liverpool,63,SecondHalf,Aerial,Successful,89.1,43.6,,
+530,118244,Luke Shaw,32,Man Utd,63,SecondHalf,Aerial,Unsuccessful,10.9,56.4,,
+643,95408,Virgil van Dijk,26,Liverpool,63,SecondHalf,SavedShot,Successful,89.1,43.6,,
+531,402184,Senne Lammens,32,Man Utd,63,SecondHalf,Save,Successful,3,49.6,,
+532,402184,Senne Lammens,32,Man Utd,63,SecondHalf,KeeperPickup,Successful,3,49.6,,
+533,402184,Senne Lammens,32,Man Utd,63,SecondHalf,Pass,Successful,6.7,50.2,11.6,60.7
+534,517341,Ayden Heaven,32,Man Utd,63,SecondHalf,Pass,Successful,11.6,60.7,23.1,61.3
+535,88526,Casemiro,32,Man Utd,63,SecondHalf,Pass,Successful,23.1,61.3,19.2,83.8
+536,118244,Luke Shaw,32,Man Utd,63,SecondHalf,Pass,Successful,20.5,84.9,22.3,69.7
+537,88526,Casemiro,32,Man Utd,63,SecondHalf,Pass,Successful,29.7,57,76.7,64.2
+538,353377,Bryan Mbeumo,32,Man Utd,63,SecondHalf,TakeOn,Unsuccessful,80.2,66.8,,
+644,424273,Milos Kerkez,26,Liverpool,63,SecondHalf,Tackle,Unsuccessful,19.8,33.2,,
+539,353377,Bryan Mbeumo,32,Man Utd,63,SecondHalf,BallTouch,Successful,80.8,62.2,,
+646,95408,Virgil van Dijk,26,Liverpool,64,SecondHalf,Pass,Successful,2.4,56.7,5.2,12.9
+647,355354,Curtis Jones,26,Liverpool,64,SecondHalf,Pass,Successful,5.2,12.9,2.9,23.5
+648,345957,Ibrahima Konaté,26,Liverpool,64,SecondHalf,Pass,Successful,3.1,23.5,5.9,15.6
+649,355354,Curtis Jones,26,Liverpool,64,SecondHalf,Pass,Successful,5.9,15.6,17.5,30.1
+650,345319,Alexis Mac Allister,26,Liverpool,64,SecondHalf,Pass,Successful,14.4,16.8,18.2,7.8
+651,363884,Ryan Gravenberch,26,Liverpool,64,SecondHalf,Pass,Unsuccessful,16.1,8,13.6,6.8
+541,353377,Bryan Mbeumo,32,Man Utd,64,SecondHalf,Interception,Successful,86.4,93.2,,
+653,355354,Curtis Jones,26,Liverpool,65,SecondHalf,Pass,Successful,12.9,0,7.3,11.8
+654,345957,Ibrahima Konaté,26,Liverpool,65,SecondHalf,Pass,Successful,7.3,11.6,13,3.9
+655,355354,Curtis Jones,26,Liverpool,65,SecondHalf,TakeOn,Unsuccessful,19.1,5.3,,
+544,88526,Casemiro,32,Man Utd,65,SecondHalf,Clearance,Successful,72.2,93.7,73.2,100
+657,355354,Curtis Jones,26,Liverpool,65,SecondHalf,Pass,Successful,33.8,0,21.6,6
+658,363884,Ryan Gravenberch,26,Liverpool,65,SecondHalf,Pass,Successful,21.3,6.3,11,8
+659,345957,Ibrahima Konaté,26,Liverpool,65,SecondHalf,Pass,Successful,11,7.1,16.7,3.2
+660,355354,Curtis Jones,26,Liverpool,65,SecondHalf,Pass,Successful,16.5,3.6,15.2,10.3
+661,363884,Ryan Gravenberch,26,Liverpool,65,SecondHalf,BallTouch,Successful,15.2,10.3,,
+662,369875,Dominik Szoboszlai,26,Liverpool,65,SecondHalf,Pass,Successful,24.6,12.7,23.8,7.4
+663,355354,Curtis Jones,26,Liverpool,65,SecondHalf,BallTouch,Successful,24.3,8.5,,
+664,369875,Dominik Szoboszlai,26,Liverpool,65,SecondHalf,Foul,Successful,30.7,15.4,,
+547,362758,Matheus Cunha,32,Man Utd,65,SecondHalf,Foul,Unsuccessful,69.4,84.7,,
+665,369875,Dominik Szoboszlai,26,Liverpool,65,SecondHalf,Pass,Successful,40.3,14.1,46,49.5
+666,345319,Alexis Mac Allister,26,Liverpool,65,SecondHalf,Pass,Successful,58.2,66.8,68,88.7
+667,424273,Milos Kerkez,26,Liverpool,65,SecondHalf,Pass,Successful,70.9,90.8,87.1,33.8
+668,392644,Jeremie Frimpong,26,Liverpool,65,SecondHalf,BallTouch,Unsuccessful,87.1,33.8,,
+549,517341,Ayden Heaven,32,Man Utd,66,SecondHalf,Pass,Successful,4.3,60.7,3.9,48.4
+550,402184,Senne Lammens,32,Man Utd,66,SecondHalf,Pass,Unsuccessful,5,45.3,55.3,27
+670,95408,Virgil van Dijk,26,Liverpool,66,SecondHalf,Pass,Successful,41.5,68.2,57.1,73
+671,394786,Florian Wirtz,26,Liverpool,66,SecondHalf,BallRecovery,Successful,57.1,73,,
+672,394786,Florian Wirtz,26,Liverpool,66,SecondHalf,Pass,Successful,56.7,58.5,62.2,10.4
+673,355354,Curtis Jones,26,Liverpool,66,SecondHalf,Pass,Successful,62.2,10,72.9,6.6
+674,392644,Jeremie Frimpong,26,Liverpool,66,SecondHalf,Pass,Successful,72.9,6.6,70.2,18.2
+675,369875,Dominik Szoboszlai,26,Liverpool,66,SecondHalf,Pass,Successful,70.2,18.5,63.3,9.2
+676,355354,Curtis Jones,26,Liverpool,66,SecondHalf,Pass,Successful,60.2,10.9,67.5,8.3
+677,369875,Dominik Szoboszlai,26,Liverpool,66,SecondHalf,Pass,Successful,67.5,8.3,63.5,14.4
+678,355354,Curtis Jones,26,Liverpool,66,SecondHalf,Pass,Successful,65.8,21.3,64,30.1
+961,363884,Ryan Gravenberch,26,Liverpool,66,SecondHalf,TakeOn,Unsuccessful,67.9,23.9,,
+679,363884,Ryan Gravenberch,26,Liverpool,66,SecondHalf,Foul,Successful,66.2,24.4,,
+552,362758,Matheus Cunha,32,Man Utd,66,SecondHalf,Foul,Unsuccessful,33.8,75.6,,
+680,369875,Dominik Szoboszlai,26,Liverpool,67,SecondHalf,Pass,Unsuccessful,72,21.5,93.9,52.3
+553,118244,Luke Shaw,32,Man Utd,67,SecondHalf,Clearance,Successful,6.8,46.3,5.4,51.6
+563,99487,Harry Maguire,32,Man Utd,67,SecondHalf,BallTouch,Successful,7,51.1,,
+554,402184,Senne Lammens,32,Man Utd,67,SecondHalf,Clearance,Successful,1.1,50.5,5.1,50.3
+555,517341,Ayden Heaven,32,Man Utd,67,SecondHalf,BallTouch,Successful,4,50.3,,
+556,123761,Bruno Fernandes,32,Man Utd,67,SecondHalf,Clearance,Successful,6.1,64.6,45.5,49.6
+681,424273,Milos Kerkez,26,Liverpool,67,SecondHalf,Pass,Successful,48.4,54.5,26.4,40.6
+682,136466,Freddie Woodman,26,Liverpool,67,SecondHalf,Pass,Unsuccessful,26.4,42.7,54.2,87.4
+557,353418,Diogo Dalot,32,Man Utd,67,SecondHalf,Aerial,Successful,45.8,12.6,,
+683,355354,Curtis Jones,26,Liverpool,67,SecondHalf,Aerial,Unsuccessful,54.2,87.4,,
+558,353418,Diogo Dalot,32,Man Utd,67,SecondHalf,Clearance,Successful,45.8,12.6,49.8,0
+685,424273,Milos Kerkez,26,Liverpool,67,SecondHalf,Pass,Successful,49.1,100,38.9,79.6
+686,95408,Virgil van Dijk,26,Liverpool,67,SecondHalf,Pass,Successful,33.8,85.4,44,69.5
+984,345319,Alexis Mac Allister,26,Liverpool,67,SecondHalf,Pass,Successful,36.5,68.9,45.2,55.9
+985,363884,Ryan Gravenberch,26,Liverpool,68,SecondHalf,Pass,Successful,45.2,55.9,57,25.1
+687,369875,Dominik Szoboszlai,26,Liverpool,68,SecondHalf,Pass,Successful,56,27.1,75.7,15.7
+688,392644,Jeremie Frimpong,26,Liverpool,68,SecondHalf,Dispossessed,Successful,86.9,13.6,,
+560,362758,Matheus Cunha,32,Man Utd,68,SecondHalf,Tackle,Successful,13,86.4,,
+561,362758,Matheus Cunha,32,Man Utd,68,SecondHalf,BallTouch,Unsuccessful,7.5,93,,
+690,392644,Jeremie Frimpong,26,Liverpool,68,SecondHalf,Pass,Successful,91.3,0,76.6,6.5
+691,369875,Dominik Szoboszlai,26,Liverpool,68,SecondHalf,Pass,Successful,76.6,6.5,69.3,22.1
+692,355354,Curtis Jones,26,Liverpool,68,SecondHalf,Pass,Successful,69.2,22.1,75.4,23.9
+693,363884,Ryan Gravenberch,26,Liverpool,68,SecondHalf,Pass,Successful,73.1,24.2,77.8,6.2
+694,392644,Jeremie Frimpong,26,Liverpool,68,SecondHalf,Pass,Successful,78.2,6.3,60.7,17
+695,369875,Dominik Szoboszlai,26,Liverpool,68,SecondHalf,Pass,Successful,69.9,23.2,70.3,33.2
+696,345319,Alexis Mac Allister,26,Liverpool,68,SecondHalf,Pass,Successful,70.3,33.2,67.2,23.3
+697,369875,Dominik Szoboszlai,26,Liverpool,68,SecondHalf,Pass,Successful,67.1,23.2,68.6,32.9
+698,345319,Alexis Mac Allister,26,Liverpool,68,SecondHalf,Pass,Successful,69.3,30.3,74.2,16.6
+699,363884,Ryan Gravenberch,26,Liverpool,68,SecondHalf,Pass,Unsuccessful,75.4,15.9,87.9,26.8
+564,118244,Luke Shaw,32,Man Utd,68,SecondHalf,Clearance,Successful,7.2,78.1,0,85.5
+565,118244,Luke Shaw,32,Man Utd,68,SecondHalf,CornerAwarded,Unsuccessful,4.2,80.7,,
+700,363884,Ryan Gravenberch,26,Liverpool,68,SecondHalf,CornerAwarded,Successful,95.8,19.3,,
+701,369875,Dominik Szoboszlai,26,Liverpool,69,SecondHalf,Pass,Successful,99.5,0.5,94.9,38.5
+702,352825,Cody Gakpo,26,Liverpool,69,SecondHalf,Aerial,Successful,94.9,38.5,,
+566,362758,Matheus Cunha,32,Man Utd,69,SecondHalf,Aerial,Unsuccessful,5.1,61.5,,
+703,352825,Cody Gakpo,26,Liverpool,69,SecondHalf,MissedShots,Successful,94.9,38.5,,
+567,123761,Bruno Fernandes,32,Man Utd,69,SecondHalf,Clearance,Successful,5,43,37.2,3.7
+704,394786,Florian Wirtz,26,Liverpool,69,SecondHalf,Pass,Successful,53.7,92.3,25.9,66.8
+705,136466,Freddie Woodman,26,Liverpool,69,SecondHalf,Pass,Unsuccessful,27.6,57.3,63,6.9
+568,362758,Matheus Cunha,32,Man Utd,69,SecondHalf,Pass,Successful,41.3,87.9,63,89.4
+569,353377,Bryan Mbeumo,32,Man Utd,69,SecondHalf,BallRecovery,Successful,63.1,89.4,,
+570,353377,Bryan Mbeumo,32,Man Utd,69,SecondHalf,Pass,Unsuccessful,56.2,93.6,51.8,90.4
+706,369875,Dominik Szoboszlai,26,Liverpool,69,SecondHalf,BlockedPass,Successful,48.2,9.6,,
+572,362758,Matheus Cunha,32,Man Utd,70,SecondHalf,Pass,Successful,53.6,100,40.5,82.9
+573,460260,Kobbie Mainoo,32,Man Utd,70,SecondHalf,Pass,Successful,41.6,61,41.9,34.6
+574,99487,Harry Maguire,32,Man Utd,70,SecondHalf,Pass,Successful,41.9,34.6,39.5,53.1
+575,460260,Kobbie Mainoo,32,Man Utd,70,SecondHalf,Pass,Successful,52,53.2,53.5,25.8
+576,99487,Harry Maguire,32,Man Utd,70,SecondHalf,Pass,Successful,57.5,23.8,66.2,28.5
+577,123761,Bruno Fernandes,32,Man Utd,70,SecondHalf,Foul,Successful,66,24.6,,
+708,95408,Virgil van Dijk,26,Liverpool,70,SecondHalf,Foul,Unsuccessful,34,75.4,,
+578,123761,Bruno Fernandes,32,Man Utd,71,SecondHalf,Pass,Successful,65.2,20.8,91,50.8
+579,88526,Casemiro,32,Man Utd,71,SecondHalf,SavedShot,Successful,91,50.8,,
+709,136466,Freddie Woodman,26,Liverpool,71,SecondHalf,Save,Successful,1.4,49.5,,
+710,136466,Freddie Woodman,26,Liverpool,71,SecondHalf,KeeperPickup,Successful,1.4,49.5,,
+711,136466,Freddie Woodman,26,Liverpool,71,SecondHalf,Pass,Unsuccessful,14.1,42.5,29.2,19.9
+986,369875,Dominik Szoboszlai,26,Liverpool,71,SecondHalf,Pass,Unsuccessful,22.7,15,43.2,11.5
+745,118244,Luke Shaw,32,Man Utd,71,SecondHalf,Interception,Successful,59.8,85,,
+580,362758,Matheus Cunha,32,Man Utd,71,SecondHalf,BallRecovery,Successful,60.7,76.1,,
+746,362758,Matheus Cunha,32,Man Utd,71,SecondHalf,Pass,Successful,59.6,78.1,53.6,78.1
+747,460260,Kobbie Mainoo,32,Man Utd,71,SecondHalf,Pass,Successful,53.6,78.1,55.4,71.2
+581,362758,Matheus Cunha,32,Man Utd,71,SecondHalf,Pass,Successful,58.5,63.6,55,58.6
+582,123761,Bruno Fernandes,32,Man Utd,71,SecondHalf,Pass,Successful,55,58.6,55.5,66.7
+583,460260,Kobbie Mainoo,32,Man Utd,71,SecondHalf,Pass,Successful,53.9,66.1,56.8,57.3
+584,123761,Bruno Fernandes,32,Man Utd,71,SecondHalf,Pass,Successful,57.2,57.4,61.5,64.3
+585,460260,Kobbie Mainoo,32,Man Utd,71,SecondHalf,Pass,Successful,62.1,63.3,60.3,55.5
+586,362758,Matheus Cunha,32,Man Utd,71,SecondHalf,Pass,Successful,60.3,55.5,70.8,88.3
+587,118244,Luke Shaw,32,Man Utd,71,SecondHalf,Pass,Successful,73.9,86.7,66.9,81.6
+588,123761,Bruno Fernandes,32,Man Utd,71,SecondHalf,Pass,Successful,67.5,77.7,84.8,14.5
+589,386634,Amad Diallo,32,Man Utd,71,SecondHalf,Pass,Successful,81.5,21,87.1,8.7
+590,353418,Diogo Dalot,32,Man Utd,71,SecondHalf,Pass,Successful,87.1,8.7,93.9,21.4
+591,123761,Bruno Fernandes,32,Man Utd,71,SecondHalf,Pass,Unsuccessful,93.9,21.6,93.9,42.7
+712,95408,Virgil van Dijk,26,Liverpool,71,SecondHalf,Clearance,Successful,8.3,61.2,2.2,45.5
+593,88526,Casemiro,32,Man Utd,71,SecondHalf,Aerial,Successful,97.8,54.5,,
+713,355354,Curtis Jones,26,Liverpool,71,SecondHalf,Aerial,Unsuccessful,2.2,45.5,,
+592,88526,Casemiro,32,Man Utd,71,SecondHalf,Pass,Unsuccessful,97.8,54.5,94.6,56.8
+714,363884,Ryan Gravenberch,26,Liverpool,71,SecondHalf,Pass,Successful,8.6,39.2,9.7,20.3
+715,355354,Curtis Jones,26,Liverpool,71,SecondHalf,BallRecovery,Successful,9.7,19.4,,
+716,355354,Curtis Jones,26,Liverpool,72,SecondHalf,Pass,Successful,19.2,13.5,29.2,55.2
+717,345319,Alexis Mac Allister,26,Liverpool,72,SecondHalf,Pass,Successful,29.2,55.2,42.2,83.7
+718,424273,Milos Kerkez,26,Liverpool,72,SecondHalf,Pass,Successful,70.7,88.2,70.7,72.1
+719,394786,Florian Wirtz,26,Liverpool,72,SecondHalf,Foul,Successful,67.8,76.8,,
+594,123761,Bruno Fernandes,32,Man Utd,72,SecondHalf,Foul,Unsuccessful,32.2,23.2,,
+720,369875,Dominik Szoboszlai,26,Liverpool,73,SecondHalf,SavedShot,Successful,71,75,,
+595,88526,Casemiro,32,Man Utd,73,SecondHalf,Save,Successful,20.2,32.7,,
+721,424273,Milos Kerkez,26,Liverpool,73,SecondHalf,Pass,Unsuccessful,59.4,67.4,77.1,16.6
+596,118244,Luke Shaw,32,Man Utd,73,SecondHalf,Pass,Successful,16.6,74.7,40.6,79.5
+597,362758,Matheus Cunha,32,Man Utd,74,SecondHalf,Foul,Successful,40,78.4,,
+722,355354,Curtis Jones,26,Liverpool,74,SecondHalf,Foul,Unsuccessful,60,21.6,,
+723,355354,Curtis Jones,26,Liverpool,74,SecondHalf,Card,Successful,0,0,,
+724,392644,Jeremie Frimpong,26,Liverpool,74,SecondHalf,SubstitutionOff,Successful,0,0,,
+725,548566,Rio Ngumoha,26,Liverpool,74,SecondHalf,SubstitutionOn,Successful,0,0,,
+598,353377,Bryan Mbeumo,32,Man Utd,74,SecondHalf,SubstitutionOff,Successful,0,0,,
+599,495260,Patrick Dorgu,32,Man Utd,74,SecondHalf,SubstitutionOn,Successful,0,0,,
+600,,,32,Man Utd,75,SecondHalf,FormationChange,Successful,0,0,,
+601,118244,Luke Shaw,32,Man Utd,75,SecondHalf,Pass,Successful,37,84.4,27.6,65.5
+602,517341,Ayden Heaven,32,Man Utd,75,SecondHalf,Pass,Successful,27.6,63.1,28.5,38.8
+603,99487,Harry Maguire,32,Man Utd,75,SecondHalf,Pass,Unsuccessful,27.6,35.2,64.9,0
+727,424273,Milos Kerkez,26,Liverpool,75,SecondHalf,Pass,Successful,34.4,100,14.6,84.1
+728,95408,Virgil van Dijk,26,Liverpool,75,SecondHalf,Pass,Successful,14,81.5,5.5,51.1
+729,136466,Freddie Woodman,26,Liverpool,75,SecondHalf,Pass,Successful,4.6,47.3,7.5,9.4
+730,345957,Ibrahima Konaté,26,Liverpool,75,SecondHalf,Pass,Successful,8.6,8.2,26.6,13.5
+731,369875,Dominik Szoboszlai,26,Liverpool,75,SecondHalf,Pass,Successful,28,11.5,28.8,26.5
+732,363884,Ryan Gravenberch,26,Liverpool,75,SecondHalf,Pass,Successful,31.5,28.9,29.1,40.9
+733,345319,Alexis Mac Allister,26,Liverpool,75,SecondHalf,Pass,Unsuccessful,31.1,45,74,82.7
+605,353418,Diogo Dalot,32,Man Utd,75,SecondHalf,Pass,Successful,23.9,17.5,25,32.4
+606,99487,Harry Maguire,32,Man Utd,75,SecondHalf,BallRecovery,Successful,25,32.4,,
+607,99487,Harry Maguire,32,Man Utd,75,SecondHalf,Pass,Successful,25,32.4,24.9,13.8
+608,353418,Diogo Dalot,32,Man Utd,76,SecondHalf,TakeOn,Successful,34.2,7.2,,
+734,352825,Cody Gakpo,26,Liverpool,76,SecondHalf,Challenge,Unsuccessful,65.8,92.8,,
+609,353418,Diogo Dalot,32,Man Utd,76,SecondHalf,Pass,Successful,35.5,5.1,35.6,9.4
+610,88526,Casemiro,32,Man Utd,76,SecondHalf,Pass,Successful,39.7,13,43.7,13.2
+611,123761,Bruno Fernandes,32,Man Utd,76,SecondHalf,Pass,Unsuccessful,43.7,13.2,43.6,11.8
+736,345319,Alexis Mac Allister,26,Liverpool,76,SecondHalf,BallTouch,Successful,54,87,,
+612,353418,Diogo Dalot,32,Man Utd,76,SecondHalf,Pass,Successful,43.2,6.1,40.9,24
+613,460260,Kobbie Mainoo,32,Man Utd,76,SecondHalf,Pass,Successful,54.2,63,55.7,87.3
+614,118244,Luke Shaw,32,Man Utd,76,SecondHalf,Pass,Successful,58.5,87.3,66.4,93
+615,495260,Patrick Dorgu,32,Man Utd,76,SecondHalf,TakeOn,Successful,67.6,86.6,,
+737,548566,Rio Ngumoha,26,Liverpool,76,SecondHalf,Challenge,Unsuccessful,32.4,13.5,,
+616,495260,Patrick Dorgu,32,Man Utd,76,SecondHalf,Pass,Successful,68.5,86.4,63.8,77.8
+617,460260,Kobbie Mainoo,32,Man Utd,76,SecondHalf,Pass,Successful,64.5,56.5,68.7,58.6
+618,362758,Matheus Cunha,32,Man Utd,76,SecondHalf,Pass,Successful,72.2,68.8,95.5,81.3
+619,118244,Luke Shaw,32,Man Utd,76,SecondHalf,Pass,Successful,98.2,82.4,96.4,42.1
+620,386634,Amad Diallo,32,Man Utd,76,SecondHalf,Pass,Unsuccessful,95.7,40.5,93.7,47.9
+738,345319,Alexis Mac Allister,26,Liverpool,76,SecondHalf,Clearance,Successful,8.7,55.8,19.7,46.2
+621,460260,Kobbie Mainoo,32,Man Utd,76,SecondHalf,Goal,Successful,81.2,50.2,,
+739,352825,Cody Gakpo,26,Liverpool,77,SecondHalf,Pass,Successful,50.1,49.7,42.9,50.9
+740,363884,Ryan Gravenberch,26,Liverpool,78,SecondHalf,Pass,Successful,41.6,50.1,45.7,63
+987,345319,Alexis Mac Allister,26,Liverpool,78,SecondHalf,Pass,Successful,47.4,61.4,39.4,61.4
+988,363884,Ryan Gravenberch,26,Liverpool,78,SecondHalf,Pass,Successful,39.4,61.4,38.4,76.6
+989,95408,Virgil van Dijk,26,Liverpool,78,SecondHalf,Pass,Successful,38.4,76.6,53.4,81
+990,394786,Florian Wirtz,26,Liverpool,78,SecondHalf,Pass,Successful,53.4,81,43.8,76.6
+991,345319,Alexis Mac Allister,26,Liverpool,78,SecondHalf,Pass,Successful,43.8,76.6,45.6,93.4
+992,424273,Milos Kerkez,26,Liverpool,78,SecondHalf,Pass,Successful,45.6,93.4,32.9,81.8
+993,95408,Virgil van Dijk,26,Liverpool,78,SecondHalf,Pass,Successful,32.9,81.8,32.5,15
+741,355354,Curtis Jones,26,Liverpool,78,SecondHalf,Pass,Successful,37.1,23.3,44.4,11
+742,548566,Rio Ngumoha,26,Liverpool,78,SecondHalf,Pass,Successful,44.6,9.7,35.9,24.2
+743,355354,Curtis Jones,26,Liverpool,78,SecondHalf,Pass,Successful,34.8,27.4,30.6,61.5
+744,345957,Ibrahima Konaté,26,Liverpool,78,SecondHalf,Pass,Successful,41.3,65.2,56.6,67.1
+745,394786,Florian Wirtz,26,Liverpool,78,SecondHalf,Pass,Successful,56.9,67,54.2,54.5
+746,345319,Alexis Mac Allister,26,Liverpool,78,SecondHalf,Pass,Successful,54.3,52.9,58.5,36.4
+747,363884,Ryan Gravenberch,26,Liverpool,78,SecondHalf,Pass,Successful,58.5,35.7,66.9,8.6
+748,548566,Rio Ngumoha,26,Liverpool,78,SecondHalf,Pass,Successful,68.9,8.3,68,17.1
+749,369875,Dominik Szoboszlai,26,Liverpool,78,SecondHalf,Pass,Successful,68,17.1,63,11
+750,355354,Curtis Jones,26,Liverpool,78,SecondHalf,Pass,Successful,62.7,11.8,68,20.3
+751,363884,Ryan Gravenberch,26,Liverpool,78,SecondHalf,Pass,Successful,68,20.3,62.7,12.7
+752,355354,Curtis Jones,26,Liverpool,78,SecondHalf,Pass,Successful,62.4,12.9,69.3,5.4
+753,369875,Dominik Szoboszlai,26,Liverpool,78,SecondHalf,Pass,Successful,69.6,5.4,63.4,12.6
+754,355354,Curtis Jones,26,Liverpool,78,SecondHalf,Pass,Unsuccessful,67.1,17.4,78.2,75.2
+622,386634,Amad Diallo,32,Man Utd,78,SecondHalf,BallTouch,Successful,25.5,22.9,,
+623,353418,Diogo Dalot,32,Man Utd,78,SecondHalf,BallRecovery,Successful,26.6,22.3,,
+624,353418,Diogo Dalot,32,Man Utd,78,SecondHalf,BallTouch,Unsuccessful,36.5,4.5,,
+756,424273,Milos Kerkez,26,Liverpool,79,SecondHalf,Pass,Successful,51.1,100,42,79.7
+757,95408,Virgil van Dijk,26,Liverpool,79,SecondHalf,Pass,Successful,45.4,82,51.1,54
+758,363884,Ryan Gravenberch,26,Liverpool,79,SecondHalf,Pass,Successful,57.2,60.8,61.1,75.3
+759,352825,Cody Gakpo,26,Liverpool,79,SecondHalf,Pass,Successful,61.2,75.8,68.6,90.2
+760,394786,Florian Wirtz,26,Liverpool,79,SecondHalf,Pass,Successful,68.9,90.5,60.5,86.2
+761,424273,Milos Kerkez,26,Liverpool,79,SecondHalf,Pass,Successful,60.5,86.2,59,69.3
+762,363884,Ryan Gravenberch,26,Liverpool,79,SecondHalf,Pass,Unsuccessful,59,68.6,69.9,61.1
+626,88526,Casemiro,32,Man Utd,79,SecondHalf,Interception,Successful,37.1,26.7,,
+627,362758,Matheus Cunha,32,Man Utd,79,SecondHalf,Pass,Unsuccessful,37.2,44.4,34,61.9
+763,548566,Rio Ngumoha,26,Liverpool,79,SecondHalf,Interception,Successful,78.1,28.9,,
+764,345319,Alexis Mac Allister,26,Liverpool,79,SecondHalf,Pass,Unsuccessful,76.7,29.8,76.7,31.8
+628,460260,Kobbie Mainoo,32,Man Utd,79,SecondHalf,BlockedPass,Successful,23.3,68.2,,
+766,355354,Curtis Jones,26,Liverpool,79,SecondHalf,Pass,Successful,69.6,0,64.7,16.3
+767,369875,Dominik Szoboszlai,26,Liverpool,79,SecondHalf,Pass,Successful,68.5,41.7,66.8,68.2
+768,95408,Virgil van Dijk,26,Liverpool,79,SecondHalf,Pass,Successful,68.7,72.3,79.7,90.5
+769,394786,Florian Wirtz,26,Liverpool,79,SecondHalf,Pass,Successful,77.9,90.2,69.9,83.4
+770,95408,Virgil van Dijk,26,Liverpool,79,SecondHalf,Pass,Successful,64,80.6,61.6,66.1
+771,369875,Dominik Szoboszlai,26,Liverpool,79,SecondHalf,Pass,Successful,62.3,64.3,65,78.8
+772,95408,Virgil van Dijk,26,Liverpool,79,SecondHalf,Pass,Successful,65,78.8,61.9,64.1
+773,369875,Dominik Szoboszlai,26,Liverpool,79,SecondHalf,Pass,Successful,61.6,61.7,61.7,29.2
+774,345957,Ibrahima Konaté,26,Liverpool,79,SecondHalf,Pass,Successful,62.2,25.7,75,5.7
+775,548566,Rio Ngumoha,26,Liverpool,80,SecondHalf,Pass,Unsuccessful,72.5,10.7,72.2,21.8
+630,460260,Kobbie Mainoo,32,Man Utd,80,SecondHalf,Interception,Successful,37.7,69.1,,
+631,362758,Matheus Cunha,32,Man Utd,80,SecondHalf,TakeOn,Successful,43.4,72.2,,
+776,369875,Dominik Szoboszlai,26,Liverpool,80,SecondHalf,Challenge,Unsuccessful,56.6,27.9,,
+632,362758,Matheus Cunha,32,Man Utd,80,SecondHalf,BallRecovery,Successful,52.8,66,,
+633,362758,Matheus Cunha,32,Man Utd,80,SecondHalf,Pass,Successful,68,54.9,81.5,68.1
+634,495260,Patrick Dorgu,32,Man Utd,80,SecondHalf,BallTouch,Unsuccessful,88.2,64.9,,
+777,363884,Ryan Gravenberch,26,Liverpool,80,SecondHalf,Clearance,Successful,8.7,32.3,8.5,6.6
+778,369875,Dominik Szoboszlai,26,Liverpool,80,SecondHalf,Foul,Successful,9.9,9.6,,
+635,123761,Bruno Fernandes,32,Man Utd,80,SecondHalf,Foul,Unsuccessful,90.1,90.4,,
+636,123761,Bruno Fernandes,32,Man Utd,80,SecondHalf,Card,Successful,0,0,,
+954,,,26,Liverpool,81,SecondHalf,FormationChange,Successful,0,0,,
+779,355354,Curtis Jones,26,Liverpool,81,SecondHalf,Pass,Successful,11.3,7.1,7.5,13
+780,345957,Ibrahima Konaté,26,Liverpool,81,SecondHalf,Pass,Successful,7.3,13.2,6.1,37.1
+781,136466,Freddie Woodman,26,Liverpool,81,SecondHalf,Pass,Successful,3.6,39.4,4.5,14.4
+782,345957,Ibrahima Konaté,26,Liverpool,81,SecondHalf,Pass,Successful,4.9,12.9,5.3,10.6
+783,355354,Curtis Jones,26,Liverpool,81,SecondHalf,Pass,Successful,5,16.3,22.9,35.3
+784,345319,Alexis Mac Allister,26,Liverpool,81,SecondHalf,Pass,Successful,23.8,35.9,37.1,62
+785,424273,Milos Kerkez,26,Liverpool,81,SecondHalf,Pass,Successful,54.7,70.8,74.7,91.2
+786,548566,Rio Ngumoha,26,Liverpool,81,SecondHalf,MissedShots,Successful,83.3,63.4,,
+639,402184,Senne Lammens,32,Man Utd,82,SecondHalf,Pass,Unsuccessful,3.8,55.3,69.6,62.2
+788,345957,Ibrahima Konaté,26,Liverpool,82,SecondHalf,Pass,Unsuccessful,26.7,36.5,55.6,32.3
+640,517341,Ayden Heaven,32,Man Utd,82,SecondHalf,Pass,Unsuccessful,44.9,65.6,86.9,58.1
+789,136466,Freddie Woodman,26,Liverpool,82,SecondHalf,KeeperPickup,Successful,12.9,34.8,,
+790,136466,Freddie Woodman,26,Liverpool,82,SecondHalf,Pass,Successful,13.3,36.2,31.6,62.4
+791,95408,Virgil van Dijk,26,Liverpool,82,SecondHalf,Pass,Successful,31.5,62.1,31.1,30.1
+792,345957,Ibrahima Konaté,26,Liverpool,82,SecondHalf,Pass,Successful,41.6,30.7,53.1,37.4
+793,363884,Ryan Gravenberch,26,Liverpool,82,SecondHalf,Pass,Successful,56.5,34.7,69.1,36.2
+794,352825,Cody Gakpo,26,Liverpool,82,SecondHalf,Dispossessed,Successful,70,40,,
+641,517341,Ayden Heaven,32,Man Utd,82,SecondHalf,Tackle,Unsuccessful,30,60,,
+795,345319,Alexis Mac Allister,26,Liverpool,82,SecondHalf,Pass,Successful,70.6,52,86.2,35.1
+796,369875,Dominik Szoboszlai,26,Liverpool,82,SecondHalf,BallTouch,Unsuccessful,86.6,34.5,,
+642,99487,Harry Maguire,32,Man Utd,82,SecondHalf,Clearance,Successful,13.7,50.7,7,96
+797,394786,Florian Wirtz,26,Liverpool,82,SecondHalf,Pass,Successful,87.8,7.6,74.2,14.5
+798,355354,Curtis Jones,26,Liverpool,82,SecondHalf,Pass,Unsuccessful,74,14.8,86.9,55.9
+643,353418,Diogo Dalot,32,Man Utd,82,SecondHalf,Clearance,Successful,15.5,45.4,31.3,63.9
+799,363884,Ryan Gravenberch,26,Liverpool,82,SecondHalf,Pass,Unsuccessful,69.3,30.9,69.8,38.8
+644,123761,Bruno Fernandes,32,Man Utd,82,SecondHalf,BallTouch,Successful,31.2,61.3,,
+645,362758,Matheus Cunha,32,Man Utd,82,SecondHalf,Pass,Unsuccessful,24,96.4,34.1,91.2
+800,355354,Curtis Jones,26,Liverpool,82,SecondHalf,Pass,Unsuccessful,63.3,12.1,65.8,24.8
+646,123761,Bruno Fernandes,32,Man Utd,82,SecondHalf,Pass,Unsuccessful,39.4,77.2,60.6,84.3
+801,355354,Curtis Jones,26,Liverpool,83,SecondHalf,Pass,Successful,33.2,11.9,30.8,42.3
+802,345957,Ibrahima Konaté,26,Liverpool,83,SecondHalf,Pass,Successful,55.8,57,62.6,55.2
+803,352825,Cody Gakpo,26,Liverpool,83,SecondHalf,Pass,Successful,63.7,67.9,71.8,88.8
+804,548566,Rio Ngumoha,26,Liverpool,83,SecondHalf,Pass,Successful,78.3,87.4,68.9,71.4
+805,352825,Cody Gakpo,26,Liverpool,83,SecondHalf,Pass,Unsuccessful,68.9,71.4,70,69.4
+647,88526,Casemiro,32,Man Utd,83,SecondHalf,BlockedPass,Successful,30,30.6,,
+806,363884,Ryan Gravenberch,26,Liverpool,83,SecondHalf,Pass,Successful,70.4,47.7,84.9,17
+807,394786,Florian Wirtz,26,Liverpool,83,SecondHalf,Pass,Successful,82.9,26.6,84.8,16.4
+808,355354,Curtis Jones,26,Liverpool,83,SecondHalf,Pass,Successful,83.9,16.5,78.2,25.4
+809,394786,Florian Wirtz,26,Liverpool,83,SecondHalf,Pass,Successful,77.6,25.7,72.6,21.3
+810,355354,Curtis Jones,26,Liverpool,83,SecondHalf,Pass,Successful,72.7,21.8,80.2,24.4
+811,369875,Dominik Szoboszlai,26,Liverpool,83,SecondHalf,Pass,Successful,80.3,24.4,83.5,9.4
+812,394786,Florian Wirtz,26,Liverpool,83,SecondHalf,Pass,Successful,86.3,12.9,83.9,24.2
+813,369875,Dominik Szoboszlai,26,Liverpool,83,SecondHalf,Pass,Successful,84.3,27.2,72.5,19.5
+814,355354,Curtis Jones,26,Liverpool,83,SecondHalf,Pass,Successful,72.1,14.4,76.8,14.5
+815,369875,Dominik Szoboszlai,26,Liverpool,83,SecondHalf,BallTouch,Unsuccessful,74.6,28.6,,
+648,362758,Matheus Cunha,32,Man Utd,83,SecondHalf,Clearance,Successful,25.6,63.9,27.7,63.9
+816,369875,Dominik Szoboszlai,26,Liverpool,83,SecondHalf,BlockedPass,Successful,74.6,28.6,,
+817,424273,Milos Kerkez,26,Liverpool,83,SecondHalf,Pass,Successful,76.5,59.9,68.4,63
+818,95408,Virgil van Dijk,26,Liverpool,83,SecondHalf,Pass,Successful,68.3,63.3,77.3,84.9
+819,548566,Rio Ngumoha,26,Liverpool,83,SecondHalf,Pass,Successful,79.5,73.5,79.8,59.9
+820,352825,Cody Gakpo,26,Liverpool,83,SecondHalf,SavedShot,Successful,81.7,56.4,,
+649,402184,Senne Lammens,32,Man Utd,83,SecondHalf,Save,Successful,1.6,50.4,,
+650,402184,Senne Lammens,32,Man Utd,83,SecondHalf,KeeperPickup,Successful,1.6,50.4,,
+651,402184,Senne Lammens,32,Man Utd,84,SecondHalf,Pass,Unsuccessful,15.2,49.5,90,86.1
+821,136466,Freddie Woodman,26,Liverpool,84,SecondHalf,BallRecovery,Successful,9.4,14.5,,
+822,136466,Freddie Woodman,26,Liverpool,84,SecondHalf,Pass,Successful,9.4,14.5,20.7,66.7
+823,95408,Virgil van Dijk,26,Liverpool,84,SecondHalf,Pass,Unsuccessful,21.7,66.2,58.3,24.7
+653,517341,Ayden Heaven,32,Man Utd,84,SecondHalf,Aerial,Successful,41.7,75.3,,
+824,394786,Florian Wirtz,26,Liverpool,84,SecondHalf,Aerial,Unsuccessful,58.3,24.7,,
+654,517341,Ayden Heaven,32,Man Utd,84,SecondHalf,Clearance,Successful,41.7,75.3,38.5,100
+826,394786,Florian Wirtz,26,Liverpool,84,SecondHalf,Pass,Successful,59.7,0,43.4,8
+827,355354,Curtis Jones,26,Liverpool,84,SecondHalf,Pass,Successful,45.1,22.7,56.2,34.2
+828,352825,Cody Gakpo,26,Liverpool,84,SecondHalf,Pass,Unsuccessful,56.7,35.9,57.7,38.2
+656,88526,Casemiro,32,Man Utd,84,SecondHalf,BlockedPass,Successful,42.3,61.8,,
+831,352825,Cody Gakpo,26,Liverpool,84,SecondHalf,BallTouch,Successful,58.7,36.4,,
+657,88526,Casemiro,32,Man Utd,84,SecondHalf,BallRecovery,Successful,48,57,,
+658,88526,Casemiro,32,Man Utd,84,SecondHalf,Foul,Successful,55.7,53.2,,
+829,352825,Cody Gakpo,26,Liverpool,84,SecondHalf,Foul,Unsuccessful,44.2,46.8,,
+830,352825,Cody Gakpo,26,Liverpool,84,SecondHalf,Card,Successful,0,0,,
+659,88526,Casemiro,32,Man Utd,85,SecondHalf,Pass,Successful,56.8,52.2,86,88
+660,118244,Luke Shaw,32,Man Utd,85,SecondHalf,Pass,Successful,80.3,84,81.1,73.8
+661,495260,Patrick Dorgu,32,Man Utd,85,SecondHalf,Pass,Unsuccessful,89.6,73.3,89.7,66.3
+833,345957,Ibrahima Konaté,26,Liverpool,85,SecondHalf,BallTouch,Successful,7.2,31.8,,
+835,355354,Curtis Jones,26,Liverpool,85,SecondHalf,BallRecovery,Successful,11.2,35.4,,
+834,355354,Curtis Jones,26,Liverpool,85,SecondHalf,Pass,Successful,9.5,31.8,19.1,8.3
+836,394786,Florian Wirtz,26,Liverpool,85,SecondHalf,Pass,Successful,18.1,4.5,28.7,19.1
+837,369875,Dominik Szoboszlai,26,Liverpool,85,SecondHalf,Pass,Unsuccessful,33,22.3,32.8,26
+662,88526,Casemiro,32,Man Utd,85,SecondHalf,BlockedPass,Successful,67.2,74,,
+663,123761,Bruno Fernandes,32,Man Utd,85,SecondHalf,BallRecovery,Successful,70.4,95.7,,
+664,123761,Bruno Fernandes,32,Man Utd,85,SecondHalf,Pass,Successful,70.4,95.7,64.9,81.3
+665,460260,Kobbie Mainoo,32,Man Utd,85,SecondHalf,Pass,Successful,65,81.4,69.2,76.9
+666,88526,Casemiro,32,Man Utd,85,SecondHalf,Pass,Successful,69.1,76,69.3,78.6
+667,460260,Kobbie Mainoo,32,Man Utd,85,SecondHalf,SavedShot,Successful,76,51,,
+839,95408,Virgil van Dijk,26,Liverpool,85,SecondHalf,Save,Successful,19.9,48.7,,
+840,363884,Ryan Gravenberch,26,Liverpool,85,SecondHalf,BallRecovery,Successful,25.3,47.9,,
+841,363884,Ryan Gravenberch,26,Liverpool,85,SecondHalf,Pass,Successful,24.9,47.3,32.9,60.5
+842,352825,Cody Gakpo,26,Liverpool,85,SecondHalf,Pass,Successful,36.9,61.7,51.4,85.5
+668,353418,Diogo Dalot,32,Man Utd,85,SecondHalf,Challenge,Unsuccessful,35.6,5.9,,
+843,548566,Rio Ngumoha,26,Liverpool,85,SecondHalf,TakeOn,Successful,64.4,94.1,,
+669,88526,Casemiro,32,Man Utd,85,SecondHalf,Challenge,Unsuccessful,21.6,10.4,,
+844,548566,Rio Ngumoha,26,Liverpool,85,SecondHalf,TakeOn,Successful,78.4,89.6,,
+845,548566,Rio Ngumoha,26,Liverpool,86,SecondHalf,TakeOn,Unsuccessful,93.2,78.5,,
+671,362758,Matheus Cunha,32,Man Utd,86,SecondHalf,SubstitutionOff,Successful,0,0,,
+672,383956,Joshua Zirkzee,32,Man Utd,86,SecondHalf,SubstitutionOn,Successful,0,0,,
+847,345957,Ibrahima Konaté,26,Liverpool,86,SecondHalf,SubstitutionOff,Successful,0,0,,
+848,322971,Federico Chiesa,26,Liverpool,86,SecondHalf,SubstitutionOn,Successful,0,0,,
+849,,,26,Liverpool,86,SecondHalf,FormationChange,Successful,0,0,,
+673,402184,Senne Lammens,32,Man Utd,87,SecondHalf,Pass,Successful,4.8,56.6,64.1,83
+728,118244,Luke Shaw,32,Man Utd,87,SecondHalf,Aerial,Successful,65.3,80.7,,
+850,394786,Florian Wirtz,26,Liverpool,87,SecondHalf,Aerial,Unsuccessful,34.7,19.3,,
+674,118244,Luke Shaw,32,Man Utd,87,SecondHalf,Pass,Unsuccessful,65.3,80.7,71.8,66.1
+851,95408,Virgil van Dijk,26,Liverpool,87,SecondHalf,Pass,Successful,30.7,34.1,55.3,27.1
+852,352825,Cody Gakpo,26,Liverpool,87,SecondHalf,BallRecovery,Successful,55.3,27.1,,
+853,352825,Cody Gakpo,26,Liverpool,87,SecondHalf,TakeOn,Unsuccessful,57.8,27.6,,
+675,118244,Luke Shaw,32,Man Utd,87,SecondHalf,Tackle,Successful,42.2,72.4,,
+676,353418,Diogo Dalot,32,Man Utd,87,SecondHalf,Clearance,Successful,35.8,40.2,84.4,76
+854,363884,Ryan Gravenberch,26,Liverpool,87,SecondHalf,Foul,Successful,21.6,23.2,,
+677,495260,Patrick Dorgu,32,Man Utd,87,SecondHalf,Foul,Unsuccessful,78.4,76.8,,
+855,363884,Ryan Gravenberch,26,Liverpool,87,SecondHalf,Pass,Successful,19.7,27.3,30.7,49.1
+856,345319,Alexis Mac Allister,26,Liverpool,87,SecondHalf,Pass,Successful,35.5,55.8,41.5,75.3
+857,424273,Milos Kerkez,26,Liverpool,87,SecondHalf,Pass,Successful,55.2,88.4,62.4,92.8
+858,548566,Rio Ngumoha,26,Liverpool,87,SecondHalf,Pass,Successful,63.4,92.1,56.3,80.2
+859,345319,Alexis Mac Allister,26,Liverpool,87,SecondHalf,Pass,Successful,54.4,75.6,53.2,47.6
+860,95408,Virgil van Dijk,26,Liverpool,87,SecondHalf,Pass,Successful,53.3,45.8,63.9,8
+861,355354,Curtis Jones,26,Liverpool,87,SecondHalf,Pass,Successful,63.9,9.4,57.2,35
+862,95408,Virgil van Dijk,26,Liverpool,87,SecondHalf,Pass,Successful,56.1,36.8,56,68.2
+863,345319,Alexis Mac Allister,26,Liverpool,87,SecondHalf,Pass,Successful,58,74.1,65.8,92.8
+864,424273,Milos Kerkez,26,Liverpool,87,SecondHalf,Pass,Successful,66.5,93.5,72.2,95.2
+865,548566,Rio Ngumoha,26,Liverpool,87,SecondHalf,Pass,Successful,72.2,95.2,61.6,76.1
+866,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Successful,63.2,76.8,60.4,67.7
+867,363884,Ryan Gravenberch,26,Liverpool,88,SecondHalf,Pass,Successful,61,69.7,63.2,79.1
+868,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Successful,63.2,79.1,70.5,78.3
+869,424273,Milos Kerkez,26,Liverpool,88,SecondHalf,Pass,Successful,71,78.8,71.4,91.8
+870,548566,Rio Ngumoha,26,Liverpool,88,SecondHalf,TakeOn,Unsuccessful,89.6,89.8,,
+678,353418,Diogo Dalot,32,Man Utd,88,SecondHalf,Tackle,Unsuccessful,10.4,10.2,,
+871,548566,Rio Ngumoha,26,Liverpool,88,SecondHalf,BallTouch,Successful,87.2,90.2,,
+679,353418,Diogo Dalot,32,Man Utd,88,SecondHalf,BallTouch,Unsuccessful,6,10.5,,
+872,548566,Rio Ngumoha,26,Liverpool,88,SecondHalf,Pass,Successful,87.2,91.2,75,85.8
+873,424273,Milos Kerkez,26,Liverpool,88,SecondHalf,Pass,Successful,75,85.8,60,72
+874,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Successful,61.1,73.7,58.4,56.8
+875,95408,Virgil van Dijk,26,Liverpool,88,SecondHalf,Pass,Successful,58.5,59.6,62.1,74.3
+876,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Successful,67,78.8,75,92.8
+877,548566,Rio Ngumoha,26,Liverpool,88,SecondHalf,Pass,Successful,74.1,90.5,68.8,78
+878,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Successful,68.7,77.7,62.2,58.6
+879,95408,Virgil van Dijk,26,Liverpool,88,SecondHalf,Pass,Successful,62.2,58.6,63.5,30.6
+880,355354,Curtis Jones,26,Liverpool,88,SecondHalf,Pass,Unsuccessful,65.3,28.5,77.3,29.4
+680,118244,Luke Shaw,32,Man Utd,88,SecondHalf,Pass,Successful,23.2,71.1,31.7,78.6
+681,495260,Patrick Dorgu,32,Man Utd,88,SecondHalf,BallRecovery,Successful,32.7,78.6,,
+682,495260,Patrick Dorgu,32,Man Utd,88,SecondHalf,Pass,Successful,35.6,78.1,39.5,65.7
+683,123761,Bruno Fernandes,32,Man Utd,88,SecondHalf,Pass,Unsuccessful,39.5,65.7,67.8,92.4
+881,394786,Florian Wirtz,26,Liverpool,88,SecondHalf,BallRecovery,Successful,36.1,15.3,,
+882,394786,Florian Wirtz,26,Liverpool,88,SecondHalf,Pass,Successful,34.6,12.7,17.7,36.5
+883,136466,Freddie Woodman,26,Liverpool,88,SecondHalf,Pass,Successful,18.6,37.4,36.1,44.1
+884,355354,Curtis Jones,26,Liverpool,88,SecondHalf,Pass,Successful,44.2,48.3,52.2,66.4
+885,345319,Alexis Mac Allister,26,Liverpool,88,SecondHalf,Pass,Unsuccessful,52.6,68.5,62.4,78.3
+684,88526,Casemiro,32,Man Utd,88,SecondHalf,Interception,Successful,37.6,21.7,,
+685,88526,Casemiro,32,Man Utd,88,SecondHalf,BallRecovery,Successful,44.1,15.4,,
+686,88526,Casemiro,32,Man Utd,88,SecondHalf,Pass,Successful,44.1,15.4,61,27.9
+687,383956,Joshua Zirkzee,32,Man Utd,89,SecondHalf,Pass,Successful,63.5,21,71.3,10.6
+688,386634,Amad Diallo,32,Man Utd,89,SecondHalf,Pass,Successful,70.8,15.3,71,24
+689,88526,Casemiro,32,Man Utd,89,SecondHalf,Pass,Successful,71,24,71.7,72.4
+690,495260,Patrick Dorgu,32,Man Utd,89,SecondHalf,MissedShots,Successful,82.3,70.2,,
+887,136466,Freddie Woodman,26,Liverpool,89,SecondHalf,Pass,Successful,4.3,51.3,12.4,27.6
+889,363884,Ryan Gravenberch,26,Liverpool,89,SecondHalf,Pass,Successful,9.2,28.9,5.7,44.2
+890,136466,Freddie Woodman,26,Liverpool,89,SecondHalf,Pass,Successful,5.7,44.2,12.4,23.2
+891,363884,Ryan Gravenberch,26,Liverpool,89,SecondHalf,Pass,Successful,16.7,15.6,8.6,24.5
+892,355354,Curtis Jones,26,Liverpool,89,SecondHalf,Pass,Successful,8.6,25.1,5.9,50
+893,136466,Freddie Woodman,26,Liverpool,89,SecondHalf,Pass,Successful,5.4,52.1,14,74.9
+894,95408,Virgil van Dijk,26,Liverpool,89,SecondHalf,Pass,Successful,14.7,80,16.4,93.2
+895,424273,Milos Kerkez,26,Liverpool,89,SecondHalf,Pass,Unsuccessful,16.5,93.4,32.3,89.3
+695,99487,Harry Maguire,32,Man Utd,89,SecondHalf,Interception,Successful,67.7,10.7,,
+896,352825,Cody Gakpo,26,Liverpool,89,SecondHalf,BallTouch,Successful,32.3,89.3,,
+694,353418,Diogo Dalot,32,Man Utd,90,SecondHalf,Pass,Unsuccessful,67.3,0,78.2,19.3
+898,363884,Ryan Gravenberch,26,Liverpool,90,SecondHalf,Interception,Successful,21.8,80.7,,
+899,369875,Dominik Szoboszlai,26,Liverpool,90,SecondHalf,BallRecovery,Successful,26,71.4,,
+900,369875,Dominik Szoboszlai,26,Liverpool,90,SecondHalf,Pass,Successful,26.4,71.7,38.4,66.4
+901,352825,Cody Gakpo,26,Liverpool,90,SecondHalf,TakeOn,Unsuccessful,40.5,63.4,,
+696,118244,Luke Shaw,32,Man Utd,90,SecondHalf,Tackle,Successful,59.5,36.6,,
+697,460260,Kobbie Mainoo,32,Man Utd,90,SecondHalf,BallRecovery,Successful,61.4,28.2,,
+698,460260,Kobbie Mainoo,32,Man Utd,90,SecondHalf,Pass,Successful,61.4,28.2,66.4,13
+699,386634,Amad Diallo,32,Man Utd,90,SecondHalf,Foul,Successful,66.6,18.6,,
+902,424273,Milos Kerkez,26,Liverpool,90,SecondHalf,Foul,Unsuccessful,33.4,81.4,,
+700,88526,Casemiro,32,Man Utd,90,SecondHalf,Pass,Unsuccessful,64.4,11.5,89.2,23.1
+903,363884,Ryan Gravenberch,26,Liverpool,90,SecondHalf,Interception,Successful,10.8,76.9,,
+701,123761,Bruno Fernandes,32,Man Utd,90,SecondHalf,SavedShot,Successful,89.3,27.1,,
+904,136466,Freddie Woodman,26,Liverpool,90,SecondHalf,Save,Successful,1.5,53.9,,
+905,136466,Freddie Woodman,26,Liverpool,90,SecondHalf,KeeperPickup,Successful,2.2,54.9,,
+906,136466,Freddie Woodman,26,Liverpool,90,SecondHalf,Pass,Successful,11.9,47.9,24.4,40.4
+907,369875,Dominik Szoboszlai,26,Liverpool,91,SecondHalf,Pass,Successful,25.4,35.3,34.7,11.8
+908,355354,Curtis Jones,26,Liverpool,91,SecondHalf,Pass,Successful,38.5,17.7,34.9,30.4
+909,369875,Dominik Szoboszlai,26,Liverpool,91,SecondHalf,Pass,Successful,39.9,36.4,47.6,66.8
+910,95408,Virgil van Dijk,26,Liverpool,91,SecondHalf,Pass,Successful,59.6,72.6,71.5,91.7
+911,548566,Rio Ngumoha,26,Liverpool,91,SecondHalf,Pass,Successful,82.9,86.2,96,72.7
+912,424273,Milos Kerkez,26,Liverpool,91,SecondHalf,Pass,Unsuccessful,93.9,77.1,91.9,73.4
+702,386634,Amad Diallo,32,Man Utd,91,SecondHalf,BlockedPass,Successful,8.1,26.6,,
+703,402184,Senne Lammens,32,Man Utd,91,SecondHalf,KeeperPickup,Successful,3.3,49,,
+704,402184,Senne Lammens,32,Man Utd,91,SecondHalf,Pass,Unsuccessful,10.4,49.3,68.9,100
+914,355354,Curtis Jones,26,Liverpool,91,SecondHalf,Pass,Successful,36.5,0,41.2,14.5
+915,369875,Dominik Szoboszlai,26,Liverpool,91,SecondHalf,Pass,Successful,41.2,14.5,30.7,7.2
+916,355354,Curtis Jones,26,Liverpool,91,SecondHalf,Pass,Successful,30.6,9.4,29.7,29.1
+917,363884,Ryan Gravenberch,26,Liverpool,91,SecondHalf,Pass,Successful,33.8,41.8,40.3,64.3
+918,95408,Virgil van Dijk,26,Liverpool,91,SecondHalf,Pass,Successful,52.8,72.1,57,60.9
+919,345319,Alexis Mac Allister,26,Liverpool,91,SecondHalf,Pass,Successful,58.9,63.9,53.4,53
+920,363884,Ryan Gravenberch,26,Liverpool,92,SecondHalf,Pass,Successful,52.3,51.1,58.3,10.3
+921,355354,Curtis Jones,26,Liverpool,92,SecondHalf,Pass,Successful,58.4,10.1,67.1,6.9
+922,394786,Florian Wirtz,26,Liverpool,92,SecondHalf,Pass,Successful,68.5,6.8,61,12.3
+923,355354,Curtis Jones,26,Liverpool,92,SecondHalf,Pass,Successful,61,12.6,60,32.4
+924,345319,Alexis Mac Allister,26,Liverpool,92,SecondHalf,Pass,Successful,60.2,33.5,56.7,50
+925,363884,Ryan Gravenberch,26,Liverpool,92,SecondHalf,Pass,Successful,64,40,64.2,13.3
+926,355354,Curtis Jones,26,Liverpool,92,SecondHalf,Pass,Successful,66.7,15.6,65.9,29.1
+927,363884,Ryan Gravenberch,26,Liverpool,92,SecondHalf,Pass,Successful,65.9,29.5,69.5,17.1
+928,355354,Curtis Jones,26,Liverpool,92,SecondHalf,Pass,Successful,70,18.2,82.1,9.8
+929,394786,Florian Wirtz,26,Liverpool,92,SecondHalf,Pass,Successful,82.1,9.8,69.6,22.6
+930,369875,Dominik Szoboszlai,26,Liverpool,92,SecondHalf,Pass,Successful,69.6,22.6,66.9,32.6
+931,363884,Ryan Gravenberch,26,Liverpool,92,SecondHalf,Pass,Successful,68.4,40,67.8,76.7
+932,424273,Milos Kerkez,26,Liverpool,92,SecondHalf,Pass,Successful,67.8,76.7,75.1,95
+933,548566,Rio Ngumoha,26,Liverpool,92,SecondHalf,Pass,Successful,73.3,83.8,74.3,68.5
+934,345319,Alexis Mac Allister,26,Liverpool,92,SecondHalf,Pass,Successful,74.3,68.5,64.1,90.2
+935,424273,Milos Kerkez,26,Liverpool,92,SecondHalf,Pass,Successful,64.1,90.2,57.5,68.2
+936,363884,Ryan Gravenberch,26,Liverpool,92,SecondHalf,Pass,Successful,61.9,74,72,73.5
+937,322971,Federico Chiesa,26,Liverpool,92,SecondHalf,Pass,Successful,72.2,74.4,77.2,93.2
+938,548566,Rio Ngumoha,26,Liverpool,92,SecondHalf,Pass,Successful,71.2,65.5,62.6,33.5
+939,369875,Dominik Szoboszlai,26,Liverpool,93,SecondHalf,Pass,Successful,64.2,25.6,73.8,9.2
+940,394786,Florian Wirtz,26,Liverpool,93,SecondHalf,Pass,Unsuccessful,78,7.1,76.7,8.3
+708,383956,Joshua Zirkzee,32,Man Utd,93,SecondHalf,BlockedPass,Successful,23.3,91.7,,
+941,394786,Florian Wirtz,26,Liverpool,93,SecondHalf,Pass,Unsuccessful,75.5,19.2,76.4,21.7
+713,118244,Luke Shaw,32,Man Utd,93,SecondHalf,BallTouch,Successful,22.6,81.3,,
+942,352825,Cody Gakpo,26,Liverpool,93,SecondHalf,Pass,Successful,80.1,31,73.5,42.9
+943,394786,Florian Wirtz,26,Liverpool,93,SecondHalf,Pass,Successful,75.6,49.7,81.3,79.9
+944,322971,Federico Chiesa,26,Liverpool,93,SecondHalf,Pass,Unsuccessful,93.1,78,85.4,14.8
+709,383956,Joshua Zirkzee,32,Man Utd,93,SecondHalf,BallRecovery,Successful,13.1,81.4,,
+710,383956,Joshua Zirkzee,32,Man Utd,93,SecondHalf,Pass,Successful,14,81.6,25.6,78.1
+711,495260,Patrick Dorgu,32,Man Utd,93,SecondHalf,BallTouch,Unsuccessful,35.2,71.7,,
+945,355354,Curtis Jones,26,Liverpool,93,SecondHalf,Foul,Successful,62.8,32.7,,
+712,495260,Patrick Dorgu,32,Man Utd,93,SecondHalf,Foul,Unsuccessful,37.2,67.2,,
+946,369875,Dominik Szoboszlai,26,Liverpool,94,SecondHalf,Pass,Unsuccessful,67.9,35.3,86.1,63.5
+714,88526,Casemiro,32,Man Utd,94,SecondHalf,Clearance,Successful,10.9,30,37.7,31.9
+947,424273,Milos Kerkez,26,Liverpool,94,SecondHalf,Pass,Unsuccessful,68.8,58.5,85.2,32.6
+715,118244,Luke Shaw,32,Man Utd,94,SecondHalf,Clearance,Successful,15.2,63.4,20.8,100
+948,322971,Federico Chiesa,26,Liverpool,94,SecondHalf,ShieldBallOpp,Successful,73.2,8.8,,
+950,322971,Federico Chiesa,26,Liverpool,94,SecondHalf,Pass,Successful,72,0,76.2,19.1
+951,394786,Florian Wirtz,26,Liverpool,94,SecondHalf,Pass,Unsuccessful,76.2,19.1,72.2,11.3
+717,123761,Bruno Fernandes,32,Man Utd,94,SecondHalf,Interception,Successful,27.8,88.7,,
+952,322971,Federico Chiesa,26,Liverpool,94,SecondHalf,BallTouch,Successful,72.2,11.3,,
+719,123761,Bruno Fernandes,32,Man Utd,95,SecondHalf,SubstitutionOff,Successful,0,0,,
+720,437299,Leny Yoro,32,Man Utd,95,SecondHalf,SubstitutionOn,Successful,0,0,,
+721,,,32,Man Utd,95,SecondHalf,FormationChange,Successful,0,0,,
+722,118244,Luke Shaw,32,Man Utd,95,SecondHalf,Pass,Successful,15.6,100,43.1,86.2
+723,383956,Joshua Zirkzee,32,Man Utd,95,SecondHalf,Pass,Successful,43.1,86.2,53.5,52.6
+724,386634,Amad Diallo,32,Man Utd,95,SecondHalf,Pass,Successful,78.6,41.2,89.6,33.4
+725,353418,Diogo Dalot,32,Man Utd,95,SecondHalf,MissedShots,Successful,89.6,33.4,,
+956,136466,Freddie Woodman,26,Liverpool,95,SecondHalf,Pass,Successful,3.2,53.6,10.2,55.9
+727,,,32,Man Utd,95,SecondHalf,End,Successful,0,0,,
+957,,,26,Liverpool,95,SecondHalf,End,Successful,0,0,,
+729,,,32,Man Utd,0,PostGame,End,Successful,0,0,,
+958,,,26,Liverpool,0,PostGame,End,Successful,0,0,,
+2,,,32,Man Utd,0,PreMatch,FormationSet,Successful,0,0,,
+2,,,26,Liverpool,0,PreMatch,FormationSet,Successful,0,0,,

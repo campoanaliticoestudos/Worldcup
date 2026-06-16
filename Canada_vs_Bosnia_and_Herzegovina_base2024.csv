@@ -1,0 +1,1528 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,1160,Canada,0,FirstHalf,Start,Successful,0,0,,
+2,,,768,Bosnia and Herzegovina,0,FirstHalf,Start,Successful,0,0,,
+3,351744,Stephen Eustaquio,1160,Canada,0,FirstHalf,Pass,Successful,50,50,53.8,50.7
+4,422851,Ismaël Koné,1160,Canada,0,FirstHalf,Pass,Successful,59,58.6,66,96.9
+5,391821,Liam Millar,1160,Canada,0,FirstHalf,Pass,Successful,66.8,96.3,62.3,87.1
+6,313012,Richie Laryea,1160,Canada,0,FirstHalf,Pass,Successful,62.4,87.1,87.9,96.6
+7,445292,Tani Oluwaseyi,1160,Canada,0,FirstHalf,TakeOn,Unsuccessful,89,94.2,,
+3,363666,Nikola Katic,768,Bosnia and Herzegovina,0,FirstHalf,Tackle,Successful,11,5.8,,
+9,391821,Liam Millar,1160,Canada,0,FirstHalf,Pass,Unsuccessful,87,100,94.8,63.1
+5,363666,Nikola Katic,768,Bosnia and Herzegovina,0,FirstHalf,Clearance,Successful,4.4,38,4.3,34.2
+10,492688,Luc De Fougerolles,1160,Canada,0,FirstHalf,Pass,Unsuccessful,98.6,69.1,98,59.7
+6,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,0,FirstHalf,Clearance,Successful,3.1,39.5,0,32.4
+7,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,0,FirstHalf,CornerAwarded,Unsuccessful,0.8,35,,
+11,492688,Luc De Fougerolles,1160,Canada,0,FirstHalf,CornerAwarded,Successful,99.2,65,,
+12,351744,Stephen Eustaquio,1160,Canada,1,FirstHalf,Pass,Successful,99.5,99.5,95.8,67.8
+13,371027,Tajon Buchanan,1160,Canada,1,FirstHalf,Pass,Unsuccessful,90.3,68.7,93.3,67.7
+8,418203,Amar Dedic,768,Bosnia and Herzegovina,1,FirstHalf,BallTouch,Successful,3.3,40.1,,
+9,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,1,FirstHalf,Clearance,Successful,2.9,24.1,60,37.1
+14,137263,Maxime Crépeau,1160,Canada,1,FirstHalf,KeeperSweeper,Successful,36.8,54,,
+15,137263,Maxime Crépeau,1160,Canada,1,FirstHalf,Pass,Successful,37.2,54.4,46.3,36
+16,422851,Ismaël Koné,1160,Canada,1,FirstHalf,Pass,Unsuccessful,46,34.9,65.4,7
+10,110260,Sead Kolasinac,768,Bosnia and Herzegovina,1,FirstHalf,Pass,Successful,36.6,90.5,51.9,83.6
+11,449011,Jovo Lukic,768,Bosnia and Herzegovina,1,FirstHalf,BallRecovery,Successful,50.3,83.2,,
+12,449011,Jovo Lukic,768,Bosnia and Herzegovina,1,FirstHalf,Pass,Successful,50.3,83.2,37.1,91.2
+13,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,1,FirstHalf,Pass,Successful,36.3,90.8,60.4,96
+14,110260,Sead Kolasinac,768,Bosnia and Herzegovina,1,FirstHalf,Foul,Successful,65.2,94.7,,
+17,397859,Alistair Johnston,1160,Canada,1,FirstHalf,Foul,Unsuccessful,34.8,5.3,,
+16,418212,Ivan Basic,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Successful,63.1,93.3,91.7,29.7
+17,363666,Nikola Katic,768,Bosnia and Herzegovina,2,FirstHalf,Aerial,Successful,91.7,29.7,,
+19,422851,Ismaël Koné,1160,Canada,2,FirstHalf,Aerial,Unsuccessful,8.3,70.3,,
+18,363666,Nikola Katic,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Unsuccessful,91.7,29.7,91.5,37.9
+21,397859,Alistair Johnston,1160,Canada,2,FirstHalf,Clearance,Successful,6.6,61.3,10.7,61.5
+19,428102,Amar Memic,768,Bosnia and Herzegovina,2,FirstHalf,MissedShots,Successful,87.1,45.8,,
+22,492688,Luc De Fougerolles,1160,Canada,2,FirstHalf,Pass,Successful,4.3,42.1,4.3,52.3
+23,137263,Maxime Crépeau,1160,Canada,2,FirstHalf,Pass,Unsuccessful,5.8,54.9,39.2,96.4
+21,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,2,FirstHalf,Aerial,Successful,60.8,3.6,,
+24,313012,Richie Laryea,1160,Canada,2,FirstHalf,Aerial,Unsuccessful,39.2,96.4,,
+22,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Unsuccessful,60.8,3.6,59.8,6.8
+25,313012,Richie Laryea,1160,Canada,2,FirstHalf,BallTouch,Successful,39.3,96.4,,
+23,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Successful,61.6,5.9,65.3,9.7
+24,449011,Jovo Lukic,768,Bosnia and Herzegovina,2,FirstHalf,TakeOn,Unsuccessful,65,7.8,,
+26,313012,Richie Laryea,1160,Canada,2,FirstHalf,Tackle,Unsuccessful,35,92.3,,
+25,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,2,FirstHalf,BallTouch,Unsuccessful,64.8,15.4,,
+28,313012,Richie Laryea,1160,Canada,2,FirstHalf,Pass,Unsuccessful,32.5,86.7,33.5,85.6
+26,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,2,FirstHalf,BallTouch,Successful,64.9,16.5,,
+29,492688,Luc De Fougerolles,1160,Canada,2,FirstHalf,Pass,Unsuccessful,29.2,69.9,60.8,20.7
+27,110260,Sead Kolasinac,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Successful,37.4,88.4,37,73
+28,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,2,FirstHalf,BallRecovery,Successful,37,73,,
+29,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,2,FirstHalf,Pass,Unsuccessful,37,73,67.9,72.4
+30,492688,Luc De Fougerolles,1160,Canada,2,FirstHalf,Clearance,Successful,31.2,35.2,44.9,19.3
+31,371027,Tajon Buchanan,1160,Canada,2,FirstHalf,BallRecovery,Successful,38.3,6.4,,
+32,371027,Tajon Buchanan,1160,Canada,2,FirstHalf,Pass,Successful,38,7.3,28.3,6
+33,397859,Alistair Johnston,1160,Canada,3,FirstHalf,Pass,Successful,27.8,8.1,39.6,25.9
+34,422851,Ismaël Koné,1160,Canada,3,FirstHalf,Pass,Successful,42.2,27.4,66,9.1
+35,383855,Jonathan David,1160,Canada,3,FirstHalf,Pass,Successful,65,17.1,75.4,3.1
+36,371027,Tajon Buchanan,1160,Canada,3,FirstHalf,Pass,Unsuccessful,77.6,9.1,84.8,55.9
+31,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,3,FirstHalf,Clearance,Successful,14.8,46.1,58.6,94.8
+37,492688,Luc De Fougerolles,1160,Canada,3,FirstHalf,Clearance,Successful,38.1,4.2,41.4,0
+33,110260,Sead Kolasinac,768,Bosnia and Herzegovina,3,FirstHalf,Pass,Unsuccessful,57,100,100,85.6
+40,137263,Maxime Crépeau,1160,Canada,4,FirstHalf,Pass,Successful,3.7,49.1,6,70.9
+43,371029,Derek Cornelius,1160,Canada,4,FirstHalf,Pass,Unsuccessful,5.6,72.6,48,100
+36,418203,Amar Dedic,768,Bosnia and Herzegovina,4,FirstHalf,Pass,Successful,53.3,0,65.8,5.6
+37,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,4,FirstHalf,Pass,Successful,65.8,5.6,61.5,9.8
+38,418203,Amar Dedic,768,Bosnia and Herzegovina,4,FirstHalf,Foul,Successful,59.2,5.8,,
+42,391821,Liam Millar,1160,Canada,4,FirstHalf,Foul,Unsuccessful,40.8,94.2,,
+39,418212,Ivan Basic,768,Bosnia and Herzegovina,4,FirstHalf,Pass,Successful,63.4,8.3,60.9,36.3
+40,418203,Amar Dedic,768,Bosnia and Herzegovina,4,FirstHalf,Pass,Successful,61,36.1,63.7,9.4
+41,418212,Ivan Basic,768,Bosnia and Herzegovina,4,FirstHalf,Pass,Successful,63.8,9.5,88.9,59.4
+42,449011,Jovo Lukic,768,Bosnia and Herzegovina,4,FirstHalf,Aerial,Successful,88.9,59.4,,
+44,371029,Derek Cornelius,1160,Canada,4,FirstHalf,Aerial,Unsuccessful,11.1,40.6,,
+43,449011,Jovo Lukic,768,Bosnia and Herzegovina,4,FirstHalf,MissedShots,Successful,88.9,59.4,,
+46,371029,Derek Cornelius,1160,Canada,5,FirstHalf,Pass,Successful,5.5,60.6,6.3,49
+47,137263,Maxime Crépeau,1160,Canada,5,FirstHalf,Pass,Unsuccessful,9.5,47.2,72.6,26.4
+45,110260,Sead Kolasinac,768,Bosnia and Herzegovina,5,FirstHalf,Pass,Successful,27.4,71.2,28.9,62.7
+46,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,5,FirstHalf,BallRecovery,Successful,28.9,62.7,,
+47,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,5,FirstHalf,Pass,Successful,28.8,61.7,10.8,51.2
+48,145304,Nikola Vasilj,768,Bosnia and Herzegovina,5,FirstHalf,Pass,Unsuccessful,9,47,54.2,25.3
+48,371029,Derek Cornelius,1160,Canada,5,FirstHalf,Pass,Unsuccessful,46.1,68.4,64.5,52.8
+49,418212,Ivan Basic,768,Bosnia and Herzegovina,5,FirstHalf,Pass,Successful,35.9,52.5,35.2,76.7
+50,110260,Sead Kolasinac,768,Bosnia and Herzegovina,5,FirstHalf,Pass,Unsuccessful,35.4,76.6,100,83.2
+49,492688,Luc De Fougerolles,1160,Canada,5,FirstHalf,ShieldBallOpp,Successful,3.8,18,,
+51,492688,Luc De Fougerolles,1160,Canada,5,FirstHalf,Pass,Successful,5.2,38.1,4.6,47.5
+52,137263,Maxime Crépeau,1160,Canada,5,FirstHalf,Pass,Unsuccessful,4.3,48.9,42.9,100
+53,418203,Amar Dedic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,56.1,0,55.6,9.1
+54,418212,Ivan Basic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,55.6,9.1,55.1,2.5
+55,418203,Amar Dedic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Unsuccessful,55.1,2.5,56.5,3.7
+54,391821,Liam Millar,1160,Canada,6,FirstHalf,BlockedPass,Successful,43.5,96.3,,
+57,418203,Amar Dedic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,55.8,0,53.2,19.2
+58,418212,Ivan Basic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,53.2,19.2,36.3,38.5
+59,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,34.8,40.9,38.4,20
+60,363666,Nikola Katic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Unsuccessful,39.6,19.2,68.2,37
+56,371029,Derek Cornelius,1160,Canada,6,FirstHalf,Pass,Successful,26.3,73.8,42.6,74.4
+57,383855,Jonathan David,1160,Canada,6,FirstHalf,BallTouch,Unsuccessful,42.7,74.4,,
+61,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,6,FirstHalf,Pass,Successful,61.2,40.6,58.7,83.3
+62,110260,Sead Kolasinac,768,Bosnia and Herzegovina,6,FirstHalf,BallTouch,Unsuccessful,66.1,92.9,,
+60,397859,Alistair Johnston,1160,Canada,6,FirstHalf,Pass,Successful,24,0,25.1,5.7
+61,422851,Ismaël Koné,1160,Canada,6,FirstHalf,Pass,Successful,25.1,5.7,43.5,10.3
+62,383855,Jonathan David,1160,Canada,6,FirstHalf,BallTouch,Unsuccessful,43,10.5,,
+64,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,6,FirstHalf,BallRecovery,Successful,60.6,83.2,,
+473,422851,Ismaël Koné,1160,Canada,6,FirstHalf,Challenge,Unsuccessful,38.2,16.8,,
+818,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,6,FirstHalf,TakeOn,Successful,61.8,83.2,,
+65,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,63.3,80.6,52.7,85.3
+66,110260,Sead Kolasinac,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,52.8,85.3,57.7,90.2
+67,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,57.7,90.2,64.4,95.9
+68,428102,Amar Memic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Unsuccessful,64.4,95.9,66.4,93.3
+63,397859,Alistair Johnston,1160,Canada,7,FirstHalf,BlockedPass,Successful,33.6,6.7,,
+70,428102,Amar Memic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,62.7,100,36.1,81.8
+71,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,40.5,80.9,63.5,8.8
+72,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,7,FirstHalf,BallTouch,Unsuccessful,63.5,8.8,,
+66,313012,Richie Laryea,1160,Canada,7,FirstHalf,Pass,Successful,33.7,100,47.7,70.3
+67,445292,Tani Oluwaseyi,1160,Canada,7,FirstHalf,Dispossessed,Successful,47.2,72.4,,
+74,363666,Nikola Katic,768,Bosnia and Herzegovina,7,FirstHalf,Tackle,Successful,52.8,27.6,,
+75,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,7,FirstHalf,BallRecovery,Successful,54.1,24.3,,
+76,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,46.8,16.4,32.2,37.1
+77,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,32,37.4,19.3,48.7
+78,145304,Nikola Vasilj,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Successful,19.3,48.7,61.9,44
+79,449011,Jovo Lukic,768,Bosnia and Herzegovina,7,FirstHalf,Aerial,Successful,61.9,44,,
+69,422851,Ismaël Koné,1160,Canada,7,FirstHalf,Aerial,Unsuccessful,38.1,56,,
+80,449011,Jovo Lukic,768,Bosnia and Herzegovina,7,FirstHalf,Pass,Unsuccessful,61.9,44,60.9,44.3
+70,422851,Ismaël Koné,1160,Canada,7,FirstHalf,BallTouch,Successful,29.8,48.4,,
+81,449011,Jovo Lukic,768,Bosnia and Herzegovina,7,FirstHalf,BallTouch,Successful,61.6,43.6,,
+475,422851,Ismaël Koné,1160,Canada,7,FirstHalf,BallTouch,Successful,40.6,63.3,,
+71,351744,Stephen Eustaquio,1160,Canada,7,FirstHalf,BallRecovery,Successful,42.9,41.4,,
+72,351744,Stephen Eustaquio,1160,Canada,7,FirstHalf,Pass,Successful,38.4,39,40.3,7.3
+73,397859,Alistair Johnston,1160,Canada,7,FirstHalf,Pass,Successful,40.1,3.6,79,3.7
+74,371027,Tajon Buchanan,1160,Canada,7,FirstHalf,BallTouch,Unsuccessful,82,1.6,,
+84,110260,Sead Kolasinac,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Successful,13.2,100,6.6,91.8
+85,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Unsuccessful,6.6,91.8,36,94.4
+76,492688,Luc De Fougerolles,1160,Canada,8,FirstHalf,Pass,Unsuccessful,65.2,7.3,70.9,24.9
+86,418212,Ivan Basic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Successful,27.3,90,41.8,88.4
+87,449011,Jovo Lukic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Unsuccessful,41.8,88.4,50.4,96.6
+77,397859,Alistair Johnston,1160,Canada,8,FirstHalf,Clearance,Successful,48.7,3.9,46.6,0
+89,110260,Sead Kolasinac,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Successful,56.3,100,70.3,88.7
+90,449011,Jovo Lukic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Unsuccessful,70.4,88.7,66.1,90.8
+79,351744,Stephen Eustaquio,1160,Canada,8,FirstHalf,Pass,Successful,32.7,11.8,29.8,23.4
+80,422851,Ismaël Koné,1160,Canada,8,FirstHalf,Pass,Successful,29.6,24,39.6,36.1
+81,445292,Tani Oluwaseyi,1160,Canada,8,FirstHalf,Pass,Unsuccessful,39.6,37.5,45.4,51.9
+91,418203,Amar Dedic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Successful,53.4,50.3,73.2,51.5
+93,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,8,FirstHalf,Aerial,Successful,73.2,51.5,,
+82,371029,Derek Cornelius,1160,Canada,8,FirstHalf,Aerial,Unsuccessful,26.8,48.5,,
+92,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,8,FirstHalf,Pass,Unsuccessful,73.2,51.5,67.1,49.4
+83,422851,Ismaël Koné,1160,Canada,9,FirstHalf,BallRecovery,Successful,33.7,50.7,,
+84,422851,Ismaël Koné,1160,Canada,9,FirstHalf,Pass,Successful,36,52.6,54.5,92.2
+85,391821,Liam Millar,1160,Canada,9,FirstHalf,Pass,Unsuccessful,55.8,92.8,70.2,93.3
+94,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,9,FirstHalf,Interception,Successful,29.8,6.7,,
+87,313012,Richie Laryea,1160,Canada,9,FirstHalf,Pass,Successful,75.3,100,90.3,86.4
+88,383855,Jonathan David,1160,Canada,9,FirstHalf,Pass,Successful,92.9,90.4,93.2,97
+89,391821,Liam Millar,1160,Canada,9,FirstHalf,Pass,Unsuccessful,90,97.5,86.7,97.5
+96,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,9,FirstHalf,BlockedPass,Successful,13.3,2.5,,
+91,391821,Liam Millar,1160,Canada,9,FirstHalf,Pass,Unsuccessful,91.6,100,94,68.1
+100,449011,Jovo Lukic,768,Bosnia and Herzegovina,9,FirstHalf,Aerial,Successful,6,31.9,,
+92,371029,Derek Cornelius,1160,Canada,9,FirstHalf,Aerial,Unsuccessful,94,68.1,,
+99,449011,Jovo Lukic,768,Bosnia and Herzegovina,9,FirstHalf,Clearance,Successful,6,31.9,32.3,24.7
+93,351744,Stephen Eustaquio,1160,Canada,9,FirstHalf,Pass,Successful,75.6,73.6,37,53.2
+94,137263,Maxime Crépeau,1160,Canada,10,FirstHalf,Pass,Successful,36.4,52.6,76.9,96.4
+95,391821,Liam Millar,1160,Canada,10,FirstHalf,Pass,Successful,75.9,96.7,68.7,84.3
+96,351744,Stephen Eustaquio,1160,Canada,10,FirstHalf,Pass,Successful,68.9,83.7,69.7,71.7
+97,422851,Ismaël Koné,1160,Canada,10,FirstHalf,Pass,Successful,69.7,71.7,63.2,81.4
+98,313012,Richie Laryea,1160,Canada,10,FirstHalf,Pass,Unsuccessful,62.6,85.3,70.3,91.8
+101,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,10,FirstHalf,BallTouch,Successful,27.7,10.3,,
+99,313012,Richie Laryea,1160,Canada,10,FirstHalf,Pass,Successful,71,88.8,61.5,93
+100,422851,Ismaël Koné,1160,Canada,10,FirstHalf,Pass,Successful,56.4,90.3,42.6,65.1
+101,371029,Derek Cornelius,1160,Canada,10,FirstHalf,Pass,Successful,42.6,65.1,56.9,91.9
+102,422851,Ismaël Koné,1160,Canada,10,FirstHalf,Pass,Successful,56.8,93.1,66.5,77.8
+103,313012,Richie Laryea,1160,Canada,10,FirstHalf,Pass,Successful,68.4,79.6,69.2,52.9
+104,445292,Tani Oluwaseyi,1160,Canada,10,FirstHalf,Pass,Unsuccessful,66.6,49.5,56.2,22.5
+103,428102,Amar Memic,768,Bosnia and Herzegovina,10,FirstHalf,BallRecovery,Successful,40.7,74.2,,
+820,428102,Amar Memic,768,Bosnia and Herzegovina,10,FirstHalf,TakeOn,Unsuccessful,56.6,83.6,,
+104,428102,Amar Memic,768,Bosnia and Herzegovina,10,FirstHalf,Foul,Successful,59.8,80.6,,
+105,397859,Alistair Johnston,1160,Canada,10,FirstHalf,Foul,Unsuccessful,40.2,19.5,,
+106,397859,Alistair Johnston,1160,Canada,10,FirstHalf,Card,Successful,0,0,,
+107,418212,Ivan Basic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,65,90.1,86.1,52.8
+108,449011,Jovo Lukic,768,Bosnia and Herzegovina,12,FirstHalf,SavedShot,Successful,86.1,52.8,,
+109,137263,Maxime Crépeau,1160,Canada,12,FirstHalf,Save,Successful,1.2,49.8,,
+110,137263,Maxime Crépeau,1160,Canada,12,FirstHalf,KeeperPickup,Successful,2.8,49.8,,
+111,137263,Maxime Crépeau,1160,Canada,12,FirstHalf,Pass,Successful,11.5,53.8,15.4,71.4
+161,371029,Derek Cornelius,1160,Canada,12,FirstHalf,Pass,Unsuccessful,19.9,86.3,42.9,72.4
+822,363666,Nikola Katic,768,Bosnia and Herzegovina,12,FirstHalf,BallRecovery,Successful,56,25.9,,
+823,363666,Nikola Katic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,56,25.9,69.1,53.3
+110,428102,Amar Memic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,69.7,43.4,73,23.7
+111,449011,Jovo Lukic,768,Bosnia and Herzegovina,12,FirstHalf,TakeOn,Unsuccessful,74.2,28.6,,
+112,371029,Derek Cornelius,1160,Canada,12,FirstHalf,Tackle,Unsuccessful,25.8,71.4,,
+117,449011,Jovo Lukic,768,Bosnia and Herzegovina,12,FirstHalf,BallTouch,Successful,74.1,25.8,,
+118,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,70.3,25.9,71,7
+149,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,72,9.7,66.7,23.1
+150,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,67.8,22.1,62.8,9.1
+112,418203,Amar Dedic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,65.9,9.8,74.4,18.5
+113,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Successful,74.4,18.5,75.1,6.5
+114,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,12,FirstHalf,Pass,Unsuccessful,75.1,6.5,75.3,9.7
+113,391821,Liam Millar,1160,Canada,12,FirstHalf,BlockedPass,Successful,24.7,90.3,,
+114,313012,Richie Laryea,1160,Canada,12,FirstHalf,BallRecovery,Successful,10,95.2,,
+115,313012,Richie Laryea,1160,Canada,12,FirstHalf,Pass,Successful,6.4,96.9,5.5,81.1
+116,371029,Derek Cornelius,1160,Canada,12,FirstHalf,Pass,Unsuccessful,5.6,81.9,22.4,86.2
+115,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,12,FirstHalf,Interception,Successful,77.6,13.8,,
+118,313012,Richie Laryea,1160,Canada,13,FirstHalf,Pass,Successful,28.6,100,55.8,95.1
+119,445292,Tani Oluwaseyi,1160,Canada,13,FirstHalf,Aerial,Successful,55.8,95.1,,
+119,363666,Nikola Katic,768,Bosnia and Herzegovina,13,FirstHalf,Aerial,Unsuccessful,44.2,4.9,,
+120,445292,Tani Oluwaseyi,1160,Canada,13,FirstHalf,Pass,Unsuccessful,55.8,95.1,56.9,94.5
+120,363666,Nikola Katic,768,Bosnia and Herzegovina,13,FirstHalf,BallTouch,Successful,37.3,9.7,,
+121,445292,Tani Oluwaseyi,1160,Canada,13,FirstHalf,Aerial,Successful,56.9,94.5,,
+121,363666,Nikola Katic,768,Bosnia and Herzegovina,13,FirstHalf,Aerial,Unsuccessful,43.1,5.5,,
+122,445292,Tani Oluwaseyi,1160,Canada,13,FirstHalf,Pass,Unsuccessful,57,97.2,63.1,86.8
+122,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,13,FirstHalf,Aerial,Successful,36.9,13.2,,
+123,383855,Jonathan David,1160,Canada,13,FirstHalf,Aerial,Unsuccessful,63.1,86.8,,
+123,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,13,FirstHalf,Clearance,Successful,36.9,13.2,40.6,27.9
+124,351744,Stephen Eustaquio,1160,Canada,13,FirstHalf,Pass,Unsuccessful,61.4,80.5,72.2,65.2
+124,110260,Sead Kolasinac,768,Bosnia and Herzegovina,13,FirstHalf,Clearance,Successful,27.2,44.9,8.1,49.1
+125,145304,Nikola Vasilj,768,Bosnia and Herzegovina,13,FirstHalf,BallRecovery,Successful,8.1,49.1,,
+126,145304,Nikola Vasilj,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Successful,8.5,49.1,20.5,29.2
+127,363666,Nikola Katic,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Successful,20.5,29.2,13.5,49
+128,145304,Nikola Vasilj,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Successful,13.5,49.1,18.9,53.9
+129,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Successful,23.8,53.3,34.6,56.9
+130,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Successful,33.6,62,29.6,78.5
+131,418212,Ivan Basic,768,Bosnia and Herzegovina,13,FirstHalf,Pass,Unsuccessful,30.3,82.3,41.5,100
+127,397859,Alistair Johnston,1160,Canada,13,FirstHalf,Pass,Successful,64.4,0,95.8,17.4
+128,383855,Jonathan David,1160,Canada,13,FirstHalf,Pass,Unsuccessful,96.3,18.3,91.4,42.6
+133,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,13,FirstHalf,Clearance,Successful,10.1,57.3,0,58.1
+129,383855,Jonathan David,1160,Canada,13,FirstHalf,CornerAwarded,Successful,97.3,42.2,,
+134,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,13,FirstHalf,CornerAwarded,Unsuccessful,2.7,57.8,,
+130,351744,Stephen Eustaquio,1160,Canada,14,FirstHalf,Pass,Successful,99.4,0.5,98.6,17.4
+131,371027,Tajon Buchanan,1160,Canada,14,FirstHalf,Pass,Successful,93.7,17.8,85.7,5.7
+132,351744,Stephen Eustaquio,1160,Canada,14,FirstHalf,Pass,Successful,87.3,7.6,88.2,44.4
+148,445292,Tani Oluwaseyi,1160,Canada,14,FirstHalf,BallTouch,Unsuccessful,89.7,48.5,,
+135,428102,Amar Memic,768,Bosnia and Herzegovina,14,FirstHalf,Aerial,Successful,23.6,66.2,,
+133,422851,Ismaël Koné,1160,Canada,14,FirstHalf,Aerial,Unsuccessful,76.4,33.8,,
+169,428102,Amar Memic,768,Bosnia and Herzegovina,14,FirstHalf,Clearance,Successful,20.6,71.2,24.5,69.7
+134,422851,Ismaël Koné,1160,Canada,14,FirstHalf,BallTouch,Successful,72.8,31.9,,
+136,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,14,FirstHalf,Clearance,Successful,20.8,54.3,27.1,58.4
+137,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,14,FirstHalf,BallRecovery,Successful,28.8,58.8,,
+138,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,14,FirstHalf,Pass,Successful,28.8,58.8,34.1,66.6
+143,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,14,FirstHalf,Pass,Successful,32,61.1,31.9,37.4
+144,363666,Nikola Katic,768,Bosnia and Herzegovina,14,FirstHalf,Pass,Successful,31.9,37.4,19.5,50.9
+145,145304,Nikola Vasilj,768,Bosnia and Herzegovina,14,FirstHalf,Pass,Successful,19.3,50,24.3,26.1
+146,363666,Nikola Katic,768,Bosnia and Herzegovina,15,FirstHalf,Pass,Unsuccessful,29,17.7,74.5,14
+138,371029,Derek Cornelius,1160,Canada,15,FirstHalf,BallTouch,Unsuccessful,26.1,92.4,,
+147,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,15,FirstHalf,TakeOn,Unsuccessful,70,8,,
+139,371029,Derek Cornelius,1160,Canada,15,FirstHalf,Tackle,Successful,30,92,,
+140,371029,Derek Cornelius,1160,Canada,15,FirstHalf,BallRecovery,Successful,24.4,89.7,,
+141,371029,Derek Cornelius,1160,Canada,15,FirstHalf,Pass,Successful,23.3,86.8,28.2,78.4
+142,351744,Stephen Eustaquio,1160,Canada,15,FirstHalf,Pass,Successful,28.5,78.3,32.5,65.4
+143,422851,Ismaël Koné,1160,Canada,15,FirstHalf,Pass,Successful,48,67.2,72,78.3
+144,445292,Tani Oluwaseyi,1160,Canada,15,FirstHalf,Pass,Successful,76.4,76.3,94.8,4
+145,371027,Tajon Buchanan,1160,Canada,15,FirstHalf,Pass,Successful,96.3,8.8,79.9,19.9
+146,422851,Ismaël Koné,1160,Canada,15,FirstHalf,Pass,Unsuccessful,79.6,30.3,86.9,42
+148,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,15,FirstHalf,Clearance,Successful,13.5,61.5,65.6,65.8
+147,137263,Maxime Crépeau,1160,Canada,15,FirstHalf,Pass,Successful,31.7,35.5,36,31.9
+149,492688,Luc De Fougerolles,1160,Canada,15,FirstHalf,Pass,Successful,40.6,28.6,56.7,6.7
+150,397859,Alistair Johnston,1160,Canada,15,FirstHalf,Pass,Successful,57.4,6,53.4,15.7
+151,351744,Stephen Eustaquio,1160,Canada,15,FirstHalf,Pass,Successful,58.1,24.3,57.5,36.6
+152,422851,Ismaël Koné,1160,Canada,15,FirstHalf,Pass,Successful,58.7,38.1,65.7,63.7
+153,313012,Richie Laryea,1160,Canada,15,FirstHalf,Pass,Successful,65.7,68.5,82.5,97.8
+154,391821,Liam Millar,1160,Canada,15,FirstHalf,Pass,Successful,90,86.5,78.4,75.3
+155,313012,Richie Laryea,1160,Canada,15,FirstHalf,Pass,Successful,75.5,68.5,71.7,62.4
+156,422851,Ismaël Koné,1160,Canada,15,FirstHalf,Pass,Successful,72.3,62.5,84.9,90
+157,391821,Liam Millar,1160,Canada,16,FirstHalf,Pass,Unsuccessful,95.9,82.9,94.6,42.6
+151,110260,Sead Kolasinac,768,Bosnia and Herzegovina,16,FirstHalf,Aerial,Successful,5.4,57.4,,
+158,371027,Tajon Buchanan,1160,Canada,16,FirstHalf,Aerial,Unsuccessful,94.6,42.6,,
+152,110260,Sead Kolasinac,768,Bosnia and Herzegovina,16,FirstHalf,Clearance,Successful,5.4,57.4,13.4,70.3
+153,428102,Amar Memic,768,Bosnia and Herzegovina,16,FirstHalf,Clearance,Successful,13.4,70.3,30.4,83.5
+159,397859,Alistair Johnston,1160,Canada,16,FirstHalf,Pass,Unsuccessful,72.9,19,90,46
+154,418203,Amar Dedic,768,Bosnia and Herzegovina,16,FirstHalf,BallTouch,Successful,6,37.9,,
+162,383855,Jonathan David,1160,Canada,16,FirstHalf,SavedShot,Successful,86.7,49.5,,
+155,145304,Nikola Vasilj,768,Bosnia and Herzegovina,16,FirstHalf,Save,Successful,2,49.4,,
+156,145304,Nikola Vasilj,768,Bosnia and Herzegovina,16,FirstHalf,KeeperPickup,Successful,2,49.4,,
+158,145304,Nikola Vasilj,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Unsuccessful,7.4,48.7,65.8,36.2
+169,371029,Derek Cornelius,1160,Canada,16,FirstHalf,Pass,Successful,34.7,67.9,64.5,69.4
+173,391821,Liam Millar,1160,Canada,16,FirstHalf,Pass,Unsuccessful,62.9,76.4,67.5,62.3
+159,363666,Nikola Katic,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Successful,39.3,27.4,43.9,28.5
+160,418212,Ivan Basic,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Successful,43.9,28.5,30.9,52.1
+161,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Successful,30.5,52.4,11.2,48.2
+162,145304,Nikola Vasilj,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Successful,11.2,48.1,26.7,42.7
+163,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Successful,26.7,42.7,9.3,41.3
+164,145304,Nikola Vasilj,768,Bosnia and Herzegovina,16,FirstHalf,Pass,Unsuccessful,9.3,41.3,62.9,45.4
+165,371029,Derek Cornelius,1160,Canada,16,FirstHalf,BallTouch,Successful,35.3,59.5,,
+950,422851,Ismaël Koné,1160,Canada,16,FirstHalf,BallRecovery,Successful,43.4,54.5,,
+166,422851,Ismaël Koné,1160,Canada,16,FirstHalf,Foul,Successful,46,60.2,,
+165,418212,Ivan Basic,768,Bosnia and Herzegovina,16,FirstHalf,Foul,Unsuccessful,54,39.8,,
+167,371029,Derek Cornelius,1160,Canada,17,FirstHalf,Pass,Unsuccessful,45,67.9,92.9,100
+167,418203,Amar Dedic,768,Bosnia and Herzegovina,17,FirstHalf,Pass,Unsuccessful,18,0,39.5,8.5
+170,371029,Derek Cornelius,1160,Canada,17,FirstHalf,Pass,Successful,61.8,95.2,68.5,96.4
+171,422851,Ismaël Koné,1160,Canada,17,FirstHalf,Pass,Unsuccessful,66,97.9,68.3,97
+170,418203,Amar Dedic,768,Bosnia and Herzegovina,18,FirstHalf,Pass,Successful,28.5,0,32.9,9.8
+171,418212,Ivan Basic,768,Bosnia and Herzegovina,18,FirstHalf,Pass,Successful,32.3,10.5,32.2,3.7
+172,418203,Amar Dedic,768,Bosnia and Herzegovina,18,FirstHalf,TakeOn,Unsuccessful,30.7,2.8,,
+174,391821,Liam Millar,1160,Canada,18,FirstHalf,Tackle,Successful,69.4,97.2,,
+174,418203,Amar Dedic,768,Bosnia and Herzegovina,18,FirstHalf,Pass,Unsuccessful,30.1,0,60,14.6
+176,371029,Derek Cornelius,1160,Canada,18,FirstHalf,BallTouch,Unsuccessful,36.8,87.3,,
+175,428102,Amar Memic,768,Bosnia and Herzegovina,18,FirstHalf,TakeOn,Unsuccessful,65.1,11.1,,
+177,371029,Derek Cornelius,1160,Canada,18,FirstHalf,Clearance,Successful,4.1,98.5,33.1,97.6
+176,418203,Amar Dedic,768,Bosnia and Herzegovina,18,FirstHalf,Pass,Unsuccessful,57.2,5.8,68.4,14.4
+178,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,BallRecovery,Successful,27.1,85.9,,
+179,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Pass,Successful,28.2,86.4,25.4,93.4
+180,313012,Richie Laryea,1160,Canada,18,FirstHalf,Pass,Successful,25.4,93.4,30.2,97.8
+181,391821,Liam Millar,1160,Canada,18,FirstHalf,Pass,Successful,30.7,97.8,37.4,82.6
+182,313012,Richie Laryea,1160,Canada,18,FirstHalf,Pass,Successful,38.3,82.8,47,78.3
+183,383855,Jonathan David,1160,Canada,18,FirstHalf,Pass,Unsuccessful,53.7,79.8,64,81.7
+177,363666,Nikola Katic,768,Bosnia and Herzegovina,18,FirstHalf,Interception,Successful,36,18.3,,
+178,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,18,FirstHalf,BallRecovery,Successful,33.2,21,,
+179,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,18,FirstHalf,BallTouch,Unsuccessful,32.6,21.5,,
+184,445292,Tani Oluwaseyi,1160,Canada,18,FirstHalf,BallTouch,Successful,68.5,82.3,,
+185,313012,Richie Laryea,1160,Canada,18,FirstHalf,BallRecovery,Successful,74.9,78.3,,
+186,313012,Richie Laryea,1160,Canada,18,FirstHalf,Pass,Unsuccessful,77.8,78.6,81.6,78.7
+181,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,18,FirstHalf,Interception,Successful,18.4,21.3,,
+182,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,18,FirstHalf,BallRecovery,Successful,26.1,11.3,,
+184,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,18,FirstHalf,Foul,Successful,26.8,7.4,,
+187,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Foul,Unsuccessful,73.2,92.6,,
+185,363666,Nikola Katic,768,Bosnia and Herzegovina,19,FirstHalf,Pass,Successful,32.7,7.6,73.5,20.7
+186,449011,Jovo Lukic,768,Bosnia and Herzegovina,19,FirstHalf,BallTouch,Unsuccessful,72.9,21,,
+188,371029,Derek Cornelius,1160,Canada,19,FirstHalf,Clearance,Successful,23.5,73.2,38.7,69.3
+189,383855,Jonathan David,1160,Canada,19,FirstHalf,Pass,Successful,38.8,69.9,41.4,82.9
+190,445292,Tani Oluwaseyi,1160,Canada,19,FirstHalf,BallRecovery,Successful,42,84,,
+191,445292,Tani Oluwaseyi,1160,Canada,19,FirstHalf,Pass,Unsuccessful,40.9,82.8,43.7,84.4
+188,418203,Amar Dedic,768,Bosnia and Herzegovina,19,FirstHalf,BlockedPass,Successful,56.3,15.6,,
+189,418203,Amar Dedic,768,Bosnia and Herzegovina,19,FirstHalf,BallRecovery,Successful,53.6,16.4,,
+190,418203,Amar Dedic,768,Bosnia and Herzegovina,19,FirstHalf,Pass,Successful,47.2,18.8,50.6,26.7
+191,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,19,FirstHalf,Pass,Successful,54.9,26.1,59.4,14.3
+192,418212,Ivan Basic,768,Bosnia and Herzegovina,19,FirstHalf,Pass,Successful,59.5,14.3,91,10.1
+193,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,19,FirstHalf,TakeOn,Unsuccessful,92,8.7,,
+192,313012,Richie Laryea,1160,Canada,19,FirstHalf,Tackle,Successful,7.9,91.4,,
+194,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,19,FirstHalf,CornerAwarded,Successful,97.5,9.9,,
+193,313012,Richie Laryea,1160,Canada,19,FirstHalf,CornerAwarded,Unsuccessful,2.6,90.1,,
+195,418212,Ivan Basic,768,Bosnia and Herzegovina,20,FirstHalf,Pass,Successful,99.5,0.5,95.8,39.4
+196,110260,Sead Kolasinac,768,Bosnia and Herzegovina,20,FirstHalf,Pass,Successful,97.4,40.3,98.2,48.8
+198,449011,Jovo Lukic,768,Bosnia and Herzegovina,20,FirstHalf,Aerial,Successful,98.2,48.8,,
+194,313012,Richie Laryea,1160,Canada,20,FirstHalf,Aerial,Unsuccessful,1.8,51.2,,
+197,449011,Jovo Lukic,768,Bosnia and Herzegovina,20,FirstHalf,Goal,Successful,98.2,48.8,,
+195,351744,Stephen Eustaquio,1160,Canada,21,FirstHalf,Pass,Successful,50.2,49.9,52,49.3
+196,422851,Ismaël Koné,1160,Canada,21,FirstHalf,Pass,Successful,51.5,53.5,48.6,73.8
+197,313012,Richie Laryea,1160,Canada,21,FirstHalf,Pass,Successful,52.3,83.1,63.7,96.4
+198,391821,Liam Millar,1160,Canada,21,FirstHalf,Pass,Successful,56.4,94.6,37.8,64.2
+199,371029,Derek Cornelius,1160,Canada,22,FirstHalf,Pass,Successful,45.1,56.1,30.9,46
+200,492688,Luc De Fougerolles,1160,Canada,22,FirstHalf,Foul,Successful,31.8,50,,
+199,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,22,FirstHalf,Foul,Unsuccessful,68.2,50,,
+204,137263,Maxime Crépeau,1160,Canada,25,FirstHalf,Pass,Successful,31.6,49,72.5,83.8
+205,445292,Tani Oluwaseyi,1160,Canada,25,FirstHalf,Aerial,Successful,72.5,83.8,,
+202,363666,Nikola Katic,768,Bosnia and Herzegovina,25,FirstHalf,Aerial,Unsuccessful,27.5,16.2,,
+206,445292,Tani Oluwaseyi,1160,Canada,25,FirstHalf,Pass,Unsuccessful,72.5,83.8,75.2,84.1
+203,418203,Amar Dedic,768,Bosnia and Herzegovina,25,FirstHalf,Clearance,Successful,27.1,13.5,30.6,32.5
+204,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,25,FirstHalf,Pass,Unsuccessful,30.6,32.5,36.9,56.1
+207,397859,Alistair Johnston,1160,Canada,25,FirstHalf,Pass,Unsuccessful,65.8,33.6,72.9,30.6
+205,110260,Sead Kolasinac,768,Bosnia and Herzegovina,25,FirstHalf,Clearance,Successful,27,71.8,26.8,35.7
+206,363666,Nikola Katic,768,Bosnia and Herzegovina,25,FirstHalf,Aerial,Successful,26.8,35.7,,
+208,445292,Tani Oluwaseyi,1160,Canada,25,FirstHalf,Aerial,Unsuccessful,73.2,64.3,,
+207,363666,Nikola Katic,768,Bosnia and Herzegovina,25,FirstHalf,Clearance,Successful,26.8,35.7,32.9,33.7
+210,351744,Stephen Eustaquio,1160,Canada,25,FirstHalf,Pass,Successful,71.9,64,66,80.1
+211,313012,Richie Laryea,1160,Canada,25,FirstHalf,Pass,Unsuccessful,64.7,83.2,69.2,84
+208,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,25,FirstHalf,BlockedPass,Successful,30.8,16,,
+212,313012,Richie Laryea,1160,Canada,25,FirstHalf,BallTouch,Unsuccessful,66.2,98.1,,
+209,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,25,FirstHalf,Dispossessed,Successful,32,4.4,,
+213,313012,Richie Laryea,1160,Canada,25,FirstHalf,Tackle,Successful,68,95.6,,
+211,418203,Amar Dedic,768,Bosnia and Herzegovina,26,FirstHalf,Pass,Successful,33,0,60.4,6.2
+212,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,26,FirstHalf,Pass,Successful,60.4,6.2,62.2,7.7
+213,449011,Jovo Lukic,768,Bosnia and Herzegovina,26,FirstHalf,BallTouch,Successful,62.2,7.7,,
+216,313012,Richie Laryea,1160,Canada,26,FirstHalf,Pass,Successful,43.3,100,62,95.1
+217,445292,Tani Oluwaseyi,1160,Canada,26,FirstHalf,Pass,Successful,62.8,94.5,64.6,67.8
+218,383855,Jonathan David,1160,Canada,26,FirstHalf,Pass,Successful,64.4,64.8,56.4,39.4
+215,428102,Amar Memic,768,Bosnia and Herzegovina,26,FirstHalf,Challenge,Unsuccessful,40.2,77.8,,
+219,397859,Alistair Johnston,1160,Canada,26,FirstHalf,TakeOn,Successful,59.8,22.2,,
+220,397859,Alistair Johnston,1160,Canada,26,FirstHalf,Pass,Successful,69.3,3.3,68.1,17.5
+222,371027,Tajon Buchanan,1160,Canada,26,FirstHalf,Foul,Successful,69.1,16.4,,
+216,110260,Sead Kolasinac,768,Bosnia and Herzegovina,26,FirstHalf,Foul,Unsuccessful,30.9,83.6,,
+223,351744,Stephen Eustaquio,1160,Canada,27,FirstHalf,Pass,Successful,70.7,16.8,88,41.4
+224,383855,Jonathan David,1160,Canada,27,FirstHalf,Pass,Unsuccessful,86.5,41.1,86.5,48.9
+217,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,27,FirstHalf,BallTouch,Unsuccessful,13.5,50,,
+225,422851,Ismaël Koné,1160,Canada,27,FirstHalf,TakeOn,Unsuccessful,81.8,44,,
+218,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,27,FirstHalf,Tackle,Unsuccessful,18.2,56,,
+226,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,27,FirstHalf,Error,Successful,13.8,46.3,,
+226,391821,Liam Millar,1160,Canada,27,FirstHalf,Pass,Successful,74.7,40.3,86.3,38.2
+227,383855,Jonathan David,1160,Canada,27,FirstHalf,SavedShot,Successful,88.6,36.8,,
+219,363666,Nikola Katic,768,Bosnia and Herzegovina,27,FirstHalf,Save,Successful,9.4,60.3,,
+238,418203,Amar Dedic,768,Bosnia and Herzegovina,27,FirstHalf,Aerial,Successful,13.8,52.4,,
+228,391821,Liam Millar,1160,Canada,27,FirstHalf,Aerial,Unsuccessful,86.2,47.6,,
+220,418203,Amar Dedic,768,Bosnia and Herzegovina,27,FirstHalf,Clearance,Successful,8.1,52.3,27.9,54.8
+229,397859,Alistair Johnston,1160,Canada,27,FirstHalf,Pass,Unsuccessful,73.8,46.2,89.3,37.2
+222,110260,Sead Kolasinac,768,Bosnia and Herzegovina,27,FirstHalf,Clearance,Successful,9.1,57.6,33,100
+231,397859,Alistair Johnston,1160,Canada,27,FirstHalf,Pass,Successful,70.8,0,65.1,4.6
+232,422851,Ismaël Koné,1160,Canada,27,FirstHalf,Pass,Successful,61.4,8.4,45,31
+233,492688,Luc De Fougerolles,1160,Canada,27,FirstHalf,Pass,Successful,45.3,30.7,75.9,4.6
+234,397859,Alistair Johnston,1160,Canada,27,FirstHalf,Pass,Unsuccessful,76.2,4.9,90.4,22.6
+224,110260,Sead Kolasinac,768,Bosnia and Herzegovina,27,FirstHalf,Clearance,Successful,11.4,73.9,0,78.1
+225,110260,Sead Kolasinac,768,Bosnia and Herzegovina,27,FirstHalf,CornerAwarded,Unsuccessful,3.2,77.8,,
+235,397859,Alistair Johnston,1160,Canada,27,FirstHalf,CornerAwarded,Successful,96.8,22.2,,
+236,351744,Stephen Eustaquio,1160,Canada,28,FirstHalf,Pass,Successful,99.4,0.7,80.1,69.9
+238,391821,Liam Millar,1160,Canada,28,FirstHalf,Pass,Successful,80.3,64.6,93.8,69.4
+239,383855,Jonathan David,1160,Canada,28,FirstHalf,Pass,Unsuccessful,93.2,69.6,93.5,68.5
+227,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,28,FirstHalf,BlockedPass,Successful,6.5,31.5,,
+240,383855,Jonathan David,1160,Canada,28,FirstHalf,Foul,Successful,93,85.6,,
+228,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,28,FirstHalf,Foul,Unsuccessful,7,14.4,,
+241,351744,Stephen Eustaquio,1160,Canada,29,FirstHalf,Pass,Successful,93,85.6,74.9,45.1
+242,422851,Ismaël Koné,1160,Canada,29,FirstHalf,SavedShot,Successful,81.3,47.8,,
+229,418203,Amar Dedic,768,Bosnia and Herzegovina,29,FirstHalf,Save,Successful,17.1,51.6,,
+243,313012,Richie Laryea,1160,Canada,29,FirstHalf,Pass,Unsuccessful,69.9,56.8,76.6,72.4
+829,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,29,FirstHalf,BallTouch,Unsuccessful,23.1,28,,
+244,391821,Liam Millar,1160,Canada,29,FirstHalf,Pass,Successful,75.7,94,63.2,57.4
+245,422851,Ismaël Koné,1160,Canada,29,FirstHalf,Pass,Successful,61.8,62.1,71.4,72.9
+246,397859,Alistair Johnston,1160,Canada,29,FirstHalf,Pass,Unsuccessful,72.4,67.9,88,44.2
+230,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,29,FirstHalf,Clearance,Successful,12.6,52.8,32,54.6
+231,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,29,FirstHalf,BallRecovery,Successful,33.6,55.8,,
+232,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,29,FirstHalf,BallTouch,Unsuccessful,40.2,66,,
+247,383855,Jonathan David,1160,Canada,29,FirstHalf,BallRecovery,Successful,55.4,24.9,,
+248,383855,Jonathan David,1160,Canada,29,FirstHalf,Pass,Successful,67.6,20.5,61.4,34.9
+249,492688,Luc De Fougerolles,1160,Canada,29,FirstHalf,Pass,Successful,61.4,34.8,66.8,21.9
+250,397859,Alistair Johnston,1160,Canada,29,FirstHalf,Pass,Successful,67.5,22.6,62.9,57
+251,422851,Ismaël Koné,1160,Canada,29,FirstHalf,Pass,Successful,63.1,62.2,74.9,95.8
+252,391821,Liam Millar,1160,Canada,29,FirstHalf,Pass,Unsuccessful,77.1,82.9,76.8,68.8
+233,418212,Ivan Basic,768,Bosnia and Herzegovina,29,FirstHalf,Interception,Successful,23.2,31.2,,
+234,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,29,FirstHalf,BallRecovery,Successful,28.8,3.5,,
+235,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,29,FirstHalf,Pass,Successful,28.9,3.5,36.1,9.5
+236,418212,Ivan Basic,768,Bosnia and Herzegovina,30,FirstHalf,Pass,Unsuccessful,37.1,9.5,42.9,10.1
+253,371029,Derek Cornelius,1160,Canada,30,FirstHalf,BlockedPass,Successful,57.1,89.9,,
+239,418203,Amar Dedic,768,Bosnia and Herzegovina,30,FirstHalf,Pass,Unsuccessful,51.1,0,66.7,18.8
+255,371029,Derek Cornelius,1160,Canada,30,FirstHalf,Pass,Successful,33.1,78.1,44,76.3
+256,383855,Jonathan David,1160,Canada,30,FirstHalf,Pass,Successful,43.6,73.8,34.9,41.2
+257,371027,Tajon Buchanan,1160,Canada,30,FirstHalf,BallRecovery,Successful,35.1,38.8,,
+258,371027,Tajon Buchanan,1160,Canada,30,FirstHalf,Pass,Successful,47.5,23.4,43.3,16.8
+259,397859,Alistair Johnston,1160,Canada,30,FirstHalf,Pass,Successful,46.2,17.1,42.3,30
+260,351744,Stephen Eustaquio,1160,Canada,30,FirstHalf,Pass,Successful,55.6,29.1,70.9,3.3
+261,371027,Tajon Buchanan,1160,Canada,30,FirstHalf,Pass,Successful,70.9,3.3,58.2,19.8
+262,397859,Alistair Johnston,1160,Canada,30,FirstHalf,Pass,Successful,59.9,20.7,47.2,49.3
+263,492688,Luc De Fougerolles,1160,Canada,30,FirstHalf,Pass,Successful,53.8,55.6,69.3,86.7
+264,422851,Ismaël Koné,1160,Canada,30,FirstHalf,Pass,Unsuccessful,67.3,85.9,85.2,72.9
+240,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,30,FirstHalf,Clearance,Successful,14.4,30.3,14.3,0
+266,391821,Liam Millar,1160,Canada,31,FirstHalf,Pass,Successful,81.9,100,87.3,93.6
+267,351744,Stephen Eustaquio,1160,Canada,31,FirstHalf,Pass,Successful,87.3,93.6,90.3,95.8
+955,391821,Liam Millar,1160,Canada,31,FirstHalf,TakeOn,Unsuccessful,91.8,94.8,,
+268,391821,Liam Millar,1160,Canada,31,FirstHalf,TakeOn,Unsuccessful,94.7,87.3,,
+242,418203,Amar Dedic,768,Bosnia and Herzegovina,31,FirstHalf,Tackle,Unsuccessful,5.2,12.6,,
+269,391821,Liam Millar,1160,Canada,31,FirstHalf,BallTouch,Successful,95.3,86.7,,
+243,418203,Amar Dedic,768,Bosnia and Herzegovina,31,FirstHalf,BallTouch,Successful,5.1,13.7,,
+244,363666,Nikola Katic,768,Bosnia and Herzegovina,31,FirstHalf,Clearance,Successful,3.3,15.2,16.7,11.7
+245,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,31,FirstHalf,Challenge,Unsuccessful,16.4,12,,
+271,313012,Richie Laryea,1160,Canada,31,FirstHalf,TakeOn,Successful,83.6,88,,
+272,313012,Richie Laryea,1160,Canada,31,FirstHalf,Pass,Successful,79.7,85.6,73.5,91.6
+273,422851,Ismaël Koné,1160,Canada,31,FirstHalf,Pass,Unsuccessful,73.5,84,92.3,39.3
+246,428102,Amar Memic,768,Bosnia and Herzegovina,31,FirstHalf,BallTouch,Unsuccessful,8.4,57.6,,
+274,445292,Tani Oluwaseyi,1160,Canada,31,FirstHalf,Pass,Unsuccessful,91.6,34.3,92.2,45
+247,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,31,FirstHalf,Clearance,Successful,7.1,52.7,67.9,59.1
+275,137263,Maxime Crépeau,1160,Canada,31,FirstHalf,Pass,Successful,39.3,36.7,47,33.3
+276,492688,Luc De Fougerolles,1160,Canada,31,FirstHalf,Pass,Successful,52.9,30.3,66.2,3.4
+277,397859,Alistair Johnston,1160,Canada,31,FirstHalf,Pass,Successful,66.1,3.4,90.9,30.1
+278,445292,Tani Oluwaseyi,1160,Canada,31,FirstHalf,MissedShots,Successful,87.1,31.5,,
+249,145304,Nikola Vasilj,768,Bosnia and Herzegovina,32,FirstHalf,Pass,Successful,4.8,61.5,55.5,79.7
+250,449011,Jovo Lukic,768,Bosnia and Herzegovina,32,FirstHalf,Pass,Unsuccessful,55.5,79.7,65.8,79.4
+297,397859,Alistair Johnston,1160,Canada,32,FirstHalf,Clearance,Successful,35.1,21.8,43.6,18.9
+280,492688,Luc De Fougerolles,1160,Canada,32,FirstHalf,BallRecovery,Successful,36.1,11.8,,
+281,492688,Luc De Fougerolles,1160,Canada,32,FirstHalf,Pass,Unsuccessful,36.1,11.8,77.2,9.9
+251,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,32,FirstHalf,Clearance,Successful,21.5,87.5,35.8,100
+283,397859,Alistair Johnston,1160,Canada,32,FirstHalf,Pass,Successful,67.1,0,65.8,7.8
+284,351744,Stephen Eustaquio,1160,Canada,32,FirstHalf,Pass,Successful,65.9,7.9,66.8,1.8
+285,397859,Alistair Johnston,1160,Canada,32,FirstHalf,Pass,Successful,65.3,1.9,79.1,1.9
+286,371027,Tajon Buchanan,1160,Canada,32,FirstHalf,Dispossessed,Successful,77,3.8,,
+254,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,32,FirstHalf,Tackle,Unsuccessful,23,96.2,,
+294,371027,Tajon Buchanan,1160,Canada,32,FirstHalf,Dispossessed,Successful,74.3,5.3,,
+259,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,32,FirstHalf,Tackle,Unsuccessful,25.7,94.7,,
+287,371027,Tajon Buchanan,1160,Canada,32,FirstHalf,BallTouch,Unsuccessful,78.2,5.2,,
+255,428102,Amar Memic,768,Bosnia and Herzegovina,32,FirstHalf,Clearance,Successful,18.4,90.3,37.1,100
+289,397859,Alistair Johnston,1160,Canada,33,FirstHalf,Pass,Unsuccessful,84.5,0,97.4,37.8
+257,449011,Jovo Lukic,768,Bosnia and Herzegovina,33,FirstHalf,Clearance,Successful,3.1,57.5,0,70.6
+290,397859,Alistair Johnston,1160,Canada,33,FirstHalf,CornerAwarded,Successful,99.5,32.8,,
+258,449011,Jovo Lukic,768,Bosnia and Herzegovina,33,FirstHalf,CornerAwarded,Unsuccessful,0.5,67.2,,
+291,351744,Stephen Eustaquio,1160,Canada,33,FirstHalf,Pass,Unsuccessful,99.5,0.5,87.3,54.3
+260,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,33,FirstHalf,Aerial,Successful,12.7,45.7,,
+292,492688,Luc De Fougerolles,1160,Canada,33,FirstHalf,Aerial,Unsuccessful,87.3,54.3,,
+261,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,33,FirstHalf,Clearance,Successful,12.7,45.7,13.5,46.4
+293,492688,Luc De Fougerolles,1160,Canada,33,FirstHalf,BallTouch,Successful,87.3,54.3,,
+262,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,33,FirstHalf,Clearance,Successful,10.9,50.3,41.5,85.6
+263,428102,Amar Memic,768,Bosnia and Herzegovina,33,FirstHalf,BallRecovery,Successful,41.7,85.6,,
+264,428102,Amar Memic,768,Bosnia and Herzegovina,33,FirstHalf,TakeOn,Unsuccessful,63.2,96.1,,
+295,313012,Richie Laryea,1160,Canada,33,FirstHalf,Tackle,Successful,36.8,4,,
+266,110260,Sead Kolasinac,768,Bosnia and Herzegovina,33,FirstHalf,Pass,Successful,63.2,100,70.8,90.5
+267,449011,Jovo Lukic,768,Bosnia and Herzegovina,34,FirstHalf,Aerial,Successful,70.8,90.5,,
+298,492688,Luc De Fougerolles,1160,Canada,34,FirstHalf,Aerial,Unsuccessful,29.2,9.5,,
+268,449011,Jovo Lukic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Successful,70.8,90.5,66.5,96.8
+269,428102,Amar Memic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Successful,66.3,96.9,69.1,88.6
+270,449011,Jovo Lukic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Unsuccessful,69.1,88.6,75.8,76.1
+299,371029,Derek Cornelius,1160,Canada,34,FirstHalf,Clearance,Successful,20.9,26.5,43.3,36
+271,363666,Nikola Katic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Successful,55.1,66.4,56.7,91.4
+272,110260,Sead Kolasinac,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Unsuccessful,56.5,93,71.9,100
+301,397859,Alistair Johnston,1160,Canada,34,FirstHalf,Pass,Unsuccessful,37.1,0,68.3,11.5
+274,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,34,FirstHalf,Aerial,Successful,31.7,88.5,,
+302,445292,Tani Oluwaseyi,1160,Canada,34,FirstHalf,Aerial,Unsuccessful,68.3,11.5,,
+275,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,34,FirstHalf,Clearance,Successful,31.7,88.5,32.9,82.6
+276,110260,Sead Kolasinac,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Successful,32.9,82.6,32.6,76.6
+277,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Unsuccessful,32.6,76.6,54.2,75
+303,371029,Derek Cornelius,1160,Canada,34,FirstHalf,Aerial,Successful,45.8,25,,
+278,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,34,FirstHalf,Aerial,Unsuccessful,54.2,75,,
+304,371029,Derek Cornelius,1160,Canada,34,FirstHalf,Pass,Successful,45.8,25,63.9,11.5
+305,371027,Tajon Buchanan,1160,Canada,34,FirstHalf,BallTouch,Unsuccessful,63.9,11.5,,
+280,110260,Sead Kolasinac,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Successful,40.4,100,53.8,96.2
+281,428102,Amar Memic,768,Bosnia and Herzegovina,34,FirstHalf,Pass,Unsuccessful,49.5,95.3,42.9,83.5
+307,383855,Jonathan David,1160,Canada,34,FirstHalf,Interception,Successful,57.1,16.5,,
+308,383855,Jonathan David,1160,Canada,34,FirstHalf,TakeOn,Unsuccessful,60.3,18.5,,
+282,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,34,FirstHalf,Tackle,Successful,39.8,81.6,,
+311,397859,Alistair Johnston,1160,Canada,35,FirstHalf,Pass,Successful,62.5,0,42.9,16.2
+312,492688,Luc De Fougerolles,1160,Canada,35,FirstHalf,Pass,Successful,52.1,47.4,51.8,67.9
+313,371029,Derek Cornelius,1160,Canada,35,FirstHalf,Pass,Successful,54.5,76.5,67.6,96.3
+314,391821,Liam Millar,1160,Canada,35,FirstHalf,Pass,Successful,63,94.2,48.1,76.2
+315,371029,Derek Cornelius,1160,Canada,35,FirstHalf,Pass,Successful,48.7,67.3,38.4,40.6
+316,492688,Luc De Fougerolles,1160,Canada,35,FirstHalf,Pass,Successful,36.6,38.8,41.3,31
+317,397859,Alistair Johnston,1160,Canada,35,FirstHalf,Pass,Successful,42,31.2,35.4,42
+318,492688,Luc De Fougerolles,1160,Canada,35,FirstHalf,Pass,Successful,34.9,51.4,36.6,82.9
+319,371029,Derek Cornelius,1160,Canada,35,FirstHalf,Pass,Successful,39,90,47.1,97.6
+320,391821,Liam Millar,1160,Canada,35,FirstHalf,Pass,Successful,47.2,97.6,63.6,83.2
+321,422851,Ismaël Koné,1160,Canada,35,FirstHalf,Pass,Unsuccessful,65.1,78.7,70.9,72.1
+284,418212,Ivan Basic,768,Bosnia and Herzegovina,35,FirstHalf,Interception,Successful,29.1,27.9,,
+285,418212,Ivan Basic,768,Bosnia and Herzegovina,35,FirstHalf,BallRecovery,Successful,28.6,32.8,,
+286,418212,Ivan Basic,768,Bosnia and Herzegovina,35,FirstHalf,Pass,Successful,29.5,29.7,35,11.6
+287,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,35,FirstHalf,TakeOn,Unsuccessful,38,6.4,,
+322,383855,Jonathan David,1160,Canada,35,FirstHalf,Tackle,Successful,62,93.6,,
+289,418203,Amar Dedic,768,Bosnia and Herzegovina,36,FirstHalf,Pass,Successful,40.6,0,60.8,11.7
+290,449011,Jovo Lukic,768,Bosnia and Herzegovina,36,FirstHalf,Aerial,Successful,60.8,11.7,,
+324,371029,Derek Cornelius,1160,Canada,36,FirstHalf,Aerial,Unsuccessful,39.2,88.3,,
+291,449011,Jovo Lukic,768,Bosnia and Herzegovina,36,FirstHalf,Pass,Unsuccessful,60.8,11.7,54.7,14.7
+325,391821,Liam Millar,1160,Canada,36,FirstHalf,Aerial,Successful,45.3,85.3,,
+292,418212,Ivan Basic,768,Bosnia and Herzegovina,36,FirstHalf,Aerial,Unsuccessful,54.7,14.7,,
+326,391821,Liam Millar,1160,Canada,36,FirstHalf,Pass,Successful,45.3,85.3,59.2,74.8
+327,445292,Tani Oluwaseyi,1160,Canada,36,FirstHalf,Pass,Successful,61.7,79.3,53.1,65.4
+328,351744,Stephen Eustaquio,1160,Canada,36,FirstHalf,BallRecovery,Successful,53.7,65.8,,
+329,351744,Stephen Eustaquio,1160,Canada,36,FirstHalf,Pass,Successful,53.5,58.5,58,25.2
+330,397859,Alistair Johnston,1160,Canada,36,FirstHalf,Pass,Successful,56.9,22.5,57.1,32.2
+331,351744,Stephen Eustaquio,1160,Canada,36,FirstHalf,Pass,Unsuccessful,60.5,35.1,93.6,72.1
+294,418203,Amar Dedic,768,Bosnia and Herzegovina,36,FirstHalf,Clearance,Successful,11.2,31.3,20.7,24.4
+295,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,36,FirstHalf,Pass,Unsuccessful,21.9,22.1,29.7,26.7
+332,422851,Ismaël Koné,1160,Canada,36,FirstHalf,Interception,Successful,70.3,73.3,,
+333,391821,Liam Millar,1160,Canada,36,FirstHalf,Pass,Successful,79.5,93.4,71.8,77.4
+334,422851,Ismaël Koné,1160,Canada,36,FirstHalf,Pass,Successful,70.9,67.2,74.5,70.8
+335,351744,Stephen Eustaquio,1160,Canada,36,FirstHalf,Pass,Successful,73.8,73.9,68.5,84.7
+336,422851,Ismaël Koné,1160,Canada,36,FirstHalf,Pass,Successful,68.6,84.7,84.8,95.5
+296,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,36,FirstHalf,Challenge,Unsuccessful,3.1,19.1,,
+337,391821,Liam Millar,1160,Canada,36,FirstHalf,TakeOn,Successful,96.9,80.9,,
+338,391821,Liam Millar,1160,Canada,36,FirstHalf,Pass,Unsuccessful,98.8,75,98,72.6
+297,418203,Amar Dedic,768,Bosnia and Herzegovina,36,FirstHalf,BallTouch,Successful,2.8,22.4,,
+298,418203,Amar Dedic,768,Bosnia and Herzegovina,36,FirstHalf,CornerAwarded,Unsuccessful,2.5,24.2,,
+339,391821,Liam Millar,1160,Canada,36,FirstHalf,CornerAwarded,Successful,97.5,75.8,,
+340,351744,Stephen Eustaquio,1160,Canada,37,FirstHalf,Pass,Unsuccessful,99.5,99.5,95.2,50.5
+299,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,37,FirstHalf,Aerial,Successful,4.8,49.5,,
+347,445292,Tani Oluwaseyi,1160,Canada,37,FirstHalf,Aerial,Unsuccessful,95.2,50.5,,
+302,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,37,FirstHalf,Clearance,Successful,4.8,49.5,5.3,50.1
+341,445292,Tani Oluwaseyi,1160,Canada,37,FirstHalf,BallTouch,Successful,95.1,50.5,,
+342,383855,Jonathan David,1160,Canada,37,FirstHalf,MissedShots,Successful,95.7,38,,
+300,110260,Sead Kolasinac,768,Bosnia and Herzegovina,37,FirstHalf,BallTouch,Successful,3.3,59.9,,
+343,383855,Jonathan David,1160,Canada,37,FirstHalf,CornerAwarded,Successful,96.2,37.8,,
+301,110260,Sead Kolasinac,768,Bosnia and Herzegovina,37,FirstHalf,CornerAwarded,Unsuccessful,3.8,62.2,,
+344,351744,Stephen Eustaquio,1160,Canada,37,FirstHalf,Pass,Unsuccessful,99.5,0.5,90.2,49
+400,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,37,FirstHalf,Aerial,Successful,9.8,51,,
+345,445292,Tani Oluwaseyi,1160,Canada,37,FirstHalf,Aerial,Unsuccessful,90.2,49,,
+303,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,37,FirstHalf,Clearance,Successful,9.8,51,10.4,50.9
+346,445292,Tani Oluwaseyi,1160,Canada,37,FirstHalf,BallTouch,Successful,87.5,46.9,,
+304,418203,Amar Dedic,768,Bosnia and Herzegovina,38,FirstHalf,Clearance,Successful,7.2,69.3,38.2,85.3
+348,422851,Ismaël Koné,1160,Canada,38,FirstHalf,Pass,Successful,59,3.7,29,29.5
+349,137263,Maxime Crépeau,1160,Canada,38,FirstHalf,Pass,Successful,27.7,30.3,33.5,34.3
+350,445292,Tani Oluwaseyi,1160,Canada,38,FirstHalf,Pass,Successful,32.8,35.8,40.7,30
+351,422851,Ismaël Koné,1160,Canada,38,FirstHalf,Pass,Successful,49,43.2,43.1,52.5
+352,371029,Derek Cornelius,1160,Canada,38,FirstHalf,Pass,Successful,43.2,52.5,44.7,35.2
+353,492688,Luc De Fougerolles,1160,Canada,38,FirstHalf,Pass,Successful,57.3,25,70.5,2.4
+354,371027,Tajon Buchanan,1160,Canada,38,FirstHalf,Pass,Unsuccessful,98.8,19.2,98.8,20.8
+305,428102,Amar Memic,768,Bosnia and Herzegovina,38,FirstHalf,Clearance,Successful,1.2,79.2,,
+306,428102,Amar Memic,768,Bosnia and Herzegovina,38,FirstHalf,CornerAwarded,Unsuccessful,11.9,73,,
+357,371027,Tajon Buchanan,1160,Canada,38,FirstHalf,CornerAwarded,Successful,88.1,27,,
+358,351744,Stephen Eustaquio,1160,Canada,38,FirstHalf,Pass,Unsuccessful,99.5,0.5,84.9,53.2
+307,418212,Ivan Basic,768,Bosnia and Herzegovina,38,FirstHalf,Aerial,Successful,15.1,46.8,,
+359,371029,Derek Cornelius,1160,Canada,38,FirstHalf,Aerial,Unsuccessful,84.9,53.2,,
+313,418212,Ivan Basic,768,Bosnia and Herzegovina,39,FirstHalf,Clearance,Successful,15.1,46.8,15.5,45.8
+360,371029,Derek Cornelius,1160,Canada,39,FirstHalf,BallTouch,Successful,84.2,52.9,,
+361,391821,Liam Millar,1160,Canada,39,FirstHalf,Pass,Unsuccessful,77.3,81.1,89.1,48.6
+308,449011,Jovo Lukic,768,Bosnia and Herzegovina,39,FirstHalf,Aerial,Successful,10.9,51.4,,
+362,371029,Derek Cornelius,1160,Canada,39,FirstHalf,Aerial,Unsuccessful,89.1,48.6,,
+310,449011,Jovo Lukic,768,Bosnia and Herzegovina,39,FirstHalf,Clearance,Successful,10.9,51.4,29.3,68.4
+363,422851,Ismaël Koné,1160,Canada,39,FirstHalf,Pass,Unsuccessful,72.3,21.6,77.9,24.7
+311,418203,Amar Dedic,768,Bosnia and Herzegovina,39,FirstHalf,BallTouch,Successful,19.9,72.6,,
+364,422851,Ismaël Koné,1160,Canada,39,FirstHalf,CornerAwarded,Successful,79.2,26.2,,
+312,418203,Amar Dedic,768,Bosnia and Herzegovina,39,FirstHalf,CornerAwarded,Unsuccessful,20.8,73.7,,
+365,351744,Stephen Eustaquio,1160,Canada,39,FirstHalf,Pass,Successful,99.5,0.5,97,19.3
+366,371027,Tajon Buchanan,1160,Canada,39,FirstHalf,Pass,Successful,97,19.3,90.4,11.4
+367,351744,Stephen Eustaquio,1160,Canada,39,FirstHalf,Pass,Successful,87.9,12.6,74,30.9
+368,422851,Ismaël Koné,1160,Canada,39,FirstHalf,Pass,Unsuccessful,74,32.7,87.2,45.7
+314,363666,Nikola Katic,768,Bosnia and Herzegovina,39,FirstHalf,Clearance,Successful,11.2,47.9,25.1,37
+369,313012,Richie Laryea,1160,Canada,39,FirstHalf,Pass,Successful,73,63.9,83.9,64.3
+370,492688,Luc De Fougerolles,1160,Canada,39,FirstHalf,Pass,Unsuccessful,84.5,65.4,91.8,59.8
+315,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,39,FirstHalf,Clearance,Successful,8.1,38,26.2,13.5
+371,391821,Liam Millar,1160,Canada,39,FirstHalf,Aerial,Successful,73.8,86.5,,
+316,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,39,FirstHalf,Aerial,Unsuccessful,26.2,13.5,,
+372,391821,Liam Millar,1160,Canada,39,FirstHalf,Pass,Successful,73.8,86.5,66.3,72.9
+373,313012,Richie Laryea,1160,Canada,39,FirstHalf,Pass,Successful,64.1,72.1,89.5,43.8
+374,383855,Jonathan David,1160,Canada,39,FirstHalf,BallTouch,Unsuccessful,89.4,43.8,,
+317,145304,Nikola Vasilj,768,Bosnia and Herzegovina,39,FirstHalf,KeeperPickup,Successful,2.8,59,,
+318,145304,Nikola Vasilj,768,Bosnia and Herzegovina,40,FirstHalf,Pass,Unsuccessful,12.5,48.5,56.6,48.1
+375,371029,Derek Cornelius,1160,Canada,40,FirstHalf,Pass,Unsuccessful,45.7,49.9,62.5,55.5
+319,363666,Nikola Katic,768,Bosnia and Herzegovina,40,FirstHalf,Aerial,Successful,37.5,44.5,,
+376,445292,Tani Oluwaseyi,1160,Canada,40,FirstHalf,Aerial,Unsuccessful,62.5,55.5,,
+320,363666,Nikola Katic,768,Bosnia and Herzegovina,40,FirstHalf,Clearance,Successful,37.5,44.5,59.8,32.1
+377,313012,Richie Laryea,1160,Canada,40,FirstHalf,BallTouch,Successful,34.2,60.7,,
+378,492688,Luc De Fougerolles,1160,Canada,40,FirstHalf,Clearance,Successful,31.2,72,32.6,76.5
+833,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,40,FirstHalf,BlockedPass,Successful,66.5,22.5,,
+321,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,40,FirstHalf,Pass,Successful,67.2,6.5,57.2,11.6
+322,418203,Amar Dedic,768,Bosnia and Herzegovina,40,FirstHalf,Pass,Successful,58.1,14,66.4,4.1
+323,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,40,FirstHalf,Pass,Unsuccessful,66.4,4.1,76.8,23.6
+379,351744,Stephen Eustaquio,1160,Canada,40,FirstHalf,Pass,Successful,26.3,83.4,28.1,94.8
+380,492688,Luc De Fougerolles,1160,Canada,40,FirstHalf,BallRecovery,Successful,27.6,95.5,,
+381,492688,Luc De Fougerolles,1160,Canada,40,FirstHalf,Pass,Successful,26.8,96.3,33,95.2
+382,391821,Liam Millar,1160,Canada,40,FirstHalf,Pass,Successful,33.8,96.3,31.5,80.5
+383,422851,Ismaël Koné,1160,Canada,40,FirstHalf,Pass,Successful,31.9,80.1,28.6,83.4
+384,313012,Richie Laryea,1160,Canada,40,FirstHalf,Pass,Successful,20.8,98.2,27.2,98.2
+385,492688,Luc De Fougerolles,1160,Canada,40,FirstHalf,Foul,Successful,37.6,95.6,,
+325,418203,Amar Dedic,768,Bosnia and Herzegovina,40,FirstHalf,Foul,Unsuccessful,62.4,4.4,,
+386,422851,Ismaël Koné,1160,Canada,40,FirstHalf,Pass,Successful,43.6,91.2,32.5,73.4
+416,371029,Derek Cornelius,1160,Canada,41,FirstHalf,Pass,Successful,30,76.4,41.5,89.4
+422,422851,Ismaël Koné,1160,Canada,41,FirstHalf,Pass,Successful,45.3,84.6,51.9,66
+387,351744,Stephen Eustaquio,1160,Canada,41,FirstHalf,Pass,Successful,49.4,68.5,52,88.9
+388,422851,Ismaël Koné,1160,Canada,41,FirstHalf,Pass,Successful,51.2,90.3,44.5,64.6
+389,371029,Derek Cornelius,1160,Canada,41,FirstHalf,Pass,Successful,48.3,68.1,62.1,93
+390,422851,Ismaël Koné,1160,Canada,41,FirstHalf,Pass,Successful,61.4,93.6,48.4,67.5
+391,371029,Derek Cornelius,1160,Canada,41,FirstHalf,Pass,Successful,57.6,62.5,52.5,39
+392,492688,Luc De Fougerolles,1160,Canada,41,FirstHalf,Pass,Successful,52.5,34.8,54.9,27.4
+393,397859,Alistair Johnston,1160,Canada,41,FirstHalf,Pass,Successful,54.2,26.5,59.5,30.3
+394,351744,Stephen Eustaquio,1160,Canada,41,FirstHalf,Pass,Unsuccessful,59.7,29.4,67.1,16.2
+326,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,41,FirstHalf,BallRecovery,Successful,30,83,,
+327,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,41,FirstHalf,Pass,Unsuccessful,30,83,60.1,97.4
+395,397859,Alistair Johnston,1160,Canada,41,FirstHalf,Foul,Successful,38.4,2.4,,
+328,428102,Amar Memic,768,Bosnia and Herzegovina,41,FirstHalf,Foul,Unsuccessful,61.6,97.6,,
+396,492688,Luc De Fougerolles,1160,Canada,41,FirstHalf,Pass,Successful,20.1,9.4,20.1,36
+397,137263,Maxime Crépeau,1160,Canada,41,FirstHalf,Pass,Successful,25.9,47.7,36.3,63.9
+398,371029,Derek Cornelius,1160,Canada,41,FirstHalf,Pass,Successful,37.6,68.2,30,48.1
+399,492688,Luc De Fougerolles,1160,Canada,42,FirstHalf,Pass,Successful,44.4,54.9,58.4,83.7
+400,371029,Derek Cornelius,1160,Canada,42,FirstHalf,Pass,Successful,59.7,87,67.4,97.3
+401,391821,Liam Millar,1160,Canada,42,FirstHalf,Pass,Unsuccessful,64.9,96.7,74.5,89.4
+834,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,42,FirstHalf,Interception,Successful,25.5,10.6,,
+329,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,42,FirstHalf,BallRecovery,Successful,24.6,8.6,,
+330,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,42,FirstHalf,TakeOn,Unsuccessful,29.2,4.6,,
+402,391821,Liam Millar,1160,Canada,42,FirstHalf,Tackle,Successful,70.8,95.4,,
+332,418203,Amar Dedic,768,Bosnia and Herzegovina,42,FirstHalf,Pass,Successful,34.1,0,38.8,8
+333,449011,Jovo Lukic,768,Bosnia and Herzegovina,42,FirstHalf,Pass,Unsuccessful,38.8,8.5,30,7.7
+404,445292,Tani Oluwaseyi,1160,Canada,42,FirstHalf,Pass,Successful,72.3,95.2,66.1,96
+405,391821,Liam Millar,1160,Canada,42,FirstHalf,Pass,Successful,64.8,95.8,56.7,96.7
+406,422851,Ismaël Koné,1160,Canada,42,FirstHalf,Dispossessed,Successful,55.8,95,,
+334,449011,Jovo Lukic,768,Bosnia and Herzegovina,42,FirstHalf,Tackle,Successful,44.2,5,,
+408,391821,Liam Millar,1160,Canada,42,FirstHalf,Pass,Unsuccessful,53.4,100,74.4,86.5
+336,363666,Nikola Katic,768,Bosnia and Herzegovina,42,FirstHalf,Aerial,Successful,25.6,13.5,,
+409,445292,Tani Oluwaseyi,1160,Canada,42,FirstHalf,Aerial,Unsuccessful,74.4,86.5,,
+337,363666,Nikola Katic,768,Bosnia and Herzegovina,42,FirstHalf,Clearance,Successful,25.6,13.5,44.7,11.4
+410,371029,Derek Cornelius,1160,Canada,42,FirstHalf,Pass,Unsuccessful,51.8,84.6,64.3,75.3
+338,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,42,FirstHalf,Pass,Unsuccessful,31.6,22.4,25.9,16.2
+411,445292,Tani Oluwaseyi,1160,Canada,42,FirstHalf,Aerial,Successful,74.1,83.8,,
+339,363666,Nikola Katic,768,Bosnia and Herzegovina,42,FirstHalf,Aerial,Unsuccessful,25.9,16.2,,
+412,445292,Tani Oluwaseyi,1160,Canada,42,FirstHalf,Pass,Unsuccessful,74.1,83.8,73,89.1
+340,418203,Amar Dedic,768,Bosnia and Herzegovina,42,FirstHalf,Clearance,Successful,24.2,10.1,36.8,13.4
+341,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,42,FirstHalf,BallRecovery,Successful,35.6,18.3,,
+342,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,42,FirstHalf,Pass,Successful,35.4,18.5,35,31.9
+343,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,42,FirstHalf,Pass,Successful,45.4,44,68.1,81.8
+344,428102,Amar Memic,768,Bosnia and Herzegovina,42,FirstHalf,TakeOn,Unsuccessful,70.6,89.1,,
+414,397859,Alistair Johnston,1160,Canada,42,FirstHalf,Tackle,Successful,29.4,10.9,,
+346,110260,Sead Kolasinac,768,Bosnia and Herzegovina,43,FirstHalf,Pass,Unsuccessful,73.8,100,87.9,70.3
+417,351744,Stephen Eustaquio,1160,Canada,43,FirstHalf,Clearance,Successful,9.7,31.6,17.8,26.7
+347,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,43,FirstHalf,MissedShots,Successful,82.1,73,,
+419,492688,Luc De Fougerolles,1160,Canada,43,FirstHalf,Pass,Successful,4.9,38.5,3.2,49.8
+420,137263,Maxime Crépeau,1160,Canada,43,FirstHalf,Pass,Successful,7.4,52.2,15.1,87.7
+421,371029,Derek Cornelius,1160,Canada,43,FirstHalf,Foul,Successful,14.8,86.1,,
+349,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,43,FirstHalf,Foul,Unsuccessful,85.2,13.8,,
+350,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,44,FirstHalf,Card,Successful,0,0,,
+423,137263,Maxime Crépeau,1160,Canada,44,FirstHalf,Pass,Successful,20.5,68.3,25.1,84.8
+424,371029,Derek Cornelius,1160,Canada,44,FirstHalf,Pass,Successful,35.5,68.2,28.9,37.8
+425,492688,Luc De Fougerolles,1160,Canada,44,FirstHalf,Pass,Successful,28.4,35.1,28.1,26.2
+426,397859,Alistair Johnston,1160,Canada,44,FirstHalf,Pass,Successful,32.1,28.8,67.4,36.4
+427,445292,Tani Oluwaseyi,1160,Canada,44,FirstHalf,Pass,Unsuccessful,67.6,35.2,84.9,10.5
+351,110260,Sead Kolasinac,768,Bosnia and Herzegovina,44,FirstHalf,BallRecovery,Successful,12.5,96.2,,
+352,110260,Sead Kolasinac,768,Bosnia and Herzegovina,44,FirstHalf,Pass,Successful,11.9,96.5,44.7,79.1
+353,449011,Jovo Lukic,768,Bosnia and Herzegovina,44,FirstHalf,Aerial,Successful,44.7,79.1,,
+428,492688,Luc De Fougerolles,1160,Canada,44,FirstHalf,Aerial,Unsuccessful,55.3,20.9,,
+354,449011,Jovo Lukic,768,Bosnia and Herzegovina,44,FirstHalf,Pass,Successful,44.7,79.1,37,77.2
+355,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,44,FirstHalf,Pass,Unsuccessful,36.9,77.2,39.7,76.4
+429,351744,Stephen Eustaquio,1160,Canada,44,FirstHalf,BlockedPass,Successful,60.3,23.6,,
+356,110260,Sead Kolasinac,768,Bosnia and Herzegovina,44,FirstHalf,Pass,Unsuccessful,31.7,85.6,48.4,99.2
+430,397859,Alistair Johnston,1160,Canada,44,FirstHalf,BallRecovery,Successful,59.3,1.8,,
+431,397859,Alistair Johnston,1160,Canada,44,FirstHalf,Pass,Unsuccessful,59.6,2.2,69.4,22.9
+357,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,44,FirstHalf,Interception,Successful,30.6,77.1,,
+358,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,44,FirstHalf,BallRecovery,Successful,28.9,76.6,,
+359,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,44,FirstHalf,Pass,Unsuccessful,32.9,73.2,100,12
+433,313012,Richie Laryea,1160,Canada,45,FirstHalf,ShieldBallOpp,Successful,3,88.2,,
+434,371029,Derek Cornelius,1160,Canada,45,FirstHalf,Pass,Successful,4.8,58.6,5.3,52
+435,137263,Maxime Crépeau,1160,Canada,45,FirstHalf,Pass,Unsuccessful,14.8,51.3,58.1,86.7
+361,418203,Amar Dedic,768,Bosnia and Herzegovina,45,FirstHalf,Aerial,Successful,41.9,13.3,,
+436,391821,Liam Millar,1160,Canada,45,FirstHalf,Aerial,Unsuccessful,58.1,86.7,,
+362,418203,Amar Dedic,768,Bosnia and Herzegovina,45,FirstHalf,Clearance,Successful,41.9,13.3,51.5,21.6
+363,418212,Ivan Basic,768,Bosnia and Herzegovina,45,FirstHalf,BallTouch,Successful,51.5,22.7,,
+364,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Unsuccessful,47.2,26.5,53.8,57.6
+437,397859,Alistair Johnston,1160,Canada,45,FirstHalf,Pass,Unsuccessful,45.4,42.7,39.7,30
+365,449011,Jovo Lukic,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Successful,60.8,74.7,67.3,68.7
+366,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,45,FirstHalf,Aerial,Successful,67.3,68.7,,
+438,492688,Luc De Fougerolles,1160,Canada,45,FirstHalf,Aerial,Unsuccessful,32.7,31.3,,
+367,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Successful,67.3,68.7,72.8,87.8
+368,449011,Jovo Lukic,768,Bosnia and Herzegovina,45,FirstHalf,BallRecovery,Successful,73.8,88.1,,
+369,449011,Jovo Lukic,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Successful,83.6,91.5,71,89
+370,110260,Sead Kolasinac,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Successful,71.6,88.1,84.8,75.9
+371,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,45,FirstHalf,Pass,Unsuccessful,87.6,76.6,88.8,67
+441,351744,Stephen Eustaquio,1160,Canada,45,FirstHalf,BallRecovery,Successful,8.5,34.6,,
+442,351744,Stephen Eustaquio,1160,Canada,45,FirstHalf,Pass,Successful,7,34.2,30.2,16.5
+443,371027,Tajon Buchanan,1160,Canada,45,FirstHalf,Foul,Successful,28.8,17.8,,
+372,449011,Jovo Lukic,768,Bosnia and Herzegovina,45,FirstHalf,Foul,Unsuccessful,71.2,82.2,,
+373,449011,Jovo Lukic,768,Bosnia and Herzegovina,45,FirstHalf,Card,Successful,0,0,,
+451,492688,Luc De Fougerolles,1160,Canada,46,FirstHalf,Pass,Successful,33,24.2,20.2,32.5
+444,137263,Maxime Crépeau,1160,Canada,46,FirstHalf,Pass,Successful,28,29.7,35.6,22.9
+445,492688,Luc De Fougerolles,1160,Canada,46,FirstHalf,Pass,Successful,37.8,18,46.7,2.8
+446,397859,Alistair Johnston,1160,Canada,46,FirstHalf,Pass,Successful,45.8,4.9,35.7,32.7
+447,492688,Luc De Fougerolles,1160,Canada,46,FirstHalf,Pass,Successful,34.2,47.8,39.2,64.9
+448,371029,Derek Cornelius,1160,Canada,46,FirstHalf,Pass,Unsuccessful,40.5,68.8,74.2,84.1
+374,418203,Amar Dedic,768,Bosnia and Herzegovina,46,FirstHalf,Aerial,Successful,25.8,15.9,,
+449,391821,Liam Millar,1160,Canada,46,FirstHalf,Aerial,Unsuccessful,74.2,84.1,,
+375,418203,Amar Dedic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,25.8,15.9,33.9,15
+376,418212,Ivan Basic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,33.9,15,39.2,12.8
+377,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,46,FirstHalf,BallRecovery,Successful,39.2,11,,
+378,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,39.2,11,33.9,10
+450,391821,Liam Millar,1160,Canada,46,FirstHalf,Challenge,Unsuccessful,68.4,92.5,,
+379,418212,Ivan Basic,768,Bosnia and Herzegovina,46,FirstHalf,TakeOn,Successful,31.6,7.5,,
+380,418212,Ivan Basic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,29.9,14.6,19.9,40.1
+381,363666,Nikola Katic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,18.8,40.3,20.4,91.2
+382,110260,Sead Kolasinac,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Successful,22.5,93,38,92.6
+383,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,46,FirstHalf,Pass,Unsuccessful,39.3,93.3,88.4,71.1
+452,137263,Maxime Crépeau,1160,Canada,46,FirstHalf,BallRecovery,Successful,11.5,34.2,,
+453,137263,Maxime Crépeau,1160,Canada,46,FirstHalf,Pass,Successful,22.3,45.6,28.3,50.8
+454,371029,Derek Cornelius,1160,Canada,47,FirstHalf,Pass,Successful,36.3,53.2,41.9,38.4
+455,351744,Stephen Eustaquio,1160,Canada,47,FirstHalf,Pass,Successful,41.7,38.5,35.8,54.7
+456,371029,Derek Cornelius,1160,Canada,47,FirstHalf,Pass,Successful,42.9,55,47.4,28
+457,422851,Ismaël Koné,1160,Canada,47,FirstHalf,Pass,Successful,50.6,26.2,73.1,1.8
+458,371027,Tajon Buchanan,1160,Canada,47,FirstHalf,TakeOn,Unsuccessful,75.2,24,,
+384,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,47,FirstHalf,Tackle,Unsuccessful,24.8,76,,
+461,397859,Alistair Johnston,1160,Canada,47,FirstHalf,Pass,Unsuccessful,87.8,0,90,37.3
+387,363666,Nikola Katic,768,Bosnia and Herzegovina,47,FirstHalf,Aerial,Successful,10,62.7,,
+462,445292,Tani Oluwaseyi,1160,Canada,47,FirstHalf,Aerial,Unsuccessful,90,37.3,,
+388,363666,Nikola Katic,768,Bosnia and Herzegovina,47,FirstHalf,Clearance,Successful,10,62.7,16.3,82.4
+463,397859,Alistair Johnston,1160,Canada,47,FirstHalf,Pass,Successful,87.8,19.8,87.4,34.5
+472,445292,Tani Oluwaseyi,1160,Canada,47,FirstHalf,Pass,Unsuccessful,88.7,31.6,90.5,39
+389,110260,Sead Kolasinac,768,Bosnia and Herzegovina,47,FirstHalf,BallTouch,Unsuccessful,10.1,60,,
+498,110260,Sead Kolasinac,768,Bosnia and Herzegovina,47,FirstHalf,Error,Successful,0.5,99.5,,
+464,445292,Tani Oluwaseyi,1160,Canada,47,FirstHalf,BallTouch,Successful,87.4,34.5,,
+465,397859,Alistair Johnston,1160,Canada,47,FirstHalf,SavedShot,Successful,89.6,32.5,,
+390,110260,Sead Kolasinac,768,Bosnia and Herzegovina,47,FirstHalf,Save,Successful,8.3,63.8,,
+466,397859,Alistair Johnston,1160,Canada,48,FirstHalf,CornerAwarded,Successful,91.8,33.4,,
+391,110260,Sead Kolasinac,768,Bosnia and Herzegovina,48,FirstHalf,CornerAwarded,Unsuccessful,8.2,66.6,,
+467,351744,Stephen Eustaquio,1160,Canada,48,FirstHalf,Pass,Successful,99.5,0.5,90.8,47.1
+469,371029,Derek Cornelius,1160,Canada,48,FirstHalf,MissedShots,Successful,90.8,47.1,,
+393,145304,Nikola Vasilj,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Successful,4.9,56,61.9,59.9
+394,449011,Jovo Lukic,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Successful,61.9,59.9,53.7,52.1
+395,418212,Ivan Basic,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Successful,53.6,48.7,63.3,44.9
+396,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Successful,56.8,47.8,41.3,69.3
+397,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Successful,41.4,68.1,36.1,44
+398,363666,Nikola Katic,768,Bosnia and Herzegovina,48,FirstHalf,Pass,Unsuccessful,36.1,43.7,72.2,56.6
+471,,,1160,Canada,48,FirstHalf,End,Successful,0,0,,
+399,,,768,Bosnia and Herzegovina,48,FirstHalf,End,Successful,0,0,,
+476,,,1160,Canada,45,SecondHalf,Start,Successful,0,0,,
+401,,,768,Bosnia and Herzegovina,45,SecondHalf,Start,Successful,0,0,,
+402,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,45,SecondHalf,Pass,Successful,50.2,49.9,25.2,49.9
+403,145304,Nikola Vasilj,768,Bosnia and Herzegovina,45,SecondHalf,Pass,Unsuccessful,25.9,49.7,72.4,43.9
+477,371029,Derek Cornelius,1160,Canada,45,SecondHalf,Pass,Unsuccessful,26.8,56.5,33.6,56.1
+404,418212,Ivan Basic,768,Bosnia and Herzegovina,45,SecondHalf,Pass,Successful,63.5,39.7,73.8,33
+405,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,45,SecondHalf,SavedShot,Successful,76.4,27.4,,
+478,137263,Maxime Crépeau,1160,Canada,45,SecondHalf,Save,Successful,3,52.7,,
+479,137263,Maxime Crépeau,1160,Canada,45,SecondHalf,KeeperPickup,Successful,3.3,52,,
+481,137263,Maxime Crépeau,1160,Canada,45,SecondHalf,Pass,Unsuccessful,14.7,50.2,52.7,67.9
+406,363666,Nikola Katic,768,Bosnia and Herzegovina,45,SecondHalf,Aerial,Successful,47.3,32.1,,
+482,445292,Tani Oluwaseyi,1160,Canada,45,SecondHalf,Aerial,Unsuccessful,52.7,67.9,,
+407,363666,Nikola Katic,768,Bosnia and Herzegovina,45,SecondHalf,Clearance,Successful,47.3,32.1,51.6,0
+484,313012,Richie Laryea,1160,Canada,45,SecondHalf,Pass,Successful,43.3,100,57.7,93.1
+485,445292,Tani Oluwaseyi,1160,Canada,45,SecondHalf,Foul,Successful,63.7,91.6,,
+409,363666,Nikola Katic,768,Bosnia and Herzegovina,45,SecondHalf,Foul,Unsuccessful,36.3,8.4,,
+486,351744,Stephen Eustaquio,1160,Canada,45,SecondHalf,Pass,Successful,62.7,87.4,58.5,71.8
+487,422851,Ismaël Koné,1160,Canada,45,SecondHalf,Pass,Successful,63,80.2,72.7,81.3
+488,391821,Liam Millar,1160,Canada,45,SecondHalf,Pass,Successful,73.1,81.7,66.8,95.4
+489,422851,Ismaël Koné,1160,Canada,45,SecondHalf,TakeOn,Unsuccessful,66.8,95.4,,
+410,418203,Amar Dedic,768,Bosnia and Herzegovina,45,SecondHalf,Pass,Unsuccessful,30.4,3.7,61.4,47.3
+490,492688,Luc De Fougerolles,1160,Canada,46,SecondHalf,Clearance,Successful,37.2,45.1,68.8,41.4
+411,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,46,SecondHalf,Pass,Successful,34,66.3,48.4,65.8
+412,428102,Amar Memic,768,Bosnia and Herzegovina,46,SecondHalf,Pass,Successful,48.4,65.8,45.9,46.1
+413,418212,Ivan Basic,768,Bosnia and Herzegovina,46,SecondHalf,BallRecovery,Successful,46,46.1,,
+414,418212,Ivan Basic,768,Bosnia and Herzegovina,46,SecondHalf,Pass,Unsuccessful,46,46.1,84.2,69.9
+491,137263,Maxime Crépeau,1160,Canada,46,SecondHalf,BallRecovery,Successful,14.5,34.8,,
+492,137263,Maxime Crépeau,1160,Canada,46,SecondHalf,Pass,Successful,16.3,34.5,25.8,31.9
+493,492688,Luc De Fougerolles,1160,Canada,46,SecondHalf,Pass,Successful,30.2,44.2,30.6,20.5
+494,397859,Alistair Johnston,1160,Canada,46,SecondHalf,Pass,Successful,30.6,19,75.2,27
+495,445292,Tani Oluwaseyi,1160,Canada,46,SecondHalf,Dispossessed,Successful,86.8,11.6,,
+415,363666,Nikola Katic,768,Bosnia and Herzegovina,46,SecondHalf,Tackle,Successful,13.3,88.4,,
+497,371027,Tajon Buchanan,1160,Canada,46,SecondHalf,Pass,Successful,86.8,0,73.6,7.5
+498,397859,Alistair Johnston,1160,Canada,46,SecondHalf,Pass,Successful,71.8,6.6,76.8,19.3
+499,351744,Stephen Eustaquio,1160,Canada,46,SecondHalf,Pass,Successful,76.8,19.3,95.5,22.6
+417,363666,Nikola Katic,768,Bosnia and Herzegovina,46,SecondHalf,Challenge,Unsuccessful,4.8,81.6,,
+500,445292,Tani Oluwaseyi,1160,Canada,46,SecondHalf,TakeOn,Successful,95.2,18.4,,
+501,445292,Tani Oluwaseyi,1160,Canada,46,SecondHalf,GoodSkill,Successful,98,19.3,,
+502,445292,Tani Oluwaseyi,1160,Canada,46,SecondHalf,Pass,Unsuccessful,98.9,24.9,97.1,44.5
+418,145304,Nikola Vasilj,768,Bosnia and Herzegovina,46,SecondHalf,Clearance,Successful,2.7,54,5.3,56.2
+419,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,46,SecondHalf,Clearance,Successful,5.4,57.3,7.3,69.3
+420,110260,Sead Kolasinac,768,Bosnia and Herzegovina,46,SecondHalf,Clearance,Successful,8.3,70.3,18.4,87.5
+503,371027,Tajon Buchanan,1160,Canada,46,SecondHalf,TakeOn,Unsuccessful,87,5.6,,
+421,110260,Sead Kolasinac,768,Bosnia and Herzegovina,46,SecondHalf,Tackle,Successful,13,94.4,,
+505,371027,Tajon Buchanan,1160,Canada,47,SecondHalf,Pass,Unsuccessful,94,0,93.9,43.5
+423,363666,Nikola Katic,768,Bosnia and Herzegovina,47,SecondHalf,Clearance,Successful,7.9,61.4,13,48.2
+424,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,47,SecondHalf,Clearance,Successful,13,48.2,28.3,23.3
+506,313012,Richie Laryea,1160,Canada,47,SecondHalf,Pass,Successful,58.5,69.3,54,50.8
+507,492688,Luc De Fougerolles,1160,Canada,47,SecondHalf,Pass,Successful,56.1,46.5,75.2,41.8
+508,445292,Tani Oluwaseyi,1160,Canada,47,SecondHalf,Pass,Unsuccessful,75.3,41.8,74,52.6
+425,418212,Ivan Basic,768,Bosnia and Herzegovina,47,SecondHalf,Pass,Successful,28,48.1,6.4,52.7
+426,145304,Nikola Vasilj,768,Bosnia and Herzegovina,47,SecondHalf,BallRecovery,Successful,6.6,52.7,,
+427,145304,Nikola Vasilj,768,Bosnia and Herzegovina,47,SecondHalf,Pass,Unsuccessful,7.5,57.9,30,100
+510,397859,Alistair Johnston,1160,Canada,47,SecondHalf,Pass,Successful,70.7,0,89.9,3
+511,371027,Tajon Buchanan,1160,Canada,47,SecondHalf,Pass,Unsuccessful,90.4,2.8,90.1,24.9
+429,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,47,SecondHalf,Clearance,Successful,8.7,75,30.4,81.8
+430,449011,Jovo Lukic,768,Bosnia and Herzegovina,47,SecondHalf,BallRecovery,Successful,32.8,75.7,,
+431,449011,Jovo Lukic,768,Bosnia and Herzegovina,47,SecondHalf,Pass,Unsuccessful,33.6,64.6,74.9,23.7
+512,313012,Richie Laryea,1160,Canada,47,SecondHalf,BallRecovery,Successful,27.5,75.6,,
+513,313012,Richie Laryea,1160,Canada,47,SecondHalf,Pass,Successful,36.6,61.9,34,38.8
+514,492688,Luc De Fougerolles,1160,Canada,47,SecondHalf,Pass,Successful,39.3,30.9,39.9,16.9
+11515,445292,Tani Oluwaseyi,1160,Canada,48,SecondHalf,OffsideGiven,Unsuccessful,68.8,30.3,,
+515,397859,Alistair Johnston,1160,Canada,48,SecondHalf,OffsidePass,Successful,39.9,15.6,68.8,30.3
+432,418203,Amar Dedic,768,Bosnia and Herzegovina,48,SecondHalf,OffsideProvoked,Successful,32.8,27.4,,
+437,145304,Nikola Vasilj,768,Bosnia and Herzegovina,49,SecondHalf,Pass,Successful,24.3,73.9,69.8,71.5
+438,449011,Jovo Lukic,768,Bosnia and Herzegovina,49,SecondHalf,Aerial,Successful,69.8,71.5,,
+519,492688,Luc De Fougerolles,1160,Canada,49,SecondHalf,Aerial,Unsuccessful,30.2,28.5,,
+439,449011,Jovo Lukic,768,Bosnia and Herzegovina,49,SecondHalf,Pass,Unsuccessful,69.8,71.5,72.6,60.5
+947,371029,Derek Cornelius,1160,Canada,49,SecondHalf,Aerial,Successful,27.4,39.5,,
+817,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,49,SecondHalf,Aerial,Unsuccessful,72.6,60.5,,
+521,371029,Derek Cornelius,1160,Canada,49,SecondHalf,Pass,Unsuccessful,27.4,39.5,28.6,40
+440,449011,Jovo Lukic,768,Bosnia and Herzegovina,49,SecondHalf,Pass,Unsuccessful,71,59.7,64.7,50.3
+522,391821,Liam Millar,1160,Canada,49,SecondHalf,BallRecovery,Successful,37.7,71.8,,
+441,418203,Amar Dedic,768,Bosnia and Herzegovina,49,SecondHalf,Challenge,Unsuccessful,57.1,22.6,,
+523,391821,Liam Millar,1160,Canada,49,SecondHalf,TakeOn,Successful,42.9,77.4,,
+524,391821,Liam Millar,1160,Canada,49,SecondHalf,Pass,Unsuccessful,68.2,78,91.2,66.6
+442,145304,Nikola Vasilj,768,Bosnia and Herzegovina,49,SecondHalf,KeeperPickup,Successful,10,34.5,,
+443,145304,Nikola Vasilj,768,Bosnia and Herzegovina,50,SecondHalf,Pass,Successful,12.4,30.6,29.3,5.6
+444,418203,Amar Dedic,768,Bosnia and Herzegovina,50,SecondHalf,Pass,Successful,48.9,12.9,48.3,32.8
+445,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,50,SecondHalf,Pass,Successful,49,37.8,55.6,48.8
+446,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,50,SecondHalf,Dispossessed,Successful,55.3,51.6,,
+525,492688,Luc De Fougerolles,1160,Canada,50,SecondHalf,Tackle,Successful,44.7,48.4,,
+526,492688,Luc De Fougerolles,1160,Canada,50,SecondHalf,Foul,Successful,44.7,48,,
+447,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,50,SecondHalf,Foul,Unsuccessful,55.3,52,,
+527,422851,Ismaël Koné,1160,Canada,50,SecondHalf,Pass,Successful,49.4,43.6,54.9,47.8
+528,351744,Stephen Eustaquio,1160,Canada,50,SecondHalf,Pass,Successful,54.9,47.7,52.4,43
+529,422851,Ismaël Koné,1160,Canada,50,SecondHalf,Pass,Successful,52,50.8,49.3,66.7
+530,371029,Derek Cornelius,1160,Canada,50,SecondHalf,Pass,Successful,50.7,68.4,64,97
+531,391821,Liam Millar,1160,Canada,50,SecondHalf,TakeOn,Unsuccessful,79.9,98.4,,
+448,418203,Amar Dedic,768,Bosnia and Herzegovina,50,SecondHalf,BallRecovery,Successful,6.8,6.7,,
+449,418203,Amar Dedic,768,Bosnia and Herzegovina,50,SecondHalf,Pass,Unsuccessful,5.2,2.8,23,0
+534,313012,Richie Laryea,1160,Canada,50,SecondHalf,Pass,Unsuccessful,74.4,100,85.8,80.1
+451,363666,Nikola Katic,768,Bosnia and Herzegovina,51,SecondHalf,Clearance,Successful,12.3,20.9,36.6,19.7
+535,371029,Derek Cornelius,1160,Canada,51,SecondHalf,Pass,Successful,64.9,72.4,76.5,79
+536,383855,Jonathan David,1160,Canada,51,SecondHalf,Pass,Successful,77.1,79.5,80,88.8
+537,391821,Liam Millar,1160,Canada,51,SecondHalf,Pass,Successful,79.7,87.1,73.6,76.8
+538,351744,Stephen Eustaquio,1160,Canada,51,SecondHalf,Pass,Successful,67.1,75.1,71.1,81
+539,371029,Derek Cornelius,1160,Canada,51,SecondHalf,Pass,Unsuccessful,78.4,86.3,95.9,50.8
+452,145304,Nikola Vasilj,768,Bosnia and Herzegovina,51,SecondHalf,Claim,Successful,4.1,49.2,,
+453,145304,Nikola Vasilj,768,Bosnia and Herzegovina,51,SecondHalf,Pass,Unsuccessful,15.3,47.2,65,68.7
+540,492688,Luc De Fougerolles,1160,Canada,51,SecondHalf,Pass,Successful,34.7,36,70.8,2.8
+541,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,BallRecovery,Successful,70.8,2.8,,
+542,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,TakeOn,Unsuccessful,70.6,3.7,,
+454,110260,Sead Kolasinac,768,Bosnia and Herzegovina,51,SecondHalf,Tackle,Successful,29.4,96.3,,
+544,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,Pass,Successful,69,0,68.4,8.7
+545,422851,Ismaël Koné,1160,Canada,51,SecondHalf,Pass,Successful,67.1,9.6,73.7,2.7
+546,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,BallTouch,Unsuccessful,87.9,4.3,,
+456,110260,Sead Kolasinac,768,Bosnia and Herzegovina,51,SecondHalf,ShieldBallOpp,Successful,5.1,95,,
+458,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,52,SecondHalf,Pass,Successful,5,63,4.6,49.6
+459,145304,Nikola Vasilj,768,Bosnia and Herzegovina,52,SecondHalf,Pass,Successful,4.7,49,6.9,21.3
+460,363666,Nikola Katic,768,Bosnia and Herzegovina,52,SecondHalf,Pass,Unsuccessful,11.6,11.6,61.1,18.8
+548,371029,Derek Cornelius,1160,Canada,52,SecondHalf,Pass,Successful,38,71.4,52.6,74.2
+549,351744,Stephen Eustaquio,1160,Canada,52,SecondHalf,Foul,Successful,52.6,75.6,,
+461,418212,Ivan Basic,768,Bosnia and Herzegovina,52,SecondHalf,Foul,Unsuccessful,47.4,24.4,,
+550,422851,Ismaël Koné,1160,Canada,52,SecondHalf,Pass,Successful,54,71.7,66.1,94.9
+551,391821,Liam Millar,1160,Canada,52,SecondHalf,Pass,Successful,65.4,95.5,58,80.1
+552,422851,Ismaël Koné,1160,Canada,52,SecondHalf,Pass,Successful,61,78.6,74.6,76
+553,313012,Richie Laryea,1160,Canada,52,SecondHalf,Pass,Successful,76.2,75,92.2,84.9
+554,391821,Liam Millar,1160,Canada,52,SecondHalf,Pass,Successful,87.5,82.3,80.1,76.5
+555,422851,Ismaël Koné,1160,Canada,52,SecondHalf,Pass,Successful,79.1,75.3,85.7,63.9
+556,351744,Stephen Eustaquio,1160,Canada,52,SecondHalf,Pass,Successful,85,62.6,89.5,67.3
+465,363666,Nikola Katic,768,Bosnia and Herzegovina,52,SecondHalf,Challenge,Unsuccessful,11.4,36.3,,
+560,313012,Richie Laryea,1160,Canada,52,SecondHalf,TakeOn,Successful,88.6,63.7,,
+557,313012,Richie Laryea,1160,Canada,52,SecondHalf,SavedShot,Successful,93.1,64.2,,
+462,110260,Sead Kolasinac,768,Bosnia and Herzegovina,52,SecondHalf,Save,Successful,0.9,48.9,,
+463,363666,Nikola Katic,768,Bosnia and Herzegovina,52,SecondHalf,Clearance,Successful,7.3,45.2,24.5,42.3
+464,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,52,SecondHalf,Foul,Successful,29.8,39.8,,
+558,492688,Luc De Fougerolles,1160,Canada,52,SecondHalf,Foul,Unsuccessful,70.2,60.2,,
+559,492688,Luc De Fougerolles,1160,Canada,52,SecondHalf,Card,Successful,0,0,,
+466,363666,Nikola Katic,768,Bosnia and Herzegovina,53,SecondHalf,Pass,Successful,31.9,35.5,40,9.8
+467,418203,Amar Dedic,768,Bosnia and Herzegovina,53,SecondHalf,Pass,Unsuccessful,53.3,8.4,63.4,3.9
+561,313012,Richie Laryea,1160,Canada,53,SecondHalf,Pass,Unsuccessful,38.5,97.3,67.1,68.9
+468,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,53,SecondHalf,Clearance,Successful,33.5,29.5,34,28.2
+562,445292,Tani Oluwaseyi,1160,Canada,53,SecondHalf,BallTouch,Successful,64.5,67.6,,
+470,418203,Amar Dedic,768,Bosnia and Herzegovina,53,SecondHalf,Pass,Successful,37,10.1,35.6,19.2
+471,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,53,SecondHalf,Pass,Unsuccessful,36,22.9,62.5,28.6
+563,371029,Derek Cornelius,1160,Canada,53,SecondHalf,BallTouch,Unsuccessful,35.9,67.1,,
+472,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,53,SecondHalf,TakeOn,Unsuccessful,86.9,50.9,,
+565,137263,Maxime Crépeau,1160,Canada,53,SecondHalf,Tackle,Successful,13.1,49.1,,
+503,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,53,SecondHalf,ChanceMissed,Unsuccessful,82.4,55.2,,
+566,137263,Maxime Crépeau,1160,Canada,53,SecondHalf,CornerAwarded,Unsuccessful,0,36.8,,
+474,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,53,SecondHalf,CornerAwarded,Successful,100,63.2,,
+476,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,54,SecondHalf,Pass,Unsuccessful,99.5,99.6,95.3,51.9
+567,137263,Maxime Crépeau,1160,Canada,54,SecondHalf,Aerial,Successful,4.7,48.1,,
+592,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,54,SecondHalf,Aerial,Unsuccessful,95.3,51.9,,
+593,137263,Maxime Crépeau,1160,Canada,54,SecondHalf,Clearance,Successful,4.7,48.1,4.6,50.5
+568,492688,Luc De Fougerolles,1160,Canada,54,SecondHalf,BallTouch,Successful,4.8,52.3,,
+569,422851,Ismaël Koné,1160,Canada,54,SecondHalf,BallRecovery,Successful,10.3,51.1,,
+570,422851,Ismaël Koné,1160,Canada,54,SecondHalf,Pass,Successful,25.3,70.2,40,63.6
+571,383855,Jonathan David,1160,Canada,54,SecondHalf,Pass,Unsuccessful,40.8,63.7,43.7,61.2
+477,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,54,SecondHalf,BlockedPass,Successful,56.3,38.8,,
+478,418212,Ivan Basic,768,Bosnia and Herzegovina,54,SecondHalf,BallRecovery,Successful,33.5,32.7,,
+479,418212,Ivan Basic,768,Bosnia and Herzegovina,54,SecondHalf,Pass,Successful,33.5,32.7,15.5,41.6
+480,145304,Nikola Vasilj,768,Bosnia and Herzegovina,54,SecondHalf,Pass,Unsuccessful,15.5,41.6,44.4,58.4
+572,351744,Stephen Eustaquio,1160,Canada,54,SecondHalf,BallRecovery,Successful,60.6,29.5,,
+573,351744,Stephen Eustaquio,1160,Canada,54,SecondHalf,Pass,Successful,73,9.4,82.7,3.9
+574,391821,Liam Millar,1160,Canada,54,SecondHalf,Pass,Unsuccessful,87.8,15.9,100,70.6
+482,145304,Nikola Vasilj,768,Bosnia and Herzegovina,55,SecondHalf,Pass,Unsuccessful,4.6,49.1,46.8,100
+577,397859,Alistair Johnston,1160,Canada,55,SecondHalf,Pass,Successful,55.1,0,92.6,24.3
+578,383855,Jonathan David,1160,Canada,55,SecondHalf,Pass,Unsuccessful,94.7,23.2,94,26.2
+484,363666,Nikola Katic,768,Bosnia and Herzegovina,55,SecondHalf,Interception,Successful,6,73.8,,
+485,145304,Nikola Vasilj,768,Bosnia and Herzegovina,55,SecondHalf,KeeperPickup,Successful,3.8,53.2,,
+486,145304,Nikola Vasilj,768,Bosnia and Herzegovina,55,SecondHalf,Pass,Unsuccessful,15.1,53.6,71,76.7
+579,492688,Luc De Fougerolles,1160,Canada,55,SecondHalf,Clearance,Successful,30.5,23.2,37.9,0
+582,397859,Alistair Johnston,1160,Canada,56,SecondHalf,Pass,Successful,32.8,0,23.6,17.4
+583,492688,Luc De Fougerolles,1160,Canada,56,SecondHalf,Pass,Successful,23.1,19.8,9.9,48.9
+584,137263,Maxime Crépeau,1160,Canada,56,SecondHalf,Pass,Unsuccessful,13,46.9,42.2,100
+490,418203,Amar Dedic,768,Bosnia and Herzegovina,56,SecondHalf,Pass,Unsuccessful,58,0,75.2,10
+586,371029,Derek Cornelius,1160,Canada,56,SecondHalf,Pass,Successful,25.9,78,26.7,85
+587,313012,Richie Laryea,1160,Canada,56,SecondHalf,Pass,Successful,26.1,85.2,32.7,91
+588,391821,Liam Millar,1160,Canada,56,SecondHalf,Pass,Successful,32,91,37.2,75.3
+589,351744,Stephen Eustaquio,1160,Canada,56,SecondHalf,BallRecovery,Successful,38,74.2,,
+590,351744,Stephen Eustaquio,1160,Canada,56,SecondHalf,Pass,Successful,38.1,74.2,33.6,79.9
+591,422851,Ismaël Koné,1160,Canada,56,SecondHalf,Pass,Unsuccessful,33.1,78.3,37.9,71.1
+491,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,57,SecondHalf,Foul,Successful,62.7,25.5,,
+592,351744,Stephen Eustaquio,1160,Canada,57,SecondHalf,Foul,Unsuccessful,37.2,74.4,,
+492,418212,Ivan Basic,768,Bosnia and Herzegovina,57,SecondHalf,Pass,Successful,63.2,27.1,88.6,73.8
+493,363666,Nikola Katic,768,Bosnia and Herzegovina,57,SecondHalf,Aerial,Successful,88.6,73.8,,
+594,422851,Ismaël Koné,1160,Canada,57,SecondHalf,Aerial,Unsuccessful,11.4,26.2,,
+494,363666,Nikola Katic,768,Bosnia and Herzegovina,57,SecondHalf,Pass,Unsuccessful,88.6,73.8,87.2,71.1
+630,422851,Ismaël Koné,1160,Canada,57,SecondHalf,BallTouch,Successful,11.5,31.2,,
+495,449011,Jovo Lukic,768,Bosnia and Herzegovina,57,SecondHalf,Pass,Successful,88,60.3,72.8,77.5
+496,110260,Sead Kolasinac,768,Bosnia and Herzegovina,57,SecondHalf,Pass,Unsuccessful,72.5,77.5,93.1,34.8
+596,137263,Maxime Crépeau,1160,Canada,57,SecondHalf,Punch,Successful,6.9,65.2,0,96.6
+497,110260,Sead Kolasinac,768,Bosnia and Herzegovina,57,SecondHalf,CornerAwarded,Successful,98,16,,
+597,137263,Maxime Crépeau,1160,Canada,57,SecondHalf,CornerAwarded,Unsuccessful,2,84,,
+499,418212,Ivan Basic,768,Bosnia and Herzegovina,58,SecondHalf,Pass,Successful,99.5,0.5,94.8,52.1
+500,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,58,SecondHalf,Aerial,Successful,94.8,52.1,,
+598,371027,Tajon Buchanan,1160,Canada,58,SecondHalf,Aerial,Unsuccessful,5.2,47.9,,
+501,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,58,SecondHalf,MissedShots,Successful,94.8,52.1,,
+600,137263,Maxime Crépeau,1160,Canada,58,SecondHalf,Pass,Successful,3.1,48.9,4.6,27.8
+621,492688,Luc De Fougerolles,1160,Canada,58,SecondHalf,Pass,Successful,7.1,30.6,11.7,9.5
+601,397859,Alistair Johnston,1160,Canada,58,SecondHalf,Pass,Unsuccessful,11.2,11.9,14.8,9.2
+815,428102,Amar Memic,768,Bosnia and Herzegovina,58,SecondHalf,BlockedPass,Successful,85.2,90.8,,
+944,397859,Alistair Johnston,1160,Canada,58,SecondHalf,Pass,Unsuccessful,14,12.5,28.5,8
+504,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,58,SecondHalf,BallRecovery,Successful,73.1,87.9,,
+505,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,58,SecondHalf,Dispossessed,Successful,72.8,86.1,,
+603,371027,Tajon Buchanan,1160,Canada,58,SecondHalf,Tackle,Unsuccessful,27.1,13.9,,
+506,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,58,SecondHalf,Pass,Unsuccessful,69.9,86.3,70.1,88.9
+604,371027,Tajon Buchanan,1160,Canada,58,SecondHalf,BlockedPass,Successful,29.9,11.1,,
+508,110260,Sead Kolasinac,768,Bosnia and Herzegovina,58,SecondHalf,Pass,Unsuccessful,63.4,100,71.7,82.6
+945,422851,Ismaël Koné,1160,Canada,58,SecondHalf,Interception,Successful,28.3,17.4,,
+606,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,BallRecovery,Successful,31.8,37.6,,
+946,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,Pass,Successful,31.3,37,24.4,50.2
+607,313012,Richie Laryea,1160,Canada,58,SecondHalf,Pass,Successful,29.5,73.8,21.4,70.5
+608,371029,Derek Cornelius,1160,Canada,58,SecondHalf,Pass,Unsuccessful,19.5,73.4,46.2,91.3
+819,418203,Amar Dedic,768,Bosnia and Herzegovina,58,SecondHalf,Pass,Successful,54.6,8.4,64.5,15.3
+510,418212,Ivan Basic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Successful,54.7,15.4,43.9,27.4
+511,363666,Nikola Katic,768,Bosnia and Herzegovina,59,SecondHalf,BallRecovery,Successful,43.2,30.3,,
+512,363666,Nikola Katic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Successful,43.2,30.3,56.8,41.5
+513,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Successful,56.8,41.5,58,25.3
+514,418212,Ivan Basic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Unsuccessful,60,25.6,74.8,23.1
+609,371029,Derek Cornelius,1160,Canada,59,SecondHalf,Interception,Successful,25.2,76.9,,
+610,371029,Derek Cornelius,1160,Canada,59,SecondHalf,BallRecovery,Successful,32.2,73,,
+611,371029,Derek Cornelius,1160,Canada,59,SecondHalf,Pass,Successful,32.2,73,42.8,94.8
+612,391821,Liam Millar,1160,Canada,59,SecondHalf,Pass,Successful,59.8,95.7,65,70.9
+613,351744,Stephen Eustaquio,1160,Canada,59,SecondHalf,Pass,Successful,68.9,85.5,76.2,97.5
+614,383855,Jonathan David,1160,Canada,59,SecondHalf,Pass,Successful,76.7,97,69.2,75.6
+615,422851,Ismaël Koné,1160,Canada,59,SecondHalf,Pass,Successful,69,76.3,73,91.6
+616,391821,Liam Millar,1160,Canada,59,SecondHalf,Pass,Unsuccessful,82.3,80.4,90.7,81.3
+516,418203,Amar Dedic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Unsuccessful,12.6,12.3,15.5,12.8
+617,391821,Liam Millar,1160,Canada,59,SecondHalf,BlockedPass,Successful,84.5,87.2,,
+517,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,59,SecondHalf,Pass,Successful,12.7,26.5,14.2,17.7
+518,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,59,SecondHalf,BallRecovery,Successful,14.6,17.3,,
+618,391821,Liam Millar,1160,Canada,59,SecondHalf,Challenge,Unsuccessful,84.2,83.2,,
+519,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,59,SecondHalf,TakeOn,Successful,15.8,16.8,,
+520,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,59,SecondHalf,TakeOn,Unsuccessful,18.1,10.3,,
+619,422851,Ismaël Koné,1160,Canada,59,SecondHalf,Tackle,Successful,81.9,89.7,,
+522,418203,Amar Dedic,768,Bosnia and Herzegovina,60,SecondHalf,Pass,Successful,26.1,0,36.3,2.5
+523,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,60,SecondHalf,Pass,Unsuccessful,32,4.5,64.8,25
+622,492688,Luc De Fougerolles,1160,Canada,60,SecondHalf,Pass,Unsuccessful,34.8,74.4,36.5,100
+624,391821,Liam Millar,1160,Canada,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+625,377467,Jacob Shaffelburg,1160,Canada,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+626,383855,Jonathan David,1160,Canada,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+627,532188,Promise David,1160,Canada,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+628,371027,Tajon Buchanan,1160,Canada,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+629,437419,Ali Ahmed,1160,Canada,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+691,,,1160,Canada,60,SecondHalf,FormationChange,Successful,0,0,,
+525,449011,Jovo Lukic,768,Bosnia and Herzegovina,61,SecondHalf,SubstitutionOff,Successful,0,0,,
+526,444331,Samed Bazdar,768,Bosnia and Herzegovina,61,SecondHalf,SubstitutionOn,Successful,0,0,,
+527,418212,Ivan Basic,768,Bosnia and Herzegovina,61,SecondHalf,SubstitutionOff,Successful,0,0,,
+528,404391,Armin Gigovic,768,Bosnia and Herzegovina,61,SecondHalf,SubstitutionOn,Successful,0,0,,
+529,418203,Amar Dedic,768,Bosnia and Herzegovina,61,SecondHalf,Pass,Successful,56.7,0,67.7,3.1
+530,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,61,SecondHalf,Pass,Unsuccessful,67.7,3.1,77.6,17
+631,371029,Derek Cornelius,1160,Canada,61,SecondHalf,Clearance,Successful,20.6,79.8,14.2,86.5
+632,313012,Richie Laryea,1160,Canada,61,SecondHalf,BallRecovery,Successful,13,91,,
+633,313012,Richie Laryea,1160,Canada,61,SecondHalf,Foul,Successful,14.1,94.4,,
+531,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,61,SecondHalf,Foul,Unsuccessful,85.8,5.6,,
+634,137263,Maxime Crépeau,1160,Canada,62,SecondHalf,Pass,Unsuccessful,23.1,79.8,70.6,92.4
+532,363666,Nikola Katic,768,Bosnia and Herzegovina,62,SecondHalf,Aerial,Successful,29.4,7.6,,
+635,532188,Promise David,1160,Canada,62,SecondHalf,Aerial,Unsuccessful,70.6,92.4,,
+533,363666,Nikola Katic,768,Bosnia and Herzegovina,62,SecondHalf,BallTouch,Successful,34.6,8.8,,
+637,313012,Richie Laryea,1160,Canada,62,SecondHalf,Pass,Successful,76.6,100,97.7,77.9
+769,437419,Ali Ahmed,1160,Canada,62,SecondHalf,BallTouch,Unsuccessful,97.4,78.1,,
+535,110260,Sead Kolasinac,768,Bosnia and Herzegovina,62,SecondHalf,Clearance,Successful,3.7,24.8,3.4,23.7
+638,437419,Ali Ahmed,1160,Canada,62,SecondHalf,Dispossessed,Successful,96.2,79.1,,
+536,363666,Nikola Katic,768,Bosnia and Herzegovina,62,SecondHalf,Tackle,Successful,3.8,20.9,,
+537,404391,Armin Gigovic,768,Bosnia and Herzegovina,62,SecondHalf,Foul,Successful,14.2,33.4,,
+639,532188,Promise David,1160,Canada,62,SecondHalf,Foul,Unsuccessful,85.8,66.6,,
+538,145304,Nikola Vasilj,768,Bosnia and Herzegovina,63,SecondHalf,Pass,Unsuccessful,21.8,33.3,69.6,32.2
+640,371029,Derek Cornelius,1160,Canada,63,SecondHalf,Aerial,Successful,30.4,67.8,,
+539,444331,Samed Bazdar,768,Bosnia and Herzegovina,63,SecondHalf,Aerial,Unsuccessful,69.6,32.2,,
+641,371029,Derek Cornelius,1160,Canada,63,SecondHalf,Pass,Unsuccessful,30.4,67.8,36.1,57.9
+540,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,63,SecondHalf,Pass,Successful,64.4,49,75.5,51.3
+555,428102,Amar Memic,768,Bosnia and Herzegovina,63,SecondHalf,BallTouch,Unsuccessful,65.4,55.2,,
+643,422851,Ismaël Koné,1160,Canada,63,SecondHalf,BallRecovery,Successful,28.9,53.8,,
+644,422851,Ismaël Koné,1160,Canada,63,SecondHalf,Pass,Successful,31.6,56.2,43,53
+645,445292,Tani Oluwaseyi,1160,Canada,63,SecondHalf,Pass,Successful,42.2,32.1,58.3,13.9
+646,437419,Ali Ahmed,1160,Canada,63,SecondHalf,Pass,Successful,62.9,15,77,4.8
+647,445292,Tani Oluwaseyi,1160,Canada,63,SecondHalf,Pass,Unsuccessful,78.5,3.1,79.9,3.6
+543,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,63,SecondHalf,BlockedPass,Successful,20.1,96.4,,
+649,437419,Ali Ahmed,1160,Canada,63,SecondHalf,Pass,Successful,69.1,0,58.6,17.1
+650,492688,Luc De Fougerolles,1160,Canada,63,SecondHalf,Pass,Successful,58.6,17.1,67,3.4
+545,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,63,SecondHalf,Challenge,Unsuccessful,26.9,83.6,,
+651,437419,Ali Ahmed,1160,Canada,63,SecondHalf,TakeOn,Successful,73.1,16.4,,
+652,437419,Ali Ahmed,1160,Canada,63,SecondHalf,Pass,Unsuccessful,78.2,25.8,79,27
+546,110260,Sead Kolasinac,768,Bosnia and Herzegovina,63,SecondHalf,BallTouch,Successful,21.7,71.4,,
+653,532188,Promise David,1160,Canada,63,SecondHalf,Dispossessed,Successful,88.9,41.7,,
+547,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,63,SecondHalf,Tackle,Successful,11.1,58.3,,
+548,145304,Nikola Vasilj,768,Bosnia and Herzegovina,63,SecondHalf,KeeperPickup,Successful,3.7,56.9,,
+549,145304,Nikola Vasilj,768,Bosnia and Herzegovina,63,SecondHalf,Pass,Successful,11.4,49.1,24.8,22.5
+591,418203,Amar Dedic,768,Bosnia and Herzegovina,63,SecondHalf,Pass,Successful,30.1,16.2,25.5,30.9
+550,363666,Nikola Katic,768,Bosnia and Herzegovina,64,SecondHalf,Pass,Successful,26.1,36.1,23.8,65.7
+551,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,64,SecondHalf,Pass,Successful,23.8,65.7,25.2,86
+552,110260,Sead Kolasinac,768,Bosnia and Herzegovina,64,SecondHalf,Pass,Successful,25.2,86,23.6,71.4
+553,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,64,SecondHalf,Pass,Successful,22.5,74.8,44.8,78.5
+554,444331,Samed Bazdar,768,Bosnia and Herzegovina,64,SecondHalf,Pass,Unsuccessful,44.8,78.5,69.1,93.8
+654,397859,Alistair Johnston,1160,Canada,64,SecondHalf,BallRecovery,Successful,33.1,2.1,,
+655,397859,Alistair Johnston,1160,Canada,64,SecondHalf,Pass,Successful,31.7,2.7,8.3,33.3
+656,137263,Maxime Crépeau,1160,Canada,64,SecondHalf,Pass,Successful,14.2,34.6,21.9,17.1
+657,492688,Luc De Fougerolles,1160,Canada,64,SecondHalf,Pass,Successful,21,13.5,47,11.2
+658,437419,Ali Ahmed,1160,Canada,64,SecondHalf,Pass,Successful,43.3,25.8,37.2,36
+659,351744,Stephen Eustaquio,1160,Canada,64,SecondHalf,Pass,Successful,35.8,37.3,47.3,46.2
+660,437419,Ali Ahmed,1160,Canada,64,SecondHalf,Pass,Successful,47.3,47.4,30.8,98.2
+661,371029,Derek Cornelius,1160,Canada,64,SecondHalf,Pass,Successful,32.5,97,35,71.4
+662,422851,Ismaël Koné,1160,Canada,64,SecondHalf,Pass,Successful,34.8,58.9,47.4,78.1
+663,371029,Derek Cornelius,1160,Canada,64,SecondHalf,Pass,Successful,67.8,86.2,95.1,94
+664,313012,Richie Laryea,1160,Canada,64,SecondHalf,Pass,Successful,90.7,83.7,80.1,66.3
+665,351744,Stephen Eustaquio,1160,Canada,64,SecondHalf,MissedShots,Successful,77.3,63.7,,
+557,145304,Nikola Vasilj,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Unsuccessful,3,59,70.9,88.4
+667,397859,Alistair Johnston,1160,Canada,65,SecondHalf,Aerial,Successful,29.1,11.6,,
+558,428102,Amar Memic,768,Bosnia and Herzegovina,65,SecondHalf,Aerial,Unsuccessful,70.9,88.4,,
+668,397859,Alistair Johnston,1160,Canada,65,SecondHalf,Clearance,Successful,29.1,11.6,30.7,3.6
+559,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Successful,70.7,94.1,61,91.8
+560,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Successful,61,91.8,52.9,94.7
+561,110260,Sead Kolasinac,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Successful,52.9,94.7,53.4,80
+562,404391,Armin Gigovic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Unsuccessful,53.6,79.5,49.1,89.5
+669,445292,Tani Oluwaseyi,1160,Canada,65,SecondHalf,BallRecovery,Successful,51.4,10.1,,
+670,445292,Tani Oluwaseyi,1160,Canada,65,SecondHalf,Pass,Unsuccessful,57.5,14.5,59,48
+563,418203,Amar Dedic,768,Bosnia and Herzegovina,65,SecondHalf,Clearance,Successful,40.9,54.6,60.4,81
+564,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Successful,60.7,83.6,57.2,73
+565,404391,Armin Gigovic,768,Bosnia and Herzegovina,65,SecondHalf,BallRecovery,Successful,57.2,73.6,,
+566,404391,Armin Gigovic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Successful,57.2,73.6,68.1,92.7
+567,428102,Amar Memic,768,Bosnia and Herzegovina,65,SecondHalf,Pass,Unsuccessful,68.1,92.9,86,49.6
+671,137263,Maxime Crépeau,1160,Canada,65,SecondHalf,BallRecovery,Successful,14.5,47.7,,
+672,137263,Maxime Crépeau,1160,Canada,65,SecondHalf,Pass,Successful,15.2,50.1,25.9,73.3
+673,313012,Richie Laryea,1160,Canada,65,SecondHalf,Pass,Successful,43.2,76.9,80.5,97.2
+674,377467,Jacob Shaffelburg,1160,Canada,65,SecondHalf,Pass,Successful,98,96.5,95.2,43
+675,445292,Tani Oluwaseyi,1160,Canada,65,SecondHalf,Aerial,Successful,95.2,43,,
+568,110260,Sead Kolasinac,768,Bosnia and Herzegovina,65,SecondHalf,Aerial,Unsuccessful,4.8,57,,
+676,445292,Tani Oluwaseyi,1160,Canada,65,SecondHalf,SavedShot,Successful,95.2,43,,
+569,363666,Nikola Katic,768,Bosnia and Herzegovina,65,SecondHalf,Save,Successful,0.9,50.2,,
+570,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,65,SecondHalf,Clearance,Successful,6.5,50.1,8.1,62.2
+571,428102,Amar Memic,768,Bosnia and Herzegovina,65,SecondHalf,Clearance,Successful,8.1,62.8,15.2,65.6
+572,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,66,SecondHalf,Clearance,Successful,16,65,37.5,68.9
+949,492688,Luc De Fougerolles,1160,Canada,66,SecondHalf,TakeOn,Unsuccessful,60.8,29.1,,
+677,492688,Luc De Fougerolles,1160,Canada,66,SecondHalf,Foul,Successful,60.2,27.6,,
+573,444331,Samed Bazdar,768,Bosnia and Herzegovina,66,SecondHalf,Foul,Unsuccessful,39.8,72.4,,
+678,422851,Ismaël Koné,1160,Canada,66,SecondHalf,Pass,Successful,66.7,26.1,75.9,7.9
+679,437419,Ali Ahmed,1160,Canada,66,SecondHalf,Pass,Successful,85.3,25,96.6,31
+680,351744,Stephen Eustaquio,1160,Canada,66,SecondHalf,Pass,Unsuccessful,99,29.7,95.8,39.4
+574,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,66,SecondHalf,Clearance,Successful,3.8,59.5,2.6,71.6
+681,437419,Ali Ahmed,1160,Canada,66,SecondHalf,Pass,Unsuccessful,97.7,27.8,79.8,100
+576,418203,Amar Dedic,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Unsuccessful,29.7,0,41.8,5
+683,313012,Richie Laryea,1160,Canada,67,SecondHalf,Pass,Unsuccessful,57.9,93.7,63,85.5
+577,404391,Armin Gigovic,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Successful,36.9,24,46.7,24.1
+578,444331,Samed Bazdar,768,Bosnia and Herzegovina,67,SecondHalf,BallTouch,Successful,46.7,24.1,,
+579,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Successful,55.7,28.2,79.5,4.9
+580,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Unsuccessful,83.5,30.7,86.4,31.8
+684,313012,Richie Laryea,1160,Canada,67,SecondHalf,BlockedPass,Successful,13.6,68.2,,
+581,110260,Sead Kolasinac,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Successful,73.4,78.3,92.6,26.7
+582,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,67,SecondHalf,Pass,Unsuccessful,92.6,26.7,96.6,44.8
+685,137263,Maxime Crépeau,1160,Canada,67,SecondHalf,KeeperPickup,Successful,2.6,56.8,,
+686,137263,Maxime Crépeau,1160,Canada,67,SecondHalf,Pass,Successful,14.9,60.3,33.8,59.1
+687,422851,Ismaël Koné,1160,Canada,67,SecondHalf,Pass,Successful,33.6,56.8,39,45.9
+688,351744,Stephen Eustaquio,1160,Canada,67,SecondHalf,Pass,Successful,52.6,38.5,66,11.9
+689,437419,Ali Ahmed,1160,Canada,67,SecondHalf,Pass,Unsuccessful,66.9,17.4,69.8,19
+583,110260,Sead Kolasinac,768,Bosnia and Herzegovina,67,SecondHalf,BallTouch,Successful,35,80.3,,
+584,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,67,SecondHalf,Clearance,Successful,26.2,73.2,30.3,75.8
+690,445292,Tani Oluwaseyi,1160,Canada,67,SecondHalf,Foul,Successful,69.8,23,,
+586,110260,Sead Kolasinac,768,Bosnia and Herzegovina,67,SecondHalf,Foul,Unsuccessful,30.2,77,,
+692,437419,Ali Ahmed,1160,Canada,68,SecondHalf,Pass,Unsuccessful,73.4,30.3,90,46.2
+587,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,68,SecondHalf,Clearance,Successful,9.4,55.2,3,26.2
+588,110260,Sead Kolasinac,768,Bosnia and Herzegovina,68,SecondHalf,BallRecovery,Successful,2.1,24.2,,
+589,110260,Sead Kolasinac,768,Bosnia and Herzegovina,68,SecondHalf,Foul,Successful,6.8,6.8,,
+694,492688,Luc De Fougerolles,1160,Canada,68,SecondHalf,Foul,Unsuccessful,93.3,93.2,,
+594,145304,Nikola Vasilj,768,Bosnia and Herzegovina,71,SecondHalf,Pass,Unsuccessful,11.4,19.2,66.2,25
+697,371029,Derek Cornelius,1160,Canada,71,SecondHalf,Pass,Unsuccessful,34.6,75.2,57.3,78.9
+595,363666,Nikola Katic,768,Bosnia and Herzegovina,71,SecondHalf,Clearance,Successful,43.7,21.7,57.6,0
+699,313012,Richie Laryea,1160,Canada,71,SecondHalf,Pass,Unsuccessful,52.3,100,69.5,92.2
+597,363666,Nikola Katic,768,Bosnia and Herzegovina,71,SecondHalf,Interception,Successful,30.5,7.8,,
+700,351744,Stephen Eustaquio,1160,Canada,71,SecondHalf,Pass,Successful,65.2,91.6,59.6,97.2
+701,313012,Richie Laryea,1160,Canada,71,SecondHalf,Pass,Unsuccessful,58.4,96.9,85.2,82.3
+598,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,72,SecondHalf,Clearance,Successful,12.2,13.5,34.4,0
+703,313012,Richie Laryea,1160,Canada,72,SecondHalf,Pass,Successful,71.6,100,55.2,73.3
+704,371029,Derek Cornelius,1160,Canada,72,SecondHalf,Pass,Successful,54.2,71.8,45.8,54.7
+705,492688,Luc De Fougerolles,1160,Canada,72,SecondHalf,Pass,Unsuccessful,45.8,55.9,53,57.1
+600,404391,Armin Gigovic,768,Bosnia and Herzegovina,72,SecondHalf,Interception,Successful,47,42.9,,
+601,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,72,SecondHalf,BallRecovery,Successful,39.4,64.2,,
+602,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,72,SecondHalf,Pass,Successful,39.4,64.2,69.2,44
+603,444331,Samed Bazdar,768,Bosnia and Herzegovina,72,SecondHalf,Pass,Unsuccessful,69.2,44,72.3,75.3
+706,397859,Alistair Johnston,1160,Canada,72,SecondHalf,Pass,Successful,27.1,25.3,33.8,10
+707,437419,Ali Ahmed,1160,Canada,72,SecondHalf,BallRecovery,Successful,36.6,7.5,,
+708,437419,Ali Ahmed,1160,Canada,72,SecondHalf,Pass,Unsuccessful,44.9,4.5,45.6,7.2
+824,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,72,SecondHalf,BlockedPass,Successful,54.4,92.8,,
+709,437419,Ali Ahmed,1160,Canada,72,SecondHalf,BallTouch,Successful,57.1,4.5,,
+604,110260,Sead Kolasinac,768,Bosnia and Herzegovina,72,SecondHalf,BallTouch,Successful,51.2,96.2,,
+825,110260,Sead Kolasinac,768,Bosnia and Herzegovina,72,SecondHalf,BallTouch,Successful,44,96,,
+605,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,72,SecondHalf,BallRecovery,Successful,46.6,93.2,,
+606,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,72,SecondHalf,Pass,Successful,45.4,85.4,44,73.8
+607,404391,Armin Gigovic,768,Bosnia and Herzegovina,72,SecondHalf,Pass,Successful,44.4,73.8,35.8,90.8
+608,428102,Amar Memic,768,Bosnia and Herzegovina,72,SecondHalf,Pass,Unsuccessful,33.3,88.3,63,30
+710,313012,Richie Laryea,1160,Canada,72,SecondHalf,Aerial,Successful,37,70,,
+609,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,72,SecondHalf,Aerial,Unsuccessful,63,30,,
+711,313012,Richie Laryea,1160,Canada,72,SecondHalf,Pass,Successful,37,70,46.1,71.2
+712,377467,Jacob Shaffelburg,1160,Canada,72,SecondHalf,BallRecovery,Successful,43.1,73.5,,
+713,377467,Jacob Shaffelburg,1160,Canada,72,SecondHalf,Pass,Unsuccessful,43.1,73.5,43.5,66.1
+714,422851,Ismaël Koné,1160,Canada,72,SecondHalf,Challenge,Unsuccessful,42.6,67.1,,
+610,444331,Samed Bazdar,768,Bosnia and Herzegovina,72,SecondHalf,TakeOn,Successful,57.4,32.9,,
+611,444331,Samed Bazdar,768,Bosnia and Herzegovina,72,SecondHalf,BallRecovery,Successful,56.6,34.9,,
+612,444331,Samed Bazdar,768,Bosnia and Herzegovina,72,SecondHalf,Foul,Successful,53.2,39,,
+716,422851,Ismaël Koné,1160,Canada,72,SecondHalf,Foul,Unsuccessful,46.8,61,,
+613,363666,Nikola Katic,768,Bosnia and Herzegovina,73,SecondHalf,Pass,Successful,53.1,40.3,47.2,57.9
+614,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,73,SecondHalf,Pass,Successful,48.7,62,54.3,89.7
+615,110260,Sead Kolasinac,768,Bosnia and Herzegovina,73,SecondHalf,Pass,Successful,55.6,91.2,66.7,93.9
+616,428102,Amar Memic,768,Bosnia and Herzegovina,73,SecondHalf,Dispossessed,Successful,65.3,95.4,,
+717,437419,Ali Ahmed,1160,Canada,73,SecondHalf,Tackle,Unsuccessful,34.7,4.6,,
+658,428102,Amar Memic,768,Bosnia and Herzegovina,73,SecondHalf,BallTouch,Successful,60.2,94.2,,
+718,437419,Ali Ahmed,1160,Canada,73,SecondHalf,BallRecovery,Successful,37.7,1.6,,
+719,437419,Ali Ahmed,1160,Canada,73,SecondHalf,Pass,Successful,37.7,1.6,39.5,12.7
+720,351744,Stephen Eustaquio,1160,Canada,73,SecondHalf,Foul,Successful,42.6,11.6,,
+617,110260,Sead Kolasinac,768,Bosnia and Herzegovina,73,SecondHalf,Foul,Unsuccessful,57.4,88.4,,
+618,445302,Esmir Bajraktarevic,768,Bosnia and Herzegovina,73,SecondHalf,SubstitutionOff,Successful,0,0,,
+619,363683,Ivan Sunjic,768,Bosnia and Herzegovina,73,SecondHalf,SubstitutionOn,Successful,0,0,,
+620,428102,Amar Memic,768,Bosnia and Herzegovina,73,SecondHalf,SubstitutionOff,Successful,0,0,,
+621,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,73,SecondHalf,SubstitutionOn,Successful,0,0,,
+624,,,768,Bosnia and Herzegovina,73,SecondHalf,FormationChange,Successful,0,0,,
+951,351744,Stephen Eustaquio,1160,Canada,73,SecondHalf,Pass,Successful,43.8,8.4,39.8,25.9
+722,492688,Luc De Fougerolles,1160,Canada,73,SecondHalf,Pass,Successful,41.9,32.5,44.6,57.5
+723,371029,Derek Cornelius,1160,Canada,73,SecondHalf,Pass,Successful,60.6,70.9,75.2,96.6
+724,377467,Jacob Shaffelburg,1160,Canada,74,SecondHalf,BallTouch,Unsuccessful,93,96.4,,
+625,145304,Nikola Vasilj,768,Bosnia and Herzegovina,74,SecondHalf,Pass,Unsuccessful,4.7,54.2,56.3,70.3
+726,351744,Stephen Eustaquio,1160,Canada,74,SecondHalf,BallTouch,Successful,44.3,29.2,,
+727,397859,Alistair Johnston,1160,Canada,74,SecondHalf,Pass,Successful,39.8,22.9,44.4,33.7
+728,422851,Ismaël Koné,1160,Canada,74,SecondHalf,BallTouch,Unsuccessful,44.6,33.7,,
+626,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,74,SecondHalf,Pass,Unsuccessful,65.1,60.3,71.5,55.4
+729,371029,Derek Cornelius,1160,Canada,74,SecondHalf,BlockedPass,Successful,28.5,44.6,,
+730,422851,Ismaël Koné,1160,Canada,74,SecondHalf,Pass,Unsuccessful,44.9,49.6,53.7,54.6
+627,418203,Amar Dedic,768,Bosnia and Herzegovina,74,SecondHalf,Pass,Unsuccessful,45.6,45.8,71.2,44.9
+731,492688,Luc De Fougerolles,1160,Canada,74,SecondHalf,Aerial,Successful,28.8,55.1,,
+628,444331,Samed Bazdar,768,Bosnia and Herzegovina,74,SecondHalf,Aerial,Unsuccessful,71.2,44.9,,
+732,492688,Luc De Fougerolles,1160,Canada,74,SecondHalf,Clearance,Successful,28.8,55.1,49.6,78.6
+734,377467,Jacob Shaffelburg,1160,Canada,74,SecondHalf,BallRecovery,Successful,49.4,76.9,,
+733,377467,Jacob Shaffelburg,1160,Canada,74,SecondHalf,Dispossessed,Successful,57,91.8,,
+629,404391,Armin Gigovic,768,Bosnia and Herzegovina,74,SecondHalf,Tackle,Successful,43,8.2,,
+630,404391,Armin Gigovic,768,Bosnia and Herzegovina,74,SecondHalf,BallRecovery,Successful,39.5,4.7,,
+631,404391,Armin Gigovic,768,Bosnia and Herzegovina,74,SecondHalf,Pass,Successful,39.5,4.7,39.6,12.8
+632,418203,Amar Dedic,768,Bosnia and Herzegovina,74,SecondHalf,Pass,Successful,39.5,25.5,30.5,60.2
+633,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,30.8,63.7,33.8,86.9
+634,110260,Sead Kolasinac,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,33.8,86.9,46.4,88.1
+635,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,46.4,88.1,41.1,83.9
+636,110260,Sead Kolasinac,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,40.1,82.1,35.9,75.6
+637,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,35.9,75.6,23.9,80.8
+638,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,23.9,80.8,32,71.2
+639,363683,Ivan Sunjic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,35.6,73,48.7,87.4
+640,110260,Sead Kolasinac,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,56.2,87.7,64.1,74.8
+735,437419,Ali Ahmed,1160,Canada,75,SecondHalf,Challenge,Unsuccessful,36,13.4,,
+641,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,75,SecondHalf,TakeOn,Successful,64,86.6,,
+643,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,55.7,93.9,40.4,78.8
+644,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,35.4,67.8,35.9,34.2
+645,363666,Nikola Katic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,37.3,33,43.4,13.1
+646,418203,Amar Dedic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,43.3,13.2,44.3,22.7
+647,404391,Armin Gigovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,44.3,22.7,60.8,11.9
+648,444331,Samed Bazdar,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,61,12.9,66.7,24.4
+649,404391,Armin Gigovic,768,Bosnia and Herzegovina,75,SecondHalf,TakeOn,Unsuccessful,64.7,25.6,,
+737,371029,Derek Cornelius,1160,Canada,75,SecondHalf,Tackle,Unsuccessful,35.3,74.4,,
+650,363683,Ivan Sunjic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,51.7,40.4,43.5,50.7
+651,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Successful,43.5,51.3,47.5,83.8
+652,110260,Sead Kolasinac,768,Bosnia and Herzegovina,75,SecondHalf,Pass,Unsuccessful,50.5,91.2,53.6,91.4
+738,437419,Ali Ahmed,1160,Canada,75,SecondHalf,BlockedPass,Successful,46.4,8.6,,
+740,445292,Tani Oluwaseyi,1160,Canada,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+741,273229,Cyle Larin,1160,Canada,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+749,,,1160,Canada,76,SecondHalf,FormationChange,Successful,0,0,,
+654,110260,Sead Kolasinac,768,Bosnia and Herzegovina,76,SecondHalf,Pass,Successful,48.6,100,64.1,86.6
+655,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,76,SecondHalf,Aerial,Successful,64.1,86.6,,
+742,492688,Luc De Fougerolles,1160,Canada,76,SecondHalf,Aerial,Unsuccessful,35.9,13.4,,
+656,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,76,SecondHalf,Pass,Unsuccessful,64.1,86.6,66,86.5
+743,397859,Alistair Johnston,1160,Canada,76,SecondHalf,Foul,Successful,31.4,17.8,,
+657,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,76,SecondHalf,Foul,Unsuccessful,68.6,82.2,,
+744,492688,Luc De Fougerolles,1160,Canada,76,SecondHalf,Pass,Unsuccessful,34.8,22.5,74.8,27.4
+659,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,76,SecondHalf,Aerial,Successful,25.2,72.6,,
+745,532188,Promise David,1160,Canada,76,SecondHalf,Aerial,Unsuccessful,74.8,27.4,,
+660,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,76,SecondHalf,Clearance,Successful,25.2,72.6,39.7,71.1
+661,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,76,SecondHalf,BallTouch,Unsuccessful,39.7,71.1,,
+746,397859,Alistair Johnston,1160,Canada,76,SecondHalf,Pass,Successful,58.5,13,66.6,9.1
+747,437419,Ali Ahmed,1160,Canada,76,SecondHalf,Pass,Unsuccessful,70.3,19.9,91.6,38.7
+662,145304,Nikola Vasilj,768,Bosnia and Herzegovina,76,SecondHalf,KeeperPickup,Successful,9.3,58.8,,
+663,145304,Nikola Vasilj,768,Bosnia and Herzegovina,76,SecondHalf,Pass,Successful,13,60.9,21.8,89.9
+664,110260,Sead Kolasinac,768,Bosnia and Herzegovina,76,SecondHalf,Pass,Unsuccessful,23.2,94.2,39.1,100
+750,397859,Alistair Johnston,1160,Canada,77,SecondHalf,Pass,Successful,66.9,0,53.9,5.8
+751,422851,Ismaël Koné,1160,Canada,77,SecondHalf,Pass,Successful,54.8,16.9,44.9,40.6
+752,492688,Luc De Fougerolles,1160,Canada,77,SecondHalf,Pass,Successful,45.5,42.4,51.3,66.4
+753,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,54.6,66.7,46.7,52
+754,492688,Luc De Fougerolles,1160,Canada,77,SecondHalf,Pass,Successful,46.5,42.3,53.1,30.7
+755,422851,Ismaël Koné,1160,Canada,77,SecondHalf,Pass,Successful,56.8,22.2,48.5,36.7
+756,492688,Luc De Fougerolles,1160,Canada,77,SecondHalf,Pass,Successful,48.2,37.6,54.8,64.2
+757,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,55.3,65.4,72.8,96.3
+758,377467,Jacob Shaffelburg,1160,Canada,77,SecondHalf,Pass,Successful,73.1,96.3,63.2,80.5
+759,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,61.6,80.2,67.9,73.3
+760,351744,Stephen Eustaquio,1160,Canada,77,SecondHalf,Pass,Successful,67.9,73.3,61.7,77.8
+761,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,61.6,76.8,68.7,70
+762,422851,Ismaël Koné,1160,Canada,77,SecondHalf,Pass,Successful,70,70.8,60.4,70
+763,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,59.5,69.4,65.2,81.1
+764,422851,Ismaël Koné,1160,Canada,77,SecondHalf,Pass,Successful,66.4,80.5,58.4,70
+765,371029,Derek Cornelius,1160,Canada,77,SecondHalf,Pass,Successful,61.7,71.7,67.4,88.3
+766,422851,Ismaël Koné,1160,Canada,77,SecondHalf,Pass,Successful,73.1,66,78.4,56.7
+767,532188,Promise David,1160,Canada,77,SecondHalf,Pass,Successful,78.4,56.7,84.7,54.1
+768,273229,Cyle Larin,1160,Canada,77,SecondHalf,Goal,Successful,85.4,52,,
+666,404391,Armin Gigovic,768,Bosnia and Herzegovina,79,SecondHalf,Pass,Successful,50.3,49.9,32,53.1
+667,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,79,SecondHalf,Pass,Successful,32,53.1,31.7,38
+668,363666,Nikola Katic,768,Bosnia and Herzegovina,79,SecondHalf,Pass,Successful,31.7,38,30.9,54.8
+669,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,79,SecondHalf,Pass,Successful,29.8,54.5,30.6,30.6
+670,363666,Nikola Katic,768,Bosnia and Herzegovina,79,SecondHalf,Pass,Successful,30.6,30.6,17.3,49.4
+671,145304,Nikola Vasilj,768,Bosnia and Herzegovina,80,SecondHalf,Pass,Successful,21.3,43.9,30.5,11.7
+672,363666,Nikola Katic,768,Bosnia and Herzegovina,80,SecondHalf,Pass,Unsuccessful,37.5,9,66.1,28.2
+673,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,80,SecondHalf,Aerial,Successful,66.1,28.2,,
+770,371029,Derek Cornelius,1160,Canada,80,SecondHalf,Aerial,Unsuccessful,33.9,71.8,,
+827,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,80,SecondHalf,Pass,Unsuccessful,66.1,28.2,67.5,30
+771,371029,Derek Cornelius,1160,Canada,80,SecondHalf,BallTouch,Successful,37.2,68.7,,
+772,492688,Luc De Fougerolles,1160,Canada,80,SecondHalf,Pass,Successful,26.8,65,73.9,61.7
+773,273229,Cyle Larin,1160,Canada,80,SecondHalf,BallTouch,Successful,73.6,59.4,,
+774,532188,Promise David,1160,Canada,80,SecondHalf,BallRecovery,Successful,74,51.4,,
+775,532188,Promise David,1160,Canada,80,SecondHalf,MissedShots,Successful,76,53.4,,
+676,145304,Nikola Vasilj,768,Bosnia and Herzegovina,80,SecondHalf,Pass,Unsuccessful,4.8,38.9,56.1,10.3
+777,371029,Derek Cornelius,1160,Canada,81,SecondHalf,Aerial,Successful,43.9,89.7,,
+677,444331,Samed Bazdar,768,Bosnia and Herzegovina,81,SecondHalf,Aerial,Unsuccessful,56.1,10.3,,
+778,371029,Derek Cornelius,1160,Canada,81,SecondHalf,Pass,Unsuccessful,43.9,89.7,44,90.4
+678,444331,Samed Bazdar,768,Bosnia and Herzegovina,81,SecondHalf,BallTouch,Successful,55.7,11.7,,
+679,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,Aerial,Successful,54.7,14.1,,
+779,351744,Stephen Eustaquio,1160,Canada,81,SecondHalf,Aerial,Unsuccessful,45.3,85.9,,
+680,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Unsuccessful,54,15.4,61.8,11.5
+780,313012,Richie Laryea,1160,Canada,81,SecondHalf,Pass,Unsuccessful,37.9,87.3,53.7,75
+681,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Unsuccessful,45.6,24.9,61.7,17.9
+781,371029,Derek Cornelius,1160,Canada,81,SecondHalf,Pass,Successful,42.7,81,55.9,93.6
+782,377467,Jacob Shaffelburg,1160,Canada,81,SecondHalf,BallTouch,Unsuccessful,58.7,93.6,,
+702,418203,Amar Dedic,768,Bosnia and Herzegovina,81,SecondHalf,ShieldBallOpp,Successful,36.8,1.5,,
+683,418203,Amar Dedic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,35.3,0,42.9,5
+684,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,42.9,5,36.8,3.4
+685,418203,Amar Dedic,768,Bosnia and Herzegovina,81,SecondHalf,TakeOn,Unsuccessful,43.4,8.8,,
+784,351744,Stephen Eustaquio,1160,Canada,81,SecondHalf,Tackle,Unsuccessful,56.6,91.2,,
+686,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,35.3,4.1,44.6,2.8
+687,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,TakeOn,Successful,46.7,4.8,,
+785,422851,Ismaël Koné,1160,Canada,81,SecondHalf,Challenge,Unsuccessful,53.3,95.2,,
+688,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,46.4,3.7,44.4,8.6
+689,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,58.4,12.2,60.8,24.9
+690,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,81,SecondHalf,BallTouch,Unsuccessful,60.8,25,,
+786,371029,Derek Cornelius,1160,Canada,81,SecondHalf,BallRecovery,Successful,42.4,67.6,,
+787,371029,Derek Cornelius,1160,Canada,81,SecondHalf,Pass,Successful,43.4,70.3,48.4,84
+788,377467,Jacob Shaffelburg,1160,Canada,81,SecondHalf,Pass,Unsuccessful,48.6,83.8,76.9,62.6
+691,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,24.9,38.7,8.8,45.5
+692,145304,Nikola Vasilj,768,Bosnia and Herzegovina,81,SecondHalf,BallRecovery,Successful,8.8,45.5,,
+693,145304,Nikola Vasilj,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,8.1,45.4,26.1,2.1
+736,418203,Amar Dedic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Unsuccessful,24.4,1.5,23.8,3.9
+789,532188,Promise David,1160,Canada,81,SecondHalf,BallRecovery,Successful,68.4,97.3,,
+790,532188,Promise David,1160,Canada,81,SecondHalf,Pass,Unsuccessful,69.1,97.1,69.7,95.7
+695,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,BlockedPass,Successful,30.3,4.3,,
+798,532188,Promise David,1160,Canada,81,SecondHalf,BallTouch,Successful,70.7,96.5,,
+696,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,BallRecovery,Successful,37.4,1.9,,
+697,363683,Ivan Sunjic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Successful,37.7,1.7,39.7,14.3
+698,404391,Armin Gigovic,768,Bosnia and Herzegovina,81,SecondHalf,Pass,Unsuccessful,41.1,17.7,68.5,74.8
+791,397859,Alistair Johnston,1160,Canada,82,SecondHalf,BallRecovery,Successful,9.3,7,,
+792,397859,Alistair Johnston,1160,Canada,82,SecondHalf,Pass,Unsuccessful,9.9,4.3,45.3,7.2
+699,110260,Sead Kolasinac,768,Bosnia and Herzegovina,82,SecondHalf,Pass,Unsuccessful,52.3,84.7,50.9,70.3
+794,437419,Ali Ahmed,1160,Canada,82,SecondHalf,Pass,Unsuccessful,52.7,26.4,100,9.3
+707,110260,Sead Kolasinac,768,Bosnia and Herzegovina,83,SecondHalf,SubstitutionOff,Successful,0,0,,
+708,306672,Dzenis Burnic,768,Bosnia and Herzegovina,83,SecondHalf,SubstitutionOn,Successful,0,0,,
+785,,,768,Bosnia and Herzegovina,83,SecondHalf,FormationChange,Successful,0,0,,
+704,145304,Nikola Vasilj,768,Bosnia and Herzegovina,83,SecondHalf,Pass,Unsuccessful,5,63,61.1,79
+800,492688,Luc De Fougerolles,1160,Canada,83,SecondHalf,Pass,Unsuccessful,40.4,20.1,45.3,21.4
+705,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,83,SecondHalf,Aerial,Successful,54.7,78.6,,
+801,422851,Ismaël Koné,1160,Canada,83,SecondHalf,Aerial,Unsuccessful,45.3,21.4,,
+706,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,83,SecondHalf,BallTouch,Unsuccessful,60.5,76.3,,
+803,422851,Ismaël Koné,1160,Canada,83,SecondHalf,Pass,Successful,42.7,15.9,45.3,6.1
+804,437419,Ali Ahmed,1160,Canada,83,SecondHalf,Pass,Unsuccessful,44.4,6.9,64.9,10.3
+709,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,83,SecondHalf,Clearance,Successful,32.5,89.9,53.3,89.5
+710,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,83,SecondHalf,Pass,Successful,53.3,92.2,62,85.9
+737,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,83,SecondHalf,Pass,Successful,64.2,85.9,70.2,93.5
+711,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,83,SecondHalf,TakeOn,Unsuccessful,66.4,96.1,,
+805,492688,Luc De Fougerolles,1160,Canada,83,SecondHalf,Tackle,Successful,33.6,3.9,,
+713,306672,Dzenis Burnic,768,Bosnia and Herzegovina,84,SecondHalf,Pass,Unsuccessful,67.4,100,80.4,87.5
+807,492688,Luc De Fougerolles,1160,Canada,84,SecondHalf,BallTouch,Successful,17.9,13.5,,
+808,397859,Alistair Johnston,1160,Canada,84,SecondHalf,Pass,Unsuccessful,17.3,6.3,30.3,13
+714,363683,Ivan Sunjic,768,Bosnia and Herzegovina,84,SecondHalf,Aerial,Successful,69.7,87,,
+809,437419,Ali Ahmed,1160,Canada,84,SecondHalf,Aerial,Unsuccessful,30.3,13,,
+715,363683,Ivan Sunjic,768,Bosnia and Herzegovina,84,SecondHalf,Pass,Unsuccessful,69.7,87,73,76.7
+810,422851,Ismaël Koné,1160,Canada,84,SecondHalf,BallRecovery,Successful,27,33,,
+811,422851,Ismaël Koné,1160,Canada,84,SecondHalf,Pass,Successful,27.3,31.9,25.2,58.6
+812,313012,Richie Laryea,1160,Canada,84,SecondHalf,BallTouch,Unsuccessful,25.9,59.4,,
+716,444331,Samed Bazdar,768,Bosnia and Herzegovina,84,SecondHalf,BallRecovery,Successful,73.9,29.4,,
+717,444331,Samed Bazdar,768,Bosnia and Herzegovina,84,SecondHalf,TakeOn,Unsuccessful,88,26.6,,
+813,313012,Richie Laryea,1160,Canada,84,SecondHalf,Tackle,Successful,12,73.4,,
+718,444331,Samed Bazdar,768,Bosnia and Herzegovina,84,SecondHalf,CornerAwarded,Successful,95.1,25.4,,
+814,313012,Richie Laryea,1160,Canada,84,SecondHalf,CornerAwarded,Unsuccessful,5,74.6,,
+719,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,84,SecondHalf,Pass,Unsuccessful,99.5,0.5,93.2,50.7
+815,273229,Cyle Larin,1160,Canada,84,SecondHalf,Aerial,Successful,6.8,49.3,,
+816,444331,Samed Bazdar,768,Bosnia and Herzegovina,84,SecondHalf,Aerial,Unsuccessful,93.2,50.7,,
+816,273229,Cyle Larin,1160,Canada,84,SecondHalf,Clearance,Successful,6.8,49.3,26.9,38.8
+720,306672,Dzenis Burnic,768,Bosnia and Herzegovina,84,SecondHalf,SavedShot,Successful,76,56.7,,
+763,306672,Dzenis Burnic,768,Bosnia and Herzegovina,84,SecondHalf,BallTouch,Successful,76.5,59.3,,
+721,306672,Dzenis Burnic,768,Bosnia and Herzegovina,84,SecondHalf,Pass,Successful,75,63.3,91.8,21.5
+722,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,85,SecondHalf,TakeOn,Unsuccessful,90.2,31.1,,
+817,351744,Stephen Eustaquio,1160,Canada,85,SecondHalf,BallRecovery,Successful,22.5,71.2,,
+818,351744,Stephen Eustaquio,1160,Canada,85,SecondHalf,Pass,Successful,25.8,92.7,54.1,95.4
+819,377467,Jacob Shaffelburg,1160,Canada,85,SecondHalf,Dispossessed,Successful,56,94.9,,
+723,418203,Amar Dedic,768,Bosnia and Herzegovina,85,SecondHalf,Tackle,Successful,44,5.1,,
+821,313012,Richie Laryea,1160,Canada,85,SecondHalf,Pass,Successful,56.2,100,71.8,92.7
+824,532188,Promise David,1160,Canada,85,SecondHalf,Aerial,Successful,71.8,92.7,,
+725,363666,Nikola Katic,768,Bosnia and Herzegovina,85,SecondHalf,Aerial,Unsuccessful,28.2,7.3,,
+822,532188,Promise David,1160,Canada,85,SecondHalf,Pass,Unsuccessful,71.8,92.7,78.2,100
+728,418203,Amar Dedic,768,Bosnia and Herzegovina,85,SecondHalf,Pass,Successful,22,0,36.5,8
+729,404391,Armin Gigovic,768,Bosnia and Herzegovina,85,SecondHalf,Pass,Unsuccessful,36.5,8,32.2,6.8
+825,351744,Stephen Eustaquio,1160,Canada,85,SecondHalf,BallTouch,Successful,73.5,88.2,,
+826,532188,Promise David,1160,Canada,85,SecondHalf,Dispossessed,Successful,69.1,91.6,,
+730,404391,Armin Gigovic,768,Bosnia and Herzegovina,85,SecondHalf,Tackle,Successful,30.9,8.4,,
+731,404391,Armin Gigovic,768,Bosnia and Herzegovina,86,SecondHalf,Dispossessed,Successful,32.3,5.8,,
+828,532188,Promise David,1160,Canada,86,SecondHalf,Tackle,Unsuccessful,67.7,94.2,,
+829,351744,Stephen Eustaquio,1160,Canada,86,SecondHalf,BallTouch,Successful,72.5,92.8,,
+732,363683,Ivan Sunjic,768,Bosnia and Herzegovina,86,SecondHalf,Pass,Unsuccessful,30.2,10.1,47.9,11.9
+830,371029,Derek Cornelius,1160,Canada,86,SecondHalf,Pass,Unsuccessful,52.1,85.7,64.4,90.6
+733,404391,Armin Gigovic,768,Bosnia and Herzegovina,86,SecondHalf,BallTouch,Successful,34,8,,
+734,363666,Nikola Katic,768,Bosnia and Herzegovina,86,SecondHalf,Clearance,Successful,1.6,9.6,6.1,0
+832,397859,Alistair Johnston,1160,Canada,86,SecondHalf,Pass,Unsuccessful,93.6,100,91,58.6
+738,363666,Nikola Katic,768,Bosnia and Herzegovina,86,SecondHalf,Aerial,Successful,9,41.4,,
+833,492688,Luc De Fougerolles,1160,Canada,86,SecondHalf,Aerial,Unsuccessful,91,58.6,,
+739,363666,Nikola Katic,768,Bosnia and Herzegovina,86,SecondHalf,Clearance,Successful,9,41.4,31.8,22.4
+834,351744,Stephen Eustaquio,1160,Canada,86,SecondHalf,Pass,Successful,71.6,73.3,76.5,97.8
+835,397859,Alistair Johnston,1160,Canada,86,SecondHalf,Pass,Unsuccessful,75,96.3,90.4,56.1
+740,363666,Nikola Katic,768,Bosnia and Herzegovina,86,SecondHalf,Clearance,Successful,11.2,43.7,29.9,44.6
+741,444331,Samed Bazdar,768,Bosnia and Herzegovina,86,SecondHalf,Pass,Successful,30,44.9,29.3,62.7
+742,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,86,SecondHalf,BallRecovery,Successful,29.7,62.7,,
+743,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,86,SecondHalf,Pass,Successful,29.7,62.7,72.6,27.1
+744,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,87,SecondHalf,Pass,Successful,76,24.7,59.9,11.7
+745,418203,Amar Dedic,768,Bosnia and Herzegovina,87,SecondHalf,Pass,Successful,59.9,11.7,61.3,24.4
+746,363683,Ivan Sunjic,768,Bosnia and Herzegovina,87,SecondHalf,Pass,Successful,60.7,25.8,70.3,32.8
+747,404391,Armin Gigovic,768,Bosnia and Herzegovina,87,SecondHalf,Pass,Successful,70.3,32.8,75.2,33.3
+748,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,87,SecondHalf,Pass,Unsuccessful,75.2,33.3,76.2,31.3
+837,313012,Richie Laryea,1160,Canada,87,SecondHalf,BlockedPass,Successful,23.8,68.7,,
+839,371029,Derek Cornelius,1160,Canada,87,SecondHalf,BallRecovery,Successful,23.6,74.2,,
+838,371029,Derek Cornelius,1160,Canada,87,SecondHalf,Pass,Successful,23.8,69.9,25.9,85.2
+840,377467,Jacob Shaffelburg,1160,Canada,87,SecondHalf,Pass,Successful,25.8,82.2,46,74.4
+841,532188,Promise David,1160,Canada,87,SecondHalf,Dispossessed,Successful,59.4,84.2,,
+750,363666,Nikola Katic,768,Bosnia and Herzegovina,87,SecondHalf,Tackle,Unsuccessful,40.6,15.8,,
+842,532188,Promise David,1160,Canada,87,SecondHalf,Foul,Successful,59.4,86.4,,
+751,363683,Ivan Sunjic,768,Bosnia and Herzegovina,87,SecondHalf,Foul,Unsuccessful,40.6,13.6,,
+843,351744,Stephen Eustaquio,1160,Canada,87,SecondHalf,Pass,Successful,64.3,80.7,55.9,72.4
+844,313012,Richie Laryea,1160,Canada,87,SecondHalf,Pass,Successful,55,73.2,51.7,61.1
+845,371029,Derek Cornelius,1160,Canada,87,SecondHalf,Pass,Successful,53.4,58.9,58.2,58.3
+846,422851,Ismaël Koné,1160,Canada,87,SecondHalf,Pass,Successful,58.2,58.3,58.4,73.9
+847,313012,Richie Laryea,1160,Canada,87,SecondHalf,Pass,Successful,62.6,73,59.7,67
+848,422851,Ismaël Koné,1160,Canada,87,SecondHalf,Pass,Successful,60.7,59.7,67.3,30
+849,492688,Luc De Fougerolles,1160,Canada,87,SecondHalf,Pass,Successful,70.2,16.8,78.5,3.4
+850,437419,Ali Ahmed,1160,Canada,87,SecondHalf,Pass,Successful,76.8,4,76.5,18.4
+851,397859,Alistair Johnston,1160,Canada,88,SecondHalf,Pass,Successful,75.9,18.7,82.1,7.9
+852,437419,Ali Ahmed,1160,Canada,88,SecondHalf,Pass,Successful,78.6,10.9,68.6,19.8
+853,422851,Ismaël Koné,1160,Canada,88,SecondHalf,Pass,Successful,68,20.1,77.2,10.5
+854,437419,Ali Ahmed,1160,Canada,88,SecondHalf,Pass,Successful,80.1,13,80.8,24.3
+855,351744,Stephen Eustaquio,1160,Canada,88,SecondHalf,Pass,Unsuccessful,84.3,26.1,87.4,34.8
+752,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,88,SecondHalf,Clearance,Successful,10.6,62.6,41.9,90.8
+856,422851,Ismaël Koné,1160,Canada,88,SecondHalf,Foul,Successful,57.6,6.4,,
+753,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,88,SecondHalf,Foul,Unsuccessful,42.4,93.6,,
+857,397859,Alistair Johnston,1160,Canada,88,SecondHalf,Pass,Successful,57.3,9.4,46.2,34
+859,371029,Derek Cornelius,1160,Canada,88,SecondHalf,Pass,Successful,54.9,53.4,54.7,49
+860,351744,Stephen Eustaquio,1160,Canada,88,SecondHalf,Pass,Successful,55.2,48.9,55.8,59.5
+861,371029,Derek Cornelius,1160,Canada,88,SecondHalf,Pass,Successful,63.6,55.2,67.5,25.6
+862,422851,Ismaël Koné,1160,Canada,88,SecondHalf,Pass,Successful,68.2,20.5,71.5,14.1
+863,397859,Alistair Johnston,1160,Canada,88,SecondHalf,Pass,Successful,68.2,13.9,78,33.3
+864,351744,Stephen Eustaquio,1160,Canada,88,SecondHalf,BallTouch,Unsuccessful,78,33.3,,
+754,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,88,SecondHalf,BallTouch,Successful,19.6,66.6,,
+755,363683,Ivan Sunjic,768,Bosnia and Herzegovina,88,SecondHalf,BallRecovery,Successful,20.9,66,,
+756,363683,Ivan Sunjic,768,Bosnia and Herzegovina,88,SecondHalf,Pass,Successful,20.9,66,15,73.5
+757,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,88,SecondHalf,Pass,Successful,15,73.5,28.7,93
+758,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,88,SecondHalf,Pass,Successful,31.3,92.1,36.3,59.3
+759,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,88,SecondHalf,Pass,Successful,36.3,59.3,34.5,68.1
+760,363683,Ivan Sunjic,768,Bosnia and Herzegovina,88,SecondHalf,Pass,Unsuccessful,34.6,68.1,39.4,57.3
+865,371029,Derek Cornelius,1160,Canada,88,SecondHalf,BallTouch,Successful,64.1,37,,
+866,492688,Luc De Fougerolles,1160,Canada,88,SecondHalf,Aerial,Successful,42.6,28.8,,
+761,460297,Benjamin Tahirovic,768,Bosnia and Herzegovina,88,SecondHalf,Aerial,Unsuccessful,57.4,71.2,,
+867,492688,Luc De Fougerolles,1160,Canada,88,SecondHalf,Pass,Successful,42.6,27.1,48.7,27.9
+868,351744,Stephen Eustaquio,1160,Canada,89,SecondHalf,BallRecovery,Successful,54.9,27.4,,
+869,351744,Stephen Eustaquio,1160,Canada,89,SecondHalf,Foul,Successful,55.4,26.4,,
+762,363683,Ivan Sunjic,768,Bosnia and Herzegovina,89,SecondHalf,Foul,Unsuccessful,44.6,73.6,,
+870,351744,Stephen Eustaquio,1160,Canada,89,SecondHalf,Pass,Unsuccessful,62.6,22.2,93,52.9
+764,145304,Nikola Vasilj,768,Bosnia and Herzegovina,89,SecondHalf,Claim,Successful,7,47.1,,
+765,145304,Nikola Vasilj,768,Bosnia and Herzegovina,89,SecondHalf,Pass,Unsuccessful,16,52.4,68.5,54.8
+872,492688,Luc De Fougerolles,1160,Canada,90,SecondHalf,Clearance,Successful,36.1,41.2,46,56.8
+766,363666,Nikola Katic,768,Bosnia and Herzegovina,90,SecondHalf,Aerial,Successful,54,43.2,,
+873,377467,Jacob Shaffelburg,1160,Canada,90,SecondHalf,Aerial,Unsuccessful,46,56.8,,
+767,363666,Nikola Katic,768,Bosnia and Herzegovina,90,SecondHalf,Pass,Unsuccessful,54,43.2,64.9,54.2
+874,422851,Ismaël Koné,1160,Canada,90,SecondHalf,Aerial,Successful,35.1,45.8,,
+768,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,90,SecondHalf,Aerial,Unsuccessful,64.9,54.2,,
+875,422851,Ismaël Koné,1160,Canada,90,SecondHalf,Pass,Unsuccessful,35.1,45.8,46.3,45
+769,363683,Ivan Sunjic,768,Bosnia and Herzegovina,90,SecondHalf,Pass,Successful,59.1,53.1,69.1,53.4
+770,444331,Samed Bazdar,768,Bosnia and Herzegovina,90,SecondHalf,Dispossessed,Successful,69,55.8,,
+876,371029,Derek Cornelius,1160,Canada,90,SecondHalf,Tackle,Successful,31,44.2,,
+877,422851,Ismaël Koné,1160,Canada,90,SecondHalf,Dispossessed,Successful,33.5,41.3,,
+771,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,90,SecondHalf,Tackle,Unsuccessful,66.5,58.7,,
+878,422851,Ismaël Koné,1160,Canada,90,SecondHalf,BallTouch,Successful,35.9,35.4,,
+772,404391,Armin Gigovic,768,Bosnia and Herzegovina,90,SecondHalf,Pass,Successful,67,45.4,56.3,57.3
+773,363683,Ivan Sunjic,768,Bosnia and Herzegovina,90,SecondHalf,Pass,Successful,57,57.5,55.8,91.8
+774,306672,Dzenis Burnic,768,Bosnia and Herzegovina,90,SecondHalf,Pass,Successful,57.4,91.5,73.4,85.9
+775,444331,Samed Bazdar,768,Bosnia and Herzegovina,90,SecondHalf,TakeOn,Unsuccessful,89,94.4,,
+879,492688,Luc De Fougerolles,1160,Canada,90,SecondHalf,Tackle,Unsuccessful,10.9,5.6,,
+776,444331,Samed Bazdar,768,Bosnia and Herzegovina,90,SecondHalf,BallTouch,Successful,88.6,93.5,,
+881,351744,Stephen Eustaquio,1160,Canada,90,SecondHalf,SubstitutionOff,Successful,0,0,,
+882,127148,Jonathan Osorio,1160,Canada,90,SecondHalf,SubstitutionOn,Successful,0,0,,
+892,,,1160,Canada,90,SecondHalf,FormationChange,Successful,0,0,,
+883,397859,Alistair Johnston,1160,Canada,91,SecondHalf,Pass,Unsuccessful,18,0,41.4,5.1
+778,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,91,SecondHalf,Pass,Unsuccessful,56.8,90.2,69.2,75.6
+884,127148,Jonathan Osorio,1160,Canada,91,SecondHalf,Pass,Unsuccessful,31.8,25.9,42.2,24.7
+779,404391,Armin Gigovic,768,Bosnia and Herzegovina,91,SecondHalf,Pass,Successful,59.3,80.6,74.7,70.2
+780,444331,Samed Bazdar,768,Bosnia and Herzegovina,91,SecondHalf,Aerial,Successful,74.7,70.2,,
+885,492688,Luc De Fougerolles,1160,Canada,91,SecondHalf,Aerial,Unsuccessful,25.3,29.8,,
+781,444331,Samed Bazdar,768,Bosnia and Herzegovina,91,SecondHalf,Pass,Unsuccessful,74.7,70.2,75.1,67
+886,492688,Luc De Fougerolles,1160,Canada,91,SecondHalf,BallTouch,Successful,25.4,27.3,,
+887,127148,Jonathan Osorio,1160,Canada,91,SecondHalf,Pass,Successful,28.1,29.2,25.1,21.4
+893,422851,Ismaël Koné,1160,Canada,91,SecondHalf,BallTouch,Unsuccessful,24.2,40,,
+782,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,91,SecondHalf,BallRecovery,Successful,74.8,74.8,,
+783,538923,Kerim Alajbegovic,768,Bosnia and Herzegovina,91,SecondHalf,BallTouch,Unsuccessful,74.3,77.2,,
+889,437419,Ali Ahmed,1160,Canada,91,SecondHalf,BallRecovery,Successful,30.8,15.6,,
+890,437419,Ali Ahmed,1160,Canada,91,SecondHalf,Pass,Unsuccessful,31,14.2,47.1,11.8
+784,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,91,SecondHalf,Foul,Successful,56,86.8,,
+891,532188,Promise David,1160,Canada,91,SecondHalf,Foul,Unsuccessful,44,13.1,,
+786,404391,Armin Gigovic,768,Bosnia and Herzegovina,92,SecondHalf,Pass,Successful,55.8,86.8,52.2,56.9
+787,418203,Amar Dedic,768,Bosnia and Herzegovina,92,SecondHalf,Pass,Successful,52.8,54,83.1,11.7
+788,363666,Nikola Katic,768,Bosnia and Herzegovina,92,SecondHalf,Pass,Unsuccessful,83.1,11.7,86.9,26.7
+894,532188,Promise David,1160,Canada,92,SecondHalf,Clearance,Successful,13.9,75.3,17.7,50.5
+789,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,92,SecondHalf,Aerial,Successful,82.3,49.5,,
+895,273229,Cyle Larin,1160,Canada,92,SecondHalf,Aerial,Unsuccessful,17.7,50.5,,
+790,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,92,SecondHalf,Pass,Unsuccessful,82.3,49.5,88.9,42.5
+896,492688,Luc De Fougerolles,1160,Canada,92,SecondHalf,Aerial,Successful,11.1,57.5,,
+791,444331,Samed Bazdar,768,Bosnia and Herzegovina,92,SecondHalf,Aerial,Unsuccessful,88.9,42.5,,
+897,492688,Luc De Fougerolles,1160,Canada,92,SecondHalf,Clearance,Successful,11.1,57.5,23,52.5
+898,273229,Cyle Larin,1160,Canada,92,SecondHalf,BallRecovery,Successful,31.4,43.2,,
+899,273229,Cyle Larin,1160,Canada,92,SecondHalf,Foul,Successful,29.8,46.8,,
+792,363666,Nikola Katic,768,Bosnia and Herzegovina,92,SecondHalf,Foul,Unsuccessful,70.2,53.2,,
+793,363666,Nikola Katic,768,Bosnia and Herzegovina,92,SecondHalf,Card,Successful,0,0,,
+900,492688,Luc De Fougerolles,1160,Canada,92,SecondHalf,Pass,Unsuccessful,31.9,44,39.6,53.2
+956,371029,Derek Cornelius,1160,Canada,92,SecondHalf,Pass,Successful,44.6,52.4,44.6,32
+957,397859,Alistair Johnston,1160,Canada,92,SecondHalf,Pass,Unsuccessful,51,27.2,100,17.2
+795,145304,Nikola Vasilj,768,Bosnia and Herzegovina,93,SecondHalf,Pass,Unsuccessful,5.4,60.7,64.4,85.9
+903,492688,Luc De Fougerolles,1160,Canada,93,SecondHalf,Aerial,Successful,35.6,14.1,,
+798,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,93,SecondHalf,Aerial,Unsuccessful,64.4,85.9,,
+904,492688,Luc De Fougerolles,1160,Canada,93,SecondHalf,Pass,Unsuccessful,35.6,14.1,54.3,28.2
+797,363683,Ivan Sunjic,768,Bosnia and Herzegovina,93,SecondHalf,Pass,Successful,45.2,72.4,56.1,75
+796,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,93,SecondHalf,Aerial,Successful,56.1,75,,
+905,492688,Luc De Fougerolles,1160,Canada,93,SecondHalf,Aerial,Unsuccessful,43.9,25,,
+799,351339,Ermedin Demirovic,768,Bosnia and Herzegovina,93,SecondHalf,Pass,Successful,56.1,75,65.4,68.5
+800,444331,Samed Bazdar,768,Bosnia and Herzegovina,93,SecondHalf,Pass,Unsuccessful,66.3,70,56.4,63
+907,422851,Ismaël Koné,1160,Canada,93,SecondHalf,Dispossessed,Successful,45.3,46.6,,
+801,444331,Samed Bazdar,768,Bosnia and Herzegovina,93,SecondHalf,Tackle,Unsuccessful,54.7,53.4,,
+908,313012,Richie Laryea,1160,Canada,93,SecondHalf,Pass,Unsuccessful,43.9,56.6,45,56.4
+802,444331,Samed Bazdar,768,Bosnia and Herzegovina,93,SecondHalf,BlockedPass,Successful,55,43.6,,
+906,371029,Derek Cornelius,1160,Canada,93,SecondHalf,BallRecovery,Successful,28.3,75.2,,
+909,371029,Derek Cornelius,1160,Canada,93,SecondHalf,Pass,Unsuccessful,29.6,74.8,41.9,84.6
+803,404391,Armin Gigovic,768,Bosnia and Herzegovina,93,SecondHalf,BallRecovery,Successful,62.5,11.9,,
+804,404391,Armin Gigovic,768,Bosnia and Herzegovina,93,SecondHalf,TakeOn,Unsuccessful,66,6.3,,
+910,377467,Jacob Shaffelburg,1160,Canada,93,SecondHalf,Tackle,Successful,34,93.7,,
+911,371029,Derek Cornelius,1160,Canada,93,SecondHalf,BallRecovery,Successful,13.2,81.4,,
+912,371029,Derek Cornelius,1160,Canada,93,SecondHalf,Pass,Successful,13.8,81,20.9,93
+913,313012,Richie Laryea,1160,Canada,93,SecondHalf,Pass,Successful,26.6,93.7,35.3,97
+914,377467,Jacob Shaffelburg,1160,Canada,93,SecondHalf,Pass,Successful,35.3,97,45.3,78.3
+915,422851,Ismaël Koné,1160,Canada,94,SecondHalf,Pass,Successful,43.7,71.2,39.8,59.7
+916,127148,Jonathan Osorio,1160,Canada,94,SecondHalf,Pass,Successful,70.3,64.8,85.1,23.8
+917,437419,Ali Ahmed,1160,Canada,94,SecondHalf,Pass,Unsuccessful,85.5,24.1,97.5,56.2
+805,145304,Nikola Vasilj,768,Bosnia and Herzegovina,94,SecondHalf,Claim,Successful,2.5,43.8,,
+806,145304,Nikola Vasilj,768,Bosnia and Herzegovina,94,SecondHalf,Pass,Unsuccessful,14.8,46.4,66.8,5.3
+918,371029,Derek Cornelius,1160,Canada,94,SecondHalf,BallRecovery,Successful,31.8,95.7,,
+919,371029,Derek Cornelius,1160,Canada,94,SecondHalf,Pass,Successful,34.4,84,29,48.3
+920,492688,Luc De Fougerolles,1160,Canada,94,SecondHalf,Pass,Successful,57.1,18.7,67.1,3.7
+921,437419,Ali Ahmed,1160,Canada,94,SecondHalf,Pass,Successful,67.3,7.3,58.7,14.2
+922,492688,Luc De Fougerolles,1160,Canada,94,SecondHalf,Pass,Successful,58.5,18.6,53.4,58.8
+923,371029,Derek Cornelius,1160,Canada,94,SecondHalf,Pass,Successful,69.6,71.1,62.1,78
+924,313012,Richie Laryea,1160,Canada,95,SecondHalf,Pass,Successful,62.1,78,65.1,97.3
+925,377467,Jacob Shaffelburg,1160,Canada,95,SecondHalf,Pass,Successful,65.1,97.3,59.8,79.2
+926,313012,Richie Laryea,1160,Canada,95,SecondHalf,Pass,Successful,62.9,73.5,62.4,61.3
+927,127148,Jonathan Osorio,1160,Canada,95,SecondHalf,Pass,Successful,67.5,66.7,74.6,92.5
+928,377467,Jacob Shaffelburg,1160,Canada,95,SecondHalf,Pass,Successful,75.2,92.1,97.6,73.2
+929,313012,Richie Laryea,1160,Canada,95,SecondHalf,Pass,Successful,91,64.2,90.6,52
+930,273229,Cyle Larin,1160,Canada,95,SecondHalf,SavedShot,Successful,91.8,53,,
+808,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,95,SecondHalf,Save,Successful,6.2,48.4,,
+831,363666,Nikola Katic,768,Bosnia and Herzegovina,95,SecondHalf,BallTouch,Successful,7,46.7,,
+832,439533,Tarik Muharemovic,768,Bosnia and Herzegovina,95,SecondHalf,BallTouch,Successful,8,47,,
+809,363666,Nikola Katic,768,Bosnia and Herzegovina,95,SecondHalf,Clearance,Successful,7.3,44.2,10.3,33.3
+810,404391,Armin Gigovic,768,Bosnia and Herzegovina,95,SecondHalf,Clearance,Successful,10.8,31.3,71.2,37.3
+931,137263,Maxime Crépeau,1160,Canada,95,SecondHalf,Pass,Successful,30.7,52.9,44.7,65.1
+932,371029,Derek Cornelius,1160,Canada,95,SecondHalf,Pass,Successful,44.6,65.2,48.5,83.2
+933,127148,Jonathan Osorio,1160,Canada,95,SecondHalf,Pass,Successful,54.8,82.3,46.6,64.3
+934,371029,Derek Cornelius,1160,Canada,95,SecondHalf,Pass,Successful,51.2,58.5,61.4,33.3
+935,492688,Luc De Fougerolles,1160,Canada,95,SecondHalf,Pass,Successful,61.3,32.2,54.3,49.2
+936,371029,Derek Cornelius,1160,Canada,95,SecondHalf,Pass,Successful,56.5,50.4,60.2,31.6
+937,492688,Luc De Fougerolles,1160,Canada,95,SecondHalf,Pass,Successful,61.7,22.2,76.7,3
+938,437419,Ali Ahmed,1160,Canada,95,SecondHalf,Pass,Successful,80,4.3,83.7,16.2
+939,397859,Alistair Johnston,1160,Canada,95,SecondHalf,Pass,Unsuccessful,83.6,16.2,100,5.7
+812,,,768,Bosnia and Herzegovina,96,SecondHalf,End,Successful,0,0,,
+941,,,1160,Canada,96,SecondHalf,End,Successful,0,0,,
+942,,,1160,Canada,0,PostGame,End,Successful,0,0,,
+813,,,768,Bosnia and Herzegovina,0,PostGame,End,Successful,0,0,,
+1,,,1160,Canada,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,768,Bosnia and Herzegovina,0,PreMatch,FormationSet,Successful,0,0,,
