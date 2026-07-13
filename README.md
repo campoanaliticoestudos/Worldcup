@@ -1,4 +1,3 @@
-Aqui está uma sugestão de `README.md` estruturada para o seu repositório:
 
 ---
 
