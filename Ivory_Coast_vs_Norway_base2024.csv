@@ -1,0 +1,1503 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,334,Norway,0,FirstHalf,Start,Successful,0,0,,
+2,,,973,Ivory Coast,0,FirstHalf,Start,Successful,0,0,,
+3,447489,Ange-Yoan Bonny,973,Ivory Coast,0,FirstHalf,Pass,Successful,50,50,34.6,52.2
+4,277269,Franck Kessie,973,Ivory Coast,0,FirstHalf,Pass,Unsuccessful,36,56,77.9,100
+4,357133,Marcus Pedersen,334,Norway,0,FirstHalf,Pass,Successful,32.8,0,46.6,6
+5,302497,Alexander Sørloth,334,Norway,0,FirstHalf,Pass,Unsuccessful,43.1,6.9,46.1,6.9
+6,402810,Emmanuel Agbadou,973,Ivory Coast,0,FirstHalf,Pass,Unsuccessful,55.4,92.3,68,83.3
+6,320986,Patrick Berg,334,Norway,0,FirstHalf,Pass,Unsuccessful,41,14.1,71.9,30.4
+7,384516,Odilon Kossounou,973,Ivory Coast,0,FirstHalf,Pass,Successful,38.3,68.2,48,70
+8,328075,Ibrahim Sangaré,973,Ivory Coast,0,FirstHalf,Pass,Unsuccessful,47.9,69.9,53.9,70.3
+7,321020,Sander Berge,334,Norway,0,FirstHalf,Pass,Unsuccessful,41,24,72.8,33.3
+9,384516,Odilon Kossounou,973,Ivory Coast,0,FirstHalf,BallTouch,Unsuccessful,38.2,55.7,,
+8,416030,Antonio Nusa,334,Norway,0,FirstHalf,Pass,Unsuccessful,77.7,67.2,80.3,52.6
+10,328075,Ibrahim Sangaré,973,Ivory Coast,0,FirstHalf,Interception,Successful,19.7,47.4,,
+9,415341,David Møller Wolfe,334,Norway,0,FirstHalf,Pass,Unsuccessful,74.7,80.1,77.9,87.1
+11,239872,Nicolas Pépé,973,Ivory Coast,0,FirstHalf,Interception,Successful,22.1,12.9,,
+11,415341,David Møller Wolfe,334,Norway,0,FirstHalf,Pass,Successful,80.1,100,53.4,94.8
+12,364336,Torbjørn Heggem,334,Norway,1,FirstHalf,Pass,Successful,53.4,94.8,46,63.3
+13,321085,Kristoffer Ajer,334,Norway,1,FirstHalf,Pass,Successful,47.6,63.4,49.7,80.5
+14,364336,Torbjørn Heggem,334,Norway,1,FirstHalf,Pass,Successful,51.4,81.1,73.4,92.7
+15,416030,Antonio Nusa,334,Norway,1,FirstHalf,Pass,Unsuccessful,73.1,92.5,93.9,81.7
+13,384516,Odilon Kossounou,973,Ivory Coast,1,FirstHalf,BallRecovery,Successful,9.3,11.4,,
+14,384516,Odilon Kossounou,973,Ivory Coast,1,FirstHalf,Pass,Successful,9.7,5.8,28.5,18.8
+15,239872,Nicolas Pépé,973,Ivory Coast,1,FirstHalf,BallTouch,Unsuccessful,28.5,18.8,,
+16,321020,Sander Berge,334,Norway,1,FirstHalf,BallRecovery,Successful,68,83.1,,
+17,321020,Sander Berge,334,Norway,1,FirstHalf,Pass,Successful,55,68.1,46.4,42.6
+18,321085,Kristoffer Ajer,334,Norway,1,FirstHalf,Pass,Successful,46,41.8,49.5,40.8
+19,247454,Martin Ødegaard,334,Norway,1,FirstHalf,Pass,Successful,49.5,40.8,47.9,57
+20,321020,Sander Berge,334,Norway,1,FirstHalf,Pass,Successful,47.9,57,50.6,58.2
+21,247454,Martin Ødegaard,334,Norway,1,FirstHalf,Pass,Successful,63.2,17.7,72.9,5.4
+22,302497,Alexander Sørloth,334,Norway,1,FirstHalf,Pass,Successful,74,5.4,49.1,5.2
+23,357133,Marcus Pedersen,334,Norway,1,FirstHalf,Pass,Successful,48.8,5.1,42.8,25
+24,321085,Kristoffer Ajer,334,Norway,1,FirstHalf,Pass,Successful,43.1,29.4,37.8,65.1
+25,364336,Torbjørn Heggem,334,Norway,1,FirstHalf,Pass,Successful,39.4,67,48.3,55.3
+26,321020,Sander Berge,334,Norway,1,FirstHalf,Pass,Successful,56.2,29.2,67.4,5.8
+27,302497,Alexander Sørloth,334,Norway,1,FirstHalf,Pass,Successful,62.8,6.1,43.3,34.8
+11038,302497,Alexander Sørloth,334,Norway,2,FirstHalf,OffsideGiven,Unsuccessful,87.5,10.5,,
+28,321085,Kristoffer Ajer,334,Norway,2,FirstHalf,Pass,Successful,45,34.8,52.6,41.4
+29,321020,Sander Berge,334,Norway,2,FirstHalf,Pass,Successful,52.6,41.4,38.4,61.3
+30,364336,Torbjørn Heggem,334,Norway,2,FirstHalf,Pass,Successful,45.3,65.1,42.3,32.8
+31,321085,Kristoffer Ajer,334,Norway,2,FirstHalf,Pass,Successful,46.2,27.3,73.2,8.8
+32,302497,Alexander Sørloth,334,Norway,2,FirstHalf,Pass,Successful,75,8.8,97.1,17.7
+33,357133,Marcus Pedersen,334,Norway,2,FirstHalf,Pass,Successful,97.1,17.7,88.6,58.2
+34,315227,Erling Haaland,334,Norway,2,FirstHalf,SavedShot,Successful,88.6,58.2,,
+16,384516,Odilon Kossounou,973,Ivory Coast,2,FirstHalf,Save,Successful,6.6,47.3,,
+879,320986,Patrick Berg,334,Norway,2,FirstHalf,BallTouch,Successful,93,50.4,,
+17,447449,Guéla Doué,973,Ivory Coast,2,FirstHalf,Clearance,Successful,7.5,45.6,14.5,100
+36,357133,Marcus Pedersen,334,Norway,2,FirstHalf,Pass,Successful,75.3,0,72.2,8.5
+37,247454,Martin Ødegaard,334,Norway,2,FirstHalf,Pass,Successful,72.2,8.5,77.4,5.4
+38,357133,Marcus Pedersen,334,Norway,2,FirstHalf,OffsidePass,Successful,75.6,3.7,87.5,10.5
+19,331567,Ghislain Konan,973,Ivory Coast,2,FirstHalf,OffsideProvoked,Successful,14.4,89.1,,
+20,402810,Emmanuel Agbadou,973,Ivory Coast,2,FirstHalf,Pass,Successful,14,87.3,25.2,73.2
+28,328075,Ibrahim Sangaré,973,Ivory Coast,2,FirstHalf,Pass,Successful,22.8,74.7,14.3,86.7
+31,402810,Emmanuel Agbadou,973,Ivory Coast,2,FirstHalf,Pass,Successful,14.3,86.7,22.8,96.7
+21,331567,Ghislain Konan,973,Ivory Coast,2,FirstHalf,Pass,Unsuccessful,23.6,95,35.9,100
+40,357133,Marcus Pedersen,334,Norway,3,FirstHalf,Pass,Successful,65.2,0,69.7,8.2
+41,247454,Martin Ødegaard,334,Norway,3,FirstHalf,Pass,Successful,69.5,10,66.2,4.5
+42,357133,Marcus Pedersen,334,Norway,3,FirstHalf,Pass,Successful,66.2,4.5,66.1,10.2
+43,321020,Sander Berge,334,Norway,3,FirstHalf,Pass,Successful,66.1,10.2,42.4,8.8
+44,321085,Kristoffer Ajer,334,Norway,3,FirstHalf,Pass,Successful,43,11.5,46.3,45.3
+45,364336,Torbjørn Heggem,334,Norway,3,FirstHalf,Pass,Successful,48.2,50.7,48,34.9
+46,321085,Kristoffer Ajer,334,Norway,3,FirstHalf,Pass,Successful,48.2,35.2,44.4,63.7
+47,364336,Torbjørn Heggem,334,Norway,3,FirstHalf,Pass,Successful,54.2,64.6,50.2,36.4
+48,247454,Martin Ødegaard,334,Norway,3,FirstHalf,Pass,Unsuccessful,50.6,37.8,85.3,59.7
+25,384516,Odilon Kossounou,973,Ivory Coast,3,FirstHalf,BallRecovery,Successful,14.2,44.5,,
+26,384516,Odilon Kossounou,973,Ivory Coast,3,FirstHalf,Pass,Unsuccessful,14.2,44.8,20,100
+50,247454,Martin Ødegaard,334,Norway,3,FirstHalf,Pass,Successful,76.7,0,68.3,9.1
+51,357133,Marcus Pedersen,334,Norway,3,FirstHalf,Pass,Successful,67.6,9.4,55.1,17.1
+52,321085,Kristoffer Ajer,334,Norway,3,FirstHalf,Pass,Successful,55.7,17.4,67.4,8.2
+53,357133,Marcus Pedersen,334,Norway,3,FirstHalf,Pass,Successful,67.4,8.4,64.5,26.1
+54,321020,Sander Berge,334,Norway,3,FirstHalf,Pass,Successful,64.5,26.1,66.2,12.7
+55,247454,Martin Ødegaard,334,Norway,3,FirstHalf,Pass,Unsuccessful,66.5,11.4,68.8,11.1
+29,557000,Yan Diomande,973,Ivory Coast,3,FirstHalf,BlockedPass,Successful,31.2,88.9,,
+30,557000,Yan Diomande,973,Ivory Coast,3,FirstHalf,BallRecovery,Successful,43.8,93,,
+32,557000,Yan Diomande,973,Ivory Coast,3,FirstHalf,Pass,Successful,70.1,94.5,78.5,84.1
+33,447489,Ange-Yoan Bonny,973,Ivory Coast,4,FirstHalf,Dispossessed,Successful,90.2,90.3,,
+56,321085,Kristoffer Ajer,334,Norway,4,FirstHalf,Tackle,Unsuccessful,9.8,9.8,,
+34,447489,Ange-Yoan Bonny,973,Ivory Coast,4,FirstHalf,BallTouch,Successful,89.9,91.7,,
+58,39187,Ørjan Nyland,334,Norway,4,FirstHalf,Pass,Successful,2.8,49.8,9.6,27.7
+59,321085,Kristoffer Ajer,334,Norway,4,FirstHalf,Pass,Successful,29.4,43.2,24.7,64
+60,364336,Torbjørn Heggem,334,Norway,4,FirstHalf,Pass,Successful,27.7,65.4,35,95.5
+61,415341,David Møller Wolfe,334,Norway,4,FirstHalf,Pass,Successful,35.4,95.4,48.1,92.7
+880,416030,Antonio Nusa,334,Norway,4,FirstHalf,TakeOn,Unsuccessful,45.2,89.3,,
+62,416030,Antonio Nusa,334,Norway,4,FirstHalf,Foul,Successful,47.2,94.4,,
+36,447449,Guéla Doué,973,Ivory Coast,4,FirstHalf,Foul,Unsuccessful,52.8,5.6,,
+63,320986,Patrick Berg,334,Norway,4,FirstHalf,Pass,Successful,55,90.9,39.5,91.5
+64,415341,David Møller Wolfe,334,Norway,4,FirstHalf,Pass,Successful,39.6,91.3,31.2,67.2
+65,364336,Torbjørn Heggem,334,Norway,4,FirstHalf,Pass,Successful,31.2,67.2,41.7,31.5
+66,321085,Kristoffer Ajer,334,Norway,4,FirstHalf,Pass,Successful,44.6,28,36.8,57.9
+67,364336,Torbjørn Heggem,334,Norway,5,FirstHalf,Pass,Successful,40.2,60.7,46.3,46.5
+68,321020,Sander Berge,334,Norway,5,FirstHalf,Pass,Successful,46.3,46.5,47,65.8
+69,364336,Torbjørn Heggem,334,Norway,5,FirstHalf,Pass,Successful,48,65.7,48.9,88
+70,415341,David Møller Wolfe,334,Norway,5,FirstHalf,Pass,Successful,44.9,88.8,43.2,61
+71,321020,Sander Berge,334,Norway,5,FirstHalf,Pass,Successful,43.1,60.4,30.6,68.8
+72,364336,Torbjørn Heggem,334,Norway,5,FirstHalf,Pass,Successful,32.4,68.4,49.4,81
+73,320986,Patrick Berg,334,Norway,5,FirstHalf,Pass,Successful,46.3,84.6,58.6,93.1
+74,416030,Antonio Nusa,334,Norway,5,FirstHalf,Pass,Unsuccessful,47.3,89.5,37.8,91.2
+37,239872,Nicolas Pépé,973,Ivory Coast,5,FirstHalf,BallTouch,Successful,57.4,6.2,,
+75,415341,David Møller Wolfe,334,Norway,5,FirstHalf,Pass,Successful,35.5,85.2,23.1,72
+76,364336,Torbjørn Heggem,334,Norway,5,FirstHalf,Pass,Successful,24.3,70.6,34.7,27
+77,321085,Kristoffer Ajer,334,Norway,5,FirstHalf,Pass,Successful,35.6,24.6,60.6,5.1
+78,357133,Marcus Pedersen,334,Norway,5,FirstHalf,Pass,Successful,86.1,11.4,73.4,6.3
+88,247454,Martin Ødegaard,334,Norway,5,FirstHalf,Pass,Unsuccessful,79.3,3.9,78.6,4.5
+38,547352,Christ Inao Oulaï,973,Ivory Coast,5,FirstHalf,BlockedPass,Successful,21.4,95.5,,
+39,547352,Christ Inao Oulaï,973,Ivory Coast,5,FirstHalf,Pass,Successful,20.8,94.4,13.8,92.8
+71,331567,Ghislain Konan,973,Ivory Coast,5,FirstHalf,Dispossessed,Successful,16,93.6,,
+80,247454,Martin Ødegaard,334,Norway,5,FirstHalf,Tackle,Unsuccessful,84,6.5,,
+40,331567,Ghislain Konan,973,Ivory Coast,5,FirstHalf,BallRecovery,Successful,9.8,95.9,,
+41,331567,Ghislain Konan,973,Ivory Coast,5,FirstHalf,Pass,Unsuccessful,10.7,96.9,19.4,97.7
+81,357133,Marcus Pedersen,334,Norway,5,FirstHalf,BallTouch,Successful,86,5.4,,
+43,331567,Ghislain Konan,973,Ivory Coast,5,FirstHalf,Pass,Successful,15,100,30.4,95
+44,557000,Yan Diomande,973,Ivory Coast,5,FirstHalf,Pass,Successful,30.4,95,43.6,96.6
+45,447489,Ange-Yoan Bonny,973,Ivory Coast,6,FirstHalf,Pass,Unsuccessful,43.6,95.9,43.1,93.8
+83,321020,Sander Berge,334,Norway,6,FirstHalf,BlockedPass,Successful,56.9,6.2,,
+47,331567,Ghislain Konan,973,Ivory Coast,6,FirstHalf,Pass,Successful,40.3,100,44.4,90.8
+48,547352,Christ Inao Oulaï,973,Ivory Coast,6,FirstHalf,Pass,Unsuccessful,45.3,91.1,43.9,91.1
+85,247454,Martin Ødegaard,334,Norway,6,FirstHalf,BlockedPass,Successful,56.1,8.9,,
+50,331567,Ghislain Konan,973,Ivory Coast,6,FirstHalf,Pass,Successful,44.1,100,24.5,93.6
+51,402810,Emmanuel Agbadou,973,Ivory Coast,6,FirstHalf,Pass,Successful,23.8,89.7,11.4,61.4
+52,439446,Yahia Fofana,973,Ivory Coast,6,FirstHalf,Pass,Unsuccessful,11.4,61.2,42.2,67.3
+87,321020,Sander Berge,334,Norway,6,FirstHalf,Pass,Unsuccessful,61.9,26.7,72.9,34.8
+53,328075,Ibrahim Sangaré,973,Ivory Coast,6,FirstHalf,Pass,Successful,33,60.5,38.5,22.2
+54,239872,Nicolas Pépé,973,Ivory Coast,6,FirstHalf,Pass,Successful,38.1,27,35.3,39.4
+55,328075,Ibrahim Sangaré,973,Ivory Coast,6,FirstHalf,Pass,Successful,38,33.9,29.9,29.8
+56,384516,Odilon Kossounou,973,Ivory Coast,6,FirstHalf,Pass,Successful,29.9,29.8,37.7,13.5
+57,239872,Nicolas Pépé,973,Ivory Coast,6,FirstHalf,Pass,Unsuccessful,56.4,5.3,84.1,6.1
+89,364336,Torbjørn Heggem,334,Norway,6,FirstHalf,Clearance,Successful,13.6,97.5,12.1,100
+59,447449,Guéla Doué,973,Ivory Coast,6,FirstHalf,Pass,Successful,82.3,0,70.5,6.8
+60,328075,Ibrahim Sangaré,973,Ivory Coast,6,FirstHalf,Pass,Successful,73.3,12.6,76.4,22.2
+61,277269,Franck Kessie,973,Ivory Coast,7,FirstHalf,Pass,Successful,76.4,22.2,77.6,16.1
+62,328075,Ibrahim Sangaré,973,Ivory Coast,7,FirstHalf,Pass,Successful,77.6,16.1,74,24.6
+63,277269,Franck Kessie,973,Ivory Coast,7,FirstHalf,Pass,Successful,73.9,24.6,80,9.5
+64,239872,Nicolas Pépé,973,Ivory Coast,7,FirstHalf,Pass,Successful,83.5,10.4,92.6,10.4
+65,447449,Guéla Doué,973,Ivory Coast,7,FirstHalf,Pass,Successful,92.7,10.4,91.9,49.8
+66,557000,Yan Diomande,973,Ivory Coast,7,FirstHalf,Aerial,Successful,91.9,49.8,,
+91,357133,Marcus Pedersen,334,Norway,7,FirstHalf,Aerial,Unsuccessful,8.1,50.2,,
+67,557000,Yan Diomande,973,Ivory Coast,7,FirstHalf,MissedShots,Successful,91.9,49.8,,
+92,302497,Alexander Sørloth,334,Norway,7,FirstHalf,BallRecovery,Successful,12.6,13.9,,
+93,302497,Alexander Sørloth,334,Norway,7,FirstHalf,Pass,Unsuccessful,11.5,11.1,35.1,21.7
+68,547352,Christ Inao Oulaï,973,Ivory Coast,7,FirstHalf,BallRecovery,Successful,68.6,78.2,,
+69,547352,Christ Inao Oulaï,973,Ivory Coast,7,FirstHalf,Pass,Successful,67.3,64.5,66.8,40.9
+70,277269,Franck Kessie,973,Ivory Coast,7,FirstHalf,Pass,Successful,66.5,36.4,69.4,21.6
+72,447449,Guéla Doué,973,Ivory Coast,7,FirstHalf,Pass,Successful,68.6,25.3,64.9,51.3
+73,328075,Ibrahim Sangaré,973,Ivory Coast,7,FirstHalf,Pass,Successful,65.3,56.9,79.5,51.8
+74,447489,Ange-Yoan Bonny,973,Ivory Coast,7,FirstHalf,Pass,Successful,79.3,51.6,78,66
+75,557000,Yan Diomande,973,Ivory Coast,7,FirstHalf,Pass,Successful,78,66,86.1,82.7
+76,331567,Ghislain Konan,973,Ivory Coast,7,FirstHalf,Pass,Unsuccessful,88.4,82.4,94.3,42.1
+94,415341,David Møller Wolfe,334,Norway,7,FirstHalf,Clearance,Successful,10.8,64,12.6,91
+77,239872,Nicolas Pépé,973,Ivory Coast,7,FirstHalf,TakeOn,Unsuccessful,93.4,27,,
+95,415341,David Møller Wolfe,334,Norway,7,FirstHalf,Tackle,Unsuccessful,6.6,73,,
+78,239872,Nicolas Pépé,973,Ivory Coast,7,FirstHalf,Pass,Successful,88.1,16.1,74.4,16.8
+79,277269,Franck Kessie,973,Ivory Coast,7,FirstHalf,Pass,Successful,74.5,16.5,76.1,27.4
+80,447449,Guéla Doué,973,Ivory Coast,7,FirstHalf,Pass,Successful,76,18.8,94.8,15.2
+81,239872,Nicolas Pépé,973,Ivory Coast,7,FirstHalf,Pass,Unsuccessful,91.5,24.6,91.9,29.3
+881,415341,David Møller Wolfe,334,Norway,7,FirstHalf,BallTouch,Successful,7.8,68.6,,
+97,364336,Torbjørn Heggem,334,Norway,7,FirstHalf,Clearance,Successful,7.1,57.4,0,67.6
+98,364336,Torbjørn Heggem,334,Norway,7,FirstHalf,CornerAwarded,Unsuccessful,2.8,71.2,,
+82,239872,Nicolas Pépé,973,Ivory Coast,7,FirstHalf,CornerAwarded,Successful,97.2,28.8,,
+83,239872,Nicolas Pépé,973,Ivory Coast,8,FirstHalf,Pass,Unsuccessful,99.5,0.5,100,92.1
+101,39187,Ørjan Nyland,334,Norway,9,FirstHalf,Pass,Successful,5,37,13,29.5
+102,321085,Kristoffer Ajer,334,Norway,9,FirstHalf,Pass,Successful,15.7,30.1,15.4,63.4
+103,364336,Torbjørn Heggem,334,Norway,9,FirstHalf,Pass,Successful,27.3,69.1,32.5,93.1
+104,415341,David Møller Wolfe,334,Norway,9,FirstHalf,Pass,Successful,32.4,91.9,9.9,56.5
+105,39187,Ørjan Nyland,334,Norway,9,FirstHalf,Pass,Successful,10.1,55.6,17.9,27.4
+106,321085,Kristoffer Ajer,334,Norway,9,FirstHalf,Pass,Successful,31.3,37.6,31.8,70.3
+107,364336,Torbjørn Heggem,334,Norway,9,FirstHalf,Pass,Successful,32.4,73,32.2,88.6
+108,415341,David Møller Wolfe,334,Norway,9,FirstHalf,Pass,Successful,28.8,88.3,10.1,57.6
+109,39187,Ørjan Nyland,334,Norway,9,FirstHalf,Pass,Successful,9.6,49.8,72.9,10
+110,302497,Alexander Sørloth,334,Norway,9,FirstHalf,Pass,Unsuccessful,75.2,7.9,72.2,27.6
+85,547352,Christ Inao Oulaï,973,Ivory Coast,9,FirstHalf,Pass,Successful,36.8,68.7,18.2,44.6
+86,384516,Odilon Kossounou,973,Ivory Coast,9,FirstHalf,BallRecovery,Successful,18.1,44.6,,
+87,384516,Odilon Kossounou,973,Ivory Coast,9,FirstHalf,Pass,Successful,19.9,30,24.9,9.1
+88,447449,Guéla Doué,973,Ivory Coast,9,FirstHalf,Pass,Successful,27.2,11.4,19.1,16.4
+89,384516,Odilon Kossounou,973,Ivory Coast,9,FirstHalf,Pass,Successful,19.1,16.4,27.1,24.1
+90,328075,Ibrahim Sangaré,973,Ivory Coast,10,FirstHalf,Pass,Successful,25.1,21.8,33.9,22.4
+91,239872,Nicolas Pépé,973,Ivory Coast,10,FirstHalf,BallTouch,Unsuccessful,33.9,22.4,,
+112,415341,David Møller Wolfe,334,Norway,10,FirstHalf,BallTouch,Unsuccessful,70.4,83.8,,
+92,277269,Franck Kessie,973,Ivory Coast,10,FirstHalf,Pass,Unsuccessful,59.3,5.9,85.9,28.5
+113,321085,Kristoffer Ajer,334,Norway,10,FirstHalf,BallRecovery,Successful,12.6,73.2,,
+114,321085,Kristoffer Ajer,334,Norway,10,FirstHalf,Pass,Successful,12.6,73.2,5.9,52
+115,39187,Ørjan Nyland,334,Norway,10,FirstHalf,Pass,Unsuccessful,4.4,51,49.5,52.8
+93,328075,Ibrahim Sangaré,973,Ivory Coast,10,FirstHalf,Pass,Successful,50.5,43,36.6,79.6
+94,331567,Ghislain Konan,973,Ivory Coast,10,FirstHalf,BallRecovery,Successful,36.6,79.4,,
+95,331567,Ghislain Konan,973,Ivory Coast,10,FirstHalf,Pass,Successful,36.6,79.4,32.8,75
+96,402810,Emmanuel Agbadou,973,Ivory Coast,10,FirstHalf,Pass,Successful,32.8,75,45.7,78.7
+97,547352,Christ Inao Oulaï,973,Ivory Coast,10,FirstHalf,TakeOn,Unsuccessful,41.9,75.8,,
+116,247454,Martin Ødegaard,334,Norway,10,FirstHalf,Tackle,Successful,58.1,24.2,,
+117,320986,Patrick Berg,334,Norway,10,FirstHalf,BallRecovery,Successful,57.8,46,,
+118,320986,Patrick Berg,334,Norway,10,FirstHalf,Pass,Successful,57.8,46,66.5,56.8
+119,416030,Antonio Nusa,334,Norway,10,FirstHalf,Pass,Successful,68.7,54.3,76.5,36.6
+120,247454,Martin Ødegaard,334,Norway,10,FirstHalf,Pass,Unsuccessful,79,41.8,87.3,52.9
+98,384516,Odilon Kossounou,973,Ivory Coast,10,FirstHalf,BallRecovery,Successful,13.3,39.8,,
+99,384516,Odilon Kossounou,973,Ivory Coast,10,FirstHalf,Pass,Successful,14.8,39.7,36.5,12.5
+101,239872,Nicolas Pépé,973,Ivory Coast,10,FirstHalf,Foul,Successful,28.1,22.2,,
+121,415341,David Møller Wolfe,334,Norway,10,FirstHalf,Foul,Unsuccessful,71.9,77.8,,
+103,447449,Guéla Doué,973,Ivory Coast,11,FirstHalf,Pass,Successful,36,5.3,21.3,37.4
+104,384516,Odilon Kossounou,973,Ivory Coast,11,FirstHalf,Pass,Successful,21.3,37.4,19.2,73.6
+105,402810,Emmanuel Agbadou,973,Ivory Coast,11,FirstHalf,Pass,Successful,19.3,73.6,25,92.7
+106,331567,Ghislain Konan,973,Ivory Coast,11,FirstHalf,Pass,Successful,35.2,76,44.4,75.7
+107,557000,Yan Diomande,973,Ivory Coast,11,FirstHalf,Pass,Successful,44.4,75.7,41.8,95.7
+108,547352,Christ Inao Oulaï,973,Ivory Coast,11,FirstHalf,Pass,Successful,44.7,94.2,45.5,83
+109,557000,Yan Diomande,973,Ivory Coast,11,FirstHalf,Pass,Successful,45.5,83,40.1,93.3
+110,547352,Christ Inao Oulaï,973,Ivory Coast,11,FirstHalf,Pass,Successful,40.1,92.6,39.7,78.4
+111,277269,Franck Kessie,973,Ivory Coast,11,FirstHalf,Pass,Successful,39.6,73.2,33.9,51.3
+112,328075,Ibrahim Sangaré,973,Ivory Coast,11,FirstHalf,Pass,Successful,34.1,48.8,54.5,3.5
+113,447449,Guéla Doué,973,Ivory Coast,11,FirstHalf,Pass,Successful,63.6,5.9,62.4,15.9
+114,239872,Nicolas Pépé,973,Ivory Coast,11,FirstHalf,Pass,Successful,61,15.5,61.3,30.6
+115,277269,Franck Kessie,973,Ivory Coast,11,FirstHalf,Pass,Successful,61.3,30.4,56.7,19.5
+116,239872,Nicolas Pépé,973,Ivory Coast,11,FirstHalf,Pass,Successful,56.2,23,48.2,57.6
+117,402810,Emmanuel Agbadou,973,Ivory Coast,11,FirstHalf,Pass,Successful,54,65.4,54.7,88.7
+118,547352,Christ Inao Oulaï,973,Ivory Coast,11,FirstHalf,Pass,Successful,60.8,74.5,64.7,60.9
+119,277269,Franck Kessie,973,Ivory Coast,11,FirstHalf,Pass,Successful,64.7,60.9,57.7,69
+120,547352,Christ Inao Oulaï,973,Ivory Coast,11,FirstHalf,Pass,Successful,61,68.7,72.8,96
+121,331567,Ghislain Konan,973,Ivory Coast,11,FirstHalf,Pass,Successful,74.4,95,75.1,82.9
+122,557000,Yan Diomande,973,Ivory Coast,11,FirstHalf,Pass,Successful,75.1,82.9,69.4,82.6
+123,547352,Christ Inao Oulaï,973,Ivory Coast,11,FirstHalf,Pass,Unsuccessful,69.4,82.6,100,76.6
+123,39187,Ørjan Nyland,334,Norway,12,FirstHalf,Pass,Successful,3.7,50.4,10.3,30.6
+124,321085,Kristoffer Ajer,334,Norway,12,FirstHalf,Pass,Successful,13.6,32.7,3.3,58.8
+125,39187,Ørjan Nyland,334,Norway,12,FirstHalf,Pass,Successful,4.5,59.8,30.5,95.8
+126,415341,David Møller Wolfe,334,Norway,12,FirstHalf,BallTouch,Successful,43.7,91,,
+127,416030,Antonio Nusa,334,Norway,12,FirstHalf,TakeOn,Unsuccessful,65.2,85.8,,
+126,447449,Guéla Doué,973,Ivory Coast,12,FirstHalf,Tackle,Successful,34.8,14.2,,
+143,328075,Ibrahim Sangaré,973,Ivory Coast,12,FirstHalf,Pass,Unsuccessful,40.1,16.2,41.1,16.5
+128,320986,Patrick Berg,334,Norway,12,FirstHalf,BlockedPass,Successful,58.9,83.5,,
+127,384516,Odilon Kossounou,973,Ivory Coast,12,FirstHalf,BallRecovery,Successful,34.5,31,,
+128,384516,Odilon Kossounou,973,Ivory Coast,12,FirstHalf,Pass,Successful,34.5,31,40.9,24.1
+129,328075,Ibrahim Sangaré,973,Ivory Coast,12,FirstHalf,Pass,Successful,39.8,24.1,49.8,50.3
+130,557000,Yan Diomande,973,Ivory Coast,12,FirstHalf,Pass,Successful,49.8,50.3,46.6,45.1
+131,277269,Franck Kessie,973,Ivory Coast,12,FirstHalf,Pass,Unsuccessful,46.6,45.1,52.6,70
+129,302497,Alexander Sørloth,334,Norway,12,FirstHalf,Pass,Successful,47,25,39.3,28
+130,321085,Kristoffer Ajer,334,Norway,12,FirstHalf,Pass,Successful,37.9,30.1,46,21.3
+131,302497,Alexander Sørloth,334,Norway,12,FirstHalf,BallRecovery,Successful,44.1,16,,
+132,302497,Alexander Sørloth,334,Norway,12,FirstHalf,Dispossessed,Successful,74.4,9.1,,
+132,547352,Christ Inao Oulaï,973,Ivory Coast,12,FirstHalf,Tackle,Successful,25.6,90.9,,
+133,331567,Ghislain Konan,973,Ivory Coast,12,FirstHalf,BallRecovery,Successful,29.3,87.5,,
+134,331567,Ghislain Konan,973,Ivory Coast,12,FirstHalf,Pass,Successful,29.5,87.8,43.4,96.6
+135,557000,Yan Diomande,973,Ivory Coast,12,FirstHalf,Pass,Successful,43.1,96,35.9,95
+136,547352,Christ Inao Oulaï,973,Ivory Coast,12,FirstHalf,Pass,Successful,36.7,84.1,33.4,77
+137,277269,Franck Kessie,973,Ivory Coast,12,FirstHalf,Pass,Successful,33.4,77,37,84.8
+138,547352,Christ Inao Oulaï,973,Ivory Coast,12,FirstHalf,Pass,Successful,37,78.2,32.5,77.5
+139,277269,Franck Kessie,973,Ivory Coast,12,FirstHalf,Pass,Successful,34.6,71.4,32.2,28
+140,384516,Odilon Kossounou,973,Ivory Coast,13,FirstHalf,Pass,Successful,35.2,20.3,56.9,3.2
+141,447449,Guéla Doué,973,Ivory Coast,13,FirstHalf,Pass,Successful,61.8,4.3,80.8,32.7
+142,447489,Ange-Yoan Bonny,973,Ivory Coast,13,FirstHalf,BallTouch,Unsuccessful,80.8,32.7,,
+133,39187,Ørjan Nyland,334,Norway,13,FirstHalf,KeeperPickup,Successful,10.3,50.7,,
+134,39187,Ørjan Nyland,334,Norway,13,FirstHalf,Pass,Successful,10.1,50.5,40.6,40
+135,321020,Sander Berge,334,Norway,13,FirstHalf,Pass,Successful,36.8,36.6,45.1,11.2
+136,247454,Martin Ødegaard,334,Norway,13,FirstHalf,Pass,Successful,46.9,11.7,39.8,21.1
+137,321020,Sander Berge,334,Norway,13,FirstHalf,Pass,Successful,39.8,21.1,33.6,9.7
+138,357133,Marcus Pedersen,334,Norway,13,FirstHalf,Pass,Successful,34.1,12.3,15.3,45.7
+139,39187,Ørjan Nyland,334,Norway,13,FirstHalf,Pass,Successful,15.3,45.7,38.1,90.9
+140,415341,David Møller Wolfe,334,Norway,13,FirstHalf,Pass,Successful,42.4,89.7,28.5,68.1
+141,364336,Torbjørn Heggem,334,Norway,13,FirstHalf,Pass,Successful,37.4,60,36.9,29.5
+142,321085,Kristoffer Ajer,334,Norway,13,FirstHalf,Pass,Successful,35.4,34.9,35.9,68.2
+143,364336,Torbjørn Heggem,334,Norway,13,FirstHalf,Pass,Successful,44,68.4,62.3,92.7
+144,415341,David Møller Wolfe,334,Norway,13,FirstHalf,Pass,Unsuccessful,62.8,92.4,76.3,85.6
+144,328075,Ibrahim Sangaré,973,Ivory Coast,13,FirstHalf,Interception,Successful,23.7,14.4,,
+145,328075,Ibrahim Sangaré,973,Ivory Coast,13,FirstHalf,BallRecovery,Successful,34.5,14,,
+146,328075,Ibrahim Sangaré,973,Ivory Coast,13,FirstHalf,Pass,Unsuccessful,34.5,14,39.5,4.9
+145,415341,David Møller Wolfe,334,Norway,13,FirstHalf,Interception,Successful,60.5,95.1,,
+148,447449,Guéla Doué,973,Ivory Coast,13,FirstHalf,Pass,Successful,35.7,0,15.7,15.9
+149,384516,Odilon Kossounou,973,Ivory Coast,14,FirstHalf,Pass,Successful,15.1,17,5.1,49
+150,439446,Yahia Fofana,973,Ivory Coast,14,FirstHalf,Pass,Successful,5.9,51.2,11.4,79.9
+151,402810,Emmanuel Agbadou,973,Ivory Coast,14,FirstHalf,Pass,Successful,10.2,69,9.6,30.6
+152,384516,Odilon Kossounou,973,Ivory Coast,14,FirstHalf,Pass,Successful,19,27.6,33.3,48.7
+153,277269,Franck Kessie,973,Ivory Coast,14,FirstHalf,Pass,Successful,43.7,62.6,58,96.6
+155,557000,Yan Diomande,973,Ivory Coast,14,FirstHalf,TakeOn,Unsuccessful,93.9,89.2,,
+149,321085,Kristoffer Ajer,334,Norway,14,FirstHalf,Tackle,Successful,6.1,10.8,,
+150,321085,Kristoffer Ajer,334,Norway,14,FirstHalf,CornerAwarded,Unsuccessful,5.4,12.8,,
+156,557000,Yan Diomande,973,Ivory Coast,14,FirstHalf,CornerAwarded,Successful,94.6,87.2,,
+157,557000,Yan Diomande,973,Ivory Coast,15,FirstHalf,Pass,Unsuccessful,99.5,99.5,92.2,46.4
+151,302497,Alexander Sørloth,334,Norway,15,FirstHalf,Clearance,Successful,10.5,54,35.8,56.8
+158,331567,Ghislain Konan,973,Ivory Coast,15,FirstHalf,Pass,Successful,65.2,13.8,79.2,6.7
+159,447449,Guéla Doué,973,Ivory Coast,15,FirstHalf,Pass,Successful,85.6,6.8,89.8,68.1
+160,557000,Yan Diomande,973,Ivory Coast,15,FirstHalf,BallTouch,Unsuccessful,89.8,68.1,,
+153,39187,Ørjan Nyland,334,Norway,15,FirstHalf,Pass,Successful,3.3,39.9,28.6,13.7
+154,247454,Martin Ødegaard,334,Norway,15,FirstHalf,Pass,Successful,45.1,36.6,40.8,78.3
+155,415341,David Møller Wolfe,334,Norway,15,FirstHalf,Pass,Successful,41.5,80.7,48.6,93.9
+156,416030,Antonio Nusa,334,Norway,15,FirstHalf,Pass,Successful,48,93.3,47,73.5
+157,320986,Patrick Berg,334,Norway,15,FirstHalf,Pass,Successful,47,73.5,39,83.2
+158,415341,David Møller Wolfe,334,Norway,15,FirstHalf,Pass,Successful,39.2,79.5,33.1,62.5
+159,364336,Torbjørn Heggem,334,Norway,15,FirstHalf,Pass,Successful,33.5,60.3,38.4,51.9
+160,321020,Sander Berge,334,Norway,15,FirstHalf,Pass,Successful,37.7,51,39.9,25.2
+161,321085,Kristoffer Ajer,334,Norway,15,FirstHalf,Pass,Successful,44.8,24.7,64.5,6.1
+162,302497,Alexander Sørloth,334,Norway,15,FirstHalf,Pass,Successful,62.2,6.7,37.5,7.9
+163,357133,Marcus Pedersen,334,Norway,16,FirstHalf,Pass,Successful,39.9,8.5,34.6,62.1
+164,364336,Torbjørn Heggem,334,Norway,16,FirstHalf,Pass,Successful,33.1,58.2,45.9,54
+165,321020,Sander Berge,334,Norway,16,FirstHalf,Pass,Successful,47.7,60.7,48.6,37
+166,321085,Kristoffer Ajer,334,Norway,16,FirstHalf,Pass,Successful,59.2,32.8,64,37
+167,321020,Sander Berge,334,Norway,16,FirstHalf,Pass,Successful,62.8,34.5,68.7,4.6
+168,357133,Marcus Pedersen,334,Norway,16,FirstHalf,Pass,Successful,71.1,6.7,63.2,30
+169,321020,Sander Berge,334,Norway,16,FirstHalf,Pass,Successful,63.2,30,48.5,24.9
+170,321085,Kristoffer Ajer,334,Norway,16,FirstHalf,Pass,Successful,59.7,17.1,77.9,6.1
+171,302497,Alexander Sørloth,334,Norway,16,FirstHalf,TakeOn,Unsuccessful,72.9,11.7,,
+162,557000,Yan Diomande,973,Ivory Coast,16,FirstHalf,Tackle,Successful,27.1,88.3,,
+163,557000,Yan Diomande,973,Ivory Coast,16,FirstHalf,BallRecovery,Successful,29.9,85.1,,
+164,557000,Yan Diomande,973,Ivory Coast,16,FirstHalf,Pass,Successful,30,84.4,29.9,65.7
+165,277269,Franck Kessie,973,Ivory Coast,16,FirstHalf,Pass,Successful,29.9,65.5,31.5,78.8
+166,328075,Ibrahim Sangaré,973,Ivory Coast,16,FirstHalf,Pass,Successful,29.2,79.6,20.8,80.6
+167,402810,Emmanuel Agbadou,973,Ivory Coast,16,FirstHalf,Pass,Successful,20.8,80.6,27.5,94.8
+168,331567,Ghislain Konan,973,Ivory Coast,16,FirstHalf,Pass,Successful,28.4,94.2,18.7,83.8
+169,402810,Emmanuel Agbadou,973,Ivory Coast,16,FirstHalf,Pass,Successful,16.3,72.3,7,55.4
+170,439446,Yahia Fofana,973,Ivory Coast,16,FirstHalf,Pass,Successful,10.9,61.4,29,6.5
+171,239872,Nicolas Pépé,973,Ivory Coast,16,FirstHalf,Pass,Successful,29,6.5,17.2,9.7
+172,384516,Odilon Kossounou,973,Ivory Coast,16,FirstHalf,Pass,Successful,14.1,21,8.5,49
+173,439446,Yahia Fofana,973,Ivory Coast,16,FirstHalf,Pass,Successful,8.5,49,10.7,76.6
+174,402810,Emmanuel Agbadou,973,Ivory Coast,16,FirstHalf,Pass,Successful,10.7,76.4,21.8,93.6
+175,331567,Ghislain Konan,973,Ivory Coast,17,FirstHalf,Pass,Successful,22.7,93,39.1,80.8
+176,557000,Yan Diomande,973,Ivory Coast,17,FirstHalf,Pass,Successful,39.1,80.8,45.6,94.7
+177,547352,Christ Inao Oulaï,973,Ivory Coast,17,FirstHalf,Pass,Successful,45.1,96,35,95.4
+178,331567,Ghislain Konan,973,Ivory Coast,17,FirstHalf,Pass,Successful,35,95.4,40.6,89.3
+179,557000,Yan Diomande,973,Ivory Coast,17,FirstHalf,Pass,Successful,41.9,69.6,76,5.6
+180,239872,Nicolas Pépé,973,Ivory Coast,17,FirstHalf,Pass,Successful,86.5,17,94.6,24
+181,447449,Guéla Doué,973,Ivory Coast,17,FirstHalf,Pass,Successful,92,16.2,86.2,24.6
+182,239872,Nicolas Pépé,973,Ivory Coast,17,FirstHalf,Pass,Successful,85.9,24.6,83.6,34.2
+183,277269,Franck Kessie,973,Ivory Coast,17,FirstHalf,Pass,Successful,83.8,31.1,99.4,27.2
+185,239872,Nicolas Pépé,973,Ivory Coast,17,FirstHalf,BallTouch,Unsuccessful,99.8,28,,
+174,39187,Ørjan Nyland,334,Norway,17,FirstHalf,Pass,Successful,2.7,56,9.7,70.7
+175,364336,Torbjørn Heggem,334,Norway,17,FirstHalf,Pass,Successful,13.1,71.6,13.4,28
+176,321085,Kristoffer Ajer,334,Norway,17,FirstHalf,Pass,Successful,13.5,30.7,26.5,33.6
+177,247454,Martin Ødegaard,334,Norway,17,FirstHalf,Pass,Successful,25.2,31.1,15.8,28.4
+178,321085,Kristoffer Ajer,334,Norway,17,FirstHalf,Pass,Successful,19.7,31.5,23.7,22.6
+179,247454,Martin Ødegaard,334,Norway,18,FirstHalf,Pass,Successful,23.8,24.1,20.4,69.7
+180,364336,Torbjørn Heggem,334,Norway,18,FirstHalf,Pass,Successful,23.5,70.2,23,34.5
+181,321085,Kristoffer Ajer,334,Norway,18,FirstHalf,Pass,Successful,23,34.5,29.6,23.1
+182,247454,Martin Ødegaard,334,Norway,18,FirstHalf,Pass,Successful,31.4,21,44.1,4.5
+183,357133,Marcus Pedersen,334,Norway,18,FirstHalf,Pass,Successful,43.8,4.8,29.3,13.2
+184,247454,Martin Ødegaard,334,Norway,18,FirstHalf,Pass,Successful,29.3,22.6,9.1,52.2
+185,39187,Ørjan Nyland,334,Norway,18,FirstHalf,Pass,Successful,9.1,52,22.4,76.5
+186,364336,Torbjørn Heggem,334,Norway,18,FirstHalf,Pass,Successful,29.2,80.4,34.2,95.5
+187,415341,David Møller Wolfe,334,Norway,18,FirstHalf,Pass,Successful,34.3,95.1,19.9,84.1
+188,364336,Torbjørn Heggem,334,Norway,18,FirstHalf,Pass,Successful,22.3,78.1,29.2,64.8
+189,321020,Sander Berge,334,Norway,18,FirstHalf,Pass,Successful,29.2,64.8,7.3,56.4
+190,39187,Ørjan Nyland,334,Norway,18,FirstHalf,Pass,Successful,7.3,56.4,20.5,18
+191,321085,Kristoffer Ajer,334,Norway,18,FirstHalf,Pass,Successful,23.8,23.4,19.5,35.2
+192,321020,Sander Berge,334,Norway,18,FirstHalf,Pass,Successful,19.5,35.2,25.6,60.4
+193,247454,Martin Ødegaard,334,Norway,18,FirstHalf,Pass,Successful,43.2,68.4,38.5,60.7
+194,321020,Sander Berge,334,Norway,18,FirstHalf,Pass,Successful,44.1,46.6,44.5,31.2
+195,321085,Kristoffer Ajer,334,Norway,19,FirstHalf,Pass,Successful,44.4,34.2,40.8,66.1
+196,364336,Torbjørn Heggem,334,Norway,19,FirstHalf,Pass,Successful,42.9,68.8,71.2,92.8
+197,415341,David Møller Wolfe,334,Norway,19,FirstHalf,Pass,Successful,71.5,92.8,73.3,62.2
+198,302497,Alexander Sørloth,334,Norway,19,FirstHalf,Pass,Successful,84.6,65.1,92.8,69.7
+199,415341,David Møller Wolfe,334,Norway,19,FirstHalf,Pass,Unsuccessful,94.9,72.3,94.5,66.3
+186,447449,Guéla Doué,973,Ivory Coast,19,FirstHalf,BlockedPass,Successful,5.5,33.7,,
+201,415341,David Møller Wolfe,334,Norway,19,FirstHalf,BallTouch,Successful,92.6,71.4,,
+188,447449,Guéla Doué,973,Ivory Coast,19,FirstHalf,Pass,Unsuccessful,8.2,0,27.3,6.8
+202,321020,Sander Berge,334,Norway,19,FirstHalf,Pass,Successful,68.3,92.2,75.6,87.1
+203,415341,David Møller Wolfe,334,Norway,19,FirstHalf,Aerial,Successful,75.6,87.1,,
+189,239872,Nicolas Pépé,973,Ivory Coast,19,FirstHalf,Aerial,Unsuccessful,24.4,12.9,,
+204,415341,David Møller Wolfe,334,Norway,19,FirstHalf,Pass,Unsuccessful,75.6,87.1,77.6,87
+190,239872,Nicolas Pépé,973,Ivory Coast,19,FirstHalf,BallTouch,Successful,31,8.8,,
+191,328075,Ibrahim Sangaré,973,Ivory Coast,19,FirstHalf,Pass,Successful,28.9,24.2,33.2,28.6
+201,277269,Franck Kessie,973,Ivory Coast,19,FirstHalf,Pass,Successful,34.9,31.2,26,41.8
+192,402810,Emmanuel Agbadou,973,Ivory Coast,19,FirstHalf,Pass,Successful,24.6,43,43.1,62.1
+193,547352,Christ Inao Oulaï,973,Ivory Coast,19,FirstHalf,Pass,Successful,45.3,64.8,43.3,83.2
+194,331567,Ghislain Konan,973,Ivory Coast,19,FirstHalf,Pass,Successful,43.2,82.9,56,97.7
+195,557000,Yan Diomande,973,Ivory Coast,19,FirstHalf,Pass,Successful,59.1,83.2,60.6,64.3
+196,277269,Franck Kessie,973,Ivory Coast,20,FirstHalf,Pass,Successful,61.4,68.7,60.7,77.8
+197,557000,Yan Diomande,973,Ivory Coast,20,FirstHalf,Pass,Successful,60.7,77.8,78.4,88.7
+198,547352,Christ Inao Oulaï,973,Ivory Coast,20,FirstHalf,Pass,Successful,82.4,82.1,91,79.9
+205,357133,Marcus Pedersen,334,Norway,20,FirstHalf,Challenge,Unsuccessful,12.2,23.6,,
+199,331567,Ghislain Konan,973,Ivory Coast,20,FirstHalf,TakeOn,Successful,87.8,76.4,,
+200,331567,Ghislain Konan,973,Ivory Coast,20,FirstHalf,MissedShots,Successful,93,70.3,,
+207,39187,Ørjan Nyland,334,Norway,20,FirstHalf,Pass,Successful,3.1,49.9,10,70.2
+208,364336,Torbjørn Heggem,334,Norway,20,FirstHalf,Pass,Successful,15.5,72,25.5,44.8
+209,321020,Sander Berge,334,Norway,20,FirstHalf,Pass,Successful,25.5,48.6,13.3,27.4
+210,321085,Kristoffer Ajer,334,Norway,20,FirstHalf,Pass,Successful,27.2,39.9,32.9,23.8
+211,247454,Martin Ødegaard,334,Norway,20,FirstHalf,Pass,Successful,29.9,24.7,25,69.3
+212,364336,Torbjørn Heggem,334,Norway,20,FirstHalf,Pass,Successful,36.3,71.2,37.1,28.3
+213,247454,Martin Ødegaard,334,Norway,21,FirstHalf,Pass,Successful,44.3,21.7,37.3,65.8
+214,364336,Torbjørn Heggem,334,Norway,21,FirstHalf,Pass,Successful,45.4,72,71,92.5
+215,416030,Antonio Nusa,334,Norway,21,FirstHalf,Pass,Successful,68.4,90.9,58.7,64.3
+216,321020,Sander Berge,334,Norway,21,FirstHalf,Pass,Successful,59.2,67.3,66.7,85.8
+217,416030,Antonio Nusa,334,Norway,21,FirstHalf,Pass,Successful,73.4,87.6,57.5,95.1
+218,320986,Patrick Berg,334,Norway,21,FirstHalf,Pass,Successful,57.1,92.2,40,73
+219,364336,Torbjørn Heggem,334,Norway,21,FirstHalf,Pass,Successful,40.8,69,44.3,44.2
+220,321085,Kristoffer Ajer,334,Norway,21,FirstHalf,Pass,Successful,45.5,41.5,44.2,68.5
+221,364336,Torbjørn Heggem,334,Norway,21,FirstHalf,Pass,Successful,44.2,68.5,46.5,93.6
+222,320986,Patrick Berg,334,Norway,21,FirstHalf,Pass,Successful,46.5,93.6,46.8,64.6
+223,321020,Sander Berge,334,Norway,21,FirstHalf,Pass,Successful,46.8,64.6,48.8,93.7
+224,320986,Patrick Berg,334,Norway,21,FirstHalf,Pass,Successful,55.7,91.8,67.3,96.3
+225,416030,Antonio Nusa,334,Norway,21,FirstHalf,Pass,Successful,66.6,96,45.5,68.1
+226,321020,Sander Berge,334,Norway,21,FirstHalf,Pass,Successful,46.5,57,54.5,52.3
+227,247454,Martin Ødegaard,334,Norway,21,FirstHalf,Pass,Successful,54.5,52.3,44.5,57.6
+228,321020,Sander Berge,334,Norway,21,FirstHalf,Pass,Successful,44.6,57.6,56.5,76.8
+229,364336,Torbjørn Heggem,334,Norway,21,FirstHalf,Pass,Successful,59.1,78.6,78.4,90.1
+230,416030,Antonio Nusa,334,Norway,22,FirstHalf,TakeOn,Unsuccessful,81.2,90.6,,
+203,447449,Guéla Doué,973,Ivory Coast,22,FirstHalf,Tackle,Successful,18.8,9.3,,
+231,416030,Antonio Nusa,334,Norway,22,FirstHalf,CornerAwarded,Successful,89.1,96.4,,
+204,447449,Guéla Doué,973,Ivory Coast,22,FirstHalf,CornerAwarded,Unsuccessful,10.9,3.6,,
+232,320986,Patrick Berg,334,Norway,22,FirstHalf,Pass,Unsuccessful,99.5,99.5,94.9,56.2
+205,447489,Ange-Yoan Bonny,973,Ivory Coast,22,FirstHalf,Clearance,Successful,5.4,39.2,35.8,35.7
+812,557000,Yan Diomande,973,Ivory Coast,22,FirstHalf,TakeOn,Unsuccessful,32.1,34,,
+206,557000,Yan Diomande,973,Ivory Coast,22,FirstHalf,Foul,Successful,36.4,37.9,,
+233,415341,David Møller Wolfe,334,Norway,22,FirstHalf,Foul,Unsuccessful,63.6,62.1,,
+209,328075,Ibrahim Sangaré,973,Ivory Coast,26,FirstHalf,Pass,Successful,40.5,32.7,29.9,34.5
+210,384516,Odilon Kossounou,973,Ivory Coast,26,FirstHalf,Pass,Successful,29.3,36.3,23.2,67.5
+211,402810,Emmanuel Agbadou,973,Ivory Coast,26,FirstHalf,Pass,Successful,22.7,70.2,28.5,95.6
+212,331567,Ghislain Konan,973,Ivory Coast,26,FirstHalf,Pass,Unsuccessful,29.2,98.4,77.6,78.1
+236,321085,Kristoffer Ajer,334,Norway,26,FirstHalf,Clearance,Successful,27.8,26.6,39.5,17.4
+237,357133,Marcus Pedersen,334,Norway,26,FirstHalf,Dispossessed,Successful,31.2,14.1,,
+213,557000,Yan Diomande,973,Ivory Coast,26,FirstHalf,Tackle,Successful,68.8,85.9,,
+214,557000,Yan Diomande,973,Ivory Coast,26,FirstHalf,BallTouch,Unsuccessful,75,92.4,,
+238,321020,Sander Berge,334,Norway,26,FirstHalf,Dispossessed,Successful,30.2,8,,
+215,557000,Yan Diomande,973,Ivory Coast,26,FirstHalf,Tackle,Successful,69.8,91.9,,
+235,557000,Yan Diomande,973,Ivory Coast,26,FirstHalf,TakeOn,Unsuccessful,71.4,94.6,,
+239,321020,Sander Berge,334,Norway,26,FirstHalf,Tackle,Unsuccessful,28.5,5.4,,
+245,557000,Yan Diomande,973,Ivory Coast,26,FirstHalf,TakeOn,Unsuccessful,75,97.9,,
+265,321020,Sander Berge,334,Norway,26,FirstHalf,Tackle,Successful,25,2.1,,
+217,331567,Ghislain Konan,973,Ivory Coast,27,FirstHalf,Pass,Successful,71,100,50.8,92.1
+218,402810,Emmanuel Agbadou,973,Ivory Coast,27,FirstHalf,Pass,Successful,50.4,92.1,53.4,82
+219,328075,Ibrahim Sangaré,973,Ivory Coast,27,FirstHalf,Pass,Successful,53.4,82,45.4,92.6
+220,402810,Emmanuel Agbadou,973,Ivory Coast,27,FirstHalf,Pass,Successful,45.3,92.6,28.4,65.1
+221,384516,Odilon Kossounou,973,Ivory Coast,27,FirstHalf,Pass,Successful,22.1,65.2,10.6,56.9
+222,439446,Yahia Fofana,973,Ivory Coast,27,FirstHalf,Pass,Successful,12.4,63.6,45.1,82.1
+223,547352,Christ Inao Oulaï,973,Ivory Coast,27,FirstHalf,TakeOn,Unsuccessful,39.7,81,,
+241,302497,Alexander Sørloth,334,Norway,27,FirstHalf,Tackle,Unsuccessful,60.2,19,,
+224,328075,Ibrahim Sangaré,973,Ivory Coast,27,FirstHalf,Pass,Successful,39.2,80.2,36.9,94.5
+242,302497,Alexander Sørloth,334,Norway,27,FirstHalf,Challenge,Unsuccessful,65.5,11.6,,
+225,331567,Ghislain Konan,973,Ivory Coast,27,FirstHalf,TakeOn,Successful,34.5,88.4,,
+226,331567,Ghislain Konan,973,Ivory Coast,27,FirstHalf,Pass,Successful,45.7,85.3,49.1,74.2
+227,277269,Franck Kessie,973,Ivory Coast,27,FirstHalf,Pass,Successful,63.6,92.1,87.3,97.2
+228,557000,Yan Diomande,973,Ivory Coast,27,FirstHalf,Pass,Successful,88,85.4,96.5,40.6
+229,239872,Nicolas Pépé,973,Ivory Coast,27,FirstHalf,MissedShots,Successful,96.5,40.6,,
+244,321085,Kristoffer Ajer,334,Norway,27,FirstHalf,Clearance,Successful,3.2,45.6,0,57.1
+245,321085,Kristoffer Ajer,334,Norway,27,FirstHalf,CornerAwarded,Unsuccessful,0.6,53.8,,
+230,239872,Nicolas Pépé,973,Ivory Coast,27,FirstHalf,CornerAwarded,Successful,99.4,46.2,,
+231,239872,Nicolas Pépé,973,Ivory Coast,28,FirstHalf,Pass,Unsuccessful,99.5,0.5,93.1,47
+246,321085,Kristoffer Ajer,334,Norway,28,FirstHalf,Clearance,Successful,6.6,55,30.8,75.1
+232,557000,Yan Diomande,973,Ivory Coast,28,FirstHalf,Pass,Successful,75.6,22.4,86.1,9.5
+233,239872,Nicolas Pépé,973,Ivory Coast,28,FirstHalf,Pass,Successful,85.1,9.8,98.7,69.7
+234,277269,Franck Kessie,973,Ivory Coast,28,FirstHalf,BallTouch,Unsuccessful,98.8,69.3,,
+248,39187,Ørjan Nyland,334,Norway,28,FirstHalf,Pass,Successful,5,37,34.9,14.2
+249,247454,Martin Ødegaard,334,Norway,28,FirstHalf,Pass,Successful,25.9,9,37.4,10.5
+250,302497,Alexander Sørloth,334,Norway,28,FirstHalf,Pass,Successful,36.6,10.5,25,26.2
+251,321085,Kristoffer Ajer,334,Norway,29,FirstHalf,Pass,Successful,25.4,29.7,24.4,72.4
+252,364336,Torbjørn Heggem,334,Norway,29,FirstHalf,Pass,Successful,42.7,80.5,58.4,91.8
+253,415341,David Møller Wolfe,334,Norway,29,FirstHalf,Pass,Successful,68.4,91.2,79.5,92.4
+254,416030,Antonio Nusa,334,Norway,29,FirstHalf,TakeOn,Unsuccessful,82.8,84.4,,
+237,239872,Nicolas Pépé,973,Ivory Coast,29,FirstHalf,BallTouch,Successful,15.2,24.4,,
+238,328075,Ibrahim Sangaré,973,Ivory Coast,29,FirstHalf,Pass,Unsuccessful,17.2,30.3,18.1,28
+256,415341,David Møller Wolfe,334,Norway,29,FirstHalf,BlockedPass,Successful,81.9,72,,
+257,320986,Patrick Berg,334,Norway,29,FirstHalf,Pass,Successful,80.3,70.7,77.1,67.3
+258,416030,Antonio Nusa,334,Norway,29,FirstHalf,Pass,Successful,72.6,64.9,77,54
+259,247454,Martin Ødegaard,334,Norway,29,FirstHalf,TakeOn,Unsuccessful,77.9,54.3,,
+239,328075,Ibrahim Sangaré,973,Ivory Coast,29,FirstHalf,Tackle,Unsuccessful,22.1,45.7,,
+260,247454,Martin Ødegaard,334,Norway,29,FirstHalf,BallTouch,Successful,76.9,55.3,,
+261,320986,Patrick Berg,334,Norway,29,FirstHalf,BallTouch,Successful,80.6,59.2,,
+262,416030,Antonio Nusa,334,Norway,29,FirstHalf,TakeOn,Unsuccessful,79.4,60.3,,
+240,384516,Odilon Kossounou,973,Ivory Coast,29,FirstHalf,Tackle,Successful,20.6,39.8,,
+241,277269,Franck Kessie,973,Ivory Coast,29,FirstHalf,BallRecovery,Successful,25.3,38.6,,
+242,277269,Franck Kessie,973,Ivory Coast,29,FirstHalf,Pass,Successful,27.6,37.3,46.5,6.1
+243,239872,Nicolas Pépé,973,Ivory Coast,29,FirstHalf,Pass,Unsuccessful,84.8,24.9,96.9,65.4
+263,357133,Marcus Pedersen,334,Norway,29,FirstHalf,Clearance,Successful,3.7,32.1,0,27.3
+244,239872,Nicolas Pépé,973,Ivory Coast,29,FirstHalf,CornerAwarded,Successful,99.4,69.8,,
+264,357133,Marcus Pedersen,334,Norway,29,FirstHalf,CornerAwarded,Unsuccessful,0.6,30.2,,
+246,557000,Yan Diomande,973,Ivory Coast,30,FirstHalf,Pass,Unsuccessful,99.5,99.5,94.7,51.9
+266,321085,Kristoffer Ajer,334,Norway,30,FirstHalf,Aerial,Successful,5.3,48.1,,
+247,447489,Ange-Yoan Bonny,973,Ivory Coast,30,FirstHalf,Aerial,Unsuccessful,94.7,51.9,,
+267,321085,Kristoffer Ajer,334,Norway,30,FirstHalf,Clearance,Successful,5.3,48.1,4.4,43.6
+327,315227,Erling Haaland,334,Norway,30,FirstHalf,BallTouch,Successful,3.2,43.2,,
+268,315227,Erling Haaland,334,Norway,30,FirstHalf,CornerAwarded,Unsuccessful,1.2,38.8,,
+248,557000,Yan Diomande,973,Ivory Coast,30,FirstHalf,CornerAwarded,Successful,98.8,61.2,,
+249,557000,Yan Diomande,973,Ivory Coast,30,FirstHalf,Pass,Unsuccessful,99.5,99.5,95.2,54.3
+269,315227,Erling Haaland,334,Norway,30,FirstHalf,Clearance,Successful,5.9,44.7,25.2,7.5
+250,557000,Yan Diomande,973,Ivory Coast,30,FirstHalf,Pass,Successful,80.2,88.6,87.9,74.8
+251,402810,Emmanuel Agbadou,973,Ivory Coast,30,FirstHalf,Pass,Successful,87.9,74.8,83.6,75.7
+252,557000,Yan Diomande,973,Ivory Coast,30,FirstHalf,BallTouch,Unsuccessful,83.6,75.2,,
+270,416030,Antonio Nusa,334,Norway,30,FirstHalf,BallTouch,Unsuccessful,16.4,24.8,,
+253,239872,Nicolas Pépé,973,Ivory Coast,30,FirstHalf,BallTouch,Successful,84,87.2,,
+254,402810,Emmanuel Agbadou,973,Ivory Coast,30,FirstHalf,BallTouch,Successful,82,88.1,,
+255,239872,Nicolas Pépé,973,Ivory Coast,30,FirstHalf,BallTouch,Unsuccessful,82,88.1,,
+272,39187,Ørjan Nyland,334,Norway,31,FirstHalf,Pass,Unsuccessful,2.4,45.6,76.5,7.9
+257,331567,Ghislain Konan,973,Ivory Coast,31,FirstHalf,Aerial,Successful,23.5,92.1,,
+273,302497,Alexander Sørloth,334,Norway,31,FirstHalf,Aerial,Unsuccessful,76.5,7.9,,
+258,331567,Ghislain Konan,973,Ivory Coast,31,FirstHalf,Pass,Unsuccessful,23.5,92.1,60.6,100
+274,357133,Marcus Pedersen,334,Norway,31,FirstHalf,ShieldBallOpp,Successful,43.2,2.3,,
+276,357133,Marcus Pedersen,334,Norway,31,FirstHalf,Pass,Successful,40.2,0,51.5,11.1
+277,247454,Martin Ødegaard,334,Norway,31,FirstHalf,Pass,Unsuccessful,51.6,11.1,69.3,19.6
+260,402810,Emmanuel Agbadou,973,Ivory Coast,31,FirstHalf,Pass,Unsuccessful,37.2,82.4,42.2,95.9
+278,302497,Alexander Sørloth,334,Norway,31,FirstHalf,Pass,Successful,66.1,12.4,70,22
+279,315227,Erling Haaland,334,Norway,31,FirstHalf,Pass,Successful,68.8,20.2,64.8,10.2
+280,302497,Alexander Sørloth,334,Norway,31,FirstHalf,Pass,Successful,62.5,10.2,61.5,24.4
+281,321020,Sander Berge,334,Norway,31,FirstHalf,Pass,Successful,61.5,24.4,69.3,24.9
+282,247454,Martin Ødegaard,334,Norway,31,FirstHalf,Pass,Successful,69.3,24.9,68.7,34.6
+283,320986,Patrick Berg,334,Norway,31,FirstHalf,Pass,Successful,68.7,34.6,58.5,31.6
+284,321020,Sander Berge,334,Norway,31,FirstHalf,Pass,Successful,55.5,52,62.5,82.5
+285,415341,David Møller Wolfe,334,Norway,31,FirstHalf,Pass,Successful,60.1,80.1,53.9,62.8
+286,321020,Sander Berge,334,Norway,31,FirstHalf,Pass,Successful,53.9,62.8,40.8,69.3
+287,364336,Torbjørn Heggem,334,Norway,32,FirstHalf,Pass,Successful,40.1,65.8,45.5,54.1
+288,321020,Sander Berge,334,Norway,32,FirstHalf,Pass,Successful,45.7,53.5,43,77.8
+289,364336,Torbjørn Heggem,334,Norway,32,FirstHalf,Pass,Successful,45.1,83.8,70.8,91.9
+290,415341,David Møller Wolfe,334,Norway,32,FirstHalf,TakeOn,Unsuccessful,65.7,92.4,,
+262,239872,Nicolas Pépé,973,Ivory Coast,32,FirstHalf,Tackle,Unsuccessful,34.3,7.6,,
+291,415341,David Møller Wolfe,334,Norway,32,FirstHalf,Pass,Successful,63.7,89.2,42.3,85.2
+292,364336,Torbjørn Heggem,334,Norway,32,FirstHalf,Pass,Successful,46,86.4,67.5,94.9
+264,239872,Nicolas Pépé,973,Ivory Coast,32,FirstHalf,Challenge,Unsuccessful,37.8,7.8,,
+293,416030,Antonio Nusa,334,Norway,32,FirstHalf,TakeOn,Successful,62.2,92.2,,
+294,416030,Antonio Nusa,334,Norway,32,FirstHalf,Pass,Successful,67.4,82.2,72.8,15.3
+295,302497,Alexander Sørloth,334,Norway,32,FirstHalf,Dispossessed,Successful,72.2,19,,
+265,331567,Ghislain Konan,973,Ivory Coast,32,FirstHalf,Tackle,Successful,27.8,81,,
+266,557000,Yan Diomande,973,Ivory Coast,32,FirstHalf,BallRecovery,Successful,44.4,93.6,,
+267,557000,Yan Diomande,973,Ivory Coast,32,FirstHalf,Pass,Successful,71.5,87.8,87.5,74.5
+268,447489,Ange-Yoan Bonny,973,Ivory Coast,32,FirstHalf,Dispossessed,Successful,88.4,74.4,,
+296,364336,Torbjørn Heggem,334,Norway,32,FirstHalf,Tackle,Successful,11.6,25.6,,
+269,447489,Ange-Yoan Bonny,973,Ivory Coast,32,FirstHalf,CornerAwarded,Successful,87.6,73.8,,
+297,364336,Torbjørn Heggem,334,Norway,32,FirstHalf,CornerAwarded,Unsuccessful,12.5,26.2,,
+270,557000,Yan Diomande,973,Ivory Coast,33,FirstHalf,Pass,Successful,99.5,99.5,92.8,60.8
+271,447489,Ange-Yoan Bonny,973,Ivory Coast,33,FirstHalf,Pass,Successful,92.8,60.8,93.3,53.7
+289,402810,Emmanuel Agbadou,973,Ivory Coast,33,FirstHalf,BallTouch,Successful,93.9,54.9,,
+272,447489,Ange-Yoan Bonny,973,Ivory Coast,33,FirstHalf,Pass,Successful,80.6,66.6,77,31.2
+273,547352,Christ Inao Oulaï,973,Ivory Coast,33,FirstHalf,Pass,Successful,80.2,3.5,78.5,11.3
+274,384516,Odilon Kossounou,973,Ivory Coast,33,FirstHalf,Pass,Successful,78.9,10.9,80.2,17.3
+275,277269,Franck Kessie,973,Ivory Coast,33,FirstHalf,Pass,Unsuccessful,93.2,14.7,93.1,17.6
+300,320986,Patrick Berg,334,Norway,33,FirstHalf,Clearance,Successful,6.9,82.4,,
+301,320986,Patrick Berg,334,Norway,33,FirstHalf,CornerAwarded,Unsuccessful,8.8,80.6,,
+276,277269,Franck Kessie,973,Ivory Coast,33,FirstHalf,CornerAwarded,Successful,91.2,19.4,,
+277,277269,Franck Kessie,973,Ivory Coast,33,FirstHalf,Pass,Successful,99.5,0.5,80.3,13.8
+278,547352,Christ Inao Oulaï,973,Ivory Coast,33,FirstHalf,Pass,Successful,80.4,13.7,91.3,12.8
+279,277269,Franck Kessie,973,Ivory Coast,33,FirstHalf,Pass,Unsuccessful,91.3,12.5,94.9,47.6
+302,315227,Erling Haaland,334,Norway,34,FirstHalf,Clearance,Successful,4.5,50.4,30.9,49.6
+280,402810,Emmanuel Agbadou,973,Ivory Coast,34,FirstHalf,SavedShot,Successful,73.5,45.6,,
+303,39187,Ørjan Nyland,334,Norway,34,FirstHalf,Save,Successful,2.4,50.5,,
+304,39187,Ørjan Nyland,334,Norway,34,FirstHalf,KeeperPickup,Successful,7.8,53.4,,
+305,39187,Ørjan Nyland,334,Norway,34,FirstHalf,Pass,Successful,6.7,53.2,14.4,28.8
+306,321085,Kristoffer Ajer,334,Norway,34,FirstHalf,Pass,Successful,21.7,31,24.5,67.3
+307,364336,Torbjørn Heggem,334,Norway,34,FirstHalf,Pass,Successful,44.7,69.1,37.3,87.6
+308,415341,David Møller Wolfe,334,Norway,34,FirstHalf,Pass,Successful,34.3,76.2,13.4,63.6
+309,39187,Ørjan Nyland,334,Norway,34,FirstHalf,Pass,Unsuccessful,16.4,65.4,45.7,0
+282,331567,Ghislain Konan,973,Ivory Coast,34,FirstHalf,Pass,Successful,59.5,100,43.4,94.2
+283,402810,Emmanuel Agbadou,973,Ivory Coast,34,FirstHalf,Pass,Successful,43.5,93.9,48.3,78.2
+284,547352,Christ Inao Oulaï,973,Ivory Coast,34,FirstHalf,Pass,Successful,47.5,69.1,48.5,45.1
+285,328075,Ibrahim Sangaré,973,Ivory Coast,35,FirstHalf,Pass,Successful,51.6,40,73.2,7.7
+286,447449,Guéla Doué,973,Ivory Coast,35,FirstHalf,Pass,Unsuccessful,80,7,82.6,10.4
+311,415341,David Møller Wolfe,334,Norway,35,FirstHalf,Interception,Successful,17.4,89.6,,
+312,415341,David Møller Wolfe,334,Norway,35,FirstHalf,Dispossessed,Successful,8.7,91.8,,
+287,447449,Guéla Doué,973,Ivory Coast,35,FirstHalf,Tackle,Successful,91.3,8.2,,
+314,39187,Ørjan Nyland,334,Norway,35,FirstHalf,Pass,Successful,3.3,54.1,66.6,11.2
+315,302497,Alexander Sørloth,334,Norway,35,FirstHalf,Pass,Unsuccessful,66.5,11.2,67.8,31.8
+290,328075,Ibrahim Sangaré,973,Ivory Coast,35,FirstHalf,Pass,Unsuccessful,38.4,76.3,52.3,69.9
+316,321020,Sander Berge,334,Norway,35,FirstHalf,Pass,Unsuccessful,43.8,25.2,59.3,21
+291,402810,Emmanuel Agbadou,973,Ivory Coast,35,FirstHalf,Pass,Unsuccessful,36.5,75,47.2,68.4
+317,321020,Sander Berge,334,Norway,35,FirstHalf,BallRecovery,Successful,66.6,27.4,,
+318,321020,Sander Berge,334,Norway,35,FirstHalf,BallTouch,Unsuccessful,67.5,27.1,,
+293,547352,Christ Inao Oulaï,973,Ivory Coast,35,FirstHalf,BallRecovery,Successful,42.6,72.1,,
+294,547352,Christ Inao Oulaï,973,Ivory Coast,35,FirstHalf,Pass,Unsuccessful,44.1,76.4,41.6,64.3
+320,320986,Patrick Berg,334,Norway,35,FirstHalf,Pass,Unsuccessful,57.7,37.6,59.3,41.5
+295,328075,Ibrahim Sangaré,973,Ivory Coast,35,FirstHalf,BlockedPass,Successful,40.7,58.5,,
+321,416030,Antonio Nusa,334,Norway,35,FirstHalf,BallRecovery,Successful,56.9,54.1,,
+322,416030,Antonio Nusa,334,Norway,35,FirstHalf,Pass,Successful,56.9,54.1,36.5,50.2
+323,364336,Torbjørn Heggem,334,Norway,35,FirstHalf,Pass,Successful,36.4,50.1,39.8,31.3
+324,321085,Kristoffer Ajer,334,Norway,36,FirstHalf,Pass,Successful,44.7,25.8,55.6,6
+325,357133,Marcus Pedersen,334,Norway,36,FirstHalf,Pass,Successful,55.7,5.8,43.3,16.6
+326,321085,Kristoffer Ajer,334,Norway,36,FirstHalf,Pass,Successful,41.6,13.3,64.5,16.3
+328,247454,Martin Ødegaard,334,Norway,36,FirstHalf,Pass,Successful,73.7,18.6,83.8,7.9
+329,302497,Alexander Sørloth,334,Norway,36,FirstHalf,Pass,Successful,97.9,12.6,90.7,53.1
+331,315227,Erling Haaland,334,Norway,36,FirstHalf,Aerial,Successful,90.7,53.1,,
+296,447449,Guéla Doué,973,Ivory Coast,36,FirstHalf,Aerial,Unsuccessful,9.3,46.9,,
+330,315227,Erling Haaland,334,Norway,36,FirstHalf,SavedShot,Successful,90.7,53.1,,
+297,439446,Yahia Fofana,973,Ivory Coast,36,FirstHalf,Save,Successful,1,49.4,,
+298,439446,Yahia Fofana,973,Ivory Coast,36,FirstHalf,KeeperPickup,Successful,1,49.4,,
+299,439446,Yahia Fofana,973,Ivory Coast,36,FirstHalf,Pass,Successful,9.9,45.5,14.2,68.1
+300,402810,Emmanuel Agbadou,973,Ivory Coast,36,FirstHalf,Pass,Successful,14.2,68.1,20.4,94.7
+301,331567,Ghislain Konan,973,Ivory Coast,36,FirstHalf,Pass,Successful,20.4,94.8,34.7,93.8
+302,557000,Yan Diomande,973,Ivory Coast,36,FirstHalf,Foul,Successful,29.7,86.2,,
+332,302497,Alexander Sørloth,334,Norway,36,FirstHalf,Foul,Unsuccessful,70.3,13.8,,
+303,328075,Ibrahim Sangaré,973,Ivory Coast,37,FirstHalf,Pass,Successful,34.5,86,25.2,76.3
+304,402810,Emmanuel Agbadou,973,Ivory Coast,37,FirstHalf,Pass,Successful,25.2,76.3,31,85.6
+305,328075,Ibrahim Sangaré,973,Ivory Coast,37,FirstHalf,Pass,Successful,29.1,80,38.2,66
+306,547352,Christ Inao Oulaï,973,Ivory Coast,37,FirstHalf,Pass,Successful,38.2,66,26,64.6
+307,402810,Emmanuel Agbadou,973,Ivory Coast,37,FirstHalf,Pass,Successful,27.1,59.4,51.9,6.1
+308,239872,Nicolas Pépé,973,Ivory Coast,37,FirstHalf,TakeOn,Unsuccessful,51.8,7.2,,
+333,416030,Antonio Nusa,334,Norway,37,FirstHalf,Tackle,Unsuccessful,48.2,92.8,,
+309,239872,Nicolas Pépé,973,Ivory Coast,37,FirstHalf,Pass,Unsuccessful,43,4.9,81.1,35.8
+334,321085,Kristoffer Ajer,334,Norway,37,FirstHalf,Clearance,Successful,17.5,55.4,18.8,58.1
+310,447489,Ange-Yoan Bonny,973,Ivory Coast,37,FirstHalf,BallTouch,Unsuccessful,80.9,39.1,,
+389,364336,Torbjørn Heggem,334,Norway,37,FirstHalf,BallTouch,Successful,18.6,55.9,,
+391,321085,Kristoffer Ajer,334,Norway,37,FirstHalf,BallTouch,Successful,18.6,55.9,,
+335,364336,Torbjørn Heggem,334,Norway,37,FirstHalf,BallRecovery,Successful,17.1,61.5,,
+336,364336,Torbjørn Heggem,334,Norway,37,FirstHalf,Pass,Successful,17.1,61.5,32.8,74.5
+337,320986,Patrick Berg,334,Norway,37,FirstHalf,Pass,Successful,32.8,75.6,24.8,90
+338,415341,David Møller Wolfe,334,Norway,37,FirstHalf,Pass,Successful,24.5,90,44,92.4
+339,416030,Antonio Nusa,334,Norway,37,FirstHalf,Pass,Successful,44,92.4,47.7,84.7
+340,320986,Patrick Berg,334,Norway,37,FirstHalf,Pass,Successful,64.8,93,62.4,86.5
+341,416030,Antonio Nusa,334,Norway,37,FirstHalf,Pass,Successful,75.1,69.9,73.3,47.1
+342,247454,Martin Ødegaard,334,Norway,37,FirstHalf,SavedShot,Successful,74.9,55.7,,
+311,328075,Ibrahim Sangaré,973,Ivory Coast,37,FirstHalf,Save,Successful,21.5,45.1,,
+343,321020,Sander Berge,334,Norway,37,FirstHalf,Pass,Successful,70.5,47.1,61.5,17.1
+344,357133,Marcus Pedersen,334,Norway,37,FirstHalf,Pass,Successful,67.8,11.5,77.1,6
+345,302497,Alexander Sørloth,334,Norway,38,FirstHalf,Pass,Successful,81.7,6.3,68.3,15
+346,247454,Martin Ødegaard,334,Norway,38,FirstHalf,Pass,Successful,70.1,15,67.6,31.6
+347,321020,Sander Berge,334,Norway,38,FirstHalf,Pass,Successful,67.8,30.6,76.2,2.5
+348,247454,Martin Ødegaard,334,Norway,38,FirstHalf,Pass,Successful,56.8,20.7,63.1,7.3
+349,321085,Kristoffer Ajer,334,Norway,38,FirstHalf,Pass,Successful,66,6.1,55.5,18
+350,247454,Martin Ødegaard,334,Norway,38,FirstHalf,Pass,Successful,56.8,27.9,77.9,42.7
+351,321020,Sander Berge,334,Norway,38,FirstHalf,Pass,Successful,74.9,60.9,74.7,86.4
+352,415341,David Møller Wolfe,334,Norway,38,FirstHalf,Pass,Successful,77.4,86.5,84.7,91.5
+353,416030,Antonio Nusa,334,Norway,38,FirstHalf,Pass,Successful,88.6,82.3,74.4,64.5
+354,320986,Patrick Berg,334,Norway,38,FirstHalf,Pass,Successful,74,63.9,74.8,40.2
+355,247454,Martin Ødegaard,334,Norway,38,FirstHalf,Pass,Successful,71.3,54,89.4,84.9
+356,416030,Antonio Nusa,334,Norway,38,FirstHalf,Goal,Successful,87.5,70.5,,
+312,447489,Ange-Yoan Bonny,973,Ivory Coast,39,FirstHalf,Pass,Successful,49.8,50.1,39.6,46.1
+313,328075,Ibrahim Sangaré,973,Ivory Coast,39,FirstHalf,Pass,Successful,39.5,46.1,39.7,12.9
+314,447449,Guéla Doué,973,Ivory Coast,40,FirstHalf,Pass,Successful,39.6,12.9,41.6,24.4
+315,277269,Franck Kessie,973,Ivory Coast,40,FirstHalf,Pass,Successful,41.6,23.9,47.9,7
+316,239872,Nicolas Pépé,973,Ivory Coast,40,FirstHalf,Pass,Successful,46.9,7.1,30.2,5.5
+317,447449,Guéla Doué,973,Ivory Coast,40,FirstHalf,Pass,Successful,27.4,9.7,20.2,31
+318,384516,Odilon Kossounou,973,Ivory Coast,40,FirstHalf,Pass,Unsuccessful,20.2,31,17.9,100
+358,357133,Marcus Pedersen,334,Norway,40,FirstHalf,Pass,Successful,79.6,0,63.7,7.6
+359,321020,Sander Berge,334,Norway,40,FirstHalf,Pass,Successful,59.9,10.8,43.2,33.9
+360,364336,Torbjørn Heggem,334,Norway,40,FirstHalf,Pass,Successful,42.4,33.9,46.6,9
+361,321085,Kristoffer Ajer,334,Norway,40,FirstHalf,Pass,Successful,42.9,8.2,45.6,24.8
+362,321020,Sander Berge,334,Norway,40,FirstHalf,Pass,Successful,46,25.4,53.8,11.1
+363,247454,Martin Ødegaard,334,Norway,40,FirstHalf,Pass,Successful,43.1,15.7,37.3,9.4
+364,321085,Kristoffer Ajer,334,Norway,40,FirstHalf,Pass,Unsuccessful,41,8.1,63.8,12.4
+320,331567,Ghislain Konan,973,Ivory Coast,40,FirstHalf,BallTouch,Unsuccessful,41,88,,
+365,302497,Alexander Sørloth,334,Norway,40,FirstHalf,Pass,Successful,62.9,11.4,65.1,15.3
+366,321020,Sander Berge,334,Norway,40,FirstHalf,Pass,Successful,65.1,15.3,75.6,6.3
+367,357133,Marcus Pedersen,334,Norway,41,FirstHalf,TakeOn,Unsuccessful,89.2,8.2,,
+321,402810,Emmanuel Agbadou,973,Ivory Coast,41,FirstHalf,Tackle,Unsuccessful,10.8,91.8,,
+368,357133,Marcus Pedersen,334,Norway,41,FirstHalf,Pass,Successful,84.4,11.1,78.6,21.3
+369,247454,Martin Ødegaard,334,Norway,41,FirstHalf,Pass,Successful,80.8,21.7,93.2,60
+370,302497,Alexander Sørloth,334,Norway,41,FirstHalf,Aerial,Successful,93.2,60,,
+323,384516,Odilon Kossounou,973,Ivory Coast,41,FirstHalf,Aerial,Unsuccessful,6.8,40,,
+371,302497,Alexander Sørloth,334,Norway,41,FirstHalf,Pass,Unsuccessful,93.2,60,92.2,55.4
+327,384516,Odilon Kossounou,973,Ivory Coast,41,FirstHalf,BallTouch,Successful,7.7,42.2,,
+372,315227,Erling Haaland,334,Norway,41,FirstHalf,SavedShot,Successful,95.1,50.9,,
+324,328075,Ibrahim Sangaré,973,Ivory Coast,41,FirstHalf,Save,Successful,3.3,48.7,,
+325,328075,Ibrahim Sangaré,973,Ivory Coast,41,FirstHalf,CornerAwarded,Unsuccessful,3.6,48,,
+373,315227,Erling Haaland,334,Norway,41,FirstHalf,CornerAwarded,Successful,96.4,52,,
+374,320986,Patrick Berg,334,Norway,41,FirstHalf,Pass,Successful,99.5,99.5,95.1,52.1
+375,302497,Alexander Sørloth,334,Norway,41,FirstHalf,MissedShots,Successful,95.1,52.1,,
+328,439446,Yahia Fofana,973,Ivory Coast,42,FirstHalf,Pass,Unsuccessful,4.9,59.4,64.3,62.4
+377,321020,Sander Berge,334,Norway,42,FirstHalf,Pass,Unsuccessful,37.6,30.1,64.2,37.2
+329,402810,Emmanuel Agbadou,973,Ivory Coast,42,FirstHalf,Pass,Successful,34.3,65.5,35.4,90.3
+330,331567,Ghislain Konan,973,Ivory Coast,42,FirstHalf,Pass,Successful,37.6,83.3,38.2,70.8
+331,328075,Ibrahim Sangaré,973,Ivory Coast,42,FirstHalf,Pass,Successful,38.2,70.8,29.9,69.9
+332,402810,Emmanuel Agbadou,973,Ivory Coast,42,FirstHalf,Pass,Unsuccessful,31.6,64.9,88.1,44.9
+378,39187,Ørjan Nyland,334,Norway,42,FirstHalf,BallRecovery,Successful,12.7,58.5,,
+379,39187,Ørjan Nyland,334,Norway,42,FirstHalf,Pass,Successful,8.7,49.2,16.4,24.1
+380,321085,Kristoffer Ajer,334,Norway,42,FirstHalf,Pass,Successful,23.1,27.3,38.2,22.5
+381,247454,Martin Ødegaard,334,Norway,42,FirstHalf,Pass,Successful,38.2,22.5,42.3,37.3
+382,321020,Sander Berge,334,Norway,42,FirstHalf,Pass,Successful,40.3,45.9,42.5,92.7
+383,415341,David Møller Wolfe,334,Norway,43,FirstHalf,Pass,Successful,47.3,93.1,60.7,94.5
+384,416030,Antonio Nusa,334,Norway,43,FirstHalf,Pass,Unsuccessful,61.4,93.4,36.5,87.3
+334,447489,Ange-Yoan Bonny,973,Ivory Coast,43,FirstHalf,BallRecovery,Successful,68.3,13.1,,
+335,447489,Ange-Yoan Bonny,973,Ivory Coast,43,FirstHalf,Dispossessed,Successful,74.4,35.5,,
+385,321020,Sander Berge,334,Norway,43,FirstHalf,Tackle,Successful,25.6,64.5,,
+390,247454,Martin Ødegaard,334,Norway,43,FirstHalf,BallTouch,Successful,25.6,63.8,,
+386,321085,Kristoffer Ajer,334,Norway,43,FirstHalf,Clearance,Successful,17.6,50.5,33.8,17.8
+336,547352,Christ Inao Oulaï,973,Ivory Coast,43,FirstHalf,Pass,Successful,73.3,77.2,81.6,73.8
+337,277269,Franck Kessie,973,Ivory Coast,43,FirstHalf,Pass,Successful,81.6,73.8,80.2,82.7
+338,331567,Ghislain Konan,973,Ivory Coast,43,FirstHalf,Pass,Unsuccessful,93.1,73.8,93.4,72.3
+387,357133,Marcus Pedersen,334,Norway,43,FirstHalf,BlockedPass,Successful,6.6,27.7,,
+339,331567,Ghislain Konan,973,Ivory Coast,43,FirstHalf,CornerAwarded,Successful,91.2,74.4,,
+388,357133,Marcus Pedersen,334,Norway,43,FirstHalf,CornerAwarded,Unsuccessful,8.8,25.6,,
+340,557000,Yan Diomande,973,Ivory Coast,43,FirstHalf,Pass,Unsuccessful,99.5,99.5,96.9,53
+392,39187,Ørjan Nyland,334,Norway,43,FirstHalf,Aerial,Successful,3.1,47,,
+348,447449,Guéla Doué,973,Ivory Coast,43,FirstHalf,Aerial,Unsuccessful,96.9,53,,
+393,39187,Ørjan Nyland,334,Norway,43,FirstHalf,Punch,Unsuccessful,3.1,47,38.1,59.2
+341,331567,Ghislain Konan,973,Ivory Coast,43,FirstHalf,Pass,Successful,63.7,59.9,75.3,95.6
+342,557000,Yan Diomande,973,Ivory Coast,43,FirstHalf,Pass,Successful,76,95.1,95.5,74.4
+343,277269,Franck Kessie,973,Ivory Coast,44,FirstHalf,Pass,Unsuccessful,97.6,70.7,98,69.1
+394,315227,Erling Haaland,334,Norway,44,FirstHalf,BallTouch,Successful,2.6,31.1,,
+344,277269,Franck Kessie,973,Ivory Coast,44,FirstHalf,CornerAwarded,Successful,92.4,68.8,,
+395,315227,Erling Haaland,334,Norway,44,FirstHalf,CornerAwarded,Unsuccessful,7.6,31.2,,
+345,239872,Nicolas Pépé,973,Ivory Coast,44,FirstHalf,Pass,Unsuccessful,99.5,0.5,94.5,49.9
+396,321085,Kristoffer Ajer,334,Norway,44,FirstHalf,Clearance,Successful,6.1,58.3,10.4,23.7
+397,416030,Antonio Nusa,334,Norway,44,FirstHalf,BallRecovery,Successful,16.4,16,,
+398,416030,Antonio Nusa,334,Norway,44,FirstHalf,TakeOn,Unsuccessful,33.3,6,,
+346,277269,Franck Kessie,973,Ivory Coast,44,FirstHalf,Tackle,Successful,66.7,94,,
+400,357133,Marcus Pedersen,334,Norway,45,FirstHalf,Pass,Successful,42.2,0,58.7,6.9
+401,302497,Alexander Sørloth,334,Norway,45,FirstHalf,Pass,Unsuccessful,52.8,4.1,45.9,25.4
+349,277269,Franck Kessie,973,Ivory Coast,45,FirstHalf,BallRecovery,Successful,54.5,77.9,,
+350,277269,Franck Kessie,973,Ivory Coast,45,FirstHalf,Pass,Successful,54.6,75.8,65,67.7
+351,447489,Ange-Yoan Bonny,973,Ivory Coast,45,FirstHalf,Pass,Successful,70.3,48.8,76.8,19.1
+809,447449,Guéla Doué,973,Ivory Coast,45,FirstHalf,TakeOn,Unsuccessful,76.5,20.2,,
+352,447449,Guéla Doué,973,Ivory Coast,45,FirstHalf,Foul,Successful,71.4,17.4,,
+402,416030,Antonio Nusa,334,Norway,45,FirstHalf,Foul,Unsuccessful,28.6,82.6,,
+403,416030,Antonio Nusa,334,Norway,45,FirstHalf,Card,Successful,0,0,,
+353,239872,Nicolas Pépé,973,Ivory Coast,46,FirstHalf,Pass,Successful,76.5,18.2,91.1,52.7
+354,402810,Emmanuel Agbadou,973,Ivory Coast,46,FirstHalf,Aerial,Successful,91.1,52.7,,
+404,302497,Alexander Sørloth,334,Norway,46,FirstHalf,Aerial,Unsuccessful,8.9,47.3,,
+355,402810,Emmanuel Agbadou,973,Ivory Coast,46,FirstHalf,MissedShots,Successful,91.1,52.7,,
+407,39187,Ørjan Nyland,334,Norway,46,FirstHalf,Pass,Successful,3.4,42.7,69.7,19.5
+408,302497,Alexander Sørloth,334,Norway,47,FirstHalf,Aerial,Successful,69.7,19.5,,
+357,331567,Ghislain Konan,973,Ivory Coast,47,FirstHalf,Aerial,Unsuccessful,30.3,80.5,,
+409,302497,Alexander Sørloth,334,Norway,47,FirstHalf,Pass,Unsuccessful,69.7,19.5,83.3,28
+358,402810,Emmanuel Agbadou,973,Ivory Coast,47,FirstHalf,BallRecovery,Successful,24.1,79,,
+359,402810,Emmanuel Agbadou,973,Ivory Coast,47,FirstHalf,Pass,Unsuccessful,25.4,83.8,38.7,100
+412,321020,Sander Berge,334,Norway,47,FirstHalf,Pass,Successful,64.5,0,43.9,6.6
+413,357133,Marcus Pedersen,334,Norway,47,FirstHalf,Pass,Successful,42.7,9.4,28.1,17.5
+414,321085,Kristoffer Ajer,334,Norway,47,FirstHalf,Pass,Successful,31.7,25.2,12.9,49.3
+415,39187,Ørjan Nyland,334,Norway,47,FirstHalf,Pass,Successful,12.9,49.2,23,74.8
+416,364336,Torbjørn Heggem,334,Norway,47,FirstHalf,Pass,Successful,37.9,73.9,47.5,96
+417,415341,David Møller Wolfe,334,Norway,47,FirstHalf,Pass,Successful,45.1,78,38.3,52.6
+418,321020,Sander Berge,334,Norway,47,FirstHalf,Pass,Successful,39.7,50.1,47.7,7.3
+419,357133,Marcus Pedersen,334,Norway,47,FirstHalf,Pass,Successful,48,7.3,42.3,24.6
+420,321085,Kristoffer Ajer,334,Norway,47,FirstHalf,Pass,Successful,44.6,32.5,44.4,7.5
+421,357133,Marcus Pedersen,334,Norway,47,FirstHalf,Pass,Successful,42.5,10.6,32.5,31.2
+422,321085,Kristoffer Ajer,334,Norway,47,FirstHalf,Pass,Successful,33.3,21.7,37.3,9
+423,357133,Marcus Pedersen,334,Norway,47,FirstHalf,Pass,Unsuccessful,35.9,8.7,92.9,19.5
+363,402810,Emmanuel Agbadou,973,Ivory Coast,47,FirstHalf,BallRecovery,Successful,14.2,80.9,,
+364,402810,Emmanuel Agbadou,973,Ivory Coast,47,FirstHalf,Pass,Successful,14.2,80.9,3.2,62.4
+365,439446,Yahia Fofana,973,Ivory Coast,48,FirstHalf,Pass,Successful,3.2,55.4,41.3,8.9
+366,239872,Nicolas Pépé,973,Ivory Coast,48,FirstHalf,Pass,Unsuccessful,36,2.2,29.9,0
+425,415341,David Møller Wolfe,334,Norway,48,FirstHalf,Pass,Successful,73.6,100,80.4,85
+426,320986,Patrick Berg,334,Norway,48,FirstHalf,Pass,Successful,84.2,83.4,93.2,91.9
+427,416030,Antonio Nusa,334,Norway,48,FirstHalf,Pass,Unsuccessful,93.2,91.9,93.2,88.8
+368,447449,Guéla Doué,973,Ivory Coast,48,FirstHalf,BlockedPass,Successful,6.8,11.2,,
+369,447449,Guéla Doué,973,Ivory Coast,48,FirstHalf,Pass,Unsuccessful,10.2,4.6,11.4,4.6
+428,416030,Antonio Nusa,334,Norway,48,FirstHalf,BallTouch,Successful,90.5,91.8,,
+371,447449,Guéla Doué,973,Ivory Coast,48,FirstHalf,Pass,Successful,14,0,33.4,5.8
+372,447489,Ange-Yoan Bonny,973,Ivory Coast,48,FirstHalf,Pass,Unsuccessful,33.4,5.8,46.6,8.8
+430,321020,Sander Berge,334,Norway,48,FirstHalf,Pass,Unsuccessful,58.2,87.1,75.1,88.8
+373,447449,Guéla Doué,973,Ivory Coast,48,FirstHalf,Pass,Unsuccessful,36.1,9.5,47.2,11.7
+431,320986,Patrick Berg,334,Norway,48,FirstHalf,Pass,Unsuccessful,56.1,84.2,60.5,94.8
+374,447489,Ange-Yoan Bonny,973,Ivory Coast,48,FirstHalf,TakeOn,Unsuccessful,47.2,8,,
+433,320986,Patrick Berg,334,Norway,48,FirstHalf,Tackle,Successful,52.8,92,,
+434,320986,Patrick Berg,334,Norway,48,FirstHalf,BallRecovery,Successful,44.9,88.8,,
+435,320986,Patrick Berg,334,Norway,48,FirstHalf,Pass,Successful,44.9,88.8,46.3,69.7
+436,321020,Sander Berge,334,Norway,48,FirstHalf,Pass,Successful,44.7,64.5,34.7,43.6
+437,321085,Kristoffer Ajer,334,Norway,48,FirstHalf,Pass,Successful,36.6,45.9,39.6,36.1
+375,,,973,Ivory Coast,49,FirstHalf,End,Successful,0,0,,
+438,,,334,Norway,49,FirstHalf,End,Successful,0,0,,
+11378,447489,Ange-Yoan Bonny,973,Ivory Coast,45,SecondHalf,OffsideGiven,Unsuccessful,53.4,58.9,,
+439,,,334,Norway,45,SecondHalf,Start,Successful,0,0,,
+376,,,973,Ivory Coast,45,SecondHalf,Start,Successful,0,0,,
+440,247454,Martin Ødegaard,334,Norway,45,SecondHalf,Pass,Successful,49.8,50.2,20.8,59.7
+441,39187,Ørjan Nyland,334,Norway,45,SecondHalf,Pass,Unsuccessful,20.5,45.1,89.9,13
+377,331567,Ghislain Konan,973,Ivory Coast,45,SecondHalf,BallRecovery,Successful,10.8,88.1,,
+378,331567,Ghislain Konan,973,Ivory Coast,45,SecondHalf,OffsidePass,Successful,13.7,86.5,53.4,58.9
+442,321085,Kristoffer Ajer,334,Norway,45,SecondHalf,OffsideProvoked,Successful,49.9,31.3,,
+443,321020,Sander Berge,334,Norway,45,SecondHalf,Pass,Successful,50.8,29.4,31.8,29.8
+444,321085,Kristoffer Ajer,334,Norway,45,SecondHalf,Pass,Successful,31.8,30,30.6,66.1
+445,364336,Torbjørn Heggem,334,Norway,45,SecondHalf,Pass,Successful,36.5,65.2,44.8,53.4
+446,321020,Sander Berge,334,Norway,45,SecondHalf,Pass,Successful,44.8,53.4,34,73.6
+447,364336,Torbjørn Heggem,334,Norway,45,SecondHalf,Pass,Successful,34,73.6,34.2,94.3
+448,415341,David Møller Wolfe,334,Norway,45,SecondHalf,Pass,Unsuccessful,33.9,94,37.1,94.6
+379,239872,Nicolas Pépé,973,Ivory Coast,45,SecondHalf,BallTouch,Successful,55.5,3.2,,
+450,415341,David Møller Wolfe,334,Norway,46,SecondHalf,Pass,Successful,50.7,100,61.3,94.2
+451,416030,Antonio Nusa,334,Norway,46,SecondHalf,Pass,Successful,61.3,94.2,68.6,81.9
+452,315227,Erling Haaland,334,Norway,46,SecondHalf,TakeOn,Unsuccessful,69.6,83.2,,
+381,384516,Odilon Kossounou,973,Ivory Coast,46,SecondHalf,Tackle,Successful,30.4,16.8,,
+382,447449,Guéla Doué,973,Ivory Coast,46,SecondHalf,Pass,Successful,27.4,9.4,5.1,91.5
+422,331567,Ghislain Konan,973,Ivory Coast,46,SecondHalf,BallRecovery,Successful,5.7,87.5,,
+453,302497,Alexander Sørloth,334,Norway,46,SecondHalf,Challenge,Unsuccessful,90.9,7.7,,
+383,331567,Ghislain Konan,973,Ivory Coast,46,SecondHalf,TakeOn,Successful,9.1,92.3,,
+384,331567,Ghislain Konan,973,Ivory Coast,46,SecondHalf,Pass,Successful,13.6,89.9,26.5,84.7
+385,557000,Yan Diomande,973,Ivory Coast,46,SecondHalf,Foul,Successful,26.4,86.2,,
+454,357133,Marcus Pedersen,334,Norway,46,SecondHalf,Foul,Unsuccessful,73.6,13.8,,
+386,328075,Ibrahim Sangaré,973,Ivory Coast,46,SecondHalf,Pass,Successful,26.4,70.5,21.3,34.5
+387,384516,Odilon Kossounou,973,Ivory Coast,46,SecondHalf,Pass,Successful,21.8,33.7,38.8,4.3
+388,239872,Nicolas Pépé,973,Ivory Coast,46,SecondHalf,Pass,Successful,37.6,2.3,29.9,8.2
+389,447449,Guéla Doué,973,Ivory Coast,46,SecondHalf,Pass,Successful,29.9,8.2,53.6,13.8
+390,447489,Ange-Yoan Bonny,973,Ivory Coast,46,SecondHalf,BallTouch,Unsuccessful,47,14.8,,
+458,315227,Erling Haaland,334,Norway,46,SecondHalf,TakeOn,Unsuccessful,58.7,83.6,,
+391,447489,Ange-Yoan Bonny,973,Ivory Coast,46,SecondHalf,Tackle,Successful,41.3,16.4,,
+393,384516,Odilon Kossounou,973,Ivory Coast,46,SecondHalf,Pass,Unsuccessful,30,29.2,57.7,54
+459,357133,Marcus Pedersen,334,Norway,46,SecondHalf,BallRecovery,Successful,28.6,44.1,,
+460,357133,Marcus Pedersen,334,Norway,46,SecondHalf,Pass,Successful,26.8,41.8,9.3,51.1
+461,39187,Ørjan Nyland,334,Norway,46,SecondHalf,Pass,Unsuccessful,9.3,51.1,26.4,3
+394,547352,Christ Inao Oulaï,973,Ivory Coast,46,SecondHalf,BallTouch,Unsuccessful,66.5,96.6,,
+463,357133,Marcus Pedersen,334,Norway,47,SecondHalf,Pass,Successful,28.3,0,25.8,12.7
+464,321020,Sander Berge,334,Norway,47,SecondHalf,Pass,Successful,28.2,11.7,26.2,6
+465,357133,Marcus Pedersen,334,Norway,47,SecondHalf,Pass,Successful,26.2,6,15.8,13.8
+466,321085,Kristoffer Ajer,334,Norway,47,SecondHalf,Pass,Successful,11.2,13.2,12.6,9.1
+467,357133,Marcus Pedersen,334,Norway,47,SecondHalf,Pass,Unsuccessful,12.6,9.1,23.6,15.3
+397,331567,Ghislain Konan,973,Ivory Coast,47,SecondHalf,BallRecovery,Successful,70.2,89.6,,
+398,331567,Ghislain Konan,973,Ivory Coast,47,SecondHalf,Pass,Successful,70.4,89.7,74.3,64.5
+399,447489,Ange-Yoan Bonny,973,Ivory Coast,47,SecondHalf,Pass,Successful,74.4,64.5,59.6,52.1
+400,328075,Ibrahim Sangaré,973,Ivory Coast,47,SecondHalf,Pass,Successful,59.6,52.1,37.2,35.7
+402,384516,Odilon Kossounou,973,Ivory Coast,47,SecondHalf,Pass,Successful,36.6,35.7,37.8,70
+403,402810,Emmanuel Agbadou,973,Ivory Coast,47,SecondHalf,Pass,Successful,53.4,84.8,55.5,95.6
+404,331567,Ghislain Konan,973,Ivory Coast,47,SecondHalf,Pass,Successful,55.9,95.6,45,80.8
+405,402810,Emmanuel Agbadou,973,Ivory Coast,47,SecondHalf,Pass,Successful,44.1,77.9,36.5,43.4
+406,384516,Odilon Kossounou,973,Ivory Coast,47,SecondHalf,Pass,Successful,42.1,34.3,52.8,5
+407,447449,Guéla Doué,973,Ivory Coast,47,SecondHalf,Pass,Successful,52.9,5,55.9,17
+408,239872,Nicolas Pépé,973,Ivory Coast,47,SecondHalf,Pass,Successful,55.9,17,42.5,19.7
+409,384516,Odilon Kossounou,973,Ivory Coast,47,SecondHalf,Pass,Successful,42.5,19.7,40.1,42.4
+410,328075,Ibrahim Sangaré,973,Ivory Coast,48,SecondHalf,Pass,Successful,54.2,68.1,52,86.8
+411,547352,Christ Inao Oulaï,973,Ivory Coast,48,SecondHalf,Pass,Successful,52.3,89,40.5,40.4
+412,384516,Odilon Kossounou,973,Ivory Coast,48,SecondHalf,Pass,Successful,46.8,37.7,48,60.3
+413,328075,Ibrahim Sangaré,973,Ivory Coast,48,SecondHalf,Pass,Successful,53.9,63.6,68.3,80
+414,557000,Yan Diomande,973,Ivory Coast,48,SecondHalf,Pass,Successful,72.2,80.9,80.2,96.5
+415,331567,Ghislain Konan,973,Ivory Coast,48,SecondHalf,Pass,Successful,85.5,94.7,88.9,13.2
+807,239872,Nicolas Pépé,973,Ivory Coast,48,SecondHalf,TakeOn,Unsuccessful,91.2,27.7,,
+416,239872,Nicolas Pépé,973,Ivory Coast,48,SecondHalf,Pass,Successful,95.2,29.8,87.1,23.7
+417,447449,Guéla Doué,973,Ivory Coast,48,SecondHalf,Pass,Unsuccessful,87.1,23.7,95.7,59
+469,39187,Ørjan Nyland,334,Norway,48,SecondHalf,Clearance,Successful,1.9,49.2,5.8,7
+418,331567,Ghislain Konan,973,Ivory Coast,48,SecondHalf,Pass,Successful,91.9,89.1,83.7,82.3
+419,557000,Yan Diomande,973,Ivory Coast,48,SecondHalf,Pass,Successful,84.5,73.2,91.7,65.1
+420,239872,Nicolas Pépé,973,Ivory Coast,48,SecondHalf,Dispossessed,Successful,93.6,66.4,,
+470,320986,Patrick Berg,334,Norway,48,SecondHalf,Tackle,Successful,6.4,33.6,,
+471,320986,Patrick Berg,334,Norway,48,SecondHalf,CornerAwarded,Unsuccessful,5.9,33.4,,
+421,239872,Nicolas Pépé,973,Ivory Coast,48,SecondHalf,CornerAwarded,Successful,94,66.6,,
+423,557000,Yan Diomande,973,Ivory Coast,49,SecondHalf,Pass,Unsuccessful,99.5,99.5,95.8,59.4
+472,415341,David Møller Wolfe,334,Norway,49,SecondHalf,Clearance,Successful,3.3,39.9,33.9,28.9
+424,331567,Ghislain Konan,973,Ivory Coast,49,SecondHalf,Pass,Successful,67.9,66.3,79.8,62.4
+425,402810,Emmanuel Agbadou,973,Ivory Coast,49,SecondHalf,Aerial,Successful,79.8,62.4,,
+473,315227,Erling Haaland,334,Norway,49,SecondHalf,Aerial,Unsuccessful,20.2,37.6,,
+426,402810,Emmanuel Agbadou,973,Ivory Coast,49,SecondHalf,Pass,Unsuccessful,79.8,62.4,80.6,62.4
+474,315227,Erling Haaland,334,Norway,49,SecondHalf,BallTouch,Successful,25.8,42.3,,
+475,321020,Sander Berge,334,Norway,49,SecondHalf,Pass,Unsuccessful,25.2,51.4,62.3,57
+427,439446,Yahia Fofana,973,Ivory Coast,49,SecondHalf,Pass,Successful,28.9,50,29.6,76.6
+428,331567,Ghislain Konan,973,Ivory Coast,50,SecondHalf,Pass,Successful,29.6,76.6,41.9,90.9
+429,547352,Christ Inao Oulaï,973,Ivory Coast,50,SecondHalf,Pass,Successful,52.5,77.6,68.6,5.3
+430,447449,Guéla Doué,973,Ivory Coast,50,SecondHalf,GoodSkill,Successful,68.8,6.8,,
+431,447449,Guéla Doué,973,Ivory Coast,50,SecondHalf,Pass,Successful,74.4,9.2,85.9,30
+432,277269,Franck Kessie,973,Ivory Coast,50,SecondHalf,Aerial,Successful,85.9,30,,
+476,364336,Torbjørn Heggem,334,Norway,50,SecondHalf,Aerial,Unsuccessful,14.1,70,,
+433,277269,Franck Kessie,973,Ivory Coast,50,SecondHalf,Pass,Unsuccessful,85.9,30,90.5,51.2
+477,321085,Kristoffer Ajer,334,Norway,50,SecondHalf,Aerial,Successful,9.5,48.8,,
+434,447489,Ange-Yoan Bonny,973,Ivory Coast,50,SecondHalf,Aerial,Unsuccessful,90.5,51.2,,
+478,321085,Kristoffer Ajer,334,Norway,50,SecondHalf,Clearance,Successful,9.5,48.8,9.9,61.2
+443,277269,Franck Kessie,973,Ivory Coast,50,SecondHalf,BallTouch,Unsuccessful,86.2,43,,
+481,,,334,Norway,50,SecondHalf,Foul,Successful,13,56.8,,
+435,277269,Franck Kessie,973,Ivory Coast,50,SecondHalf,Foul,Unsuccessful,87,43.2,,
+482,39187,Ørjan Nyland,334,Norway,50,SecondHalf,Pass,Successful,18.3,54.1,59.5,15.1
+494,302497,Alexander Sørloth,334,Norway,50,SecondHalf,Pass,Unsuccessful,58.1,10.3,58.5,20.8
+436,328075,Ibrahim Sangaré,973,Ivory Coast,50,SecondHalf,Pass,Successful,33,60.5,43.5,69.4
+437,547352,Christ Inao Oulaï,973,Ivory Coast,50,SecondHalf,Aerial,Successful,43.5,69.4,,
+483,302497,Alexander Sørloth,334,Norway,50,SecondHalf,Aerial,Unsuccessful,56.5,30.6,,
+438,547352,Christ Inao Oulaï,973,Ivory Coast,50,SecondHalf,Pass,Successful,43.5,69.4,49,84.1
+439,557000,Yan Diomande,973,Ivory Coast,50,SecondHalf,BallRecovery,Successful,49.2,84.1,,
+440,557000,Yan Diomande,973,Ivory Coast,50,SecondHalf,Pass,Successful,49.2,84.1,44.2,82
+441,331567,Ghislain Konan,973,Ivory Coast,50,SecondHalf,Pass,Unsuccessful,53.8,88.5,94.4,84.7
+484,321085,Kristoffer Ajer,334,Norway,50,SecondHalf,Clearance,Successful,6.9,15.6,7.3,0
+444,557000,Yan Diomande,973,Ivory Coast,51,SecondHalf,Pass,Successful,87.2,100,73.1,92.7
+445,547352,Christ Inao Oulaï,973,Ivory Coast,51,SecondHalf,Pass,Unsuccessful,71,68.2,81.9,52.4
+487,364336,Torbjørn Heggem,334,Norway,51,SecondHalf,Clearance,Successful,17.9,48.1,18.5,16.6
+486,357133,Marcus Pedersen,334,Norway,51,SecondHalf,Pass,Successful,17.9,18.4,25.2,18.2
+488,302497,Alexander Sørloth,334,Norway,51,SecondHalf,BallRecovery,Successful,23.5,15.6,,
+490,302497,Alexander Sørloth,334,Norway,51,SecondHalf,BallTouch,Unsuccessful,22.9,11.2,,
+448,331567,Ghislain Konan,973,Ivory Coast,51,SecondHalf,Pass,Successful,69.5,100,59.6,89.9
+449,328075,Ibrahim Sangaré,973,Ivory Coast,51,SecondHalf,Pass,Successful,58.1,80.3,71.1,86.9
+450,557000,Yan Diomande,973,Ivory Coast,51,SecondHalf,Pass,Successful,71.1,86.9,68.9,93.8
+451,331567,Ghislain Konan,973,Ivory Coast,51,SecondHalf,Pass,Unsuccessful,96.6,83.5,91.9,51
+492,320986,Patrick Berg,334,Norway,51,SecondHalf,Clearance,Successful,6.2,49.5,25.1,58.8
+452,328075,Ibrahim Sangaré,973,Ivory Coast,51,SecondHalf,MissedShots,Successful,72.1,44.3,,
+495,39187,Ørjan Nyland,334,Norway,52,SecondHalf,Pass,Successful,3.8,51.6,54.5,22.2
+496,302497,Alexander Sørloth,334,Norway,52,SecondHalf,Aerial,Successful,54.5,22.2,,
+454,331567,Ghislain Konan,973,Ivory Coast,52,SecondHalf,Aerial,Unsuccessful,45.5,77.8,,
+497,302497,Alexander Sørloth,334,Norway,52,SecondHalf,Pass,Successful,54.5,22.2,55.5,23.8
+498,247454,Martin Ødegaard,334,Norway,52,SecondHalf,Aerial,Successful,55.5,23.8,,
+455,328075,Ibrahim Sangaré,973,Ivory Coast,52,SecondHalf,Aerial,Unsuccessful,44.5,76.2,,
+499,247454,Martin Ødegaard,334,Norway,52,SecondHalf,Pass,Unsuccessful,55.5,23.8,57.7,18.6
+456,328075,Ibrahim Sangaré,973,Ivory Coast,52,SecondHalf,BallTouch,Successful,38.2,78.7,,
+501,357133,Marcus Pedersen,334,Norway,52,SecondHalf,Pass,Successful,55.9,0,64.9,13
+502,302497,Alexander Sørloth,334,Norway,52,SecondHalf,Pass,Successful,63.4,17.7,50.7,38.2
+503,321020,Sander Berge,334,Norway,52,SecondHalf,Pass,Successful,50.6,38.2,44.5,61.3
+504,364336,Torbjørn Heggem,334,Norway,52,SecondHalf,Pass,Successful,44.5,61.3,61.7,96.1
+505,416030,Antonio Nusa,334,Norway,52,SecondHalf,Pass,Successful,61.7,96.1,44.3,84
+506,364336,Torbjørn Heggem,334,Norway,52,SecondHalf,Pass,Successful,44.3,84,50.8,80.2
+507,321020,Sander Berge,334,Norway,52,SecondHalf,Pass,Successful,48.9,78.7,56.3,91.6
+508,364336,Torbjørn Heggem,334,Norway,52,SecondHalf,Pass,Successful,56.3,91.6,42.3,81.7
+509,321020,Sander Berge,334,Norway,52,SecondHalf,Pass,Successful,37.3,74.4,35.3,91.9
+510,364336,Torbjørn Heggem,334,Norway,52,SecondHalf,Pass,Successful,33.4,90.9,33.4,77.1
+511,320986,Patrick Berg,334,Norway,52,SecondHalf,Pass,Successful,32.4,82.3,18.2,85.8
+512,321020,Sander Berge,334,Norway,52,SecondHalf,Pass,Successful,19.6,84.6,28.2,70.5
+513,247454,Martin Ødegaard,334,Norway,52,SecondHalf,Pass,Successful,23.2,71.5,17.7,82.9
+514,321020,Sander Berge,334,Norway,53,SecondHalf,Pass,Successful,17.7,82.8,19.6,68.1
+515,247454,Martin Ødegaard,334,Norway,53,SecondHalf,Pass,Successful,19.7,68.1,4.1,56.2
+516,39187,Ørjan Nyland,334,Norway,53,SecondHalf,Pass,Successful,4.1,56.2,12.5,31
+517,321085,Kristoffer Ajer,334,Norway,53,SecondHalf,Pass,Successful,11.9,31.3,26.2,27.9
+518,247454,Martin Ødegaard,334,Norway,53,SecondHalf,Pass,Successful,29.2,16.5,30.4,5.5
+519,357133,Marcus Pedersen,334,Norway,53,SecondHalf,Pass,Unsuccessful,26.6,11.4,61.9,16
+459,402810,Emmanuel Agbadou,973,Ivory Coast,53,SecondHalf,Pass,Unsuccessful,39,85.6,50.1,86.6
+520,247454,Martin Ødegaard,334,Norway,53,SecondHalf,Interception,Successful,49.9,13.4,,
+521,247454,Martin Ødegaard,334,Norway,53,SecondHalf,Pass,Successful,75,44.1,85.9,70.2
+522,416030,Antonio Nusa,334,Norway,53,SecondHalf,Pass,Successful,85.9,70.3,95.3,75.9
+523,415341,David Møller Wolfe,334,Norway,53,SecondHalf,Pass,Unsuccessful,90.2,74.6,92.3,24.2
+460,439446,Yahia Fofana,973,Ivory Coast,53,SecondHalf,KeeperPickup,Successful,7.1,75.6,,
+461,439446,Yahia Fofana,973,Ivory Coast,53,SecondHalf,Pass,Successful,10.9,72.9,20.5,91.7
+462,547352,Christ Inao Oulaï,973,Ivory Coast,53,SecondHalf,Pass,Successful,31.5,92,46,96
+463,557000,Yan Diomande,973,Ivory Coast,53,SecondHalf,Pass,Successful,46,96,36.2,93
+464,547352,Christ Inao Oulaï,973,Ivory Coast,53,SecondHalf,Pass,Successful,37.8,87.5,34.6,47.9
+465,277269,Franck Kessie,973,Ivory Coast,53,SecondHalf,Pass,Successful,39.3,36.1,58.1,4.3
+466,447449,Guéla Doué,973,Ivory Coast,53,SecondHalf,Pass,Successful,62.8,14.3,65.7,3.1
+467,239872,Nicolas Pépé,973,Ivory Coast,54,SecondHalf,Pass,Successful,64.6,9.7,60,20.1
+468,277269,Franck Kessie,973,Ivory Coast,54,SecondHalf,Pass,Successful,60.4,20.9,51.8,32.5
+469,384516,Odilon Kossounou,973,Ivory Coast,54,SecondHalf,Pass,Successful,51.8,32.5,49,59.7
+470,402810,Emmanuel Agbadou,973,Ivory Coast,54,SecondHalf,Pass,Successful,49,59.7,56.7,69.6
+471,547352,Christ Inao Oulaï,973,Ivory Coast,54,SecondHalf,Pass,Successful,60.6,71.5,67.3,93.8
+472,331567,Ghislain Konan,973,Ivory Coast,54,SecondHalf,Pass,Successful,72.3,93.2,65.7,76.3
+473,547352,Christ Inao Oulaï,973,Ivory Coast,54,SecondHalf,Pass,Successful,66.6,64.6,86.7,7.9
+474,239872,Nicolas Pépé,973,Ivory Coast,54,SecondHalf,Pass,Successful,90.2,21.9,81.6,26.5
+475,447449,Guéla Doué,973,Ivory Coast,54,SecondHalf,Pass,Unsuccessful,81.8,26.8,92.3,47
+524,364336,Torbjørn Heggem,334,Norway,54,SecondHalf,BallTouch,Successful,4.7,53.5,,
+476,239872,Nicolas Pépé,973,Ivory Coast,54,SecondHalf,SavedShot,Successful,92.4,39.9,,
+525,39187,Ørjan Nyland,334,Norway,54,SecondHalf,Save,Successful,1.9,54.1,,
+526,320986,Patrick Berg,334,Norway,54,SecondHalf,Clearance,Successful,4.2,54.6,15.2,80.2
+477,447449,Guéla Doué,973,Ivory Coast,54,SecondHalf,TakeOn,Unsuccessful,80.3,21.4,,
+527,416030,Antonio Nusa,334,Norway,54,SecondHalf,Tackle,Successful,19.7,78.6,,
+528,416030,Antonio Nusa,334,Norway,54,SecondHalf,BallRecovery,Successful,23.1,88,,
+529,416030,Antonio Nusa,334,Norway,54,SecondHalf,TakeOn,Unsuccessful,30.2,95.9,,
+478,447449,Guéla Doué,973,Ivory Coast,54,SecondHalf,Tackle,Successful,69.8,4,,
+531,415341,David Møller Wolfe,334,Norway,54,SecondHalf,Pass,Successful,28.9,100,31.2,85.9
+532,247454,Martin Ødegaard,334,Norway,55,SecondHalf,Pass,Successful,31.2,85.9,57.2,86.7
+533,315227,Erling Haaland,334,Norway,55,SecondHalf,Pass,Successful,57.7,87.1,56.2,96.1
+534,416030,Antonio Nusa,334,Norway,55,SecondHalf,Pass,Successful,56.1,96.1,65.2,90.9
+535,315227,Erling Haaland,334,Norway,55,SecondHalf,Pass,Successful,67.2,90.4,67.9,71.8
+536,247454,Martin Ødegaard,334,Norway,55,SecondHalf,Pass,Unsuccessful,76.2,60.5,77.1,62
+505,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,BlockedPass,Successful,22.9,38,,
+537,416030,Antonio Nusa,334,Norway,55,SecondHalf,Challenge,Unsuccessful,82.3,65.6,,
+480,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,TakeOn,Successful,17.7,34.4,,
+481,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,BallRecovery,Successful,16.1,35.4,,
+482,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,Pass,Successful,16.2,33.3,25.9,5.6
+483,328075,Ibrahim Sangaré,973,Ivory Coast,55,SecondHalf,Pass,Successful,26.3,12,18.7,18.8
+484,447449,Guéla Doué,973,Ivory Coast,55,SecondHalf,Pass,Successful,18.7,18.8,14.8,35.8
+485,384516,Odilon Kossounou,973,Ivory Coast,55,SecondHalf,Pass,Successful,15.5,42.5,21.6,67.2
+486,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,Pass,Successful,22.8,68.4,35.1,90.8
+487,331567,Ghislain Konan,973,Ivory Coast,55,SecondHalf,Pass,Successful,42.4,89.9,54.2,96.5
+488,557000,Yan Diomande,973,Ivory Coast,55,SecondHalf,Pass,Successful,54.2,96.5,55.9,87.1
+489,547352,Christ Inao Oulaï,973,Ivory Coast,55,SecondHalf,Pass,Successful,55.9,87.1,50.4,90.8
+490,331567,Ghislain Konan,973,Ivory Coast,55,SecondHalf,Pass,Successful,50.4,90.8,47.1,71.5
+491,277269,Franck Kessie,973,Ivory Coast,55,SecondHalf,Pass,Successful,48.4,65.7,49,38
+492,328075,Ibrahim Sangaré,973,Ivory Coast,55,SecondHalf,Pass,Successful,50.5,32.5,63.8,4.7
+493,239872,Nicolas Pépé,973,Ivory Coast,55,SecondHalf,Pass,Successful,72.7,7.3,60.5,7.1
+494,277269,Franck Kessie,973,Ivory Coast,55,SecondHalf,Pass,Successful,60.4,7.4,55.1,16.8
+495,447449,Guéla Doué,973,Ivory Coast,55,SecondHalf,Pass,Successful,55.6,21.8,52.7,35.5
+496,384516,Odilon Kossounou,973,Ivory Coast,55,SecondHalf,Pass,Successful,52.7,35.5,55.9,60.8
+497,402810,Emmanuel Agbadou,973,Ivory Coast,55,SecondHalf,Pass,Successful,56.7,63.4,59.9,83.8
+498,547352,Christ Inao Oulaï,973,Ivory Coast,56,SecondHalf,Pass,Successful,65.2,77.3,88.3,95
+499,331567,Ghislain Konan,973,Ivory Coast,56,SecondHalf,Pass,Unsuccessful,91.8,95.9,93.9,58.5
+538,321085,Kristoffer Ajer,334,Norway,56,SecondHalf,Aerial,Successful,6.1,41.5,,
+500,447489,Ange-Yoan Bonny,973,Ivory Coast,56,SecondHalf,Aerial,Unsuccessful,93.9,58.5,,
+539,321085,Kristoffer Ajer,334,Norway,56,SecondHalf,Clearance,Successful,6.1,41.5,11.9,60.7
+501,239872,Nicolas Pépé,973,Ivory Coast,56,SecondHalf,Pass,Successful,84.5,30.7,91.4,36.1
+502,277269,Franck Kessie,973,Ivory Coast,56,SecondHalf,SavedShot,Successful,91.7,41.3,,
+540,39187,Ørjan Nyland,334,Norway,56,SecondHalf,Save,Successful,1.6,52.1,,
+541,39187,Ørjan Nyland,334,Norway,56,SecondHalf,KeeperPickup,Successful,2.1,51.9,,
+542,39187,Ørjan Nyland,334,Norway,56,SecondHalf,Pass,Successful,4,53,20.4,86.3
+543,415341,David Møller Wolfe,334,Norway,56,SecondHalf,Pass,Successful,44.6,83.4,61,95.3
+544,416030,Antonio Nusa,334,Norway,56,SecondHalf,Pass,Successful,67.6,91.6,83.8,82.8
+545,415341,David Møller Wolfe,334,Norway,56,SecondHalf,Pass,Successful,87.8,90.4,83.6,89.5
+546,416030,Antonio Nusa,334,Norway,56,SecondHalf,TakeOn,Unsuccessful,84.8,90.8,,
+503,328075,Ibrahim Sangaré,973,Ivory Coast,56,SecondHalf,Tackle,Unsuccessful,15.2,9.2,,
+547,415341,David Møller Wolfe,334,Norway,56,SecondHalf,Pass,Successful,76,85,75.8,74.7
+548,247454,Martin Ødegaard,334,Norway,56,SecondHalf,Foul,Successful,76.8,78.4,,
+504,328075,Ibrahim Sangaré,973,Ivory Coast,56,SecondHalf,Foul,Unsuccessful,23.2,21.6,,
+550,247454,Martin Ødegaard,334,Norway,57,SecondHalf,Pass,Unsuccessful,72.8,78.9,92.3,48.9
+561,447449,Guéla Doué,973,Ivory Coast,57,SecondHalf,Aerial,Successful,7.7,51.1,,
+554,302497,Alexander Sørloth,334,Norway,57,SecondHalf,Aerial,Unsuccessful,92.3,48.9,,
+562,447449,Guéla Doué,973,Ivory Coast,57,SecondHalf,Clearance,Successful,7.7,51.1,7,53.4
+551,321020,Sander Berge,334,Norway,57,SecondHalf,BallTouch,Successful,92.7,45.8,,
+506,439446,Yahia Fofana,973,Ivory Coast,57,SecondHalf,KeeperPickup,Successful,1.8,49.9,,
+507,439446,Yahia Fofana,973,Ivory Coast,57,SecondHalf,Pass,Successful,15,48.3,19.1,25.2
+508,277269,Franck Kessie,973,Ivory Coast,57,SecondHalf,Pass,Successful,21.9,19.1,34.7,26.5
+509,547352,Christ Inao Oulaï,973,Ivory Coast,57,SecondHalf,Pass,Successful,35,26.5,29.7,11.4
+510,277269,Franck Kessie,973,Ivory Coast,58,SecondHalf,Pass,Successful,32.1,9.4,37.3,24.3
+511,547352,Christ Inao Oulaï,973,Ivory Coast,58,SecondHalf,Pass,Successful,50.4,43.4,78.3,95.9
+512,331567,Ghislain Konan,973,Ivory Coast,58,SecondHalf,TakeOn,Unsuccessful,94.4,80.8,,
+552,320986,Patrick Berg,334,Norway,58,SecondHalf,Tackle,Successful,5.6,19.2,,
+553,320986,Patrick Berg,334,Norway,58,SecondHalf,CornerAwarded,Unsuccessful,5.6,20,,
+513,331567,Ghislain Konan,973,Ivory Coast,58,SecondHalf,CornerAwarded,Successful,94.4,80,,
+514,557000,Yan Diomande,973,Ivory Coast,58,SecondHalf,Pass,Successful,99.5,99.5,81.1,88.4
+515,547352,Christ Inao Oulaï,973,Ivory Coast,58,SecondHalf,Pass,Successful,80,86.2,78.3,73.3
+516,239872,Nicolas Pépé,973,Ivory Coast,58,SecondHalf,Pass,Unsuccessful,80.2,75,81.9,73.3
+555,416030,Antonio Nusa,334,Norway,58,SecondHalf,Clearance,Successful,18.1,26.7,,
+517,239872,Nicolas Pépé,973,Ivory Coast,58,SecondHalf,Pass,Successful,75.7,80.3,84.9,94.7
+518,547352,Christ Inao Oulaï,973,Ivory Coast,58,SecondHalf,Pass,Successful,84.7,89.9,91.4,81.2
+519,239872,Nicolas Pépé,973,Ivory Coast,58,SecondHalf,Pass,Successful,91.4,81.2,95.8,92.4
+520,557000,Yan Diomande,973,Ivory Coast,58,SecondHalf,Pass,Successful,88.6,89.3,77.9,85
+521,547352,Christ Inao Oulaï,973,Ivory Coast,58,SecondHalf,Pass,Successful,77.9,85,72.5,51.3
+522,402810,Emmanuel Agbadou,973,Ivory Coast,58,SecondHalf,MissedShots,Successful,72.9,51.9,,
+524,547352,Christ Inao Oulaï,973,Ivory Coast,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+525,386634,Amad Diallo,973,Ivory Coast,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+526,447489,Ange-Yoan Bonny,973,Ivory Coast,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+527,407661,Elye Wahi,973,Ivory Coast,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+608,,,973,Ivory Coast,59,SecondHalf,FormationChange,Successful,0,0,,
+557,39187,Ørjan Nyland,334,Norway,59,SecondHalf,Pass,Unsuccessful,3.2,46,66,25.9
+528,402810,Emmanuel Agbadou,973,Ivory Coast,59,SecondHalf,Aerial,Successful,34,74.1,,
+558,302497,Alexander Sørloth,334,Norway,59,SecondHalf,Aerial,Unsuccessful,66,25.9,,
+529,402810,Emmanuel Agbadou,973,Ivory Coast,59,SecondHalf,Pass,Unsuccessful,34,74.1,36.2,78.5
+566,302497,Alexander Sørloth,334,Norway,59,SecondHalf,BallTouch,Successful,67.5,14.5,,
+559,247454,Martin Ødegaard,334,Norway,59,SecondHalf,Pass,Successful,79.2,10.8,68.8,10.6
+560,357133,Marcus Pedersen,334,Norway,59,SecondHalf,Pass,Successful,67.9,7.3,72.5,17.1
+561,247454,Martin Ødegaard,334,Norway,59,SecondHalf,Pass,Unsuccessful,74.2,18.6,80.7,50.8
+530,447449,Guéla Doué,973,Ivory Coast,59,SecondHalf,Clearance,Successful,17.6,53.9,26,100
+563,357133,Marcus Pedersen,334,Norway,60,SecondHalf,Pass,Successful,75.3,0,80.3,10.2
+564,247454,Martin Ødegaard,334,Norway,60,SecondHalf,TakeOn,Unsuccessful,90.6,8.2,,
+533,331567,Ghislain Konan,973,Ivory Coast,60,SecondHalf,Foul,Successful,12.8,93.8,,
+565,247454,Martin Ødegaard,334,Norway,60,SecondHalf,Foul,Unsuccessful,87.3,6.2,,
+534,439446,Yahia Fofana,973,Ivory Coast,60,SecondHalf,Pass,Unsuccessful,18.5,88.4,60.7,89.9
+567,321020,Sander Berge,334,Norway,60,SecondHalf,Pass,Successful,27.5,13.2,36.8,24.4
+568,302497,Alexander Sørloth,334,Norway,60,SecondHalf,BallRecovery,Successful,36.6,25.2,,
+569,302497,Alexander Sørloth,334,Norway,60,SecondHalf,Pass,Successful,36.6,25.2,36.3,45.9
+570,320986,Patrick Berg,334,Norway,60,SecondHalf,Pass,Successful,36,46.2,51.3,40.9
+571,315227,Erling Haaland,334,Norway,60,SecondHalf,Aerial,Successful,51.3,40.9,,
+535,328075,Ibrahim Sangaré,973,Ivory Coast,60,SecondHalf,Aerial,Unsuccessful,48.7,59.1,,
+572,315227,Erling Haaland,334,Norway,60,SecondHalf,Pass,Unsuccessful,51.3,40.9,33.9,37.8
+536,386634,Amad Diallo,973,Ivory Coast,60,SecondHalf,Pass,Successful,56.4,68.2,61.3,76.1
+537,557000,Yan Diomande,973,Ivory Coast,60,SecondHalf,BallRecovery,Successful,61.4,76.1,,
+538,557000,Yan Diomande,973,Ivory Coast,60,SecondHalf,Pass,Successful,61.4,76.1,56.7,82.3
+539,386634,Amad Diallo,973,Ivory Coast,61,SecondHalf,Pass,Successful,78.6,86.2,87.3,94.8
+540,557000,Yan Diomande,973,Ivory Coast,61,SecondHalf,TakeOn,Unsuccessful,89,74.8,,
+573,247454,Martin Ødegaard,334,Norway,61,SecondHalf,Tackle,Unsuccessful,11,25.2,,
+541,557000,Yan Diomande,973,Ivory Coast,61,SecondHalf,BallTouch,Successful,88.4,74.1,,
+574,247454,Martin Ødegaard,334,Norway,61,SecondHalf,BallRecovery,Successful,7,22.6,,
+575,247454,Martin Ødegaard,334,Norway,61,SecondHalf,Pass,Successful,7,22.6,20.5,26.5
+576,302497,Alexander Sørloth,334,Norway,61,SecondHalf,Pass,Successful,24.9,36.6,30.6,60.9
+577,320986,Patrick Berg,334,Norway,61,SecondHalf,Pass,Successful,33,68.5,33.9,88.2
+578,415341,David Møller Wolfe,334,Norway,61,SecondHalf,Pass,Successful,41.2,88.8,62.3,93.1
+579,320986,Patrick Berg,334,Norway,61,SecondHalf,Pass,Unsuccessful,62.3,93.1,70.8,83.1
+542,447449,Guéla Doué,973,Ivory Coast,61,SecondHalf,Interception,Successful,29.2,16.9,,
+543,384516,Odilon Kossounou,973,Ivory Coast,61,SecondHalf,BallRecovery,Successful,19.5,20,,
+544,384516,Odilon Kossounou,973,Ivory Coast,61,SecondHalf,Pass,Successful,19.5,20,23.8,16.4
+545,447449,Guéla Doué,973,Ivory Coast,61,SecondHalf,Pass,Successful,24.5,13.7,29.6,22.8
+546,328075,Ibrahim Sangaré,973,Ivory Coast,61,SecondHalf,Pass,Successful,29.6,22.8,32.6,2.9
+547,277269,Franck Kessie,973,Ivory Coast,61,SecondHalf,Pass,Successful,32.9,2.9,55.1,3.7
+548,239872,Nicolas Pépé,973,Ivory Coast,61,SecondHalf,Pass,Successful,56.4,7,59.3,19.4
+549,386634,Amad Diallo,973,Ivory Coast,61,SecondHalf,Pass,Successful,81.5,3.2,92.8,10.1
+550,239872,Nicolas Pépé,973,Ivory Coast,61,SecondHalf,Pass,Unsuccessful,97.6,23.1,91,41.5
+580,321085,Kristoffer Ajer,334,Norway,61,SecondHalf,Clearance,Successful,5.5,66.4,25,79.2
+581,415341,David Møller Wolfe,334,Norway,61,SecondHalf,BallRecovery,Successful,24.5,79.6,,
+582,415341,David Møller Wolfe,334,Norway,61,SecondHalf,Pass,Unsuccessful,24.5,79.6,28.3,57.1
+551,384516,Odilon Kossounou,973,Ivory Coast,61,SecondHalf,BallRecovery,Successful,66.8,45.1,,
+552,384516,Odilon Kossounou,973,Ivory Coast,61,SecondHalf,Pass,Successful,67.7,50,67.3,73.8
+553,331567,Ghislain Konan,973,Ivory Coast,61,SecondHalf,Pass,Successful,68.8,76,61.1,63.7
+554,328075,Ibrahim Sangaré,973,Ivory Coast,62,SecondHalf,Pass,Successful,59,63.1,59.3,46.4
+555,384516,Odilon Kossounou,973,Ivory Coast,62,SecondHalf,Pass,Successful,59.3,46.4,63.9,35.7
+556,277269,Franck Kessie,973,Ivory Coast,62,SecondHalf,Pass,Successful,65,36.6,71.3,15
+557,239872,Nicolas Pépé,973,Ivory Coast,62,SecondHalf,Pass,Successful,75,36.6,66.4,85.6
+558,328075,Ibrahim Sangaré,973,Ivory Coast,62,SecondHalf,Pass,Successful,73.1,72,81.9,72.3
+559,557000,Yan Diomande,973,Ivory Coast,62,SecondHalf,Pass,Unsuccessful,87.2,71.4,91.6,52.1
+583,364336,Torbjørn Heggem,334,Norway,62,SecondHalf,Clearance,Successful,6.1,51.3,0,22.6
+560,557000,Yan Diomande,973,Ivory Coast,62,SecondHalf,CornerAwarded,Successful,96.8,67.3,,
+584,364336,Torbjørn Heggem,334,Norway,62,SecondHalf,CornerAwarded,Unsuccessful,3.2,32.7,,
+563,557000,Yan Diomande,973,Ivory Coast,63,SecondHalf,Pass,Unsuccessful,99.5,99.5,96.6,49.6
+585,39187,Ørjan Nyland,334,Norway,63,SecondHalf,Punch,Unsuccessful,3.4,50.4,15.5,76.8
+564,386634,Amad Diallo,973,Ivory Coast,63,SecondHalf,Pass,Unsuccessful,90.3,27.4,97.9,56.4
+586,315227,Erling Haaland,334,Norway,63,SecondHalf,Clearance,Successful,3.3,47.1,4.9,39.4
+565,402810,Emmanuel Agbadou,973,Ivory Coast,63,SecondHalf,Aerial,Successful,95.1,60.6,,
+587,321020,Sander Berge,334,Norway,63,SecondHalf,Aerial,Unsuccessful,4.9,39.4,,
+566,402810,Emmanuel Agbadou,973,Ivory Coast,63,SecondHalf,Pass,Unsuccessful,95.1,60.6,95.6,63
+588,321020,Sander Berge,334,Norway,63,SecondHalf,BallTouch,Successful,5.2,38.1,,
+567,447449,Guéla Doué,973,Ivory Coast,63,SecondHalf,MissedShots,Successful,92.9,53,,
+589,315227,Erling Haaland,334,Norway,63,SecondHalf,BallTouch,Successful,6.3,42.3,,
+600,415341,David Møller Wolfe,334,Norway,63,SecondHalf,BallTouch,Successful,8.3,42.1,,
+590,315227,Erling Haaland,334,Norway,63,SecondHalf,Clearance,Successful,8.3,32.5,49.9,32.1
+568,331567,Ghislain Konan,973,Ivory Coast,63,SecondHalf,Pass,Successful,49,69.9,27.2,50.9
+569,439446,Yahia Fofana,973,Ivory Coast,63,SecondHalf,KeeperSweeper,Successful,27.2,50.9,,
+570,439446,Yahia Fofana,973,Ivory Coast,63,SecondHalf,Clearance,Successful,27.3,50.9,78,100
+592,357133,Marcus Pedersen,334,Norway,63,SecondHalf,Pass,Successful,30.1,0,13.1,18.8
+593,321085,Kristoffer Ajer,334,Norway,64,SecondHalf,Pass,Successful,13.2,24.2,15.5,58.5
+594,364336,Torbjørn Heggem,334,Norway,64,SecondHalf,Pass,Unsuccessful,14.7,73.2,55.3,56.1
+572,384516,Odilon Kossounou,973,Ivory Coast,64,SecondHalf,BallRecovery,Successful,46.2,40.6,,
+573,384516,Odilon Kossounou,973,Ivory Coast,64,SecondHalf,Pass,Successful,46.2,40.6,46,19.4
+574,447449,Guéla Doué,973,Ivory Coast,64,SecondHalf,Pass,Successful,52.7,16.5,52.3,33.7
+575,328075,Ibrahim Sangaré,973,Ivory Coast,64,SecondHalf,Pass,Successful,52.3,33.1,57.7,32.5
+576,386634,Amad Diallo,973,Ivory Coast,64,SecondHalf,Pass,Successful,57.2,30.6,62.8,4.1
+577,239872,Nicolas Pépé,973,Ivory Coast,64,SecondHalf,Pass,Successful,65.1,7,64.4,20.3
+578,277269,Franck Kessie,973,Ivory Coast,64,SecondHalf,Pass,Successful,64.8,20.4,55.9,20.6
+579,328075,Ibrahim Sangaré,973,Ivory Coast,64,SecondHalf,Pass,Successful,58.2,19.2,71.3,4.4
+580,447449,Guéla Doué,973,Ivory Coast,64,SecondHalf,Pass,Successful,71.3,4.4,64.8,6.5
+581,239872,Nicolas Pépé,973,Ivory Coast,64,SecondHalf,Pass,Unsuccessful,64.9,12.5,88.6,43.9
+882,39187,Ørjan Nyland,334,Norway,64,SecondHalf,KeeperSweeper,Successful,10.2,56.8,,
+595,39187,Ørjan Nyland,334,Norway,64,SecondHalf,KeeperPickup,Successful,10.5,53.2,,
+596,39187,Ørjan Nyland,334,Norway,64,SecondHalf,Pass,Successful,14.1,50.7,23.4,47.4
+616,321020,Sander Berge,334,Norway,64,SecondHalf,Pass,Successful,28.9,45.8,46.7,43.4
+597,247454,Martin Ødegaard,334,Norway,64,SecondHalf,Pass,Successful,58.8,22.5,87.9,22.3
+598,302497,Alexander Sørloth,334,Norway,64,SecondHalf,TakeOn,Unsuccessful,87.5,23.1,,
+582,402810,Emmanuel Agbadou,973,Ivory Coast,64,SecondHalf,Tackle,Successful,12.5,76.9,,
+583,402810,Emmanuel Agbadou,973,Ivory Coast,64,SecondHalf,CornerAwarded,Unsuccessful,7.2,76.9,,
+599,302497,Alexander Sørloth,334,Norway,64,SecondHalf,CornerAwarded,Successful,92.8,23.2,,
+601,247454,Martin Ødegaard,334,Norway,65,SecondHalf,Pass,Successful,99.6,0.7,91.9,47.5
+604,302497,Alexander Sørloth,334,Norway,65,SecondHalf,Aerial,Successful,91.9,47.5,,
+584,402810,Emmanuel Agbadou,973,Ivory Coast,65,SecondHalf,Aerial,Unsuccessful,8.1,52.5,,
+602,302497,Alexander Sørloth,334,Norway,65,SecondHalf,Pass,Successful,91.9,47.5,95.7,51.9
+603,364336,Torbjørn Heggem,334,Norway,65,SecondHalf,SavedShot,Successful,95.7,51.9,,
+600,386634,Amad Diallo,973,Ivory Coast,65,SecondHalf,Save,Successful,1,52.2,,
+586,447449,Guéla Doué,973,Ivory Coast,66,SecondHalf,BallRecovery,Successful,3.3,44.8,,
+585,447449,Guéla Doué,973,Ivory Coast,66,SecondHalf,Pass,Successful,4,44,6.8,45.6
+587,277269,Franck Kessie,973,Ivory Coast,66,SecondHalf,Pass,Unsuccessful,36,18.2,82.2,71.1
+605,320986,Patrick Berg,334,Norway,66,SecondHalf,Clearance,Successful,16.6,25.3,18.9,0
+590,331567,Ghislain Konan,973,Ivory Coast,66,SecondHalf,Pass,Successful,77.4,100,64.8,81.1
+591,328075,Ibrahim Sangaré,973,Ivory Coast,66,SecondHalf,Pass,Successful,64.8,81.1,70.6,70.9
+592,277269,Franck Kessie,973,Ivory Coast,66,SecondHalf,Pass,Successful,70.6,70.9,65.5,78.4
+593,328075,Ibrahim Sangaré,973,Ivory Coast,66,SecondHalf,Pass,Successful,65.6,75,56.1,43.7
+594,384516,Odilon Kossounou,973,Ivory Coast,66,SecondHalf,Pass,Successful,56.1,43.7,60.9,27.1
+595,447449,Guéla Doué,973,Ivory Coast,66,SecondHalf,Pass,Successful,61,27.1,68.3,5.3
+596,386634,Amad Diallo,973,Ivory Coast,66,SecondHalf,Pass,Successful,67.7,7.6,69.8,22.1
+597,239872,Nicolas Pépé,973,Ivory Coast,66,SecondHalf,Pass,Successful,69.8,22.1,63,17.4
+598,447449,Guéla Doué,973,Ivory Coast,66,SecondHalf,Pass,Successful,63,17.4,67.6,6.4
+11612,416030,Antonio Nusa,334,Norway,67,SecondHalf,OffsideGiven,Unsuccessful,80.2,83,,
+599,386634,Amad Diallo,973,Ivory Coast,67,SecondHalf,Pass,Successful,67.6,6.4,80.8,23.1
+601,239872,Nicolas Pépé,973,Ivory Coast,67,SecondHalf,Pass,Successful,81.6,24.1,85.5,33.1
+602,407661,Elye Wahi,973,Ivory Coast,67,SecondHalf,BallTouch,Unsuccessful,85.5,33.1,,
+607,321020,Sander Berge,334,Norway,67,SecondHalf,BallRecovery,Successful,23,71.1,,
+608,321020,Sander Berge,334,Norway,67,SecondHalf,Pass,Successful,23,71.1,25.9,87.6
+609,416030,Antonio Nusa,334,Norway,67,SecondHalf,BallTouch,Successful,30.9,84.1,,
+610,247454,Martin Ødegaard,334,Norway,67,SecondHalf,Pass,Successful,30,67.5,42.9,63.3
+611,315227,Erling Haaland,334,Norway,67,SecondHalf,Pass,Successful,42.9,63.3,54.8,92.7
+612,320986,Patrick Berg,334,Norway,67,SecondHalf,OffsidePass,Successful,70.4,75.2,80.2,83
+606,384516,Odilon Kossounou,973,Ivory Coast,67,SecondHalf,OffsideProvoked,Successful,21.4,29.1,,
+618,416030,Antonio Nusa,334,Norway,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+619,424588,Andreas Schjelderup,334,Norway,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+620,302497,Alexander Sørloth,334,Norway,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+621,430709,Oscar Bobb,334,Norway,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+610,439446,Yahia Fofana,973,Ivory Coast,71,SecondHalf,Pass,Successful,18.9,33.9,97.9,80
+611,557000,Yan Diomande,973,Ivory Coast,71,SecondHalf,Pass,Successful,90,85.4,81.9,90.8
+612,331567,Ghislain Konan,973,Ivory Coast,71,SecondHalf,Pass,Successful,82.2,91.1,73.4,76.6
+613,386634,Amad Diallo,973,Ivory Coast,71,SecondHalf,Pass,Successful,73.4,76.6,69.6,62.6
+614,328075,Ibrahim Sangaré,973,Ivory Coast,71,SecondHalf,Pass,Successful,69.6,62.6,85,68.5
+615,331567,Ghislain Konan,973,Ivory Coast,71,SecondHalf,MissedShots,Successful,85.7,63.2,,
+623,321085,Kristoffer Ajer,334,Norway,71,SecondHalf,BallTouch,Successful,13.4,44.2,,
+624,247454,Martin Ødegaard,334,Norway,71,SecondHalf,BallRecovery,Successful,13.6,35.7,,
+625,247454,Martin Ødegaard,334,Norway,71,SecondHalf,Pass,Successful,13.6,35.7,24.3,37
+626,321020,Sander Berge,334,Norway,71,SecondHalf,Pass,Successful,24.3,37,27.1,13.5
+627,430709,Oscar Bobb,334,Norway,71,SecondHalf,Pass,Successful,27.2,12.1,18.2,16.9
+628,357133,Marcus Pedersen,334,Norway,71,SecondHalf,Pass,Unsuccessful,18.1,16.9,63.6,24.1
+617,384516,Odilon Kossounou,973,Ivory Coast,71,SecondHalf,BallRecovery,Successful,30.1,71.7,,
+618,384516,Odilon Kossounou,973,Ivory Coast,71,SecondHalf,Pass,Successful,30.1,71.7,19.5,95.3
+619,402810,Emmanuel Agbadou,973,Ivory Coast,71,SecondHalf,Pass,Successful,21.1,94.5,30.2,83
+620,277269,Franck Kessie,973,Ivory Coast,71,SecondHalf,Pass,Successful,30.2,83,39.5,67.8
+621,328075,Ibrahim Sangaré,973,Ivory Coast,71,SecondHalf,Pass,Successful,44.9,54.3,47.1,61.8
+622,277269,Franck Kessie,973,Ivory Coast,72,SecondHalf,Pass,Successful,55.3,69,44.5,69
+623,402810,Emmanuel Agbadou,973,Ivory Coast,72,SecondHalf,Pass,Successful,45.3,67.5,47.1,40.6
+624,384516,Odilon Kossounou,973,Ivory Coast,72,SecondHalf,Pass,Successful,47.2,38.8,52.1,57.5
+625,277269,Franck Kessie,973,Ivory Coast,72,SecondHalf,Pass,Successful,56.4,56.6,55.4,34.3
+626,328075,Ibrahim Sangaré,973,Ivory Coast,72,SecondHalf,Pass,Successful,55.6,32.4,68.3,34.8
+627,386634,Amad Diallo,973,Ivory Coast,72,SecondHalf,Pass,Unsuccessful,67.4,33.7,66.3,25
+629,424588,Andreas Schjelderup,334,Norway,72,SecondHalf,BallRecovery,Successful,31.3,80.7,,
+630,424588,Andreas Schjelderup,334,Norway,72,SecondHalf,Pass,Successful,31.8,80.7,35.1,73.8
+631,315227,Erling Haaland,334,Norway,72,SecondHalf,Pass,Unsuccessful,35.3,73.8,30.5,73.3
+628,277269,Franck Kessie,973,Ivory Coast,72,SecondHalf,BallTouch,Successful,57.6,34.9,,
+632,321020,Sander Berge,334,Norway,72,SecondHalf,Pass,Successful,31.1,76.5,35.3,85.5
+633,320986,Patrick Berg,334,Norway,72,SecondHalf,Pass,Successful,35.3,85.5,18.4,92.2
+634,415341,David Møller Wolfe,334,Norway,72,SecondHalf,Pass,Successful,24.2,89.7,7.9,70.3
+635,364336,Torbjørn Heggem,334,Norway,72,SecondHalf,Pass,Successful,8.7,69.7,1.9,39.3
+636,39187,Ørjan Nyland,334,Norway,72,SecondHalf,Pass,Successful,2.3,34.9,27.5,9.7
+637,357133,Marcus Pedersen,334,Norway,72,SecondHalf,BallTouch,Unsuccessful,36.8,9.4,,
+629,557000,Yan Diomande,973,Ivory Coast,72,SecondHalf,Pass,Successful,46.3,92.6,34.7,77
+630,402810,Emmanuel Agbadou,973,Ivory Coast,72,SecondHalf,BallRecovery,Successful,34.6,77,,
+631,402810,Emmanuel Agbadou,973,Ivory Coast,72,SecondHalf,Pass,Successful,34.5,78.4,42.2,70.5
+632,328075,Ibrahim Sangaré,973,Ivory Coast,72,SecondHalf,Pass,Successful,40,68.7,39.4,38.9
+633,384516,Odilon Kossounou,973,Ivory Coast,72,SecondHalf,Pass,Successful,43.6,34.2,50.2,36.3
+634,386634,Amad Diallo,973,Ivory Coast,73,SecondHalf,Pass,Successful,55.8,27,60.4,3.1
+635,447449,Guéla Doué,973,Ivory Coast,73,SecondHalf,Pass,Successful,61.8,3.1,61.4,14.4
+636,386634,Amad Diallo,973,Ivory Coast,73,SecondHalf,Pass,Successful,59.4,17,52.7,29.7
+637,384516,Odilon Kossounou,973,Ivory Coast,73,SecondHalf,Pass,Successful,52.8,29.7,51.7,45.2
+638,328075,Ibrahim Sangaré,973,Ivory Coast,73,SecondHalf,Pass,Successful,51.9,46.7,55.5,56
+639,277269,Franck Kessie,973,Ivory Coast,73,SecondHalf,Pass,Successful,55.5,56,51.9,50.3
+640,328075,Ibrahim Sangaré,973,Ivory Coast,73,SecondHalf,Pass,Successful,61.9,25.3,69,9.8
+641,386634,Amad Diallo,973,Ivory Coast,73,SecondHalf,Pass,Successful,78.1,20.1,82.5,29.2
+642,239872,Nicolas Pépé,973,Ivory Coast,73,SecondHalf,Pass,Unsuccessful,82.5,29.2,93.7,29.7
+640,415341,David Møller Wolfe,334,Norway,73,SecondHalf,BallTouch,Unsuccessful,9.3,71.2,,
+639,321020,Sander Berge,334,Norway,73,SecondHalf,Challenge,Unsuccessful,3.4,57,,
+644,386634,Amad Diallo,973,Ivory Coast,73,SecondHalf,TakeOn,Successful,96.6,43,,
+643,386634,Amad Diallo,973,Ivory Coast,73,SecondHalf,Goal,Successful,95.8,41.3,,
+641,315227,Erling Haaland,334,Norway,75,SecondHalf,Pass,Successful,49.9,50.1,41.2,45.3
+642,321020,Sander Berge,334,Norway,75,SecondHalf,Pass,Successful,39.8,44.2,25.6,64
+643,364336,Torbjørn Heggem,334,Norway,75,SecondHalf,Pass,Successful,25.6,64,26.9,38.1
+644,321085,Kristoffer Ajer,334,Norway,75,SecondHalf,Pass,Successful,26.9,38.2,26.5,67.6
+645,364336,Torbjørn Heggem,334,Norway,75,SecondHalf,Pass,Successful,30.4,68.7,27.3,41.4
+646,321085,Kristoffer Ajer,334,Norway,75,SecondHalf,Pass,Successful,26.8,38.7,37.3,31.9
+647,247454,Martin Ødegaard,334,Norway,75,SecondHalf,Pass,Successful,37.3,31.9,33.1,34.9
+648,321020,Sander Berge,334,Norway,75,SecondHalf,Pass,Successful,41.2,26.5,32.7,4.2
+649,357133,Marcus Pedersen,334,Norway,75,SecondHalf,Pass,Unsuccessful,38,5.2,39.3,4.8
+645,386634,Amad Diallo,973,Ivory Coast,75,SecondHalf,BlockedPass,Successful,60.7,95.2,,
+651,357133,Marcus Pedersen,334,Norway,75,SecondHalf,Pass,Successful,63.9,0,60.8,12.9
+652,247454,Martin Ødegaard,334,Norway,75,SecondHalf,Pass,Successful,59.1,13.5,58.7,25.3
+653,321020,Sander Berge,334,Norway,75,SecondHalf,Pass,Successful,59.1,33,53,61.2
+654,415341,David Møller Wolfe,334,Norway,75,SecondHalf,Pass,Successful,52.9,63.3,61,92.5
+655,424588,Andreas Schjelderup,334,Norway,75,SecondHalf,Pass,Successful,60.8,90.3,60.3,72.7
+656,321020,Sander Berge,334,Norway,75,SecondHalf,Pass,Successful,59,72.4,53,56.1
+657,247454,Martin Ødegaard,334,Norway,75,SecondHalf,Pass,Successful,54,53.2,50.6,15.3
+658,357133,Marcus Pedersen,334,Norway,75,SecondHalf,Pass,Successful,51.7,14.7,47.4,35.1
+659,247454,Martin Ødegaard,334,Norway,76,SecondHalf,Pass,Successful,51.8,42.1,56.4,53.4
+660,321020,Sander Berge,334,Norway,76,SecondHalf,Pass,Successful,56.3,53.4,43.7,46.6
+661,321085,Kristoffer Ajer,334,Norway,76,SecondHalf,Pass,Successful,44.7,46.8,51.1,39
+662,247454,Martin Ødegaard,334,Norway,76,SecondHalf,Pass,Successful,51.7,35.4,51.1,55.9
+663,321020,Sander Berge,334,Norway,76,SecondHalf,Pass,Successful,54.7,57.3,70.1,59.4
+664,315227,Erling Haaland,334,Norway,76,SecondHalf,Pass,Successful,68.8,59.7,72.5,73
+665,320986,Patrick Berg,334,Norway,76,SecondHalf,Pass,Successful,72.5,73,84.3,86.5
+666,424588,Andreas Schjelderup,334,Norway,76,SecondHalf,Pass,Successful,83,80.1,91.7,69.9
+667,320986,Patrick Berg,334,Norway,76,SecondHalf,Pass,Successful,93.9,71.4,88.3,45.6
+668,247454,Martin Ødegaard,334,Norway,76,SecondHalf,BallTouch,Successful,88,43.6,,
+669,430709,Oscar Bobb,334,Norway,76,SecondHalf,BallTouch,Unsuccessful,88.2,27.6,,
+647,331567,Ghislain Konan,973,Ivory Coast,76,SecondHalf,Clearance,Successful,7.8,65.1,11.2,100
+671,357133,Marcus Pedersen,334,Norway,76,SecondHalf,Pass,Successful,88.6,0,75.8,12.6
+672,321020,Sander Berge,334,Norway,76,SecondHalf,Pass,Successful,73.8,11.1,74.8,6.4
+673,357133,Marcus Pedersen,334,Norway,76,SecondHalf,Pass,Successful,80.5,3.7,84.7,10.6
+674,247454,Martin Ødegaard,334,Norway,76,SecondHalf,Pass,Successful,82.4,13.3,78.4,19.2
+675,321020,Sander Berge,334,Norway,76,SecondHalf,Pass,Successful,78.4,19.6,84.6,7.2
+676,357133,Marcus Pedersen,334,Norway,76,SecondHalf,Pass,Unsuccessful,97.6,6.4,91.2,34.8
+651,328075,Ibrahim Sangaré,973,Ivory Coast,76,SecondHalf,Clearance,Successful,9.1,64.4,28.8,62.1
+652,407661,Elye Wahi,973,Ivory Coast,77,SecondHalf,BallRecovery,Successful,29.9,60.9,,
+653,407661,Elye Wahi,973,Ivory Coast,77,SecondHalf,Pass,Successful,47.7,37.9,62.7,6.5
+654,239872,Nicolas Pépé,973,Ivory Coast,77,SecondHalf,Pass,Successful,73.2,12,89.5,29.2
+655,407661,Elye Wahi,973,Ivory Coast,77,SecondHalf,Pass,Successful,90.8,30.3,85.6,34.2
+656,239872,Nicolas Pépé,973,Ivory Coast,77,SecondHalf,BallTouch,Unsuccessful,85.6,34.2,,
+677,320986,Patrick Berg,334,Norway,77,SecondHalf,BallRecovery,Successful,9.8,65.4,,
+678,320986,Patrick Berg,334,Norway,77,SecondHalf,Pass,Successful,25.2,70.3,25,87.7
+679,415341,David Møller Wolfe,334,Norway,77,SecondHalf,Pass,Successful,25.1,87.7,33.8,92.1
+680,424588,Andreas Schjelderup,334,Norway,77,SecondHalf,Pass,Successful,33.8,92.1,32,70.2
+681,320986,Patrick Berg,334,Norway,77,SecondHalf,Pass,Successful,31.5,67.8,31.8,48
+682,247454,Martin Ødegaard,334,Norway,77,SecondHalf,Pass,Successful,53.3,57.7,60.5,78.7
+683,320986,Patrick Berg,334,Norway,77,SecondHalf,Pass,Successful,60.1,79,71.8,94.9
+684,424588,Andreas Schjelderup,334,Norway,77,SecondHalf,Pass,Successful,78.5,80.1,72.4,68.7
+685,320986,Patrick Berg,334,Norway,77,SecondHalf,Pass,Successful,72.2,64.3,71.8,51.9
+657,328075,Ibrahim Sangaré,973,Ivory Coast,77,SecondHalf,Challenge,Unsuccessful,26.3,47.4,,
+686,247454,Martin Ødegaard,334,Norway,77,SecondHalf,TakeOn,Successful,73.7,52.6,,
+687,247454,Martin Ødegaard,334,Norway,77,SecondHalf,Pass,Successful,71.9,67.6,85.2,83.8
+688,424588,Andreas Schjelderup,334,Norway,77,SecondHalf,Pass,Successful,76.5,77.8,72.2,64.9
+689,321020,Sander Berge,334,Norway,77,SecondHalf,Pass,Successful,71.9,64.6,75.8,90.1
+690,424588,Andreas Schjelderup,334,Norway,77,SecondHalf,Pass,Unsuccessful,75.2,87.4,91.5,49.2
+658,439446,Yahia Fofana,973,Ivory Coast,77,SecondHalf,KeeperPickup,Successful,7.4,48.4,,
+11661,386634,Amad Diallo,973,Ivory Coast,78,SecondHalf,OffsideGiven,Unsuccessful,94.2,76.5,,
+659,439446,Yahia Fofana,973,Ivory Coast,78,SecondHalf,Pass,Successful,10,47.9,30.2,54.5
+660,386634,Amad Diallo,973,Ivory Coast,78,SecondHalf,Pass,Successful,31.9,56.1,44.9,84.4
+661,557000,Yan Diomande,973,Ivory Coast,78,SecondHalf,OffsidePass,Successful,86.6,76.5,94.2,76.5
+692,321085,Kristoffer Ajer,334,Norway,78,SecondHalf,OffsideProvoked,Successful,10.5,31.1,,
+693,39187,Ørjan Nyland,334,Norway,78,SecondHalf,Pass,Successful,5.7,36.2,14.5,86.3
+695,415341,David Møller Wolfe,334,Norway,78,SecondHalf,Pass,Successful,22.1,83.4,18.9,51.7
+696,321020,Sander Berge,334,Norway,78,SecondHalf,Pass,Successful,25.1,47.1,31.5,42.4
+697,247454,Martin Ødegaard,334,Norway,78,SecondHalf,Pass,Successful,39.5,42.6,51.4,9.6
+698,357133,Marcus Pedersen,334,Norway,78,SecondHalf,Pass,Successful,68.7,15.6,74.5,4.3
+699,430709,Oscar Bobb,334,Norway,78,SecondHalf,Pass,Successful,77.6,6.3,70.4,32.2
+700,247454,Martin Ødegaard,334,Norway,78,SecondHalf,Pass,Successful,70.2,34,82.3,9.7
+701,357133,Marcus Pedersen,334,Norway,78,SecondHalf,Pass,Unsuccessful,87.8,10.9,88.8,53.1
+663,384516,Odilon Kossounou,973,Ivory Coast,78,SecondHalf,Clearance,Successful,8,50.1,8.1,77
+813,402810,Emmanuel Agbadou,973,Ivory Coast,79,SecondHalf,Aerial,Successful,8.1,77,,
+886,430709,Oscar Bobb,334,Norway,79,SecondHalf,Aerial,Unsuccessful,91.9,23,,
+664,402810,Emmanuel Agbadou,973,Ivory Coast,79,SecondHalf,Clearance,Successful,8.1,77,18,85
+702,247454,Martin Ødegaard,334,Norway,79,SecondHalf,Pass,Successful,70.8,13,64.2,17.1
+703,321085,Kristoffer Ajer,334,Norway,79,SecondHalf,Pass,Successful,64.2,17.1,72.7,8.2
+704,357133,Marcus Pedersen,334,Norway,79,SecondHalf,Pass,Successful,71.6,6.7,73.4,15.6
+705,247454,Martin Ødegaard,334,Norway,79,SecondHalf,Pass,Successful,77.8,17.1,85.9,4.5
+706,430709,Oscar Bobb,334,Norway,79,SecondHalf,Pass,Successful,84.4,6.6,77,16.6
+707,321020,Sander Berge,334,Norway,79,SecondHalf,Pass,Successful,77,16.6,80.1,8.7
+708,430709,Oscar Bobb,334,Norway,79,SecondHalf,Pass,Unsuccessful,80.2,8.7,89.2,13.5
+667,402810,Emmanuel Agbadou,973,Ivory Coast,79,SecondHalf,BallRecovery,Successful,3,90.6,,
+668,402810,Emmanuel Agbadou,973,Ivory Coast,79,SecondHalf,Pass,Successful,3,90.6,9.4,94.1
+669,331567,Ghislain Konan,973,Ivory Coast,79,SecondHalf,Dispossessed,Successful,12.3,93.6,,
+725,430709,Oscar Bobb,334,Norway,79,SecondHalf,Tackle,Successful,87.6,6.4,,
+710,321020,Sander Berge,334,Norway,79,SecondHalf,Dispossessed,Successful,93.8,11.2,,
+670,402810,Emmanuel Agbadou,973,Ivory Coast,79,SecondHalf,Tackle,Successful,6.2,88.8,,
+671,331567,Ghislain Konan,973,Ivory Coast,79,SecondHalf,Pass,Unsuccessful,6,95.4,49.3,68.7
+711,321085,Kristoffer Ajer,334,Norway,79,SecondHalf,BallRecovery,Successful,49.8,36.6,,
+712,321085,Kristoffer Ajer,334,Norway,79,SecondHalf,Pass,Successful,49.7,36.7,58.7,77.4
+713,415341,David Møller Wolfe,334,Norway,79,SecondHalf,Pass,Successful,60.6,80.1,73.1,91.5
+714,424588,Andreas Schjelderup,334,Norway,79,SecondHalf,Pass,Successful,69.7,69,68.3,47.7
+715,321020,Sander Berge,334,Norway,79,SecondHalf,Pass,Successful,68.3,45.1,73.1,32.8
+716,247454,Martin Ødegaard,334,Norway,79,SecondHalf,Dispossessed,Successful,82.7,31.2,,
+672,328075,Ibrahim Sangaré,973,Ivory Coast,79,SecondHalf,Tackle,Unsuccessful,17.2,68.9,,
+717,430709,Oscar Bobb,334,Norway,79,SecondHalf,Pass,Successful,85.3,22.5,87,30.3
+718,247454,Martin Ødegaard,334,Norway,79,SecondHalf,BallTouch,Unsuccessful,87,30.3,,
+673,331567,Ghislain Konan,973,Ivory Coast,79,SecondHalf,BallRecovery,Successful,5.1,73.6,,
+674,331567,Ghislain Konan,973,Ivory Coast,80,SecondHalf,Pass,Unsuccessful,2.2,83.3,20.7,85.3
+719,357133,Marcus Pedersen,334,Norway,80,SecondHalf,Pass,Successful,75.6,14.8,84.2,17.8
+720,247454,Martin Ødegaard,334,Norway,80,SecondHalf,Pass,Successful,84.4,17.8,85.6,8.4
+721,357133,Marcus Pedersen,334,Norway,80,SecondHalf,BallRecovery,Successful,85.6,8.5,,
+722,357133,Marcus Pedersen,334,Norway,80,SecondHalf,BallTouch,Unsuccessful,90.2,9.6,,
+675,331567,Ghislain Konan,973,Ivory Coast,80,SecondHalf,BallRecovery,Successful,7.9,93,,
+676,331567,Ghislain Konan,973,Ivory Coast,80,SecondHalf,Pass,Successful,7.9,93,13.2,93.2
+677,557000,Yan Diomande,973,Ivory Coast,80,SecondHalf,Pass,Successful,13.2,93.2,11.8,81.4
+678,328075,Ibrahim Sangaré,973,Ivory Coast,80,SecondHalf,Pass,Unsuccessful,20.9,76.6,31,81.1
+723,321020,Sander Berge,334,Norway,80,SecondHalf,Interception,Successful,69,18.9,,
+679,557000,Yan Diomande,973,Ivory Coast,80,SecondHalf,Pass,Successful,21.4,90.8,13.6,90.6
+680,331567,Ghislain Konan,973,Ivory Coast,80,SecondHalf,Pass,Successful,13.6,90.6,22.6,74.1
+681,328075,Ibrahim Sangaré,973,Ivory Coast,80,SecondHalf,Pass,Successful,22.6,74.1,11.4,91.8
+682,331567,Ghislain Konan,973,Ivory Coast,80,SecondHalf,BallTouch,Successful,11.8,92.4,,
+728,430709,Oscar Bobb,334,Norway,81,SecondHalf,Pass,Successful,74.8,0,76.3,11.7
+729,247454,Martin Ødegaard,334,Norway,81,SecondHalf,BallTouch,Successful,76.3,11.7,,
+688,331567,Ghislain Konan,973,Ivory Coast,82,SecondHalf,Pass,Unsuccessful,29.1,100,43.9,96.3
+731,321020,Sander Berge,334,Norway,82,SecondHalf,Aerial,Successful,56.1,3.7,,
+689,557000,Yan Diomande,973,Ivory Coast,82,SecondHalf,Aerial,Unsuccessful,43.9,96.3,,
+732,321020,Sander Berge,334,Norway,82,SecondHalf,Pass,Unsuccessful,56.1,3.7,53.8,18.3
+690,277269,Franck Kessie,973,Ivory Coast,82,SecondHalf,Aerial,Successful,46.2,81.7,,
+733,320986,Patrick Berg,334,Norway,82,SecondHalf,Aerial,Unsuccessful,53.8,18.3,,
+691,277269,Franck Kessie,973,Ivory Coast,82,SecondHalf,Pass,Unsuccessful,46.2,81.7,42.1,92.9
+734,320986,Patrick Berg,334,Norway,82,SecondHalf,BallTouch,Successful,54.7,16.8,,
+736,357133,Marcus Pedersen,334,Norway,82,SecondHalf,SubstitutionOff,Successful,0,0,,
+737,303544,Fredrik Aursnes,334,Norway,82,SecondHalf,SubstitutionOn,Successful,0,0,,
+694,331567,Ghislain Konan,973,Ivory Coast,82,SecondHalf,Pass,Successful,47,100,33.6,92.2
+695,402810,Emmanuel Agbadou,973,Ivory Coast,82,SecondHalf,Pass,Successful,34.8,85.7,31.6,33.4
+696,384516,Odilon Kossounou,973,Ivory Coast,82,SecondHalf,Pass,Successful,31.6,33.3,40.2,13.7
+697,447449,Guéla Doué,973,Ivory Coast,82,SecondHalf,Pass,Successful,40.2,13.1,43.6,25.6
+698,277269,Franck Kessie,973,Ivory Coast,82,SecondHalf,Pass,Successful,43.6,25.8,30.4,23.9
+699,384516,Odilon Kossounou,973,Ivory Coast,82,SecondHalf,Pass,Successful,29.9,27,27.9,46.1
+700,328075,Ibrahim Sangaré,973,Ivory Coast,83,SecondHalf,Pass,Successful,27.9,46.1,27.4,24.9
+701,384516,Odilon Kossounou,973,Ivory Coast,83,SecondHalf,Pass,Successful,28.7,21.5,41.9,30
+702,277269,Franck Kessie,973,Ivory Coast,83,SecondHalf,TakeOn,Unsuccessful,44.2,28,,
+738,321020,Sander Berge,334,Norway,83,SecondHalf,Tackle,Unsuccessful,55.8,72,,
+810,277269,Franck Kessie,973,Ivory Coast,83,SecondHalf,BallTouch,Successful,42.4,25.1,,
+883,321020,Sander Berge,334,Norway,83,SecondHalf,BallTouch,Successful,57.6,74.9,,
+739,,,334,Norway,83,SecondHalf,Foul,Successful,55.8,70.6,,
+703,277269,Franck Kessie,973,Ivory Coast,83,SecondHalf,Foul,Unsuccessful,44.2,29.4,,
+740,320986,Patrick Berg,334,Norway,83,SecondHalf,Pass,Successful,53.3,79.2,57.4,59.5
+741,247454,Martin Ødegaard,334,Norway,83,SecondHalf,Pass,Successful,63.6,37.2,62.4,7.9
+742,303544,Fredrik Aursnes,334,Norway,83,SecondHalf,Pass,Successful,60.7,10.2,74.8,7
+743,430709,Oscar Bobb,334,Norway,83,SecondHalf,Pass,Successful,74.8,7,57.7,14.8
+744,247454,Martin Ødegaard,334,Norway,83,SecondHalf,Pass,Successful,57.7,15,50.2,35.7
+745,321085,Kristoffer Ajer,334,Norway,83,SecondHalf,Pass,Successful,57.3,55.3,63.1,89.1
+746,415341,David Møller Wolfe,334,Norway,83,SecondHalf,Pass,Successful,62.7,89.1,72.5,93.1
+747,424588,Andreas Schjelderup,334,Norway,83,SecondHalf,Pass,Successful,75.5,89.5,65.3,70.2
+748,364336,Torbjørn Heggem,334,Norway,83,SecondHalf,Pass,Successful,66.6,69.3,63.9,48.1
+749,247454,Martin Ødegaard,334,Norway,83,SecondHalf,Pass,Successful,67.5,41.2,58.6,11.5
+750,303544,Fredrik Aursnes,334,Norway,83,SecondHalf,Pass,Successful,58.6,11.5,52.9,46.5
+751,321085,Kristoffer Ajer,334,Norway,83,SecondHalf,Pass,Successful,52.4,50.1,61,56.2
+752,321020,Sander Berge,334,Norway,83,SecondHalf,Pass,Successful,61,56.2,60.8,85.2
+753,364336,Torbjørn Heggem,334,Norway,84,SecondHalf,Pass,Successful,60.5,85.2,76,93.7
+754,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,Pass,Successful,77.4,91,66.6,73.9
+755,321020,Sander Berge,334,Norway,84,SecondHalf,Pass,Successful,66.7,80.1,75.3,93.9
+756,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,TakeOn,Successful,79,77.6,,
+705,239872,Nicolas Pépé,973,Ivory Coast,84,SecondHalf,Challenge,Unsuccessful,21.1,22.5,,
+757,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,Pass,Unsuccessful,76.1,72.6,80.3,51.7
+706,557000,Yan Diomande,973,Ivory Coast,84,SecondHalf,Clearance,Successful,18.9,44.6,26.4,29.1
+758,321085,Kristoffer Ajer,334,Norway,84,SecondHalf,Pass,Successful,68.5,64.5,76.4,92.7
+759,415341,David Møller Wolfe,334,Norway,84,SecondHalf,Pass,Successful,75.6,92.5,66.6,86.7
+760,321020,Sander Berge,334,Norway,84,SecondHalf,Pass,Successful,67.8,79,73.8,92.5
+761,415341,David Møller Wolfe,334,Norway,84,SecondHalf,Pass,Successful,78.1,90.9,75,75
+762,247454,Martin Ødegaard,334,Norway,84,SecondHalf,Pass,Successful,72.6,74.7,90.8,74.5
+763,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,Pass,Unsuccessful,96.2,76.9,95.4,73.6
+707,447449,Guéla Doué,973,Ivory Coast,84,SecondHalf,BlockedPass,Successful,4.6,26.4,,
+765,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,Pass,Successful,84.5,100,67.5,90
+766,321020,Sander Berge,334,Norway,84,SecondHalf,Pass,Successful,68.8,85.8,80.8,96.3
+767,424588,Andreas Schjelderup,334,Norway,84,SecondHalf,Pass,Successful,81.8,96,68.2,86.1
+768,321020,Sander Berge,334,Norway,84,SecondHalf,Pass,Successful,67.3,84.6,60.9,75
+769,247454,Martin Ødegaard,334,Norway,84,SecondHalf,Pass,Successful,59.1,70.8,52.5,58.8
+770,321085,Kristoffer Ajer,334,Norway,84,SecondHalf,Pass,Successful,52.5,58.8,47.9,89.1
+771,364336,Torbjørn Heggem,334,Norway,84,SecondHalf,Pass,Successful,47.9,87.6,40.8,61.8
+772,321085,Kristoffer Ajer,334,Norway,85,SecondHalf,Pass,Successful,40.8,61.8,47.3,63.9
+773,247454,Martin Ødegaard,334,Norway,85,SecondHalf,Pass,Successful,59.4,31.9,64.2,8.4
+774,303544,Fredrik Aursnes,334,Norway,85,SecondHalf,Pass,Successful,63.2,9.7,75.1,7.5
+775,430709,Oscar Bobb,334,Norway,85,SecondHalf,Pass,Successful,63,20.7,92.2,37.2
+776,320986,Patrick Berg,334,Norway,85,SecondHalf,Pass,Successful,92.5,35.2,93.3,51.1
+777,315227,Erling Haaland,334,Norway,85,SecondHalf,Goal,Successful,93.3,51.1,,
+709,239872,Nicolas Pépé,973,Ivory Coast,86,SecondHalf,SubstitutionOff,Successful,0,0,,
+710,454324,Oumar Diakité,973,Ivory Coast,86,SecondHalf,SubstitutionOn,Successful,0,0,,
+711,407661,Elye Wahi,973,Ivory Coast,87,SecondHalf,Pass,Successful,50.1,50,39.3,45.4
+712,386634,Amad Diallo,973,Ivory Coast,87,SecondHalf,Pass,Successful,39.3,45.4,32.4,43.3
+713,277269,Franck Kessie,973,Ivory Coast,87,SecondHalf,Pass,Successful,32.4,43.3,36.1,59.3
+714,328075,Ibrahim Sangaré,973,Ivory Coast,87,SecondHalf,Pass,Successful,41.2,62.1,44.5,87.7
+715,331567,Ghislain Konan,973,Ivory Coast,87,SecondHalf,Pass,Unsuccessful,43.3,91.2,89.1,69.3
+778,39187,Ørjan Nyland,334,Norway,87,SecondHalf,KeeperPickup,Successful,11,32.7,,
+779,39187,Ørjan Nyland,334,Norway,87,SecondHalf,Pass,Successful,13,31.6,31.6,18.1
+780,247454,Martin Ødegaard,334,Norway,87,SecondHalf,Pass,Successful,39.8,27.3,29,62.2
+781,364336,Torbjørn Heggem,334,Norway,87,SecondHalf,Pass,Successful,31.1,67.2,33.8,94.5
+782,415341,David Møller Wolfe,334,Norway,87,SecondHalf,Pass,Successful,33.1,91.9,46.5,93
+783,424588,Andreas Schjelderup,334,Norway,87,SecondHalf,Pass,Successful,43.9,92.1,29.6,93.1
+784,415341,David Møller Wolfe,334,Norway,87,SecondHalf,Pass,Successful,29.6,93.1,36.2,93.6
+785,424588,Andreas Schjelderup,334,Norway,87,SecondHalf,Foul,Successful,41.8,93.8,,
+716,447449,Guéla Doué,973,Ivory Coast,87,SecondHalf,Foul,Unsuccessful,58.2,6.2,,
+786,364336,Torbjørn Heggem,334,Norway,87,SecondHalf,Pass,Successful,40.3,94.5,25,64.8
+787,321085,Kristoffer Ajer,334,Norway,87,SecondHalf,Pass,Successful,27.3,62.7,20.4,27.3
+788,303544,Fredrik Aursnes,334,Norway,88,SecondHalf,Pass,Successful,20.4,27.7,33.8,10.3
+789,430709,Oscar Bobb,334,Norway,88,SecondHalf,Pass,Successful,34.9,12.1,28.5,15.7
+790,303544,Fredrik Aursnes,334,Norway,88,SecondHalf,Pass,Successful,28.5,15.7,70.6,30.1
+791,315227,Erling Haaland,334,Norway,88,SecondHalf,TakeOn,Unsuccessful,73.8,32.6,,
+718,384516,Odilon Kossounou,973,Ivory Coast,88,SecondHalf,Tackle,Unsuccessful,26.2,67.4,,
+792,320986,Patrick Berg,334,Norway,88,SecondHalf,Pass,Successful,72.6,33.3,72.9,25.2
+793,247454,Martin Ødegaard,334,Norway,88,SecondHalf,Pass,Successful,75.3,23.4,83.8,24.1
+794,430709,Oscar Bobb,334,Norway,88,SecondHalf,Pass,Successful,82.3,24.3,71.8,27.6
+795,247454,Martin Ødegaard,334,Norway,88,SecondHalf,Pass,Successful,76.2,14.8,81.4,6
+796,430709,Oscar Bobb,334,Norway,88,SecondHalf,Dispossessed,Successful,85.6,6.2,,
+719,331567,Ghislain Konan,973,Ivory Coast,88,SecondHalf,Tackle,Successful,14.4,93.8,,
+798,303544,Fredrik Aursnes,334,Norway,88,SecondHalf,Pass,Successful,85.8,0,92.6,6
+799,247454,Martin Ødegaard,334,Norway,88,SecondHalf,BallTouch,Unsuccessful,92.8,4.5,,
+724,331567,Ghislain Konan,973,Ivory Coast,88,SecondHalf,Pass,Successful,12.7,100,23.5,92.4
+725,328075,Ibrahim Sangaré,973,Ivory Coast,88,SecondHalf,Pass,Successful,23.5,92.4,17,96.5
+726,331567,Ghislain Konan,973,Ivory Coast,88,SecondHalf,Pass,Successful,17.6,94.5,24.3,86.6
+727,328075,Ibrahim Sangaré,973,Ivory Coast,89,SecondHalf,Pass,Successful,24.7,85,38.6,76
+728,386634,Amad Diallo,973,Ivory Coast,89,SecondHalf,Pass,Successful,47.1,79.4,58.3,93.9
+729,557000,Yan Diomande,973,Ivory Coast,89,SecondHalf,Pass,Successful,85.5,93.5,80.6,78.5
+730,386634,Amad Diallo,973,Ivory Coast,89,SecondHalf,BallTouch,Unsuccessful,80.6,78.4,,
+801,303544,Fredrik Aursnes,334,Norway,89,SecondHalf,Clearance,Successful,11.6,27.3,14.8,26.7
+731,386634,Amad Diallo,973,Ivory Coast,89,SecondHalf,BlockedPass,Successful,85.5,75.7,,
+814,303544,Fredrik Aursnes,334,Norway,89,SecondHalf,BallTouch,Successful,13.1,27.1,,
+802,430709,Oscar Bobb,334,Norway,89,SecondHalf,BallRecovery,Successful,13.7,21.9,,
+803,430709,Oscar Bobb,334,Norway,89,SecondHalf,Pass,Successful,13.7,21.9,23.5,16.6
+804,247454,Martin Ødegaard,334,Norway,89,SecondHalf,Pass,Successful,25.4,22.8,29.9,47.5
+805,321020,Sander Berge,334,Norway,89,SecondHalf,Pass,Successful,31.1,52.3,24.2,87.4
+806,415341,David Møller Wolfe,334,Norway,89,SecondHalf,Pass,Successful,29.7,89.1,43.7,92.2
+807,424588,Andreas Schjelderup,334,Norway,89,SecondHalf,Pass,Successful,41.4,92.4,31.7,84
+808,321020,Sander Berge,334,Norway,89,SecondHalf,Pass,Successful,31.1,84.6,32.5,65.7
+809,320986,Patrick Berg,334,Norway,89,SecondHalf,Pass,Successful,66.5,64.5,84.3,63.6
+810,315227,Erling Haaland,334,Norway,89,SecondHalf,BallTouch,Successful,87.2,61.9,,
+811,424588,Andreas Schjelderup,334,Norway,89,SecondHalf,MissedShots,Successful,89.8,65.6,,
+735,402810,Emmanuel Agbadou,973,Ivory Coast,89,SecondHalf,Pass,Successful,5.4,60.3,15.8,85.9
+736,331567,Ghislain Konan,973,Ivory Coast,90,SecondHalf,Pass,Successful,37.4,88.6,41.5,95.4
+737,386634,Amad Diallo,973,Ivory Coast,90,SecondHalf,Pass,Successful,40.8,90.6,41.1,78.5
+738,557000,Yan Diomande,973,Ivory Coast,90,SecondHalf,Pass,Successful,41.2,71.2,43.4,32.7
+739,384516,Odilon Kossounou,973,Ivory Coast,90,SecondHalf,Pass,Successful,45.4,32.8,52.1,36.4
+740,277269,Franck Kessie,973,Ivory Coast,90,SecondHalf,Pass,Successful,55,28.5,66.1,5
+741,454324,Oumar Diakité,973,Ivory Coast,90,SecondHalf,Pass,Successful,62.9,18.2,58.2,11.1
+742,277269,Franck Kessie,973,Ivory Coast,90,SecondHalf,Pass,Unsuccessful,60.6,22.2,60.2,33.1
+815,315227,Erling Haaland,334,Norway,90,SecondHalf,BallTouch,Successful,35.2,66,,
+816,247454,Martin Ødegaard,334,Norway,90,SecondHalf,BallRecovery,Successful,32.9,57,,
+817,247454,Martin Ødegaard,334,Norway,90,SecondHalf,Pass,Successful,32.9,57,30.6,68.7
+818,321020,Sander Berge,334,Norway,90,SecondHalf,Pass,Successful,30.6,68.7,39.1,71.7
+819,315227,Erling Haaland,334,Norway,90,SecondHalf,Pass,Successful,39.1,72.3,47.2,94
+820,320986,Patrick Berg,334,Norway,90,SecondHalf,Pass,Successful,44.9,89.8,33.5,92.2
+821,424588,Andreas Schjelderup,334,Norway,90,SecondHalf,Pass,Successful,33.2,92.5,21.7,86.4
+822,415341,David Møller Wolfe,334,Norway,90,SecondHalf,Pass,Successful,21.6,86.4,24.8,78.3
+823,321020,Sander Berge,334,Norway,90,SecondHalf,Pass,Successful,24.4,81.3,15.9,90.1
+824,415341,David Møller Wolfe,334,Norway,90,SecondHalf,Pass,Unsuccessful,15.2,93.1,56.9,80.4
+743,447449,Guéla Doué,973,Ivory Coast,90,SecondHalf,BallRecovery,Successful,45.9,27.9,,
+744,447449,Guéla Doué,973,Ivory Coast,90,SecondHalf,Pass,Unsuccessful,53.8,33.4,77.1,38.9
+825,364336,Torbjørn Heggem,334,Norway,90,SecondHalf,Interception,Successful,22.9,61.1,,
+826,321085,Kristoffer Ajer,334,Norway,91,SecondHalf,Clearance,Successful,19.7,50.4,24.3,56.1
+827,321020,Sander Berge,334,Norway,91,SecondHalf,BallRecovery,Successful,24.3,56.5,,
+828,321020,Sander Berge,334,Norway,91,SecondHalf,Pass,Successful,24.3,56.5,2.1,49.6
+829,39187,Ørjan Nyland,334,Norway,91,SecondHalf,Pass,Successful,3.7,48,8.3,21.9
+830,303544,Fredrik Aursnes,334,Norway,91,SecondHalf,Pass,Unsuccessful,8.3,21.9,11.7,21
+745,557000,Yan Diomande,973,Ivory Coast,91,SecondHalf,BlockedPass,Successful,88.3,79,,
+746,557000,Yan Diomande,973,Ivory Coast,91,SecondHalf,BallTouch,Successful,78.7,93.9,,
+747,331567,Ghislain Konan,973,Ivory Coast,91,SecondHalf,BallRecovery,Successful,77.9,92,,
+748,331567,Ghislain Konan,973,Ivory Coast,91,SecondHalf,Pass,Successful,77.9,92,78.1,80.6
+749,386634,Amad Diallo,973,Ivory Coast,91,SecondHalf,Pass,Successful,78.1,80.6,87.1,85
+750,331567,Ghislain Konan,973,Ivory Coast,91,SecondHalf,Pass,Unsuccessful,95.8,77.5,98.5,48.5
+831,39187,Ørjan Nyland,334,Norway,91,SecondHalf,Clearance,Successful,2.1,46.9,7.1,61.5
+832,415341,David Møller Wolfe,334,Norway,91,SecondHalf,Clearance,Successful,7.1,61.5,13.8,71.8
+833,424588,Andreas Schjelderup,334,Norway,91,SecondHalf,Challenge,Unsuccessful,14.5,72.5,,
+751,454324,Oumar Diakité,973,Ivory Coast,91,SecondHalf,TakeOn,Successful,85.5,27.5,,
+752,454324,Oumar Diakité,973,Ivory Coast,91,SecondHalf,Pass,Successful,80.3,14.9,73,20.1
+753,277269,Franck Kessie,973,Ivory Coast,91,SecondHalf,Pass,Successful,76.7,24,74.7,33
+754,328075,Ibrahim Sangaré,973,Ivory Coast,91,SecondHalf,Pass,Successful,74.8,31.2,84.9,6.4
+755,454324,Oumar Diakité,973,Ivory Coast,91,SecondHalf,Pass,Successful,87.2,5.3,97.3,22.2
+756,277269,Franck Kessie,973,Ivory Coast,91,SecondHalf,Pass,Successful,96.7,16.1,87.9,9.8
+757,454324,Oumar Diakité,973,Ivory Coast,91,SecondHalf,Pass,Unsuccessful,88.8,13.7,90.4,85.4
+835,303544,Fredrik Aursnes,334,Norway,91,SecondHalf,Foul,Successful,7.6,40.3,,
+758,557000,Yan Diomande,973,Ivory Coast,91,SecondHalf,Foul,Unsuccessful,92.4,59.7,,
+759,557000,Yan Diomande,973,Ivory Coast,92,SecondHalf,SubstitutionOff,Successful,0,0,,
+760,382587,Evann Guessand,973,Ivory Coast,92,SecondHalf,SubstitutionOn,Successful,0,0,,
+761,331567,Ghislain Konan,973,Ivory Coast,92,SecondHalf,SubstitutionOff,Successful,0,0,,
+762,551965,Bazoumana Touré,973,Ivory Coast,92,SecondHalf,SubstitutionOn,Successful,0,0,,
+806,,,973,Ivory Coast,92,SecondHalf,FormationChange,Successful,0,0,,
+836,39187,Ørjan Nyland,334,Norway,92,SecondHalf,Pass,Successful,17.1,43.8,76.9,34.6
+837,315227,Erling Haaland,334,Norway,93,SecondHalf,Aerial,Successful,76.9,34.6,,
+763,328075,Ibrahim Sangaré,973,Ivory Coast,93,SecondHalf,Aerial,Unsuccessful,23.1,65.4,,
+838,315227,Erling Haaland,334,Norway,93,SecondHalf,Pass,Successful,76.9,34.6,79.3,41.7
+839,424588,Andreas Schjelderup,334,Norway,93,SecondHalf,BallTouch,Unsuccessful,77.6,42.5,,
+764,447449,Guéla Doué,973,Ivory Coast,93,SecondHalf,Clearance,Successful,19.5,58.8,15.7,100
+841,247454,Martin Ødegaard,334,Norway,93,SecondHalf,Pass,Successful,84.5,0,87.2,9.1
+842,430709,Oscar Bobb,334,Norway,93,SecondHalf,BallTouch,Unsuccessful,87.2,9.1,,
+844,247454,Martin Ødegaard,334,Norway,93,SecondHalf,Challenge,Unsuccessful,80.1,10.5,,
+766,551965,Bazoumana Touré,973,Ivory Coast,93,SecondHalf,TakeOn,Successful,19.9,89.5,,
+767,551965,Bazoumana Touré,973,Ivory Coast,93,SecondHalf,BallRecovery,Successful,27,90,,
+768,551965,Bazoumana Touré,973,Ivory Coast,93,SecondHalf,BallTouch,Unsuccessful,26.2,94.5,,
+845,303544,Fredrik Aursnes,334,Norway,93,SecondHalf,BallTouch,Successful,63.2,7.9,,
+846,430709,Oscar Bobb,334,Norway,93,SecondHalf,BallTouch,Successful,67.4,7.2,,
+847,303544,Fredrik Aursnes,334,Norway,93,SecondHalf,BallRecovery,Successful,74.5,8.7,,
+848,303544,Fredrik Aursnes,334,Norway,93,SecondHalf,TakeOn,Unsuccessful,83.7,8.5,,
+770,439446,Yahia Fofana,973,Ivory Coast,93,SecondHalf,Pass,Successful,4.7,52.5,65.3,80.8
+771,382587,Evann Guessand,973,Ivory Coast,93,SecondHalf,Pass,Unsuccessful,65.3,80.8,62.8,67
+850,320986,Patrick Berg,334,Norway,93,SecondHalf,BallRecovery,Successful,28.7,44.1,,
+851,320986,Patrick Berg,334,Norway,93,SecondHalf,Pass,Successful,28.7,44.1,46.2,10.6
+884,430709,Oscar Bobb,334,Norway,93,SecondHalf,TakeOn,Unsuccessful,45.2,19,,
+852,430709,Oscar Bobb,334,Norway,93,SecondHalf,BallTouch,Unsuccessful,57.7,10,,
+775,328075,Ibrahim Sangaré,973,Ivory Coast,94,SecondHalf,Pass,Successful,40.4,100,37.4,84.5
+776,277269,Franck Kessie,973,Ivory Coast,94,SecondHalf,Pass,Successful,40.2,80.9,64.1,4.9
+777,454324,Oumar Diakité,973,Ivory Coast,94,SecondHalf,Pass,Successful,73.4,21.3,69.2,34.3
+778,386634,Amad Diallo,973,Ivory Coast,94,SecondHalf,Pass,Successful,73.3,29.1,81.7,33
+779,454324,Oumar Diakité,973,Ivory Coast,94,SecondHalf,Pass,Unsuccessful,81.7,33,86.5,24.9
+854,424588,Andreas Schjelderup,334,Norway,94,SecondHalf,BallRecovery,Successful,7.7,75.3,,
+855,424588,Andreas Schjelderup,334,Norway,94,SecondHalf,Pass,Successful,7.7,75.3,25.1,75.3
+856,247454,Martin Ødegaard,334,Norway,94,SecondHalf,Dispossessed,Successful,25.6,79.4,,
+780,454324,Oumar Diakité,973,Ivory Coast,94,SecondHalf,Tackle,Successful,74.4,20.6,,
+781,447449,Guéla Doué,973,Ivory Coast,94,SecondHalf,BallRecovery,Successful,72.4,5.2,,
+782,447449,Guéla Doué,973,Ivory Coast,94,SecondHalf,Pass,Unsuccessful,77.6,10.1,89.7,45.7
+857,364336,Torbjørn Heggem,334,Norway,94,SecondHalf,Clearance,Successful,7.4,57.1,7.3,42.3
+858,303544,Fredrik Aursnes,334,Norway,94,SecondHalf,Clearance,Successful,6.9,39,24.9,33.1
+783,328075,Ibrahim Sangaré,973,Ivory Coast,94,SecondHalf,Foul,Successful,71.2,51.8,,
+859,247454,Martin Ødegaard,334,Norway,94,SecondHalf,Foul,Unsuccessful,28.8,48.2,,
+784,386634,Amad Diallo,973,Ivory Coast,95,SecondHalf,SavedShot,Successful,70.4,51.1,,
+860,39187,Ørjan Nyland,334,Norway,95,SecondHalf,Save,Successful,0.6,47.9,,
+785,386634,Amad Diallo,973,Ivory Coast,95,SecondHalf,CornerAwarded,Successful,89.2,52.2,,
+861,39187,Ørjan Nyland,334,Norway,95,SecondHalf,CornerAwarded,Unsuccessful,10.8,47.8,,
+786,386634,Amad Diallo,973,Ivory Coast,96,SecondHalf,Pass,Unsuccessful,99.5,99.5,93.8,62.9
+862,303544,Fredrik Aursnes,334,Norway,96,SecondHalf,Clearance,Successful,3.3,36,25.2,40.7
+787,277269,Franck Kessie,973,Ivory Coast,96,SecondHalf,Pass,Successful,76.2,63.3,64,69.7
+788,551965,Bazoumana Touré,973,Ivory Coast,96,SecondHalf,BallTouch,Unsuccessful,64.3,71.7,,
+863,430709,Oscar Bobb,334,Norway,96,SecondHalf,TakeOn,Unsuccessful,34.8,15.3,,
+789,551965,Bazoumana Touré,973,Ivory Coast,96,SecondHalf,Tackle,Successful,65.2,84.6,,
+865,303544,Fredrik Aursnes,334,Norway,96,SecondHalf,Pass,Unsuccessful,43.8,0,79.8,14.4
+791,402810,Emmanuel Agbadou,973,Ivory Coast,96,SecondHalf,BallRecovery,Successful,14.9,92.4,,
+792,402810,Emmanuel Agbadou,973,Ivory Coast,96,SecondHalf,Pass,Successful,13.4,88.1,8.7,50.1
+793,439446,Yahia Fofana,973,Ivory Coast,96,SecondHalf,Pass,Unsuccessful,23.3,49.1,73.5,28.2
+876,321085,Kristoffer Ajer,334,Norway,96,SecondHalf,Aerial,Successful,26.5,71.8,,
+804,407661,Elye Wahi,973,Ivory Coast,96,SecondHalf,Aerial,Unsuccessful,73.5,28.2,,
+873,321085,Kristoffer Ajer,334,Norway,96,SecondHalf,Clearance,Successful,26.5,71.8,28.2,70.3
+794,407661,Elye Wahi,973,Ivory Coast,96,SecondHalf,Pass,Successful,70.2,24.8,74.4,13.3
+811,454324,Oumar Diakité,973,Ivory Coast,96,SecondHalf,TakeOn,Unsuccessful,80.7,16.1,,
+805,454324,Oumar Diakité,973,Ivory Coast,96,SecondHalf,TakeOn,Unsuccessful,96.4,17.9,,
+868,321085,Kristoffer Ajer,334,Norway,96,SecondHalf,Tackle,Successful,3.6,82.1,,
+796,454324,Oumar Diakité,973,Ivory Coast,97,SecondHalf,CornerAwarded,Successful,98.2,14.8,,
+869,321085,Kristoffer Ajer,334,Norway,97,SecondHalf,CornerAwarded,Unsuccessful,1.8,85.2,,
+797,386634,Amad Diallo,973,Ivory Coast,97,SecondHalf,Pass,Successful,99.5,0.5,95.8,51.9
+798,382587,Evann Guessand,973,Ivory Coast,97,SecondHalf,Aerial,Successful,95.8,51.9,,
+871,303544,Fredrik Aursnes,334,Norway,97,SecondHalf,Aerial,Unsuccessful,4.2,48.1,,
+799,382587,Evann Guessand,973,Ivory Coast,97,SecondHalf,MissedShots,Successful,95.8,51.9,,
+870,364336,Torbjørn Heggem,334,Norway,97,SecondHalf,BallTouch,Successful,3.7,48.4,,
+800,447449,Guéla Doué,973,Ivory Coast,97,SecondHalf,Pass,Unsuccessful,93.1,95.4,73.4,92
+872,,,334,Norway,97,SecondHalf,End,Successful,0,0,,
+801,,,973,Ivory Coast,97,SecondHalf,End,Successful,0,0,,
+874,,,334,Norway,0,PostGame,End,Successful,0,0,,
+802,,,973,Ivory Coast,0,PostGame,End,Successful,0,0,,
+1,,,973,Ivory Coast,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,334,Norway,0,PreMatch,FormationSet,Successful,0,0,,

@@ -1,0 +1,1555 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,339,Belgium,0,FirstHalf,Start,Successful,0,0,,
+2,,,338,Spain,0,FirstHalf,Start,Successful,0,0,,
+3,113994,Leandro Trossard,339,Belgium,0,FirstHalf,Pass,Successful,50.1,49.6,52,51.5
+4,73084,Kevin De Bruyne,339,Belgium,0,FirstHalf,Pass,Successful,52.8,51.3,39,36.7
+5,414495,Nathan Ngoy,339,Belgium,0,FirstHalf,Pass,Successful,38.3,36.9,30.2,69.3
+6,129832,Brandon Mechele,339,Belgium,0,FirstHalf,Pass,Successful,28.1,70,15.3,46.9
+7,73798,Thibaut Courtois,339,Belgium,0,FirstHalf,Pass,Successful,15.3,47,59.8,16.1
+8,243567,Hans Vanaken,339,Belgium,0,FirstHalf,Pass,Successful,59.8,16.1,56.2,18.8
+9,386390,Charles De Ketelaere,339,Belgium,0,FirstHalf,Pass,Successful,56.5,14.1,61.2,4.9
+10,141169,Timothy Castagne,339,Belgium,0,FirstHalf,Pass,Unsuccessful,61.2,4.9,100,25.6
+4,122117,Aymeric Laporte,338,Spain,0,FirstHalf,Pass,Successful,4.8,61.2,4.6,49.2
+5,332823,Unai Simón,338,Spain,0,FirstHalf,Pass,Successful,7.6,46.5,8.2,16
+6,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Pass,Successful,9.3,14.2,15.6,3.6
+7,362352,Pedro Porro,338,Spain,0,FirstHalf,Pass,Successful,16.4,3,35.7,8.5
+8,480249,Lamine Yamal,338,Spain,0,FirstHalf,Pass,Unsuccessful,36.3,4.9,33.9,13.3
+12,129832,Brandon Mechele,339,Belgium,0,FirstHalf,Interception,Successful,66.1,86.7,,
+10,362352,Pedro Porro,338,Spain,1,FirstHalf,Pass,Successful,28.3,0,27.9,8.8
+11,303139,Rodri,338,Spain,1,FirstHalf,Pass,Successful,26.5,8.6,25,3.5
+12,362352,Pedro Porro,338,Spain,1,FirstHalf,Pass,Successful,23.4,3.6,11.6,11.6
+13,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Unsuccessful,11.3,10.7,13,8.8
+14,386390,Charles De Ketelaere,339,Belgium,1,FirstHalf,BlockedPass,Successful,87,91.2,,
+15,362352,Pedro Porro,338,Spain,1,FirstHalf,Pass,Successful,19.9,0,24.7,15.9
+1041,480249,Lamine Yamal,338,Spain,1,FirstHalf,TakeOn,Unsuccessful,39.6,8.9,,
+16,480249,Lamine Yamal,338,Spain,1,FirstHalf,Foul,Successful,38.6,10.8,,
+16,399999,Nicolas Raskin,339,Belgium,1,FirstHalf,Foul,Unsuccessful,61.4,89.2,,
+17,261212,Dani Olmo,338,Spain,1,FirstHalf,Pass,Successful,41.1,8,35.8,14.7
+18,303139,Rodri,338,Spain,1,FirstHalf,Pass,Successful,33.5,31.4,29.3,62.9
+19,122117,Aymeric Laporte,338,Spain,1,FirstHalf,Pass,Successful,29.6,61.5,30.8,42.3
+20,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Successful,33.1,33.6,27.1,67.4
+21,122117,Aymeric Laporte,338,Spain,1,FirstHalf,Pass,Successful,25.4,69.3,15.5,55.8
+22,332823,Unai Simón,338,Spain,1,FirstHalf,Pass,Successful,15.1,54.2,21.9,30.4
+23,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Successful,25.9,25,44.7,34.4
+24,298839,Mikel Oyarzabal,338,Spain,1,FirstHalf,Pass,Successful,44.6,47.6,67.1,91.1
+11025,363496,Marc Cucurella,338,Spain,2,FirstHalf,OffsideGiven,Unsuccessful,94.3,75.9,,
+25,395242,Álex Baena,338,Spain,2,FirstHalf,OffsidePass,Successful,87.4,75.5,94.3,75.9
+19,414495,Nathan Ngoy,339,Belgium,2,FirstHalf,OffsideProvoked,Successful,10.4,42.8,,
+20,73798,Thibaut Courtois,339,Belgium,2,FirstHalf,Pass,Unsuccessful,10.2,23.1,89,100
+28,362352,Pedro Porro,338,Spain,2,FirstHalf,Pass,Successful,10.2,0,4.2,9.2
+29,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,4.9,9.1,40.1,20
+30,298839,Mikel Oyarzabal,338,Spain,2,FirstHalf,Pass,Unsuccessful,40.1,20,43,10.3
+22,392647,Maxim De Cuyper,339,Belgium,2,FirstHalf,BallRecovery,Successful,55.4,88.9,,
+23,392647,Maxim De Cuyper,339,Belgium,2,FirstHalf,Pass,Successful,55.4,88.9,55.4,67
+24,243567,Hans Vanaken,339,Belgium,2,FirstHalf,Pass,Successful,55.3,66.9,34,67.2
+25,414495,Nathan Ngoy,339,Belgium,2,FirstHalf,Pass,Successful,31.8,67,14.1,44.6
+26,73798,Thibaut Courtois,339,Belgium,3,FirstHalf,Pass,Unsuccessful,14,36.6,61.9,0
+32,363496,Marc Cucurella,338,Spain,3,FirstHalf,Pass,Successful,28.7,100,18.9,89.6
+33,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Pass,Successful,20,83.5,22.2,43
+34,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Successful,22.1,38.3,34.6,7.9
+35,362352,Pedro Porro,338,Spain,3,FirstHalf,Pass,Successful,37.3,5.4,51.1,20.9
+1042,261212,Dani Olmo,338,Spain,3,FirstHalf,GoodSkill,Successful,54.6,15.9,,
+36,261212,Dani Olmo,338,Spain,3,FirstHalf,Pass,Successful,67.3,46.7,72.1,88.5
+37,395242,Álex Baena,338,Spain,3,FirstHalf,Pass,Successful,73.2,83,66.6,75.8
+38,294193,Fabián Ruiz,338,Spain,3,FirstHalf,Pass,Successful,66.1,74.3,68.1,67.4
+39,303139,Rodri,338,Spain,3,FirstHalf,Pass,Successful,69.5,66.1,83.4,95.8
+40,363496,Marc Cucurella,338,Spain,3,FirstHalf,Pass,Successful,82.9,94.9,74.6,86.1
+41,294193,Fabián Ruiz,338,Spain,3,FirstHalf,Pass,Unsuccessful,74.5,86.1,87,66.2
+30,399999,Nicolas Raskin,339,Belgium,3,FirstHalf,Clearance,Successful,14.5,37.3,12.7,51.9
+28,129832,Brandon Mechele,339,Belgium,3,FirstHalf,Clearance,Successful,11.1,48.2,32,0
+43,294193,Fabián Ruiz,338,Spain,3,FirstHalf,Pass,Successful,61.7,100,58.5,92.3
+44,303139,Rodri,338,Spain,3,FirstHalf,Pass,Successful,54.9,89.7,48.3,55
+45,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Successful,53.3,49.4,62.5,58.9
+46,395242,Álex Baena,338,Spain,3,FirstHalf,Pass,Successful,63.6,44.7,73.9,5.6
+47,480249,Lamine Yamal,338,Spain,4,FirstHalf,Pass,Successful,73.1,5.6,68,7.6
+48,362352,Pedro Porro,338,Spain,4,FirstHalf,Pass,Unsuccessful,69.2,7.4,91.9,25.1
+31,129832,Brandon Mechele,339,Belgium,4,FirstHalf,Clearance,Successful,6.7,73,5.9,100
+50,362352,Pedro Porro,338,Spain,4,FirstHalf,Pass,Successful,93.2,0,80.4,12.3
+51,303139,Rodri,338,Spain,4,FirstHalf,Pass,Successful,79.5,13.8,83.6,5
+52,362352,Pedro Porro,338,Spain,4,FirstHalf,Pass,Successful,83.1,5.1,78.5,8.5
+53,303139,Rodri,338,Spain,4,FirstHalf,Pass,Successful,78.7,8.9,78.1,30
+54,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Unsuccessful,78.1,30,96.7,25.7
+33,399999,Nicolas Raskin,339,Belgium,4,FirstHalf,Clearance,Successful,8,71.7,43.9,88
+55,498386,Pau Cubarsí,338,Spain,4,FirstHalf,Pass,Successful,54.1,15.3,54.6,29.4
+56,294193,Fabián Ruiz,338,Spain,4,FirstHalf,Pass,Successful,55.1,30.6,41.9,29.8
+57,122117,Aymeric Laporte,338,Spain,4,FirstHalf,Pass,Successful,46.3,29.8,53.5,14.4
+58,303139,Rodri,338,Spain,4,FirstHalf,Pass,Successful,54.4,13.9,67.9,24.2
+59,261212,Dani Olmo,338,Spain,4,FirstHalf,Pass,Successful,69.6,22.4,74.4,6.8
+60,480249,Lamine Yamal,338,Spain,4,FirstHalf,Pass,Unsuccessful,80.5,9.1,84.4,17.6
+34,399999,Nicolas Raskin,339,Belgium,4,FirstHalf,Interception,Successful,15.6,82.4,,
+35,399999,Nicolas Raskin,339,Belgium,4,FirstHalf,BallRecovery,Successful,16.9,83.9,,
+36,399999,Nicolas Raskin,339,Belgium,4,FirstHalf,Pass,Successful,14.5,84.4,16.6,92.6
+62,362352,Pedro Porro,338,Spain,4,FirstHalf,Challenge,Unsuccessful,78.1,9.4,,
+37,388098,Jérémy Doku,339,Belgium,4,FirstHalf,TakeOn,Successful,22,90.6,,
+63,294193,Fabián Ruiz,338,Spain,4,FirstHalf,Challenge,Unsuccessful,67.2,24.3,,
+38,388098,Jérémy Doku,339,Belgium,4,FirstHalf,TakeOn,Successful,32.8,75.7,,
+39,388098,Jérémy Doku,339,Belgium,4,FirstHalf,TakeOn,Unsuccessful,36.2,68.9,,
+64,298839,Mikel Oyarzabal,338,Spain,4,FirstHalf,Tackle,Unsuccessful,63.8,31.1,,
+40,386390,Charles De Ketelaere,339,Belgium,4,FirstHalf,Pass,Successful,46.9,58.8,36.6,56
+41,388098,Jérémy Doku,339,Belgium,4,FirstHalf,Pass,Successful,38.8,53.6,42.9,12.8
+42,141169,Timothy Castagne,339,Belgium,5,FirstHalf,Pass,Successful,47.5,11,31.2,25.5
+43,414495,Nathan Ngoy,339,Belgium,5,FirstHalf,Pass,Successful,32.9,32.7,30.8,55.1
+44,129832,Brandon Mechele,339,Belgium,5,FirstHalf,Pass,Successful,40.2,71.5,53.1,95.6
+45,73084,Kevin De Bruyne,339,Belgium,5,FirstHalf,Pass,Successful,45.3,89.9,31.7,87.5
+46,129832,Brandon Mechele,339,Belgium,5,FirstHalf,Pass,Successful,33.7,66.4,23.3,49
+47,73798,Thibaut Courtois,339,Belgium,5,FirstHalf,Pass,Successful,23.6,47.8,23,22.2
+48,414495,Nathan Ngoy,339,Belgium,5,FirstHalf,Pass,Successful,24.3,17.4,28.8,4.1
+49,141169,Timothy Castagne,339,Belgium,5,FirstHalf,Pass,Unsuccessful,29.4,4.1,60.9,11.9
+65,122117,Aymeric Laporte,338,Spain,5,FirstHalf,Pass,Successful,40.1,89.1,47.2,59.2
+66,303139,Rodri,338,Spain,5,FirstHalf,BallRecovery,Successful,47.8,58,,
+67,303139,Rodri,338,Spain,5,FirstHalf,Pass,Successful,56.1,51.5,53.7,65.3
+68,294193,Fabián Ruiz,338,Spain,5,FirstHalf,Pass,Successful,58,70.5,57.8,51.5
+69,303139,Rodri,338,Spain,5,FirstHalf,Pass,Successful,56.4,45.5,53.7,29.7
+70,498386,Pau Cubarsí,338,Spain,5,FirstHalf,Pass,Successful,53.5,28.9,65.4,8.5
+71,362352,Pedro Porro,338,Spain,5,FirstHalf,Pass,Unsuccessful,68.8,18.6,70.8,33
+50,399999,Nicolas Raskin,339,Belgium,5,FirstHalf,Interception,Successful,29.2,67,,
+51,392647,Maxim De Cuyper,339,Belgium,5,FirstHalf,BallRecovery,Successful,27.2,76.7,,
+52,392647,Maxim De Cuyper,339,Belgium,5,FirstHalf,Pass,Unsuccessful,31.6,69,48.5,51.3
+72,122117,Aymeric Laporte,338,Spain,5,FirstHalf,BallRecovery,Successful,53.4,46.7,,
+73,122117,Aymeric Laporte,338,Spain,5,FirstHalf,Pass,Successful,53.4,46.7,57.1,56.5
+74,294193,Fabián Ruiz,338,Spain,5,FirstHalf,Pass,Successful,56.8,57.3,67.5,67.7
+75,298839,Mikel Oyarzabal,338,Spain,5,FirstHalf,Pass,Successful,67.5,67.7,69.7,72.1
+76,395242,Álex Baena,338,Spain,6,FirstHalf,Pass,Successful,69.7,72.1,68.9,68.3
+77,298839,Mikel Oyarzabal,338,Spain,6,FirstHalf,Pass,Successful,70.6,70.5,69.7,88.7
+78,363496,Marc Cucurella,338,Spain,6,FirstHalf,Pass,Successful,70.4,87.7,67.9,74.3
+79,294193,Fabián Ruiz,338,Spain,6,FirstHalf,Pass,Successful,67.7,73.3,71.7,74
+80,298839,Mikel Oyarzabal,338,Spain,6,FirstHalf,Pass,Successful,72,75.8,67.7,74.9
+81,294193,Fabián Ruiz,338,Spain,6,FirstHalf,Pass,Successful,69.1,72.4,69.1,65.6
+82,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,69.2,60.8,88.5,7.1
+83,480249,Lamine Yamal,338,Spain,6,FirstHalf,BallTouch,Unsuccessful,88.5,7.1,,
+53,392647,Maxim De Cuyper,339,Belgium,6,FirstHalf,Clearance,Successful,11.4,90,22.2,100
+85,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,75.4,0,77.2,15.3
+86,261212,Dani Olmo,338,Spain,6,FirstHalf,Pass,Successful,74.3,14.8,65.6,6.8
+87,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,64.8,6.5,51.6,9.1
+88,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,47.8,10,46,39.5
+89,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Successful,52.4,52.4,47.4,33.9
+90,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,47.1,33.5,52,56.4
+91,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Unsuccessful,59.2,62.6,70.3,55.8
+55,414495,Nathan Ngoy,339,Belgium,6,FirstHalf,BallRecovery,Successful,31.9,48.2,,
+56,414495,Nathan Ngoy,339,Belgium,6,FirstHalf,Pass,Successful,34.2,55.1,29.8,70.9
+57,392647,Maxim De Cuyper,339,Belgium,6,FirstHalf,Pass,Successful,29.8,70.9,25.3,59
+58,129832,Brandon Mechele,339,Belgium,6,FirstHalf,Pass,Successful,25.6,52.2,31.5,86.3
+59,392647,Maxim De Cuyper,339,Belgium,6,FirstHalf,Pass,Successful,33.8,90.6,46.2,93.6
+60,73084,Kevin De Bruyne,339,Belgium,6,FirstHalf,Pass,Successful,46.2,93.6,58.1,92.1
+61,388098,Jérémy Doku,339,Belgium,7,FirstHalf,TakeOn,Unsuccessful,57.6,93.8,,
+94,362352,Pedro Porro,338,Spain,7,FirstHalf,Tackle,Successful,42.4,6.2,,
+63,392647,Maxim De Cuyper,339,Belgium,7,FirstHalf,Pass,Successful,47.3,100,33.5,89.4
+64,129832,Brandon Mechele,339,Belgium,7,FirstHalf,Pass,Successful,32.8,78.1,30.1,40.1
+65,414495,Nathan Ngoy,339,Belgium,7,FirstHalf,Pass,Successful,29.4,35.5,14.3,48.1
+66,73798,Thibaut Courtois,339,Belgium,7,FirstHalf,Pass,Unsuccessful,15.1,50.7,88.8,26.4
+96,332823,Unai Simón,338,Spain,7,FirstHalf,KeeperPickup,Successful,13.7,73.5,,
+97,332823,Unai Simón,338,Spain,7,FirstHalf,Pass,Successful,13,63.8,21.6,30.4
+98,498386,Pau Cubarsí,338,Spain,7,FirstHalf,Pass,Successful,35,25.3,42.6,17
+99,261212,Dani Olmo,338,Spain,7,FirstHalf,Pass,Successful,42.4,13.8,43.6,4.4
+100,362352,Pedro Porro,338,Spain,7,FirstHalf,Pass,Successful,40.7,5.6,27.5,21.7
+101,498386,Pau Cubarsí,338,Spain,7,FirstHalf,Pass,Successful,27.2,23.9,30,63
+102,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,38.8,70.3,54.1,64.6
+103,303139,Rodri,338,Spain,7,FirstHalf,Pass,Successful,55.3,65.8,58.8,75.2
+104,294193,Fabián Ruiz,338,Spain,7,FirstHalf,Pass,Successful,58.8,75.2,55.9,70.6
+105,303139,Rodri,338,Spain,7,FirstHalf,Pass,Successful,56.4,69.7,64.7,68.3
+106,395242,Álex Baena,338,Spain,7,FirstHalf,TakeOn,Unsuccessful,64.9,68,,
+67,141169,Timothy Castagne,339,Belgium,7,FirstHalf,Tackle,Successful,35,31.9,,
+68,73084,Kevin De Bruyne,339,Belgium,8,FirstHalf,BallRecovery,Successful,45.9,46,,
+69,73084,Kevin De Bruyne,339,Belgium,8,FirstHalf,TakeOn,Unsuccessful,45.7,45.8,,
+107,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Clearance,Successful,45,55.2,47.5,100
+71,141169,Timothy Castagne,339,Belgium,8,FirstHalf,Pass,Successful,46.8,0,49.3,5.6
+72,243567,Hans Vanaken,339,Belgium,8,FirstHalf,Pass,Successful,45.8,11.3,18.1,17.6
+73,414495,Nathan Ngoy,339,Belgium,8,FirstHalf,Pass,Successful,15.9,19.1,10.6,43.9
+74,73798,Thibaut Courtois,339,Belgium,8,FirstHalf,Pass,Successful,9.2,56.4,12.6,90.2
+75,129832,Brandon Mechele,339,Belgium,8,FirstHalf,Pass,Successful,14,92.4,45.1,91.4
+76,386390,Charles De Ketelaere,339,Belgium,8,FirstHalf,Pass,Unsuccessful,45.4,93.5,47,93.6
+109,362352,Pedro Porro,338,Spain,8,FirstHalf,BallTouch,Successful,51.3,10.1,,
+110,122117,Aymeric Laporte,338,Spain,8,FirstHalf,BallRecovery,Successful,37.5,6.9,,
+111,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,36.5,6.5,42.5,5.7
+112,362352,Pedro Porro,338,Spain,8,FirstHalf,Pass,Successful,43.3,7.1,46.7,18.6
+113,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,47.3,15.4,53.2,9.1
+114,480249,Lamine Yamal,338,Spain,8,FirstHalf,Pass,Successful,53.7,8.9,54.4,59.1
+115,395242,Álex Baena,338,Spain,8,FirstHalf,Pass,Successful,53.2,54.7,52.4,43.9
+116,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,52.4,43.9,45.8,53.8
+117,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,46.1,54.5,58.4,77.6
+118,363496,Marc Cucurella,338,Spain,8,FirstHalf,Pass,Successful,60.3,79.7,70.4,94.6
+119,294193,Fabián Ruiz,338,Spain,8,FirstHalf,Pass,Unsuccessful,71.8,94,85.9,89.3
+120,480249,Lamine Yamal,338,Spain,8,FirstHalf,Foul,Successful,85.8,90.4,,
+77,113994,Leandro Trossard,339,Belgium,8,FirstHalf,Foul,Unsuccessful,14.2,9.5,,
+121,395242,Álex Baena,338,Spain,9,FirstHalf,Pass,Unsuccessful,85.1,86.4,92.8,60.2
+78,73084,Kevin De Bruyne,339,Belgium,9,FirstHalf,Clearance,Successful,8.6,43,8.6,77.3
+122,294193,Fabián Ruiz,338,Spain,9,FirstHalf,Pass,Successful,89.2,24.2,89,45.8
+123,303139,Rodri,338,Spain,9,FirstHalf,SavedShot,Successful,89,45.8,,
+79,414495,Nathan Ngoy,339,Belgium,9,FirstHalf,Save,Successful,8.9,54.2,,
+124,363496,Marc Cucurella,338,Spain,9,FirstHalf,Pass,Unsuccessful,86.4,57,90.8,50.8
+80,414495,Nathan Ngoy,339,Belgium,9,FirstHalf,Clearance,Successful,9.7,50.3,6.4,76.7
+81,141169,Timothy Castagne,339,Belgium,9,FirstHalf,Clearance,Successful,6.4,77.2,24.5,93.8
+82,392647,Maxim De Cuyper,339,Belgium,9,FirstHalf,BallRecovery,Successful,24.8,94.8,,
+83,392647,Maxim De Cuyper,339,Belgium,9,FirstHalf,Pass,Unsuccessful,27.3,93.5,55.4,66.9
+125,362352,Pedro Porro,338,Spain,9,FirstHalf,Pass,Unsuccessful,41.6,32,72,40.9
+84,129832,Brandon Mechele,339,Belgium,9,FirstHalf,Pass,Successful,24.3,59.7,23.1,66.9
+85,399999,Nicolas Raskin,339,Belgium,9,FirstHalf,Pass,Successful,20.8,64.9,7.8,48.8
+86,73798,Thibaut Courtois,339,Belgium,9,FirstHalf,Pass,Successful,8.4,48.4,15.1,54.6
+87,399999,Nicolas Raskin,339,Belgium,10,FirstHalf,Pass,Successful,18.3,50.6,21.9,17.9
+88,414495,Nathan Ngoy,339,Belgium,10,FirstHalf,Pass,Successful,22.6,17.1,20.7,38.6
+89,399999,Nicolas Raskin,339,Belgium,10,FirstHalf,Pass,Successful,14.8,50.4,19.5,70.6
+90,129832,Brandon Mechele,339,Belgium,10,FirstHalf,Pass,Successful,20.5,76.3,38.9,84.1
+91,388098,Jérémy Doku,339,Belgium,10,FirstHalf,Foul,Successful,40.2,82.4,,
+126,362352,Pedro Porro,338,Spain,10,FirstHalf,Foul,Unsuccessful,59.7,17.7,,
+92,392647,Maxim De Cuyper,339,Belgium,10,FirstHalf,Pass,Successful,37.7,87.8,33.2,79.3
+93,399999,Nicolas Raskin,339,Belgium,10,FirstHalf,Pass,Successful,33.2,79.3,38.3,87.8
+94,392647,Maxim De Cuyper,339,Belgium,10,FirstHalf,Pass,Successful,35.3,67.9,9.4,54.6
+95,73798,Thibaut Courtois,339,Belgium,10,FirstHalf,Pass,Successful,11.7,51.9,21.2,16.4
+96,414495,Nathan Ngoy,339,Belgium,10,FirstHalf,Pass,Successful,23.9,16.8,13.3,40.6
+97,73798,Thibaut Courtois,339,Belgium,10,FirstHalf,Pass,Successful,13,47,19.3,75.4
+98,129832,Brandon Mechele,339,Belgium,10,FirstHalf,Pass,Successful,22.8,81.8,66.8,77.5
+99,386390,Charles De Ketelaere,339,Belgium,10,FirstHalf,Pass,Unsuccessful,66.8,77.5,56.7,86.8
+127,294193,Fabián Ruiz,338,Spain,10,FirstHalf,BallRecovery,Successful,43.8,15.9,,
+128,294193,Fabián Ruiz,338,Spain,10,FirstHalf,Pass,Successful,42.4,11.5,36.2,10.3
+129,362352,Pedro Porro,338,Spain,10,FirstHalf,Pass,Successful,36.5,11,28.2,44.1
+130,122117,Aymeric Laporte,338,Spain,11,FirstHalf,Pass,Successful,32.2,55.2,47.2,58.5
+131,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,56.3,52.7,54.1,33.8
+132,294193,Fabián Ruiz,338,Spain,11,FirstHalf,Pass,Unsuccessful,54.8,32.3,72.9,15.6
+100,392647,Maxim De Cuyper,339,Belgium,11,FirstHalf,BallRecovery,Successful,26,85,,
+101,392647,Maxim De Cuyper,339,Belgium,11,FirstHalf,Pass,Successful,26,85,36,76.1
+102,243567,Hans Vanaken,339,Belgium,11,FirstHalf,Pass,Successful,36,76.1,20.6,69.1
+103,129832,Brandon Mechele,339,Belgium,11,FirstHalf,Pass,Successful,19.3,66.4,13.8,25.3
+104,414495,Nathan Ngoy,339,Belgium,11,FirstHalf,Pass,Successful,13.8,25.2,20.5,7.1
+105,141169,Timothy Castagne,339,Belgium,11,FirstHalf,Pass,Successful,20.6,7.1,27.5,24.7
+106,399999,Nicolas Raskin,339,Belgium,11,FirstHalf,Pass,Unsuccessful,33.6,21.2,69.4,10.6
+133,122117,Aymeric Laporte,338,Spain,11,FirstHalf,Pass,Successful,29.6,85.6,15.1,67.9
+134,332823,Unai Simón,338,Spain,11,FirstHalf,BallRecovery,Successful,14.6,66.8,,
+135,332823,Unai Simón,338,Spain,11,FirstHalf,Pass,Successful,14.7,62.4,23.8,71.1
+136,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,34.9,61.2,38.5,31.2
+137,498386,Pau Cubarsí,338,Spain,11,FirstHalf,Pass,Successful,43.2,25.7,57.6,9.2
+138,362352,Pedro Porro,338,Spain,11,FirstHalf,Pass,Successful,59.8,11.9,47.2,21.5
+139,498386,Pau Cubarsí,338,Spain,11,FirstHalf,Pass,Successful,55.6,27.1,50.9,40.4
+140,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,51.6,42,50.3,67.4
+141,122117,Aymeric Laporte,338,Spain,11,FirstHalf,Pass,Successful,65.7,85.8,69.1,97.5
+142,395242,Álex Baena,338,Spain,12,FirstHalf,Pass,Successful,65.2,95.5,54.4,69.4
+143,303139,Rodri,338,Spain,12,FirstHalf,Pass,Successful,56.2,67.6,56.9,36.8
+144,498386,Pau Cubarsí,338,Spain,12,FirstHalf,Pass,Successful,58,36.8,83.3,42
+145,395242,Álex Baena,338,Spain,12,FirstHalf,SavedShot,Successful,86.7,42.3,,
+107,414495,Nathan Ngoy,339,Belgium,12,FirstHalf,Save,Successful,10.2,56,,
+108,392647,Maxim De Cuyper,339,Belgium,12,FirstHalf,Pass,Unsuccessful,19.1,70.9,20.5,72.9
+146,261212,Dani Olmo,338,Spain,12,FirstHalf,BlockedPass,Successful,79.5,27.1,,
+110,73798,Thibaut Courtois,339,Belgium,12,FirstHalf,Pass,Successful,5.1,49,60.6,68.2
+111,386390,Charles De Ketelaere,339,Belgium,12,FirstHalf,Pass,Successful,60.9,68.7,70.4,89.9
+112,388098,Jérémy Doku,339,Belgium,12,FirstHalf,Pass,Successful,85.8,88.7,98.7,81.1
+113,392647,Maxim De Cuyper,339,Belgium,12,FirstHalf,Pass,Unsuccessful,98.3,81.1,96.1,53.3
+148,332823,Unai Simón,338,Spain,12,FirstHalf,KeeperPickup,Successful,2.3,43.9,,
+149,332823,Unai Simón,338,Spain,13,FirstHalf,Pass,Successful,9.8,49.8,12,28.3
+150,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,26,28.8,38,37
+151,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,Pass,Successful,33.9,38.5,11.5,53.9
+152,332823,Unai Simón,338,Spain,13,FirstHalf,Pass,Successful,11.5,53.9,20.9,73.8
+153,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,23,70.6,25.4,40.1
+154,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,30.8,23.3,41.5,26.5
+155,261212,Dani Olmo,338,Spain,13,FirstHalf,Pass,Successful,42,26.3,36.3,36.7
+156,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,35,36.8,24.2,31.7
+157,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,26.8,34.1,34.5,65
+158,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,47.6,69.7,58.3,67.6
+159,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,Pass,Successful,63.2,72.6,73.2,95.3
+160,363496,Marc Cucurella,338,Spain,13,FirstHalf,Pass,Unsuccessful,74.6,93.5,77.5,72.9
+114,243567,Hans Vanaken,339,Belgium,13,FirstHalf,Interception,Successful,22.5,27.1,,
+115,243567,Hans Vanaken,339,Belgium,13,FirstHalf,BallRecovery,Successful,20.5,21.9,,
+116,243567,Hans Vanaken,339,Belgium,13,FirstHalf,Pass,Unsuccessful,20.4,19.1,28.7,16.7
+161,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,Interception,Successful,71.3,83.3,,
+162,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,BallRecovery,Successful,75.1,87.4,,
+163,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,Pass,Successful,75.1,89,72.1,86.4
+164,363496,Marc Cucurella,338,Spain,13,FirstHalf,Pass,Successful,71.1,85.6,69.5,78.2
+165,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,69.7,75.2,69.6,49.4
+166,261212,Dani Olmo,338,Spain,13,FirstHalf,Pass,Successful,70.6,36.7,78.4,25.3
+167,480249,Lamine Yamal,338,Spain,13,FirstHalf,Pass,Successful,79.3,24.8,86.1,33.8
+168,362352,Pedro Porro,338,Spain,13,FirstHalf,Pass,Unsuccessful,86.1,33.8,86.8,28.3
+117,392647,Maxim De Cuyper,339,Belgium,14,FirstHalf,Interception,Successful,13.2,71.7,,
+118,73084,Kevin De Bruyne,339,Belgium,14,FirstHalf,BallRecovery,Successful,27.3,68.2,,
+119,73084,Kevin De Bruyne,339,Belgium,14,FirstHalf,Pass,Successful,38.4,68.1,54.9,76.1
+149,388098,Jérémy Doku,339,Belgium,14,FirstHalf,Dispossessed,Successful,61.5,82.9,,
+201,498386,Pau Cubarsí,338,Spain,14,FirstHalf,Tackle,Unsuccessful,38.5,17.1,,
+121,388098,Jérémy Doku,339,Belgium,14,FirstHalf,Pass,Successful,69.8,50,82.2,22.8
+122,386390,Charles De Ketelaere,339,Belgium,14,FirstHalf,SavedShot,Successful,84.7,32.7,,
+170,363496,Marc Cucurella,338,Spain,14,FirstHalf,Save,Successful,14.5,62.8,,
+123,386390,Charles De Ketelaere,339,Belgium,14,FirstHalf,Pass,Successful,92.8,18,82.2,3.1
+124,141169,Timothy Castagne,339,Belgium,14,FirstHalf,Pass,Unsuccessful,83.8,3.4,89.8,14.4
+171,363496,Marc Cucurella,338,Spain,14,FirstHalf,Clearance,Successful,13,84.1,22,100
+126,141169,Timothy Castagne,339,Belgium,14,FirstHalf,Pass,Successful,79.8,0,64.3,5.2
+127,399999,Nicolas Raskin,339,Belgium,14,FirstHalf,Pass,Successful,64.3,5.2,55.7,31.6
+128,414495,Nathan Ngoy,339,Belgium,14,FirstHalf,Pass,Successful,54.4,36.1,52.6,64.6
+129,129832,Brandon Mechele,339,Belgium,14,FirstHalf,Pass,Successful,58.6,66.4,71.7,77.2
+130,392647,Maxim De Cuyper,339,Belgium,14,FirstHalf,Pass,Successful,71.7,77.2,73.4,93.2
+131,388098,Jérémy Doku,339,Belgium,14,FirstHalf,TakeOn,Unsuccessful,76.4,93.4,,
+173,480249,Lamine Yamal,338,Spain,14,FirstHalf,Tackle,Unsuccessful,23.6,6.6,,
+132,388098,Jérémy Doku,339,Belgium,14,FirstHalf,BallTouch,Successful,75.3,93,,
+174,480249,Lamine Yamal,338,Spain,14,FirstHalf,BallRecovery,Successful,26.9,4.1,,
+133,388098,Jérémy Doku,339,Belgium,14,FirstHalf,Challenge,Unsuccessful,57,93.6,,
+175,480249,Lamine Yamal,338,Spain,14,FirstHalf,TakeOn,Successful,43,6.4,,
+176,480249,Lamine Yamal,338,Spain,14,FirstHalf,Pass,Unsuccessful,59.3,28.9,61.9,31.4
+134,399999,Nicolas Raskin,339,Belgium,14,FirstHalf,BallTouch,Successful,38.8,69,,
+177,303139,Rodri,338,Spain,15,FirstHalf,Pass,Successful,53.1,40.1,59.7,90
+178,363496,Marc Cucurella,338,Spain,15,FirstHalf,Pass,Successful,62.1,88.5,59.6,75.2
+179,294193,Fabián Ruiz,338,Spain,15,FirstHalf,Pass,Successful,60.6,74.1,60.8,63.5
+180,303139,Rodri,338,Spain,15,FirstHalf,Pass,Successful,66.7,63.8,65.4,71.1
+181,294193,Fabián Ruiz,338,Spain,15,FirstHalf,Pass,Successful,67.7,73.2,82.7,94.1
+182,395242,Álex Baena,338,Spain,15,FirstHalf,Pass,Successful,79,79.7,86,59.4
+183,261212,Dani Olmo,338,Spain,15,FirstHalf,BallTouch,Unsuccessful,88,61.1,,
+137,73798,Thibaut Courtois,339,Belgium,15,FirstHalf,Pass,Unsuccessful,5.1,49.7,85.3,46.1
+185,332823,Unai Simón,338,Spain,16,FirstHalf,KeeperPickup,Successful,14.4,58.9,,
+186,332823,Unai Simón,338,Spain,16,FirstHalf,Pass,Successful,14.1,58.5,21.1,43.9
+187,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,23.9,44.4,29.2,36.8
+188,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,31.5,38.3,30,72.3
+189,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,31.2,69.3,28.5,50.8
+190,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,31.1,51.5,37.8,51.2
+191,294193,Fabián Ruiz,338,Spain,16,FirstHalf,Pass,Successful,36.7,50.8,31.6,30.6
+192,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,32.1,29.1,42,7.4
+193,362352,Pedro Porro,338,Spain,16,FirstHalf,Pass,Successful,43.1,6.6,61.8,8.6
+194,480249,Lamine Yamal,338,Spain,16,FirstHalf,Pass,Successful,61.8,8.6,58.1,15.9
+195,362352,Pedro Porro,338,Spain,16,FirstHalf,Pass,Unsuccessful,64.1,26.3,100,83.5
+139,73798,Thibaut Courtois,339,Belgium,16,FirstHalf,Pass,Successful,4.7,49.6,8.3,26.1
+140,414495,Nathan Ngoy,339,Belgium,16,FirstHalf,Pass,Successful,9.1,23.3,17.1,4.3
+141,141169,Timothy Castagne,339,Belgium,16,FirstHalf,Pass,Successful,19.3,4,20.8,17.1
+142,399999,Nicolas Raskin,339,Belgium,16,FirstHalf,Pass,Unsuccessful,21.1,17.1,46.9,21.6
+197,122117,Aymeric Laporte,338,Spain,16,FirstHalf,BallRecovery,Successful,54.2,77.3,,
+198,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,55.4,73.7,59.2,65.3
+199,303139,Rodri,338,Spain,16,FirstHalf,Pass,Unsuccessful,60.8,63.9,66,44.4
+143,388098,Jérémy Doku,339,Belgium,17,FirstHalf,BallRecovery,Successful,32.1,64.5,,
+144,388098,Jérémy Doku,339,Belgium,17,FirstHalf,Pass,Successful,59.3,24.6,64.7,8.3
+145,113994,Leandro Trossard,339,Belgium,17,FirstHalf,Pass,Successful,66.8,10.7,68.1,20.4
+146,388098,Jérémy Doku,339,Belgium,17,FirstHalf,Pass,Successful,68.4,20.6,75.6,5.8
+147,141169,Timothy Castagne,339,Belgium,17,FirstHalf,Pass,Unsuccessful,78.1,5.8,88.1,56.7
+200,362352,Pedro Porro,338,Spain,17,FirstHalf,Foul,Successful,11.6,44.4,,
+148,392647,Maxim De Cuyper,339,Belgium,17,FirstHalf,Foul,Unsuccessful,88.4,55.6,,
+202,332823,Unai Simón,338,Spain,17,FirstHalf,Pass,Successful,12.7,46.5,11.9,35.4
+203,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,13.1,34.4,21.8,17
+204,362352,Pedro Porro,338,Spain,17,FirstHalf,Pass,Successful,23.5,17.6,14.8,30.3
+205,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,14.2,30.4,4.2,49.5
+206,332823,Unai Simón,338,Spain,17,FirstHalf,Pass,Successful,14.3,51.5,22.1,35.4
+207,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,33.7,35.7,48.7,39.2
+208,298839,Mikel Oyarzabal,338,Spain,17,FirstHalf,Pass,Successful,48.7,39.2,53.3,58.5
+209,294193,Fabián Ruiz,338,Spain,17,FirstHalf,Pass,Unsuccessful,53.3,58.5,48.9,69.9
+150,113994,Leandro Trossard,339,Belgium,17,FirstHalf,BallTouch,Successful,53.2,34.2,,
+210,363496,Marc Cucurella,338,Spain,18,FirstHalf,Pass,Successful,39.9,94,41.4,80.5
+211,294193,Fabián Ruiz,338,Spain,18,FirstHalf,Pass,Successful,40.8,80.3,32.7,79.4
+212,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,34.9,63.5,35.6,32.9
+213,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Unsuccessful,37.7,28.6,87.3,33
+151,73798,Thibaut Courtois,339,Belgium,18,FirstHalf,KeeperPickup,Successful,10.5,64.6,,
+152,73798,Thibaut Courtois,339,Belgium,18,FirstHalf,Pass,Successful,12.4,65.2,21.3,30.4
+153,414495,Nathan Ngoy,339,Belgium,18,FirstHalf,Pass,Successful,21.3,30.6,9.9,55.2
+154,73798,Thibaut Courtois,339,Belgium,18,FirstHalf,Pass,Successful,10.3,62,57.1,32.5
+155,386390,Charles De Ketelaere,339,Belgium,18,FirstHalf,Aerial,Successful,57.1,32.5,,
+214,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Aerial,Unsuccessful,42.9,67.5,,
+156,386390,Charles De Ketelaere,339,Belgium,18,FirstHalf,Pass,Unsuccessful,57.1,32.5,68.7,57.9
+215,362352,Pedro Porro,338,Spain,18,FirstHalf,Pass,Successful,30.5,37.6,11.6,53.3
+216,332823,Unai Simón,338,Spain,18,FirstHalf,BallRecovery,Successful,11.2,53.8,,
+217,332823,Unai Simón,338,Spain,18,FirstHalf,Pass,Successful,8.9,49.5,21.3,33.8
+218,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,21.4,33.8,21,43.5
+219,303139,Rodri,338,Spain,18,FirstHalf,Pass,Successful,21,43.5,32.6,56.7
+220,294193,Fabián Ruiz,338,Spain,18,FirstHalf,Pass,Successful,32.6,56.7,19.8,69.6
+221,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,18.2,70.5,7.7,53.6
+222,332823,Unai Simón,338,Spain,18,FirstHalf,Pass,Successful,7.8,52,38.8,26.3
+223,298839,Mikel Oyarzabal,338,Spain,18,FirstHalf,Pass,Successful,38.9,26,30.9,23.5
+157,388098,Jérémy Doku,339,Belgium,18,FirstHalf,Challenge,Unsuccessful,60.4,84,,
+224,261212,Dani Olmo,338,Spain,18,FirstHalf,TakeOn,Successful,39.6,16,,
+225,261212,Dani Olmo,338,Spain,18,FirstHalf,Pass,Successful,52.3,16,68.8,7.2
+226,362352,Pedro Porro,338,Spain,18,FirstHalf,Pass,Unsuccessful,77.1,7,77.9,15.8
+694,414495,Nathan Ngoy,339,Belgium,18,FirstHalf,BallTouch,Successful,21.9,82.4,,
+158,129832,Brandon Mechele,339,Belgium,18,FirstHalf,Foul,Successful,24.2,65,,
+227,480249,Lamine Yamal,338,Spain,18,FirstHalf,Foul,Unsuccessful,75.8,35,,
+159,73798,Thibaut Courtois,339,Belgium,19,FirstHalf,Pass,Successful,14.5,63.3,23.6,86.9
+160,129832,Brandon Mechele,339,Belgium,19,FirstHalf,Pass,Successful,24.8,90.3,42.5,83
+161,73084,Kevin De Bruyne,339,Belgium,19,FirstHalf,Pass,Unsuccessful,42.5,83,48.7,91.2
+228,303139,Rodri,338,Spain,19,FirstHalf,Pass,Successful,57.3,12.7,36.9,12.3
+229,362352,Pedro Porro,338,Spain,19,FirstHalf,BallRecovery,Successful,22.7,15.6,,
+230,362352,Pedro Porro,338,Spain,19,FirstHalf,Pass,Successful,23.1,16.3,28.3,24.2
+231,303139,Rodri,338,Spain,19,FirstHalf,Pass,Successful,31.9,30.9,43.4,32.1
+232,261212,Dani Olmo,338,Spain,19,FirstHalf,Pass,Successful,43,32.9,32.9,51.7
+233,498386,Pau Cubarsí,338,Spain,19,FirstHalf,Pass,Successful,32.6,52,37.9,51.2
+234,261212,Dani Olmo,338,Spain,19,FirstHalf,Pass,Successful,37.5,56.4,44.2,85.9
+235,122117,Aymeric Laporte,338,Spain,19,FirstHalf,Pass,Successful,44.2,85.9,57,80.9
+236,395242,Álex Baena,338,Spain,20,FirstHalf,Pass,Successful,46.7,58.8,47.4,35.3
+237,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,53.1,33.5,47.9,50.2
+238,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,55.3,52.1,55.8,37
+239,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,53.8,46.5,67.4,59.4
+240,395242,Álex Baena,338,Spain,20,FirstHalf,Pass,Unsuccessful,67.4,59.4,73.6,48.6
+163,129832,Brandon Mechele,339,Belgium,20,FirstHalf,Clearance,Successful,22.1,57.2,26.3,59.4
+164,399999,Nicolas Raskin,339,Belgium,20,FirstHalf,BallRecovery,Successful,26.7,59.4,,
+165,399999,Nicolas Raskin,339,Belgium,20,FirstHalf,Dispossessed,Successful,25.1,62.3,,
+241,298839,Mikel Oyarzabal,338,Spain,20,FirstHalf,Tackle,Successful,74.9,37.7,,
+167,399999,Nicolas Raskin,339,Belgium,20,FirstHalf,Error,Successful,20.6,61.1,,
+242,480249,Lamine Yamal,338,Spain,20,FirstHalf,BallRecovery,Successful,76.9,40.8,,
+243,480249,Lamine Yamal,338,Spain,20,FirstHalf,MissedShots,Successful,80.5,44.8,,
+168,414495,Nathan Ngoy,339,Belgium,20,FirstHalf,Pass,Successful,5,38.9,4.4,49.4
+169,73798,Thibaut Courtois,339,Belgium,20,FirstHalf,Pass,Successful,7.3,51.5,23.2,64.8
+170,73084,Kevin De Bruyne,339,Belgium,20,FirstHalf,Pass,Successful,29.1,71.1,32.7,94.1
+171,392647,Maxim De Cuyper,339,Belgium,20,FirstHalf,Pass,Successful,26.5,84.2,28.8,70.5
+172,399999,Nicolas Raskin,339,Belgium,20,FirstHalf,Pass,Successful,30.1,74.7,35,91.8
+173,73084,Kevin De Bruyne,339,Belgium,20,FirstHalf,Pass,Unsuccessful,40.9,93.8,66.7,92.6
+245,362352,Pedro Porro,338,Spain,21,FirstHalf,Interception,Successful,37.2,4.9,,
+175,73084,Kevin De Bruyne,339,Belgium,21,FirstHalf,Pass,Successful,59.9,100,53.1,89.6
+176,399999,Nicolas Raskin,339,Belgium,21,FirstHalf,Pass,Successful,55.1,90.9,59.3,83.2
+177,388098,Jérémy Doku,339,Belgium,21,FirstHalf,Pass,Unsuccessful,71,82.7,77.3,100
+248,362352,Pedro Porro,338,Spain,21,FirstHalf,Pass,Successful,19.8,0,25.3,8.2
+249,261212,Dani Olmo,338,Spain,21,FirstHalf,Pass,Successful,24.6,8,15.7,5.1
+250,362352,Pedro Porro,338,Spain,21,FirstHalf,Pass,Successful,14.9,6.2,44.9,27.4
+251,298839,Mikel Oyarzabal,338,Spain,21,FirstHalf,Foul,Successful,44.6,28.3,,
+179,414495,Nathan Ngoy,339,Belgium,21,FirstHalf,Foul,Unsuccessful,55.4,71.6,,
+252,303139,Rodri,338,Spain,21,FirstHalf,Pass,Successful,41.5,28.9,42.1,64.4
+253,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,42.6,64.3,40.2,41.2
+254,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,44.9,43.8,55.3,30.6
+255,261212,Dani Olmo,338,Spain,22,FirstHalf,Pass,Successful,63.7,25.3,61.2,8
+256,362352,Pedro Porro,338,Spain,22,FirstHalf,Pass,Successful,61.9,7.9,75,20.6
+257,261212,Dani Olmo,338,Spain,22,FirstHalf,Pass,Successful,75,20.6,97.1,12.9
+258,480249,Lamine Yamal,338,Spain,22,FirstHalf,TakeOn,Unsuccessful,97.1,12.9,,
+180,399999,Nicolas Raskin,339,Belgium,22,FirstHalf,BallRecovery,Successful,5.1,74.1,,
+181,399999,Nicolas Raskin,339,Belgium,22,FirstHalf,Pass,Successful,5.1,74.1,8.4,85.7
+182,392647,Maxim De Cuyper,339,Belgium,22,FirstHalf,Pass,Successful,12.1,88.6,30.8,85.9
+183,73084,Kevin De Bruyne,339,Belgium,22,FirstHalf,Pass,Successful,31,84.4,36,96.5
+184,388098,Jérémy Doku,339,Belgium,22,FirstHalf,Pass,Successful,40.8,85.4,27.1,70.9
+185,399999,Nicolas Raskin,339,Belgium,22,FirstHalf,Pass,Unsuccessful,27.1,65.4,56.7,0
+262,363496,Marc Cucurella,338,Spain,25,FirstHalf,Pass,Successful,44.9,100,34.8,93.1
+263,122117,Aymeric Laporte,338,Spain,25,FirstHalf,Pass,Successful,37.8,81.2,36.9,49.8
+264,498386,Pau Cubarsí,338,Spain,25,FirstHalf,Pass,Successful,35.7,42.7,47.1,33
+265,261212,Dani Olmo,338,Spain,25,FirstHalf,Pass,Successful,47.1,33,36.5,35
+266,498386,Pau Cubarsí,338,Spain,26,FirstHalf,Pass,Successful,33.4,38.2,24.7,58.6
+267,332823,Unai Simón,338,Spain,26,FirstHalf,Pass,Unsuccessful,28,52.3,67.8,9.4
+189,392647,Maxim De Cuyper,339,Belgium,26,FirstHalf,Clearance,Successful,29.2,92.4,36.7,100
+269,362352,Pedro Porro,338,Spain,26,FirstHalf,Pass,Successful,59.2,0,37.8,9.4
+270,498386,Pau Cubarsí,338,Spain,26,FirstHalf,Pass,Successful,37.7,9.7,43.2,32.7
+271,294193,Fabián Ruiz,338,Spain,26,FirstHalf,Pass,Successful,43.2,32.7,38,10.9
+272,498386,Pau Cubarsí,338,Spain,26,FirstHalf,Pass,Successful,33.7,13.9,22.1,41.5
+273,332823,Unai Simón,338,Spain,26,FirstHalf,Pass,Successful,23.4,42.7,23.1,74.1
+274,122117,Aymeric Laporte,338,Spain,26,FirstHalf,Pass,Successful,23.1,74.1,25.8,58.6
+275,303139,Rodri,338,Spain,26,FirstHalf,Pass,Successful,26.1,52.7,20,30.4
+276,498386,Pau Cubarsí,338,Spain,26,FirstHalf,Pass,Successful,20,27.1,22.9,6.9
+277,362352,Pedro Porro,338,Spain,26,FirstHalf,Pass,Unsuccessful,24.8,6,93.2,23.2
+191,73798,Thibaut Courtois,339,Belgium,26,FirstHalf,KeeperPickup,Successful,5.8,75.4,,
+192,73798,Thibaut Courtois,339,Belgium,26,FirstHalf,Pass,Successful,11.6,73.8,24.5,88.9
+193,392647,Maxim De Cuyper,339,Belgium,26,FirstHalf,Pass,Successful,24.5,88.9,15.2,75.1
+194,129832,Brandon Mechele,339,Belgium,26,FirstHalf,Pass,Successful,16.5,73.3,4.2,52.7
+195,73798,Thibaut Courtois,339,Belgium,27,FirstHalf,Pass,Successful,4.2,53,54.4,66
+196,386390,Charles De Ketelaere,339,Belgium,27,FirstHalf,Aerial,Successful,54.4,66,,
+278,122117,Aymeric Laporte,338,Spain,27,FirstHalf,Aerial,Unsuccessful,45.6,34,,
+197,386390,Charles De Ketelaere,339,Belgium,27,FirstHalf,Pass,Successful,54.4,66,65.3,67.6
+198,388098,Jérémy Doku,339,Belgium,27,FirstHalf,BallTouch,Unsuccessful,65.3,67.6,,
+279,362352,Pedro Porro,338,Spain,27,FirstHalf,BallTouch,Unsuccessful,32.5,22.7,,
+200,388098,Jérémy Doku,339,Belgium,27,FirstHalf,TakeOn,Unsuccessful,67.4,82.3,,
+281,362352,Pedro Porro,338,Spain,27,FirstHalf,Tackle,Successful,32.6,17.7,,
+282,480249,Lamine Yamal,338,Spain,27,FirstHalf,BallRecovery,Successful,41.1,6.8,,
+283,480249,Lamine Yamal,338,Spain,27,FirstHalf,Pass,Unsuccessful,40.6,8.9,37.5,27.3
+201,386390,Charles De Ketelaere,339,Belgium,27,FirstHalf,Pass,Unsuccessful,59.5,68.7,66.7,86.5
+284,362352,Pedro Porro,338,Spain,27,FirstHalf,Pass,Successful,29.4,10.4,25.7,27.1
+285,498386,Pau Cubarsí,338,Spain,27,FirstHalf,Pass,Successful,25.4,27.7,30.7,37.6
+286,303139,Rodri,338,Spain,27,FirstHalf,Pass,Successful,34.8,61.8,38.1,73.7
+287,294193,Fabián Ruiz,338,Spain,27,FirstHalf,Pass,Successful,39,75,58.2,97.5
+288,363496,Marc Cucurella,338,Spain,27,FirstHalf,Pass,Successful,72.7,96.7,68.4,89.4
+289,294193,Fabián Ruiz,338,Spain,27,FirstHalf,Pass,Successful,70.2,84,63.9,70.2
+290,303139,Rodri,338,Spain,27,FirstHalf,Pass,Successful,64.2,68.3,64.9,42.7
+291,498386,Pau Cubarsí,338,Spain,27,FirstHalf,Pass,Successful,70.6,31.4,77.6,7.2
+292,480249,Lamine Yamal,338,Spain,27,FirstHalf,Pass,Unsuccessful,79,8.5,98.2,42.9
+202,73798,Thibaut Courtois,339,Belgium,27,FirstHalf,KeeperPickup,Successful,2,57.3,,
+203,73798,Thibaut Courtois,339,Belgium,27,FirstHalf,Pass,Successful,10.3,54.3,15,24.1
+204,141169,Timothy Castagne,339,Belgium,28,FirstHalf,Foul,Successful,47.2,4,,
+293,395242,Álex Baena,338,Spain,28,FirstHalf,Foul,Unsuccessful,52.8,96,,
+205,141169,Timothy Castagne,339,Belgium,28,FirstHalf,Pass,Successful,46.3,4.3,41.8,8.8
+206,113994,Leandro Trossard,339,Belgium,28,FirstHalf,Pass,Successful,41.5,14.3,30.1,33.7
+207,414495,Nathan Ngoy,339,Belgium,28,FirstHalf,Pass,Successful,30.1,33.9,31,61.8
+208,129832,Brandon Mechele,339,Belgium,28,FirstHalf,Pass,Successful,41.3,72.9,53.1,93.6
+209,388098,Jérémy Doku,339,Belgium,28,FirstHalf,Pass,Successful,60.8,91.7,69,82.3
+210,243567,Hans Vanaken,339,Belgium,28,FirstHalf,Pass,Successful,75.4,85.9,72.2,94.7
+211,388098,Jérémy Doku,339,Belgium,28,FirstHalf,Pass,Successful,77.5,83.3,70.8,62.6
+212,399999,Nicolas Raskin,339,Belgium,28,FirstHalf,Pass,Successful,69.6,51.9,68.9,19.8
+213,141169,Timothy Castagne,339,Belgium,28,FirstHalf,Pass,Successful,69.5,18.2,70.5,28.2
+214,399999,Nicolas Raskin,339,Belgium,28,FirstHalf,Pass,Successful,70.2,28.2,61.5,17.7
+215,141169,Timothy Castagne,339,Belgium,28,FirstHalf,Pass,Successful,61.3,17.7,57,36.7
+216,414495,Nathan Ngoy,339,Belgium,28,FirstHalf,Pass,Successful,60.8,46.7,58.8,70.2
+217,129832,Brandon Mechele,339,Belgium,28,FirstHalf,Pass,Successful,57.4,82.1,45.4,66
+218,414495,Nathan Ngoy,339,Belgium,28,FirstHalf,Pass,Successful,42.5,61.4,37.7,31.2
+219,399999,Nicolas Raskin,339,Belgium,28,FirstHalf,Pass,Successful,41.5,20.7,52.3,4.6
+220,113994,Leandro Trossard,339,Belgium,28,FirstHalf,Dispossessed,Successful,44.6,19.6,,
+294,395242,Álex Baena,338,Spain,28,FirstHalf,Tackle,Unsuccessful,55.4,80.4,,
+221,73084,Kevin De Bruyne,339,Belgium,28,FirstHalf,Pass,Unsuccessful,44.9,26.1,87.5,15.5
+295,332823,Unai Simón,338,Spain,29,FirstHalf,BallRecovery,Successful,14.7,84.6,,
+296,332823,Unai Simón,338,Spain,29,FirstHalf,Pass,Successful,14.2,74.7,29,43.5
+297,498386,Pau Cubarsí,338,Spain,29,FirstHalf,Pass,Successful,46.7,29.7,66.9,6.3
+298,362352,Pedro Porro,338,Spain,29,FirstHalf,Pass,Successful,72.3,7.4,68.5,18.8
+299,480249,Lamine Yamal,338,Spain,29,FirstHalf,Pass,Successful,68.5,18.8,90.2,19.7
+300,362352,Pedro Porro,338,Spain,29,FirstHalf,Pass,Successful,90.2,19.7,87.3,42.9
+301,261212,Dani Olmo,338,Spain,29,FirstHalf,SavedShot,Successful,87.3,42.9,,
+222,73798,Thibaut Courtois,339,Belgium,29,FirstHalf,Save,Successful,1.6,52.2,,
+302,294193,Fabián Ruiz,338,Spain,29,FirstHalf,Goal,Successful,93,52.8,,
+223,113994,Leandro Trossard,339,Belgium,30,FirstHalf,Pass,Successful,49.9,50,47.1,53.3
+224,73084,Kevin De Bruyne,339,Belgium,30,FirstHalf,Pass,Successful,46.6,51.6,29.9,30
+225,414495,Nathan Ngoy,339,Belgium,30,FirstHalf,Pass,Successful,29,29.8,15,50.1
+226,73798,Thibaut Courtois,339,Belgium,30,FirstHalf,Pass,Successful,14.9,50.6,59.6,12.8
+227,243567,Hans Vanaken,339,Belgium,30,FirstHalf,Pass,Unsuccessful,59.9,12.8,64.4,14.6
+228,243567,Hans Vanaken,339,Belgium,30,FirstHalf,Aerial,Successful,64.4,14.6,,
+303,363496,Marc Cucurella,338,Spain,30,FirstHalf,Aerial,Unsuccessful,35.6,85.4,,
+229,243567,Hans Vanaken,339,Belgium,30,FirstHalf,Pass,Unsuccessful,64.4,14.6,65.4,6.4
+304,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,29.3,84.4,40.4,93.2
+305,395242,Álex Baena,338,Spain,30,FirstHalf,BallRecovery,Successful,40.5,93.7,,
+306,395242,Álex Baena,338,Spain,30,FirstHalf,BallTouch,Successful,40.7,94,,
+234,113994,Leandro Trossard,339,Belgium,31,FirstHalf,Pass,Unsuccessful,60.5,0,76.8,14
+310,122117,Aymeric Laporte,338,Spain,31,FirstHalf,BallRecovery,Successful,20.7,85.6,,
+311,122117,Aymeric Laporte,338,Spain,31,FirstHalf,Pass,Successful,22.4,82.9,29.7,52.4
+312,303139,Rodri,338,Spain,31,FirstHalf,Pass,Successful,45.9,44.4,70.9,97
+313,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Unsuccessful,70.9,97.1,72.5,96.1
+235,113994,Leandro Trossard,339,Belgium,32,FirstHalf,BlockedPass,Successful,27.5,3.9,,
+315,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Successful,70.3,100,55.4,97.1
+316,294193,Fabián Ruiz,338,Spain,32,FirstHalf,Pass,Successful,56.2,89.3,58.2,66.5
+317,303139,Rodri,338,Spain,32,FirstHalf,Pass,Successful,65.3,49.8,68.6,16.6
+318,362352,Pedro Porro,338,Spain,32,FirstHalf,Pass,Successful,70.2,17.3,79.5,12.4
+319,480249,Lamine Yamal,338,Spain,32,FirstHalf,Pass,Successful,79.5,12.4,72.6,17
+320,362352,Pedro Porro,338,Spain,32,FirstHalf,Pass,Successful,72.1,20.1,65.6,35.1
+321,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,63.8,38.3,67.2,68.8
+322,294193,Fabián Ruiz,338,Spain,32,FirstHalf,Pass,Successful,69.3,71.2,74.4,76.2
+323,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Successful,74.4,76.2,69.1,73.3
+324,294193,Fabián Ruiz,338,Spain,32,FirstHalf,Pass,Successful,68.5,74.7,76.5,96.2
+325,363496,Marc Cucurella,338,Spain,32,FirstHalf,Pass,Successful,76.4,95.9,73.3,91.5
+326,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Successful,74.9,85.3,71.2,77.3
+327,294193,Fabián Ruiz,338,Spain,32,FirstHalf,Pass,Successful,70.7,72,68.1,37.6
+328,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,68.5,32.6,82.9,9.7
+329,480249,Lamine Yamal,338,Spain,32,FirstHalf,Pass,Successful,96.7,25.9,88.7,29.5
+330,303139,Rodri,338,Spain,32,FirstHalf,Pass,Unsuccessful,87.9,27.6,88.5,31.7
+239,73084,Kevin De Bruyne,339,Belgium,32,FirstHalf,BallTouch,Successful,10.6,69.7,,
+240,414495,Nathan Ngoy,339,Belgium,32,FirstHalf,Clearance,Successful,13,51.8,28.5,85.9
+331,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,63.9,14.4,70.8,12.4
+332,362352,Pedro Porro,338,Spain,32,FirstHalf,Pass,Successful,67.8,14.5,61.6,15.9
+333,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,60.1,14.8,68.1,15
+242,399999,Nicolas Raskin,339,Belgium,33,FirstHalf,Challenge,Unsuccessful,31,78.8,,
+334,480249,Lamine Yamal,338,Spain,33,FirstHalf,TakeOn,Successful,69,21.2,,
+335,480249,Lamine Yamal,338,Spain,33,FirstHalf,Foul,Successful,77.8,38.7,,
+246,388098,Jérémy Doku,339,Belgium,33,FirstHalf,Foul,Unsuccessful,22.2,61.3,,
+336,480249,Lamine Yamal,338,Spain,34,FirstHalf,SavedShot,Successful,79.1,39.3,,
+247,73798,Thibaut Courtois,339,Belgium,34,FirstHalf,Save,Successful,1.1,50.1,,
+337,294193,Fabián Ruiz,338,Spain,34,FirstHalf,Dispossessed,Successful,90.2,44,,
+248,129832,Brandon Mechele,339,Belgium,34,FirstHalf,Tackle,Unsuccessful,9.8,56,,
+338,395242,Álex Baena,338,Spain,34,FirstHalf,Pass,Unsuccessful,93.1,23.8,91.5,22.3
+249,388098,Jérémy Doku,339,Belgium,34,FirstHalf,BlockedPass,Successful,8.5,77.7,,
+339,395242,Álex Baena,338,Spain,34,FirstHalf,CornerAwarded,Successful,91.4,14.1,,
+250,388098,Jérémy Doku,339,Belgium,34,FirstHalf,CornerAwarded,Unsuccessful,8.6,85.8,,
+340,395242,Álex Baena,338,Spain,34,FirstHalf,Pass,Successful,99.5,0.5,82.9,13.6
+341,294193,Fabián Ruiz,338,Spain,34,FirstHalf,Pass,Unsuccessful,77,18,74.6,63.9
+345,261212,Dani Olmo,338,Spain,35,FirstHalf,Pass,Successful,68,65.9,64.3,59.2
+346,303139,Rodri,338,Spain,35,FirstHalf,Pass,Successful,64.5,57.3,64.7,37.9
+347,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,63.9,33,70.8,17
+348,480249,Lamine Yamal,338,Spain,35,FirstHalf,Pass,Successful,70.5,16.2,63.8,22.6
+349,362352,Pedro Porro,338,Spain,35,FirstHalf,Pass,Successful,59.5,27,45.9,55.3
+350,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Unsuccessful,46.9,57.9,84,64.4
+254,,,339,Belgium,35,FirstHalf,Foul,Successful,13.4,32.3,,
+351,395242,Álex Baena,338,Spain,35,FirstHalf,Foul,Unsuccessful,86.6,67.7,,
+11256,386390,Charles De Ketelaere,339,Belgium,36,FirstHalf,OffsideGiven,Unsuccessful,51.6,44.2,,
+255,73798,Thibaut Courtois,339,Belgium,36,FirstHalf,Pass,Successful,12.3,49.1,12.2,30.9
+256,414495,Nathan Ngoy,339,Belgium,36,FirstHalf,OffsidePass,Successful,13.4,30.1,51.6,44.2
+352,498386,Pau Cubarsí,338,Spain,36,FirstHalf,OffsideProvoked,Successful,49.4,49.9,,
+353,303139,Rodri,338,Spain,36,FirstHalf,Pass,Successful,47.7,50.3,52.2,82.3
+354,294193,Fabián Ruiz,338,Spain,36,FirstHalf,Pass,Successful,52,82.3,40.2,70.9
+355,122117,Aymeric Laporte,338,Spain,36,FirstHalf,Pass,Successful,42.9,72.9,40.4,86.8
+356,294193,Fabián Ruiz,338,Spain,36,FirstHalf,Pass,Successful,38.3,85,24.4,57.4
+357,332823,Unai Simón,338,Spain,36,FirstHalf,Pass,Successful,24.6,55.8,28.8,37.3
+358,498386,Pau Cubarsí,338,Spain,36,FirstHalf,Pass,Successful,28.9,37.1,33.8,51.8
+359,303139,Rodri,338,Spain,36,FirstHalf,Pass,Successful,33.8,52,27,33.2
+360,498386,Pau Cubarsí,338,Spain,36,FirstHalf,Pass,Successful,26.6,32.4,27.4,50.6
+361,294193,Fabián Ruiz,338,Spain,36,FirstHalf,Pass,Successful,19.5,51.1,7.5,48.2
+362,332823,Unai Simón,338,Spain,36,FirstHalf,Pass,Unsuccessful,8.2,44.5,46.6,32.6
+258,392647,Maxim De Cuyper,339,Belgium,36,FirstHalf,Pass,Unsuccessful,53.1,67.2,63.7,53
+363,294193,Fabián Ruiz,338,Spain,36,FirstHalf,Pass,Successful,32.7,46.4,34.9,36.4
+364,261212,Dani Olmo,338,Spain,36,FirstHalf,Pass,Unsuccessful,34.9,36.2,64.8,30.4
+259,392647,Maxim De Cuyper,339,Belgium,36,FirstHalf,BallRecovery,Successful,33.5,72.1,,
+260,392647,Maxim De Cuyper,339,Belgium,36,FirstHalf,Pass,Successful,28,72.9,12.4,48.7
+261,73798,Thibaut Courtois,339,Belgium,37,FirstHalf,Pass,Unsuccessful,12.3,48.2,55.3,44
+365,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Aerial,Successful,44.7,56,,
+262,386390,Charles De Ketelaere,339,Belgium,37,FirstHalf,Aerial,Unsuccessful,55.3,44,,
+366,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Pass,Successful,44.7,56,54.5,43.9
+367,261212,Dani Olmo,338,Spain,37,FirstHalf,BallRecovery,Successful,54.3,43.6,,
+368,261212,Dani Olmo,338,Spain,37,FirstHalf,Pass,Successful,54.3,43.6,46.6,41.8
+369,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,54.5,13.3,52.6,30
+370,362352,Pedro Porro,338,Spain,37,FirstHalf,Pass,Successful,52.7,32.7,44.8,59.2
+371,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Pass,Successful,54.6,68.8,65,89.1
+372,363496,Marc Cucurella,338,Spain,37,FirstHalf,Pass,Successful,65.1,90,71.3,98.4
+373,395242,Álex Baena,338,Spain,37,FirstHalf,Pass,Successful,71.7,96.7,76.9,82.1
+374,294193,Fabián Ruiz,338,Spain,37,FirstHalf,Pass,Successful,77.6,81.7,71.3,74.4
+375,395242,Álex Baena,338,Spain,37,FirstHalf,Pass,Successful,71.4,74,81.8,54.4
+376,298839,Mikel Oyarzabal,338,Spain,37,FirstHalf,Pass,Successful,81.8,54.4,76.8,54.2
+377,261212,Dani Olmo,338,Spain,37,FirstHalf,Pass,Successful,76.9,53.9,81.1,49.5
+378,298839,Mikel Oyarzabal,338,Spain,37,FirstHalf,Pass,Unsuccessful,81.1,49.5,84,52.7
+264,414495,Nathan Ngoy,339,Belgium,37,FirstHalf,Clearance,Successful,15.3,46.6,29.3,47.9
+265,73084,Kevin De Bruyne,339,Belgium,37,FirstHalf,BallRecovery,Successful,31.7,49.9,,
+266,73084,Kevin De Bruyne,339,Belgium,37,FirstHalf,Pass,Successful,32.2,50.6,54.1,53.3
+267,386390,Charles De Ketelaere,339,Belgium,37,FirstHalf,BallTouch,Unsuccessful,53.6,53.3,,
+379,303139,Rodri,338,Spain,37,FirstHalf,Clearance,Successful,51.7,51.2,34.1,96.2
+380,363496,Marc Cucurella,338,Spain,37,FirstHalf,BallRecovery,Successful,34.1,96.2,,
+381,363496,Marc Cucurella,338,Spain,37,FirstHalf,Pass,Successful,35.2,94.1,38.4,72
+382,294193,Fabián Ruiz,338,Spain,37,FirstHalf,Pass,Successful,39.2,69.3,39.6,62.4
+383,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,44.2,52.1,53.9,49.4
+384,395242,Álex Baena,338,Spain,37,FirstHalf,Pass,Unsuccessful,64.8,52.9,75,54.2
+268,414495,Nathan Ngoy,339,Belgium,38,FirstHalf,BallRecovery,Successful,27.6,50.4,,
+269,414495,Nathan Ngoy,339,Belgium,38,FirstHalf,Pass,Successful,27.6,50.4,35.4,47.8
+270,399999,Nicolas Raskin,339,Belgium,38,FirstHalf,Pass,Successful,35.4,47.8,38.4,35.2
+271,113994,Leandro Trossard,339,Belgium,38,FirstHalf,Dispossessed,Successful,36,31.8,,
+385,363496,Marc Cucurella,338,Spain,38,FirstHalf,Tackle,Unsuccessful,64,68.2,,
+272,141169,Timothy Castagne,339,Belgium,38,FirstHalf,Pass,Successful,38.7,6,63.7,27
+273,386390,Charles De Ketelaere,339,Belgium,38,FirstHalf,BallTouch,Unsuccessful,66.2,15.8,,
+386,122117,Aymeric Laporte,338,Spain,38,FirstHalf,BallTouch,Unsuccessful,26.2,97.1,,
+275,141169,Timothy Castagne,339,Belgium,38,FirstHalf,Pass,Successful,78.9,0,73.4,7.6
+276,243567,Hans Vanaken,339,Belgium,38,FirstHalf,Pass,Successful,67.5,7,66.6,16.2
+277,399999,Nicolas Raskin,339,Belgium,38,FirstHalf,Pass,Successful,69.1,13.1,75.3,10
+278,386390,Charles De Ketelaere,339,Belgium,38,FirstHalf,BallTouch,Unsuccessful,75.3,10,,
+388,261212,Dani Olmo,338,Spain,38,FirstHalf,BallRecovery,Successful,25.9,85.6,,
+389,261212,Dani Olmo,338,Spain,38,FirstHalf,Pass,Successful,24.2,80.5,35,80.8
+390,294193,Fabián Ruiz,338,Spain,38,FirstHalf,Pass,Successful,41.5,72,45.1,52.1
+391,480249,Lamine Yamal,338,Spain,38,FirstHalf,Pass,Successful,46.1,50.6,65.4,22.6
+392,362352,Pedro Porro,338,Spain,38,FirstHalf,Pass,Successful,69,24.1,65.6,25.7
+393,480249,Lamine Yamal,338,Spain,38,FirstHalf,Pass,Successful,73,25.1,79.6,12.4
+394,362352,Pedro Porro,338,Spain,38,FirstHalf,Pass,Successful,79.6,12.4,74.2,19.2
+395,303139,Rodri,338,Spain,39,FirstHalf,Pass,Successful,75.7,22.1,69.6,67.6
+396,363496,Marc Cucurella,338,Spain,39,FirstHalf,Pass,Successful,69.6,67,71,49.8
+397,261212,Dani Olmo,338,Spain,39,FirstHalf,Pass,Successful,71.1,43.2,73.1,29.2
+398,303139,Rodri,338,Spain,39,FirstHalf,Pass,Successful,73.4,27.9,87,16.6
+279,392647,Maxim De Cuyper,339,Belgium,39,FirstHalf,Challenge,Unsuccessful,12,86,,
+399,480249,Lamine Yamal,338,Spain,39,FirstHalf,TakeOn,Successful,88,14,,
+400,480249,Lamine Yamal,338,Spain,39,FirstHalf,MissedShots,Successful,85.9,30.1,,
+281,73798,Thibaut Courtois,339,Belgium,39,FirstHalf,Pass,Successful,4.4,51.6,68.5,43.3
+282,386390,Charles De Ketelaere,339,Belgium,39,FirstHalf,Aerial,Successful,68.5,43.3,,
+402,122117,Aymeric Laporte,338,Spain,39,FirstHalf,Aerial,Unsuccessful,31.5,56.7,,
+283,386390,Charles De Ketelaere,339,Belgium,39,FirstHalf,Pass,Unsuccessful,68.5,43.3,72.3,44.6
+403,498386,Pau Cubarsí,338,Spain,39,FirstHalf,Clearance,Successful,26.5,52.7,32.5,53
+284,386390,Charles De Ketelaere,339,Belgium,39,FirstHalf,Pass,Successful,69.7,48.8,74.5,72.9
+285,388098,Jérémy Doku,339,Belgium,39,FirstHalf,Pass,Successful,94.5,83.6,88.9,53.7
+286,243567,Hans Vanaken,339,Belgium,39,FirstHalf,Pass,Successful,88.9,53.7,75.4,59
+287,113994,Leandro Trossard,339,Belgium,39,FirstHalf,Pass,Successful,74.3,39.5,86.7,15.3
+288,141169,Timothy Castagne,339,Belgium,40,FirstHalf,Pass,Unsuccessful,79.1,18.3,87.9,35.1
+404,294193,Fabián Ruiz,338,Spain,40,FirstHalf,Clearance,Successful,12.9,60.9,23.2,83.8
+289,141169,Timothy Castagne,339,Belgium,40,FirstHalf,Pass,Successful,71.8,18.8,71.8,16.8
+290,113994,Leandro Trossard,339,Belgium,40,FirstHalf,Pass,Successful,74.4,15.9,75.7,25.2
+291,73084,Kevin De Bruyne,339,Belgium,40,FirstHalf,Pass,Successful,75.7,25.2,88.4,9.8
+292,141169,Timothy Castagne,339,Belgium,40,FirstHalf,Pass,Successful,89.6,10,92.7,47.2
+294,386390,Charles De Ketelaere,339,Belgium,40,FirstHalf,Aerial,Successful,92.7,47.2,,
+405,498386,Pau Cubarsí,338,Spain,40,FirstHalf,Aerial,Unsuccessful,7.3,52.8,,
+293,386390,Charles De Ketelaere,339,Belgium,40,FirstHalf,Goal,Successful,92.7,47.2,,
+406,298839,Mikel Oyarzabal,338,Spain,41,FirstHalf,Pass,Successful,50.1,50.2,39.6,46.1
+407,303139,Rodri,338,Spain,41,FirstHalf,Pass,Successful,45.8,51.7,45.1,69.9
+408,294193,Fabián Ruiz,338,Spain,41,FirstHalf,Pass,Successful,46.2,70.3,42.9,36.4
+409,498386,Pau Cubarsí,338,Spain,41,FirstHalf,Pass,Successful,43.8,33.5,52.7,12.4
+410,362352,Pedro Porro,338,Spain,41,FirstHalf,Pass,Successful,53.2,12.4,46.2,28.2
+411,498386,Pau Cubarsí,338,Spain,41,FirstHalf,Pass,Successful,53,32.3,38.1,61.1
+412,122117,Aymeric Laporte,338,Spain,41,FirstHalf,Pass,Successful,34.6,60.9,36.3,24.8
+413,498386,Pau Cubarsí,338,Spain,41,FirstHalf,Pass,Successful,36.1,23.8,39.6,7.1
+414,362352,Pedro Porro,338,Spain,41,FirstHalf,Pass,Unsuccessful,40.5,7.2,44.7,8.3
+295,388098,Jérémy Doku,339,Belgium,41,FirstHalf,BallTouch,Successful,53.3,94.7,,
+415,480249,Lamine Yamal,338,Spain,41,FirstHalf,Challenge,Unsuccessful,68.9,12.4,,
+296,392647,Maxim De Cuyper,339,Belgium,41,FirstHalf,TakeOn,Successful,31.1,87.6,,
+297,392647,Maxim De Cuyper,339,Belgium,41,FirstHalf,BallRecovery,Successful,27.9,88,,
+298,392647,Maxim De Cuyper,339,Belgium,41,FirstHalf,Pass,Unsuccessful,31.3,84.1,57.8,76.6
+416,498386,Pau Cubarsí,338,Spain,41,FirstHalf,Interception,Successful,42.2,23.4,,
+299,141169,Timothy Castagne,339,Belgium,41,FirstHalf,Pass,Successful,29.2,27.6,26.8,32.1
+300,414495,Nathan Ngoy,339,Belgium,41,FirstHalf,Pass,Successful,26.8,32.1,27.1,41.2
+301,399999,Nicolas Raskin,339,Belgium,42,FirstHalf,Pass,Successful,31.3,34.5,31.2,25.2
+302,414495,Nathan Ngoy,339,Belgium,42,FirstHalf,Pass,Successful,32.6,23.1,44.3,5
+303,141169,Timothy Castagne,339,Belgium,42,FirstHalf,Pass,Successful,44.3,5,26.9,14
+304,414495,Nathan Ngoy,339,Belgium,42,FirstHalf,Pass,Successful,22,20.4,8.4,45.5
+305,73798,Thibaut Courtois,339,Belgium,42,FirstHalf,Pass,Successful,8.8,49.1,14.1,82.9
+306,129832,Brandon Mechele,339,Belgium,42,FirstHalf,Pass,Successful,21.6,86.6,25.3,96.3
+307,392647,Maxim De Cuyper,339,Belgium,42,FirstHalf,Pass,Successful,25.6,96.5,28,80.3
+308,113994,Leandro Trossard,339,Belgium,42,FirstHalf,Pass,Successful,33.9,79.9,55.4,81.1
+309,386390,Charles De Ketelaere,339,Belgium,42,FirstHalf,BallTouch,Unsuccessful,55.7,80,,
+417,498386,Pau Cubarsí,338,Spain,42,FirstHalf,BallTouch,Unsuccessful,37.7,14.5,,
+310,73084,Kevin De Bruyne,339,Belgium,42,FirstHalf,Foul,Successful,61,84.6,,
+418,498386,Pau Cubarsí,338,Spain,42,FirstHalf,Foul,Unsuccessful,39,15.4,,
+419,498386,Pau Cubarsí,338,Spain,42,FirstHalf,Card,Successful,0,0,,
+311,392647,Maxim De Cuyper,339,Belgium,43,FirstHalf,Pass,Successful,56.9,86.2,58.8,75
+312,243567,Hans Vanaken,339,Belgium,43,FirstHalf,Pass,Successful,58.8,75,54,80.3
+313,399999,Nicolas Raskin,339,Belgium,43,FirstHalf,Pass,Successful,54,80.3,58.7,89.3
+314,392647,Maxim De Cuyper,339,Belgium,43,FirstHalf,Pass,Successful,60.3,83.9,62.5,61.2
+315,113994,Leandro Trossard,339,Belgium,43,FirstHalf,Pass,Successful,63.1,52.4,60.5,21.9
+316,414495,Nathan Ngoy,339,Belgium,43,FirstHalf,Pass,Successful,61.1,16.1,72.3,9.7
+317,141169,Timothy Castagne,339,Belgium,43,FirstHalf,Pass,Successful,74.3,10.6,87,8.5
+318,386390,Charles De Ketelaere,339,Belgium,43,FirstHalf,Pass,Successful,86.9,8.6,78.6,5.6
+319,141169,Timothy Castagne,339,Belgium,43,FirstHalf,Pass,Successful,78.5,5.5,64.6,4.9
+320,414495,Nathan Ngoy,339,Belgium,43,FirstHalf,Pass,Successful,62,15.6,53.6,45.1
+321,399999,Nicolas Raskin,339,Belgium,43,FirstHalf,Pass,Successful,53.4,43.4,55.6,14.4
+322,414495,Nathan Ngoy,339,Belgium,43,FirstHalf,Pass,Successful,56,12.2,62.4,4.1
+323,141169,Timothy Castagne,339,Belgium,43,FirstHalf,Pass,Successful,59.1,5.5,71.9,6.1
+324,386390,Charles De Ketelaere,339,Belgium,43,FirstHalf,Pass,Unsuccessful,72,6.2,65.8,4.4
+421,395242,Álex Baena,338,Spain,43,FirstHalf,BallTouch,Successful,39.9,97.1,,
+326,141169,Timothy Castagne,339,Belgium,43,FirstHalf,Pass,Successful,65.1,0,57.6,10.6
+327,113994,Leandro Trossard,339,Belgium,43,FirstHalf,Pass,Successful,55.4,13.8,38,32.2
+328,129832,Brandon Mechele,339,Belgium,43,FirstHalf,Pass,Successful,36.2,50.1,48,58.7
+329,243567,Hans Vanaken,339,Belgium,43,FirstHalf,Pass,Unsuccessful,48,58.7,48.5,18.8
+423,395242,Álex Baena,338,Spain,43,FirstHalf,BallRecovery,Successful,54.1,77,,
+424,395242,Álex Baena,338,Spain,43,FirstHalf,Dispossessed,Successful,57.2,77.7,,
+330,141169,Timothy Castagne,339,Belgium,43,FirstHalf,Tackle,Unsuccessful,42.8,22.2,,
+425,303139,Rodri,338,Spain,43,FirstHalf,Pass,Unsuccessful,60.6,53.2,63.9,53.2
+331,243567,Hans Vanaken,339,Belgium,43,FirstHalf,BlockedPass,Successful,36.1,46.8,,
+426,480249,Lamine Yamal,338,Spain,43,FirstHalf,Foul,Successful,61.2,40,,
+332,392647,Maxim De Cuyper,339,Belgium,43,FirstHalf,Foul,Unsuccessful,38.8,60,,
+427,261212,Dani Olmo,338,Spain,44,FirstHalf,Pass,Successful,64.7,37.6,63.8,24.5
+428,362352,Pedro Porro,338,Spain,44,FirstHalf,Pass,Successful,64,23.5,74.8,6
+429,480249,Lamine Yamal,338,Spain,44,FirstHalf,Pass,Successful,79.9,10,73,16.5
+430,362352,Pedro Porro,338,Spain,44,FirstHalf,Pass,Successful,71.3,19.1,59.9,29.7
+431,498386,Pau Cubarsí,338,Spain,44,FirstHalf,Pass,Successful,60.5,31.4,63.8,63.6
+432,122117,Aymeric Laporte,338,Spain,44,FirstHalf,Pass,Successful,65.3,65.3,72.1,66.8
+433,395242,Álex Baena,338,Spain,44,FirstHalf,Pass,Successful,72.8,42.4,71.3,24.2
+434,362352,Pedro Porro,338,Spain,44,FirstHalf,Pass,Successful,71.3,23.8,80.1,10.9
+435,480249,Lamine Yamal,338,Spain,44,FirstHalf,Pass,Successful,84.4,13.6,77.6,15.6
+436,395242,Álex Baena,338,Spain,44,FirstHalf,Pass,Successful,87.6,19.5,84.5,30.3
+437,362352,Pedro Porro,338,Spain,44,FirstHalf,MissedShots,Successful,81.5,32.5,,
+335,73798,Thibaut Courtois,339,Belgium,45,FirstHalf,Pass,Successful,4.1,50.1,54.4,95.7
+348,386390,Charles De Ketelaere,339,Belgium,45,FirstHalf,Aerial,Successful,54.4,95.7,,
+455,362352,Pedro Porro,338,Spain,45,FirstHalf,Aerial,Unsuccessful,45.6,4.3,,
+350,386390,Charles De Ketelaere,339,Belgium,45,FirstHalf,Pass,Unsuccessful,54.4,95.7,62.7,100
+440,362352,Pedro Porro,338,Spain,45,FirstHalf,Pass,Successful,38.4,0,25.1,8
+441,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,25.9,9.1,34.7,29.2
+442,303139,Rodri,338,Spain,45,FirstHalf,Pass,Successful,35.2,33.5,32.4,59.6
+443,122117,Aymeric Laporte,338,Spain,45,FirstHalf,Pass,Successful,32.8,57,32.5,35.1
+444,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,36.5,35.1,40.8,69.3
+445,122117,Aymeric Laporte,338,Spain,45,FirstHalf,Pass,Successful,46.6,69.6,46.1,41.8
+446,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,53.8,35.1,77.3,32.1
+447,261212,Dani Olmo,338,Spain,45,FirstHalf,BallTouch,Unsuccessful,77.5,32,,
+338,129832,Brandon Mechele,339,Belgium,45,FirstHalf,Clearance,Successful,11.6,50.1,0,4.3
+448,261212,Dani Olmo,338,Spain,45,FirstHalf,CornerAwarded,Successful,91.4,70.2,,
+339,129832,Brandon Mechele,339,Belgium,45,FirstHalf,CornerAwarded,Unsuccessful,8.6,29.7,,
+449,395242,Álex Baena,338,Spain,46,FirstHalf,Pass,Unsuccessful,99.5,99.5,97.3,67
+340,73084,Kevin De Bruyne,339,Belgium,46,FirstHalf,Clearance,Successful,2.6,31.3,0,2.5
+450,395242,Álex Baena,338,Spain,46,FirstHalf,CornerAwarded,Successful,99.4,85.2,,
+341,73084,Kevin De Bruyne,339,Belgium,46,FirstHalf,CornerAwarded,Unsuccessful,0.6,14.8,,
+451,395242,Álex Baena,338,Spain,46,FirstHalf,Pass,Unsuccessful,99.5,99.5,97,55.2
+342,399999,Nicolas Raskin,339,Belgium,46,FirstHalf,BallTouch,Successful,7.6,40.3,,
+452,303139,Rodri,338,Spain,46,FirstHalf,Pass,Successful,87.8,52.4,85,41.7
+453,294193,Fabián Ruiz,338,Spain,46,FirstHalf,SavedShot,Successful,85,41.7,,
+344,243567,Hans Vanaken,339,Belgium,46,FirstHalf,Save,Successful,8.8,54.2,,
+345,386390,Charles De Ketelaere,339,Belgium,46,FirstHalf,BallRecovery,Successful,33.6,79.1,,
+346,386390,Charles De Ketelaere,339,Belgium,46,FirstHalf,Pass,Unsuccessful,44,70.3,55,49.3
+454,261212,Dani Olmo,338,Spain,46,FirstHalf,BallRecovery,Successful,47,47,,
+456,261212,Dani Olmo,338,Spain,46,FirstHalf,Pass,Successful,69.1,60.3,78.2,91.8
+457,395242,Álex Baena,338,Spain,46,FirstHalf,Pass,Successful,77.8,75.3,81.1,87.3
+458,480249,Lamine Yamal,338,Spain,46,FirstHalf,Pass,Successful,79.3,77.9,87.4,86.8
+459,395242,Álex Baena,338,Spain,46,FirstHalf,Pass,Unsuccessful,88.2,81.7,100,38.3
+351,73798,Thibaut Courtois,339,Belgium,47,FirstHalf,Pass,Successful,3.9,51.6,57.9,90.3
+352,388098,Jérémy Doku,339,Belgium,47,FirstHalf,BallTouch,Unsuccessful,57.9,95.4,,
+462,362352,Pedro Porro,338,Spain,47,FirstHalf,Pass,Successful,44.8,0,46.7,15.7
+463,261212,Dani Olmo,338,Spain,47,FirstHalf,Pass,Successful,46.7,15.7,58,8.8
+464,480249,Lamine Yamal,338,Spain,47,FirstHalf,Pass,Successful,58,8.8,56.8,27.1
+465,261212,Dani Olmo,338,Spain,47,FirstHalf,BallTouch,Unsuccessful,56.8,27.1,,
+357,399999,Nicolas Raskin,339,Belgium,48,FirstHalf,BallRecovery,Successful,43.8,69.7,,
+358,399999,Nicolas Raskin,339,Belgium,48,FirstHalf,Pass,Successful,43.8,69.7,27.7,72.9
+359,129832,Brandon Mechele,339,Belgium,48,FirstHalf,Pass,Successful,26.4,72.4,6.7,51.9
+360,73798,Thibaut Courtois,339,Belgium,48,FirstHalf,Pass,Successful,10.8,34.3,59.5,60.9
+361,386390,Charles De Ketelaere,339,Belgium,48,FirstHalf,Pass,Unsuccessful,59.5,60.9,56.1,55.7
+469,303139,Rodri,338,Spain,48,FirstHalf,BallTouch,Unsuccessful,43.3,41.5,,
+362,243567,Hans Vanaken,339,Belgium,48,FirstHalf,Pass,Successful,56.7,50.6,62.6,64.9
+363,73084,Kevin De Bruyne,339,Belgium,48,FirstHalf,Pass,Successful,67.5,73.6,81.6,85.6
+470,362352,Pedro Porro,338,Spain,49,FirstHalf,Challenge,Unsuccessful,10.1,26.8,,
+364,388098,Jérémy Doku,339,Belgium,49,FirstHalf,TakeOn,Successful,89.9,73.2,,
+365,388098,Jérémy Doku,339,Belgium,49,FirstHalf,Pass,Unsuccessful,94.7,75.1,100,43
+472,332823,Unai Simón,338,Spain,49,FirstHalf,Pass,Unsuccessful,5.1,43.5,67.1,32.4
+367,399999,Nicolas Raskin,339,Belgium,49,FirstHalf,Foul,Successful,33.5,67.3,,
+473,298839,Mikel Oyarzabal,338,Spain,49,FirstHalf,Foul,Unsuccessful,66.5,32.7,,
+368,399999,Nicolas Raskin,339,Belgium,50,FirstHalf,Pass,Unsuccessful,38.8,70.6,64.6,80.5
+369,,,339,Belgium,50,FirstHalf,End,Successful,0,0,,
+474,,,338,Spain,50,FirstHalf,End,Successful,0,0,,
+475,,,338,Spain,45,SecondHalf,Start,Successful,0,0,,
+370,,,339,Belgium,45,SecondHalf,Start,Successful,0,0,,
+476,298839,Mikel Oyarzabal,338,Spain,45,SecondHalf,Pass,Successful,49.9,50.2,38.4,48.5
+477,303139,Rodri,338,Spain,45,SecondHalf,Pass,Successful,38.6,47.6,40.8,11
+478,362352,Pedro Porro,338,Spain,45,SecondHalf,Pass,Successful,41.9,8.3,38.2,31
+479,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,46.9,32.3,56.3,5.7
+480,362352,Pedro Porro,338,Spain,45,SecondHalf,Pass,Successful,55.7,6.5,44.4,27.4
+481,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Pass,Successful,44.8,29.5,44,67.3
+482,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,51.1,81.8,57.2,94
+483,363496,Marc Cucurella,338,Spain,45,SecondHalf,Pass,Successful,55.3,94.7,42,87.4
+484,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,38.5,85.8,20,63.5
+485,332823,Unai Simón,338,Spain,45,SecondHalf,Pass,Successful,20,63.5,28.5,61.8
+486,303139,Rodri,338,Spain,45,SecondHalf,Pass,Successful,36.3,62,44.3,67.1
+487,294193,Fabián Ruiz,338,Spain,45,SecondHalf,Pass,Successful,45,67.4,37.7,85.2
+488,122117,Aymeric Laporte,338,Spain,45,SecondHalf,Pass,Successful,41.4,92.1,57.7,97
+489,363496,Marc Cucurella,338,Spain,45,SecondHalf,Pass,Successful,53.7,96.8,54.8,77.1
+490,294193,Fabián Ruiz,338,Spain,45,SecondHalf,Pass,Successful,54.8,77.1,61.3,85.9
+491,395242,Álex Baena,338,Spain,45,SecondHalf,Pass,Successful,61.3,85.9,55.9,83.7
+492,294193,Fabián Ruiz,338,Spain,45,SecondHalf,Pass,Unsuccessful,57,83,77.5,73.5
+371,113994,Leandro Trossard,339,Belgium,45,SecondHalf,Foul,Successful,22.1,26.6,,
+493,363496,Marc Cucurella,338,Spain,45,SecondHalf,Foul,Unsuccessful,77.8,73.4,,
+372,414495,Nathan Ngoy,339,Belgium,46,SecondHalf,Pass,Successful,19.3,25.2,9.1,46.7
+373,73798,Thibaut Courtois,339,Belgium,46,SecondHalf,Pass,Successful,8.1,55.4,63.1,7.1
+374,386390,Charles De Ketelaere,339,Belgium,46,SecondHalf,BallTouch,Unsuccessful,92.2,8.6,,
+495,332823,Unai Simón,338,Spain,46,SecondHalf,Pass,Successful,3.9,55.8,8.3,32.3
+496,498386,Pau Cubarsí,338,Spain,46,SecondHalf,Pass,Successful,8.1,31.8,4.2,50.5
+497,332823,Unai Simón,338,Spain,46,SecondHalf,Pass,Successful,5.6,50.8,12.2,42
+498,303139,Rodri,338,Spain,46,SecondHalf,Pass,Successful,12.2,42,8.2,21.8
+499,498386,Pau Cubarsí,338,Spain,46,SecondHalf,Pass,Successful,19.9,9.4,28.3,15
+1043,261212,Dani Olmo,338,Spain,46,SecondHalf,TakeOn,Unsuccessful,30.1,12.4,,
+500,261212,Dani Olmo,338,Spain,46,SecondHalf,Foul,Successful,30.9,16,,
+376,129832,Brandon Mechele,339,Belgium,46,SecondHalf,Foul,Unsuccessful,69.1,84,,
+501,298839,Mikel Oyarzabal,338,Spain,46,SecondHalf,Pass,Successful,31.3,17.2,23.9,27.4
+502,498386,Pau Cubarsí,338,Spain,46,SecondHalf,Pass,Successful,23.6,28.6,29.4,35.3
+503,303139,Rodri,338,Spain,46,SecondHalf,Pass,Unsuccessful,29.4,35.3,35.8,27
+377,388098,Jérémy Doku,339,Belgium,46,SecondHalf,Interception,Successful,64.2,73,,
+378,388098,Jérémy Doku,339,Belgium,46,SecondHalf,BallRecovery,Successful,65,70.3,,
+379,388098,Jérémy Doku,339,Belgium,46,SecondHalf,Pass,Unsuccessful,70.9,55.7,77.9,50.9
+504,303139,Rodri,338,Spain,46,SecondHalf,BallTouch,Successful,24.4,54.9,,
+505,332823,Unai Simón,338,Spain,46,SecondHalf,Smother,Successful,8.4,45,,
+506,332823,Unai Simón,338,Spain,46,SecondHalf,KeeperPickup,Successful,8.4,45,,
+507,332823,Unai Simón,338,Spain,46,SecondHalf,Pass,Successful,14,43.4,24.6,77.7
+11517,480249,Lamine Yamal,338,Spain,47,SecondHalf,OffsideGiven,Unsuccessful,72.9,18.2,,
+508,294193,Fabián Ruiz,338,Spain,47,SecondHalf,Pass,Successful,22.8,76.5,14.1,76.1
+509,363496,Marc Cucurella,338,Spain,47,SecondHalf,Pass,Successful,16.9,75.2,13.4,67.9
+510,122117,Aymeric Laporte,338,Spain,47,SecondHalf,Pass,Successful,13.7,66,16,37.2
+511,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,45.1,30.3,52.8,35.1
+512,294193,Fabián Ruiz,338,Spain,47,SecondHalf,Pass,Successful,53.7,33.9,45.7,19.4
+513,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,46.5,19.2,63.3,13.3
+514,298839,Mikel Oyarzabal,338,Spain,47,SecondHalf,Pass,Successful,62.6,8.8,64.8,3.2
+515,480249,Lamine Yamal,338,Spain,47,SecondHalf,Pass,Successful,64.8,3.2,56.1,5.6
+516,362352,Pedro Porro,338,Spain,47,SecondHalf,Pass,Successful,56,7.4,47,25.7
+517,498386,Pau Cubarsí,338,Spain,47,SecondHalf,OffsidePass,Successful,55.8,24.8,72.9,18.2
+381,392647,Maxim De Cuyper,339,Belgium,47,SecondHalf,OffsideProvoked,Successful,31.3,79.1,,
+382,73798,Thibaut Courtois,339,Belgium,48,SecondHalf,Pass,Unsuccessful,22.1,71.7,67.8,88.6
+519,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Clearance,Successful,31.7,10.7,41.1,0
+384,392647,Maxim De Cuyper,339,Belgium,48,SecondHalf,Pass,Unsuccessful,67.3,100,80.2,97.5
+521,362352,Pedro Porro,338,Spain,48,SecondHalf,Pass,Successful,17.7,5,25.7,7.2
+522,303139,Rodri,338,Spain,48,SecondHalf,Pass,Unsuccessful,26.6,7.4,41.6,25.7
+385,129832,Brandon Mechele,339,Belgium,48,SecondHalf,Interception,Successful,58.4,74.3,,
+386,113994,Leandro Trossard,339,Belgium,48,SecondHalf,Pass,Successful,53,31.9,55.8,8.3
+387,141169,Timothy Castagne,339,Belgium,48,SecondHalf,Pass,Unsuccessful,56.5,7.9,65,0
+524,363496,Marc Cucurella,338,Spain,48,SecondHalf,Pass,Successful,39.4,100,46.1,91.5
+525,294193,Fabián Ruiz,338,Spain,48,SecondHalf,Foul,Successful,54.2,91,,
+390,73084,Kevin De Bruyne,339,Belgium,48,SecondHalf,Foul,Unsuccessful,45.7,9.1,,
+526,395242,Álex Baena,338,Spain,49,SecondHalf,Pass,Successful,56.2,95.8,45.9,94.9
+527,363496,Marc Cucurella,338,Spain,49,SecondHalf,Pass,Successful,45.4,94.9,35,77.9
+528,122117,Aymeric Laporte,338,Spain,49,SecondHalf,Pass,Successful,33.4,77.1,39.9,81.8
+529,303139,Rodri,338,Spain,49,SecondHalf,Pass,Unsuccessful,42,84.6,42.5,81.7
+391,243567,Hans Vanaken,339,Belgium,49,SecondHalf,BlockedPass,Successful,57.5,18.3,,
+392,73084,Kevin De Bruyne,339,Belgium,49,SecondHalf,BallRecovery,Successful,55.8,23,,
+393,73084,Kevin De Bruyne,339,Belgium,49,SecondHalf,Pass,Successful,55.7,22.8,65.8,10.3
+394,388098,Jérémy Doku,339,Belgium,49,SecondHalf,TakeOn,Unsuccessful,91.3,16.6,,
+530,122117,Aymeric Laporte,338,Spain,49,SecondHalf,Tackle,Successful,8.7,83.4,,
+395,388098,Jérémy Doku,339,Belgium,49,SecondHalf,CornerAwarded,Successful,91.3,15.8,,
+531,122117,Aymeric Laporte,338,Spain,49,SecondHalf,CornerAwarded,Unsuccessful,8.5,84,,
+396,73084,Kevin De Bruyne,339,Belgium,49,SecondHalf,Pass,Unsuccessful,99.5,0.5,90.7,49.3
+532,395242,Álex Baena,338,Spain,50,SecondHalf,Foul,Successful,9,51.4,,
+397,399999,Nicolas Raskin,339,Belgium,50,SecondHalf,Foul,Unsuccessful,91,48.6,,
+533,122117,Aymeric Laporte,338,Spain,50,SecondHalf,Pass,Successful,14.1,69.3,21.3,32
+534,498386,Pau Cubarsí,338,Spain,50,SecondHalf,Pass,Successful,39.3,25.3,45,3.5
+535,362352,Pedro Porro,338,Spain,50,SecondHalf,Pass,Successful,45,3.5,61.6,1.8
+536,480249,Lamine Yamal,338,Spain,50,SecondHalf,Pass,Unsuccessful,61.8,1.9,84.3,11.9
+398,414495,Nathan Ngoy,339,Belgium,50,SecondHalf,Clearance,Successful,14.2,84.8,17.4,100
+538,362352,Pedro Porro,338,Spain,50,SecondHalf,Pass,Successful,82.2,0,69.1,6.3
+539,480249,Lamine Yamal,338,Spain,50,SecondHalf,Pass,Successful,69.9,13.8,81.3,74.6
+540,395242,Álex Baena,338,Spain,50,SecondHalf,Pass,Successful,81.3,74.6,81.2,64.6
+541,298839,Mikel Oyarzabal,338,Spain,50,SecondHalf,Pass,Successful,80.1,65.2,71.6,64.3
+542,294193,Fabián Ruiz,338,Spain,50,SecondHalf,Pass,Successful,73.1,67,76.1,83.8
+543,363496,Marc Cucurella,338,Spain,50,SecondHalf,Pass,Successful,72.7,81.8,81.8,94.6
+544,395242,Álex Baena,338,Spain,50,SecondHalf,Pass,Successful,85,91.5,73.9,74.4
+545,294193,Fabián Ruiz,338,Spain,50,SecondHalf,Pass,Successful,72.6,72.1,69.6,55.2
+546,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,69.2,52.7,71,25.3
+547,362352,Pedro Porro,338,Spain,51,SecondHalf,Pass,Successful,68.9,24.4,80.6,11.3
+548,480249,Lamine Yamal,338,Spain,51,SecondHalf,Pass,Successful,80.6,34.2,75.2,51.8
+549,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,75.7,54.4,80.4,71.2
+550,363496,Marc Cucurella,338,Spain,51,SecondHalf,Pass,Successful,76.7,72.4,68.4,63.6
+551,122117,Aymeric Laporte,338,Spain,51,SecondHalf,Pass,Successful,73.9,75.8,81.9,94.4
+552,298839,Mikel Oyarzabal,338,Spain,51,SecondHalf,Pass,Successful,82.6,94.9,74.2,66.7
+553,395242,Álex Baena,338,Spain,51,SecondHalf,Pass,Successful,72.5,64.3,72,38.8
+554,498386,Pau Cubarsí,338,Spain,51,SecondHalf,Pass,Successful,73.2,32.9,82.1,14.3
+555,362352,Pedro Porro,338,Spain,51,SecondHalf,Pass,Successful,81.8,15.6,74.9,15
+556,480249,Lamine Yamal,338,Spain,51,SecondHalf,Pass,Successful,75.4,30.7,79.5,69.7
+557,294193,Fabián Ruiz,338,Spain,51,SecondHalf,BallTouch,Unsuccessful,78.5,68.1,,
+400,113994,Leandro Trossard,339,Belgium,51,SecondHalf,Clearance,Successful,13.5,26.1,14.1,24.9
+558,298839,Mikel Oyarzabal,338,Spain,51,SecondHalf,BlockedPass,Successful,85.8,71.1,,
+559,363496,Marc Cucurella,338,Spain,51,SecondHalf,BallTouch,Successful,82.3,67.5,,
+560,480249,Lamine Yamal,338,Spain,51,SecondHalf,SavedShot,Successful,84.5,56,,
+402,129832,Brandon Mechele,339,Belgium,51,SecondHalf,Save,Successful,12.2,45.4,,
+403,129832,Brandon Mechele,339,Belgium,51,SecondHalf,CornerAwarded,Unsuccessful,13.4,44.6,,
+561,480249,Lamine Yamal,338,Spain,51,SecondHalf,CornerAwarded,Successful,86.6,55.4,,
+562,395242,Álex Baena,338,Spain,52,SecondHalf,Pass,Successful,99.5,0.5,88.6,10.1
+563,480249,Lamine Yamal,338,Spain,52,SecondHalf,Pass,Unsuccessful,88,13.2,91.6,55
+404,129832,Brandon Mechele,339,Belgium,52,SecondHalf,Aerial,Successful,8.4,45,,
+564,498386,Pau Cubarsí,338,Spain,52,SecondHalf,Aerial,Unsuccessful,91.6,55,,
+502,129832,Brandon Mechele,339,Belgium,52,SecondHalf,Clearance,Successful,7.3,45.2,8.4,44
+565,498386,Pau Cubarsí,338,Spain,52,SecondHalf,BallTouch,Successful,91.6,55,,
+566,261212,Dani Olmo,338,Spain,52,SecondHalf,MissedShots,Successful,80.2,60.3,,
+406,73798,Thibaut Courtois,339,Belgium,52,SecondHalf,Pass,Unsuccessful,4.9,50.7,75.1,82.7
+568,362352,Pedro Porro,338,Spain,52,SecondHalf,Clearance,Successful,23.9,12.7,29.1,10.7
+407,386390,Charles De Ketelaere,339,Belgium,52,SecondHalf,Challenge,Unsuccessful,68.2,83.2,,
+569,362352,Pedro Porro,338,Spain,52,SecondHalf,TakeOn,Successful,31.8,16.8,,
+570,362352,Pedro Porro,338,Spain,52,SecondHalf,Pass,Successful,30.4,20.4,35.3,67.1
+571,395242,Álex Baena,338,Spain,52,SecondHalf,BallRecovery,Successful,35.7,67.7,,
+572,395242,Álex Baena,338,Spain,52,SecondHalf,Pass,Successful,35.5,68.3,32.4,62.7
+573,363496,Marc Cucurella,338,Spain,52,SecondHalf,Pass,Successful,35.6,63.8,58.2,75.9
+574,294193,Fabián Ruiz,338,Spain,52,SecondHalf,Pass,Successful,71.9,65.4,70.1,52.3
+575,303139,Rodri,338,Spain,52,SecondHalf,Pass,Successful,69.4,51.9,74.9,71.4
+576,363496,Marc Cucurella,338,Spain,52,SecondHalf,Pass,Unsuccessful,77.7,71.2,96.8,57
+408,73798,Thibaut Courtois,339,Belgium,52,SecondHalf,KeeperPickup,Successful,3,42.4,,
+409,73798,Thibaut Courtois,339,Belgium,53,SecondHalf,Pass,Successful,10.4,48.8,12.9,23.1
+410,414495,Nathan Ngoy,339,Belgium,53,SecondHalf,Pass,Successful,12.9,18.9,18.2,5.8
+411,141169,Timothy Castagne,339,Belgium,53,SecondHalf,Pass,Unsuccessful,19.9,15.3,73.2,13.1
+577,332823,Unai Simón,338,Spain,53,SecondHalf,BallRecovery,Successful,28.4,77.6,,
+578,332823,Unai Simón,338,Spain,53,SecondHalf,Pass,Successful,28.8,74.9,34.2,57
+579,498386,Pau Cubarsí,338,Spain,53,SecondHalf,Pass,Successful,36.2,57.1,47.1,65.9
+580,303139,Rodri,338,Spain,53,SecondHalf,Pass,Successful,59,70.3,69.8,71.4
+581,395242,Álex Baena,338,Spain,53,SecondHalf,Pass,Unsuccessful,69.8,71.4,71.2,61.4
+412,399999,Nicolas Raskin,339,Belgium,53,SecondHalf,BallRecovery,Successful,31.6,39.2,,
+413,399999,Nicolas Raskin,339,Belgium,53,SecondHalf,Pass,Successful,31.6,39.2,33.2,28.5
+414,113994,Leandro Trossard,339,Belgium,53,SecondHalf,Dispossessed,Successful,34.4,25.8,,
+582,294193,Fabián Ruiz,338,Spain,53,SecondHalf,Tackle,Unsuccessful,65.6,74.1,,
+415,113994,Leandro Trossard,339,Belgium,53,SecondHalf,Pass,Successful,32.1,21.8,30.3,36.4
+416,243567,Hans Vanaken,339,Belgium,53,SecondHalf,Pass,Successful,30.3,36.4,24,56.1
+417,129832,Brandon Mechele,339,Belgium,53,SecondHalf,Pass,Successful,23.5,56.1,38.3,82.4
+418,392647,Maxim De Cuyper,339,Belgium,53,SecondHalf,Pass,Successful,38.2,83.2,59.5,94.8
+419,388098,Jérémy Doku,339,Belgium,53,SecondHalf,Pass,Successful,55.7,95.3,46.9,87.2
+420,73084,Kevin De Bruyne,339,Belgium,53,SecondHalf,Pass,Successful,46.9,87.2,53.1,79.7
+421,243567,Hans Vanaken,339,Belgium,53,SecondHalf,Pass,Successful,53.1,80,49.6,89.7
+422,73084,Kevin De Bruyne,339,Belgium,53,SecondHalf,Pass,Successful,49.6,89.7,39.3,82
+423,129832,Brandon Mechele,339,Belgium,53,SecondHalf,Pass,Successful,38.7,80.2,43.1,73
+424,399999,Nicolas Raskin,339,Belgium,53,SecondHalf,Pass,Successful,46.4,60,38.6,30
+425,414495,Nathan Ngoy,339,Belgium,53,SecondHalf,Pass,Successful,39.2,27.9,46.8,8.9
+426,141169,Timothy Castagne,339,Belgium,53,SecondHalf,Pass,Successful,46.3,8.2,46.1,24.4
+427,113994,Leandro Trossard,339,Belgium,54,SecondHalf,Pass,Successful,44.4,45.7,42.3,70.2
+428,129832,Brandon Mechele,339,Belgium,54,SecondHalf,Pass,Successful,53.1,74.2,64.9,77.3
+429,73084,Kevin De Bruyne,339,Belgium,54,SecondHalf,Pass,Successful,69,78.2,81.9,96.6
+430,388098,Jérémy Doku,339,Belgium,54,SecondHalf,Pass,Successful,89.2,81.7,85.3,70.9
+431,73084,Kevin De Bruyne,339,Belgium,54,SecondHalf,Pass,Successful,85.3,70.9,93.4,67.8
+432,388098,Jérémy Doku,339,Belgium,54,SecondHalf,Pass,Unsuccessful,94.6,67.2,92,58.5
+583,498386,Pau Cubarsí,338,Spain,54,SecondHalf,Clearance,Successful,9.4,42.3,11.6,30.6
+433,392647,Maxim De Cuyper,339,Belgium,54,SecondHalf,MissedShots,Successful,90.8,68.3,,
+585,395242,Álex Baena,338,Spain,54,SecondHalf,SubstitutionOff,Successful,0,0,,
+586,349760,Ferran Torres,338,Spain,54,SecondHalf,SubstitutionOn,Successful,0,0,,
+587,294193,Fabián Ruiz,338,Spain,54,SecondHalf,SubstitutionOff,Successful,0,0,,
+588,402197,Pedri,338,Spain,54,SecondHalf,SubstitutionOn,Successful,0,0,,
+589,122117,Aymeric Laporte,338,Spain,55,SecondHalf,Pass,Successful,5.2,61.2,4.2,48.8
+590,332823,Unai Simón,338,Spain,55,SecondHalf,Pass,Successful,8.2,48.5,41.1,58.2
+591,298839,Mikel Oyarzabal,338,Spain,55,SecondHalf,Pass,Successful,41.1,58.2,37.4,41.4
+592,261212,Dani Olmo,338,Spain,55,SecondHalf,Pass,Successful,37.8,39.7,56.7,7.2
+593,480249,Lamine Yamal,338,Spain,55,SecondHalf,Pass,Successful,65.2,10,73.5,26.8
+594,402197,Pedri,338,Spain,55,SecondHalf,Pass,Unsuccessful,74.8,29.8,81.7,45.8
+435,414495,Nathan Ngoy,339,Belgium,55,SecondHalf,Clearance,Successful,21.2,50.7,62,78.1
+595,498386,Pau Cubarsí,338,Spain,55,SecondHalf,Pass,Successful,42.9,8.5,54.6,7.1
+596,362352,Pedro Porro,338,Spain,55,SecondHalf,Pass,Successful,54.9,8.3,45.5,20.7
+597,498386,Pau Cubarsí,338,Spain,55,SecondHalf,Pass,Successful,46.1,21.5,52.8,33.2
+598,303139,Rodri,338,Spain,55,SecondHalf,Pass,Successful,52.8,33.2,44.8,18.8
+599,498386,Pau Cubarsí,338,Spain,55,SecondHalf,Pass,Successful,43.4,18.2,29.1,39.2
+600,332823,Unai Simón,338,Spain,55,SecondHalf,Pass,Successful,29.3,41.1,36.2,74.9
+601,122117,Aymeric Laporte,338,Spain,55,SecondHalf,Pass,Successful,56.6,77,67.2,82.1
+602,261212,Dani Olmo,338,Spain,55,SecondHalf,Pass,Successful,68.7,93.2,75.9,95.8
+603,363496,Marc Cucurella,338,Spain,55,SecondHalf,Pass,Successful,76.2,95.5,72.7,85.9
+604,261212,Dani Olmo,338,Spain,55,SecondHalf,Pass,Successful,71.1,83.4,65.3,71.8
+605,303139,Rodri,338,Spain,55,SecondHalf,Pass,Successful,65.2,68.6,64,50.5
+606,402197,Pedri,338,Spain,56,SecondHalf,Pass,Successful,67.9,39.1,74.5,17.3
+607,362352,Pedro Porro,338,Spain,56,SecondHalf,Pass,Successful,74.9,16.2,77.8,5.9
+608,480249,Lamine Yamal,338,Spain,56,SecondHalf,Pass,Successful,75.8,18.3,71.8,26.3
+609,402197,Pedri,338,Spain,56,SecondHalf,Pass,Successful,73.1,27.3,85.6,17.3
+610,362352,Pedro Porro,338,Spain,56,SecondHalf,Pass,Unsuccessful,87.3,17,100,65.5
+437,73798,Thibaut Courtois,339,Belgium,56,SecondHalf,Pass,Successful,5.5,50.1,6.1,29.2
+438,414495,Nathan Ngoy,339,Belgium,56,SecondHalf,Pass,Successful,7.1,26.2,41.7,11.1
+439,243567,Hans Vanaken,339,Belgium,56,SecondHalf,Pass,Successful,43.5,12.2,45,23.3
+440,113994,Leandro Trossard,339,Belgium,56,SecondHalf,Dispossessed,Successful,43.8,24.3,,
+612,303139,Rodri,338,Spain,56,SecondHalf,Tackle,Successful,56.2,75.7,,
+613,349760,Ferran Torres,338,Spain,56,SecondHalf,BallRecovery,Successful,60.8,91.7,,
+614,349760,Ferran Torres,338,Spain,56,SecondHalf,Pass,Successful,60.4,89.4,65.3,77.3
+615,402197,Pedri,338,Spain,56,SecondHalf,Dispossessed,Successful,64.8,81,,
+441,73084,Kevin De Bruyne,339,Belgium,56,SecondHalf,Tackle,Successful,35.2,19,,
+617,363496,Marc Cucurella,338,Spain,56,SecondHalf,Pass,Successful,61.1,100,55.2,93.8
+618,303139,Rodri,338,Spain,56,SecondHalf,Pass,Successful,58.5,81.5,49.9,47.4
+619,498386,Pau Cubarsí,338,Spain,57,SecondHalf,Pass,Successful,53.1,43.6,62.9,14.7
+620,362352,Pedro Porro,338,Spain,57,SecondHalf,Pass,Successful,65.8,16.8,63.7,33.3
+621,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,70.9,24.7,78.8,6.9
+622,480249,Lamine Yamal,338,Spain,57,SecondHalf,Pass,Unsuccessful,78.4,14.4,95.3,51.1
+443,73798,Thibaut Courtois,339,Belgium,57,SecondHalf,Punch,Successful,4.7,48.9,20.2,36.7
+444,113994,Leandro Trossard,339,Belgium,57,SecondHalf,Clearance,Successful,20.2,36.6,27.5,43.6
+623,303139,Rodri,338,Spain,57,SecondHalf,Pass,Successful,70.8,87.6,72.8,63.8
+624,261212,Dani Olmo,338,Spain,57,SecondHalf,Pass,Successful,71.5,54.1,69,46.4
+625,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,70.5,54.7,64.8,73.2
+626,122117,Aymeric Laporte,338,Spain,57,SecondHalf,Pass,Successful,64.8,74.4,69.1,84.3
+627,303139,Rodri,338,Spain,57,SecondHalf,Pass,Successful,65.8,85.3,61.8,73.2
+628,122117,Aymeric Laporte,338,Spain,57,SecondHalf,Pass,Successful,61.7,71.2,65.4,69.4
+629,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,64.1,52.1,67.4,30.3
+630,498386,Pau Cubarsí,338,Spain,57,SecondHalf,Pass,Successful,68.5,28.2,76.3,5.6
+631,480249,Lamine Yamal,338,Spain,57,SecondHalf,Pass,Successful,83.8,7.4,72.5,15.3
+632,362352,Pedro Porro,338,Spain,57,SecondHalf,Pass,Successful,72.5,17.4,69,25.4
+633,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,72.1,16.2,74.6,4.7
+634,480249,Lamine Yamal,338,Spain,57,SecondHalf,Pass,Unsuccessful,73.9,7.1,75.6,15.7
+445,388098,Jérémy Doku,339,Belgium,58,SecondHalf,Interception,Successful,24.4,84.3,,
+446,388098,Jérémy Doku,339,Belgium,58,SecondHalf,BallRecovery,Successful,30.5,81.1,,
+447,388098,Jérémy Doku,339,Belgium,58,SecondHalf,Foul,Successful,40.4,66.6,,
+636,480249,Lamine Yamal,338,Spain,58,SecondHalf,Foul,Unsuccessful,59.6,33.4,,
+448,129832,Brandon Mechele,339,Belgium,58,SecondHalf,Pass,Successful,43.5,66.1,69.8,86.8
+449,386390,Charles De Ketelaere,339,Belgium,58,SecondHalf,Pass,Successful,69.8,86.8,68.6,79.3
+450,73084,Kevin De Bruyne,339,Belgium,58,SecondHalf,Pass,Successful,68.6,79.7,69.9,93.2
+451,386390,Charles De Ketelaere,339,Belgium,58,SecondHalf,Pass,Successful,69.9,93.2,76.1,96.5
+452,388098,Jérémy Doku,339,Belgium,58,SecondHalf,Pass,Successful,76.4,95.7,67.6,90.2
+453,392647,Maxim De Cuyper,339,Belgium,58,SecondHalf,Pass,Successful,67.3,89.1,68.9,82.7
+454,399999,Nicolas Raskin,339,Belgium,58,SecondHalf,Pass,Successful,69.6,80.2,74.3,73.6
+455,386390,Charles De Ketelaere,339,Belgium,58,SecondHalf,Pass,Unsuccessful,74.9,72.1,81,63.9
+638,498386,Pau Cubarsí,338,Spain,58,SecondHalf,BallTouch,Successful,24.6,25.1,,
+639,261212,Dani Olmo,338,Spain,58,SecondHalf,Pass,Successful,14.4,36.7,3.5,43.6
+640,332823,Unai Simón,338,Spain,58,SecondHalf,Pass,Unsuccessful,3,43.8,43.1,29.4
+456,129832,Brandon Mechele,339,Belgium,58,SecondHalf,Pass,Unsuccessful,53,76.1,65.9,65.1
+457,243567,Hans Vanaken,339,Belgium,58,SecondHalf,Challenge,Unsuccessful,65.6,52.2,,
+641,261212,Dani Olmo,338,Spain,58,SecondHalf,TakeOn,Successful,34.4,47.8,,
+642,261212,Dani Olmo,338,Spain,59,SecondHalf,BallRecovery,Successful,41.4,65,,
+643,261212,Dani Olmo,338,Spain,59,SecondHalf,Pass,Successful,68.4,83.2,60.7,76.5
+644,122117,Aymeric Laporte,338,Spain,59,SecondHalf,Pass,Successful,74.8,74.4,80.3,66.4
+645,402197,Pedri,338,Spain,59,SecondHalf,Pass,Successful,80.3,66.4,86.3,87.3
+646,363496,Marc Cucurella,338,Spain,59,SecondHalf,Pass,Unsuccessful,86.9,87,91.1,60.5
+458,414495,Nathan Ngoy,339,Belgium,59,SecondHalf,Clearance,Successful,8.5,34.9,38.8,0
+462,243567,Hans Vanaken,339,Belgium,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+463,78498,Romelu Lukaku,339,Belgium,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+460,113994,Leandro Trossard,339,Belgium,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+461,25191,Axel Witsel,339,Belgium,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+464,392647,Maxim De Cuyper,339,Belgium,60,SecondHalf,SubstitutionOff,Successful,0,0,,
+465,483461,Joaquin Seys,339,Belgium,60,SecondHalf,SubstitutionOn,Successful,0,0,,
+466,,,339,Belgium,60,SecondHalf,FormationChange,Successful,0,0,,
+648,363496,Marc Cucurella,338,Spain,60,SecondHalf,Pass,Successful,54.7,100,41,92.4
+649,122117,Aymeric Laporte,338,Spain,60,SecondHalf,Pass,Successful,40,91.1,36,52
+650,498386,Pau Cubarsí,338,Spain,60,SecondHalf,Pass,Successful,36.4,51.5,43.2,74
+651,122117,Aymeric Laporte,338,Spain,60,SecondHalf,Pass,Successful,57.5,75.9,67.1,48.2
+652,298839,Mikel Oyarzabal,338,Spain,60,SecondHalf,Pass,Successful,69.9,45.9,77.8,18.3
+653,480249,Lamine Yamal,338,Spain,60,SecondHalf,SavedShot,Successful,81.1,26.8,,
+467,73798,Thibaut Courtois,339,Belgium,60,SecondHalf,Save,Successful,2.9,50.4,,
+655,363496,Marc Cucurella,338,Spain,60,SecondHalf,Pass,Successful,66.3,100,63.2,90.8
+656,402197,Pedri,338,Spain,60,SecondHalf,Pass,Successful,61.8,92,65.9,97.1
+657,363496,Marc Cucurella,338,Spain,60,SecondHalf,Pass,Successful,65,96.5,59.2,95.2
+658,402197,Pedri,338,Spain,60,SecondHalf,Pass,Successful,58.8,74.9,56,42.3
+659,498386,Pau Cubarsí,338,Spain,60,SecondHalf,Pass,Successful,62.5,38.9,72.8,42.9
+660,261212,Dani Olmo,338,Spain,60,SecondHalf,TakeOn,Unsuccessful,74.8,42.2,,
+469,129832,Brandon Mechele,339,Belgium,60,SecondHalf,Tackle,Unsuccessful,25.2,57.8,,
+661,349760,Ferran Torres,338,Spain,60,SecondHalf,BallTouch,Unsuccessful,76.7,53.2,,
+470,414495,Nathan Ngoy,339,Belgium,60,SecondHalf,Pass,Successful,16.5,51.9,28.9,75.3
+471,388098,Jérémy Doku,339,Belgium,61,SecondHalf,BallRecovery,Successful,29.9,76.6,,
+472,388098,Jérémy Doku,339,Belgium,61,SecondHalf,Pass,Successful,56.8,80.2,88.1,81.8
+473,399999,Nicolas Raskin,339,Belgium,61,SecondHalf,Pass,Unsuccessful,88.3,82,90.9,54.9
+662,122117,Aymeric Laporte,338,Spain,61,SecondHalf,Interception,Successful,9.1,45.1,,
+663,303139,Rodri,338,Spain,61,SecondHalf,BallTouch,Successful,8.9,46.5,,
+664,122117,Aymeric Laporte,338,Spain,61,SecondHalf,Clearance,Successful,8.3,45.1,16.9,44.2
+474,73084,Kevin De Bruyne,339,Belgium,61,SecondHalf,SavedShot,Successful,84.4,56.6,,
+665,332823,Unai Simón,338,Spain,61,SecondHalf,Save,Successful,2.5,50,,
+666,332823,Unai Simón,338,Spain,61,SecondHalf,KeeperPickup,Successful,2.5,50,,
+667,332823,Unai Simón,338,Spain,61,SecondHalf,Pass,Successful,13.8,43.6,32.8,20
+668,362352,Pedro Porro,338,Spain,61,SecondHalf,Pass,Successful,46.5,12.1,46,26.7
+669,303139,Rodri,338,Spain,61,SecondHalf,Pass,Successful,47.4,28.8,48.6,50.6
+670,402197,Pedri,338,Spain,61,SecondHalf,Pass,Successful,54.1,56.7,58.1,76.4
+671,363496,Marc Cucurella,338,Spain,61,SecondHalf,Pass,Successful,58.3,76.8,65,93.7
+672,349760,Ferran Torres,338,Spain,61,SecondHalf,Pass,Successful,63.2,92.3,59.4,73.7
+673,402197,Pedri,338,Spain,61,SecondHalf,Pass,Successful,58.9,69.3,64.3,53
+674,261212,Dani Olmo,338,Spain,61,SecondHalf,Pass,Successful,67.6,40.3,85.8,16.8
+675,480249,Lamine Yamal,338,Spain,61,SecondHalf,Pass,Unsuccessful,89.2,26.7,91.3,32.3
+475,129832,Brandon Mechele,339,Belgium,61,SecondHalf,BallTouch,Successful,6.4,70.9,,
+676,298839,Mikel Oyarzabal,338,Spain,61,SecondHalf,SavedShot,Successful,96,37.2,,
+476,73798,Thibaut Courtois,339,Belgium,61,SecondHalf,Save,Successful,0.6,54.3,,
+477,414495,Nathan Ngoy,339,Belgium,61,SecondHalf,Clearance,Successful,1.4,59.7,0,63.3
+677,298839,Mikel Oyarzabal,338,Spain,61,SecondHalf,CornerAwarded,Successful,98.8,37.2,,
+478,414495,Nathan Ngoy,339,Belgium,61,SecondHalf,CornerAwarded,Unsuccessful,1.2,62.8,,
+678,480249,Lamine Yamal,338,Spain,62,SecondHalf,Pass,Successful,99.5,0.5,90.2,5.7
+679,402197,Pedri,338,Spain,62,SecondHalf,Pass,Successful,89.5,5.9,75,24.7
+680,261212,Dani Olmo,338,Spain,62,SecondHalf,Pass,Successful,73.9,26.3,73.5,48.6
+681,362352,Pedro Porro,338,Spain,62,SecondHalf,Pass,Successful,72.7,50.3,73.5,32.4
+682,261212,Dani Olmo,338,Spain,62,SecondHalf,Pass,Successful,72.1,34.7,74.2,48
+683,362352,Pedro Porro,338,Spain,62,SecondHalf,Pass,Successful,77.7,60.2,90.2,92
+684,349760,Ferran Torres,338,Spain,62,SecondHalf,Pass,Unsuccessful,84.6,67.1,81.9,71.1
+479,483461,Joaquin Seys,339,Belgium,62,SecondHalf,Clearance,Successful,13.5,27.3,14.5,27
+685,402197,Pedri,338,Spain,62,SecondHalf,BallTouch,Successful,82,72,,
+686,303139,Rodri,338,Spain,62,SecondHalf,Pass,Successful,95.7,81.2,88.1,93.2
+687,402197,Pedri,338,Spain,62,SecondHalf,Pass,Successful,73.6,89.9,61.8,62.1
+688,362352,Pedro Porro,338,Spain,62,SecondHalf,Pass,Successful,61.2,57.1,67.2,25.9
+689,261212,Dani Olmo,338,Spain,62,SecondHalf,Pass,Successful,69,24.5,80.6,5.3
+690,480249,Lamine Yamal,338,Spain,62,SecondHalf,Pass,Successful,86.1,15.3,82,29.1
+691,349760,Ferran Torres,338,Spain,62,SecondHalf,Pass,Successful,82,29.1,87.3,30.1
+692,480249,Lamine Yamal,338,Spain,62,SecondHalf,TakeOn,Unsuccessful,89.1,32.9,,
+480,399999,Nicolas Raskin,339,Belgium,62,SecondHalf,Tackle,Successful,10.9,67.1,,
+481,399999,Nicolas Raskin,339,Belgium,62,SecondHalf,BallRecovery,Successful,23.7,61.2,,
+482,399999,Nicolas Raskin,339,Belgium,63,SecondHalf,Pass,Unsuccessful,26.7,61.4,33.4,66.3
+693,303139,Rodri,338,Spain,63,SecondHalf,BallTouch,Successful,67.4,40.6,,
+694,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,68.3,44.1,62.4,27.9
+695,261212,Dani Olmo,338,Spain,63,SecondHalf,BallRecovery,Successful,61.6,25,,
+696,261212,Dani Olmo,338,Spain,63,SecondHalf,Foul,Successful,65,20.8,,
+483,399999,Nicolas Raskin,339,Belgium,63,SecondHalf,Foul,Unsuccessful,35,79.2,,
+697,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,63,25,65,25
+698,261212,Dani Olmo,338,Spain,63,SecondHalf,Pass,Successful,64.1,25.1,59.6,29.2
+699,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,60.4,32.1,55.6,59.9
+700,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,57.9,65.3,71.1,92
+701,363496,Marc Cucurella,338,Spain,63,SecondHalf,Pass,Successful,68.8,93.1,54.4,76.8
+702,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,54.6,76.1,58.8,69.1
+703,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,58.8,69.1,44,47.6
+704,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,54.2,29.7,69.8,24.1
+705,261212,Dani Olmo,338,Spain,63,SecondHalf,Pass,Successful,73.9,24.1,85.8,16.2
+706,480249,Lamine Yamal,338,Spain,63,SecondHalf,BallTouch,Unsuccessful,93.9,29.7,,
+484,483461,Joaquin Seys,339,Belgium,63,SecondHalf,ShieldBallOpp,Successful,1.5,74.4,,
+486,73798,Thibaut Courtois,339,Belgium,64,SecondHalf,Pass,Successful,5,52.5,58.4,74.2
+487,73084,Kevin De Bruyne,339,Belgium,64,SecondHalf,Aerial,Successful,58.4,74.2,,
+708,303139,Rodri,338,Spain,64,SecondHalf,Aerial,Unsuccessful,41.6,25.8,,
+488,73084,Kevin De Bruyne,339,Belgium,64,SecondHalf,Pass,Unsuccessful,58.4,74.2,74.9,71.2
+709,362352,Pedro Porro,338,Spain,64,SecondHalf,BallRecovery,Successful,24.3,27.1,,
+710,362352,Pedro Porro,338,Spain,64,SecondHalf,Pass,Successful,24.3,27.1,9.4,40.8
+711,332823,Unai Simón,338,Spain,64,SecondHalf,Pass,Successful,9.5,41.1,14.5,50.6
+712,122117,Aymeric Laporte,338,Spain,64,SecondHalf,Pass,Successful,14.7,50.6,23.1,26.7
+713,498386,Pau Cubarsí,338,Spain,64,SecondHalf,Pass,Successful,34,22.7,40.3,17.1
+714,261212,Dani Olmo,338,Spain,64,SecondHalf,Pass,Successful,42,20,61.5,89.6
+715,363496,Marc Cucurella,338,Spain,64,SecondHalf,Pass,Successful,64.5,93.2,61.5,75
+716,402197,Pedri,338,Spain,64,SecondHalf,Pass,Successful,61,67.4,71.4,72.6
+717,298839,Mikel Oyarzabal,338,Spain,64,SecondHalf,Pass,Successful,72.6,78.2,82.5,90.3
+718,363496,Marc Cucurella,338,Spain,64,SecondHalf,Pass,Successful,83.1,90.9,72.6,72.6
+719,402197,Pedri,338,Spain,64,SecondHalf,Pass,Successful,71.1,69.3,74.6,47.4
+720,261212,Dani Olmo,338,Spain,64,SecondHalf,Pass,Successful,74.9,46.7,80.3,47.6
+721,349760,Ferran Torres,338,Spain,64,SecondHalf,Dispossessed,Successful,78.6,37.4,,
+489,414495,Nathan Ngoy,339,Belgium,64,SecondHalf,Tackle,Unsuccessful,21.4,62.6,,
+722,349760,Ferran Torres,338,Spain,64,SecondHalf,Pass,Successful,81.7,27.4,91.8,27.3
+723,480249,Lamine Yamal,338,Spain,64,SecondHalf,TakeOn,Unsuccessful,92.4,27,,
+490,414495,Nathan Ngoy,339,Belgium,64,SecondHalf,Tackle,Successful,7.6,73,,
+491,483461,Joaquin Seys,339,Belgium,64,SecondHalf,BallRecovery,Successful,7.9,75.3,,
+492,483461,Joaquin Seys,339,Belgium,64,SecondHalf,Pass,Successful,7.9,75.3,14.5,90
+493,388098,Jérémy Doku,339,Belgium,65,SecondHalf,Foul,Successful,16,87.1,,
+724,362352,Pedro Porro,338,Spain,65,SecondHalf,Foul,Unsuccessful,84,12.9,,
+498,129832,Brandon Mechele,339,Belgium,69,SecondHalf,Pass,Successful,21.9,71.7,75.7,65.8
+499,78498,Romelu Lukaku,339,Belgium,69,SecondHalf,Aerial,Successful,75.7,65.8,,
+729,498386,Pau Cubarsí,338,Spain,69,SecondHalf,Aerial,Unsuccessful,24.3,34.2,,
+500,78498,Romelu Lukaku,339,Belgium,69,SecondHalf,Pass,Unsuccessful,75.7,65.8,90.7,87.4
+730,362352,Pedro Porro,338,Spain,69,SecondHalf,Foul,Successful,9,12.8,,
+501,388098,Jérémy Doku,339,Belgium,69,SecondHalf,Foul,Unsuccessful,91,87.2,,
+732,303139,Rodri,338,Spain,69,SecondHalf,Pass,Successful,10.8,18,8.6,29.7
+733,498386,Pau Cubarsí,338,Spain,69,SecondHalf,Pass,Successful,20.5,47.7,23.6,67.3
+734,122117,Aymeric Laporte,338,Spain,69,SecondHalf,Pass,Successful,24.8,68.6,25.1,42.6
+735,498386,Pau Cubarsí,338,Spain,69,SecondHalf,Pass,Successful,28,40.3,32.8,28.2
+736,303139,Rodri,338,Spain,69,SecondHalf,Pass,Successful,33.7,27.1,32.9,44.7
+737,498386,Pau Cubarsí,338,Spain,69,SecondHalf,Pass,Successful,33.8,50.6,38.6,73.3
+738,122117,Aymeric Laporte,338,Spain,69,SecondHalf,Pass,Successful,48.9,81.1,58.6,72.4
+739,349760,Ferran Torres,338,Spain,69,SecondHalf,Pass,Successful,57.2,69,48.9,40.6
+740,303139,Rodri,338,Spain,69,SecondHalf,Pass,Successful,48.9,40.3,61.9,9.5
+741,362352,Pedro Porro,338,Spain,69,SecondHalf,Pass,Successful,67.8,17.1,93,93.5
+11746,363496,Marc Cucurella,338,Spain,70,SecondHalf,OffsideGiven,Unsuccessful,95,67.7,,
+742,363496,Marc Cucurella,338,Spain,70,SecondHalf,Pass,Successful,90.6,92.9,87,79.7
+743,298839,Mikel Oyarzabal,338,Spain,70,SecondHalf,Pass,Successful,87,79.7,88.5,92.9
+744,363496,Marc Cucurella,338,Spain,70,SecondHalf,Pass,Successful,87.7,93.4,77.1,72
+745,402197,Pedri,338,Spain,70,SecondHalf,Pass,Successful,76.3,70.8,73,58.9
+746,303139,Rodri,338,Spain,70,SecondHalf,OffsidePass,Successful,74.2,59.4,95,67.7
+503,483461,Joaquin Seys,339,Belgium,70,SecondHalf,OffsideProvoked,Successful,10.8,56.4,,
+504,73798,Thibaut Courtois,339,Belgium,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+505,402184,Senne Lammens,339,Belgium,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+506,402184,Senne Lammens,339,Belgium,71,SecondHalf,Pass,Unsuccessful,5.4,50.7,65.5,51.8
+747,303139,Rodri,338,Spain,71,SecondHalf,BallTouch,Unsuccessful,30.6,48.3,,
+507,73084,Kevin De Bruyne,339,Belgium,71,SecondHalf,BallTouch,Unsuccessful,62.6,58.5,,
+748,303139,Rodri,338,Spain,71,SecondHalf,Pass,Unsuccessful,35.2,46.1,47.3,49.1
+508,399999,Nicolas Raskin,339,Belgium,71,SecondHalf,Pass,Unsuccessful,55.7,49.4,60,53.4
+769,303139,Rodri,338,Spain,71,SecondHalf,Pass,Successful,35.7,50,46.6,52.1
+749,349760,Ferran Torres,338,Spain,71,SecondHalf,Pass,Unsuccessful,45.7,54.5,44.4,44.2
+509,25191,Axel Witsel,339,Belgium,71,SecondHalf,Pass,Successful,53.7,58.2,36.3,71.2
+510,129832,Brandon Mechele,339,Belgium,71,SecondHalf,Pass,Successful,31,65.5,30.5,33.3
+511,414495,Nathan Ngoy,339,Belgium,71,SecondHalf,Pass,Unsuccessful,30.5,26.1,34.3,24.9
+750,298839,Mikel Oyarzabal,338,Spain,71,SecondHalf,BallTouch,Successful,65.1,74.7,,
+751,122117,Aymeric Laporte,338,Spain,71,SecondHalf,Pass,Successful,27.9,80.3,34.1,76.5
+752,363496,Marc Cucurella,338,Spain,71,SecondHalf,Pass,Successful,34.1,76.5,38,72.7
+753,402197,Pedri,338,Spain,71,SecondHalf,BallRecovery,Successful,38.2,71.4,,
+754,402197,Pedri,338,Spain,71,SecondHalf,Pass,Unsuccessful,42.9,69.4,68.1,64.1
+512,414495,Nathan Ngoy,339,Belgium,71,SecondHalf,BallRecovery,Successful,37.7,33.9,,
+513,414495,Nathan Ngoy,339,Belgium,71,SecondHalf,Pass,Successful,37,34.2,14.1,46.4
+514,402184,Senne Lammens,339,Belgium,71,SecondHalf,Pass,Unsuccessful,13.3,54.2,60.2,62.6
+755,498386,Pau Cubarsí,338,Spain,71,SecondHalf,Pass,Successful,39.3,40.9,44.9,36.8
+756,303139,Rodri,338,Spain,71,SecondHalf,BallRecovery,Successful,42.5,35.4,,
+757,303139,Rodri,338,Spain,71,SecondHalf,Pass,Successful,42.4,35.4,16.1,47.1
+758,332823,Unai Simón,338,Spain,71,SecondHalf,Pass,Successful,16.5,47.1,28.8,63
+759,122117,Aymeric Laporte,338,Spain,71,SecondHalf,Pass,Successful,28.2,63,29.3,43.3
+760,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,34.3,47.7,36.2,28.8
+761,498386,Pau Cubarsí,338,Spain,72,SecondHalf,Pass,Successful,46,13.9,63.4,7.1
+762,261212,Dani Olmo,338,Spain,72,SecondHalf,Pass,Successful,65.3,7.1,69.4,3.9
+763,480249,Lamine Yamal,338,Spain,72,SecondHalf,Pass,Successful,67.2,3.8,55.8,5.3
+764,362352,Pedro Porro,338,Spain,72,SecondHalf,Pass,Successful,55.7,12.1,51.9,25.1
+765,498386,Pau Cubarsí,338,Spain,72,SecondHalf,Pass,Successful,57,28.5,73.8,33.5
+766,349760,Ferran Torres,338,Spain,72,SecondHalf,Pass,Successful,77.8,30.3,84,12.3
+767,480249,Lamine Yamal,338,Spain,72,SecondHalf,Pass,Unsuccessful,94.8,23.9,100,45.9
+517,402184,Senne Lammens,339,Belgium,72,SecondHalf,Pass,Successful,4.5,50.1,62.6,71.2
+518,78498,Romelu Lukaku,339,Belgium,72,SecondHalf,Pass,Unsuccessful,64.1,74.4,72.7,78.5
+770,362352,Pedro Porro,338,Spain,73,SecondHalf,BallRecovery,Successful,24.6,22.9,,
+771,362352,Pedro Porro,338,Spain,73,SecondHalf,Pass,Successful,25.9,26.7,28.5,58.5
+772,363496,Marc Cucurella,338,Spain,73,SecondHalf,Pass,Successful,45.8,74,48.3,64.9
+773,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,49,66.4,53.4,89.1
+774,363496,Marc Cucurella,338,Spain,73,SecondHalf,Pass,Successful,58,92.6,46.1,78.8
+775,122117,Aymeric Laporte,338,Spain,73,SecondHalf,Pass,Successful,52.6,81.2,53.2,66.7
+776,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,54.6,57.9,71.6,33.2
+777,261212,Dani Olmo,338,Spain,73,SecondHalf,Pass,Successful,73.6,33.6,80,42.6
+778,298839,Mikel Oyarzabal,338,Spain,73,SecondHalf,BallTouch,Unsuccessful,80,42.6,,
+520,129832,Brandon Mechele,339,Belgium,73,SecondHalf,Clearance,Successful,20.2,55.4,37.5,46
+779,363496,Marc Cucurella,338,Spain,73,SecondHalf,Pass,Successful,56.6,50.9,52.6,41.1
+780,498386,Pau Cubarsí,338,Spain,73,SecondHalf,Pass,Successful,53.1,39.8,66,16.5
+781,362352,Pedro Porro,338,Spain,73,SecondHalf,Pass,Successful,69,14.4,79,3.2
+782,480249,Lamine Yamal,338,Spain,73,SecondHalf,Pass,Successful,77.6,6.5,76.9,16.6
+783,362352,Pedro Porro,338,Spain,73,SecondHalf,Pass,Successful,78.1,18.5,86.6,40.4
+784,298839,Mikel Oyarzabal,338,Spain,73,SecondHalf,Pass,Unsuccessful,86.6,40.4,90.8,40.1
+521,129832,Brandon Mechele,339,Belgium,73,SecondHalf,Clearance,Successful,9.1,58.7,13,100
+786,480249,Lamine Yamal,338,Spain,73,SecondHalf,Pass,Successful,89.3,0,73.3,7.2
+787,362352,Pedro Porro,338,Spain,73,SecondHalf,Pass,Successful,71.5,8.2,69.5,19.4
+788,402197,Pedri,338,Spain,73,SecondHalf,Pass,Successful,74.5,23.8,80.5,45.5
+789,261212,Dani Olmo,338,Spain,73,SecondHalf,Pass,Successful,84.4,32.6,85.8,26
+790,480249,Lamine Yamal,338,Spain,73,SecondHalf,SavedShot,Successful,86.1,26.4,,
+523,483461,Joaquin Seys,339,Belgium,73,SecondHalf,Save,Successful,11.4,68.3,,
+524,399999,Nicolas Raskin,339,Belgium,74,SecondHalf,Clearance,Successful,7.6,64.8,46.2,78.1
+791,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,55,31.4,59.7,15.7
+792,362352,Pedro Porro,338,Spain,74,SecondHalf,Pass,Successful,58.9,20.4,57.6,38.9
+793,303139,Rodri,338,Spain,74,SecondHalf,Pass,Successful,66.7,46.7,72.6,45.5
+794,349760,Ferran Torres,338,Spain,74,SecondHalf,Pass,Unsuccessful,72.6,45.5,82.2,38.2
+525,483461,Joaquin Seys,339,Belgium,74,SecondHalf,BallRecovery,Successful,19,63.6,,
+526,483461,Joaquin Seys,339,Belgium,74,SecondHalf,Pass,Successful,19,63.6,26.3,62.7
+527,399999,Nicolas Raskin,339,Belgium,74,SecondHalf,Pass,Successful,26.3,62.7,14.8,52.5
+528,129832,Brandon Mechele,339,Belgium,74,SecondHalf,Pass,Successful,10.7,51.2,18.7,4.7
+529,141169,Timothy Castagne,339,Belgium,74,SecondHalf,Pass,Unsuccessful,19.4,4.1,65.5,36
+795,498386,Pau Cubarsí,338,Spain,74,SecondHalf,BallRecovery,Successful,35.1,60.2,,
+796,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,37.8,56.5,45.6,54.1
+797,303139,Rodri,338,Spain,74,SecondHalf,Pass,Successful,55.4,43.3,67,17.9
+798,362352,Pedro Porro,338,Spain,74,SecondHalf,Pass,Successful,67,18.8,68.9,25.6
+799,480249,Lamine Yamal,338,Spain,74,SecondHalf,Pass,Successful,71.3,27.9,80.4,39.2
+800,298839,Mikel Oyarzabal,338,Spain,74,SecondHalf,Pass,Successful,93,25.4,86.7,25.4
+801,480249,Lamine Yamal,338,Spain,74,SecondHalf,Pass,Successful,83.3,14.4,73.5,17.9
+802,362352,Pedro Porro,338,Spain,74,SecondHalf,Pass,Successful,74.4,13.5,78.5,8.6
+803,480249,Lamine Yamal,338,Spain,74,SecondHalf,Pass,Successful,80.2,10.9,91.1,42
+804,261212,Dani Olmo,338,Spain,74,SecondHalf,Aerial,Successful,91.1,42,,
+530,414495,Nathan Ngoy,339,Belgium,74,SecondHalf,Aerial,Unsuccessful,8.9,58,,
+805,261212,Dani Olmo,338,Spain,74,SecondHalf,BallTouch,Unsuccessful,91.2,42.4,,
+531,25191,Axel Witsel,339,Belgium,74,SecondHalf,Clearance,Successful,15,54,48.5,45.2
+806,498386,Pau Cubarsí,338,Spain,75,SecondHalf,Pass,Successful,52.1,53.5,68,66.4
+807,363496,Marc Cucurella,338,Spain,75,SecondHalf,Pass,Successful,69.1,67.9,61.4,95.8
+808,402197,Pedri,338,Spain,75,SecondHalf,BallTouch,Unsuccessful,61,97,,
+533,141169,Timothy Castagne,339,Belgium,75,SecondHalf,Pass,Successful,40.9,0,64.4,7.9
+534,78498,Romelu Lukaku,339,Belgium,75,SecondHalf,Pass,Unsuccessful,64.4,7.9,59.9,10.7
+810,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,42.4,81.8,38,85.5
+811,402197,Pedri,338,Spain,75,SecondHalf,BallRecovery,Successful,42.2,85.9,,
+812,402197,Pedri,338,Spain,75,SecondHalf,Pass,Successful,45.9,85.9,56.8,87.1
+813,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,56.9,87,54.8,76.8
+814,402197,Pedri,338,Spain,75,SecondHalf,Foul,Successful,55.4,80.8,,
+535,25191,Axel Witsel,339,Belgium,75,SecondHalf,Foul,Unsuccessful,44.6,19.2,,
+815,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,55.2,83.4,55.3,60.6
+816,402197,Pedri,338,Spain,75,SecondHalf,Pass,Successful,56.6,59.7,79.8,17.9
+817,480249,Lamine Yamal,338,Spain,76,SecondHalf,Pass,Successful,85.7,26.2,91.2,23.3
+818,362352,Pedro Porro,338,Spain,76,SecondHalf,Pass,Unsuccessful,94.5,26.8,92.2,40.4
+536,399999,Nicolas Raskin,339,Belgium,76,SecondHalf,BallRecovery,Successful,9.8,65.5,,
+537,399999,Nicolas Raskin,339,Belgium,76,SecondHalf,Pass,Successful,9.9,65.5,22.2,81.8
+819,402197,Pedri,338,Spain,76,SecondHalf,Challenge,Unsuccessful,59.1,5.2,,
+538,388098,Jérémy Doku,339,Belgium,76,SecondHalf,TakeOn,Successful,40.9,94.8,,
+539,388098,Jérémy Doku,339,Belgium,76,SecondHalf,Pass,Successful,52.3,85.6,65.5,93.3
+540,399999,Nicolas Raskin,339,Belgium,76,SecondHalf,Foul,Successful,63.6,91.3,,
+821,362352,Pedro Porro,338,Spain,76,SecondHalf,Foul,Unsuccessful,36.4,8.7,,
+541,399999,Nicolas Raskin,339,Belgium,76,SecondHalf,Pass,Successful,63.3,93.2,57.9,92.9
+542,483461,Joaquin Seys,339,Belgium,76,SecondHalf,Pass,Successful,57.9,92.9,43.5,77.5
+543,129832,Brandon Mechele,339,Belgium,76,SecondHalf,Pass,Successful,41.4,64.2,43.3,33.4
+544,414495,Nathan Ngoy,339,Belgium,76,SecondHalf,Pass,Successful,57.1,28,53,8.5
+545,141169,Timothy Castagne,339,Belgium,76,SecondHalf,Pass,Successful,50.4,5.6,33,31
+546,25191,Axel Witsel,339,Belgium,76,SecondHalf,Pass,Successful,29.1,38.6,13.1,52.7
+547,402184,Senne Lammens,339,Belgium,77,SecondHalf,Pass,Successful,14.5,52.4,39.4,93.2
+548,388098,Jérémy Doku,339,Belgium,77,SecondHalf,BallTouch,Unsuccessful,39.5,92,,
+822,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,63,26.5,59.6,13.2
+823,362352,Pedro Porro,338,Spain,77,SecondHalf,BallRecovery,Successful,60.6,13.2,,
+824,362352,Pedro Porro,338,Spain,77,SecondHalf,Pass,Successful,61.1,19.4,63.6,43.9
+825,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,69,37.9,76.1,7.9
+826,480249,Lamine Yamal,338,Spain,77,SecondHalf,Pass,Unsuccessful,77.9,9.5,90.6,38.6
+549,129832,Brandon Mechele,339,Belgium,77,SecondHalf,Clearance,Successful,12.4,68.5,20,87.8
+550,483461,Joaquin Seys,339,Belgium,77,SecondHalf,Pass,Unsuccessful,20.1,87.8,26.2,70.2
+827,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,73.3,41.2,88.5,85.3
+828,363496,Marc Cucurella,338,Spain,77,SecondHalf,Pass,Successful,88.1,85,74,71.8
+829,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,72.9,71.1,72.5,59.9
+830,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,72.5,59.1,72.5,31.7
+831,362352,Pedro Porro,338,Spain,77,SecondHalf,Pass,Successful,75.6,27.9,80.7,9.1
+832,480249,Lamine Yamal,338,Spain,77,SecondHalf,Pass,Successful,78.7,11,76.1,27.6
+833,362352,Pedro Porro,338,Spain,77,SecondHalf,Pass,Successful,75.3,28.6,72.9,46.7
+834,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,72.7,49.5,75.3,68.3
+835,402197,Pedri,338,Spain,77,SecondHalf,Pass,Successful,74.6,63,82.7,13.6
+836,480249,Lamine Yamal,338,Spain,77,SecondHalf,Pass,Successful,83.1,15.1,76.1,25
+837,362352,Pedro Porro,338,Spain,77,SecondHalf,Pass,Successful,76.7,24.4,83.2,10.9
+838,480249,Lamine Yamal,338,Spain,77,SecondHalf,TakeOn,Unsuccessful,81.4,14.7,,
+551,483461,Joaquin Seys,339,Belgium,77,SecondHalf,Tackle,Successful,18.6,85.3,,
+552,483461,Joaquin Seys,339,Belgium,77,SecondHalf,Pass,Unsuccessful,17.7,81.6,19.2,79.7
+839,480249,Lamine Yamal,338,Spain,77,SecondHalf,BlockedPass,Successful,80.8,20.3,,
+840,498386,Pau Cubarsí,338,Spain,77,SecondHalf,Pass,Successful,53.7,25.3,62.6,15.1
+841,303139,Rodri,338,Spain,78,SecondHalf,Pass,Successful,62,14.1,44,10.9
+842,498386,Pau Cubarsí,338,Spain,78,SecondHalf,Pass,Successful,44,10.9,54.7,8.5
+843,303139,Rodri,338,Spain,78,SecondHalf,Pass,Successful,54,7.9,60.6,5.4
+844,362352,Pedro Porro,338,Spain,78,SecondHalf,Pass,Successful,56.5,7.2,54,24.1
+845,303139,Rodri,338,Spain,78,SecondHalf,Pass,Successful,55,29.4,64.4,61.5
+846,261212,Dani Olmo,338,Spain,78,SecondHalf,Pass,Successful,67.5,64.7,73.1,57.1
+847,349760,Ferran Torres,338,Spain,78,SecondHalf,Pass,Successful,74.1,56.2,78,52.6
+848,298839,Mikel Oyarzabal,338,Spain,78,SecondHalf,Pass,Successful,77.5,50.6,82.4,27.7
+849,480249,Lamine Yamal,338,Spain,78,SecondHalf,Pass,Successful,82.4,27.7,86.6,41.1
+850,349760,Ferran Torres,338,Spain,78,SecondHalf,Pass,Unsuccessful,86.6,41.1,90.8,37.1
+553,414495,Nathan Ngoy,339,Belgium,78,SecondHalf,Interception,Successful,9.2,62.9,,
+554,388098,Jérémy Doku,339,Belgium,78,SecondHalf,BallRecovery,Successful,19.1,94.8,,
+555,388098,Jérémy Doku,339,Belgium,78,SecondHalf,Foul,Successful,30.3,95.1,,
+851,362352,Pedro Porro,338,Spain,78,SecondHalf,Foul,Unsuccessful,69.6,5,,
+852,298839,Mikel Oyarzabal,338,Spain,78,SecondHalf,SubstitutionOff,Successful,0,0,,
+853,408449,Nico Williams,338,Spain,78,SecondHalf,SubstitutionOn,Successful,0,0,,
+854,,,338,Spain,78,SecondHalf,FormationChange,Successful,0,0,,
+556,483461,Joaquin Seys,339,Belgium,79,SecondHalf,Pass,Successful,40.9,92.7,35.3,75.3
+557,25191,Axel Witsel,339,Belgium,79,SecondHalf,Pass,Successful,32.3,72,28,30
+558,414495,Nathan Ngoy,339,Belgium,79,SecondHalf,Pass,Successful,26.4,23,30.1,6.8
+559,141169,Timothy Castagne,339,Belgium,79,SecondHalf,Pass,Unsuccessful,30.2,5.5,37.7,2
+855,408449,Nico Williams,338,Spain,79,SecondHalf,BallTouch,Successful,66.3,94,,
+856,363496,Marc Cucurella,338,Spain,79,SecondHalf,BallRecovery,Successful,41.1,92.9,,
+857,363496,Marc Cucurella,338,Spain,79,SecondHalf,Pass,Successful,40.6,92.4,41.2,70.5
+858,303139,Rodri,338,Spain,79,SecondHalf,Pass,Successful,53.9,64.9,66.3,30.4
+859,480249,Lamine Yamal,338,Spain,79,SecondHalf,Pass,Successful,66.5,30.3,56.5,30.3
+860,362352,Pedro Porro,338,Spain,79,SecondHalf,Pass,Successful,71.2,23.5,80.4,7.6
+861,480249,Lamine Yamal,338,Spain,79,SecondHalf,Pass,Successful,79,6.8,73.8,20
+862,362352,Pedro Porro,338,Spain,79,SecondHalf,Pass,Successful,73.9,20,70,35.6
+863,303139,Rodri,338,Spain,79,SecondHalf,Pass,Successful,69.2,38.8,72.1,59.1
+864,402197,Pedri,338,Spain,79,SecondHalf,Pass,Successful,72.9,65.2,85.3,90.5
+865,408449,Nico Williams,338,Spain,79,SecondHalf,Pass,Unsuccessful,95.8,80.6,100,37.6
+561,402184,Senne Lammens,339,Belgium,80,SecondHalf,Pass,Unsuccessful,4.6,52.5,63.6,27.9
+867,122117,Aymeric Laporte,338,Spain,80,SecondHalf,Pass,Unsuccessful,36.1,73,47.1,56.5
+562,73084,Kevin De Bruyne,339,Belgium,80,SecondHalf,Pass,Successful,53,37.9,47.4,15.2
+563,141169,Timothy Castagne,339,Belgium,80,SecondHalf,Pass,Successful,48.5,12.6,53.8,31.2
+564,73084,Kevin De Bruyne,339,Belgium,80,SecondHalf,Pass,Unsuccessful,53.8,31.2,92.1,24.1
+868,332823,Unai Simón,338,Spain,80,SecondHalf,KeeperPickup,Successful,7.9,75.8,,
+869,332823,Unai Simón,338,Spain,80,SecondHalf,Pass,Successful,9.3,73.5,25.3,39.1
+870,498386,Pau Cubarsí,338,Spain,80,SecondHalf,Pass,Successful,25.7,41.1,30.3,70.6
+871,122117,Aymeric Laporte,338,Spain,80,SecondHalf,BallTouch,Successful,31,71.8,,
+566,386390,Charles De Ketelaere,339,Belgium,81,SecondHalf,Pass,Unsuccessful,62.2,0,79.7,9.5
+873,122117,Aymeric Laporte,338,Spain,81,SecondHalf,BallRecovery,Successful,21.2,88.4,,
+874,122117,Aymeric Laporte,338,Spain,81,SecondHalf,Pass,Successful,21.3,84,26.8,49.4
+875,498386,Pau Cubarsí,338,Spain,81,SecondHalf,Pass,Successful,39.9,41.4,44.6,66.8
+876,303139,Rodri,338,Spain,81,SecondHalf,Pass,Successful,62.5,77,80.9,97.8
+877,363496,Marc Cucurella,338,Spain,81,SecondHalf,Pass,Successful,86.9,93.4,79.6,89.3
+878,402197,Pedri,338,Spain,81,SecondHalf,Pass,Successful,87.5,94.3,85.3,86.8
+879,408449,Nico Williams,338,Spain,81,SecondHalf,Pass,Successful,86.2,87.1,91.1,91.7
+880,402197,Pedri,338,Spain,81,SecondHalf,Pass,Successful,90.8,91.7,92.9,85.9
+881,408449,Nico Williams,338,Spain,81,SecondHalf,Pass,Successful,89.1,85,76.6,69.4
+882,303139,Rodri,338,Spain,81,SecondHalf,Pass,Successful,76.4,67.4,84.9,17.3
+883,480249,Lamine Yamal,338,Spain,81,SecondHalf,Pass,Unsuccessful,85.1,18.9,86.9,27
+570,483461,Joaquin Seys,339,Belgium,81,SecondHalf,BallTouch,Successful,15.3,75.3,,
+571,25191,Axel Witsel,339,Belgium,81,SecondHalf,Pass,Successful,14.7,50.1,15,59.6
+572,73084,Kevin De Bruyne,339,Belgium,81,SecondHalf,BallRecovery,Successful,15,59.6,,
+573,73084,Kevin De Bruyne,339,Belgium,81,SecondHalf,Pass,Successful,15,59.6,27.4,90.8
+574,388098,Jérémy Doku,339,Belgium,81,SecondHalf,Pass,Unsuccessful,34.9,94.1,44.9,93.6
+884,498386,Pau Cubarsí,338,Spain,81,SecondHalf,Foul,Successful,54.4,7.1,,
+575,399999,Nicolas Raskin,339,Belgium,81,SecondHalf,Foul,Unsuccessful,45.6,93,,
+885,362352,Pedro Porro,338,Spain,81,SecondHalf,Pass,Successful,55.4,6.2,56.9,18
+886,303139,Rodri,338,Spain,81,SecondHalf,Pass,Successful,67.7,25,74.2,21.7
+887,261212,Dani Olmo,338,Spain,81,SecondHalf,Pass,Successful,75.6,21.7,83.8,8.6
+888,480249,Lamine Yamal,338,Spain,81,SecondHalf,Pass,Successful,82.5,8.8,68.5,17.7
+889,362352,Pedro Porro,338,Spain,81,SecondHalf,Pass,Successful,68.6,19.4,69.5,28
+890,303139,Rodri,338,Spain,82,SecondHalf,Pass,Successful,72.4,32.7,87.1,87
+891,408449,Nico Williams,338,Spain,82,SecondHalf,Pass,Successful,80.1,86.5,75.1,71.1
+892,402197,Pedri,338,Spain,82,SecondHalf,Pass,Unsuccessful,76.7,71.1,100,69
+577,402184,Senne Lammens,339,Belgium,82,SecondHalf,Pass,Unsuccessful,4.5,50,79.1,38.5
+894,332823,Unai Simón,338,Spain,82,SecondHalf,BallRecovery,Successful,17.6,58.3,,
+895,332823,Unai Simón,338,Spain,82,SecondHalf,Pass,Successful,18,58.3,26.2,44.8
+896,498386,Pau Cubarsí,338,Spain,82,SecondHalf,Pass,Successful,27.6,41.2,39.4,34.1
+897,303139,Rodri,338,Spain,82,SecondHalf,Pass,Successful,44.7,29.4,59.6,1.3
+898,480249,Lamine Yamal,338,Spain,82,SecondHalf,Pass,Successful,60.3,3.9,54.9,29.7
+899,303139,Rodri,338,Spain,83,SecondHalf,Pass,Successful,60.4,28.3,90.4,31.7
+900,480249,Lamine Yamal,338,Spain,83,SecondHalf,BallTouch,Unsuccessful,91.5,31.7,,
+578,402184,Senne Lammens,339,Belgium,83,SecondHalf,KeeperPickup,Successful,4.7,61.1,,
+580,402184,Senne Lammens,339,Belgium,83,SecondHalf,Pass,Successful,3.8,47.6,25.7,62.1
+581,399999,Nicolas Raskin,339,Belgium,83,SecondHalf,Pass,Unsuccessful,27.8,72.4,68.6,49
+901,332823,Unai Simón,338,Spain,83,SecondHalf,KeeperSweeper,Successful,25.2,51.2,,
+902,332823,Unai Simón,338,Spain,83,SecondHalf,Clearance,Successful,25.3,51.2,39.9,26.3
+582,73084,Kevin De Bruyne,339,Belgium,83,SecondHalf,SavedShot,Successful,60,68.5,,
+903,303139,Rodri,338,Spain,83,SecondHalf,Save,Successful,34.6,33.9,,
+584,483461,Joaquin Seys,339,Belgium,83,SecondHalf,Pass,Successful,59,100,40.6,93.9
+585,129832,Brandon Mechele,339,Belgium,83,SecondHalf,Pass,Successful,36,78.2,24.4,37.9
+586,414495,Nathan Ngoy,339,Belgium,83,SecondHalf,Pass,Successful,24,35.7,13.9,51.5
+587,402184,Senne Lammens,339,Belgium,83,SecondHalf,Pass,Successful,13.9,51.5,22.1,85.9
+588,129832,Brandon Mechele,339,Belgium,83,SecondHalf,Pass,Successful,27.2,91.5,22.5,76.9
+589,399999,Nicolas Raskin,339,Belgium,83,SecondHalf,Pass,Successful,22.1,63.9,19.4,32.1
+590,414495,Nathan Ngoy,339,Belgium,84,SecondHalf,Pass,Successful,19.3,27.9,7.5,52.2
+591,402184,Senne Lammens,339,Belgium,84,SecondHalf,Pass,Successful,7.8,61.8,9.2,79.9
+592,129832,Brandon Mechele,339,Belgium,84,SecondHalf,Pass,Successful,9.2,79.9,22.5,75.4
+593,73084,Kevin De Bruyne,339,Belgium,84,SecondHalf,Pass,Successful,22.5,75.1,7.4,54
+594,402184,Senne Lammens,339,Belgium,84,SecondHalf,Pass,Successful,7.4,54,10.1,27.7
+595,414495,Nathan Ngoy,339,Belgium,84,SecondHalf,Pass,Successful,10.1,27.6,17.9,39.1
+596,399999,Nicolas Raskin,339,Belgium,84,SecondHalf,Pass,Successful,29.3,35.4,30.2,8.5
+597,141169,Timothy Castagne,339,Belgium,84,SecondHalf,Pass,Successful,33.7,13.2,38.5,22.5
+598,399999,Nicolas Raskin,339,Belgium,84,SecondHalf,Pass,Successful,38.5,22.5,55,17.7
+599,25191,Axel Witsel,339,Belgium,84,SecondHalf,BallTouch,Successful,55,17.7,,
+600,386390,Charles De Ketelaere,339,Belgium,84,SecondHalf,BallTouch,Unsuccessful,46.3,18.3,,
+905,402197,Pedri,338,Spain,84,SecondHalf,BallRecovery,Successful,55.9,74.7,,
+906,402197,Pedri,338,Spain,84,SecondHalf,Pass,Successful,55.9,74.7,67.5,71.4
+907,349760,Ferran Torres,338,Spain,84,SecondHalf,Foul,Successful,67,70.6,,
+601,73084,Kevin De Bruyne,339,Belgium,84,SecondHalf,Foul,Unsuccessful,33,29.4,,
+602,73084,Kevin De Bruyne,339,Belgium,84,SecondHalf,Card,Successful,0,0,,
+603,73084,Kevin De Bruyne,339,Belgium,85,SecondHalf,SubstitutionOff,Successful,0,0,,
+604,365308,Alexis Saelemaekers,339,Belgium,85,SecondHalf,SubstitutionOn,Successful,0,0,,
+611,,,339,Belgium,85,SecondHalf,FormationChange,Successful,0,0,,
+908,261212,Dani Olmo,338,Spain,85,SecondHalf,SubstitutionOff,Successful,0,0,,
+909,238916,Mikel Merino,338,Spain,85,SecondHalf,SubstitutionOn,Successful,0,0,,
+910,402197,Pedri,338,Spain,85,SecondHalf,Pass,Successful,64,75.3,56.7,75
+911,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Pass,Successful,56.7,75,62.6,73.8
+912,402197,Pedri,338,Spain,85,SecondHalf,Pass,Successful,64.4,76.1,69.8,92.3
+913,363496,Marc Cucurella,338,Spain,85,SecondHalf,Pass,Successful,67.5,92.4,53.1,79.3
+914,122117,Aymeric Laporte,338,Spain,85,SecondHalf,Pass,Successful,52.2,79.6,29.3,52.4
+915,332823,Unai Simón,338,Spain,85,SecondHalf,Pass,Successful,32,46.2,46.9,42.6
+916,498386,Pau Cubarsí,338,Spain,85,SecondHalf,Pass,Successful,54.6,33.3,60.8,13.8
+917,303139,Rodri,338,Spain,85,SecondHalf,Pass,Successful,63.8,11.3,80,5.6
+918,480249,Lamine Yamal,338,Spain,85,SecondHalf,Pass,Successful,88.7,11.2,87.3,39.5
+919,349760,Ferran Torres,338,Spain,85,SecondHalf,Pass,Successful,86.1,40.9,82.1,28.5
+920,362352,Pedro Porro,338,Spain,85,SecondHalf,Pass,Unsuccessful,82.1,28.5,95.5,58.6
+606,141169,Timothy Castagne,339,Belgium,85,SecondHalf,Clearance,Successful,5.7,43.7,20.4,21.3
+921,363496,Marc Cucurella,338,Spain,86,SecondHalf,Pass,Successful,80.6,75.8,90.8,87
+922,408449,Nico Williams,338,Spain,86,SecondHalf,Pass,Successful,92.4,90,83.7,89.6
+923,363496,Marc Cucurella,338,Spain,86,SecondHalf,Pass,Successful,82.5,89.6,75.4,76.4
+924,402197,Pedri,338,Spain,86,SecondHalf,Pass,Successful,74.1,74.7,68.4,45.3
+925,303139,Rodri,338,Spain,86,SecondHalf,Pass,Successful,69.4,42.9,82.5,14.5
+926,480249,Lamine Yamal,338,Spain,86,SecondHalf,Pass,Successful,82.4,14.4,80.4,27.7
+927,362352,Pedro Porro,338,Spain,86,SecondHalf,Pass,Successful,81.2,28.9,90.9,30
+928,480249,Lamine Yamal,338,Spain,86,SecondHalf,BallTouch,Unsuccessful,90.6,35.1,,
+607,483461,Joaquin Seys,339,Belgium,86,SecondHalf,Clearance,Successful,11.2,65.5,19.8,100
+930,362352,Pedro Porro,338,Spain,86,SecondHalf,Pass,Successful,82.3,0,69.1,11.6
+931,303139,Rodri,338,Spain,86,SecondHalf,Pass,Successful,69,15.6,73,31.5
+932,402197,Pedri,338,Spain,86,SecondHalf,Pass,Successful,72.4,47.4,86.8,90.5
+933,408449,Nico Williams,338,Spain,86,SecondHalf,Pass,Unsuccessful,91.2,75.5,90.2,53.2
+609,399999,Nicolas Raskin,339,Belgium,86,SecondHalf,Clearance,Successful,10.1,47.2,41.8,26.1
+610,78498,Romelu Lukaku,339,Belgium,86,SecondHalf,BallTouch,Unsuccessful,41.8,26.1,,
+934,122117,Aymeric Laporte,338,Spain,86,SecondHalf,Pass,Successful,55,74.9,30,63
+935,498386,Pau Cubarsí,338,Spain,86,SecondHalf,Pass,Successful,27.7,62.3,12.8,43.9
+936,332823,Unai Simón,338,Spain,86,SecondHalf,Pass,Successful,12.8,43.2,24,27.6
+937,303139,Rodri,338,Spain,86,SecondHalf,Pass,Successful,23.6,27.6,7.3,34.4
+938,332823,Unai Simón,338,Spain,86,SecondHalf,Pass,Successful,8.3,35.1,22.5,81.8
+939,122117,Aymeric Laporte,338,Spain,86,SecondHalf,Pass,Successful,26.9,85,42.4,94.4
+940,363496,Marc Cucurella,338,Spain,86,SecondHalf,Pass,Successful,42.5,94.4,40.6,64.3
+941,238916,Mikel Merino,338,Spain,87,SecondHalf,Pass,Successful,39.4,38.3,34.5,51.7
+942,498386,Pau Cubarsí,338,Spain,87,SecondHalf,Pass,Successful,38.5,55.6,49,71.1
+943,402197,Pedri,338,Spain,87,SecondHalf,Pass,Successful,66.3,75.8,84.3,92.8
+944,363496,Marc Cucurella,338,Spain,87,SecondHalf,Pass,Successful,84.4,90.3,72,70.8
+945,402197,Pedri,338,Spain,87,SecondHalf,Pass,Successful,72.2,60,72.2,37.7
+946,498386,Pau Cubarsí,338,Spain,87,SecondHalf,SavedShot,Successful,74.9,33.1,,
+612,402184,Senne Lammens,339,Belgium,87,SecondHalf,Save,Successful,1.8,52.6,,
+613,402184,Senne Lammens,339,Belgium,87,SecondHalf,Error,Successful,2.7,49.7,,
+947,238916,Mikel Merino,338,Spain,87,SecondHalf,Goal,Successful,95.2,51.9,,
+614,399999,Nicolas Raskin,339,Belgium,88,SecondHalf,Pass,Successful,49.9,49.7,27.9,60.9
+617,129832,Brandon Mechele,339,Belgium,88,SecondHalf,Pass,Successful,25.5,56.9,14.5,51.8
+615,402184,Senne Lammens,339,Belgium,89,SecondHalf,Pass,Unsuccessful,12.5,37.6,31.3,0
+949,363496,Marc Cucurella,338,Spain,89,SecondHalf,Pass,Successful,62.7,100,97.8,93.5
+950,238916,Mikel Merino,338,Spain,89,SecondHalf,BallTouch,Successful,97.8,93.5,,
+619,141169,Timothy Castagne,339,Belgium,89,SecondHalf,Pass,Unsuccessful,6.2,0,30.5,9.8
+952,402197,Pedri,338,Spain,89,SecondHalf,Aerial,Successful,69.5,90.2,,
+620,25191,Axel Witsel,339,Belgium,89,SecondHalf,Aerial,Unsuccessful,30.5,9.8,,
+953,402197,Pedri,338,Spain,89,SecondHalf,Pass,Unsuccessful,69.5,90.2,68.1,84.7
+621,399999,Nicolas Raskin,339,Belgium,89,SecondHalf,Pass,Successful,31.4,28.8,47.4,12
+622,78498,Romelu Lukaku,339,Belgium,89,SecondHalf,Pass,Successful,47.4,12,44,28.8
+623,386390,Charles De Ketelaere,339,Belgium,89,SecondHalf,BallTouch,Unsuccessful,44,28.8,,
+954,303139,Rodri,338,Spain,89,SecondHalf,Pass,Successful,55.8,73.8,39.7,68.2
+955,498386,Pau Cubarsí,338,Spain,89,SecondHalf,BallRecovery,Successful,38.7,66.5,,
+956,498386,Pau Cubarsí,338,Spain,89,SecondHalf,Pass,Successful,38.6,66.4,55.6,52.6
+957,480249,Lamine Yamal,338,Spain,89,SecondHalf,Pass,Successful,55,54.5,57.6,72
+958,402197,Pedri,338,Spain,89,SecondHalf,Pass,Successful,57.2,72.7,61.4,95.3
+959,408449,Nico Williams,338,Spain,89,SecondHalf,BallTouch,Unsuccessful,61.4,95.6,,
+625,141169,Timothy Castagne,339,Belgium,89,SecondHalf,Pass,Unsuccessful,38.1,3.4,67.2,16.8
+960,122117,Aymeric Laporte,338,Spain,89,SecondHalf,Pass,Successful,31.9,83.2,40.2,64.7
+961,303139,Rodri,338,Spain,89,SecondHalf,Pass,Successful,40.1,69.4,45,95
+962,363496,Marc Cucurella,338,Spain,89,SecondHalf,Pass,Successful,47,95.5,57.4,93.4
+968,480249,Lamine Yamal,338,Spain,89,SecondHalf,Pass,Successful,56.1,92.1,46.1,84.6
+986,402197,Pedri,338,Spain,89,SecondHalf,Pass,Successful,46.6,86.7,40.7,92.9
+991,363496,Marc Cucurella,338,Spain,89,SecondHalf,Pass,Unsuccessful,38.5,95.5,45.6,86.7
+626,399999,Nicolas Raskin,339,Belgium,89,SecondHalf,Pass,Unsuccessful,53.8,13.5,58,10
+1000,363496,Marc Cucurella,338,Spain,89,SecondHalf,Pass,Successful,38.1,89.7,57.3,96.1
+1001,480249,Lamine Yamal,338,Spain,90,SecondHalf,BallTouch,Unsuccessful,58.3,96.4,,
+628,141169,Timothy Castagne,339,Belgium,90,SecondHalf,Pass,Unsuccessful,41.2,0,75.4,15.9
+964,498386,Pau Cubarsí,338,Spain,90,SecondHalf,BallRecovery,Successful,22.7,86.8,,
+965,498386,Pau Cubarsí,338,Spain,90,SecondHalf,Pass,Successful,21.9,86.4,7.3,57.7
+966,332823,Unai Simón,338,Spain,90,SecondHalf,Pass,Unsuccessful,5.4,46.4,73.1,59.4
+630,414495,Nathan Ngoy,339,Belgium,90,SecondHalf,Pass,Successful,35.2,39.1,41.7,35.7
+631,25191,Axel Witsel,339,Belgium,90,SecondHalf,Foul,Successful,40.8,38.3,,
+967,238916,Mikel Merino,338,Spain,90,SecondHalf,Foul,Unsuccessful,59.2,61.7,,
+632,414495,Nathan Ngoy,339,Belgium,90,SecondHalf,Pass,Successful,43.9,35.8,43.1,67.8
+633,129832,Brandon Mechele,339,Belgium,90,SecondHalf,Pass,Successful,52.5,70.2,62.3,83.9
+634,483461,Joaquin Seys,339,Belgium,90,SecondHalf,Pass,Successful,62.3,83.9,66.3,95.9
+635,388098,Jérémy Doku,339,Belgium,90,SecondHalf,Pass,Successful,70.7,92.4,72.6,81.2
+636,386390,Charles De Ketelaere,339,Belgium,90,SecondHalf,Pass,Successful,72.6,81.2,72.6,87.4
+637,388098,Jérémy Doku,339,Belgium,90,SecondHalf,BallTouch,Unsuccessful,76.3,86.3,,
+969,,,338,Spain,90,SecondHalf,Foul,Successful,22.8,14.2,,
+638,388098,Jérémy Doku,339,Belgium,90,SecondHalf,Foul,Unsuccessful,77.2,85.8,,
+970,332823,Unai Simón,338,Spain,91,SecondHalf,Pass,Unsuccessful,23.9,22.6,59.8,10.6
+639,129832,Brandon Mechele,339,Belgium,91,SecondHalf,Aerial,Successful,40.2,89.4,,
+971,238916,Mikel Merino,338,Spain,91,SecondHalf,Aerial,Unsuccessful,59.8,10.6,,
+640,129832,Brandon Mechele,339,Belgium,91,SecondHalf,Pass,Unsuccessful,40.2,89.4,45.3,80.8
+972,498386,Pau Cubarsí,338,Spain,91,SecondHalf,Aerial,Successful,54.7,19.2,,
+641,386390,Charles De Ketelaere,339,Belgium,91,SecondHalf,Aerial,Unsuccessful,45.3,80.8,,
+1021,498386,Pau Cubarsí,338,Spain,91,SecondHalf,BallTouch,Successful,53.8,29.7,,
+643,25191,Axel Witsel,339,Belgium,91,SecondHalf,Pass,Unsuccessful,40.2,76.3,52.6,75.4
+973,303139,Rodri,338,Spain,91,SecondHalf,BallTouch,Unsuccessful,44.9,28.9,,
+644,399999,Nicolas Raskin,339,Belgium,91,SecondHalf,BallRecovery,Successful,61.4,80,,
+645,399999,Nicolas Raskin,339,Belgium,91,SecondHalf,Pass,Successful,62.9,81.2,68.5,92.7
+646,388098,Jérémy Doku,339,Belgium,91,SecondHalf,Pass,Successful,69.1,93,87.8,77
+983,332823,Unai Simón,338,Spain,91,SecondHalf,KeeperSweeper,Unsuccessful,10.6,29.7,,
+647,365308,Alexis Saelemaekers,339,Belgium,91,SecondHalf,TakeOn,Successful,87.8,75.3,,
+976,332823,Unai Simón,338,Spain,91,SecondHalf,Challenge,Unsuccessful,12.2,24.7,,
+648,365308,Alexis Saelemaekers,339,Belgium,91,SecondHalf,Pass,Unsuccessful,92.4,75.1,95.2,51.6
+974,122117,Aymeric Laporte,338,Spain,91,SecondHalf,Clearance,Successful,4.3,45.1,8.2,31.8
+975,332823,Unai Simón,338,Spain,91,SecondHalf,KeeperPickup,Successful,8.2,31.8,,
+977,332823,Unai Simón,338,Spain,91,SecondHalf,Pass,Successful,13.8,53.9,20.5,66.5
+978,363496,Marc Cucurella,338,Spain,91,SecondHalf,Pass,Successful,23.4,70.2,40.7,90.9
+979,402197,Pedri,338,Spain,92,SecondHalf,BallTouch,Unsuccessful,55.7,54.2,,
+650,399999,Nicolas Raskin,339,Belgium,92,SecondHalf,BallRecovery,Successful,39.6,36.3,,
+651,399999,Nicolas Raskin,339,Belgium,92,SecondHalf,Pass,Successful,44.5,30.4,61.5,41.2
+652,386390,Charles De Ketelaere,339,Belgium,92,SecondHalf,BallTouch,Successful,61.5,41.2,,
+653,388098,Jérémy Doku,339,Belgium,92,SecondHalf,Foul,Successful,67,39.6,,
+981,122117,Aymeric Laporte,338,Spain,92,SecondHalf,Foul,Unsuccessful,33.1,60.4,,
+982,122117,Aymeric Laporte,338,Spain,92,SecondHalf,Card,Successful,0,0,,
+654,365308,Alexis Saelemaekers,339,Belgium,92,SecondHalf,Pass,Unsuccessful,67.5,37.6,87,54
+984,498386,Pau Cubarsí,338,Spain,92,SecondHalf,Aerial,Successful,13,46,,
+655,78498,Romelu Lukaku,339,Belgium,92,SecondHalf,Aerial,Unsuccessful,87,54,,
+985,498386,Pau Cubarsí,338,Spain,92,SecondHalf,Clearance,Successful,13,46,11.2,29.8
+987,408449,Nico Williams,338,Spain,92,SecondHalf,Clearance,Successful,11.5,30.6,26.7,43.6
+995,349760,Ferran Torres,338,Spain,92,SecondHalf,BallTouch,Successful,18.3,43.2,,
+988,402197,Pedri,338,Spain,92,SecondHalf,BallRecovery,Successful,27.4,43.8,,
+989,402197,Pedri,338,Spain,92,SecondHalf,Pass,Unsuccessful,39.2,37.1,55,29.7
+656,483461,Joaquin Seys,339,Belgium,93,SecondHalf,Clearance,Successful,47.7,72,65.4,100
+992,362352,Pedro Porro,338,Spain,93,SecondHalf,Pass,Successful,36.1,0,48.6,15.7
+993,303139,Rodri,338,Spain,93,SecondHalf,Pass,Successful,47.9,17.8,48.9,3.3
+994,238916,Mikel Merino,338,Spain,93,SecondHalf,Foul,Successful,46.8,5.4,,
+658,399999,Nicolas Raskin,339,Belgium,93,SecondHalf,Foul,Unsuccessful,53.2,94.6,,
+996,362352,Pedro Porro,338,Spain,93,SecondHalf,Pass,Successful,41.3,6.8,26.5,22.9
+997,498386,Pau Cubarsí,338,Spain,93,SecondHalf,Pass,Successful,26.5,22.9,12.6,45.8
+998,332823,Unai Simón,338,Spain,93,SecondHalf,Pass,Unsuccessful,17.7,45,58.7,0
+660,483461,Joaquin Seys,339,Belgium,93,SecondHalf,Pass,Successful,39.6,100,27.6,91.1
+661,129832,Brandon Mechele,339,Belgium,93,SecondHalf,Pass,Successful,23.6,83.9,12.8,59.7
+662,402184,Senne Lammens,339,Belgium,94,SecondHalf,Pass,Successful,12.9,53,56.3,45.1
+663,25191,Axel Witsel,339,Belgium,94,SecondHalf,Aerial,Successful,56.3,45.1,,
+1002,402197,Pedri,338,Spain,94,SecondHalf,Aerial,Unsuccessful,43.7,54.9,,
+664,25191,Axel Witsel,339,Belgium,94,SecondHalf,BallTouch,Unsuccessful,56.5,45.1,,
+1003,408449,Nico Williams,338,Spain,94,SecondHalf,BallRecovery,Successful,42.8,64.1,,
+1004,408449,Nico Williams,338,Spain,94,SecondHalf,Pass,Unsuccessful,42.8,64.1,55.8,63.5
+665,414495,Nathan Ngoy,339,Belgium,94,SecondHalf,Interception,Successful,44.2,36.5,,
+1005,408449,Nico Williams,338,Spain,94,SecondHalf,Pass,Successful,47.7,67.1,57.8,77.7
+1006,402197,Pedri,338,Spain,94,SecondHalf,Pass,Unsuccessful,47.6,77.3,45.4,78.2
+667,365308,Alexis Saelemaekers,339,Belgium,94,SecondHalf,BlockedPass,Successful,54.6,21.8,,
+1008,402197,Pedri,338,Spain,94,SecondHalf,BallTouch,Successful,52.8,75.2,,
+1007,303139,Rodri,338,Spain,94,SecondHalf,Foul,Successful,53.8,71.6,,
+668,25191,Axel Witsel,339,Belgium,94,SecondHalf,Foul,Unsuccessful,46.2,28.4,,
+669,25191,Axel Witsel,339,Belgium,94,SecondHalf,Card,Successful,0,0,,
+1009,402197,Pedri,338,Spain,94,SecondHalf,Pass,Successful,54.4,72.7,41.5,82.7
+1010,122117,Aymeric Laporte,338,Spain,94,SecondHalf,Pass,Successful,40.4,84,24.3,59.7
+1011,332823,Unai Simón,338,Spain,94,SecondHalf,Pass,Successful,25.2,59.6,37.4,61.1
+1012,303139,Rodri,338,Spain,94,SecondHalf,Pass,Successful,37.6,61.2,18.5,65
+1013,332823,Unai Simón,338,Spain,94,SecondHalf,Pass,Unsuccessful,18.9,67,17,100
+671,399999,Nicolas Raskin,339,Belgium,95,SecondHalf,Pass,Successful,85.3,0,77.1,7.3
+672,365308,Alexis Saelemaekers,339,Belgium,95,SecondHalf,Pass,Successful,75.2,13.4,75.8,4.7
+673,141169,Timothy Castagne,339,Belgium,95,SecondHalf,Pass,Successful,75.8,4.7,84.5,4.1
+674,399999,Nicolas Raskin,339,Belgium,95,SecondHalf,Pass,Unsuccessful,86.5,4.9,89.9,40.9
+1015,238916,Mikel Merino,338,Spain,95,SecondHalf,Aerial,Successful,10.1,59.1,,
+675,78498,Romelu Lukaku,339,Belgium,95,SecondHalf,Aerial,Unsuccessful,89.9,40.9,,
+1016,238916,Mikel Merino,338,Spain,95,SecondHalf,Clearance,Successful,10.1,59.1,10.4,60.6
+1017,303139,Rodri,338,Spain,95,SecondHalf,Clearance,Successful,11.6,63.5,41.9,63.2
+676,414495,Nathan Ngoy,339,Belgium,95,SecondHalf,Pass,Unsuccessful,54.9,32.7,63.1,32.2
+677,388098,Jérémy Doku,339,Belgium,95,SecondHalf,Challenge,Unsuccessful,58.3,36.3,,
+1018,480249,Lamine Yamal,338,Spain,95,SecondHalf,TakeOn,Successful,41.7,63.7,,
+1019,480249,Lamine Yamal,338,Spain,95,SecondHalf,BallRecovery,Successful,45.5,59.4,,
+1020,480249,Lamine Yamal,338,Spain,95,SecondHalf,TakeOn,Unsuccessful,45.2,58.9,,
+678,388098,Jérémy Doku,339,Belgium,95,SecondHalf,Tackle,Successful,54.8,41.1,,
+679,129832,Brandon Mechele,339,Belgium,95,SecondHalf,BallRecovery,Successful,57.5,28.9,,
+680,129832,Brandon Mechele,339,Belgium,95,SecondHalf,Pass,Successful,57.5,28.9,66.7,8.9
+681,399999,Nicolas Raskin,339,Belgium,95,SecondHalf,Pass,Unsuccessful,73,10.6,95.3,51.5
+1023,332823,Unai Simón,338,Spain,95,SecondHalf,Foul,Successful,6.5,47.6,,
+682,78498,Romelu Lukaku,339,Belgium,95,SecondHalf,Foul,Unsuccessful,93.4,52.4,,
+1024,332823,Unai Simón,338,Spain,96,SecondHalf,Pass,Unsuccessful,12.4,47.9,66.9,11
+683,129832,Brandon Mechele,339,Belgium,96,SecondHalf,Aerial,Successful,33.1,89,,
+1025,349760,Ferran Torres,338,Spain,96,SecondHalf,Aerial,Unsuccessful,66.9,11,,
+684,129832,Brandon Mechele,339,Belgium,96,SecondHalf,Pass,Unsuccessful,33.1,89,41.2,84.2
+1026,238916,Mikel Merino,338,Spain,96,SecondHalf,Pass,Successful,60.2,25.3,54.6,29.5
+1027,303139,Rodri,338,Spain,96,SecondHalf,Pass,Successful,54.6,29.5,60.3,26.8
+1028,238916,Mikel Merino,338,Spain,96,SecondHalf,Pass,Successful,60.3,26.8,58.8,65.9
+1029,363496,Marc Cucurella,338,Spain,96,SecondHalf,SavedShot,Successful,78.2,66.7,,
+685,402184,Senne Lammens,339,Belgium,96,SecondHalf,Save,Successful,1.2,48.7,,
+686,402184,Senne Lammens,339,Belgium,96,SecondHalf,KeeperPickup,Successful,1.2,48.7,,
+687,402184,Senne Lammens,339,Belgium,96,SecondHalf,Pass,Unsuccessful,13.4,45.7,60.8,20.9
+1030,122117,Aymeric Laporte,338,Spain,96,SecondHalf,BallRecovery,Successful,38,74.3,,
+1031,122117,Aymeric Laporte,338,Spain,96,SecondHalf,Pass,Successful,46.6,75.3,55.4,91.2
+1032,363496,Marc Cucurella,338,Spain,96,SecondHalf,Pass,Successful,59.9,89.3,70.3,78.2
+1033,408449,Nico Williams,338,Spain,96,SecondHalf,Pass,Successful,70.3,78.2,69.2,65.9
+1034,303139,Rodri,338,Spain,96,SecondHalf,Pass,Successful,66.1,60.9,67.4,54.2
+1035,238916,Mikel Merino,338,Spain,96,SecondHalf,Pass,Successful,66,52,56.4,11.8
+689,129832,Brandon Mechele,339,Belgium,96,SecondHalf,Challenge,Unsuccessful,18,83.4,,
+1036,362352,Pedro Porro,338,Spain,96,SecondHalf,TakeOn,Successful,82,16.6,,
+1037,362352,Pedro Porro,338,Spain,96,SecondHalf,Pass,Unsuccessful,91.9,24.2,91.1,40.4
+690,414495,Nathan Ngoy,339,Belgium,97,SecondHalf,Clearance,Successful,8.6,59.7,31,96.3
+1038,,,338,Spain,97,SecondHalf,End,Successful,0,0,,
+691,,,339,Belgium,97,SecondHalf,End,Successful,0,0,,
+1039,,,338,Spain,0,PostGame,End,Successful,0,0,,
+692,,,339,Belgium,0,PostGame,End,Successful,0,0,,
+1,,,338,Spain,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,339,Belgium,0,PreMatch,FormationSet,Successful,0,0,,

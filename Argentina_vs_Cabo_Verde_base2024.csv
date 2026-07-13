@@ -1,0 +1,2050 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,346,Argentina,0,FirstHalf,Start,Successful,0,0,,
+2,,,2555,Cabo Verde,0,FirstHalf,Start,Successful,0,0,,
+3,342550,Nuno da Costa,2555,Cabo Verde,0,FirstHalf,Pass,Successful,50.1,50,32.9,34.2
+4,430933,Pico Lopes,2555,Cabo Verde,0,FirstHalf,Pass,Successful,31.8,36.4,27.6,65.2
+5,235763,Diney Borges,2555,Cabo Verde,0,FirstHalf,Pass,Successful,30.9,60.3,33.2,31
+6,430933,Pico Lopes,2555,Cabo Verde,0,FirstHalf,Pass,Successful,32.4,35.5,26.9,74.1
+7,235763,Diney Borges,2555,Cabo Verde,0,FirstHalf,Pass,Unsuccessful,27.7,66.3,67.2,54.8
+3,323663,Cristian Romero,346,Argentina,0,FirstHalf,Pass,Successful,39.5,36.7,44.8,25.9
+4,125547,Rodrigo De Paul,346,Argentina,0,FirstHalf,Pass,Unsuccessful,44.3,25.8,35.5,0
+9,361964,Jovane Cabral,2555,Cabo Verde,0,FirstHalf,Pass,Successful,61.4,100,53.2,86.9
+10,328549,Deroy Duarte,2555,Cabo Verde,0,FirstHalf,Pass,Successful,53.2,86.9,42.2,93.9
+11,505284,Sidny Cabral,2555,Cabo Verde,0,FirstHalf,Pass,Successful,42.8,92.6,27.7,80.9
+12,235763,Diney Borges,2555,Cabo Verde,0,FirstHalf,Pass,Successful,26.7,76.6,31.5,57.9
+13,438902,Kevin Pina,2555,Cabo Verde,0,FirstHalf,Pass,Successful,31.5,57.9,7.6,54.6
+14,123577,Vozinha,2555,Cabo Verde,0,FirstHalf,Pass,Successful,15.8,56.6,40,95.6
+15,505284,Sidny Cabral,2555,Cabo Verde,0,FirstHalf,Pass,Successful,40,95.6,46.6,87.4
+16,361964,Jovane Cabral,2555,Cabo Verde,0,FirstHalf,Pass,Successful,34.3,82.6,35.9,66.3
+17,438902,Kevin Pina,2555,Cabo Verde,0,FirstHalf,Pass,Unsuccessful,32.2,50.3,33.8,28.6
+6,361732,Thiago Almada,346,Argentina,0,FirstHalf,BallRecovery,Successful,66.7,73.8,,
+7,361732,Thiago Almada,346,Argentina,0,FirstHalf,Pass,Successful,67.9,73.5,78.7,79.5
+8,369430,Enzo Fernández,346,Argentina,1,FirstHalf,Pass,Unsuccessful,77.4,72.1,100,23.4
+18,505284,Sidny Cabral,2555,Cabo Verde,1,FirstHalf,ShieldBallOpp,Successful,5.9,75.4,,
+20,235763,Diney Borges,2555,Cabo Verde,1,FirstHalf,Pass,Successful,4.7,61.1,3.5,47.2
+21,123577,Vozinha,2555,Cabo Verde,1,FirstHalf,Pass,Successful,3.8,48.2,32.8,26.8
+22,379742,Laros Duarte,2555,Cabo Verde,1,FirstHalf,Pass,Successful,32.8,19.2,26.8,4.3
+23,430933,Pico Lopes,2555,Cabo Verde,1,FirstHalf,Pass,Unsuccessful,34.6,11.9,75.1,72
+10,303728,Nahuel Molina,346,Argentina,1,FirstHalf,Pass,Successful,25.3,32.8,10.4,39
+11,102248,Emiliano Martínez,346,Argentina,1,FirstHalf,KeeperPickup,Successful,10.3,39,,
+12,102248,Emiliano Martínez,346,Argentina,1,FirstHalf,Pass,Successful,13.7,43.5,18.4,70.8
+13,340105,Lisandro Martínez,346,Argentina,1,FirstHalf,Pass,Successful,29.1,67.8,28.8,36.3
+14,323663,Cristian Romero,346,Argentina,1,FirstHalf,Pass,Successful,29.4,27.7,42.5,5.5
+15,303728,Nahuel Molina,346,Argentina,1,FirstHalf,Pass,Successful,41.2,9.7,40,26.7
+16,125547,Rodrigo De Paul,346,Argentina,2,FirstHalf,Pass,Unsuccessful,36.5,28.8,34.4,38.5
+24,342550,Nuno da Costa,2555,Cabo Verde,2,FirstHalf,Interception,Successful,65.6,61.5,,
+17,102248,Emiliano Martínez,346,Argentina,2,FirstHalf,Pass,Successful,19.9,35.4,24.4,21.3
+18,323663,Cristian Romero,346,Argentina,2,FirstHalf,Pass,Unsuccessful,24.4,21.3,23.3,26.7
+25,342550,Nuno da Costa,2555,Cabo Verde,2,FirstHalf,BallTouch,Successful,77.8,75.8,,
+19,102248,Emiliano Martínez,346,Argentina,2,FirstHalf,Pass,Successful,11.9,41.1,19.7,16.9
+20,323663,Cristian Romero,346,Argentina,2,FirstHalf,Pass,Successful,41.3,24.4,53.4,28.2
+21,125547,Rodrigo De Paul,346,Argentina,2,FirstHalf,Pass,Successful,53.3,28.2,40,22.8
+22,323663,Cristian Romero,346,Argentina,2,FirstHalf,Pass,Successful,39.8,17.1,51.5,6.9
+23,303728,Nahuel Molina,346,Argentina,2,FirstHalf,BallTouch,Unsuccessful,46.7,9.4,,
+26,361964,Jovane Cabral,2555,Cabo Verde,2,FirstHalf,Pass,Unsuccessful,60.7,88.4,58.7,89.3
+24,303728,Nahuel Molina,346,Argentina,2,FirstHalf,BlockedPass,Successful,41.3,10.7,,
+27,379742,Laros Duarte,2555,Cabo Verde,2,FirstHalf,BallRecovery,Successful,56.7,69.4,,
+28,379742,Laros Duarte,2555,Cabo Verde,2,FirstHalf,Pass,Successful,56.7,69.4,58.6,85
+29,505284,Sidny Cabral,2555,Cabo Verde,2,FirstHalf,Pass,Successful,58.6,85,67.1,77.9
+30,361964,Jovane Cabral,2555,Cabo Verde,2,FirstHalf,Pass,Unsuccessful,67.1,77.9,59.4,67.5
+45,345319,Alexis Mac Allister,346,Argentina,2,FirstHalf,BlockedPass,Successful,40.6,32.5,,
+25,361732,Thiago Almada,346,Argentina,2,FirstHalf,BallTouch,Successful,40.6,31,,
+26,299344,Lautaro Martínez,346,Argentina,2,FirstHalf,BallRecovery,Successful,45,33,,
+27,299344,Lautaro Martínez,346,Argentina,2,FirstHalf,Pass,Successful,44.3,35,44.7,25.9
+28,11119,Lionel Messi,346,Argentina,2,FirstHalf,Pass,Unsuccessful,44.7,25.8,45.1,25.9
+31,438902,Kevin Pina,2555,Cabo Verde,2,FirstHalf,BlockedPass,Successful,54.9,74.1,,
+29,11119,Lionel Messi,346,Argentina,2,FirstHalf,Dispossessed,Successful,43,33.3,,
+32,438902,Kevin Pina,2555,Cabo Verde,2,FirstHalf,Tackle,Unsuccessful,57,66.7,,
+64,11119,Lionel Messi,346,Argentina,2,FirstHalf,BallTouch,Successful,44,33.3,,
+30,345319,Alexis Mac Allister,346,Argentina,2,FirstHalf,Pass,Successful,43,40.5,48.4,48.3
+31,11119,Lionel Messi,346,Argentina,2,FirstHalf,Pass,Unsuccessful,44.4,45,52.7,47.2
+946,74790,Ryan Mendes,2555,Cabo Verde,2,FirstHalf,Interception,Successful,45.8,48.4,,
+77,369430,Enzo Fernández,346,Argentina,2,FirstHalf,Dispossessed,Successful,47.6,39,,
+33,74790,Ryan Mendes,2555,Cabo Verde,2,FirstHalf,Tackle,Unsuccessful,52.4,61,,
+32,369430,Enzo Fernández,346,Argentina,2,FirstHalf,Pass,Successful,64.5,48.7,76.9,69.3
+33,299344,Lautaro Martínez,346,Argentina,2,FirstHalf,Pass,Successful,80.9,69.9,76.9,77.5
+34,330672,Facundo Medina,346,Argentina,2,FirstHalf,Pass,Successful,74.2,77.8,66,77.7
+35,361732,Thiago Almada,346,Argentina,2,FirstHalf,Pass,Successful,68,73.9,68.8,85.8
+36,330672,Facundo Medina,346,Argentina,2,FirstHalf,Pass,Successful,68.3,85.6,43,63.9
+37,340105,Lisandro Martínez,346,Argentina,3,FirstHalf,Pass,Successful,46.6,68.1,56.9,71.5
+38,369430,Enzo Fernández,346,Argentina,3,FirstHalf,Pass,Successful,57,73.8,65.3,73.5
+39,361732,Thiago Almada,346,Argentina,3,FirstHalf,Pass,Successful,65.3,73.5,56.7,74.5
+40,369430,Enzo Fernández,346,Argentina,3,FirstHalf,Pass,Successful,56.7,70.8,52.6,39.9
+41,323663,Cristian Romero,346,Argentina,3,FirstHalf,Pass,Successful,57.5,26.5,68.9,19.9
+42,303728,Nahuel Molina,346,Argentina,3,FirstHalf,Pass,Successful,69.6,19.6,69.5,29.2
+43,345319,Alexis Mac Allister,346,Argentina,3,FirstHalf,Pass,Unsuccessful,71.3,27.7,93.7,17.5
+35,505284,Sidny Cabral,2555,Cabo Verde,3,FirstHalf,BallRecovery,Successful,13.4,89.7,,
+36,505284,Sidny Cabral,2555,Cabo Verde,3,FirstHalf,Pass,Successful,25,93.6,9.6,75.7
+37,235763,Diney Borges,2555,Cabo Verde,3,FirstHalf,Pass,Successful,11.1,69,29.2,22.5
+38,129648,Steven Moreira,2555,Cabo Verde,3,FirstHalf,Pass,Successful,45.9,15.5,39.6,28.6
+39,438902,Kevin Pina,2555,Cabo Verde,3,FirstHalf,Pass,Successful,40.9,29.7,36.4,68.8
+40,235763,Diney Borges,2555,Cabo Verde,3,FirstHalf,Pass,Successful,43.6,64,42.6,36.9
+41,430933,Pico Lopes,2555,Cabo Verde,3,FirstHalf,Pass,Successful,42.6,36.3,53.4,84.7
+42,328549,Deroy Duarte,2555,Cabo Verde,3,FirstHalf,Pass,Successful,57.1,85.7,63.5,95.9
+43,505284,Sidny Cabral,2555,Cabo Verde,3,FirstHalf,Foul,Successful,62.2,95.6,,
+44,125547,Rodrigo De Paul,346,Argentina,3,FirstHalf,Foul,Unsuccessful,37.8,4.4,,
+44,505284,Sidny Cabral,2555,Cabo Verde,4,FirstHalf,Pass,Successful,65.4,95.1,80.2,97.1
+45,361964,Jovane Cabral,2555,Cabo Verde,4,FirstHalf,Pass,Unsuccessful,80.6,94.2,91.2,37.4
+46,340105,Lisandro Martínez,346,Argentina,4,FirstHalf,Clearance,Successful,7.8,58.2,18.8,96.1
+46,74790,Ryan Mendes,2555,Cabo Verde,4,FirstHalf,Pass,Unsuccessful,91.5,15.9,91.7,19.8
+47,330672,Facundo Medina,346,Argentina,4,FirstHalf,Clearance,Successful,8.3,80.2,,
+48,129648,Steven Moreira,2555,Cabo Verde,5,FirstHalf,Pass,Successful,85.8,0,90.4,30.9
+49,235763,Diney Borges,2555,Cabo Verde,5,FirstHalf,Pass,Unsuccessful,90.5,29.4,91.8,41.2
+51,340105,Lisandro Martínez,346,Argentina,5,FirstHalf,Clearance,Successful,7.7,60.6,12.5,84.9
+52,330672,Facundo Medina,346,Argentina,5,FirstHalf,Clearance,Successful,12.5,84.9,24.8,82.5
+53,299344,Lautaro Martínez,346,Argentina,5,FirstHalf,Aerial,Successful,24.8,82.5,,
+50,379742,Laros Duarte,2555,Cabo Verde,5,FirstHalf,Aerial,Unsuccessful,75.2,17.5,,
+54,299344,Lautaro Martínez,346,Argentina,5,FirstHalf,Clearance,Successful,24.8,82.5,27.2,65.8
+51,438902,Kevin Pina,2555,Cabo Verde,5,FirstHalf,Pass,Successful,68.3,48.4,62.6,70.3
+52,505284,Sidny Cabral,2555,Cabo Verde,5,FirstHalf,Pass,Successful,62.6,70.3,68.9,90.5
+53,361964,Jovane Cabral,2555,Cabo Verde,5,FirstHalf,Dispossessed,Successful,69,91.4,,
+55,303728,Nahuel Molina,346,Argentina,5,FirstHalf,Tackle,Unsuccessful,31,8.6,,
+54,361964,Jovane Cabral,2555,Cabo Verde,5,FirstHalf,Dispossessed,Successful,64.6,90.1,,
+56,125547,Rodrigo De Paul,346,Argentina,5,FirstHalf,Tackle,Successful,35.4,9.9,,
+57,125547,Rodrigo De Paul,346,Argentina,5,FirstHalf,BallRecovery,Successful,40.3,14.4,,
+58,125547,Rodrigo De Paul,346,Argentina,5,FirstHalf,Pass,Successful,40.4,16.3,40.8,33.4
+59,11119,Lionel Messi,346,Argentina,5,FirstHalf,Pass,Successful,38.7,41.1,38.5,56.8
+60,369430,Enzo Fernández,346,Argentina,5,FirstHalf,Pass,Successful,40.2,54.7,41.7,34.9
+61,345319,Alexis Mac Allister,346,Argentina,5,FirstHalf,Pass,Successful,41.6,31.6,48,8.2
+62,303728,Nahuel Molina,346,Argentina,5,FirstHalf,Pass,Successful,48.6,10.5,52.7,24.4
+63,125547,Rodrigo De Paul,346,Argentina,5,FirstHalf,Pass,Successful,53.2,24.4,45,8.2
+65,303728,Nahuel Molina,346,Argentina,5,FirstHalf,Pass,Successful,44.1,8.5,36.9,27.7
+66,323663,Cristian Romero,346,Argentina,5,FirstHalf,Pass,Successful,34.7,33.9,40.6,59.5
+67,369430,Enzo Fernández,346,Argentina,5,FirstHalf,Pass,Successful,46.1,71.8,60.6,74.2
+68,361732,Thiago Almada,346,Argentina,5,FirstHalf,Pass,Successful,60.8,74.5,42.6,75.7
+69,369430,Enzo Fernández,346,Argentina,5,FirstHalf,Pass,Successful,43.7,71.7,57.9,78.9
+70,299344,Lautaro Martínez,346,Argentina,5,FirstHalf,Pass,Successful,57.9,78.9,46.1,79.5
+71,369430,Enzo Fernández,346,Argentina,5,FirstHalf,Pass,Successful,45.4,69.7,45.4,25.2
+72,323663,Cristian Romero,346,Argentina,6,FirstHalf,Pass,Successful,57,20.4,62.9,5.5
+73,303728,Nahuel Molina,346,Argentina,6,FirstHalf,Pass,Successful,62.4,7.2,50.6,12.4
+74,323663,Cristian Romero,346,Argentina,6,FirstHalf,Pass,Successful,54,15.7,66.6,27.1
+75,345319,Alexis Mac Allister,346,Argentina,6,FirstHalf,Dispossessed,Successful,63.8,26.4,,
+55,361964,Jovane Cabral,2555,Cabo Verde,6,FirstHalf,Tackle,Successful,36.2,73.6,,
+56,438902,Kevin Pina,2555,Cabo Verde,6,FirstHalf,BallRecovery,Successful,37,64.9,,
+57,438902,Kevin Pina,2555,Cabo Verde,6,FirstHalf,Pass,Successful,37,64.9,45,69
+58,342550,Nuno da Costa,2555,Cabo Verde,6,FirstHalf,TakeOn,Unsuccessful,43,71.2,,
+76,323663,Cristian Romero,346,Argentina,6,FirstHalf,Tackle,Unsuccessful,57,28.8,,
+59,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,Pass,Successful,9.9,47.6,20.1,18.3
+60,430933,Pico Lopes,2555,Cabo Verde,6,FirstHalf,Pass,Successful,29.2,20,9.4,49.1
+78,299344,Lautaro Martínez,346,Argentina,6,FirstHalf,Challenge,Unsuccessful,89.4,56.8,,
+61,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,TakeOn,Successful,10.6,43.2,,
+63,123577,Vozinha,2555,Cabo Verde,6,FirstHalf,Pass,Unsuccessful,19.4,54,50.1,62.1
+79,323663,Cristian Romero,346,Argentina,6,FirstHalf,Interception,Successful,49.9,37.9,,
+122,345319,Alexis Mac Allister,346,Argentina,6,FirstHalf,BallTouch,Unsuccessful,58.3,36.5,,
+64,438902,Kevin Pina,2555,Cabo Verde,6,FirstHalf,Pass,Successful,38.8,55.2,40,58.4
+65,328549,Deroy Duarte,2555,Cabo Verde,6,FirstHalf,BallTouch,Successful,40,58.4,,
+80,369430,Enzo Fernández,346,Argentina,6,FirstHalf,BallRecovery,Successful,62.8,65.2,,
+81,369430,Enzo Fernández,346,Argentina,6,FirstHalf,Pass,Unsuccessful,68,64.6,66.6,61.3
+66,379742,Laros Duarte,2555,Cabo Verde,6,FirstHalf,Interception,Successful,33.4,38.7,,
+67,235763,Diney Borges,2555,Cabo Verde,6,FirstHalf,Clearance,Successful,20.1,55.8,68.5,20.1
+68,74790,Ryan Mendes,2555,Cabo Verde,6,FirstHalf,BallRecovery,Successful,71.5,20.7,,
+69,74790,Ryan Mendes,2555,Cabo Verde,6,FirstHalf,SavedShot,Successful,85,34,,
+82,330672,Facundo Medina,346,Argentina,6,FirstHalf,Save,Successful,12.2,62.5,,
+83,323663,Cristian Romero,346,Argentina,6,FirstHalf,BallTouch,Successful,10,54.6,,
+84,102248,Emiliano Martínez,346,Argentina,6,FirstHalf,KeeperPickup,Successful,3.6,52.2,,
+85,102248,Emiliano Martínez,346,Argentina,7,FirstHalf,Pass,Successful,3.6,52.2,27.1,92.4
+86,361732,Thiago Almada,346,Argentina,7,FirstHalf,Pass,Successful,33.6,89.4,22.5,85.8
+87,330672,Facundo Medina,346,Argentina,7,FirstHalf,Pass,Successful,22.9,84.9,27.1,74.2
+88,369430,Enzo Fernández,346,Argentina,7,FirstHalf,Pass,Successful,29.6,58.6,36.1,48.4
+89,345319,Alexis Mac Allister,346,Argentina,7,FirstHalf,Pass,Successful,37.3,34.6,32.9,20.2
+90,125547,Rodrigo De Paul,346,Argentina,7,FirstHalf,Pass,Successful,31.5,23.1,26.3,32.7
+91,323663,Cristian Romero,346,Argentina,7,FirstHalf,Pass,Successful,30.4,39,43.2,66.7
+92,369430,Enzo Fernández,346,Argentina,7,FirstHalf,Pass,Successful,43.3,67.5,34.3,76.2
+93,340105,Lisandro Martínez,346,Argentina,7,FirstHalf,Pass,Successful,45.8,62.2,44.4,34
+94,323663,Cristian Romero,346,Argentina,7,FirstHalf,Pass,Successful,55.7,27.4,61.7,27.9
+95,11119,Lionel Messi,346,Argentina,7,FirstHalf,Pass,Successful,61.7,27.9,61.5,35.2
+96,345319,Alexis Mac Allister,346,Argentina,7,FirstHalf,Pass,Successful,61.5,35.2,60.9,30.3
+97,11119,Lionel Messi,346,Argentina,7,FirstHalf,Pass,Successful,60.4,24.9,69,18.7
+98,303728,Nahuel Molina,346,Argentina,7,FirstHalf,Pass,Successful,68.6,16.6,67.9,5.1
+99,125547,Rodrigo De Paul,346,Argentina,7,FirstHalf,Pass,Successful,63.4,10.8,65.6,54.1
+100,345319,Alexis Mac Allister,346,Argentina,7,FirstHalf,Pass,Successful,65,58.6,62.3,68.4
+101,369430,Enzo Fernández,346,Argentina,7,FirstHalf,Pass,Successful,61.9,69.1,80.4,94.9
+102,330672,Facundo Medina,346,Argentina,7,FirstHalf,Pass,Successful,81.1,95.1,81.9,82.5
+103,361732,Thiago Almada,346,Argentina,8,FirstHalf,Pass,Successful,82.5,85,77.5,95.5
+104,330672,Facundo Medina,346,Argentina,8,FirstHalf,Pass,Successful,77.5,95.5,72.6,85.6
+105,369430,Enzo Fernández,346,Argentina,8,FirstHalf,Pass,Unsuccessful,72.4,75.4,85.8,28.2
+70,361964,Jovane Cabral,2555,Cabo Verde,8,FirstHalf,BallRecovery,Successful,17.9,74.2,,
+71,361964,Jovane Cabral,2555,Cabo Verde,8,FirstHalf,Pass,Successful,38.8,64.3,48.1,85.9
+72,505284,Sidny Cabral,2555,Cabo Verde,8,FirstHalf,TakeOn,Unsuccessful,68.2,85.5,,
+106,303728,Nahuel Molina,346,Argentina,8,FirstHalf,Tackle,Unsuccessful,31.8,14.5,,
+73,505284,Sidny Cabral,2555,Cabo Verde,8,FirstHalf,BallTouch,Successful,68.4,82.1,,
+107,125547,Rodrigo De Paul,346,Argentina,8,FirstHalf,BallTouch,Successful,32.4,8.1,,
+74,505284,Sidny Cabral,2555,Cabo Verde,8,FirstHalf,BallTouch,Successful,54,89.3,,
+108,303728,Nahuel Molina,346,Argentina,8,FirstHalf,Pass,Successful,30.2,7.5,33.5,5.8
+109,361732,Thiago Almada,346,Argentina,8,FirstHalf,BallRecovery,Successful,33.5,5.8,,
+110,361732,Thiago Almada,346,Argentina,8,FirstHalf,Pass,Successful,33.5,5.8,27.5,12.6
+111,323663,Cristian Romero,346,Argentina,8,FirstHalf,Pass,Successful,26.9,12.9,27.3,6.3
+112,303728,Nahuel Molina,346,Argentina,8,FirstHalf,Pass,Successful,27,6.4,25.2,14.8
+113,323663,Cristian Romero,346,Argentina,8,FirstHalf,Pass,Successful,24.1,15.4,29.6,26.7
+114,345319,Alexis Mac Allister,346,Argentina,8,FirstHalf,Pass,Successful,46.4,35.1,45.8,49.8
+115,369430,Enzo Fernández,346,Argentina,8,FirstHalf,Pass,Successful,46.1,49.8,35.5,35.4
+116,323663,Cristian Romero,346,Argentina,8,FirstHalf,Pass,Successful,33.5,34.9,43.8,36
+117,345319,Alexis Mac Allister,346,Argentina,8,FirstHalf,Pass,Successful,48.5,30.1,65.3,4.6
+118,11119,Lionel Messi,346,Argentina,8,FirstHalf,Pass,Unsuccessful,66.2,4.9,100,18
+75,235763,Diney Borges,2555,Cabo Verde,8,FirstHalf,ShieldBallOpp,Successful,3.9,82.9,,
+77,235763,Diney Borges,2555,Cabo Verde,9,FirstHalf,Pass,Successful,3,59.9,2.1,49.3
+78,123577,Vozinha,2555,Cabo Verde,9,FirstHalf,Pass,Unsuccessful,3.7,49.1,40.1,63
+79,328549,Deroy Duarte,2555,Cabo Verde,9,FirstHalf,Aerial,Successful,40.1,63,,
+120,345319,Alexis Mac Allister,346,Argentina,9,FirstHalf,Aerial,Unsuccessful,59.9,37,,
+98,328549,Deroy Duarte,2555,Cabo Verde,9,FirstHalf,Pass,Unsuccessful,40.1,63,41.3,64.7
+154,345319,Alexis Mac Allister,346,Argentina,9,FirstHalf,BallTouch,Successful,58.7,35.3,,
+88,328549,Deroy Duarte,2555,Cabo Verde,9,FirstHalf,Pass,Unsuccessful,40.1,63,45.3,51.1
+80,361964,Jovane Cabral,2555,Cabo Verde,9,FirstHalf,Foul,Successful,53,53,,
+121,323663,Cristian Romero,346,Argentina,9,FirstHalf,Foul,Unsuccessful,47,47,,
+81,438902,Kevin Pina,2555,Cabo Verde,9,FirstHalf,Pass,Successful,55,54.5,55.6,66.7
+82,328549,Deroy Duarte,2555,Cabo Verde,9,FirstHalf,Pass,Successful,56,65.7,60.1,73.9
+83,361964,Jovane Cabral,2555,Cabo Verde,9,FirstHalf,Pass,Successful,63,66.3,55.2,54.8
+84,438902,Kevin Pina,2555,Cabo Verde,9,FirstHalf,Pass,Successful,55.2,54.8,51.7,33.7
+85,430933,Pico Lopes,2555,Cabo Verde,9,FirstHalf,Pass,Unsuccessful,73.7,30.6,99.4,36.4
+124,102248,Emiliano Martínez,346,Argentina,9,FirstHalf,KeeperPickup,Successful,7,64.2,,
+125,102248,Emiliano Martínez,346,Argentina,9,FirstHalf,Pass,Successful,13,60,26.1,35.8
+126,345319,Alexis Mac Allister,346,Argentina,10,FirstHalf,Pass,Successful,33.9,39,44.3,45.6
+127,11119,Lionel Messi,346,Argentina,10,FirstHalf,Pass,Successful,45.2,46.6,33.4,65.4
+128,340105,Lisandro Martínez,346,Argentina,10,FirstHalf,Pass,Successful,31.8,69.4,41.2,70.6
+129,369430,Enzo Fernández,346,Argentina,10,FirstHalf,Pass,Successful,43,66.3,47.7,49.6
+130,11119,Lionel Messi,346,Argentina,10,FirstHalf,Pass,Successful,54.3,53.5,66.6,68.4
+131,361732,Thiago Almada,346,Argentina,10,FirstHalf,Pass,Unsuccessful,67.1,66.4,74.6,55.3
+86,235763,Diney Borges,2555,Cabo Verde,10,FirstHalf,BallRecovery,Successful,22.9,50.1,,
+87,235763,Diney Borges,2555,Cabo Verde,10,FirstHalf,Pass,Unsuccessful,24.7,35.4,63.6,33.4
+132,340105,Lisandro Martínez,346,Argentina,10,FirstHalf,BallRecovery,Successful,44.7,68.1,,
+133,340105,Lisandro Martínez,346,Argentina,10,FirstHalf,Pass,Successful,48.2,67.3,54.1,59.4
+134,345319,Alexis Mac Allister,346,Argentina,10,FirstHalf,Pass,Successful,54.9,59.7,58.1,75.1
+135,369430,Enzo Fernández,346,Argentina,10,FirstHalf,Pass,Successful,62.1,85,70,84.9
+136,361732,Thiago Almada,346,Argentina,10,FirstHalf,Pass,Successful,70,84.9,60.7,88.3
+137,369430,Enzo Fernández,346,Argentina,10,FirstHalf,Pass,Successful,60.7,87.3,58.7,78.1
+138,361732,Thiago Almada,346,Argentina,10,FirstHalf,Pass,Successful,61.3,83.4,70.2,80.8
+139,299344,Lautaro Martínez,346,Argentina,10,FirstHalf,BallTouch,Successful,67.3,77.5,,
+140,345319,Alexis Mac Allister,346,Argentina,10,FirstHalf,Pass,Successful,60,75.7,59.2,87.1
+141,369430,Enzo Fernández,346,Argentina,10,FirstHalf,Pass,Successful,59,83.8,52.5,42.3
+142,323663,Cristian Romero,346,Argentina,10,FirstHalf,Pass,Successful,66.7,36.4,73.9,35.1
+143,11119,Lionel Messi,346,Argentina,10,FirstHalf,Pass,Successful,73.9,35.1,63.6,34.5
+144,323663,Cristian Romero,346,Argentina,10,FirstHalf,Pass,Successful,63.7,32.2,65.6,6.4
+145,125547,Rodrigo De Paul,346,Argentina,10,FirstHalf,Pass,Successful,61.6,7.6,25.4,27.4
+146,102248,Emiliano Martínez,346,Argentina,11,FirstHalf,Pass,Successful,27.4,35.7,32.5,62.4
+147,340105,Lisandro Martínez,346,Argentina,11,FirstHalf,Pass,Successful,49.1,74.5,67.6,78.7
+148,369430,Enzo Fernández,346,Argentina,11,FirstHalf,Pass,Successful,74.4,75.7,79,91
+149,361732,Thiago Almada,346,Argentina,11,FirstHalf,Pass,Successful,79.6,91,92.3,76.9
+150,369430,Enzo Fernández,346,Argentina,11,FirstHalf,Pass,Unsuccessful,91.8,76.3,88.1,62.5
+89,438902,Kevin Pina,2555,Cabo Verde,11,FirstHalf,BallRecovery,Successful,14.9,29.8,,
+90,438902,Kevin Pina,2555,Cabo Verde,11,FirstHalf,Pass,Successful,14.9,29.8,32.9,32.4
+91,379742,Laros Duarte,2555,Cabo Verde,11,FirstHalf,Pass,Successful,28.8,25.9,22.4,7.6
+92,129648,Steven Moreira,2555,Cabo Verde,11,FirstHalf,Pass,Successful,26.2,5.5,49.3,4.4
+93,379742,Laros Duarte,2555,Cabo Verde,11,FirstHalf,TakeOn,Unsuccessful,59.2,4.1,,
+151,330672,Facundo Medina,346,Argentina,11,FirstHalf,Tackle,Successful,40.7,96,,
+95,129648,Steven Moreira,2555,Cabo Verde,11,FirstHalf,Pass,Successful,53.5,0,33,13.7
+96,430933,Pico Lopes,2555,Cabo Verde,11,FirstHalf,Pass,Successful,34.3,16.5,34.6,50
+97,235763,Diney Borges,2555,Cabo Verde,11,FirstHalf,Pass,Unsuccessful,34.6,39.2,88.3,33.6
+153,102248,Emiliano Martínez,346,Argentina,11,FirstHalf,KeeperPickup,Successful,12.6,66.1,,
+155,102248,Emiliano Martínez,346,Argentina,12,FirstHalf,Pass,Successful,13.6,59.1,19.7,69
+156,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,Pass,Successful,30,70.3,38.6,70.5
+157,369430,Enzo Fernández,346,Argentina,12,FirstHalf,Pass,Successful,43.6,67.8,40.1,35.1
+158,323663,Cristian Romero,346,Argentina,12,FirstHalf,Pass,Successful,47.9,33,47.3,60.9
+159,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,Pass,Successful,55.9,64.3,61.6,58.5
+160,345319,Alexis Mac Allister,346,Argentina,12,FirstHalf,Pass,Successful,60.2,60.7,55.1,68.5
+161,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,Pass,Successful,59.7,73.6,74.8,98.2
+162,361732,Thiago Almada,346,Argentina,12,FirstHalf,Pass,Successful,73.8,97.2,58.8,91.5
+163,330672,Facundo Medina,346,Argentina,12,FirstHalf,Pass,Successful,57.6,89.1,55.1,73
+164,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,Pass,Successful,57.9,64.8,57.6,30.7
+165,323663,Cristian Romero,346,Argentina,12,FirstHalf,Pass,Successful,63.6,31.3,71.7,55.5
+166,361732,Thiago Almada,346,Argentina,12,FirstHalf,Pass,Successful,71.4,55.6,74.1,45.9
+167,299344,Lautaro Martínez,346,Argentina,12,FirstHalf,TakeOn,Unsuccessful,74.6,47.7,,
+99,430933,Pico Lopes,2555,Cabo Verde,12,FirstHalf,Tackle,Unsuccessful,25.4,52.3,,
+198,299344,Lautaro Martínez,346,Argentina,12,FirstHalf,BallTouch,Successful,75.4,43.2,,
+100,438902,Kevin Pina,2555,Cabo Verde,12,FirstHalf,BallRecovery,Successful,29.4,46.7,,
+101,438902,Kevin Pina,2555,Cabo Verde,12,FirstHalf,Pass,Unsuccessful,29.4,46.7,48.7,63.4
+168,323663,Cristian Romero,346,Argentina,12,FirstHalf,Pass,Successful,55.7,39.1,37.5,78.1
+169,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,BallRecovery,Successful,37.3,78.4,,
+170,340105,Lisandro Martínez,346,Argentina,12,FirstHalf,Pass,Successful,33.3,93.9,44.1,95.1
+171,330672,Facundo Medina,346,Argentina,13,FirstHalf,Pass,Successful,46.6,87.9,46.4,69
+172,345319,Alexis Mac Allister,346,Argentina,13,FirstHalf,Pass,Successful,46.6,65.8,46.1,31.6
+173,323663,Cristian Romero,346,Argentina,13,FirstHalf,Pass,Successful,51.7,21.6,57.4,8.5
+174,303728,Nahuel Molina,346,Argentina,13,FirstHalf,Pass,Successful,57.4,8.7,51.3,20.4
+175,323663,Cristian Romero,346,Argentina,13,FirstHalf,Pass,Successful,51.3,23.2,57.5,31.5
+176,345319,Alexis Mac Allister,346,Argentina,13,FirstHalf,Pass,Successful,57.7,28.3,48.6,22
+177,323663,Cristian Romero,346,Argentina,13,FirstHalf,Pass,Successful,47.3,21.1,61.3,10.6
+178,303728,Nahuel Molina,346,Argentina,13,FirstHalf,Pass,Successful,61.3,10.6,61.4,2.2
+179,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,60.5,4.2,57,13.9
+180,345319,Alexis Mac Allister,346,Argentina,13,FirstHalf,Pass,Successful,56.5,11.4,53.1,5.2
+181,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,50.5,12.4,45.3,49.3
+182,340105,Lisandro Martínez,346,Argentina,13,FirstHalf,Pass,Successful,46.8,50.4,50.9,46
+183,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,63.1,70.9,66,83.5
+184,369430,Enzo Fernández,346,Argentina,13,FirstHalf,Pass,Successful,68.7,88.2,82.4,97.5
+185,330672,Facundo Medina,346,Argentina,13,FirstHalf,Pass,Successful,81.5,96.6,68.3,93.3
+186,369430,Enzo Fernández,346,Argentina,13,FirstHalf,Pass,Successful,68.4,90.3,66,78.4
+187,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,69.2,67.9,64,56.7
+188,340105,Lisandro Martínez,346,Argentina,13,FirstHalf,Pass,Successful,70.6,60.4,71.2,49.5
+189,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,71,49.5,70.1,58.5
+190,340105,Lisandro Martínez,346,Argentina,13,FirstHalf,Pass,Successful,70.5,58.5,55.1,48.3
+191,323663,Cristian Romero,346,Argentina,13,FirstHalf,Pass,Successful,56.1,50.5,59.2,71.7
+192,125547,Rodrigo De Paul,346,Argentina,13,FirstHalf,Pass,Successful,60.1,74.2,70.5,89.1
+193,369430,Enzo Fernández,346,Argentina,14,FirstHalf,Pass,Successful,80.5,93,74.8,86.5
+194,125547,Rodrigo De Paul,346,Argentina,14,FirstHalf,Pass,Successful,73.6,81,91.6,69.9
+195,361732,Thiago Almada,346,Argentina,14,FirstHalf,Pass,Successful,88.9,69.4,86.1,61.9
+196,11119,Lionel Messi,346,Argentina,14,FirstHalf,MissedShots,Successful,91.2,67.5,,
+104,235763,Diney Borges,2555,Cabo Verde,14,FirstHalf,Pass,Successful,4.8,61.1,4.5,45.8
+105,123577,Vozinha,2555,Cabo Verde,14,FirstHalf,Pass,Successful,10,34.2,48,8.9
+106,74790,Ryan Mendes,2555,Cabo Verde,14,FirstHalf,Aerial,Successful,48,8.9,,
+199,330672,Facundo Medina,346,Argentina,14,FirstHalf,Aerial,Unsuccessful,52,91.1,,
+107,74790,Ryan Mendes,2555,Cabo Verde,14,FirstHalf,BallTouch,Unsuccessful,48,8.9,,
+201,330672,Facundo Medina,346,Argentina,14,FirstHalf,Pass,Successful,32.5,100,25.9,90.6
+202,340105,Lisandro Martínez,346,Argentina,14,FirstHalf,Pass,Successful,29.3,75.7,29.4,38.8
+203,323663,Cristian Romero,346,Argentina,14,FirstHalf,Pass,Successful,34.7,28.8,44.7,5.8
+204,303728,Nahuel Molina,346,Argentina,15,FirstHalf,Pass,Successful,47.7,9.3,39.6,19.6
+205,323663,Cristian Romero,346,Argentina,15,FirstHalf,Pass,Successful,37,25.5,47.2,30.9
+206,125547,Rodrigo De Paul,346,Argentina,15,FirstHalf,Pass,Successful,47.2,30.9,37.7,24.1
+207,323663,Cristian Romero,346,Argentina,15,FirstHalf,Pass,Successful,34.2,26.5,15.9,47.2
+208,102248,Emiliano Martínez,346,Argentina,15,FirstHalf,Pass,Successful,20.1,45.6,33,68.7
+209,340105,Lisandro Martínez,346,Argentina,15,FirstHalf,Pass,Successful,42.3,72,53.3,76.2
+210,369430,Enzo Fernández,346,Argentina,15,FirstHalf,Pass,Successful,53.4,76.2,40.9,75.9
+211,340105,Lisandro Martínez,346,Argentina,15,FirstHalf,Pass,Successful,40.1,70.3,39.7,54.7
+212,125547,Rodrigo De Paul,346,Argentina,15,FirstHalf,Pass,Successful,55.1,30.9,64.9,5.2
+213,303728,Nahuel Molina,346,Argentina,15,FirstHalf,Pass,Successful,58.8,11.1,51.4,9.4
+214,323663,Cristian Romero,346,Argentina,15,FirstHalf,Pass,Successful,54.2,30.7,52.3,51.4
+215,340105,Lisandro Martínez,346,Argentina,15,FirstHalf,Pass,Successful,61.5,66.4,62.6,80.4
+216,361732,Thiago Almada,346,Argentina,15,FirstHalf,Pass,Successful,63.4,87.6,77,96
+217,330672,Facundo Medina,346,Argentina,15,FirstHalf,Pass,Successful,79.2,95.5,84.2,78.1
+218,369430,Enzo Fernández,346,Argentina,15,FirstHalf,Pass,Successful,84.3,76.9,72.8,70.2
+219,361732,Thiago Almada,346,Argentina,16,FirstHalf,Pass,Unsuccessful,79.2,74.7,75.6,61.9
+221,11119,Lionel Messi,346,Argentina,16,FirstHalf,Foul,Successful,75.7,60.9,,
+109,361964,Jovane Cabral,2555,Cabo Verde,16,FirstHalf,Foul,Unsuccessful,24.3,39.1,,
+222,11119,Lionel Messi,346,Argentina,17,FirstHalf,SavedShot,Successful,73.8,62.4,,
+110,123577,Vozinha,2555,Cabo Verde,17,FirstHalf,Save,Successful,1.1,50.4,,
+111,123577,Vozinha,2555,Cabo Verde,17,FirstHalf,KeeperPickup,Successful,1.1,50.4,,
+112,123577,Vozinha,2555,Cabo Verde,17,FirstHalf,Pass,Unsuccessful,14.9,49.9,49.7,0
+224,330672,Facundo Medina,346,Argentina,18,FirstHalf,Pass,Successful,48.7,100,37.4,85.8
+225,340105,Lisandro Martínez,346,Argentina,18,FirstHalf,Pass,Successful,35,73.2,35.8,37.8
+226,323663,Cristian Romero,346,Argentina,18,FirstHalf,Pass,Successful,40.1,31.5,58.1,7.8
+227,303728,Nahuel Molina,346,Argentina,18,FirstHalf,Pass,Successful,58.1,7.8,46,21.7
+228,323663,Cristian Romero,346,Argentina,18,FirstHalf,Pass,Successful,54.5,32.4,52.1,44.4
+229,125547,Rodrigo De Paul,346,Argentina,18,FirstHalf,Pass,Successful,55.9,40,87.9,33.3
+230,303728,Nahuel Molina,346,Argentina,18,FirstHalf,Pass,Unsuccessful,90.2,34.2,90.9,46.6
+114,123577,Vozinha,2555,Cabo Verde,18,FirstHalf,Smother,Successful,9.1,53.4,,
+115,123577,Vozinha,2555,Cabo Verde,18,FirstHalf,KeeperPickup,Successful,8.4,50.7,,
+116,123577,Vozinha,2555,Cabo Verde,18,FirstHalf,Pass,Successful,14.1,50.7,24.6,15.9
+117,129648,Steven Moreira,2555,Cabo Verde,18,FirstHalf,Pass,Successful,28.3,11.4,36.6,7
+118,74790,Ryan Mendes,2555,Cabo Verde,18,FirstHalf,Pass,Successful,36.6,7,33.2,37.4
+119,438902,Kevin Pina,2555,Cabo Verde,18,FirstHalf,Pass,Successful,33.3,42.4,28.8,63
+120,235763,Diney Borges,2555,Cabo Verde,18,FirstHalf,Pass,Successful,22.1,70.6,8,50.1
+121,123577,Vozinha,2555,Cabo Verde,18,FirstHalf,Pass,Successful,8,50.1,15,78.2
+122,235763,Diney Borges,2555,Cabo Verde,18,FirstHalf,Pass,Successful,14.3,78.1,4.3,53.7
+123,123577,Vozinha,2555,Cabo Verde,18,FirstHalf,Pass,Successful,6.6,50.1,15.9,79.6
+124,235763,Diney Borges,2555,Cabo Verde,18,FirstHalf,Pass,Successful,15.1,76.9,33.4,38.5
+231,369430,Enzo Fernández,346,Argentina,19,FirstHalf,Challenge,Unsuccessful,66.9,55.3,,
+125,129648,Steven Moreira,2555,Cabo Verde,19,FirstHalf,TakeOn,Successful,33.1,44.7,,
+126,129648,Steven Moreira,2555,Cabo Verde,19,FirstHalf,Pass,Successful,60.2,73.3,65.1,95.3
+127,505284,Sidny Cabral,2555,Cabo Verde,19,FirstHalf,Pass,Successful,65.1,87.1,67.1,79.9
+128,129648,Steven Moreira,2555,Cabo Verde,19,FirstHalf,Pass,Unsuccessful,67.5,79.3,70.2,78.8
+233,125547,Rodrigo De Paul,346,Argentina,19,FirstHalf,BlockedPass,Successful,29.8,21.2,,
+234,299344,Lautaro Martínez,346,Argentina,19,FirstHalf,BallRecovery,Successful,45.2,31.2,,
+235,299344,Lautaro Martínez,346,Argentina,19,FirstHalf,Pass,Successful,50.4,27.1,53.6,12
+236,125547,Rodrigo De Paul,346,Argentina,19,FirstHalf,Pass,Successful,53.9,12.3,45.4,33.4
+237,345319,Alexis Mac Allister,346,Argentina,19,FirstHalf,Pass,Successful,46.9,34.9,43.7,77.8
+238,340105,Lisandro Martínez,346,Argentina,19,FirstHalf,Pass,Successful,42.5,77.4,58.4,73.3
+239,369430,Enzo Fernández,346,Argentina,19,FirstHalf,Pass,Successful,59.3,75.6,64.6,94
+240,330672,Facundo Medina,346,Argentina,19,FirstHalf,Pass,Successful,64.6,94,60.9,82.9
+241,369430,Enzo Fernández,346,Argentina,19,FirstHalf,Pass,Successful,59.6,78,52.3,56.8
+242,345319,Alexis Mac Allister,346,Argentina,19,FirstHalf,Pass,Successful,51.8,55.5,59.2,40.8
+243,361732,Thiago Almada,346,Argentina,19,FirstHalf,Pass,Successful,59.3,35.1,59.3,19.6
+244,11119,Lionel Messi,346,Argentina,19,FirstHalf,Pass,Successful,55.6,24.6,46.5,34.5
+245,323663,Cristian Romero,346,Argentina,19,FirstHalf,Pass,Successful,46.5,35.7,52.1,46.6
+246,345319,Alexis Mac Allister,346,Argentina,19,FirstHalf,Pass,Successful,54.3,39.9,59.3,17.2
+247,361732,Thiago Almada,346,Argentina,19,FirstHalf,Pass,Successful,56.1,18.3,60.8,25.8
+248,125547,Rodrigo De Paul,346,Argentina,19,FirstHalf,Pass,Successful,62,18.4,62.2,2.8
+249,303728,Nahuel Molina,346,Argentina,19,FirstHalf,Pass,Successful,57.7,15,53.8,49.2
+250,11119,Lionel Messi,346,Argentina,19,FirstHalf,Pass,Successful,66.9,67,69.3,76.8
+251,369430,Enzo Fernández,346,Argentina,19,FirstHalf,Pass,Successful,68.9,75.3,82.6,89.4
+252,330672,Facundo Medina,346,Argentina,20,FirstHalf,Pass,Unsuccessful,87.8,90.3,84.1,56.8
+129,438902,Kevin Pina,2555,Cabo Verde,20,FirstHalf,BallRecovery,Successful,16.6,44.2,,
+130,438902,Kevin Pina,2555,Cabo Verde,20,FirstHalf,Pass,Successful,47.4,26.4,61.3,7.6
+131,74790,Ryan Mendes,2555,Cabo Verde,20,FirstHalf,Pass,Successful,53.9,11.9,55.2,34
+132,379742,Laros Duarte,2555,Cabo Verde,20,FirstHalf,Pass,Successful,56.5,35.1,60.3,51.6
+133,361964,Jovane Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,62.3,68.2,67.1,94.7
+134,505284,Sidny Cabral,2555,Cabo Verde,20,FirstHalf,Pass,Successful,68.7,85.3,59.6,82.3
+135,328549,Deroy Duarte,2555,Cabo Verde,20,FirstHalf,Pass,Successful,59.2,82,58.4,39.8
+136,438902,Kevin Pina,2555,Cabo Verde,20,FirstHalf,Pass,Successful,60.4,33.3,62.7,14.9
+137,129648,Steven Moreira,2555,Cabo Verde,20,FirstHalf,Pass,Successful,62.7,15.5,59,30.4
+138,438902,Kevin Pina,2555,Cabo Verde,20,FirstHalf,Pass,Successful,56.7,29.8,40.2,36.6
+139,430933,Pico Lopes,2555,Cabo Verde,20,FirstHalf,Pass,Successful,39.1,37.7,37.2,64.8
+140,235763,Diney Borges,2555,Cabo Verde,20,FirstHalf,Pass,Successful,37.3,62.4,39.8,83.2
+141,328549,Deroy Duarte,2555,Cabo Verde,20,FirstHalf,Pass,Successful,39.8,83.2,31.5,65.5
+142,235763,Diney Borges,2555,Cabo Verde,20,FirstHalf,Pass,Successful,26.4,62.7,27.6,38.6
+143,430933,Pico Lopes,2555,Cabo Verde,20,FirstHalf,Pass,Successful,28.1,36.9,34.8,15.8
+144,438902,Kevin Pina,2555,Cabo Verde,20,FirstHalf,Pass,Successful,34.8,16.5,44.6,31.8
+253,299344,Lautaro Martínez,346,Argentina,20,FirstHalf,Challenge,Unsuccessful,56.6,72.4,,
+145,74790,Ryan Mendes,2555,Cabo Verde,20,FirstHalf,TakeOn,Successful,43.4,27.6,,
+146,74790,Ryan Mendes,2555,Cabo Verde,20,FirstHalf,Pass,Successful,63.1,48.4,70.6,92.6
+147,505284,Sidny Cabral,2555,Cabo Verde,21,FirstHalf,BallTouch,Unsuccessful,70.6,92.6,,
+255,303728,Nahuel Molina,346,Argentina,21,FirstHalf,Pass,Successful,20.4,0,7.5,8.1
+256,323663,Cristian Romero,346,Argentina,21,FirstHalf,Pass,Successful,7.2,8.7,22.5,18.1
+257,345319,Alexis Mac Allister,346,Argentina,21,FirstHalf,Pass,Unsuccessful,22.8,14.4,64.6,0
+150,235763,Diney Borges,2555,Cabo Verde,21,FirstHalf,Pass,Successful,35,100,27.1,66.4
+151,430933,Pico Lopes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,26.9,66.6,34.1,68.7
+152,438902,Kevin Pina,2555,Cabo Verde,21,FirstHalf,Pass,Successful,37.2,60.2,39.3,33.1
+153,430933,Pico Lopes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,41.2,31.5,46,6.1
+154,129648,Steven Moreira,2555,Cabo Verde,21,FirstHalf,Pass,Successful,46,6.1,45.1,29.5
+155,379742,Laros Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,45.1,29.5,33.5,25.8
+156,430933,Pico Lopes,2555,Cabo Verde,21,FirstHalf,Pass,Successful,33.5,25.8,33.3,48.8
+157,438902,Kevin Pina,2555,Cabo Verde,21,FirstHalf,Pass,Successful,33.3,48.8,47.5,80.3
+158,328549,Deroy Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,47.2,80.2,59,91.1
+159,361964,Jovane Cabral,2555,Cabo Verde,21,FirstHalf,Pass,Successful,59,91.1,44.5,92.3
+160,328549,Deroy Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,42.6,88.7,41.9,68.7
+161,379742,Laros Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,40.9,76.1,40,92.9
+162,328549,Deroy Duarte,2555,Cabo Verde,21,FirstHalf,Pass,Successful,39.1,92.1,21.6,72.4
+163,235763,Diney Borges,2555,Cabo Verde,22,FirstHalf,Pass,Successful,22,71.1,28.7,22.2
+164,430933,Pico Lopes,2555,Cabo Verde,22,FirstHalf,Pass,Unsuccessful,35.2,21,54.9,22.1
+259,330672,Facundo Medina,346,Argentina,22,FirstHalf,BallRecovery,Successful,44.8,85.2,,
+260,330672,Facundo Medina,346,Argentina,22,FirstHalf,Pass,Successful,53.7,85.9,54,91.6
+261,361732,Thiago Almada,346,Argentina,22,FirstHalf,Pass,Successful,59.1,68.2,70.8,50.8
+262,11119,Lionel Messi,346,Argentina,22,FirstHalf,TakeOn,Unsuccessful,69.6,47.7,,
+165,235763,Diney Borges,2555,Cabo Verde,22,FirstHalf,Tackle,Unsuccessful,30.4,52.3,,
+263,125547,Rodrigo De Paul,346,Argentina,22,FirstHalf,Pass,Successful,66.5,36.3,75,36.1
+264,11119,Lionel Messi,346,Argentina,22,FirstHalf,TakeOn,Unsuccessful,78.3,37.8,,
+167,438902,Kevin Pina,2555,Cabo Verde,22,FirstHalf,BallRecovery,Successful,24.7,74.8,,
+168,438902,Kevin Pina,2555,Cabo Verde,22,FirstHalf,Pass,Unsuccessful,27.8,88.7,43.9,79.1
+265,323663,Cristian Romero,346,Argentina,22,FirstHalf,Interception,Successful,56.1,20.9,,
+266,361732,Thiago Almada,346,Argentina,22,FirstHalf,Dispossessed,Successful,61.4,29.8,,
+169,438902,Kevin Pina,2555,Cabo Verde,22,FirstHalf,Tackle,Successful,38.6,70.2,,
+170,438902,Kevin Pina,2555,Cabo Verde,22,FirstHalf,Pass,Successful,60.1,33.7,66.5,20.9
+171,129648,Steven Moreira,2555,Cabo Verde,22,FirstHalf,Pass,Successful,66.5,20.9,75,8
+172,74790,Ryan Mendes,2555,Cabo Verde,22,FirstHalf,Pass,Successful,75.1,7.7,70.8,15.9
+173,129648,Steven Moreira,2555,Cabo Verde,22,FirstHalf,Pass,Successful,70.8,15.9,71,4.1
+174,74790,Ryan Mendes,2555,Cabo Verde,22,FirstHalf,Pass,Successful,68.9,7.9,43,14.9
+175,430933,Pico Lopes,2555,Cabo Verde,22,FirstHalf,Pass,Successful,44,17,53.7,47.9
+176,328549,Deroy Duarte,2555,Cabo Verde,22,FirstHalf,Pass,Successful,55.5,49.7,70.8,56.4
+177,361964,Jovane Cabral,2555,Cabo Verde,22,FirstHalf,Pass,Successful,66.1,66.4,64.3,94.1
+178,505284,Sidny Cabral,2555,Cabo Verde,22,FirstHalf,BallTouch,Unsuccessful,67.6,92.7,,
+267,125547,Rodrigo De Paul,346,Argentina,22,FirstHalf,BallRecovery,Successful,23.2,5.2,,
+268,125547,Rodrigo De Paul,346,Argentina,22,FirstHalf,Pass,Successful,23.2,5.8,23,19
+269,303728,Nahuel Molina,346,Argentina,23,FirstHalf,Pass,Successful,22.1,18.4,29.8,19.3
+270,369430,Enzo Fernández,346,Argentina,23,FirstHalf,Pass,Successful,29.2,27.7,19.7,32.4
+271,323663,Cristian Romero,346,Argentina,23,FirstHalf,Pass,Successful,19.6,32.4,25.5,63.6
+272,340105,Lisandro Martínez,346,Argentina,23,FirstHalf,Pass,Successful,29.9,63.3,35.7,57.6
+273,345319,Alexis Mac Allister,346,Argentina,23,FirstHalf,Pass,Successful,37.1,52.2,37.1,29.5
+274,125547,Rodrigo De Paul,346,Argentina,23,FirstHalf,Pass,Successful,37.4,24.1,56.3,6
+275,11119,Lionel Messi,346,Argentina,23,FirstHalf,TakeOn,Successful,64,13,,
+179,361964,Jovane Cabral,2555,Cabo Verde,23,FirstHalf,Challenge,Unsuccessful,36,87,,
+276,11119,Lionel Messi,346,Argentina,23,FirstHalf,Pass,Unsuccessful,71.1,15.1,88.2,17.5
+180,505284,Sidny Cabral,2555,Cabo Verde,23,FirstHalf,BallRecovery,Successful,10.7,88,,
+181,505284,Sidny Cabral,2555,Cabo Verde,23,FirstHalf,Pass,Successful,8.8,93.3,13.6,80.5
+182,328549,Deroy Duarte,2555,Cabo Verde,23,FirstHalf,Pass,Successful,14.5,71.8,14.3,86
+183,505284,Sidny Cabral,2555,Cabo Verde,23,FirstHalf,Pass,Successful,14.4,85.3,9.2,69.4
+184,235763,Diney Borges,2555,Cabo Verde,23,FirstHalf,Pass,Unsuccessful,9,84.5,62.2,76.1
+278,340105,Lisandro Martínez,346,Argentina,23,FirstHalf,BallRecovery,Successful,40.3,27.1,,
+279,340105,Lisandro Martínez,346,Argentina,23,FirstHalf,Pass,Successful,49.5,39.1,52.4,46.2
+280,369430,Enzo Fernández,346,Argentina,23,FirstHalf,Pass,Successful,57.1,55.8,59.8,84.1
+281,330672,Facundo Medina,346,Argentina,23,FirstHalf,Pass,Successful,59.8,84.1,57.1,69.9
+282,369430,Enzo Fernández,346,Argentina,23,FirstHalf,Pass,Successful,61.2,64.8,69.3,3.7
+283,303728,Nahuel Molina,346,Argentina,24,FirstHalf,Pass,Successful,69.3,3.7,68.7,10.6
+284,125547,Rodrigo De Paul,346,Argentina,24,FirstHalf,Pass,Unsuccessful,75.3,17.8,88,45.3
+185,235763,Diney Borges,2555,Cabo Verde,24,FirstHalf,Clearance,Successful,10.1,57.5,15.9,100
+288,303728,Nahuel Molina,346,Argentina,27,FirstHalf,Pass,Successful,81.9,0,75.9,8.1
+289,345319,Alexis Mac Allister,346,Argentina,27,FirstHalf,Pass,Successful,75.9,8.1,80.5,3.4
+290,303728,Nahuel Molina,346,Argentina,27,FirstHalf,Pass,Successful,80.8,3.7,71.8,19.9
+291,125547,Rodrigo De Paul,346,Argentina,27,FirstHalf,Pass,Successful,71.8,19.9,72.2,5.4
+292,345319,Alexis Mac Allister,346,Argentina,27,FirstHalf,Pass,Successful,71.7,4.3,79.6,3.3
+293,303728,Nahuel Molina,346,Argentina,27,FirstHalf,Pass,Successful,79.4,3.4,71.2,26.5
+294,299344,Lautaro Martínez,346,Argentina,27,FirstHalf,Pass,Successful,71.2,32.1,71.4,61.3
+295,330672,Facundo Medina,346,Argentina,27,FirstHalf,Pass,Successful,74.2,65.1,75.2,72.9
+296,369430,Enzo Fernández,346,Argentina,27,FirstHalf,Pass,Successful,70.9,66.6,56.7,49.3
+297,340105,Lisandro Martínez,346,Argentina,27,FirstHalf,Pass,Successful,65.7,56.1,65.7,29.8
+298,323663,Cristian Romero,346,Argentina,27,FirstHalf,Pass,Successful,63.5,24.7,72.8,6.6
+299,303728,Nahuel Molina,346,Argentina,27,FirstHalf,Pass,Successful,70.1,8.2,54.1,10.2
+300,323663,Cristian Romero,346,Argentina,27,FirstHalf,Pass,Successful,55,15.7,54.8,49.3
+301,340105,Lisandro Martínez,346,Argentina,28,FirstHalf,Pass,Successful,55.4,55.6,94.4,38.7
+302,11119,Lionel Messi,346,Argentina,28,FirstHalf,Goal,Successful,95.8,40.3,,
+190,342550,Nuno da Costa,2555,Cabo Verde,29,FirstHalf,Pass,Successful,50.1,49.9,34.1,48.7
+191,438902,Kevin Pina,2555,Cabo Verde,29,FirstHalf,Pass,Successful,34.6,49.7,34.2,93.3
+192,505284,Sidny Cabral,2555,Cabo Verde,29,FirstHalf,Pass,Successful,32.1,93.6,15.4,77.8
+193,235763,Diney Borges,2555,Cabo Verde,29,FirstHalf,Pass,Successful,15.4,77.8,3.6,49.4
+194,123577,Vozinha,2555,Cabo Verde,29,FirstHalf,Pass,Unsuccessful,6.2,61.7,45.8,65.1
+303,323663,Cristian Romero,346,Argentina,29,FirstHalf,Interception,Successful,54.2,34.9,,
+304,345319,Alexis Mac Allister,346,Argentina,29,FirstHalf,Pass,Unsuccessful,66.4,28.6,67.1,0
+196,505284,Sidny Cabral,2555,Cabo Verde,29,FirstHalf,Pass,Successful,32,100,31.1,88.4
+197,328549,Deroy Duarte,2555,Cabo Verde,29,FirstHalf,Pass,Successful,31.3,89.1,30.5,97.1
+199,505284,Sidny Cabral,2555,Cabo Verde,29,FirstHalf,Pass,Successful,29.9,95.3,17.3,78.2
+200,235763,Diney Borges,2555,Cabo Verde,29,FirstHalf,Pass,Successful,21.9,68.5,22.6,32.5
+201,430933,Pico Lopes,2555,Cabo Verde,30,FirstHalf,Pass,Successful,28.8,35.7,27,56.9
+202,235763,Diney Borges,2555,Cabo Verde,30,FirstHalf,Pass,Successful,28.9,59.4,36.9,88.4
+203,328549,Deroy Duarte,2555,Cabo Verde,30,FirstHalf,Pass,Successful,38,88.4,29.9,61.7
+204,235763,Diney Borges,2555,Cabo Verde,30,FirstHalf,Pass,Successful,29.9,53,36.7,53.6
+205,438902,Kevin Pina,2555,Cabo Verde,30,FirstHalf,Pass,Successful,36.7,53.6,35.1,26.5
+206,430933,Pico Lopes,2555,Cabo Verde,30,FirstHalf,Pass,Successful,41.5,26.1,61.8,28.8
+207,74790,Ryan Mendes,2555,Cabo Verde,30,FirstHalf,Dispossessed,Successful,55.7,29,,
+306,330672,Facundo Medina,346,Argentina,30,FirstHalf,Tackle,Successful,44.3,71,,
+307,299344,Lautaro Martínez,346,Argentina,30,FirstHalf,TakeOn,Unsuccessful,52.9,63.7,,
+208,328549,Deroy Duarte,2555,Cabo Verde,30,FirstHalf,Pass,Unsuccessful,44.9,53.1,86.2,47.6
+308,102248,Emiliano Martínez,346,Argentina,30,FirstHalf,BallRecovery,Successful,12.1,47.8,,
+309,102248,Emiliano Martínez,346,Argentina,30,FirstHalf,Pass,Successful,12.7,47.4,24.5,44.7
+310,323663,Cristian Romero,346,Argentina,30,FirstHalf,Pass,Successful,40.3,32.1,50.7,13.2
+311,125547,Rodrigo De Paul,346,Argentina,30,FirstHalf,Pass,Successful,50.8,13.2,42.5,16.2
+312,345319,Alexis Mac Allister,346,Argentina,30,FirstHalf,Pass,Successful,52.4,36.4,42,66.1
+313,340105,Lisandro Martínez,346,Argentina,30,FirstHalf,Pass,Successful,47.9,61.2,44.7,30.1
+314,323663,Cristian Romero,346,Argentina,30,FirstHalf,Pass,Successful,48.4,29.1,60.8,43.6
+315,345319,Alexis Mac Allister,346,Argentina,30,FirstHalf,Pass,Successful,60,47.1,51.1,68.4
+316,340105,Lisandro Martínez,346,Argentina,31,FirstHalf,Pass,Successful,55.2,64.3,55.8,23.8
+317,125547,Rodrigo De Paul,346,Argentina,31,FirstHalf,Pass,Successful,55.6,16.3,67.5,14.8
+318,11119,Lionel Messi,346,Argentina,31,FirstHalf,Dispossessed,Successful,68.3,5,,
+209,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,Tackle,Successful,31.7,95,,
+210,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,BallRecovery,Successful,31,92.3,,
+211,361964,Jovane Cabral,2555,Cabo Verde,31,FirstHalf,Foul,Successful,41.4,73,,
+319,303728,Nahuel Molina,346,Argentina,31,FirstHalf,Foul,Unsuccessful,58.6,27,,
+212,438902,Kevin Pina,2555,Cabo Verde,31,FirstHalf,Pass,Successful,46.2,64,43.5,30
+213,430933,Pico Lopes,2555,Cabo Verde,31,FirstHalf,Pass,Successful,44.5,30,46,65.5
+214,438902,Kevin Pina,2555,Cabo Verde,31,FirstHalf,Pass,Successful,45.1,65.4,61,73.2
+215,328549,Deroy Duarte,2555,Cabo Verde,31,FirstHalf,Pass,Successful,61.4,82.6,69.9,96
+216,505284,Sidny Cabral,2555,Cabo Verde,31,FirstHalf,Pass,Unsuccessful,71.8,80.1,100,32.5
+321,340105,Lisandro Martínez,346,Argentina,32,FirstHalf,Pass,Successful,5,60.9,2.6,49.3
+322,102248,Emiliano Martínez,346,Argentina,32,FirstHalf,Pass,Successful,2.8,48.1,3,24.1
+218,342550,Nuno da Costa,2555,Cabo Verde,32,FirstHalf,Challenge,Unsuccessful,82.2,92.2,,
+323,323663,Cristian Romero,346,Argentina,32,FirstHalf,TakeOn,Successful,17.8,7.8,,
+324,323663,Cristian Romero,346,Argentina,32,FirstHalf,Pass,Unsuccessful,14.2,11.5,21.1,19.6
+219,379742,Laros Duarte,2555,Cabo Verde,32,FirstHalf,BallTouch,Successful,67.2,57.6,,
+325,369430,Enzo Fernández,346,Argentina,32,FirstHalf,Pass,Successful,33.5,36.4,44.9,36.1
+326,11119,Lionel Messi,346,Argentina,32,FirstHalf,Pass,Successful,45.1,36.7,39.2,48.7
+327,369430,Enzo Fernández,346,Argentina,32,FirstHalf,Pass,Successful,39.1,49.9,40,70.6
+328,330672,Facundo Medina,346,Argentina,32,FirstHalf,Pass,Successful,40.4,75.9,35,66.6
+329,369430,Enzo Fernández,346,Argentina,32,FirstHalf,Pass,Successful,36.9,63,37.5,54.1
+330,345319,Alexis Mac Allister,346,Argentina,32,FirstHalf,Pass,Successful,37.9,52.5,38.2,35.4
+331,11119,Lionel Messi,346,Argentina,32,FirstHalf,Pass,Successful,55.6,25.5,61.4,4.9
+332,125547,Rodrigo De Paul,346,Argentina,32,FirstHalf,Pass,Successful,68,10.9,56.5,13.3
+333,11119,Lionel Messi,346,Argentina,32,FirstHalf,Pass,Successful,57,25.5,55.6,58.6
+334,340105,Lisandro Martínez,346,Argentina,32,FirstHalf,Pass,Successful,63.8,65.8,66,52.2
+335,345319,Alexis Mac Allister,346,Argentina,32,FirstHalf,Pass,Successful,65.7,48.6,65.9,32.7
+336,11119,Lionel Messi,346,Argentina,32,FirstHalf,Pass,Successful,73.7,29.4,88.5,16.8
+337,303728,Nahuel Molina,346,Argentina,32,FirstHalf,Pass,Successful,88.4,16.2,76.9,28.8
+220,328549,Deroy Duarte,2555,Cabo Verde,32,FirstHalf,Challenge,Unsuccessful,29.2,69,,
+338,361732,Thiago Almada,346,Argentina,32,FirstHalf,TakeOn,Successful,70.8,31,,
+339,361732,Thiago Almada,346,Argentina,32,FirstHalf,Pass,Successful,79.7,33.6,82.3,38.1
+340,11119,Lionel Messi,346,Argentina,32,FirstHalf,BallTouch,Unsuccessful,82.9,38.8,,
+221,379742,Laros Duarte,2555,Cabo Verde,32,FirstHalf,Pass,Successful,19,57.9,28.8,73.6
+222,361964,Jovane Cabral,2555,Cabo Verde,32,FirstHalf,BallRecovery,Successful,28.8,73.6,,
+341,125547,Rodrigo De Paul,346,Argentina,32,FirstHalf,Challenge,Unsuccessful,67,21.2,,
+227,361964,Jovane Cabral,2555,Cabo Verde,32,FirstHalf,TakeOn,Successful,33,78.8,,
+223,361964,Jovane Cabral,2555,Cabo Verde,33,FirstHalf,Pass,Successful,32.1,70.6,38.6,67
+224,342550,Nuno da Costa,2555,Cabo Verde,33,FirstHalf,Pass,Successful,38.6,67,32.6,64.2
+225,361964,Jovane Cabral,2555,Cabo Verde,33,FirstHalf,Pass,Successful,40,65.7,48.3,50.7
+226,379742,Laros Duarte,2555,Cabo Verde,33,FirstHalf,TakeOn,Unsuccessful,47.8,52,,
+343,330672,Facundo Medina,346,Argentina,33,FirstHalf,Tackle,Successful,52.2,48,,
+344,330672,Facundo Medina,346,Argentina,33,FirstHalf,BallRecovery,Successful,42.4,49,,
+345,330672,Facundo Medina,346,Argentina,33,FirstHalf,Pass,Successful,42.4,49,36.4,45.4
+346,323663,Cristian Romero,346,Argentina,33,FirstHalf,Pass,Successful,37.1,41.5,45.4,35.5
+347,125547,Rodrigo De Paul,346,Argentina,33,FirstHalf,Pass,Successful,48.1,35.1,47.7,47.8
+348,345319,Alexis Mac Allister,346,Argentina,33,FirstHalf,Pass,Successful,47.6,46.6,53.3,33.3
+349,125547,Rodrigo De Paul,346,Argentina,33,FirstHalf,Pass,Successful,61.4,35.8,50.3,59.8
+350,340105,Lisandro Martínez,346,Argentina,33,FirstHalf,Pass,Successful,52.5,57.7,48.3,42.6
+351,323663,Cristian Romero,346,Argentina,33,FirstHalf,Pass,Successful,60.3,39.4,60.5,64.5
+352,340105,Lisandro Martínez,346,Argentina,33,FirstHalf,Pass,Successful,63.6,68.1,67.6,62.2
+353,345319,Alexis Mac Allister,346,Argentina,33,FirstHalf,Pass,Successful,68.3,61.8,62.8,70.2
+354,340105,Lisandro Martínez,346,Argentina,33,FirstHalf,Pass,Successful,63.7,63,62.2,37
+355,125547,Rodrigo De Paul,346,Argentina,33,FirstHalf,Pass,Successful,66.3,36.6,87.8,78.1
+356,361732,Thiago Almada,346,Argentina,33,FirstHalf,BallTouch,Successful,87.8,78.1,,
+229,129648,Steven Moreira,2555,Cabo Verde,34,FirstHalf,Pass,Successful,12.6,0,11.8,41.9
+230,235763,Diney Borges,2555,Cabo Verde,34,FirstHalf,Pass,Unsuccessful,14.2,42.8,64.3,93.8
+358,303728,Nahuel Molina,346,Argentina,34,FirstHalf,BallRecovery,Successful,34.2,6.9,,
+359,303728,Nahuel Molina,346,Argentina,34,FirstHalf,Pass,Successful,35.4,9.3,37.2,29.4
+360,323663,Cristian Romero,346,Argentina,34,FirstHalf,Pass,Successful,42.5,32.7,56.1,33.3
+361,125547,Rodrigo De Paul,346,Argentina,34,FirstHalf,Pass,Successful,56.1,31.8,43.6,31.8
+362,323663,Cristian Romero,346,Argentina,34,FirstHalf,Pass,Successful,45.7,33.9,45.7,65.7
+363,340105,Lisandro Martínez,346,Argentina,34,FirstHalf,Pass,Successful,50.7,64.5,53,36.6
+364,125547,Rodrigo De Paul,346,Argentina,34,FirstHalf,Pass,Successful,53.1,40.2,52.1,69.7
+365,340105,Lisandro Martínez,346,Argentina,34,FirstHalf,Pass,Successful,57.8,67.8,52,43.3
+366,323663,Cristian Romero,346,Argentina,34,FirstHalf,Pass,Successful,62.7,42.6,88.5,87.9
+367,361732,Thiago Almada,346,Argentina,34,FirstHalf,Pass,Successful,88.7,88.8,72,89.4
+11374,303728,Nahuel Molina,346,Argentina,35,FirstHalf,OffsideGiven,Unsuccessful,82.9,28.2,,
+368,330672,Facundo Medina,346,Argentina,35,FirstHalf,Pass,Successful,72.2,89.1,75.1,79.6
+369,369430,Enzo Fernández,346,Argentina,35,FirstHalf,Pass,Successful,76.2,84,79.4,90.9
+370,361732,Thiago Almada,346,Argentina,35,FirstHalf,Pass,Successful,78.9,91.5,73.9,91.9
+371,369430,Enzo Fernández,346,Argentina,35,FirstHalf,Pass,Successful,73.5,91.8,60.1,78.7
+372,340105,Lisandro Martínez,346,Argentina,35,FirstHalf,Pass,Successful,58.4,68.4,55.8,45.4
+373,323663,Cristian Romero,346,Argentina,35,FirstHalf,Pass,Successful,63,45.4,67.8,48.6
+374,345319,Alexis Mac Allister,346,Argentina,35,FirstHalf,OffsidePass,Successful,65.4,44.4,82.9,28.2
+231,129648,Steven Moreira,2555,Cabo Verde,35,FirstHalf,OffsideProvoked,Successful,20.5,29.1,,
+232,235763,Diney Borges,2555,Cabo Verde,35,FirstHalf,Pass,Successful,24.7,74.2,28.1,91.1
+233,505284,Sidny Cabral,2555,Cabo Verde,35,FirstHalf,Pass,Successful,28.5,90.3,20.6,81.2
+234,235763,Diney Borges,2555,Cabo Verde,35,FirstHalf,Pass,Successful,22.4,74.5,25.7,28.6
+235,430933,Pico Lopes,2555,Cabo Verde,35,FirstHalf,Pass,Successful,33.2,27,38.9,10.6
+236,129648,Steven Moreira,2555,Cabo Verde,35,FirstHalf,Pass,Successful,38,11.3,45,23.3
+237,379742,Laros Duarte,2555,Cabo Verde,35,FirstHalf,Pass,Successful,38.9,31.5,36.1,54
+375,299344,Lautaro Martínez,346,Argentina,35,FirstHalf,Challenge,Unsuccessful,63.4,62.4,,
+238,438902,Kevin Pina,2555,Cabo Verde,35,FirstHalf,TakeOn,Successful,36.6,37.6,,
+239,438902,Kevin Pina,2555,Cabo Verde,35,FirstHalf,Pass,Successful,38.9,30.6,40.8,9.1
+240,379742,Laros Duarte,2555,Cabo Verde,35,FirstHalf,Pass,Successful,39.2,29.4,41.8,63.7
+241,328549,Deroy Duarte,2555,Cabo Verde,35,FirstHalf,Pass,Successful,41.8,63.7,34.6,65.7
+242,235763,Diney Borges,2555,Cabo Verde,35,FirstHalf,Pass,Successful,34.6,65.7,37.8,86.8
+243,505284,Sidny Cabral,2555,Cabo Verde,36,FirstHalf,Pass,Successful,36.8,86.5,22.4,62.9
+244,235763,Diney Borges,2555,Cabo Verde,36,FirstHalf,Pass,Successful,22.4,62.9,21.6,31.3
+245,430933,Pico Lopes,2555,Cabo Verde,36,FirstHalf,Pass,Successful,23.2,29.8,40.1,28.9
+246,129648,Steven Moreira,2555,Cabo Verde,36,FirstHalf,Pass,Successful,39.5,27,43.5,10
+247,74790,Ryan Mendes,2555,Cabo Verde,36,FirstHalf,Pass,Successful,43.5,10,29.2,9.8
+248,438902,Kevin Pina,2555,Cabo Verde,36,FirstHalf,Pass,Successful,30.3,22.8,17.7,8.6
+249,430933,Pico Lopes,2555,Cabo Verde,36,FirstHalf,Pass,Successful,17.7,8.6,30.2,8.6
+250,328549,Deroy Duarte,2555,Cabo Verde,36,FirstHalf,Pass,Unsuccessful,30.2,8.6,32.3,7.6
+377,345319,Alexis Mac Allister,346,Argentina,36,FirstHalf,BlockedPass,Successful,67.7,92.4,,
+252,129648,Steven Moreira,2555,Cabo Verde,36,FirstHalf,Pass,Successful,36,0,22,8.2
+253,430933,Pico Lopes,2555,Cabo Verde,36,FirstHalf,Pass,Successful,25.5,18.9,15.2,44.9
+254,123577,Vozinha,2555,Cabo Verde,36,FirstHalf,Pass,Successful,15.6,47,22.9,79.3
+255,235763,Diney Borges,2555,Cabo Verde,36,FirstHalf,Pass,Successful,23,79.1,32.5,91.8
+256,505284,Sidny Cabral,2555,Cabo Verde,36,FirstHalf,Pass,Successful,32.5,91.8,23.5,71.4
+257,235763,Diney Borges,2555,Cabo Verde,36,FirstHalf,Pass,Successful,20.3,68.5,21.8,23.1
+258,430933,Pico Lopes,2555,Cabo Verde,36,FirstHalf,Pass,Successful,22.6,18.8,43.8,22.1
+259,328549,Deroy Duarte,2555,Cabo Verde,36,FirstHalf,Pass,Successful,43.6,10.6,64.7,37.1
+260,342550,Nuno da Costa,2555,Cabo Verde,36,FirstHalf,Pass,Unsuccessful,64.7,37.1,75.8,37
+379,323663,Cristian Romero,346,Argentina,37,FirstHalf,Clearance,Successful,24.8,76.8,32.5,92.1
+261,129648,Steven Moreira,2555,Cabo Verde,37,FirstHalf,Pass,Unsuccessful,91.3,15,100,51.3
+381,102248,Emiliano Martínez,346,Argentina,37,FirstHalf,Pass,Successful,5,47.4,8.5,64.6
+382,340105,Lisandro Martínez,346,Argentina,37,FirstHalf,Pass,Successful,8.7,62.7,8.6,29.7
+383,323663,Cristian Romero,346,Argentina,37,FirstHalf,Pass,Successful,7.1,30,1.8,48.9
+384,102248,Emiliano Martínez,346,Argentina,37,FirstHalf,Pass,Successful,1.8,48.9,11.7,70.3
+385,340105,Lisandro Martínez,346,Argentina,37,FirstHalf,Pass,Successful,36.8,63.7,42.7,67
+386,369430,Enzo Fernández,346,Argentina,37,FirstHalf,Pass,Successful,40.7,63,44.5,13.6
+387,303728,Nahuel Molina,346,Argentina,37,FirstHalf,BallTouch,Unsuccessful,54.7,3.6,,
+264,505284,Sidny Cabral,2555,Cabo Verde,38,FirstHalf,Pass,Successful,51.6,100,31.6,93
+265,235763,Diney Borges,2555,Cabo Verde,38,FirstHalf,Pass,Successful,28.4,81.2,27.8,44.2
+266,430933,Pico Lopes,2555,Cabo Verde,38,FirstHalf,Pass,Successful,28.7,44.2,40.9,45.1
+267,438902,Kevin Pina,2555,Cabo Verde,38,FirstHalf,Pass,Successful,47.3,11.9,53.5,4.3
+268,74790,Ryan Mendes,2555,Cabo Verde,38,FirstHalf,Pass,Successful,53.5,4.3,36.1,26.1
+269,129648,Steven Moreira,2555,Cabo Verde,38,FirstHalf,Pass,Successful,36.1,26.1,39.3,37.7
+270,379742,Laros Duarte,2555,Cabo Verde,38,FirstHalf,Pass,Successful,39.3,37.7,62.8,34.3
+271,328549,Deroy Duarte,2555,Cabo Verde,38,FirstHalf,Pass,Successful,63.9,28.9,68.7,3.5
+272,74790,Ryan Mendes,2555,Cabo Verde,38,FirstHalf,Pass,Successful,62.5,13.4,53.4,24.3
+273,438902,Kevin Pina,2555,Cabo Verde,38,FirstHalf,Pass,Successful,53.2,28.5,59.5,49.6
+274,379742,Laros Duarte,2555,Cabo Verde,38,FirstHalf,TakeOn,Unsuccessful,62.6,49.7,,
+390,345319,Alexis Mac Allister,346,Argentina,38,FirstHalf,Tackle,Unsuccessful,37.4,50.3,,
+275,379742,Laros Duarte,2555,Cabo Verde,38,FirstHalf,BallTouch,Successful,60,46.3,,
+391,345319,Alexis Mac Allister,346,Argentina,38,FirstHalf,Pass,Unsuccessful,33.2,50.2,44,52.2
+392,299344,Lautaro Martínez,346,Argentina,38,FirstHalf,Challenge,Unsuccessful,43.8,52.6,,
+276,438902,Kevin Pina,2555,Cabo Verde,38,FirstHalf,TakeOn,Successful,56.2,47.4,,
+277,438902,Kevin Pina,2555,Cabo Verde,38,FirstHalf,Pass,Successful,60.7,63.6,73,67.9
+278,361964,Jovane Cabral,2555,Cabo Verde,38,FirstHalf,Pass,Successful,70.4,48.7,87.7,22.2
+279,328549,Deroy Duarte,2555,Cabo Verde,38,FirstHalf,Pass,Successful,87.7,22.2,90.8,82.3
+280,505284,Sidny Cabral,2555,Cabo Verde,38,FirstHalf,Pass,Successful,90,81.1,88.3,69.7
+281,74790,Ryan Mendes,2555,Cabo Verde,38,FirstHalf,Pass,Unsuccessful,88.3,71.8,90.4,40.6
+393,330672,Facundo Medina,346,Argentina,38,FirstHalf,Clearance,Successful,9.5,59.2,35.8,85.3
+282,430933,Pico Lopes,2555,Cabo Verde,39,FirstHalf,Aerial,Successful,64.2,14.7,,
+394,299344,Lautaro Martínez,346,Argentina,39,FirstHalf,Aerial,Unsuccessful,35.8,85.3,,
+283,430933,Pico Lopes,2555,Cabo Verde,39,FirstHalf,Pass,Unsuccessful,64.2,14.7,82.1,11.7
+395,330672,Facundo Medina,346,Argentina,39,FirstHalf,Pass,Successful,29.6,90.3,37.9,84.3
+396,361732,Thiago Almada,346,Argentina,39,FirstHalf,Foul,Successful,35.7,76,,
+284,328549,Deroy Duarte,2555,Cabo Verde,39,FirstHalf,Foul,Unsuccessful,64.3,23.9,,
+397,369430,Enzo Fernández,346,Argentina,39,FirstHalf,Pass,Successful,44.6,81,33,69.6
+398,340105,Lisandro Martínez,346,Argentina,39,FirstHalf,Pass,Successful,32.7,62.2,34.4,36.1
+399,323663,Cristian Romero,346,Argentina,39,FirstHalf,Pass,Successful,39.2,29.4,43.3,14.7
+400,125547,Rodrigo De Paul,346,Argentina,39,FirstHalf,Pass,Successful,43.3,14.8,40.1,28.9
+401,323663,Cristian Romero,346,Argentina,39,FirstHalf,Pass,Successful,38.8,32.2,37.4,61.9
+402,340105,Lisandro Martínez,346,Argentina,39,FirstHalf,Pass,Successful,34.4,59.5,34.2,35.8
+403,323663,Cristian Romero,346,Argentina,39,FirstHalf,Pass,Successful,33.8,36,41.5,42
+404,345319,Alexis Mac Allister,346,Argentina,39,FirstHalf,Pass,Successful,40.1,40.6,32.9,33.1
+405,323663,Cristian Romero,346,Argentina,39,FirstHalf,Pass,Successful,35.8,28,45.8,28.6
+406,345319,Alexis Mac Allister,346,Argentina,39,FirstHalf,Pass,Successful,46.3,26.1,45.9,6.6
+407,125547,Rodrigo De Paul,346,Argentina,39,FirstHalf,Pass,Successful,49.1,13.8,54.5,25.5
+408,345319,Alexis Mac Allister,346,Argentina,39,FirstHalf,Pass,Successful,59.2,26.2,54.2,16.9
+11423,330672,Facundo Medina,346,Argentina,40,FirstHalf,OffsideGiven,Unsuccessful,88.6,68.7,,
+409,125547,Rodrigo De Paul,346,Argentina,40,FirstHalf,Dispossessed,Successful,68.6,32.4,,
+285,379742,Laros Duarte,2555,Cabo Verde,40,FirstHalf,Tackle,Successful,31.4,67.6,,
+286,438902,Kevin Pina,2555,Cabo Verde,40,FirstHalf,BallRecovery,Successful,31.1,65.5,,
+287,438902,Kevin Pina,2555,Cabo Verde,40,FirstHalf,Pass,Successful,31.1,65.5,36.2,86.9
+288,505284,Sidny Cabral,2555,Cabo Verde,40,FirstHalf,Dispossessed,Successful,36.6,84.4,,
+410,11119,Lionel Messi,346,Argentina,40,FirstHalf,Tackle,Successful,63.4,15.6,,
+411,11119,Lionel Messi,346,Argentina,40,FirstHalf,BallRecovery,Successful,63.8,25.2,,
+412,11119,Lionel Messi,346,Argentina,40,FirstHalf,Pass,Successful,65.8,32.7,66.1,42.4
+413,369430,Enzo Fernández,346,Argentina,40,FirstHalf,Pass,Successful,66.6,44.2,68.1,69.6
+414,361732,Thiago Almada,346,Argentina,40,FirstHalf,Pass,Successful,68.8,60.9,68.3,45.9
+415,345319,Alexis Mac Allister,346,Argentina,40,FirstHalf,Pass,Successful,67.5,36.4,79.1,13.9
+416,303728,Nahuel Molina,346,Argentina,40,FirstHalf,Pass,Successful,80.3,13.2,68.8,19.3
+417,345319,Alexis Mac Allister,346,Argentina,40,FirstHalf,Pass,Successful,68.2,14.8,74.7,7
+418,303728,Nahuel Molina,346,Argentina,40,FirstHalf,Pass,Successful,74.7,6.9,60.9,18.9
+419,323663,Cristian Romero,346,Argentina,40,FirstHalf,Pass,Successful,59.2,31.5,60.9,61.2
+420,340105,Lisandro Martínez,346,Argentina,40,FirstHalf,Pass,Successful,64.6,59.7,64.4,27.3
+421,361732,Thiago Almada,346,Argentina,40,FirstHalf,Pass,Successful,63.5,25.8,72.6,25.8
+422,125547,Rodrigo De Paul,346,Argentina,40,FirstHalf,Pass,Successful,81.4,32.7,86.9,52.6
+423,369430,Enzo Fernández,346,Argentina,40,FirstHalf,OffsidePass,Successful,83.9,51.7,88.6,68.7
+289,430933,Pico Lopes,2555,Cabo Verde,40,FirstHalf,OffsideProvoked,Successful,12.4,48.1,,
+290,235763,Diney Borges,2555,Cabo Verde,41,FirstHalf,Pass,Successful,15,56.3,19.8,22.5
+291,430933,Pico Lopes,2555,Cabo Verde,41,FirstHalf,Pass,Successful,31.6,27.9,29.4,63
+292,235763,Diney Borges,2555,Cabo Verde,41,FirstHalf,Pass,Successful,30.4,64.8,34.9,94.8
+293,505284,Sidny Cabral,2555,Cabo Verde,41,FirstHalf,Pass,Successful,34.2,94.8,50.2,96.2
+424,303728,Nahuel Molina,346,Argentina,41,FirstHalf,Challenge,Unsuccessful,49.9,7.4,,
+294,361964,Jovane Cabral,2555,Cabo Verde,41,FirstHalf,TakeOn,Successful,50.1,92.6,,
+295,361964,Jovane Cabral,2555,Cabo Verde,41,FirstHalf,Pass,Unsuccessful,73.7,72.3,72.1,50.9
+425,369430,Enzo Fernández,346,Argentina,41,FirstHalf,BallTouch,Successful,23.3,36.1,,
+426,345319,Alexis Mac Allister,346,Argentina,41,FirstHalf,BallRecovery,Successful,23.7,29.1,,
+427,345319,Alexis Mac Allister,346,Argentina,41,FirstHalf,Pass,Successful,23.7,29.1,27.4,14.8
+428,125547,Rodrigo De Paul,346,Argentina,41,FirstHalf,Pass,Successful,27.4,14.8,27.5,24.9
+429,369430,Enzo Fernández,346,Argentina,41,FirstHalf,Foul,Successful,32.3,24.6,,
+296,328549,Deroy Duarte,2555,Cabo Verde,41,FirstHalf,Foul,Unsuccessful,67.8,75.4,,
+430,340105,Lisandro Martínez,346,Argentina,41,FirstHalf,Pass,Successful,23.3,34.9,24.9,24
+431,323663,Cristian Romero,346,Argentina,41,FirstHalf,Pass,Successful,28.4,29.7,28.4,60
+432,340105,Lisandro Martínez,346,Argentina,41,FirstHalf,Pass,Successful,29.4,63.9,36.3,64.3
+433,369430,Enzo Fernández,346,Argentina,41,FirstHalf,Pass,Successful,37.7,70.3,43.6,96.3
+434,330672,Facundo Medina,346,Argentina,41,FirstHalf,Pass,Successful,42.3,95.1,28.6,81.3
+435,340105,Lisandro Martínez,346,Argentina,42,FirstHalf,Pass,Successful,27.1,78.7,10.5,60.9
+436,102248,Emiliano Martínez,346,Argentina,42,FirstHalf,Pass,Successful,9.7,59.1,13.9,31.2
+437,323663,Cristian Romero,346,Argentina,42,FirstHalf,Pass,Successful,11.9,26.5,23.8,4.9
+438,303728,Nahuel Molina,346,Argentina,42,FirstHalf,Pass,Successful,25.4,6.7,32.7,12
+439,125547,Rodrigo De Paul,346,Argentina,42,FirstHalf,Pass,Successful,32.7,12,38.2,4.5
+440,11119,Lionel Messi,346,Argentina,42,FirstHalf,Foul,Successful,40.6,7.6,,
+297,235763,Diney Borges,2555,Cabo Verde,42,FirstHalf,Foul,Unsuccessful,59.4,92.4,,
+441,11119,Lionel Messi,346,Argentina,42,FirstHalf,Pass,Unsuccessful,40.2,6.9,96.1,24
+298,123577,Vozinha,2555,Cabo Verde,42,FirstHalf,KeeperSweeper,Successful,5.1,73.3,,
+299,123577,Vozinha,2555,Cabo Verde,42,FirstHalf,KeeperPickup,Successful,5.1,73.3,,
+301,123577,Vozinha,2555,Cabo Verde,42,FirstHalf,Foul,Successful,5.8,74.4,,
+442,299344,Lautaro Martínez,346,Argentina,42,FirstHalf,Foul,Unsuccessful,94.2,25.6,,
+302,235763,Diney Borges,2555,Cabo Verde,42,FirstHalf,Pass,Successful,9.2,75.7,3.9,58.7
+303,123577,Vozinha,2555,Cabo Verde,42,FirstHalf,Pass,Successful,5.2,55.5,24.9,8.3
+304,430933,Pico Lopes,2555,Cabo Verde,43,FirstHalf,Pass,Unsuccessful,30,2.8,61.1,0
+444,330672,Facundo Medina,346,Argentina,43,FirstHalf,Pass,Successful,46,100,32.1,95.2
+445,340105,Lisandro Martínez,346,Argentina,43,FirstHalf,Pass,Successful,31.5,83.8,30.8,52.8
+446,323663,Cristian Romero,346,Argentina,43,FirstHalf,Pass,Successful,32.5,51.7,40.5,69.4
+447,345319,Alexis Mac Allister,346,Argentina,43,FirstHalf,Pass,Successful,56.2,48.4,44.3,33
+448,323663,Cristian Romero,346,Argentina,43,FirstHalf,Pass,Successful,46.8,37.3,47.5,66.6
+449,340105,Lisandro Martínez,346,Argentina,43,FirstHalf,Pass,Successful,57.9,64.2,51.9,43
+450,323663,Cristian Romero,346,Argentina,43,FirstHalf,Pass,Successful,59.2,43.9,59.7,64
+451,340105,Lisandro Martínez,346,Argentina,43,FirstHalf,Pass,Successful,60.7,68.2,73.4,73.5
+452,369430,Enzo Fernández,346,Argentina,43,FirstHalf,Pass,Successful,75.4,76.5,79.4,92.4
+453,361732,Thiago Almada,346,Argentina,43,FirstHalf,Pass,Successful,76.3,88.9,64.4,83.1
+454,330672,Facundo Medina,346,Argentina,43,FirstHalf,Pass,Successful,64.4,82.9,70.9,78.3
+455,369430,Enzo Fernández,346,Argentina,43,FirstHalf,Pass,Successful,71,78.1,72.4,90.1
+456,361732,Thiago Almada,346,Argentina,44,FirstHalf,Pass,Successful,70.8,91.3,65.6,82.5
+457,369430,Enzo Fernández,346,Argentina,44,FirstHalf,Pass,Successful,65.6,82.5,60.7,93.3
+458,330672,Facundo Medina,346,Argentina,44,FirstHalf,Pass,Successful,60.6,92.4,57.7,73.2
+459,340105,Lisandro Martínez,346,Argentina,44,FirstHalf,Pass,Successful,60.2,63.9,54.5,40.6
+460,323663,Cristian Romero,346,Argentina,44,FirstHalf,Pass,Successful,64.7,39.1,71.4,45.9
+461,345319,Alexis Mac Allister,346,Argentina,44,FirstHalf,Pass,Unsuccessful,71,49.3,79.1,49.2
+306,430933,Pico Lopes,2555,Cabo Verde,44,FirstHalf,Interception,Successful,20.9,50.8,,
+462,369430,Enzo Fernández,346,Argentina,44,FirstHalf,SavedShot,Successful,81.3,53.5,,
+307,123577,Vozinha,2555,Cabo Verde,44,FirstHalf,Save,Successful,3.4,50.1,,
+308,505284,Sidny Cabral,2555,Cabo Verde,44,FirstHalf,Clearance,Successful,11.2,75.9,34.4,83.9
+463,125547,Rodrigo De Paul,346,Argentina,44,FirstHalf,Pass,Successful,69.3,13.2,77.9,3.9
+464,303728,Nahuel Molina,346,Argentina,44,FirstHalf,Pass,Successful,78,5.1,85.5,5.8
+465,11119,Lionel Messi,346,Argentina,44,FirstHalf,Pass,Successful,89.2,12.1,76,11.8
+466,125547,Rodrigo De Paul,346,Argentina,44,FirstHalf,Pass,Successful,75.5,11.8,63.5,14.2
+467,323663,Cristian Romero,346,Argentina,44,FirstHalf,Pass,Successful,61.3,19.6,62,48.9
+468,340105,Lisandro Martínez,346,Argentina,44,FirstHalf,Pass,Successful,68.9,70.3,63.6,85.6
+469,330672,Facundo Medina,346,Argentina,44,FirstHalf,Pass,Successful,61.9,82.9,55.9,66.3
+470,345319,Alexis Mac Allister,346,Argentina,44,FirstHalf,Pass,Successful,53.4,62.7,53.2,42.3
+471,323663,Cristian Romero,346,Argentina,44,FirstHalf,Pass,Successful,55,41.1,57.7,29.7
+472,125547,Rodrigo De Paul,346,Argentina,44,FirstHalf,Pass,Successful,57.5,31.5,53.8,35.8
+473,323663,Cristian Romero,346,Argentina,44,FirstHalf,Pass,Successful,53.8,35.7,63.1,38.8
+474,345319,Alexis Mac Allister,346,Argentina,44,FirstHalf,Pass,Successful,61.4,32.4,62.5,21.4
+475,125547,Rodrigo De Paul,346,Argentina,44,FirstHalf,Pass,Successful,62.6,20.7,52.4,58.9
+476,340105,Lisandro Martínez,346,Argentina,45,FirstHalf,Pass,Unsuccessful,63.8,62.7,100,34.5
+311,235763,Diney Borges,2555,Cabo Verde,45,FirstHalf,Pass,Successful,4.4,60.5,2,46.4
+312,123577,Vozinha,2555,Cabo Verde,45,FirstHalf,Pass,Unsuccessful,4.2,47.5,41,28.2
+478,330672,Facundo Medina,346,Argentina,45,FirstHalf,Aerial,Successful,59,71.8,,
+313,74790,Ryan Mendes,2555,Cabo Verde,45,FirstHalf,Aerial,Unsuccessful,41,28.2,,
+479,330672,Facundo Medina,346,Argentina,45,FirstHalf,Pass,Successful,59,71.8,65.6,90.1
+480,361732,Thiago Almada,346,Argentina,45,FirstHalf,BallRecovery,Successful,65.6,90.1,,
+314,74790,Ryan Mendes,2555,Cabo Verde,45,FirstHalf,Challenge,Unsuccessful,28.8,11.6,,
+481,361732,Thiago Almada,346,Argentina,45,FirstHalf,TakeOn,Successful,71.2,88.4,,
+482,361732,Thiago Almada,346,Argentina,45,FirstHalf,Pass,Successful,67.1,79.6,63.1,74.1
+483,369430,Enzo Fernández,346,Argentina,45,FirstHalf,Pass,Successful,60.8,76.2,46.9,69.7
+484,340105,Lisandro Martínez,346,Argentina,45,FirstHalf,Pass,Successful,48.4,66.1,47.5,32.8
+485,323663,Cristian Romero,346,Argentina,45,FirstHalf,Pass,Successful,67,36.3,75.5,36.7
+486,125547,Rodrigo De Paul,346,Argentina,45,FirstHalf,Pass,Successful,75.4,29.1,75.7,5.8
+487,303728,Nahuel Molina,346,Argentina,45,FirstHalf,Pass,Successful,77,10.2,86.4,12.9
+488,125547,Rodrigo De Paul,346,Argentina,45,FirstHalf,Pass,Successful,88,9.9,72,8.8
+489,303728,Nahuel Molina,346,Argentina,46,FirstHalf,Pass,Successful,71,13.8,71.3,24.7
+490,345319,Alexis Mac Allister,346,Argentina,46,FirstHalf,Pass,Successful,71.3,24.7,70.6,7.8
+491,303728,Nahuel Molina,346,Argentina,46,FirstHalf,Pass,Successful,70.3,7.5,78.4,6.1
+492,125547,Rodrigo De Paul,346,Argentina,46,FirstHalf,Pass,Successful,66.7,14.2,62.4,34.5
+493,369430,Enzo Fernández,346,Argentina,46,FirstHalf,Pass,Successful,64.8,39.6,65.3,67.8
+494,340105,Lisandro Martínez,346,Argentina,46,FirstHalf,Pass,Successful,66.1,68.2,66.2,58.3
+495,369430,Enzo Fernández,346,Argentina,46,FirstHalf,Pass,Successful,67.5,57.1,70.8,55.2
+496,11119,Lionel Messi,346,Argentina,46,FirstHalf,Pass,Successful,69.3,59.2,62,67.6
+497,340105,Lisandro Martínez,346,Argentina,46,FirstHalf,Pass,Successful,65.4,67.6,64.7,62.4
+498,11119,Lionel Messi,346,Argentina,46,FirstHalf,Pass,Unsuccessful,66,64,88,68.5
+316,129648,Steven Moreira,2555,Cabo Verde,46,FirstHalf,BallRecovery,Successful,19.4,32.2,,
+317,129648,Steven Moreira,2555,Cabo Verde,46,FirstHalf,Pass,Successful,19.4,32.2,33,36.9
+318,438902,Kevin Pina,2555,Cabo Verde,46,FirstHalf,BallTouch,Unsuccessful,33,36.9,,
+499,345319,Alexis Mac Allister,346,Argentina,46,FirstHalf,BallRecovery,Successful,68.1,58.9,,
+500,345319,Alexis Mac Allister,346,Argentina,46,FirstHalf,Pass,Successful,68.1,58.9,75.1,54.4
+501,11119,Lionel Messi,346,Argentina,46,FirstHalf,TakeOn,Unsuccessful,76.8,46.3,,
+319,235763,Diney Borges,2555,Cabo Verde,46,FirstHalf,Tackle,Successful,23.2,53.7,,
+320,438902,Kevin Pina,2555,Cabo Verde,46,FirstHalf,BallTouch,Successful,24.8,54,,
+338,235763,Diney Borges,2555,Cabo Verde,46,FirstHalf,BallTouch,Successful,28,74.1,,
+321,438902,Kevin Pina,2555,Cabo Verde,46,FirstHalf,BallRecovery,Successful,26.7,58.4,,
+322,438902,Kevin Pina,2555,Cabo Verde,46,FirstHalf,Pass,Successful,26.7,58.4,47.2,59.1
+323,361964,Jovane Cabral,2555,Cabo Verde,46,FirstHalf,Dispossessed,Successful,47.6,58.2,,
+503,323663,Cristian Romero,346,Argentina,46,FirstHalf,Tackle,Successful,52.4,41.8,,
+504,323663,Cristian Romero,346,Argentina,46,FirstHalf,BallRecovery,Successful,56.5,39,,
+505,323663,Cristian Romero,346,Argentina,46,FirstHalf,Pass,Successful,57.6,35.1,66.6,32.4
+506,299344,Lautaro Martínez,346,Argentina,46,FirstHalf,Pass,Successful,67.8,35.2,68,44.2
+507,369430,Enzo Fernández,346,Argentina,46,FirstHalf,Pass,Unsuccessful,68,44.1,69.1,42.7
+324,328549,Deroy Duarte,2555,Cabo Verde,46,FirstHalf,BallTouch,Successful,35.3,60.2,,
+508,299344,Lautaro Martínez,346,Argentina,46,FirstHalf,BallTouch,Successful,68.7,36.6,,
+325,505284,Sidny Cabral,2555,Cabo Verde,46,FirstHalf,Foul,Successful,30.2,66.2,,
+509,11119,Lionel Messi,346,Argentina,46,FirstHalf,Foul,Unsuccessful,69.8,33.8,,
+326,235763,Diney Borges,2555,Cabo Verde,46,FirstHalf,Pass,Successful,32.3,69.6,37.1,36.4
+327,430933,Pico Lopes,2555,Cabo Verde,46,FirstHalf,Pass,Successful,36.6,34.8,44.9,14.9
+328,74790,Ryan Mendes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,44.9,14.9,55.8,29.2
+329,379742,Laros Duarte,2555,Cabo Verde,47,FirstHalf,Pass,Successful,55.8,29.2,51.7,35.8
+330,74790,Ryan Mendes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,51.1,36.4,41.2,75.6
+331,328549,Deroy Duarte,2555,Cabo Verde,47,FirstHalf,Pass,Successful,52.8,81.7,46.9,29.1
+332,430933,Pico Lopes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,48.4,27.6,41.2,49
+333,235763,Diney Borges,2555,Cabo Verde,47,FirstHalf,Pass,Successful,41.2,49,46,73.3
+334,328549,Deroy Duarte,2555,Cabo Verde,47,FirstHalf,Pass,Successful,53,70.6,44.9,28.5
+335,430933,Pico Lopes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,59.6,24.6,63,5
+336,74790,Ryan Mendes,2555,Cabo Verde,47,FirstHalf,Pass,Successful,64.3,6.7,93.1,11.3
+337,379742,Laros Duarte,2555,Cabo Verde,47,FirstHalf,Pass,Unsuccessful,89.1,8.2,86.2,8.2
+510,330672,Facundo Medina,346,Argentina,47,FirstHalf,BlockedPass,Successful,13.8,91.8,,
+511,330672,Facundo Medina,346,Argentina,47,FirstHalf,BallRecovery,Successful,16,94.5,,
+512,330672,Facundo Medina,346,Argentina,47,FirstHalf,Pass,Successful,16,94.5,12.2,88.6
+513,340105,Lisandro Martínez,346,Argentina,47,FirstHalf,Pass,Successful,12.2,88.6,15.9,81
+514,361732,Thiago Almada,346,Argentina,47,FirstHalf,Pass,Successful,24.1,73.9,27.2,65.2
+515,369430,Enzo Fernández,346,Argentina,47,FirstHalf,Pass,Successful,27.2,65.2,20.4,65.1
+516,345319,Alexis Mac Allister,346,Argentina,47,FirstHalf,Pass,Successful,21.6,62.2,28.6,53.5
+517,369430,Enzo Fernández,346,Argentina,47,FirstHalf,Pass,Successful,28.6,47.4,31.5,13.2
+518,125547,Rodrigo De Paul,346,Argentina,47,FirstHalf,Pass,Successful,33.8,12.7,30.6,31
+519,369430,Enzo Fernández,346,Argentina,48,FirstHalf,Pass,Successful,30,31.3,37.5,34.9
+520,11119,Lionel Messi,346,Argentina,48,FirstHalf,Pass,Successful,36.4,40.8,38.8,59.1
+521,369430,Enzo Fernández,346,Argentina,48,FirstHalf,Pass,Successful,42.4,61.5,49,54.7
+522,345319,Alexis Mac Allister,346,Argentina,48,FirstHalf,Pass,Successful,49,54.7,40.4,52.5
+523,11119,Lionel Messi,346,Argentina,48,FirstHalf,Pass,Successful,46.6,54.1,46.2,26.7
+524,323663,Cristian Romero,346,Argentina,48,FirstHalf,Pass,Successful,55.7,32.7,48.2,60.1
+525,369430,Enzo Fernández,346,Argentina,48,FirstHalf,Pass,Successful,49.8,61,58.3,68.1
+526,361732,Thiago Almada,346,Argentina,48,FirstHalf,Pass,Successful,57.8,71.8,60.5,95.1
+527,330672,Facundo Medina,346,Argentina,48,FirstHalf,Pass,Successful,60.4,95.8,52.9,82.6
+528,369430,Enzo Fernández,346,Argentina,48,FirstHalf,Pass,Successful,53,82.6,53.1,91.5
+529,330672,Facundo Medina,346,Argentina,48,FirstHalf,Pass,Successful,48.4,86.2,39.8,63.9
+530,340105,Lisandro Martínez,346,Argentina,48,FirstHalf,Pass,Successful,36.9,64,53.4,64.5
+531,369430,Enzo Fernández,346,Argentina,48,FirstHalf,Pass,Successful,51.5,58,47.5,46.2
+532,345319,Alexis Mac Allister,346,Argentina,48,FirstHalf,Pass,Successful,47,42.6,46.4,22.9
+533,323663,Cristian Romero,346,Argentina,48,FirstHalf,Pass,Successful,55.2,32.1,43.7,57.7
+534,340105,Lisandro Martínez,346,Argentina,48,FirstHalf,Pass,Successful,45.1,57.1,44.4,28.9
+535,323663,Cristian Romero,346,Argentina,48,FirstHalf,Pass,Successful,44,28.3,52.7,45.7
+339,,,2555,Cabo Verde,49,FirstHalf,End,Successful,0,0,,
+536,,,346,Argentina,49,FirstHalf,End,Successful,0,0,,
+537,,,346,Argentina,45,SecondHalf,Start,Successful,0,0,,
+340,,,2555,Cabo Verde,45,SecondHalf,Start,Successful,0,0,,
+538,299344,Lautaro Martínez,346,Argentina,45,SecondHalf,Pass,Successful,50.1,49.8,43.7,49.2
+477,,,2555,Cabo Verde,45,SecondHalf,FormationChange,Successful,0,0,,
+539,345319,Alexis Mac Allister,346,Argentina,45,SecondHalf,Pass,Successful,43.3,48.9,36.5,35.5
+540,125547,Rodrigo De Paul,346,Argentina,45,SecondHalf,Pass,Successful,36.2,36.4,28.3,64.3
+541,340105,Lisandro Martínez,346,Argentina,45,SecondHalf,TakeOn,Successful,29.6,63.7,,
+341,342550,Nuno da Costa,2555,Cabo Verde,45,SecondHalf,Challenge,Unsuccessful,70.4,36.3,,
+542,340105,Lisandro Martínez,346,Argentina,45,SecondHalf,Pass,Successful,30.2,66.9,47.3,72
+543,369430,Enzo Fernández,346,Argentina,45,SecondHalf,Pass,Successful,54.3,74.1,60.6,93.9
+544,361732,Thiago Almada,346,Argentina,45,SecondHalf,Pass,Successful,67.4,87.3,61.7,78.9
+545,369430,Enzo Fernández,346,Argentina,45,SecondHalf,Pass,Successful,59.3,76.8,47.6,68.2
+546,340105,Lisandro Martínez,346,Argentina,45,SecondHalf,Pass,Successful,47.7,65.2,47,39.7
+547,323663,Cristian Romero,346,Argentina,45,SecondHalf,Pass,Successful,49.1,32.7,64.1,6.1
+548,125547,Rodrigo De Paul,346,Argentina,45,SecondHalf,Pass,Successful,62.1,7.2,53.2,16.6
+549,323663,Cristian Romero,346,Argentina,45,SecondHalf,Pass,Successful,54.3,13.3,55.2,2.2
+550,125547,Rodrigo De Paul,346,Argentina,45,SecondHalf,Pass,Successful,54.7,2.4,24.4,32.4
+551,102248,Emiliano Martínez,346,Argentina,45,SecondHalf,Pass,Successful,24.7,34.3,27.2,58.5
+552,340105,Lisandro Martínez,346,Argentina,45,SecondHalf,Pass,Successful,37.8,54.9,36.3,32.8
+553,323663,Cristian Romero,346,Argentina,45,SecondHalf,Pass,Successful,46.3,29.8,46.5,55.9
+554,340105,Lisandro Martínez,346,Argentina,45,SecondHalf,Pass,Successful,45.9,48.3,41.2,25.8
+555,323663,Cristian Romero,346,Argentina,45,SecondHalf,Pass,Successful,52.8,21.9,55.4,4
+556,303728,Nahuel Molina,346,Argentina,46,SecondHalf,Pass,Successful,54.7,5.5,44.4,19.5
+557,323663,Cristian Romero,346,Argentina,46,SecondHalf,Pass,Successful,41.2,31.6,40.1,60.6
+558,340105,Lisandro Martínez,346,Argentina,46,SecondHalf,Pass,Successful,58.8,77.1,70.9,89.8
+559,361732,Thiago Almada,346,Argentina,46,SecondHalf,Pass,Successful,74,83.1,64.7,73.3
+560,369430,Enzo Fernández,346,Argentina,46,SecondHalf,Pass,Successful,63.7,71.1,51,44.2
+561,323663,Cristian Romero,346,Argentina,46,SecondHalf,Pass,Successful,60.7,37.5,68.5,31
+562,125547,Rodrigo De Paul,346,Argentina,46,SecondHalf,Pass,Successful,72.6,26.2,74.5,7
+563,11119,Lionel Messi,346,Argentina,46,SecondHalf,Pass,Successful,76.2,6.6,93.3,16.2
+564,361732,Thiago Almada,346,Argentina,46,SecondHalf,Pass,Unsuccessful,82.3,3.6,69.2,0
+344,505284,Sidny Cabral,2555,Cabo Verde,46,SecondHalf,Pass,Successful,29.5,100,28.6,86.5
+345,328549,Deroy Duarte,2555,Cabo Verde,46,SecondHalf,Pass,Successful,29,87.7,32.1,67.6
+346,438902,Kevin Pina,2555,Cabo Verde,46,SecondHalf,Pass,Successful,32.1,67.9,31.1,82.3
+347,328549,Deroy Duarte,2555,Cabo Verde,46,SecondHalf,Pass,Successful,31.1,82.3,16,82
+348,235763,Diney Borges,2555,Cabo Verde,46,SecondHalf,Pass,Successful,16.2,82.1,9.8,37.6
+349,123577,Vozinha,2555,Cabo Verde,46,SecondHalf,Pass,Successful,13.9,36.9,22.8,15.8
+350,430933,Pico Lopes,2555,Cabo Verde,46,SecondHalf,Pass,Successful,22.8,15.8,41.8,18.6
+351,74790,Ryan Mendes,2555,Cabo Verde,47,SecondHalf,Pass,Successful,39.6,20,31.8,37
+352,438902,Kevin Pina,2555,Cabo Verde,47,SecondHalf,Pass,Successful,31.8,38.2,34.8,70.3
+353,328549,Deroy Duarte,2555,Cabo Verde,47,SecondHalf,Pass,Successful,34.9,70.2,41.5,58.4
+354,361964,Jovane Cabral,2555,Cabo Verde,47,SecondHalf,Pass,Successful,40.5,46.9,80.9,4.6
+355,129648,Steven Moreira,2555,Cabo Verde,47,SecondHalf,Pass,Successful,87.3,10.9,85,41.9
+356,342550,Nuno da Costa,2555,Cabo Verde,47,SecondHalf,BallTouch,Unsuccessful,85.3,41.8,,
+566,330672,Facundo Medina,346,Argentina,47,SecondHalf,Clearance,Successful,11.5,72,31.9,100
+358,129648,Steven Moreira,2555,Cabo Verde,47,SecondHalf,Pass,Successful,62.5,0,44.7,20.1
+359,430933,Pico Lopes,2555,Cabo Verde,47,SecondHalf,Pass,Successful,44.7,20.1,56.9,49.4
+360,361964,Jovane Cabral,2555,Cabo Verde,47,SecondHalf,Pass,Successful,67.1,71.1,80.3,94.5
+361,505284,Sidny Cabral,2555,Cabo Verde,47,SecondHalf,Pass,Unsuccessful,90.7,86.3,90.6,81.8
+569,303728,Nahuel Molina,346,Argentina,47,SecondHalf,Clearance,Successful,9.4,18.2,,
+570,303728,Nahuel Molina,346,Argentina,47,SecondHalf,CornerAwarded,Unsuccessful,4.7,10.9,,
+362,505284,Sidny Cabral,2555,Cabo Verde,47,SecondHalf,CornerAwarded,Successful,95.2,89,,
+363,505284,Sidny Cabral,2555,Cabo Verde,48,SecondHalf,Pass,Unsuccessful,99.5,99.5,89.8,51.6
+571,340105,Lisandro Martínez,346,Argentina,48,SecondHalf,Aerial,Successful,10.2,48.4,,
+364,430933,Pico Lopes,2555,Cabo Verde,48,SecondHalf,Aerial,Unsuccessful,89.8,51.6,,
+572,340105,Lisandro Martínez,346,Argentina,48,SecondHalf,Clearance,Successful,10.2,48.4,20.6,54.3
+573,361732,Thiago Almada,346,Argentina,48,SecondHalf,Pass,Unsuccessful,20.6,54.3,21.8,46.6
+576,361732,Thiago Almada,346,Argentina,48,SecondHalf,Error,Successful,23.2,48.3,,
+365,361964,Jovane Cabral,2555,Cabo Verde,48,SecondHalf,SavedShot,Successful,77.1,59.1,,
+574,125547,Rodrigo De Paul,346,Argentina,48,SecondHalf,Save,Successful,22,42.1,,
+366,361964,Jovane Cabral,2555,Cabo Verde,48,SecondHalf,CornerAwarded,Successful,88.4,53.2,,
+575,125547,Rodrigo De Paul,346,Argentina,48,SecondHalf,CornerAwarded,Unsuccessful,11.6,46.8,,
+367,505284,Sidny Cabral,2555,Cabo Verde,48,SecondHalf,Pass,Successful,99.5,0.5,87.8,59.1
+368,235763,Diney Borges,2555,Cabo Verde,48,SecondHalf,BallTouch,Unsuccessful,87.8,59.1,,
+577,369430,Enzo Fernández,346,Argentina,48,SecondHalf,Clearance,Successful,15.4,44.1,44.4,66.1
+369,379742,Laros Duarte,2555,Cabo Verde,48,SecondHalf,Pass,Successful,56.6,31.8,73.8,30.1
+370,74790,Ryan Mendes,2555,Cabo Verde,49,SecondHalf,MissedShots,Successful,73.8,30.1,,
+579,102248,Emiliano Martínez,346,Argentina,49,SecondHalf,Pass,Unsuccessful,4.4,49,61.9,81.1
+372,430933,Pico Lopes,2555,Cabo Verde,49,SecondHalf,Foul,Successful,40.3,22.9,,
+580,299344,Lautaro Martínez,346,Argentina,49,SecondHalf,Foul,Unsuccessful,59.8,77.2,,
+373,438902,Kevin Pina,2555,Cabo Verde,49,SecondHalf,Pass,Successful,42.8,16.5,33.3,50.9
+374,235763,Diney Borges,2555,Cabo Verde,49,SecondHalf,Pass,Successful,32.6,50.6,28.9,18.2
+375,430933,Pico Lopes,2555,Cabo Verde,49,SecondHalf,Pass,Successful,28.1,20.3,4.7,45.2
+376,123577,Vozinha,2555,Cabo Verde,49,SecondHalf,Pass,Successful,9.4,43.6,26.6,35.1
+377,438902,Kevin Pina,2555,Cabo Verde,49,SecondHalf,Pass,Successful,29.5,33.1,36.5,5.8
+378,129648,Steven Moreira,2555,Cabo Verde,49,SecondHalf,Pass,Successful,36.6,6.7,22.4,6.4
+379,430933,Pico Lopes,2555,Cabo Verde,49,SecondHalf,Pass,Successful,24.2,4.1,49.3,23.9
+380,342550,Nuno da Costa,2555,Cabo Verde,49,SecondHalf,Pass,Unsuccessful,47.6,29.9,47.3,32.1
+581,369430,Enzo Fernández,346,Argentina,49,SecondHalf,BlockedPass,Successful,52.7,67.9,,
+582,323663,Cristian Romero,346,Argentina,49,SecondHalf,BallRecovery,Successful,43.8,65.2,,
+583,323663,Cristian Romero,346,Argentina,49,SecondHalf,Pass,Successful,42.9,65.8,58.4,70.2
+584,345319,Alexis Mac Allister,346,Argentina,50,SecondHalf,Pass,Successful,60.2,71.1,45.3,77.2
+585,369430,Enzo Fernández,346,Argentina,50,SecondHalf,Pass,Successful,56.8,80.4,65.8,92.5
+586,330672,Facundo Medina,346,Argentina,50,SecondHalf,Pass,Successful,65.9,90.7,59.5,80.7
+587,369430,Enzo Fernández,346,Argentina,50,SecondHalf,Pass,Successful,64.7,69.4,44.5,68.5
+588,340105,Lisandro Martínez,346,Argentina,50,SecondHalf,Pass,Successful,47.7,66.1,48,36.7
+589,323663,Cristian Romero,346,Argentina,50,SecondHalf,Pass,Successful,48.3,34.9,47.4,65.1
+590,340105,Lisandro Martínez,346,Argentina,50,SecondHalf,Pass,Successful,47,69.4,57.6,76
+591,369430,Enzo Fernández,346,Argentina,50,SecondHalf,Pass,Successful,65.7,72.3,65.6,56.2
+592,345319,Alexis Mac Allister,346,Argentina,50,SecondHalf,Pass,Successful,62.6,50.7,68.1,8.8
+593,303728,Nahuel Molina,346,Argentina,50,SecondHalf,Pass,Successful,68.1,8.8,60.2,23.8
+594,323663,Cristian Romero,346,Argentina,50,SecondHalf,Pass,Successful,62.3,27.3,63.4,60.3
+595,369430,Enzo Fernández,346,Argentina,50,SecondHalf,Pass,Successful,63.9,53.4,73.9,43.3
+596,299344,Lautaro Martínez,346,Argentina,50,SecondHalf,Dispossessed,Successful,72.6,47.1,,
+381,438902,Kevin Pina,2555,Cabo Verde,50,SecondHalf,Tackle,Successful,27.4,52.9,,
+382,438902,Kevin Pina,2555,Cabo Verde,50,SecondHalf,BallRecovery,Successful,32.3,47.5,,
+383,438902,Kevin Pina,2555,Cabo Verde,50,SecondHalf,Pass,Successful,32.3,47.5,39.1,60.9
+384,342550,Nuno da Costa,2555,Cabo Verde,50,SecondHalf,Pass,Successful,39.1,60.9,31.7,63.4
+385,328549,Deroy Duarte,2555,Cabo Verde,50,SecondHalf,Pass,Successful,54.2,74.4,67.3,74.8
+386,361964,Jovane Cabral,2555,Cabo Verde,50,SecondHalf,Pass,Successful,67.2,74.8,66,96.5
+387,505284,Sidny Cabral,2555,Cabo Verde,50,SecondHalf,Pass,Successful,66,96.5,58.6,85.1
+388,328549,Deroy Duarte,2555,Cabo Verde,50,SecondHalf,Pass,Successful,60.4,83.9,65.8,93.6
+389,505284,Sidny Cabral,2555,Cabo Verde,50,SecondHalf,Pass,Successful,65.6,94.5,57.1,85.3
+390,328549,Deroy Duarte,2555,Cabo Verde,51,SecondHalf,Pass,Successful,57.1,85.3,45.8,72.9
+391,235763,Diney Borges,2555,Cabo Verde,51,SecondHalf,Pass,Successful,45.3,65.1,55.9,88.6
+392,328549,Deroy Duarte,2555,Cabo Verde,51,SecondHalf,Pass,Successful,55.9,88.6,64.3,85.1
+393,361964,Jovane Cabral,2555,Cabo Verde,51,SecondHalf,Pass,Unsuccessful,65.8,86.6,74.9,70.6
+597,323663,Cristian Romero,346,Argentina,51,SecondHalf,BallRecovery,Successful,26.3,20.5,,
+598,323663,Cristian Romero,346,Argentina,51,SecondHalf,Pass,Successful,25.2,16.8,22.9,6.7
+599,303728,Nahuel Molina,346,Argentina,51,SecondHalf,Pass,Successful,18.7,6.4,34.8,7.6
+600,125547,Rodrigo De Paul,346,Argentina,51,SecondHalf,Pass,Successful,34.8,7.6,37.1,14.5
+601,299344,Lautaro Martínez,346,Argentina,51,SecondHalf,Pass,Successful,37.9,8.2,40,2.2
+602,125547,Rodrigo De Paul,346,Argentina,51,SecondHalf,Pass,Successful,40.3,2.5,17.7,6.6
+603,303728,Nahuel Molina,346,Argentina,51,SecondHalf,Pass,Successful,19.7,11.2,9.1,43
+604,102248,Emiliano Martínez,346,Argentina,51,SecondHalf,Pass,Successful,18.3,46.9,31.4,33.7
+605,345319,Alexis Mac Allister,346,Argentina,51,SecondHalf,Pass,Successful,31.9,30.4,46.5,37
+606,125547,Rodrigo De Paul,346,Argentina,51,SecondHalf,Pass,Successful,44.9,40.2,36.5,62.7
+607,340105,Lisandro Martínez,346,Argentina,51,SecondHalf,Pass,Successful,36.3,58.6,38.4,52.3
+608,11119,Lionel Messi,346,Argentina,51,SecondHalf,Pass,Successful,48.1,68.1,90.6,33.6
+609,303728,Nahuel Molina,346,Argentina,51,SecondHalf,BallTouch,Unsuccessful,90.8,33.6,,
+396,235763,Diney Borges,2555,Cabo Verde,52,SecondHalf,Pass,Successful,4.7,58.7,4.4,44.3
+397,123577,Vozinha,2555,Cabo Verde,52,SecondHalf,Pass,Successful,4.5,46.7,15.1,17.9
+398,430933,Pico Lopes,2555,Cabo Verde,52,SecondHalf,Pass,Successful,21.1,18.8,27.2,5.3
+399,129648,Steven Moreira,2555,Cabo Verde,52,SecondHalf,Foul,Successful,30.1,9.8,,
+611,361732,Thiago Almada,346,Argentina,52,SecondHalf,Foul,Unsuccessful,69.9,90.2,,
+400,430933,Pico Lopes,2555,Cabo Verde,52,SecondHalf,Pass,Successful,34.5,18.6,40.4,80.9
+401,505284,Sidny Cabral,2555,Cabo Verde,52,SecondHalf,Pass,Successful,37.7,81.5,28.5,74.7
+402,235763,Diney Borges,2555,Cabo Verde,52,SecondHalf,Pass,Successful,28.9,74.8,41.2,87.4
+403,505284,Sidny Cabral,2555,Cabo Verde,52,SecondHalf,Pass,Unsuccessful,41.2,86.3,82.2,87.7
+612,340105,Lisandro Martínez,346,Argentina,52,SecondHalf,Clearance,Successful,23.3,6.7,31.4,0
+405,361964,Jovane Cabral,2555,Cabo Verde,52,SecondHalf,Pass,Successful,67.9,100,56.1,94.2
+406,505284,Sidny Cabral,2555,Cabo Verde,52,SecondHalf,Pass,Successful,56.1,94.2,63.1,89.1
+407,328549,Deroy Duarte,2555,Cabo Verde,52,SecondHalf,Pass,Successful,59.8,71.2,53.1,39.2
+408,235763,Diney Borges,2555,Cabo Verde,52,SecondHalf,Pass,Successful,55.5,33,62.2,5.5
+409,74790,Ryan Mendes,2555,Cabo Verde,52,SecondHalf,Pass,Successful,75.4,15,87,15
+410,129648,Steven Moreira,2555,Cabo Verde,52,SecondHalf,Pass,Successful,86.9,15.3,85.3,45.7
+411,342550,Nuno da Costa,2555,Cabo Verde,53,SecondHalf,BallTouch,Unsuccessful,85.3,45.4,,
+614,369430,Enzo Fernández,346,Argentina,53,SecondHalf,BallTouch,Unsuccessful,13.8,61.8,,
+412,328549,Deroy Duarte,2555,Cabo Verde,53,SecondHalf,SavedShot,Successful,75.6,47.4,,
+615,102248,Emiliano Martínez,346,Argentina,53,SecondHalf,Save,Successful,2.6,50.4,,
+616,102248,Emiliano Martínez,346,Argentina,53,SecondHalf,KeeperPickup,Successful,2.6,50.4,,
+617,102248,Emiliano Martínez,346,Argentina,53,SecondHalf,Pass,Unsuccessful,16,40.3,91.7,88.2
+413,430933,Pico Lopes,2555,Cabo Verde,53,SecondHalf,Clearance,Successful,11.9,7.9,17.6,0
+619,330672,Facundo Medina,346,Argentina,53,SecondHalf,Pass,Successful,70.2,100,64.4,92.2
+620,369430,Enzo Fernández,346,Argentina,53,SecondHalf,Pass,Successful,63.5,91.8,45.3,83.2
+621,340105,Lisandro Martínez,346,Argentina,53,SecondHalf,Pass,Successful,47.1,70.8,47,39
+622,323663,Cristian Romero,346,Argentina,53,SecondHalf,Pass,Successful,47.2,37.6,61.4,44.8
+623,345319,Alexis Mac Allister,346,Argentina,53,SecondHalf,Pass,Successful,53.9,44.7,46.3,65.4
+624,340105,Lisandro Martínez,346,Argentina,53,SecondHalf,Pass,Successful,56.3,73,58.3,90.9
+625,330672,Facundo Medina,346,Argentina,54,SecondHalf,Pass,Successful,61.4,84.7,46.5,83.4
+626,340105,Lisandro Martínez,346,Argentina,54,SecondHalf,Pass,Successful,43.2,87.4,54.6,94.9
+627,330672,Facundo Medina,346,Argentina,54,SecondHalf,Pass,Successful,56.9,74.2,46.6,68.4
+628,345319,Alexis Mac Allister,346,Argentina,54,SecondHalf,Pass,Successful,54.9,67.3,63.8,74.8
+629,369430,Enzo Fernández,346,Argentina,54,SecondHalf,Pass,Successful,64.6,80.8,69.6,94.5
+630,361732,Thiago Almada,346,Argentina,54,SecondHalf,Pass,Successful,73.9,90.4,52.5,66.7
+631,340105,Lisandro Martínez,346,Argentina,54,SecondHalf,Pass,Successful,52.9,65.8,50.9,40.2
+632,323663,Cristian Romero,346,Argentina,54,SecondHalf,Pass,Successful,58.2,30.1,69.6,3.6
+633,125547,Rodrigo De Paul,346,Argentina,54,SecondHalf,Pass,Successful,69.5,27.3,74.7,35.5
+634,345319,Alexis Mac Allister,346,Argentina,54,SecondHalf,Pass,Successful,75.5,33.9,80.4,35.2
+635,11119,Lionel Messi,346,Argentina,54,SecondHalf,Pass,Successful,80.8,35.7,74.6,48.4
+636,125547,Rodrigo De Paul,346,Argentina,54,SecondHalf,BallTouch,Unsuccessful,83.7,49.3,,
+415,235763,Diney Borges,2555,Cabo Verde,54,SecondHalf,Clearance,Successful,11.5,49.4,21.4,41.9
+637,11119,Lionel Messi,346,Argentina,54,SecondHalf,Pass,Successful,80.2,56.1,86.1,71.7
+638,369430,Enzo Fernández,346,Argentina,54,SecondHalf,Pass,Successful,88.1,72.9,95.4,82.8
+639,330672,Facundo Medina,346,Argentina,54,SecondHalf,Pass,Successful,95.5,82.9,88.6,82.3
+416,74790,Ryan Mendes,2555,Cabo Verde,54,SecondHalf,Challenge,Unsuccessful,8.6,20.7,,
+640,369430,Enzo Fernández,346,Argentina,54,SecondHalf,TakeOn,Successful,91.4,79.3,,
+641,369430,Enzo Fernández,346,Argentina,54,SecondHalf,Pass,Successful,76.7,67.3,75.6,55
+642,125547,Rodrigo De Paul,346,Argentina,54,SecondHalf,Pass,Successful,75.6,55,81.6,60.3
+643,11119,Lionel Messi,346,Argentina,54,SecondHalf,Dispossessed,Successful,78.6,61.4,,
+418,430933,Pico Lopes,2555,Cabo Verde,54,SecondHalf,Tackle,Unsuccessful,21.3,38.6,,
+644,11119,Lionel Messi,346,Argentina,54,SecondHalf,BallTouch,Successful,82,60.3,,
+419,430933,Pico Lopes,2555,Cabo Verde,54,SecondHalf,BallRecovery,Successful,22.4,42.2,,
+420,430933,Pico Lopes,2555,Cabo Verde,54,SecondHalf,Pass,Unsuccessful,22.4,42.2,29.5,48.5
+645,125547,Rodrigo De Paul,346,Argentina,54,SecondHalf,Interception,Successful,70.5,51.5,,
+421,505284,Sidny Cabral,2555,Cabo Verde,54,SecondHalf,BallTouch,Successful,19.1,68.7,,
+422,328549,Deroy Duarte,2555,Cabo Verde,55,SecondHalf,Pass,Successful,21.6,59.4,4.3,53.1
+423,123577,Vozinha,2555,Cabo Verde,55,SecondHalf,Clearance,Successful,4.8,65.7,21.7,100
+648,303728,Nahuel Molina,346,Argentina,55,SecondHalf,Pass,Successful,70.2,0,53.5,6.1
+649,323663,Cristian Romero,346,Argentina,55,SecondHalf,Pass,Successful,57.5,18.4,69,18.1
+650,125547,Rodrigo De Paul,346,Argentina,55,SecondHalf,Pass,Successful,70.9,21.4,63.5,23.5
+651,323663,Cristian Romero,346,Argentina,55,SecondHalf,Pass,Successful,60.5,17.2,57.1,4.6
+652,303728,Nahuel Molina,346,Argentina,55,SecondHalf,Pass,Successful,52.6,5.1,25.6,25.9
+653,102248,Emiliano Martínez,346,Argentina,55,SecondHalf,Pass,Unsuccessful,25.6,25.9,57.6,25.3
+425,438902,Kevin Pina,2555,Cabo Verde,55,SecondHalf,BallRecovery,Successful,52.5,75.6,,
+426,438902,Kevin Pina,2555,Cabo Verde,55,SecondHalf,Pass,Successful,63.8,74.4,63.9,62.3
+427,379742,Laros Duarte,2555,Cabo Verde,55,SecondHalf,Pass,Successful,64.4,62.4,64.6,82
+428,438902,Kevin Pina,2555,Cabo Verde,55,SecondHalf,Pass,Successful,69.5,85.3,74.9,96.5
+429,361964,Jovane Cabral,2555,Cabo Verde,55,SecondHalf,Pass,Successful,74.9,96.5,60,90.5
+430,505284,Sidny Cabral,2555,Cabo Verde,55,SecondHalf,Pass,Successful,66.6,89.3,58.6,74.1
+431,328549,Deroy Duarte,2555,Cabo Verde,55,SecondHalf,Pass,Successful,58.7,73.5,59.4,29.2
+432,430933,Pico Lopes,2555,Cabo Verde,55,SecondHalf,Pass,Successful,62.9,28.5,72.9,11.4
+433,129648,Steven Moreira,2555,Cabo Verde,56,SecondHalf,BallTouch,Unsuccessful,73,11.1,,
+656,330672,Facundo Medina,346,Argentina,56,SecondHalf,Pass,Unsuccessful,31.1,92.1,28.5,92.1
+434,74790,Ryan Mendes,2555,Cabo Verde,56,SecondHalf,BlockedPass,Successful,71.5,7.9,,
+436,129648,Steven Moreira,2555,Cabo Verde,56,SecondHalf,Pass,Successful,67.3,20.3,62.6,45.8
+437,328549,Deroy Duarte,2555,Cabo Verde,56,SecondHalf,Pass,Successful,65.1,48.7,63.6,41.3
+438,438902,Kevin Pina,2555,Cabo Verde,56,SecondHalf,Pass,Successful,63.8,41.6,51.6,57.8
+439,235763,Diney Borges,2555,Cabo Verde,56,SecondHalf,Pass,Successful,49,54.9,53.9,11
+440,430933,Pico Lopes,2555,Cabo Verde,56,SecondHalf,Pass,Unsuccessful,62.7,15.3,100,26.5
+658,102248,Emiliano Martínez,346,Argentina,56,SecondHalf,Pass,Successful,2.7,54.7,17.9,30
+659,323663,Cristian Romero,346,Argentina,56,SecondHalf,Pass,Successful,20.1,29.8,7.6,49.2
+660,102248,Emiliano Martínez,346,Argentina,56,SecondHalf,Pass,Successful,7.3,50.7,10.3,72.6
+661,340105,Lisandro Martínez,346,Argentina,56,SecondHalf,Pass,Successful,9,75.3,32.1,74.2
+662,369430,Enzo Fernández,346,Argentina,56,SecondHalf,Pass,Successful,32.7,76,33.5,95.1
+663,330672,Facundo Medina,346,Argentina,56,SecondHalf,Pass,Successful,36.5,94.3,45.4,76.5
+664,299344,Lautaro Martínez,346,Argentina,56,SecondHalf,Pass,Successful,41.2,74.2,33.7,60.3
+665,345319,Alexis Mac Allister,346,Argentina,56,SecondHalf,Pass,Successful,33.5,58.3,31.9,31.9
+666,323663,Cristian Romero,346,Argentina,56,SecondHalf,Pass,Successful,39.6,24.3,45.8,10.9
+667,125547,Rodrigo De Paul,346,Argentina,57,SecondHalf,Pass,Successful,46.7,29.7,39.6,29.4
+668,323663,Cristian Romero,346,Argentina,57,SecondHalf,Pass,Successful,44.6,25.5,65.1,6.3
+669,303728,Nahuel Molina,346,Argentina,57,SecondHalf,Pass,Unsuccessful,67.5,8.4,73,26.7
+443,235763,Diney Borges,2555,Cabo Verde,57,SecondHalf,Interception,Successful,27,73.3,,
+444,328549,Deroy Duarte,2555,Cabo Verde,57,SecondHalf,BallRecovery,Successful,35.1,70.6,,
+445,328549,Deroy Duarte,2555,Cabo Verde,57,SecondHalf,Pass,Successful,35.1,70.6,47.1,69.6
+446,379742,Laros Duarte,2555,Cabo Verde,57,SecondHalf,Foul,Successful,44.6,75,,
+670,323663,Cristian Romero,346,Argentina,57,SecondHalf,Foul,Unsuccessful,55.4,25.1,,
+447,235763,Diney Borges,2555,Cabo Verde,57,SecondHalf,Pass,Successful,47.7,72.6,42,44.3
+448,430933,Pico Lopes,2555,Cabo Verde,57,SecondHalf,Pass,Successful,42,44.3,44.3,29.1
+449,438902,Kevin Pina,2555,Cabo Verde,57,SecondHalf,Pass,Successful,44.3,29.7,58,4.3
+450,129648,Steven Moreira,2555,Cabo Verde,57,SecondHalf,Pass,Successful,58,4.3,62.9,21.8
+451,74790,Ryan Mendes,2555,Cabo Verde,57,SecondHalf,Pass,Successful,63.1,21.8,58.1,23
+452,129648,Steven Moreira,2555,Cabo Verde,57,SecondHalf,Pass,Successful,61.4,31.9,74.9,50.6
+453,379742,Laros Duarte,2555,Cabo Verde,57,SecondHalf,Pass,Unsuccessful,74.9,50.6,76.2,49.4
+671,323663,Cristian Romero,346,Argentina,57,SecondHalf,BlockedPass,Successful,23.8,50.6,,
+672,345319,Alexis Mac Allister,346,Argentina,57,SecondHalf,BallRecovery,Successful,27.1,62.1,,
+673,345319,Alexis Mac Allister,346,Argentina,57,SecondHalf,Pass,Successful,27.1,62.1,34.1,66.6
+674,369430,Enzo Fernández,346,Argentina,57,SecondHalf,Pass,Successful,35.1,65.5,36.4,40.8
+675,125547,Rodrigo De Paul,346,Argentina,57,SecondHalf,Pass,Successful,36.8,39.7,45.2,60.3
+676,11119,Lionel Messi,346,Argentina,57,SecondHalf,Pass,Unsuccessful,44.9,60.6,56.9,64.9
+454,430933,Pico Lopes,2555,Cabo Verde,57,SecondHalf,BallRecovery,Successful,42.4,34.5,,
+455,430933,Pico Lopes,2555,Cabo Verde,57,SecondHalf,Pass,Successful,42.4,34.5,56.5,51.3
+456,379742,Laros Duarte,2555,Cabo Verde,58,SecondHalf,Pass,Successful,56.5,51.3,56.2,34.6
+457,438902,Kevin Pina,2555,Cabo Verde,58,SecondHalf,Pass,Successful,64.1,37,73.6,35.1
+458,342550,Nuno da Costa,2555,Cabo Verde,58,SecondHalf,Pass,Successful,73.6,35.1,65.8,9.2
+459,129648,Steven Moreira,2555,Cabo Verde,58,SecondHalf,Pass,Successful,68.3,10.3,67.3,17
+460,74790,Ryan Mendes,2555,Cabo Verde,58,SecondHalf,Pass,Successful,67.4,17.7,65.3,10.3
+461,129648,Steven Moreira,2555,Cabo Verde,58,SecondHalf,Pass,Successful,65.1,12.2,59.9,32.5
+462,328549,Deroy Duarte,2555,Cabo Verde,58,SecondHalf,Pass,Successful,59.9,32.5,65,55.4
+463,379742,Laros Duarte,2555,Cabo Verde,58,SecondHalf,Pass,Successful,65.3,54.6,72.7,93.6
+464,505284,Sidny Cabral,2555,Cabo Verde,58,SecondHalf,Pass,Successful,76.5,76,72.4,60
+465,379742,Laros Duarte,2555,Cabo Verde,58,SecondHalf,Pass,Unsuccessful,71.3,60.8,66.1,33.1
+677,299344,Lautaro Martínez,346,Argentina,58,SecondHalf,BallRecovery,Successful,30,67.6,,
+678,299344,Lautaro Martínez,346,Argentina,58,SecondHalf,Pass,Successful,30,67.6,19.7,71.5
+679,330672,Facundo Medina,346,Argentina,58,SecondHalf,Pass,Unsuccessful,19.5,71.7,44.2,63.6
+466,430933,Pico Lopes,2555,Cabo Verde,58,SecondHalf,BallRecovery,Successful,60.8,40,,
+467,430933,Pico Lopes,2555,Cabo Verde,58,SecondHalf,Pass,Successful,60.8,40,65.6,28.6
+468,129648,Steven Moreira,2555,Cabo Verde,58,SecondHalf,Pass,Successful,75.3,37,90.6,10.6
+469,74790,Ryan Mendes,2555,Cabo Verde,58,SecondHalf,Pass,Successful,93.7,16.1,92.9,38.6
+470,328549,Deroy Duarte,2555,Cabo Verde,58,SecondHalf,Goal,Successful,95.4,33.8,,
+680,299344,Lautaro Martínez,346,Argentina,60,SecondHalf,Pass,Successful,50.2,49.8,40.7,48.4
+681,345319,Alexis Mac Allister,346,Argentina,60,SecondHalf,Pass,Successful,40.7,48.3,41,32.1
+682,125547,Rodrigo De Paul,346,Argentina,60,SecondHalf,Pass,Successful,39.1,35.8,34.2,61.8
+683,340105,Lisandro Martínez,346,Argentina,60,SecondHalf,Pass,Successful,35.9,64.8,42.2,69.1
+684,369430,Enzo Fernández,346,Argentina,60,SecondHalf,Pass,Successful,46.8,70,59.4,91.5
+685,330672,Facundo Medina,346,Argentina,60,SecondHalf,Pass,Successful,61.4,92.1,57.7,82.9
+686,369430,Enzo Fernández,346,Argentina,60,SecondHalf,Pass,Successful,56.3,83.2,55.9,92.2
+687,330672,Facundo Medina,346,Argentina,60,SecondHalf,Pass,Successful,52,90.4,38.1,70.5
+688,340105,Lisandro Martínez,346,Argentina,61,SecondHalf,Pass,Successful,38.3,63.6,38.6,33.7
+689,323663,Cristian Romero,346,Argentina,61,SecondHalf,Pass,Successful,55.5,20.7,73.4,6
+690,303728,Nahuel Molina,346,Argentina,61,SecondHalf,TakeOn,Unsuccessful,75.4,10,,
+471,505284,Sidny Cabral,2555,Cabo Verde,61,SecondHalf,Tackle,Unsuccessful,24.6,90,,
+713,303728,Nahuel Molina,346,Argentina,61,SecondHalf,BallTouch,Unsuccessful,76,8,,
+472,505284,Sidny Cabral,2555,Cabo Verde,61,SecondHalf,BallTouch,Unsuccessful,23.2,77.8,,
+692,11119,Lionel Messi,346,Argentina,61,SecondHalf,BallTouch,Unsuccessful,81.3,28.8,,
+473,235763,Diney Borges,2555,Cabo Verde,61,SecondHalf,Clearance,Successful,17.4,69.3,25.2,67.6
+474,328549,Deroy Duarte,2555,Cabo Verde,61,SecondHalf,Pass,Unsuccessful,21.8,67.3,55.8,62.4
+693,340105,Lisandro Martínez,346,Argentina,61,SecondHalf,Pass,Successful,54.5,54,72.3,58.8
+694,369430,Enzo Fernández,346,Argentina,61,SecondHalf,Pass,Unsuccessful,67.3,56.5,70.8,39
+475,328549,Deroy Duarte,2555,Cabo Verde,61,SecondHalf,Interception,Successful,29.2,61,,
+695,125547,Rodrigo De Paul,346,Argentina,61,SecondHalf,Pass,Successful,70.3,28.8,91.5,74.7
+696,330672,Facundo Medina,346,Argentina,61,SecondHalf,Pass,Unsuccessful,91.9,78.1,86.8,58.3
+476,438902,Kevin Pina,2555,Cabo Verde,61,SecondHalf,Clearance,Successful,18,49,44.2,24
+697,340105,Lisandro Martínez,346,Argentina,61,SecondHalf,Pass,Successful,62.2,95.2,35.6,69.4
+698,323663,Cristian Romero,346,Argentina,62,SecondHalf,Pass,Successful,64,57.4,75,60.1
+699,299344,Lautaro Martínez,346,Argentina,62,SecondHalf,Pass,Successful,76.8,60,82.2,46.3
+700,11119,Lionel Messi,346,Argentina,62,SecondHalf,SavedShot,Successful,89.8,44.6,,
+478,123577,Vozinha,2555,Cabo Verde,62,SecondHalf,Save,Successful,4.9,53.2,,
+701,11119,Lionel Messi,346,Argentina,62,SecondHalf,BallTouch,Successful,92.5,43.2,,
+481,235763,Diney Borges,2555,Cabo Verde,62,SecondHalf,BallTouch,Successful,8.2,57.5,,
+482,430933,Pico Lopes,2555,Cabo Verde,62,SecondHalf,BallTouch,Successful,6.2,51.2,,
+479,235763,Diney Borges,2555,Cabo Verde,62,SecondHalf,BallTouch,Unsuccessful,3.3,64.9,,
+702,11119,Lionel Messi,346,Argentina,62,SecondHalf,CornerAwarded,Successful,98.1,37.3,,
+480,235763,Diney Borges,2555,Cabo Verde,62,SecondHalf,CornerAwarded,Unsuccessful,1.9,62.7,,
+703,299344,Lautaro Martínez,346,Argentina,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+704,365409,Julián Alvarez,346,Argentina,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+705,361732,Thiago Almada,346,Argentina,63,SecondHalf,SubstitutionOff,Successful,0,0,,
+706,345322,Nico González,346,Argentina,63,SecondHalf,SubstitutionOn,Successful,0,0,,
+707,11119,Lionel Messi,346,Argentina,63,SecondHalf,Pass,Unsuccessful,99.5,0.5,98.1,51.6
+483,123577,Vozinha,2555,Cabo Verde,63,SecondHalf,KeeperPickup,Successful,5.6,47.3,,
+484,123577,Vozinha,2555,Cabo Verde,63,SecondHalf,Pass,Successful,14,47,31.6,78.2
+485,505284,Sidny Cabral,2555,Cabo Verde,63,SecondHalf,Pass,Successful,34.9,73.3,52.3,98.6
+486,361964,Jovane Cabral,2555,Cabo Verde,63,SecondHalf,Pass,Successful,53.4,96.8,43.9,79.9
+487,328549,Deroy Duarte,2555,Cabo Verde,63,SecondHalf,Pass,Successful,43.9,75.6,43,47.8
+488,438902,Kevin Pina,2555,Cabo Verde,63,SecondHalf,Pass,Successful,44.2,41.2,57.8,32.1
+489,74790,Ryan Mendes,2555,Cabo Verde,63,SecondHalf,Pass,Successful,57.4,32.1,40.8,13.4
+490,430933,Pico Lopes,2555,Cabo Verde,63,SecondHalf,Pass,Successful,38.6,18,11.2,46.1
+491,123577,Vozinha,2555,Cabo Verde,63,SecondHalf,Pass,Successful,11.2,46.1,14.5,73.2
+492,235763,Diney Borges,2555,Cabo Verde,64,SecondHalf,Pass,Unsuccessful,14.7,53.9,24.1,42.1
+708,365409,Julián Alvarez,346,Argentina,64,SecondHalf,Interception,Successful,75.9,57.9,,
+493,328549,Deroy Duarte,2555,Cabo Verde,64,SecondHalf,Pass,Successful,26.1,71.4,41.1,60.2
+494,361964,Jovane Cabral,2555,Cabo Verde,64,SecondHalf,Aerial,Successful,41.1,60.2,,
+709,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,Aerial,Unsuccessful,58.9,39.8,,
+495,361964,Jovane Cabral,2555,Cabo Verde,64,SecondHalf,BallTouch,Unsuccessful,41.1,60.2,,
+710,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,BallRecovery,Successful,64.1,36.6,,
+711,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,Pass,Successful,70.7,27.9,71.9,15.1
+712,125547,Rodrigo De Paul,346,Argentina,64,SecondHalf,Pass,Successful,71.3,16.6,70,29.5
+714,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,Pass,Successful,75.9,22.3,79.3,5.2
+715,303728,Nahuel Molina,346,Argentina,64,SecondHalf,Pass,Successful,79.4,4.3,67.8,7.2
+716,125547,Rodrigo De Paul,346,Argentina,64,SecondHalf,Pass,Successful,69.7,10.6,69.7,21.6
+717,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,Pass,Successful,70.8,23.5,73.5,36.4
+718,11119,Lionel Messi,346,Argentina,64,SecondHalf,Pass,Successful,75.4,41.8,88.3,74.5
+719,345322,Nico González,346,Argentina,64,SecondHalf,Pass,Unsuccessful,94.6,77.1,91.5,88.6
+496,74790,Ryan Mendes,2555,Cabo Verde,64,SecondHalf,Interception,Successful,8.5,11.4,,
+720,330672,Facundo Medina,346,Argentina,64,SecondHalf,BallTouch,Successful,91.2,92.1,,
+721,345322,Nico González,346,Argentina,64,SecondHalf,Pass,Successful,78.5,82.6,69.1,77.1
+722,340105,Lisandro Martínez,346,Argentina,64,SecondHalf,Pass,Successful,70.9,80.8,77.3,81.6
+723,369430,Enzo Fernández,346,Argentina,64,SecondHalf,Pass,Successful,77.9,81.4,95,90.3
+724,330672,Facundo Medina,346,Argentina,64,SecondHalf,Pass,Successful,96.2,92.2,77.5,89.5
+725,369430,Enzo Fernández,346,Argentina,64,SecondHalf,Pass,Successful,75.8,88.9,75,77.2
+726,345319,Alexis Mac Allister,346,Argentina,64,SecondHalf,Pass,Successful,74.6,76,73,86.7
+727,369430,Enzo Fernández,346,Argentina,64,SecondHalf,Pass,Successful,68.3,82.8,67.9,29.7
+728,303728,Nahuel Molina,346,Argentina,65,SecondHalf,Pass,Successful,68.4,28.8,71.5,13.6
+729,125547,Rodrigo De Paul,346,Argentina,65,SecondHalf,Pass,Successful,70.2,17.5,68.4,36
+730,345319,Alexis Mac Allister,346,Argentina,65,SecondHalf,Pass,Successful,69.3,37.6,92.5,74.1
+731,345322,Nico González,346,Argentina,65,SecondHalf,Pass,Unsuccessful,92.5,74.1,86.9,63.4
+497,379742,Laros Duarte,2555,Cabo Verde,65,SecondHalf,Clearance,Successful,17.1,31.5,69.2,13.1
+732,340105,Lisandro Martínez,346,Argentina,65,SecondHalf,Pass,Successful,47.9,67.2,58.4,65.2
+733,345319,Alexis Mac Allister,346,Argentina,65,SecondHalf,Pass,Successful,59.5,66.4,60.6,77.4
+734,369430,Enzo Fernández,346,Argentina,65,SecondHalf,Pass,Successful,66.5,64.5,68.5,54
+735,345319,Alexis Mac Allister,346,Argentina,65,SecondHalf,Pass,Successful,69,39.1,73.1,7.9
+736,303728,Nahuel Molina,346,Argentina,65,SecondHalf,Pass,Successful,73.1,7.2,66.9,19.2
+737,125547,Rodrigo De Paul,346,Argentina,65,SecondHalf,Pass,Successful,66.4,35.4,63.9,61.8
+738,340105,Lisandro Martínez,346,Argentina,65,SecondHalf,Pass,Successful,65.1,60.9,72.8,61.8
+739,365409,Julián Alvarez,346,Argentina,65,SecondHalf,Pass,Successful,72.6,61.9,62.9,63.9
+740,340105,Lisandro Martínez,346,Argentina,65,SecondHalf,Pass,Successful,64.9,63.1,70,65.7
+741,365409,Julián Alvarez,346,Argentina,65,SecondHalf,Pass,Successful,73,62.8,60,38.4
+742,323663,Cristian Romero,346,Argentina,65,SecondHalf,Pass,Successful,60.1,34.5,65.9,22.5
+743,303728,Nahuel Molina,346,Argentina,66,SecondHalf,Pass,Successful,68,16.9,77.7,5.1
+744,125547,Rodrigo De Paul,346,Argentina,66,SecondHalf,Pass,Successful,75.2,6.9,63,24.4
+745,323663,Cristian Romero,346,Argentina,66,SecondHalf,Pass,Successful,64.8,29.1,65,50.5
+746,340105,Lisandro Martínez,346,Argentina,66,SecondHalf,Pass,Successful,63.7,54.9,91,68.8
+747,345322,Nico González,346,Argentina,66,SecondHalf,Pass,Successful,91.5,69,86.5,63.4
+748,369430,Enzo Fernández,346,Argentina,66,SecondHalf,MissedShots,Successful,86.5,63.4,,
+499,379742,Laros Duarte,2555,Cabo Verde,66,SecondHalf,SubstitutionOff,Successful,0,0,,
+500,296684,Jamiro Monteiro,2555,Cabo Verde,66,SecondHalf,SubstitutionOn,Successful,0,0,,
+501,342550,Nuno da Costa,2555,Cabo Verde,66,SecondHalf,SubstitutionOff,Successful,0,0,,
+502,528208,Dailon Livramento,2555,Cabo Verde,66,SecondHalf,SubstitutionOn,Successful,0,0,,
+503,235763,Diney Borges,2555,Cabo Verde,66,SecondHalf,Pass,Successful,4.6,60,3,48.8
+504,123577,Vozinha,2555,Cabo Verde,67,SecondHalf,Pass,Unsuccessful,7.9,47.3,76.3,62
+750,102248,Emiliano Martínez,346,Argentina,67,SecondHalf,BallRecovery,Successful,23,43.6,,
+751,102248,Emiliano Martínez,346,Argentina,67,SecondHalf,Pass,Successful,23,43.6,28.2,61.9
+752,340105,Lisandro Martínez,346,Argentina,67,SecondHalf,Pass,Successful,32.6,60.9,34.2,30.9
+753,323663,Cristian Romero,346,Argentina,67,SecondHalf,Pass,Successful,37.2,27.9,57.4,26.8
+754,125547,Rodrigo De Paul,346,Argentina,67,SecondHalf,Pass,Successful,43.6,17.8,36.3,4.9
+755,303728,Nahuel Molina,346,Argentina,67,SecondHalf,Pass,Successful,36.4,7,40.1,15.6
+756,125547,Rodrigo De Paul,346,Argentina,67,SecondHalf,Pass,Successful,45.7,28,55.8,31.5
+757,365409,Julián Alvarez,346,Argentina,67,SecondHalf,BallTouch,Unsuccessful,55.8,31.5,,
+505,438902,Kevin Pina,2555,Cabo Verde,67,SecondHalf,Pass,Unsuccessful,38.5,64.2,41.7,64.5
+758,365409,Julián Alvarez,346,Argentina,67,SecondHalf,BlockedPass,Successful,58.3,35.5,,
+759,125547,Rodrigo De Paul,346,Argentina,67,SecondHalf,Pass,Successful,69.8,23.2,71.5,35.5
+760,11119,Lionel Messi,346,Argentina,67,SecondHalf,Foul,Successful,73,39.4,,
+506,438902,Kevin Pina,2555,Cabo Verde,67,SecondHalf,Foul,Unsuccessful,27,60.6,,
+507,438902,Kevin Pina,2555,Cabo Verde,67,SecondHalf,Card,Successful,0,0,,
+761,11119,Lionel Messi,346,Argentina,68,SecondHalf,SavedShot,Successful,72.8,47.1,,
+508,438902,Kevin Pina,2555,Cabo Verde,68,SecondHalf,Save,Successful,21.2,52.4,,
+509,296684,Jamiro Monteiro,2555,Cabo Verde,68,SecondHalf,Dispossessed,Successful,41.4,22.6,,
+762,345322,Nico González,346,Argentina,68,SecondHalf,Tackle,Successful,58.6,77.4,,
+763,345322,Nico González,346,Argentina,68,SecondHalf,BallRecovery,Successful,59.1,80.7,,
+764,345322,Nico González,346,Argentina,68,SecondHalf,Pass,Successful,59.1,80.7,51.7,78.3
+765,345319,Alexis Mac Allister,346,Argentina,68,SecondHalf,Pass,Successful,51,77.8,51.7,56.7
+766,125547,Rodrigo De Paul,346,Argentina,68,SecondHalf,Pass,Successful,52.1,55.8,41.7,54.7
+767,340105,Lisandro Martínez,346,Argentina,69,SecondHalf,Pass,Successful,36.5,60.4,35.9,35.1
+768,303728,Nahuel Molina,346,Argentina,69,SecondHalf,Pass,Successful,35.9,34.6,45.7,44.2
+769,125547,Rodrigo De Paul,346,Argentina,69,SecondHalf,Pass,Successful,47.3,25.8,41.4,65.4
+770,340105,Lisandro Martínez,346,Argentina,69,SecondHalf,Pass,Successful,45.7,70.8,54.2,87.1
+771,330672,Facundo Medina,346,Argentina,69,SecondHalf,Pass,Successful,61.7,85.8,39.7,69.1
+772,340105,Lisandro Martínez,346,Argentina,69,SecondHalf,Pass,Successful,39.7,67.2,39.2,34.9
+774,323663,Cristian Romero,346,Argentina,69,SecondHalf,Pass,Unsuccessful,48.5,41.4,82.5,66.6
+510,129648,Steven Moreira,2555,Cabo Verde,69,SecondHalf,Clearance,Successful,14.4,27.1,30.1,32.1
+511,74790,Ryan Mendes,2555,Cabo Verde,69,SecondHalf,Pass,Unsuccessful,28.4,32.7,23.5,41.2
+775,365409,Julián Alvarez,346,Argentina,69,SecondHalf,Interception,Successful,76.5,58.8,,
+776,345322,Nico González,346,Argentina,69,SecondHalf,Pass,Unsuccessful,72.3,65.4,75.1,50.8
+513,235763,Diney Borges,2555,Cabo Verde,69,SecondHalf,Clearance,Successful,25.7,53.1,68.5,54.2
+777,102248,Emiliano Martínez,346,Argentina,69,SecondHalf,Pass,Successful,32.4,46.3,44.9,31.5
+778,323663,Cristian Romero,346,Argentina,69,SecondHalf,Pass,Successful,47.6,32.8,47.6,66.6
+779,340105,Lisandro Martínez,346,Argentina,69,SecondHalf,Pass,Successful,65.9,72.6,71.7,92.8
+780,330672,Facundo Medina,346,Argentina,69,SecondHalf,Pass,Successful,69.4,93.3,69.7,80.8
+781,369430,Enzo Fernández,346,Argentina,69,SecondHalf,Pass,Successful,79.6,74.5,81.2,69.6
+782,345322,Nico González,346,Argentina,69,SecondHalf,Pass,Successful,81.2,69.6,96,79.6
+783,369430,Enzo Fernández,346,Argentina,70,SecondHalf,Pass,Successful,94.5,83.2,77.1,80.1
+784,365409,Julián Alvarez,346,Argentina,70,SecondHalf,Pass,Successful,75.4,70.9,64.4,70.8
+785,340105,Lisandro Martínez,346,Argentina,70,SecondHalf,Pass,Successful,65,67,65.4,37.6
+786,125547,Rodrigo De Paul,346,Argentina,70,SecondHalf,Pass,Unsuccessful,65.4,37.6,88.8,42.7
+516,235763,Diney Borges,2555,Cabo Verde,70,SecondHalf,Clearance,Successful,1,49.6,13.3,72.6
+517,505284,Sidny Cabral,2555,Cabo Verde,70,SecondHalf,Clearance,Successful,13.3,72.6,34.6,48.7
+787,125547,Rodrigo De Paul,346,Argentina,70,SecondHalf,Pass,Unsuccessful,66.4,48.3,70.6,68.8
+518,74790,Ryan Mendes,2555,Cabo Verde,70,SecondHalf,Dispossessed,Successful,21.2,22.6,,
+788,345322,Nico González,346,Argentina,70,SecondHalf,Tackle,Successful,78.8,77.4,,
+789,369430,Enzo Fernández,346,Argentina,70,SecondHalf,Pass,Successful,73.7,67.6,65.6,75.6
+790,330672,Facundo Medina,346,Argentina,70,SecondHalf,Pass,Successful,65.4,75.6,72.7,77.7
+791,345322,Nico González,346,Argentina,70,SecondHalf,Pass,Successful,72.6,78,71.5,71.4
+792,369430,Enzo Fernández,346,Argentina,70,SecondHalf,Pass,Successful,73.4,75.7,88.9,90.1
+793,345322,Nico González,346,Argentina,70,SecondHalf,Pass,Successful,89,92.4,71.8,90.4
+794,369430,Enzo Fernández,346,Argentina,70,SecondHalf,Pass,Successful,67.2,85,61.3,42.6
+795,323663,Cristian Romero,346,Argentina,70,SecondHalf,Pass,Successful,62.4,43.6,63,68.4
+796,340105,Lisandro Martínez,346,Argentina,70,SecondHalf,Pass,Successful,64.3,73.9,90.6,90.7
+797,345322,Nico González,346,Argentina,70,SecondHalf,Pass,Successful,91.4,87.9,97.8,76.5
+798,330672,Facundo Medina,346,Argentina,70,SecondHalf,Pass,Successful,97.8,76.5,88.5,58.9
+799,365409,Julián Alvarez,346,Argentina,70,SecondHalf,Pass,Successful,89.1,58.6,79,58.3
+800,11119,Lionel Messi,346,Argentina,70,SecondHalf,Foul,Successful,79.6,64.4,,
+519,328549,Deroy Duarte,2555,Cabo Verde,70,SecondHalf,Foul,Unsuccessful,20.4,35.6,,
+801,11119,Lionel Messi,346,Argentina,72,SecondHalf,SavedShot,Successful,80.8,61.9,,
+520,123577,Vozinha,2555,Cabo Verde,72,SecondHalf,Save,Successful,1.2,50,,
+802,340105,Lisandro Martínez,346,Argentina,72,SecondHalf,ShieldBallOpp,Successful,99.1,25.2,,
+803,11119,Lionel Messi,346,Argentina,72,SecondHalf,CornerAwarded,Successful,100,24,,
+521,123577,Vozinha,2555,Cabo Verde,72,SecondHalf,CornerAwarded,Unsuccessful,0,76,,
+804,125547,Rodrigo De Paul,346,Argentina,72,SecondHalf,Pass,Successful,99.5,0.5,93.1,47.8
+805,345322,Nico González,346,Argentina,72,SecondHalf,Aerial,Successful,93.1,47.8,,
+522,235763,Diney Borges,2555,Cabo Verde,72,SecondHalf,Aerial,Unsuccessful,6.9,52.2,,
+806,345322,Nico González,346,Argentina,72,SecondHalf,MissedShots,Successful,93.1,47.8,,
+526,123577,Vozinha,2555,Cabo Verde,76,SecondHalf,Pass,Unsuccessful,4.5,52.4,65.6,56
+810,345319,Alexis Mac Allister,346,Argentina,76,SecondHalf,Pass,Unsuccessful,37.8,39.3,53.2,59.8
+527,129648,Steven Moreira,2555,Cabo Verde,76,SecondHalf,Pass,Successful,43.4,41.6,46.5,66.4
+528,328549,Deroy Duarte,2555,Cabo Verde,76,SecondHalf,Pass,Successful,46.5,66.4,61.2,68.7
+529,361964,Jovane Cabral,2555,Cabo Verde,76,SecondHalf,Pass,Successful,61.1,68.5,61.1,54.3
+530,296684,Jamiro Monteiro,2555,Cabo Verde,76,SecondHalf,Foul,Successful,67.4,61.6,,
+811,345319,Alexis Mac Allister,346,Argentina,76,SecondHalf,Foul,Unsuccessful,32.6,38.4,,
+531,438902,Kevin Pina,2555,Cabo Verde,77,SecondHalf,MissedShots,Successful,68.2,56.7,,
+813,323663,Cristian Romero,346,Argentina,77,SecondHalf,Pass,Successful,5.2,38.5,3,51.1
+814,102248,Emiliano Martínez,346,Argentina,77,SecondHalf,Pass,Successful,2.6,50.4,11.2,15.9
+815,323663,Cristian Romero,346,Argentina,77,SecondHalf,Foul,Successful,13,17,,
+533,528208,Dailon Livramento,2555,Cabo Verde,77,SecondHalf,Foul,Unsuccessful,87,83,,
+816,323663,Cristian Romero,346,Argentina,77,SecondHalf,Pass,Successful,13.5,18.1,7.1,45.7
+817,102248,Emiliano Martínez,346,Argentina,77,SecondHalf,Pass,Successful,7.2,45.7,8.9,72.7
+818,340105,Lisandro Martínez,346,Argentina,78,SecondHalf,Dispossessed,Successful,21.6,86.6,,
+535,528208,Dailon Livramento,2555,Cabo Verde,78,SecondHalf,Tackle,Unsuccessful,78.4,13.3,,
+819,340105,Lisandro Martínez,346,Argentina,78,SecondHalf,Pass,Successful,17.1,94.8,45.4,93.4
+820,345322,Nico González,346,Argentina,78,SecondHalf,Pass,Successful,45.4,93.4,37.4,94.6
+821,365409,Julián Alvarez,346,Argentina,78,SecondHalf,BallTouch,Unsuccessful,37.5,94.6,,
+548,328549,Deroy Duarte,2555,Cabo Verde,78,SecondHalf,BallTouch,Successful,56,10.6,,
+536,129648,Steven Moreira,2555,Cabo Verde,78,SecondHalf,BallRecovery,Successful,61.8,11.3,,
+537,129648,Steven Moreira,2555,Cabo Verde,78,SecondHalf,Pass,Successful,61.9,11.3,62,9.2
+538,74790,Ryan Mendes,2555,Cabo Verde,78,SecondHalf,Dispossessed,Successful,62.8,7.4,,
+822,345322,Nico González,346,Argentina,78,SecondHalf,Tackle,Unsuccessful,37.2,92.5,,
+539,74790,Ryan Mendes,2555,Cabo Verde,78,SecondHalf,BallTouch,Unsuccessful,61.7,9.7,,
+823,365409,Julián Alvarez,346,Argentina,78,SecondHalf,BallTouch,Successful,38.5,92.2,,
+824,369430,Enzo Fernández,346,Argentina,78,SecondHalf,BallRecovery,Successful,38.1,87.4,,
+826,369430,Enzo Fernández,346,Argentina,78,SecondHalf,Foul,Successful,42,87.6,,
+541,438902,Kevin Pina,2555,Cabo Verde,78,SecondHalf,Foul,Unsuccessful,58,12.3,,
+827,330672,Facundo Medina,346,Argentina,78,SecondHalf,Pass,Successful,40.2,84.9,35.3,75
+828,340105,Lisandro Martínez,346,Argentina,78,SecondHalf,Pass,Successful,35.3,73,37.7,35.7
+829,125547,Rodrigo De Paul,346,Argentina,78,SecondHalf,Pass,Successful,39.2,48,39.1,73.6
+830,340105,Lisandro Martínez,346,Argentina,78,SecondHalf,Pass,Successful,45.8,83.1,93.3,74.7
+831,345322,Nico González,346,Argentina,78,SecondHalf,Pass,Unsuccessful,93.3,74.7,88.5,52.8
+542,505284,Sidny Cabral,2555,Cabo Verde,78,SecondHalf,Clearance,Successful,14.6,49.4,13.1,0
+544,74790,Ryan Mendes,2555,Cabo Verde,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+545,415948,Willy Semedo,2555,Cabo Verde,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+546,361964,Jovane Cabral,2555,Cabo Verde,79,SecondHalf,SubstitutionOff,Successful,0,0,,
+547,493061,Hélio Varela,2555,Cabo Verde,79,SecondHalf,SubstitutionOn,Successful,0,0,,
+549,,,2555,Cabo Verde,79,SecondHalf,FormationChange,Successful,0,0,,
+833,330672,Facundo Medina,346,Argentina,79,SecondHalf,Pass,Successful,84.7,100,74,96.9
+834,369430,Enzo Fernández,346,Argentina,79,SecondHalf,Pass,Successful,70.3,75.3,52,54.6
+835,323663,Cristian Romero,346,Argentina,79,SecondHalf,Pass,Successful,52.7,56.4,59.5,77.8
+836,340105,Lisandro Martínez,346,Argentina,79,SecondHalf,Pass,Successful,64.3,83.4,66.8,93.6
+837,330672,Facundo Medina,346,Argentina,79,SecondHalf,Pass,Successful,65.2,91.9,66.5,84.4
+838,369430,Enzo Fernández,346,Argentina,79,SecondHalf,Pass,Unsuccessful,66.5,84.4,72.9,88
+550,129648,Steven Moreira,2555,Cabo Verde,79,SecondHalf,Pass,Unsuccessful,24.4,13.1,33.7,20.9
+839,369430,Enzo Fernández,346,Argentina,79,SecondHalf,BallTouch,Unsuccessful,71.5,80.8,,
+551,438902,Kevin Pina,2555,Cabo Verde,79,SecondHalf,BallRecovery,Successful,31.6,22.4,,
+552,438902,Kevin Pina,2555,Cabo Verde,79,SecondHalf,Pass,Successful,31.5,22.4,37.6,21.3
+553,296684,Jamiro Monteiro,2555,Cabo Verde,79,SecondHalf,Pass,Successful,37.6,21.3,38,5.2
+554,415948,Willy Semedo,2555,Cabo Verde,80,SecondHalf,TakeOn,Unsuccessful,38,5.5,,
+841,330672,Facundo Medina,346,Argentina,80,SecondHalf,Pass,Successful,45.4,100,45.7,89.4
+842,345319,Alexis Mac Allister,346,Argentina,80,SecondHalf,Pass,Successful,46.1,83.8,39.1,45.4
+843,323663,Cristian Romero,346,Argentina,80,SecondHalf,Pass,Successful,47.5,42.6,49.4,77.4
+844,340105,Lisandro Martínez,346,Argentina,80,SecondHalf,Pass,Successful,67.9,75.6,77.1,58.8
+845,365409,Julián Alvarez,346,Argentina,80,SecondHalf,Pass,Successful,76.8,57.3,76.5,50.4
+846,11119,Lionel Messi,346,Argentina,80,SecondHalf,Pass,Successful,85.9,45,91.7,30.4
+847,303728,Nahuel Molina,346,Argentina,80,SecondHalf,Pass,Unsuccessful,94.3,26.8,96.2,49.9
+556,430933,Pico Lopes,2555,Cabo Verde,80,SecondHalf,Interception,Successful,3.8,50.1,,
+848,303728,Nahuel Molina,346,Argentina,80,SecondHalf,CornerAwarded,Successful,99.2,45.2,,
+557,430933,Pico Lopes,2555,Cabo Verde,80,SecondHalf,CornerAwarded,Unsuccessful,0.8,54.8,,
+849,11119,Lionel Messi,346,Argentina,80,SecondHalf,Pass,Successful,99.5,0.5,80.3,14.4
+850,125547,Rodrigo De Paul,346,Argentina,80,SecondHalf,Pass,Successful,82.6,15.9,92.9,61.5
+851,323663,Cristian Romero,346,Argentina,80,SecondHalf,Aerial,Successful,92.9,61.5,,
+558,528208,Dailon Livramento,2555,Cabo Verde,80,SecondHalf,Aerial,Unsuccessful,7.1,38.5,,
+852,323663,Cristian Romero,346,Argentina,80,SecondHalf,Pass,Unsuccessful,92.9,61.5,90.9,45.3
+559,415948,Willy Semedo,2555,Cabo Verde,80,SecondHalf,Clearance,Successful,14.1,55.4,44,73.5
+853,303728,Nahuel Molina,346,Argentina,80,SecondHalf,Pass,Successful,56.7,30.3,70.9,39.9
+854,365409,Julián Alvarez,346,Argentina,80,SecondHalf,Dispossessed,Successful,71,40.2,,
+560,328549,Deroy Duarte,2555,Cabo Verde,80,SecondHalf,Tackle,Unsuccessful,29,59.8,,
+855,369430,Enzo Fernández,346,Argentina,81,SecondHalf,Pass,Unsuccessful,68.6,33.9,73.7,0
+562,505284,Sidny Cabral,2555,Cabo Verde,81,SecondHalf,Pass,Successful,28.9,100,49.3,91.1
+563,528208,Dailon Livramento,2555,Cabo Verde,81,SecondHalf,BallTouch,Unsuccessful,48.8,91.1,,
+858,303728,Nahuel Molina,346,Argentina,81,SecondHalf,Pass,Successful,54.1,0,42.5,16.5
+859,340105,Lisandro Martínez,346,Argentina,81,SecondHalf,Pass,Successful,44.1,35.2,53.7,57
+860,369430,Enzo Fernández,346,Argentina,81,SecondHalf,Pass,Successful,63.2,57,63.2,31.6
+861,125547,Rodrigo De Paul,346,Argentina,81,SecondHalf,Pass,Successful,64.6,25.5,76.7,11.7
+862,11119,Lionel Messi,346,Argentina,81,SecondHalf,Pass,Successful,72.6,32.5,69.8,58.5
+863,340105,Lisandro Martínez,346,Argentina,81,SecondHalf,Pass,Successful,71.7,72,85.2,91.5
+864,345322,Nico González,346,Argentina,81,SecondHalf,Pass,Successful,86.4,93.1,72.3,93.6
+865,330672,Facundo Medina,346,Argentina,81,SecondHalf,Pass,Successful,69.4,88.9,62.5,80.1
+866,340105,Lisandro Martínez,346,Argentina,81,SecondHalf,Pass,Successful,63.1,77.7,58.6,62.1
+867,345319,Alexis Mac Allister,346,Argentina,81,SecondHalf,Pass,Successful,68.7,36.9,68.7,18.1
+868,125547,Rodrigo De Paul,346,Argentina,81,SecondHalf,Pass,Successful,68.7,27.3,63.2,60.6
+869,340105,Lisandro Martínez,346,Argentina,82,SecondHalf,Pass,Successful,69.2,73.2,83.5,94.2
+870,345322,Nico González,346,Argentina,82,SecondHalf,Pass,Successful,84.8,94.9,72,94.3
+871,330672,Facundo Medina,346,Argentina,82,SecondHalf,Pass,Successful,71.4,94,67.4,80.8
+872,340105,Lisandro Martínez,346,Argentina,82,SecondHalf,Pass,Unsuccessful,67.4,80.8,91.6,73.9
+566,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,KeeperSweeper,Successful,6.8,29.8,,
+568,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,Smother,Successful,11.2,36,,
+567,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,KeeperPickup,Successful,6.8,29.8,,
+569,123577,Vozinha,2555,Cabo Verde,82,SecondHalf,Pass,Successful,14.8,43,66.2,54.6
+570,528208,Dailon Livramento,2555,Cabo Verde,82,SecondHalf,Aerial,Successful,66.2,54.6,,
+873,323663,Cristian Romero,346,Argentina,82,SecondHalf,Aerial,Unsuccessful,33.8,45.4,,
+571,528208,Dailon Livramento,2555,Cabo Verde,82,SecondHalf,Pass,Unsuccessful,66.2,54.6,77,66.6
+874,303728,Nahuel Molina,346,Argentina,82,SecondHalf,BallRecovery,Successful,24.2,30.4,,
+875,303728,Nahuel Molina,346,Argentina,82,SecondHalf,Pass,Successful,25.6,33.3,25.9,50.5
+876,340105,Lisandro Martínez,346,Argentina,82,SecondHalf,Pass,Successful,35.3,58.2,34.2,40.6
+877,323663,Cristian Romero,346,Argentina,82,SecondHalf,Pass,Successful,34.4,32.2,42.8,33.3
+878,125547,Rodrigo De Paul,346,Argentina,82,SecondHalf,Pass,Successful,42.3,36.1,41,63
+879,340105,Lisandro Martínez,346,Argentina,82,SecondHalf,Pass,Successful,49.2,70.8,50.5,86.4
+880,330672,Facundo Medina,346,Argentina,82,SecondHalf,Pass,Successful,51.6,82.6,35.9,48.3
+881,323663,Cristian Romero,346,Argentina,82,SecondHalf,Pass,Successful,36.3,45,47.4,37.2
+882,125547,Rodrigo De Paul,346,Argentina,83,SecondHalf,Pass,Successful,70.4,35.2,78.6,32.5
+883,11119,Lionel Messi,346,Argentina,83,SecondHalf,Pass,Successful,79.2,34.6,78.3,44.1
+884,125547,Rodrigo De Paul,346,Argentina,83,SecondHalf,Pass,Successful,80.6,58.6,93.4,72.3
+885,345322,Nico González,346,Argentina,83,SecondHalf,Pass,Unsuccessful,95.3,73,93.4,55
+572,438902,Kevin Pina,2555,Cabo Verde,83,SecondHalf,Clearance,Successful,4.2,41.9,0,27
+886,345322,Nico González,346,Argentina,83,SecondHalf,CornerAwarded,Successful,97.7,65.8,,
+573,438902,Kevin Pina,2555,Cabo Verde,83,SecondHalf,CornerAwarded,Unsuccessful,2.3,34.2,,
+887,125547,Rodrigo De Paul,346,Argentina,83,SecondHalf,SubstitutionOff,Successful,0,0,,
+888,93700,Leandro Paredes,346,Argentina,83,SecondHalf,SubstitutionOn,Successful,0,0,,
+1027,,,346,Argentina,83,SecondHalf,FormationChange,Successful,0,0,,
+889,11119,Lionel Messi,346,Argentina,83,SecondHalf,Pass,Successful,99.5,99.5,94,54.6
+890,345322,Nico González,346,Argentina,83,SecondHalf,Aerial,Successful,94,54.6,,
+574,430933,Pico Lopes,2555,Cabo Verde,83,SecondHalf,Aerial,Unsuccessful,6,45.4,,
+891,345322,Nico González,346,Argentina,83,SecondHalf,MissedShots,Successful,94,54.6,,
+575,505284,Sidny Cabral,2555,Cabo Verde,83,SecondHalf,BallRecovery,Successful,5.6,60.5,,
+576,505284,Sidny Cabral,2555,Cabo Verde,83,SecondHalf,Pass,Unsuccessful,7.5,88.6,57.1,82.1
+892,330672,Facundo Medina,346,Argentina,83,SecondHalf,BallRecovery,Successful,44.3,21.7,,
+893,330672,Facundo Medina,346,Argentina,83,SecondHalf,Pass,Successful,44.3,21.7,42.9,30.7
+894,303728,Nahuel Molina,346,Argentina,83,SecondHalf,Pass,Successful,43.6,31.9,62.9,32.7
+895,369430,Enzo Fernández,346,Argentina,83,SecondHalf,BallTouch,Unsuccessful,63.7,32.4,,
+577,,,2555,Cabo Verde,83,SecondHalf,Foul,Successful,33.3,67,,
+896,369430,Enzo Fernández,346,Argentina,83,SecondHalf,Foul,Unsuccessful,66.8,33,,
+11584,493061,Hélio Varela,2555,Cabo Verde,85,SecondHalf,OffsideGiven,Unsuccessful,93.6,91.4,,
+897,330672,Facundo Medina,346,Argentina,85,SecondHalf,SubstitutionOff,Successful,0,0,,
+898,83809,Nicolás Tagliafico,346,Argentina,85,SecondHalf,SubstitutionOn,Successful,0,0,,
+578,235763,Diney Borges,2555,Cabo Verde,85,SecondHalf,Pass,Successful,37.4,59.6,44.8,78.7
+579,505284,Sidny Cabral,2555,Cabo Verde,85,SecondHalf,Pass,Successful,62.9,83.5,84.1,89.3
+580,493061,Hélio Varela,2555,Cabo Verde,85,SecondHalf,Pass,Unsuccessful,90.4,89.7,90.8,68.2
+899,93700,Leandro Paredes,346,Argentina,85,SecondHalf,Clearance,Successful,11,17.7,15.6,0
+582,505284,Sidny Cabral,2555,Cabo Verde,85,SecondHalf,Pass,Successful,84.3,100,86.9,87.4
+583,328549,Deroy Duarte,2555,Cabo Verde,85,SecondHalf,Pass,Successful,86.9,87.4,85.1,94.2
+584,505284,Sidny Cabral,2555,Cabo Verde,85,SecondHalf,OffsidePass,Successful,85,94.7,93.6,91.4
+904,303728,Nahuel Molina,346,Argentina,85,SecondHalf,OffsideProvoked,Successful,14.2,6.2,,
+1043,93700,Leandro Paredes,346,Argentina,85,SecondHalf,Pass,Successful,20.8,25,19.2,28.8
+905,323663,Cristian Romero,346,Argentina,85,SecondHalf,Pass,Successful,14.2,34.2,20.3,34.5
+906,93700,Leandro Paredes,346,Argentina,86,SecondHalf,Pass,Successful,32.1,43.5,41.4,38.1
+907,369430,Enzo Fernández,346,Argentina,86,SecondHalf,Pass,Successful,43.2,38.4,46.4,33.9
+908,345319,Alexis Mac Allister,346,Argentina,86,SecondHalf,Pass,Successful,47.2,39.1,45.9,56.7
+909,93700,Leandro Paredes,346,Argentina,86,SecondHalf,Pass,Successful,45.8,55.5,48.8,41.2
+910,345319,Alexis Mac Allister,346,Argentina,86,SecondHalf,Pass,Successful,53.2,37.8,58.2,7.3
+911,303728,Nahuel Molina,346,Argentina,86,SecondHalf,Pass,Successful,58.8,3.7,68.2,3.4
+586,505284,Sidny Cabral,2555,Cabo Verde,86,SecondHalf,Challenge,Unsuccessful,14.4,92.9,,
+912,11119,Lionel Messi,346,Argentina,86,SecondHalf,TakeOn,Successful,85.4,7.4,,
+913,11119,Lionel Messi,346,Argentina,86,SecondHalf,Pass,Unsuccessful,98.1,19.5,97.5,43.3
+587,235763,Diney Borges,2555,Cabo Verde,86,SecondHalf,Clearance,Successful,4.5,52.5,28.7,58.5
+914,345319,Alexis Mac Allister,346,Argentina,86,SecondHalf,SavedShot,Successful,86.8,30.9,,
+589,328549,Deroy Duarte,2555,Cabo Verde,86,SecondHalf,Save,Successful,9.6,63,,
+915,345319,Alexis Mac Allister,346,Argentina,86,SecondHalf,CornerAwarded,Successful,100,46.2,,
+590,328549,Deroy Duarte,2555,Cabo Verde,86,SecondHalf,CornerAwarded,Unsuccessful,0,53.8,,
+916,11119,Lionel Messi,346,Argentina,87,SecondHalf,Pass,Unsuccessful,99.6,0.4,96.3,48.6
+591,235763,Diney Borges,2555,Cabo Verde,87,SecondHalf,Clearance,Successful,5.7,52.1,25.7,93.6
+918,93700,Leandro Paredes,346,Argentina,87,SecondHalf,Pass,Successful,71.1,10.3,64.6,37.9
+919,303728,Nahuel Molina,346,Argentina,87,SecondHalf,Pass,Successful,64.6,37.9,94.1,92.1
+920,83809,Nicolás Tagliafico,346,Argentina,87,SecondHalf,Pass,Successful,94.2,92.1,83.6,86.4
+921,365409,Julián Alvarez,346,Argentina,87,SecondHalf,Pass,Successful,82.7,85.9,74,72.7
+922,340105,Lisandro Martínez,346,Argentina,87,SecondHalf,Pass,Successful,72.9,71.7,74.9,84.6
+923,369430,Enzo Fernández,346,Argentina,87,SecondHalf,Pass,Successful,74.9,84.6,84,92.8
+924,83809,Nicolás Tagliafico,346,Argentina,87,SecondHalf,Pass,Successful,82.4,93.1,75.3,70.5
+925,365409,Julián Alvarez,346,Argentina,87,SecondHalf,Pass,Successful,73.6,65.1,73.6,27.7
+926,11119,Lionel Messi,346,Argentina,87,SecondHalf,Pass,Successful,87.3,33.3,89.9,41.2
+927,345319,Alexis Mac Allister,346,Argentina,87,SecondHalf,Pass,Unsuccessful,89.9,41.2,84.6,42.3
+592,415948,Willy Semedo,2555,Cabo Verde,87,SecondHalf,Clearance,Successful,14.2,60.8,31.1,100
+929,303728,Nahuel Molina,346,Argentina,87,SecondHalf,Pass,Successful,63.1,0,60.5,9
+930,93700,Leandro Paredes,346,Argentina,87,SecondHalf,Pass,Successful,64.1,14.5,56.9,21.7
+931,303728,Nahuel Molina,346,Argentina,87,SecondHalf,Pass,Successful,55.5,30.6,47.3,81
+932,340105,Lisandro Martínez,346,Argentina,88,SecondHalf,Pass,Successful,47.3,81.1,57.2,82
+933,369430,Enzo Fernández,346,Argentina,88,SecondHalf,Pass,Successful,63.2,41.5,63.6,24.9
+934,303728,Nahuel Molina,346,Argentina,88,SecondHalf,Pass,Successful,61.8,27.1,58.1,39.7
+935,93700,Leandro Paredes,346,Argentina,88,SecondHalf,Pass,Successful,63.6,30.1,82.5,7
+936,11119,Lionel Messi,346,Argentina,88,SecondHalf,Pass,Successful,72.9,25.5,91.5,47
+939,345319,Alexis Mac Allister,346,Argentina,88,SecondHalf,SavedShot,Successful,91.5,47,,
+595,430933,Pico Lopes,2555,Cabo Verde,88,SecondHalf,Save,Successful,4.1,53.1,,
+596,430933,Pico Lopes,2555,Cabo Verde,88,SecondHalf,Clearance,Successful,7.4,59,22.5,88.4
+597,493061,Hélio Varela,2555,Cabo Verde,88,SecondHalf,Clearance,Successful,22.4,88.1,23.9,100
+940,303728,Nahuel Molina,346,Argentina,89,SecondHalf,Pass,Successful,66.8,0,64.1,27.9
+941,11119,Lionel Messi,346,Argentina,89,SecondHalf,Pass,Successful,65.2,38.1,63,61.3
+942,340105,Lisandro Martínez,346,Argentina,89,SecondHalf,Pass,Successful,72.2,71.1,79.6,87
+943,345322,Nico González,346,Argentina,89,SecondHalf,Pass,Successful,80.5,88.2,69,87.3
+944,83809,Nicolás Tagliafico,346,Argentina,89,SecondHalf,Pass,Successful,67.8,86.2,62.8,68.8
+945,93700,Leandro Paredes,346,Argentina,89,SecondHalf,Pass,Unsuccessful,63.8,68.5,89.6,64.2
+599,123577,Vozinha,2555,Cabo Verde,89,SecondHalf,KeeperPickup,Successful,10.7,42.8,,
+600,123577,Vozinha,2555,Cabo Verde,89,SecondHalf,Pass,Successful,12.8,41.2,25,10
+601,129648,Steven Moreira,2555,Cabo Verde,89,SecondHalf,Pass,Unsuccessful,37.4,7.1,47.3,26.1
+946,93700,Leandro Paredes,346,Argentina,89,SecondHalf,Interception,Successful,52.7,73.9,,
+947,369430,Enzo Fernández,346,Argentina,89,SecondHalf,BallRecovery,Successful,64.2,75,,
+948,369430,Enzo Fernández,346,Argentina,89,SecondHalf,Pass,Successful,64.2,75,70.3,77.4
+949,345322,Nico González,346,Argentina,89,SecondHalf,Pass,Successful,70.4,77.4,66.9,79.8
+950,369430,Enzo Fernández,346,Argentina,89,SecondHalf,TakeOn,Successful,70.6,77,,
+602,296684,Jamiro Monteiro,2555,Cabo Verde,89,SecondHalf,Challenge,Unsuccessful,29.4,23,,
+951,369430,Enzo Fernández,346,Argentina,89,SecondHalf,Pass,Successful,67.2,82,64.2,86.5
+952,365409,Julián Alvarez,346,Argentina,89,SecondHalf,Pass,Successful,64.2,73.3,57.6,73.5
+953,93700,Leandro Paredes,346,Argentina,90,SecondHalf,Pass,Successful,71.5,72.4,67,56.4
+954,340105,Lisandro Martínez,346,Argentina,90,SecondHalf,Pass,Successful,66.9,59.5,69.6,73.9
+955,93700,Leandro Paredes,346,Argentina,90,SecondHalf,Pass,Successful,75,74.7,83.5,91.5
+956,345322,Nico González,346,Argentina,90,SecondHalf,Pass,Successful,83.7,93,76.4,85.2
+957,93700,Leandro Paredes,346,Argentina,90,SecondHalf,Pass,Successful,73.9,84.9,69.5,55.5
+958,11119,Lionel Messi,346,Argentina,90,SecondHalf,Pass,Successful,70,62.2,97,68.7
+959,345322,Nico González,346,Argentina,90,SecondHalf,Pass,Unsuccessful,97,68.7,86.9,63.9
+604,415948,Willy Semedo,2555,Cabo Verde,90,SecondHalf,Dispossessed,Successful,10.8,34.8,,
+960,83809,Nicolás Tagliafico,346,Argentina,90,SecondHalf,Tackle,Successful,87.3,64.6,,
+605,415948,Willy Semedo,2555,Cabo Verde,90,SecondHalf,BallTouch,Unsuccessful,14,37,,
+961,83809,Nicolás Tagliafico,346,Argentina,90,SecondHalf,Pass,Successful,95.5,70.3,89.7,74.7
+962,365409,Julián Alvarez,346,Argentina,90,SecondHalf,Pass,Successful,92.5,73.9,90.7,81.9
+963,369430,Enzo Fernández,346,Argentina,90,SecondHalf,Pass,Successful,87.8,87.6,74.7,80.7
+964,93700,Leandro Paredes,346,Argentina,90,SecondHalf,Pass,Successful,74.2,80.5,78.2,71.2
+965,365409,Julián Alvarez,346,Argentina,90,SecondHalf,Pass,Unsuccessful,91.7,73.6,91.7,71.4
+606,438902,Kevin Pina,2555,Cabo Verde,90,SecondHalf,BlockedPass,Successful,8.3,28.6,,
+607,438902,Kevin Pina,2555,Cabo Verde,90,SecondHalf,BallRecovery,Successful,10.6,16.2,,
+608,438902,Kevin Pina,2555,Cabo Verde,90,SecondHalf,Pass,Successful,11.2,14.1,27.5,5.8
+609,415948,Willy Semedo,2555,Cabo Verde,90,SecondHalf,Pass,Successful,27.6,6.4,26.2,10.6
+610,438902,Kevin Pina,2555,Cabo Verde,90,SecondHalf,Pass,Unsuccessful,26.2,10.6,44.1,22.8
+966,340105,Lisandro Martínez,346,Argentina,90,SecondHalf,BallRecovery,Successful,60.6,71.7,,
+967,340105,Lisandro Martínez,346,Argentina,90,SecondHalf,Pass,Successful,60.6,71.7,53.2,51.6
+968,323663,Cristian Romero,346,Argentina,90,SecondHalf,Pass,Successful,63,37.5,62.6,25.9
+969,303728,Nahuel Molina,346,Argentina,90,SecondHalf,Pass,Successful,62.5,31.5,57.3,65.1
+970,340105,Lisandro Martínez,346,Argentina,90,SecondHalf,Pass,Successful,57.6,65.7,62.5,69.7
+971,93700,Leandro Paredes,346,Argentina,90,SecondHalf,Pass,Successful,64.1,64,68.9,71.2
+972,369430,Enzo Fernández,346,Argentina,91,SecondHalf,Pass,Successful,72,64.9,67.5,45
+973,345319,Alexis Mac Allister,346,Argentina,91,SecondHalf,Pass,Successful,69.2,46.3,70.1,62.1
+974,93700,Leandro Paredes,346,Argentina,91,SecondHalf,Pass,Successful,71.6,58.9,69.5,45.4
+975,345319,Alexis Mac Allister,346,Argentina,91,SecondHalf,Pass,Successful,69.3,45.1,71.7,39.6
+976,11119,Lionel Messi,346,Argentina,91,SecondHalf,Pass,Successful,72.3,41.7,72.7,59.2
+977,93700,Leandro Paredes,346,Argentina,91,SecondHalf,Pass,Successful,71.6,58.3,69.5,43
+978,345319,Alexis Mac Allister,346,Argentina,91,SecondHalf,Pass,Successful,70.2,39.1,82.7,10.2
+979,303728,Nahuel Molina,346,Argentina,91,SecondHalf,Pass,Successful,81.6,10.5,70.3,30.6
+980,345319,Alexis Mac Allister,346,Argentina,91,SecondHalf,Pass,Successful,69.8,31.9,69.6,45.3
+981,93700,Leandro Paredes,346,Argentina,91,SecondHalf,SavedShot,Successful,71.5,45.4,,
+611,123577,Vozinha,2555,Cabo Verde,91,SecondHalf,Save,Successful,2.4,49,,
+612,123577,Vozinha,2555,Cabo Verde,91,SecondHalf,KeeperPickup,Successful,7.7,67.6,,
+614,123577,Vozinha,2555,Cabo Verde,91,SecondHalf,Pass,Unsuccessful,22.1,27.6,70.3,29.2
+982,340105,Lisandro Martínez,346,Argentina,92,SecondHalf,Pass,Successful,32.8,74.1,41.3,81.3
+983,345322,Nico González,346,Argentina,92,SecondHalf,Dispossessed,Successful,37.4,76.2,,
+615,296684,Jamiro Monteiro,2555,Cabo Verde,92,SecondHalf,Tackle,Successful,61.4,20.4,,
+616,296684,Jamiro Monteiro,2555,Cabo Verde,92,SecondHalf,BallTouch,Unsuccessful,66.4,23.9,,
+984,369430,Enzo Fernández,346,Argentina,92,SecondHalf,Dispossessed,Successful,34.8,68.8,,
+617,296684,Jamiro Monteiro,2555,Cabo Verde,92,SecondHalf,Tackle,Unsuccessful,65.2,31.2,,
+985,345319,Alexis Mac Allister,346,Argentina,92,SecondHalf,BallRecovery,Successful,28.9,63.6,,
+986,345319,Alexis Mac Allister,346,Argentina,92,SecondHalf,Pass,Successful,28.9,63.6,20,58.5
+987,93700,Leandro Paredes,346,Argentina,92,SecondHalf,Pass,Successful,19.2,57.6,19.2,43.8
+988,323663,Cristian Romero,346,Argentina,92,SecondHalf,Pass,Successful,23.7,33.1,29.9,33.1
+989,93700,Leandro Paredes,346,Argentina,92,SecondHalf,Pass,Successful,31,32.4,31.5,67.5
+990,340105,Lisandro Martínez,346,Argentina,92,SecondHalf,Pass,Successful,46.8,69.3,45.1,53.7
+991,93700,Leandro Paredes,346,Argentina,92,SecondHalf,Pass,Successful,60,33.6,70.2,1.6
+992,303728,Nahuel Molina,346,Argentina,92,SecondHalf,Pass,Successful,69.5,4.2,64.3,13
+993,345319,Alexis Mac Allister,346,Argentina,92,SecondHalf,Pass,Successful,65,38.7,63.2,65.4
+994,340105,Lisandro Martínez,346,Argentina,92,SecondHalf,Pass,Successful,66.8,68.2,67.1,79.2
+995,83809,Nicolás Tagliafico,346,Argentina,92,SecondHalf,Pass,Successful,66.6,77.8,55,52.5
+996,323663,Cristian Romero,346,Argentina,92,SecondHalf,Pass,Successful,55.1,52.5,63.2,40.3
+997,93700,Leandro Paredes,346,Argentina,92,SecondHalf,Pass,Successful,64.7,34.5,83.4,7.5
+998,303728,Nahuel Molina,346,Argentina,92,SecondHalf,Pass,Unsuccessful,89.3,8.7,91.2,14.2
+619,505284,Sidny Cabral,2555,Cabo Verde,92,SecondHalf,BallTouch,Successful,2.3,86.8,,
+620,415948,Willy Semedo,2555,Cabo Verde,93,SecondHalf,Clearance,Successful,12,4,37.7,8.9
+999,340105,Lisandro Martínez,346,Argentina,93,SecondHalf,Pass,Successful,67.8,88,75.3,79.3
+1000,369430,Enzo Fernández,346,Argentina,93,SecondHalf,Pass,Successful,75.1,76.8,72.8,65.1
+1001,345319,Alexis Mac Allister,346,Argentina,93,SecondHalf,Pass,Successful,73.2,60.6,74.7,39.6
+1003,11119,Lionel Messi,346,Argentina,93,SecondHalf,Foul,Successful,75.8,37,,
+623,296684,Jamiro Monteiro,2555,Cabo Verde,93,SecondHalf,Foul,Unsuccessful,24.2,63,,
+1004,11119,Lionel Messi,346,Argentina,94,SecondHalf,SavedShot,Successful,77.7,38.1,,
+624,123577,Vozinha,2555,Cabo Verde,94,SecondHalf,Save,Successful,0.5,48.7,,
+1005,369430,Enzo Fernández,346,Argentina,94,SecondHalf,SavedShot,Successful,91.5,50.4,,
+625,123577,Vozinha,2555,Cabo Verde,94,SecondHalf,Save,Successful,2,47.3,,
+626,123577,Vozinha,2555,Cabo Verde,94,SecondHalf,KeeperPickup,Successful,2,47.3,,
+627,123577,Vozinha,2555,Cabo Verde,94,SecondHalf,Foul,Successful,4.6,50.2,,
+1006,365409,Julián Alvarez,346,Argentina,94,SecondHalf,Foul,Unsuccessful,95.4,49.8,,
+628,123577,Vozinha,2555,Cabo Verde,95,SecondHalf,Pass,Successful,14.2,56.7,65.2,38.8
+629,528208,Dailon Livramento,2555,Cabo Verde,95,SecondHalf,Aerial,Successful,65.2,38.8,,
+1007,340105,Lisandro Martínez,346,Argentina,95,SecondHalf,Aerial,Unsuccessful,34.8,61.2,,
+630,528208,Dailon Livramento,2555,Cabo Verde,95,SecondHalf,Pass,Unsuccessful,65.2,38.8,78.2,34.8
+1008,93700,Leandro Paredes,346,Argentina,95,SecondHalf,Clearance,Successful,29.1,67.6,37.9,78.6
+631,129648,Steven Moreira,2555,Cabo Verde,95,SecondHalf,Foul,Successful,59.6,26,,
+1009,345322,Nico González,346,Argentina,95,SecondHalf,Foul,Unsuccessful,40.4,74,,
+632,505284,Sidny Cabral,2555,Cabo Verde,96,SecondHalf,Pass,Unsuccessful,62.5,28,88.8,57.8
+1010,93700,Leandro Paredes,346,Argentina,96,SecondHalf,Clearance,Successful,9.8,34.3,36.9,31
+633,493061,Hélio Varela,2555,Cabo Verde,96,SecondHalf,Pass,Successful,60.7,68.5,49.1,39.1
+634,129648,Steven Moreira,2555,Cabo Verde,96,SecondHalf,Pass,Successful,49.1,39.1,58,6.1
+635,296684,Jamiro Monteiro,2555,Cabo Verde,96,SecondHalf,Pass,Successful,58,6.7,44.4,17
+636,505284,Sidny Cabral,2555,Cabo Verde,96,SecondHalf,Pass,Successful,44.4,17,39.6,53.4
+637,129648,Steven Moreira,2555,Cabo Verde,96,SecondHalf,Pass,Successful,43.1,58.4,59.1,94.1
+638,493061,Hélio Varela,2555,Cabo Verde,96,SecondHalf,Pass,Successful,56.6,93.8,43.2,65.7
+639,235763,Diney Borges,2555,Cabo Verde,96,SecondHalf,Pass,Successful,43,65.8,47.9,64.9
+640,438902,Kevin Pina,2555,Cabo Verde,96,SecondHalf,Pass,Successful,46.9,67.8,38,26.4
+641,430933,Pico Lopes,2555,Cabo Verde,96,SecondHalf,Pass,Successful,44.1,24.1,62.6,8
+642,415948,Willy Semedo,2555,Cabo Verde,96,SecondHalf,TakeOn,Unsuccessful,62.8,6.6,,
+1011,83809,Nicolás Tagliafico,346,Argentina,96,SecondHalf,Tackle,Unsuccessful,37.2,93.4,,
+643,528208,Dailon Livramento,2555,Cabo Verde,96,SecondHalf,Pass,Unsuccessful,64.3,16.1,71.5,10.1
+1012,340105,Lisandro Martínez,346,Argentina,96,SecondHalf,Interception,Successful,28.5,89.9,,
+645,430933,Pico Lopes,2555,Cabo Verde,96,SecondHalf,Pass,Successful,55.1,0,57.5,12.6
+646,296684,Jamiro Monteiro,2555,Cabo Verde,96,SecondHalf,Pass,Successful,57.4,12.6,53.4,4
+647,430933,Pico Lopes,2555,Cabo Verde,96,SecondHalf,Pass,Successful,54.1,12,61.3,19.5
+648,296684,Jamiro Monteiro,2555,Cabo Verde,97,SecondHalf,Pass,Successful,58,24.6,50.9,43.1
+649,438902,Kevin Pina,2555,Cabo Verde,97,SecondHalf,Pass,Successful,54.1,43.7,56.1,78.8
+650,505284,Sidny Cabral,2555,Cabo Verde,97,SecondHalf,Pass,Successful,56.1,78.8,63.4,93
+651,493061,Hélio Varela,2555,Cabo Verde,97,SecondHalf,Pass,Successful,61.8,78.8,54.9,74.5
+652,328549,Deroy Duarte,2555,Cabo Verde,97,SecondHalf,Pass,Successful,55.9,76.9,47.2,58.4
+653,438902,Kevin Pina,2555,Cabo Verde,97,SecondHalf,Pass,Successful,53.4,65.1,53.8,85.3
+654,328549,Deroy Duarte,2555,Cabo Verde,97,SecondHalf,Pass,Successful,53.9,85.1,62.7,98
+655,505284,Sidny Cabral,2555,Cabo Verde,97,SecondHalf,Pass,Successful,62.7,98,84.1,94.5
+656,493061,Hélio Varela,2555,Cabo Verde,97,SecondHalf,TakeOn,Unsuccessful,89.8,71.5,,
+1015,323663,Cristian Romero,346,Argentina,97,SecondHalf,BallRecovery,Successful,13.3,26.5,,
+1016,323663,Cristian Romero,346,Argentina,97,SecondHalf,Pass,Successful,13.3,26.5,27.6,29.5
+1017,369430,Enzo Fernández,346,Argentina,97,SecondHalf,Pass,Unsuccessful,28.2,30.9,40.4,64.2
+657,438902,Kevin Pina,2555,Cabo Verde,97,SecondHalf,BallRecovery,Successful,70.1,38.9,,
+658,438902,Kevin Pina,2555,Cabo Verde,97,SecondHalf,Pass,Unsuccessful,59.6,36.9,81.1,7.9
+1018,83809,Nicolás Tagliafico,346,Argentina,97,SecondHalf,Foul,Successful,20.8,94.2,,
+659,415948,Willy Semedo,2555,Cabo Verde,97,SecondHalf,Foul,Unsuccessful,79.2,5.8,,
+1019,83809,Nicolás Tagliafico,346,Argentina,97,SecondHalf,Pass,Successful,21.8,93.7,33.1,81.7
+1020,369430,Enzo Fernández,346,Argentina,97,SecondHalf,Pass,Successful,42.8,72.7,45,64.3
+1021,365409,Julián Alvarez,346,Argentina,97,SecondHalf,Pass,Successful,45,64.3,37.3,66.1
+1022,345319,Alexis Mac Allister,346,Argentina,97,SecondHalf,Pass,Successful,39.7,62.8,35.9,52.9
+1023,93700,Leandro Paredes,346,Argentina,97,SecondHalf,Pass,Successful,38,55.3,42.2,70.6
+1024,340105,Lisandro Martínez,346,Argentina,97,SecondHalf,Pass,Successful,51.5,83.2,77.2,94.6
+1025,345322,Nico González,346,Argentina,98,SecondHalf,Pass,Successful,79.3,92.4,70.6,88
+660,,,2555,Cabo Verde,98,SecondHalf,End,Successful,0,0,,
+1026,,,346,Argentina,98,SecondHalf,End,Successful,0,0,,
+661,,,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Start,Successful,0,0,,
+1028,,,346,Argentina,90,FirstPeriodOfExtraTime,Start,Successful,0,0,,
+662,528208,Dailon Livramento,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,50.1,50.1,34.5,49.3
+663,438902,Kevin Pina,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,35.4,49.7,36.2,79.4
+664,505284,Sidny Cabral,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,37.8,82.4,28.9,68.2
+665,235763,Diney Borges,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,24.9,60.8,21.3,24.4
+666,430933,Pico Lopes,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,20.8,25.6,4.1,47.6
+667,123577,Vozinha,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,4.1,47.6,25.2,47.5
+668,438902,Kevin Pina,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,16.3,52.7,11.8,72.3
+669,235763,Diney Borges,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,12.2,71.8,22,96.3
+670,505284,Sidny Cabral,2555,Cabo Verde,90,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,21.4,92.3,,
+1029,345319,Alexis Mac Allister,346,Argentina,90,FirstPeriodOfExtraTime,Tackle,Successful,78.4,7.4,,
+1030,345319,Alexis Mac Allister,346,Argentina,90,FirstPeriodOfExtraTime,BallRecovery,Successful,88.7,6,,
+1031,345319,Alexis Mac Allister,346,Argentina,90,FirstPeriodOfExtraTime,Pass,Unsuccessful,88.7,6,77.6,20.1
+672,328549,Deroy Duarte,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Interception,Successful,22.4,79.9,,
+1032,340105,Lisandro Martínez,346,Argentina,90,FirstPeriodOfExtraTime,Pass,Unsuccessful,65.4,43.2,76.8,41.7
+673,438902,Kevin Pina,2555,Cabo Verde,90,FirstPeriodOfExtraTime,BallRecovery,Successful,26.7,58.1,,
+674,438902,Kevin Pina,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,29.6,75.7,41.3,98.1
+675,493061,Hélio Varela,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,41.3,98.1,31.3,91.7
+676,438902,Kevin Pina,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,26.5,82.1,15.6,64
+677,235763,Diney Borges,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Successful,20.2,50.3,25.6,18.6
+678,430933,Pico Lopes,2555,Cabo Verde,90,FirstPeriodOfExtraTime,Pass,Unsuccessful,27.9,15.8,66.7,0
+1034,83809,Nicolás Tagliafico,346,Argentina,90,FirstPeriodOfExtraTime,Pass,Successful,27.5,100,26.2,56.1
+1035,323663,Cristian Romero,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Successful,27.5,51.7,35.6,43.9
+1036,93700,Leandro Paredes,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Successful,51.3,39.9,64.6,45.7
+1037,365409,Julián Alvarez,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Successful,67.4,36.6,79.3,8.7
+1038,303728,Nahuel Molina,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Unsuccessful,82.1,6.9,88.2,51.1
+680,430933,Pico Lopes,2555,Cabo Verde,91,FirstPeriodOfExtraTime,Clearance,Successful,9.9,53.6,0,17.7
+1039,303728,Nahuel Molina,346,Argentina,91,FirstPeriodOfExtraTime,CornerAwarded,Successful,96.5,69.8,,
+681,430933,Pico Lopes,2555,Cabo Verde,91,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,3.5,30.2,,
+1040,11119,Lionel Messi,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Successful,99.5,99.5,94.4,61.6
+1041,345319,Alexis Mac Allister,346,Argentina,91,FirstPeriodOfExtraTime,Aerial,Successful,94.4,61.6,,
+682,415948,Willy Semedo,2555,Cabo Verde,91,FirstPeriodOfExtraTime,Aerial,Unsuccessful,5.6,38.4,,
+1042,345319,Alexis Mac Allister,346,Argentina,91,FirstPeriodOfExtraTime,Pass,Successful,94.4,61.6,94.9,29.7
+1044,340105,Lisandro Martínez,346,Argentina,91,FirstPeriodOfExtraTime,Goal,Successful,93.9,33.1,,
+683,528208,Dailon Livramento,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Successful,49.9,49.7,36.6,51.9
+684,438902,Kevin Pina,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Successful,38.1,51.3,32.1,14.1
+685,129648,Steven Moreira,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Successful,31.8,16.7,11.5,49.4
+686,123577,Vozinha,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Successful,11.4,49.6,16.2,72
+687,235763,Diney Borges,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Successful,16,71.1,7,43.6
+688,123577,Vozinha,2555,Cabo Verde,93,FirstPeriodOfExtraTime,Pass,Unsuccessful,4.2,36.6,56.7,42.7
+1045,340105,Lisandro Martínez,346,Argentina,94,FirstPeriodOfExtraTime,Aerial,Successful,43.3,57.3,,
+689,528208,Dailon Livramento,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Aerial,Unsuccessful,56.7,42.7,,
+1046,340105,Lisandro Martínez,346,Argentina,94,FirstPeriodOfExtraTime,Clearance,Successful,43.3,57.3,51.5,59.4
+690,296684,Jamiro Monteiro,2555,Cabo Verde,94,FirstPeriodOfExtraTime,BallTouch,Successful,40.7,38.3,,
+691,438902,Kevin Pina,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,41,49,46.8,86.3
+692,505284,Sidny Cabral,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,57,86.5,64.2,96.5
+693,493061,Hélio Varela,2555,Cabo Verde,94,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,63.3,94.6,,
+1047,303728,Nahuel Molina,346,Argentina,94,FirstPeriodOfExtraTime,Tackle,Unsuccessful,36.7,5.4,,
+695,493061,Hélio Varela,2555,Cabo Verde,94,FirstPeriodOfExtraTime,BallTouch,Successful,60.2,95.1,,
+1049,303728,Nahuel Molina,346,Argentina,94,FirstPeriodOfExtraTime,Pass,Successful,44.6,0,26.6,4
+1050,323663,Cristian Romero,346,Argentina,94,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,26,4.2,,
+696,528208,Dailon Livramento,2555,Cabo Verde,94,FirstPeriodOfExtraTime,BallRecovery,Successful,75,90.2,,
+697,528208,Dailon Livramento,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,75,90.2,63.5,79.1
+698,493061,Hélio Varela,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,67.1,58.4,64.6,33.9
+699,129648,Steven Moreira,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,71.7,32.2,67.9,23.1
+700,296684,Jamiro Monteiro,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,67.9,23.1,73.8,6.1
+701,415948,Willy Semedo,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,73,8.6,67.6,21
+702,296684,Jamiro Monteiro,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,68.5,22.7,71.4,77.6
+703,328549,Deroy Duarte,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,77.9,72.7,91.2,90.9
+704,493061,Hélio Varela,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,84.1,83,68.2,64.9
+705,505284,Sidny Cabral,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,68.2,64.9,67.2,27.6
+706,129648,Steven Moreira,2555,Cabo Verde,94,FirstPeriodOfExtraTime,Pass,Successful,67.6,26.4,60.4,36.3
+707,430933,Pico Lopes,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Successful,60.4,36.3,66.6,60.9
+708,438902,Kevin Pina,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Successful,68.4,60.8,82,91.2
+709,493061,Hélio Varela,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Successful,83.5,83,95.5,80.5
+710,505284,Sidny Cabral,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Unsuccessful,95.5,80.5,93.8,75.7
+1052,345319,Alexis Mac Allister,346,Argentina,95,FirstPeriodOfExtraTime,Clearance,Successful,6.2,24.3,,
+1053,345319,Alexis Mac Allister,346,Argentina,95,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,2.7,21.8,,
+711,505284,Sidny Cabral,2555,Cabo Verde,95,FirstPeriodOfExtraTime,CornerAwarded,Successful,97.3,78.2,,
+712,505284,Sidny Cabral,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Unsuccessful,99.5,99.5,91.9,52.7
+1054,345322,Nico González,346,Argentina,95,FirstPeriodOfExtraTime,Aerial,Successful,8.1,47.3,,
+713,415948,Willy Semedo,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Aerial,Unsuccessful,91.9,52.7,,
+1055,345322,Nico González,346,Argentina,95,FirstPeriodOfExtraTime,Clearance,Successful,8.1,47.3,0,34.6
+714,505284,Sidny Cabral,2555,Cabo Verde,95,FirstPeriodOfExtraTime,CornerAwarded,Successful,100,66.8,,
+1056,345322,Nico González,346,Argentina,95,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,0,33.2,,
+715,505284,Sidny Cabral,2555,Cabo Verde,95,FirstPeriodOfExtraTime,Pass,Successful,99.5,99.5,89.4,52.7
+723,235763,Diney Borges,2555,Cabo Verde,96,FirstPeriodOfExtraTime,Aerial,Successful,89.4,52.7,,
+1069,369430,Enzo Fernández,346,Argentina,96,FirstPeriodOfExtraTime,Aerial,Unsuccessful,10.6,47.3,,
+716,235763,Diney Borges,2555,Cabo Verde,96,FirstPeriodOfExtraTime,MissedShots,Successful,89.4,52.7,,
+718,430933,Pico Lopes,2555,Cabo Verde,96,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,91.6,60.3,,
+1058,340105,Lisandro Martínez,346,Argentina,96,FirstPeriodOfExtraTime,Clearance,Successful,4,43.8,0,31
+1059,340105,Lisandro Martínez,346,Argentina,96,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,0,32,,
+717,430933,Pico Lopes,2555,Cabo Verde,96,FirstPeriodOfExtraTime,CornerAwarded,Successful,100,68,,
+719,505284,Sidny Cabral,2555,Cabo Verde,96,FirstPeriodOfExtraTime,Pass,Successful,99.7,99.6,76.4,69.9
+720,493061,Hélio Varela,2555,Cabo Verde,96,FirstPeriodOfExtraTime,Pass,Successful,76.4,69.9,73.8,50.9
+721,129648,Steven Moreira,2555,Cabo Verde,96,FirstPeriodOfExtraTime,SavedShot,Successful,75.9,51.9,,
+1060,365409,Julián Alvarez,346,Argentina,96,FirstPeriodOfExtraTime,Save,Successful,21.5,48.7,,
+722,438902,Kevin Pina,2555,Cabo Verde,96,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,72.8,6.7,,
+1061,369430,Enzo Fernández,346,Argentina,96,FirstPeriodOfExtraTime,Tackle,Successful,27.2,92.4,,
+1062,365409,Julián Alvarez,346,Argentina,96,FirstPeriodOfExtraTime,BallRecovery,Successful,35.4,98.4,,
+1063,365409,Julián Alvarez,346,Argentina,96,FirstPeriodOfExtraTime,Pass,Successful,76.3,91.3,67,89.1
+1064,369430,Enzo Fernández,346,Argentina,96,FirstPeriodOfExtraTime,Pass,Successful,64.8,84.7,64,67.8
+1065,11119,Lionel Messi,346,Argentina,96,FirstPeriodOfExtraTime,Pass,Successful,61,69.3,44.4,71.4
+1066,83809,Nicolás Tagliafico,346,Argentina,96,FirstPeriodOfExtraTime,Pass,Successful,40.4,68.4,40.6,47.7
+1067,93700,Leandro Paredes,346,Argentina,96,FirstPeriodOfExtraTime,Pass,Successful,37,49.5,36.1,62.2
+1068,340105,Lisandro Martínez,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,38.7,58.2,38.4,31.8
+1070,323663,Cristian Romero,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,41.2,35.1,38,57.9
+1071,340105,Lisandro Martínez,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,38.3,59.5,38.1,75.1
+1072,83809,Nicolás Tagliafico,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,36.4,71.4,36.2,60.3
+1073,340105,Lisandro Martínez,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,36.2,64.2,36.3,75.3
+1074,83809,Nicolás Tagliafico,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,35.6,76.9,45.2,84.7
+1075,369430,Enzo Fernández,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,74.6,91.3,73.6,97.9
+1076,345322,Nico González,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,73.6,97.9,73.9,91.6
+1077,369430,Enzo Fernández,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,73.9,91.3,64.2,91.5
+1078,93700,Leandro Paredes,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,62.4,90.3,51.1,85.5
+1079,83809,Nicolás Tagliafico,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,51,85.5,59.6,86.5
+1080,93700,Leandro Paredes,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,57.7,76.3,67.5,92.8
+1081,369430,Enzo Fernández,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,70,92.4,90.3,84.6
+1082,345322,Nico González,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,91.4,82,87.9,67.6
+1083,365409,Julián Alvarez,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,86.4,67.8,79.9,62.8
+1084,11119,Lionel Messi,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,79.9,62.8,87.5,65.7
+1085,365409,Julián Alvarez,346,Argentina,97,FirstPeriodOfExtraTime,Pass,Successful,87.4,65.7,84.6,62.2
+1086,11119,Lionel Messi,346,Argentina,97,FirstPeriodOfExtraTime,SavedShot,Successful,85.2,57.9,,
+724,430933,Pico Lopes,2555,Cabo Verde,97,FirstPeriodOfExtraTime,Save,Successful,8.5,45.3,,
+1087,365409,Julián Alvarez,346,Argentina,97,FirstPeriodOfExtraTime,SavedShot,Successful,90.5,39.6,,
+725,505284,Sidny Cabral,2555,Cabo Verde,97,FirstPeriodOfExtraTime,Save,Successful,7.5,58.7,,
+1088,365409,Julián Alvarez,346,Argentina,97,FirstPeriodOfExtraTime,CornerAwarded,Successful,96.5,39.3,,
+726,505284,Sidny Cabral,2555,Cabo Verde,97,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,3.5,60.7,,
+1089,11119,Lionel Messi,346,Argentina,98,FirstPeriodOfExtraTime,Pass,Unsuccessful,99.5,0.5,97,40.3
+727,415948,Willy Semedo,2555,Cabo Verde,98,FirstPeriodOfExtraTime,Aerial,Successful,3,59.7,,
+1090,345319,Alexis Mac Allister,346,Argentina,98,FirstPeriodOfExtraTime,Aerial,Unsuccessful,97,40.3,,
+728,415948,Willy Semedo,2555,Cabo Verde,98,FirstPeriodOfExtraTime,Clearance,Successful,3,59.7,19.8,47.2
+1091,369430,Enzo Fernández,346,Argentina,98,FirstPeriodOfExtraTime,SavedShot,Successful,81.9,54.2,,
+729,296684,Jamiro Monteiro,2555,Cabo Verde,98,FirstPeriodOfExtraTime,Save,Successful,15.1,47.1,,
+731,328549,Deroy Duarte,2555,Cabo Verde,99,FirstPeriodOfExtraTime,SubstitutionOff,Successful,0,0,,
+732,457407,Yannick Semedo,2555,Cabo Verde,99,FirstPeriodOfExtraTime,SubstitutionOn,Successful,0,0,,
+733,438902,Kevin Pina,2555,Cabo Verde,99,FirstPeriodOfExtraTime,SubstitutionOff,Successful,0,0,,
+734,421897,Gilson Benchimol,2555,Cabo Verde,99,FirstPeriodOfExtraTime,SubstitutionOn,Successful,0,0,,
+735,,,2555,Cabo Verde,99,FirstPeriodOfExtraTime,FormationChange,Successful,0,0,,
+1093,83809,Nicolás Tagliafico,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,68.1,100,59.7,94.9
+1094,369430,Enzo Fernández,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,59.9,92.8,54.5,79
+1095,93700,Leandro Paredes,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,54,79.3,42.6,88.6
+1096,340105,Lisandro Martínez,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,41.5,85.6,32.7,52
+1097,323663,Cristian Romero,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,37.3,57.4,59.5,69.6
+1098,369430,Enzo Fernández,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Successful,72.7,66.1,85.7,74.8
+1099,345322,Nico González,346,Argentina,99,FirstPeriodOfExtraTime,Pass,Unsuccessful,85.9,74.2,84.7,55.2
+736,457407,Yannick Semedo,2555,Cabo Verde,99,FirstPeriodOfExtraTime,BallRecovery,Successful,15.8,50,,
+737,457407,Yannick Semedo,2555,Cabo Verde,99,FirstPeriodOfExtraTime,Pass,Successful,16.2,50,33.5,53.3
+738,296684,Jamiro Monteiro,2555,Cabo Verde,99,FirstPeriodOfExtraTime,Pass,Successful,31.9,57.5,40,86.2
+739,493061,Hélio Varela,2555,Cabo Verde,100,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,67.4,90.4,,
+1100,345319,Alexis Mac Allister,346,Argentina,100,FirstPeriodOfExtraTime,Tackle,Successful,32.6,9.6,,
+741,493061,Hélio Varela,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,67.4,100,60.6,91.1
+742,505284,Sidny Cabral,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,60.6,91.1,60.8,67
+743,296684,Jamiro Monteiro,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,62.3,66.9,60.4,25
+744,129648,Steven Moreira,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,60.4,25,53,35.4
+745,430933,Pico Lopes,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,53.5,34.2,62.7,62.1
+746,296684,Jamiro Monteiro,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,65.8,62.7,76.7,92.7
+747,493061,Hélio Varela,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,80.5,86.9,70.3,74.2
+748,296684,Jamiro Monteiro,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Unsuccessful,70.5,74.5,97.3,41.9
+1102,102248,Emiliano Martínez,346,Argentina,100,FirstPeriodOfExtraTime,KeeperPickup,Successful,1.8,52.9,,
+1103,102248,Emiliano Martínez,346,Argentina,100,FirstPeriodOfExtraTime,Pass,Successful,14.2,50.2,17.1,27.9
+1104,323663,Cristian Romero,346,Argentina,100,FirstPeriodOfExtraTime,Pass,Successful,21.4,21.9,21.6,6
+1105,303728,Nahuel Molina,346,Argentina,100,FirstPeriodOfExtraTime,Pass,Unsuccessful,23,4.8,57.9,10.3
+749,505284,Sidny Cabral,2555,Cabo Verde,100,FirstPeriodOfExtraTime,BallRecovery,Successful,43.1,86.6,,
+750,505284,Sidny Cabral,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,43.1,86.6,51,81.5
+751,296684,Jamiro Monteiro,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,43.5,71.7,46.7,50.1
+752,457407,Yannick Semedo,2555,Cabo Verde,100,FirstPeriodOfExtraTime,Pass,Successful,54.9,36.7,66.2,7.7
+753,129648,Steven Moreira,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,71.2,19.7,61.3,26.7
+754,457407,Yannick Semedo,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,64.1,29.7,82.6,87.5
+755,493061,Hélio Varela,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,81.1,84.7,71.2,72.4
+756,457407,Yannick Semedo,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,69,65.2,68.7,35.7
+757,296684,Jamiro Monteiro,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,68.6,35.4,72,10.6
+758,129648,Steven Moreira,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,71.9,10.9,64.4,24.3
+759,296684,Jamiro Monteiro,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,64.4,24.3,57,32.5
+760,430933,Pico Lopes,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,56.4,33,53.5,58.8
+761,235763,Diney Borges,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,56,60.3,61.3,77.3
+762,505284,Sidny Cabral,2555,Cabo Verde,101,FirstPeriodOfExtraTime,Pass,Successful,61.3,77.2,74.1,96.6
+1106,303728,Nahuel Molina,346,Argentina,101,FirstPeriodOfExtraTime,Challenge,Unsuccessful,16.2,12.9,,
+763,493061,Hélio Varela,2555,Cabo Verde,101,FirstPeriodOfExtraTime,TakeOn,Successful,83.8,88.9,,
+765,493061,Hélio Varela,2555,Cabo Verde,101,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,97.8,75.1,,
+1109,102248,Emiliano Martínez,346,Argentina,101,FirstPeriodOfExtraTime,Pass,Successful,4.8,43.3,67,27.1
+1110,365409,Julián Alvarez,346,Argentina,102,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,67.5,27,,
+767,457407,Yannick Semedo,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,26.5,53.4,6,56.3
+768,123577,Vozinha,2555,Cabo Verde,102,FirstPeriodOfExtraTime,BallRecovery,Successful,6,56.3,,
+769,123577,Vozinha,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,6,56.3,16,34.5
+770,457407,Yannick Semedo,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,16,34.5,15.1,46.4
+771,430933,Pico Lopes,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,15.1,46.4,30.8,13.2
+772,129648,Steven Moreira,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,32.2,11.7,44.5,3.8
+773,415948,Willy Semedo,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,37.4,7.1,34.4,25.3
+774,457407,Yannick Semedo,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,37.2,28.3,39.7,50.9
+775,296684,Jamiro Monteiro,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,44.9,63.3,54.5,89.7
+776,505284,Sidny Cabral,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,57.6,88.4,69.8,93.8
+777,493061,Hélio Varela,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,81.1,84.7,87.8,91.8
+778,505284,Sidny Cabral,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,86.4,93.8,71.2,78.5
+779,296684,Jamiro Monteiro,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,71.1,76.4,65.6,50.3
+780,457407,Yannick Semedo,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Pass,Successful,65.6,50.3,87,88.7
+1112,345319,Alexis Mac Allister,346,Argentina,102,FirstPeriodOfExtraTime,Challenge,Unsuccessful,11,16.6,,
+781,505284,Sidny Cabral,2555,Cabo Verde,102,FirstPeriodOfExtraTime,TakeOn,Successful,89,83.4,,
+782,505284,Sidny Cabral,2555,Cabo Verde,102,FirstPeriodOfExtraTime,Goal,Successful,86.6,77.5,,
+1113,303728,Nahuel Molina,346,Argentina,103,FirstPeriodOfExtraTime,SubstitutionOff,Successful,0,0,,
+1114,316883,Gonzalo Montiel,346,Argentina,103,FirstPeriodOfExtraTime,SubstitutionOn,Successful,0,0,,
+1115,365409,Julián Alvarez,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,49.8,49.8,43.2,49.9
+1116,93700,Leandro Paredes,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,44.5,50.7,57.6,76.9
+1117,345322,Nico González,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,59.5,77.5,56.5,73
+1118,369430,Enzo Fernández,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,57.5,74.7,57.6,89.1
+1119,83809,Nicolás Tagliafico,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,57.6,89.1,58.5,79.9
+1120,369430,Enzo Fernández,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,58.8,77.1,54.2,67.9
+1121,93700,Leandro Paredes,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,57,73.3,68.9,94.9
+1122,83809,Nicolás Tagliafico,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,69.6,95.2,67.5,85.8
+1123,369430,Enzo Fernández,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,69.8,88,70.5,95.5
+1124,83809,Nicolás Tagliafico,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,70.5,95.5,72,90.1
+1125,369430,Enzo Fernández,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,72.2,88.5,63.8,79.6
+1126,93700,Leandro Paredes,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Successful,65.1,68.8,89.3,24.9
+1127,316883,Gonzalo Montiel,346,Argentina,104,FirstPeriodOfExtraTime,Pass,Unsuccessful,89.6,24.4,88.1,26.2
+783,493061,Hélio Varela,2555,Cabo Verde,104,FirstPeriodOfExtraTime,BallTouch,Successful,14,72.6,,
+784,296684,Jamiro Monteiro,2555,Cabo Verde,104,FirstPeriodOfExtraTime,BallRecovery,Successful,32.6,86.3,,
+785,296684,Jamiro Monteiro,2555,Cabo Verde,104,FirstPeriodOfExtraTime,Pass,Successful,49.7,84.4,68.2,94.5
+786,528208,Dailon Livramento,2555,Cabo Verde,104,FirstPeriodOfExtraTime,BallTouch,Successful,66.5,93.2,,
+787,296684,Jamiro Monteiro,2555,Cabo Verde,104,FirstPeriodOfExtraTime,Pass,Unsuccessful,64.4,87.8,100,86.3
+1130,102248,Emiliano Martínez,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,5.3,48.1,15.7,61.8
+1131,340105,Lisandro Martínez,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,19.8,66.6,33.1,90.9
+1132,83809,Nicolás Tagliafico,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,35.9,85,36.4,69.6
+1133,93700,Leandro Paredes,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,45.9,53.4,46.6,24
+1134,323663,Cristian Romero,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,51,17.2,59,7
+1135,316883,Gonzalo Montiel,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,58.2,9.9,46.2,13.9
+1136,323663,Cristian Romero,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,45.7,16.3,44.7,35.1
+1137,93700,Leandro Paredes,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,52.9,43.2,53,70.6
+1138,340105,Lisandro Martínez,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Successful,55.3,71.4,89.6,74.8
+1139,345322,Nico González,346,Argentina,105,FirstPeriodOfExtraTime,Pass,Unsuccessful,93.3,74.2,81.8,59.2
+790,457407,Yannick Semedo,2555,Cabo Verde,105,FirstPeriodOfExtraTime,Interception,Successful,18.2,40.8,,
+1140,11119,Lionel Messi,346,Argentina,105,FirstPeriodOfExtraTime,SavedShot,Successful,84.7,53.4,,
+791,123577,Vozinha,2555,Cabo Verde,105,FirstPeriodOfExtraTime,Save,Successful,3.9,49.1,,
+1141,316883,Gonzalo Montiel,346,Argentina,105,FirstPeriodOfExtraTime,SavedShot,Successful,90.1,39.2,,
+792,505284,Sidny Cabral,2555,Cabo Verde,105,FirstPeriodOfExtraTime,Save,Successful,7.9,58.1,,
+793,505284,Sidny Cabral,2555,Cabo Verde,106,FirstPeriodOfExtraTime,BallRecovery,Successful,12.3,71.7,,
+794,505284,Sidny Cabral,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,12.3,71.7,29.9,66.7
+795,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,29.9,66.7,34.1,48.5
+796,415948,Willy Semedo,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,35.8,45.7,38,60.5
+797,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,41.3,67.3,43.1,92.4
+798,493061,Hélio Varela,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,43.1,92.4,40,82.6
+799,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,39.6,82.9,40.6,64.5
+800,457407,Yannick Semedo,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,40.2,58.8,53.9,7.6
+801,129648,Steven Moreira,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,60.6,10.6,69,4.3
+802,415948,Willy Semedo,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,69,4.3,60,5.5
+803,129648,Steven Moreira,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,60.4,5.8,56.4,25.5
+804,457407,Yannick Semedo,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,58.1,33.4,62.2,66.9
+805,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,65.9,69.9,75.3,94.2
+806,493061,Hélio Varela,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,73.1,92.7,70.7,81.8
+807,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,70.6,81.8,74.1,94.5
+808,493061,Hélio Varela,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,74,94.7,68.4,80.3
+809,296684,Jamiro Monteiro,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Successful,68.4,81.1,66.5,62
+810,457407,Yannick Semedo,2555,Cabo Verde,106,FirstPeriodOfExtraTime,Pass,Unsuccessful,71,64.2,100,71.7
+1143,102248,Emiliano Martínez,346,Argentina,106,FirstPeriodOfExtraTime,Pass,Successful,1.9,41.2,9.7,65.1
+1144,340105,Lisandro Martínez,346,Argentina,106,FirstPeriodOfExtraTime,Pass,Successful,14.4,74.5,22.8,62.2
+1145,369430,Enzo Fernández,346,Argentina,106,FirstPeriodOfExtraTime,Pass,Successful,21.4,60.4,21,25.9
+1146,323663,Cristian Romero,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,22.9,21.1,33.7,23.7
+1147,345319,Alexis Mac Allister,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,33.9,24.4,24.6,24.6
+1148,323663,Cristian Romero,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,26.7,29.4,26.7,36.6
+1149,93700,Leandro Paredes,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,48,28.6,52.8,53.1
+1150,369430,Enzo Fernández,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,54.5,57,61,88.8
+1151,83809,Nicolás Tagliafico,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,59.2,82.2,56.7,67.5
+1152,369430,Enzo Fernández,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,56.4,66,52,56.2
+1153,93700,Leandro Paredes,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,51.8,55.6,52.3,24.4
+1154,323663,Cristian Romero,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,52.3,22.6,59.4,17.5
+1155,11119,Lionel Messi,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,59.8,17.5,51.3,22.8
+1156,323663,Cristian Romero,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Successful,51,23.7,60.2,29.2
+1157,11119,Lionel Messi,346,Argentina,107,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,59.2,32.8,,
+812,296684,Jamiro Monteiro,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Tackle,Unsuccessful,40.8,67.2,,
+1158,11119,Lionel Messi,346,Argentina,107,FirstPeriodOfExtraTime,BallTouch,Successful,60.3,29.2,,
+813,296684,Jamiro Monteiro,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Pass,Unsuccessful,41,70.2,38.5,70.3
+1159,11119,Lionel Messi,346,Argentina,107,FirstPeriodOfExtraTime,BlockedPass,Successful,61.5,29.7,,
+1160,316883,Gonzalo Montiel,346,Argentina,107,FirstPeriodOfExtraTime,Pass,Unsuccessful,71.3,9.6,73.8,32.8
+814,457407,Yannick Semedo,2555,Cabo Verde,107,FirstPeriodOfExtraTime,BallRecovery,Successful,25.1,66.3,,
+815,457407,Yannick Semedo,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Pass,Successful,20.8,82.1,41.6,83.6
+816,528208,Dailon Livramento,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Pass,Successful,41.6,83.6,33.7,81.5
+817,296684,Jamiro Monteiro,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Pass,Successful,33.7,81.5,34,95.3
+818,493061,Hélio Varela,2555,Cabo Verde,107,FirstPeriodOfExtraTime,Pass,Successful,35.7,92.9,29.8,83.6
+819,457407,Yannick Semedo,2555,Cabo Verde,107,FirstPeriodOfExtraTime,BallTouch,Successful,38.8,84.4,,
+1162,316883,Gonzalo Montiel,346,Argentina,108,FirstPeriodOfExtraTime,Pass,Unsuccessful,48.3,0,51.5,8.2
+1163,,,346,Argentina,108,FirstPeriodOfExtraTime,End,Successful,0,0,,
+821,,,2555,Cabo Verde,108,FirstPeriodOfExtraTime,End,Successful,0,0,,
+1164,,,346,Argentina,105,SecondPeriodOfExtraTime,Start,Successful,0,0,,
+822,,,2555,Cabo Verde,105,SecondPeriodOfExtraTime,Start,Successful,0,0,,
+1165,365409,Julián Alvarez,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,49.8,50.1,42.3,49.8
+1166,93700,Leandro Paredes,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,43.5,50.5,44.8,77.2
+1167,83809,Nicolás Tagliafico,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,55,77.8,39.7,70.8
+1168,340105,Lisandro Martínez,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,59.2,75,70.1,96.1
+1169,345322,Nico González,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,70.1,96.1,53.7,93
+1170,83809,Nicolás Tagliafico,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,54.2,89.7,54.6,68.8
+1171,93700,Leandro Paredes,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,54.2,54.6,54.6,33
+1172,345319,Alexis Mac Allister,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,55.5,36,45.5,44.1
+1173,323663,Cristian Romero,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,46.5,43.5,52.8,26.7
+1174,345319,Alexis Mac Allister,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,54.1,21.6,61.6,5.8
+1175,316883,Gonzalo Montiel,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,61.6,5.8,52.8,20.4
+1176,345319,Alexis Mac Allister,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,52.8,21.6,51.9,30.7
+1177,93700,Leandro Paredes,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,46.7,34.8,53.8,66.6
+1178,340105,Lisandro Martínez,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,64,76.5,77.8,90.9
+1179,345322,Nico González,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,76.2,85.6,73.4,68.4
+1180,365409,Julián Alvarez,346,Argentina,105,SecondPeriodOfExtraTime,Pass,Successful,73.6,66.7,89.3,22.8
+1181,316883,Gonzalo Montiel,346,Argentina,105,SecondPeriodOfExtraTime,BallTouch,Successful,89.3,22.8,,
+824,123577,Vozinha,2555,Cabo Verde,106,SecondPeriodOfExtraTime,Pass,Successful,3.1,53.9,64.4,45.2
+825,528208,Dailon Livramento,2555,Cabo Verde,106,SecondPeriodOfExtraTime,Pass,Unsuccessful,64.4,45.2,77.1,48.2
+1183,323663,Cristian Romero,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,30.8,46.5,45.7,48.7
+1184,369430,Enzo Fernández,346,Argentina,106,SecondPeriodOfExtraTime,BallRecovery,Successful,45.7,48.7,,
+1185,369430,Enzo Fernández,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,45.7,48.7,40.8,37.8
+1186,345319,Alexis Mac Allister,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,40.8,37.8,54.3,52.5
+1187,365409,Julián Alvarez,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,67.3,73.8,75,85.8
+1188,345322,Nico González,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,74.1,81.6,64.1,81.7
+1189,365409,Julián Alvarez,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,63.9,80.4,62.8,63.4
+1190,93700,Leandro Paredes,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,62.9,59.1,66.3,34.2
+1191,11119,Lionel Messi,346,Argentina,106,SecondPeriodOfExtraTime,Pass,Successful,68,29.2,74.9,29.1
+1192,345319,Alexis Mac Allister,346,Argentina,106,SecondPeriodOfExtraTime,Foul,Successful,73.8,28.4,,
+827,296684,Jamiro Monteiro,2555,Cabo Verde,106,SecondPeriodOfExtraTime,Foul,Unsuccessful,26.2,71.6,,
+1193,11119,Lionel Messi,346,Argentina,107,SecondPeriodOfExtraTime,Pass,Unsuccessful,73.2,27.4,88.3,46.6
+828,415948,Willy Semedo,2555,Cabo Verde,107,SecondPeriodOfExtraTime,Clearance,Successful,12.5,51.2,20.7,41.9
+829,457407,Yannick Semedo,2555,Cabo Verde,107,SecondPeriodOfExtraTime,Clearance,Successful,21.3,43,45.6,55.4
+1195,93700,Leandro Paredes,346,Argentina,107,SecondPeriodOfExtraTime,Pass,Unsuccessful,54,41.7,62.3,11.2
+830,493061,Hélio Varela,2555,Cabo Verde,107,SecondPeriodOfExtraTime,BallRecovery,Successful,43.4,92.7,,
+831,493061,Hélio Varela,2555,Cabo Verde,107,SecondPeriodOfExtraTime,Pass,Unsuccessful,73.6,75.7,74.6,61.8
+1196,345319,Alexis Mac Allister,346,Argentina,107,SecondPeriodOfExtraTime,Interception,Successful,25.4,38.2,,
+832,421897,Gilson Benchimol,2555,Cabo Verde,107,SecondPeriodOfExtraTime,Pass,Successful,78.4,88.9,64.7,74.4
+833,457407,Yannick Semedo,2555,Cabo Verde,107,SecondPeriodOfExtraTime,MissedShots,Successful,68.4,69.6,,
+1198,102248,Emiliano Martínez,346,Argentina,107,SecondPeriodOfExtraTime,Pass,Successful,5,43.5,20.3,67.5
+12209,83809,Nicolás Tagliafico,346,Argentina,108,SecondPeriodOfExtraTime,OffsideGiven,Unsuccessful,87.6,86.5,,
+1199,340105,Lisandro Martínez,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,29.1,64.2,29.6,49.8
+1200,93700,Leandro Paredes,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,47.1,31.2,55.5,14.8
+1201,345319,Alexis Mac Allister,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,58.2,12.7,56.8,29.5
+1202,93700,Leandro Paredes,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,59.2,32.5,83.6,86.1
+1203,83809,Nicolás Tagliafico,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,89.5,88.9,79.5,84.4
+1204,369430,Enzo Fernández,346,Argentina,108,SecondPeriodOfExtraTime,Dispossessed,Successful,78.8,67.8,,
+838,296684,Jamiro Monteiro,2555,Cabo Verde,108,SecondPeriodOfExtraTime,Tackle,Unsuccessful,21.2,32.2,,
+1205,340105,Lisandro Martínez,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,61.6,55.5,55.5,41.7
+1206,323663,Cristian Romero,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,59.8,37.3,60.5,62.5
+1207,340105,Lisandro Martínez,346,Argentina,108,SecondPeriodOfExtraTime,Pass,Successful,63.9,71.4,72,71.5
+839,296684,Jamiro Monteiro,2555,Cabo Verde,108,SecondPeriodOfExtraTime,Challenge,Unsuccessful,24.8,25.4,,
+1208,365409,Julián Alvarez,346,Argentina,108,SecondPeriodOfExtraTime,TakeOn,Successful,73.3,75,,
+1209,365409,Julián Alvarez,346,Argentina,108,SecondPeriodOfExtraTime,OffsidePass,Successful,78.2,74.2,87.6,86.5
+841,129648,Steven Moreira,2555,Cabo Verde,108,SecondPeriodOfExtraTime,OffsideProvoked,Successful,13.4,28.6,,
+842,123577,Vozinha,2555,Cabo Verde,109,SecondPeriodOfExtraTime,Pass,Unsuccessful,26,22.8,71.5,17.1
+1210,83809,Nicolás Tagliafico,346,Argentina,109,SecondPeriodOfExtraTime,Aerial,Successful,28.5,82.9,,
+843,415948,Willy Semedo,2555,Cabo Verde,109,SecondPeriodOfExtraTime,Aerial,Unsuccessful,71.5,17.1,,
+1211,83809,Nicolás Tagliafico,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Unsuccessful,28.5,82.9,32.9,88.6
+844,415948,Willy Semedo,2555,Cabo Verde,109,SecondPeriodOfExtraTime,BallTouch,Successful,72.8,14.9,,
+1212,83809,Nicolás Tagliafico,346,Argentina,109,SecondPeriodOfExtraTime,Foul,Successful,32.1,91.9,,
+845,415948,Willy Semedo,2555,Cabo Verde,109,SecondPeriodOfExtraTime,Foul,Unsuccessful,68,8,,
+1213,340105,Lisandro Martínez,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Successful,25.2,88.6,26,66.7
+1214,93700,Leandro Paredes,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Successful,35.2,55.6,52.4,21.6
+1215,345319,Alexis Mac Allister,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Successful,52.4,21.6,45.4,35.2
+1216,93700,Leandro Paredes,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Successful,53.8,31.2,55.5,52.6
+1217,369430,Enzo Fernández,346,Argentina,109,SecondPeriodOfExtraTime,Pass,Successful,68.8,64.3,78,87.1
+846,296684,Jamiro Monteiro,2555,Cabo Verde,110,SecondPeriodOfExtraTime,Challenge,Unsuccessful,19.9,26.6,,
+1218,345322,Nico González,346,Argentina,110,SecondPeriodOfExtraTime,TakeOn,Successful,80.2,73.8,,
+1219,345322,Nico González,346,Argentina,110,SecondPeriodOfExtraTime,TakeOn,Unsuccessful,86.3,66.3,,
+847,235763,Diney Borges,2555,Cabo Verde,110,SecondPeriodOfExtraTime,Clearance,Successful,2.8,37.6,0,2.5
+1220,345322,Nico González,346,Argentina,110,SecondPeriodOfExtraTime,CornerAwarded,Successful,95.6,85.8,,
+848,235763,Diney Borges,2555,Cabo Verde,110,SecondPeriodOfExtraTime,CornerAwarded,Unsuccessful,4.4,14.2,,
+1221,11119,Lionel Messi,346,Argentina,110,SecondPeriodOfExtraTime,Pass,Successful,99.5,99.5,94.8,55.4
+1225,323663,Cristian Romero,346,Argentina,110,SecondPeriodOfExtraTime,Aerial,Successful,94.8,55.4,,
+849,235763,Diney Borges,2555,Cabo Verde,110,SecondPeriodOfExtraTime,Aerial,Unsuccessful,5.2,44.6,,
+1222,323663,Cristian Romero,346,Argentina,110,SecondPeriodOfExtraTime,MissedShots,Successful,94.8,55.4,,
+850,235763,Diney Borges,2555,Cabo Verde,110,SecondPeriodOfExtraTime,Goal,Successful,4.6,47.2,,
+851,528208,Dailon Livramento,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,49.9,49.9,41.9,49.7
+852,296684,Jamiro Monteiro,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,39.7,48.7,39.9,78.1
+853,505284,Sidny Cabral,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,38.9,80.8,42.3,67.9
+854,457407,Yannick Semedo,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,40.3,62.2,29.1,58.1
+855,235763,Diney Borges,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,33.8,57.3,68.4,36.2
+856,528208,Dailon Livramento,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Unsuccessful,69.5,42.3,74.2,41.3
+1223,83809,Nicolás Tagliafico,346,Argentina,112,SecondPeriodOfExtraTime,Clearance,Successful,29.6,82.5,48,54.1
+1224,369430,Enzo Fernández,346,Argentina,112,SecondPeriodOfExtraTime,BallRecovery,Successful,48.6,53.8,,
+1226,369430,Enzo Fernández,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,48.8,53.7,47.6,40.2
+1227,345319,Alexis Mac Allister,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,47.6,40,58.4,37.2
+1228,11119,Lionel Messi,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,55.9,45,53.8,54.9
+1229,369430,Enzo Fernández,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,54.2,55.6,54.2,42.7
+1230,345319,Alexis Mac Allister,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,57.3,35.7,46.6,14.1
+1231,316883,Gonzalo Montiel,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,44.8,14.8,34.9,29.8
+1232,323663,Cristian Romero,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,32,34.6,13.3,52.2
+1233,102248,Emiliano Martínez,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,13.3,50.4,25.5,49
+1234,93700,Leandro Paredes,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,25.8,45.3,25.4,22.9
+1235,323663,Cristian Romero,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,25.8,20.2,41.8,17.7
+1236,365409,Julián Alvarez,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Successful,41.8,17.5,35.4,17.1
+1237,345319,Alexis Mac Allister,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Unsuccessful,35.4,17.1,36.4,17.7
+878,457407,Yannick Semedo,2555,Cabo Verde,112,SecondPeriodOfExtraTime,BlockedPass,Successful,63.6,82.3,,
+879,505284,Sidny Cabral,2555,Cabo Verde,112,SecondPeriodOfExtraTime,TakeOn,Unsuccessful,61.2,81,,
+1238,345319,Alexis Mac Allister,346,Argentina,112,SecondPeriodOfExtraTime,Tackle,Unsuccessful,39.2,20.2,,
+861,493061,Hélio Varela,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Unsuccessful,57.3,79.7,59.5,83.2
+1239,345319,Alexis Mac Allister,346,Argentina,112,SecondPeriodOfExtraTime,BallTouch,Successful,37.9,17.1,,
+863,457407,Yannick Semedo,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Unsuccessful,57.3,90.1,56,89.1
+1240,365409,Julián Alvarez,346,Argentina,112,SecondPeriodOfExtraTime,Pass,Unsuccessful,72,21.6,70.6,33.1
+864,296684,Jamiro Monteiro,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,27,65.5,4.4,60.3
+865,123577,Vozinha,2555,Cabo Verde,112,SecondPeriodOfExtraTime,BallRecovery,Successful,4.4,60.3,,
+866,123577,Vozinha,2555,Cabo Verde,112,SecondPeriodOfExtraTime,Pass,Successful,4.5,60.2,14.1,76.1
+867,235763,Diney Borges,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,12.5,82.9,8,48.5
+868,123577,Vozinha,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,7.8,48.5,42.8,23.3
+869,129648,Steven Moreira,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,52.1,22.7,63.8,4.4
+870,415948,Willy Semedo,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,66.8,24,58.7,34.6
+871,457407,Yannick Semedo,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,65.2,37.3,68.7,74.8
+872,505284,Sidny Cabral,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,72.5,63.3,63.4,61.1
+873,296684,Jamiro Monteiro,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,66.1,61.4,81,74.5
+874,415948,Willy Semedo,2555,Cabo Verde,113,SecondPeriodOfExtraTime,SavedShot,Successful,93.2,75.9,,
+1241,316883,Gonzalo Montiel,346,Argentina,113,SecondPeriodOfExtraTime,Save,Successful,5.4,29.2,,
+875,505284,Sidny Cabral,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Successful,73.7,78.8,71.5,62.3
+876,296684,Jamiro Monteiro,2555,Cabo Verde,113,SecondPeriodOfExtraTime,Pass,Unsuccessful,71.1,63.7,100,22.8
+1243,102248,Emiliano Martínez,346,Argentina,114,SecondPeriodOfExtraTime,Pass,Unsuccessful,4.4,56.8,55.5,79.6
+880,430933,Pico Lopes,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Aerial,Successful,44.5,20.4,,
+1244,345322,Nico González,346,Argentina,114,SecondPeriodOfExtraTime,Aerial,Unsuccessful,55.5,79.6,,
+881,430933,Pico Lopes,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Pass,Successful,44.5,20.4,46,7.9
+882,415948,Willy Semedo,2555,Cabo Verde,114,SecondPeriodOfExtraTime,BallRecovery,Successful,45.7,8.3,,
+883,415948,Willy Semedo,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Pass,Successful,45.4,8.5,32,15.5
+884,430933,Pico Lopes,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Pass,Successful,32.7,15.2,42.3,27.4
+885,457407,Yannick Semedo,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Pass,Successful,60.5,63.3,69.4,93.2
+886,493061,Hélio Varela,2555,Cabo Verde,114,SecondPeriodOfExtraTime,Foul,Successful,87.6,81.6,,
+1245,316883,Gonzalo Montiel,346,Argentina,114,SecondPeriodOfExtraTime,Foul,Unsuccessful,12.4,18.4,,
+1246,316883,Gonzalo Montiel,346,Argentina,114,SecondPeriodOfExtraTime,Card,Successful,0,0,,
+887,505284,Sidny Cabral,2555,Cabo Verde,115,SecondPeriodOfExtraTime,SavedShot,Successful,87.2,81.2,,
+1247,102248,Emiliano Martínez,346,Argentina,115,SecondPeriodOfExtraTime,Save,Successful,1.1,47.6,,
+1248,102248,Emiliano Martínez,346,Argentina,115,SecondPeriodOfExtraTime,CornerAwarded,Unsuccessful,1,58.8,,
+888,505284,Sidny Cabral,2555,Cabo Verde,115,SecondPeriodOfExtraTime,CornerAwarded,Successful,99,41.2,,
+889,457407,Yannick Semedo,2555,Cabo Verde,117,SecondPeriodOfExtraTime,Pass,Unsuccessful,99.5,0.5,89.7,36.7
+1251,93700,Leandro Paredes,346,Argentina,117,SecondPeriodOfExtraTime,Clearance,Successful,4.2,60.3,20.6,100
+891,457407,Yannick Semedo,2555,Cabo Verde,118,SecondPeriodOfExtraTime,Pass,Unsuccessful,80.3,0,93.4,26.5
+1253,83809,Nicolás Tagliafico,346,Argentina,118,SecondPeriodOfExtraTime,Clearance,Successful,4.8,75.6,5.6,98.4
+1254,345322,Nico González,346,Argentina,118,SecondPeriodOfExtraTime,Clearance,Successful,5.6,98.4,12.9,97.5
+1256,345322,Nico González,346,Argentina,118,SecondPeriodOfExtraTime,Challenge,Unsuccessful,15.8,91.5,,
+892,129648,Steven Moreira,2555,Cabo Verde,118,SecondPeriodOfExtraTime,TakeOn,Successful,88.5,8.6,,
+893,129648,Steven Moreira,2555,Cabo Verde,118,SecondPeriodOfExtraTime,Pass,Successful,96.5,13.1,87,52.8
+894,235763,Diney Borges,2555,Cabo Verde,118,SecondPeriodOfExtraTime,Aerial,Successful,87,52.8,,
+1257,345319,Alexis Mac Allister,346,Argentina,118,SecondPeriodOfExtraTime,Aerial,Unsuccessful,13,47.2,,
+895,235763,Diney Borges,2555,Cabo Verde,118,SecondPeriodOfExtraTime,SavedShot,Successful,87,52.8,,
+1258,102248,Emiliano Martínez,346,Argentina,118,SecondPeriodOfExtraTime,Save,Successful,2.7,46.5,,
+1259,102248,Emiliano Martínez,346,Argentina,118,SecondPeriodOfExtraTime,CornerAwarded,Unsuccessful,1,42.4,,
+897,235763,Diney Borges,2555,Cabo Verde,118,SecondPeriodOfExtraTime,CornerAwarded,Successful,99,57.6,,
+898,296684,Jamiro Monteiro,2555,Cabo Verde,118,SecondPeriodOfExtraTime,Pass,Unsuccessful,99.4,99.2,83.8,54
+1260,369430,Enzo Fernández,346,Argentina,118,SecondPeriodOfExtraTime,Clearance,Successful,3,46.3,22.7,54.1
+899,457407,Yannick Semedo,2555,Cabo Verde,118,SecondPeriodOfExtraTime,Pass,Successful,68.2,54,79.3,55.7
+11900,528208,Dailon Livramento,2555,Cabo Verde,119,SecondPeriodOfExtraTime,OffsideGiven,Unsuccessful,94.9,38.3,,
+900,129648,Steven Moreira,2555,Cabo Verde,119,SecondPeriodOfExtraTime,OffsidePass,Successful,83.6,58.3,94.9,38.3
+1261,369430,Enzo Fernández,346,Argentina,119,SecondPeriodOfExtraTime,OffsideProvoked,Successful,12.2,44.6,,
+1262,102248,Emiliano Martínez,346,Argentina,119,SecondPeriodOfExtraTime,Pass,Unsuccessful,16.3,63.7,75.3,65.8
+901,430933,Pico Lopes,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Aerial,Successful,24.7,34.2,,
+1263,365409,Julián Alvarez,346,Argentina,119,SecondPeriodOfExtraTime,Aerial,Unsuccessful,75.3,65.8,,
+902,430933,Pico Lopes,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Pass,Successful,24.7,34.2,38.9,19.8
+903,457407,Yannick Semedo,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Pass,Unsuccessful,38.7,19.8,48.1,15
+1264,93700,Leandro Paredes,346,Argentina,119,SecondPeriodOfExtraTime,Clearance,Successful,55,87.9,59.8,100
+905,129648,Steven Moreira,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Pass,Successful,38.8,0,25.3,10.6
+906,430933,Pico Lopes,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Pass,Successful,25.3,10.6,41.5,33.3
+907,296684,Jamiro Monteiro,2555,Cabo Verde,119,SecondPeriodOfExtraTime,Pass,Successful,42.8,40.6,49,70.9
+908,505284,Sidny Cabral,2555,Cabo Verde,120,SecondPeriodOfExtraTime,Pass,Successful,64.9,83.5,67.6,92
+909,493061,Hélio Varela,2555,Cabo Verde,120,SecondPeriodOfExtraTime,Pass,Successful,65.2,67,63.6,38
+910,457407,Yannick Semedo,2555,Cabo Verde,120,SecondPeriodOfExtraTime,Pass,Successful,64,37.1,80.7,43
+911,493061,Hélio Varela,2555,Cabo Verde,120,SecondPeriodOfExtraTime,SavedShot,Successful,80.3,37.8,,
+1266,340105,Lisandro Martínez,346,Argentina,120,SecondPeriodOfExtraTime,Save,Successful,9,55.2,,
+1267,340105,Lisandro Martínez,346,Argentina,120,SecondPeriodOfExtraTime,CornerAwarded,Unsuccessful,6.2,60.6,,
+912,493061,Hélio Varela,2555,Cabo Verde,120,SecondPeriodOfExtraTime,CornerAwarded,Successful,93.7,39.4,,
+913,457407,Yannick Semedo,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Successful,99.5,0.5,76.4,51.5
+914,296684,Jamiro Monteiro,2555,Cabo Verde,121,SecondPeriodOfExtraTime,SavedShot,Successful,82.2,51.7,,
+1268,93700,Leandro Paredes,346,Argentina,121,SecondPeriodOfExtraTime,Save,Successful,6.4,47.3,,
+1269,323663,Cristian Romero,346,Argentina,121,SecondPeriodOfExtraTime,Pass,Successful,29.8,18.9,38.4,19
+1270,369430,Enzo Fernández,346,Argentina,121,SecondPeriodOfExtraTime,BallRecovery,Successful,38.4,19,,
+1271,369430,Enzo Fernández,346,Argentina,121,SecondPeriodOfExtraTime,Pass,Unsuccessful,65,22.6,79,50.7
+915,123577,Vozinha,2555,Cabo Verde,121,SecondPeriodOfExtraTime,KeeperSweeper,Successful,17.2,50.4,,
+916,123577,Vozinha,2555,Cabo Verde,121,SecondPeriodOfExtraTime,BallRecovery,Successful,24.5,48.2,,
+917,123577,Vozinha,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Successful,27.1,49,40.7,12.6
+918,457407,Yannick Semedo,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Successful,53.9,17.4,55.9,50
+919,235763,Diney Borges,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Successful,59,47.3,67.9,16.1
+920,457407,Yannick Semedo,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Successful,68.2,15.9,82.9,6.4
+938,415948,Willy Semedo,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Dispossessed,Successful,95.3,17,,
+1273,83809,Nicolás Tagliafico,346,Argentina,121,SecondPeriodOfExtraTime,Tackle,Unsuccessful,4.7,83,,
+921,415948,Willy Semedo,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Pass,Unsuccessful,95.7,19.7,86.8,46
+1274,345319,Alexis Mac Allister,346,Argentina,121,SecondPeriodOfExtraTime,Aerial,Successful,13.2,54,,
+922,421897,Gilson Benchimol,2555,Cabo Verde,121,SecondPeriodOfExtraTime,Aerial,Unsuccessful,86.8,46,,
+1275,345319,Alexis Mac Allister,346,Argentina,121,SecondPeriodOfExtraTime,Clearance,Successful,13.2,54,30,56.1
+923,493061,Hélio Varela,2555,Cabo Verde,121,SecondPeriodOfExtraTime,MissedShots,Successful,72.6,40.1,,
+1277,102248,Emiliano Martínez,346,Argentina,122,SecondPeriodOfExtraTime,Pass,Unsuccessful,5,38.5,64.4,38.1
+925,235763,Diney Borges,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Aerial,Successful,35.6,61.9,,
+1278,365409,Julián Alvarez,346,Argentina,122,SecondPeriodOfExtraTime,Aerial,Unsuccessful,64.4,38.1,,
+926,235763,Diney Borges,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Pass,Unsuccessful,35.6,61.9,37.2,54.8
+1279,365409,Julián Alvarez,346,Argentina,122,SecondPeriodOfExtraTime,BallTouch,Successful,64.5,38.1,,
+1280,345322,Nico González,346,Argentina,122,SecondPeriodOfExtraTime,Pass,Successful,57.6,69.9,68.3,96.9
+1281,11119,Lionel Messi,346,Argentina,122,SecondPeriodOfExtraTime,Pass,Successful,69.2,96.1,89.5,92.4
+1282,345322,Nico González,346,Argentina,122,SecondPeriodOfExtraTime,TakeOn,Unsuccessful,91.2,93.2,,
+927,235763,Diney Borges,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Tackle,Successful,8.9,5.7,,
+928,235763,Diney Borges,2555,Cabo Verde,122,SecondPeriodOfExtraTime,BallRecovery,Successful,14,8.2,,
+929,235763,Diney Borges,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Pass,Unsuccessful,23.7,8.9,58,47.3
+1284,323663,Cristian Romero,346,Argentina,122,SecondPeriodOfExtraTime,Pass,Unsuccessful,45.5,54.6,86.6,83.4
+930,430933,Pico Lopes,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Pass,Successful,12.9,16.4,12.8,49.4
+931,123577,Vozinha,2555,Cabo Verde,122,SecondPeriodOfExtraTime,KeeperPickup,Successful,13.1,49.4,,
+933,123577,Vozinha,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Pass,Successful,25.9,58.8,31.4,71.5
+934,296684,Jamiro Monteiro,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Pass,Unsuccessful,33.8,61.1,75.5,23.4
+1285,83809,Nicolás Tagliafico,346,Argentina,122,SecondPeriodOfExtraTime,Aerial,Successful,24.5,76.6,,
+935,415948,Willy Semedo,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Aerial,Unsuccessful,75.5,23.4,,
+1286,83809,Nicolás Tagliafico,346,Argentina,122,SecondPeriodOfExtraTime,Clearance,Successful,24.5,76.6,24.4,75.7
+936,129648,Steven Moreira,2555,Cabo Verde,122,SecondPeriodOfExtraTime,Dispossessed,Successful,69.2,20.7,,
+1287,93700,Leandro Paredes,346,Argentina,122,SecondPeriodOfExtraTime,Tackle,Successful,32,76.2,,
+1288,93700,Leandro Paredes,346,Argentina,122,SecondPeriodOfExtraTime,Clearance,Successful,26.9,93.3,8.1,100
+939,528208,Dailon Livramento,2555,Cabo Verde,123,SecondPeriodOfExtraTime,Pass,Successful,81.2,0,77.7,8.6
+940,415948,Willy Semedo,2555,Cabo Verde,123,SecondPeriodOfExtraTime,Pass,Successful,77.9,8.8,88.1,5.6
+941,528208,Dailon Livramento,2555,Cabo Verde,123,SecondPeriodOfExtraTime,Pass,Unsuccessful,91.5,8.9,92.1,11.7
+1290,93700,Leandro Paredes,346,Argentina,123,SecondPeriodOfExtraTime,Clearance,Successful,7.9,88.3,,
+1292,,,346,Argentina,123,SecondPeriodOfExtraTime,End,Successful,0,0,,
+943,,,2555,Cabo Verde,123,SecondPeriodOfExtraTime,End,Successful,0,0,,
+944,,,2555,Cabo Verde,0,PostGame,End,Successful,0,0,,
+1293,,,346,Argentina,0,PostGame,End,Successful,0,0,,
+1,,,346,Argentina,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,2555,Cabo Verde,0,PreMatch,FormationSet,Successful,0,0,,

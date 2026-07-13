@@ -1,0 +1,1639 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,944,Egypt,0,FirstHalf,Start,Successful,0,0,,
+2,,,1918,New Zealand,0,FirstHalf,Start,Successful,0,0,,
+3,455336,Elijah Just,1918,New Zealand,0,FirstHalf,Pass,Successful,50.1,49.3,37.5,47.8
+4,395377,Joe Bell,1918,New Zealand,0,FirstHalf,Pass,Successful,37.2,47.5,54.1,53.8
+5,455336,Elijah Just,1918,New Zealand,0,FirstHalf,Pass,Successful,54,54.6,52.4,43.3
+6,379696,Sarpreet Singh,1918,New Zealand,0,FirstHalf,Pass,Unsuccessful,52.4,43.3,65.7,45.1
+3,431069,Mohanad Lasheen,944,Egypt,0,FirstHalf,BallTouch,Unsuccessful,37,53.6,,
+8,114686,Tim Payne,1918,New Zealand,0,FirstHalf,Pass,Successful,52.4,0,66.2,4.9
+9,379696,Sarpreet Singh,1918,New Zealand,0,FirstHalf,Pass,Successful,62.3,4.6,36.4,11.8
+10,483919,Finn Surman,1918,New Zealand,0,FirstHalf,Pass,Successful,37,12.6,31.6,50.2
+11,42898,Michael Boxall,1918,New Zealand,0,FirstHalf,Pass,Successful,28.1,51,31.4,21.1
+12,483919,Finn Surman,1918,New Zealand,0,FirstHalf,Pass,Successful,34.2,21.6,96.3,17.7
+13,455331,Callum McCowatt,1918,New Zealand,0,FirstHalf,Pass,Unsuccessful,97.2,21,96.6,46.5
+5,519797,Mostafa Shobeir,944,Egypt,0,FirstHalf,Clearance,Successful,4,56.1,9,59.7
+6,431063,Hamdi Fathy,944,Egypt,0,FirstHalf,BallRecovery,Successful,9,59.7,,
+7,431063,Hamdi Fathy,944,Egypt,0,FirstHalf,Pass,Successful,9.2,61.2,7.1,71.3
+8,431065,Ahmed Fatouh,944,Egypt,0,FirstHalf,Pass,Unsuccessful,5.2,80,26.4,77.6
+14,395377,Joe Bell,1918,New Zealand,0,FirstHalf,BallRecovery,Successful,66.5,17.7,,
+15,395377,Joe Bell,1918,New Zealand,0,FirstHalf,Pass,Successful,64.6,16.8,82.1,12.3
+16,455331,Callum McCowatt,1918,New Zealand,0,FirstHalf,Pass,Successful,80.4,10.6,88.9,5.4
+17,379696,Sarpreet Singh,1918,New Zealand,0,FirstHalf,TakeOn,Unsuccessful,90.2,9.6,,
+9,431065,Ahmed Fatouh,944,Egypt,0,FirstHalf,Tackle,Successful,9.8,90.4,,
+19,455331,Callum McCowatt,1918,New Zealand,0,FirstHalf,Pass,Successful,90.7,0,75.5,5.2
+20,114686,Tim Payne,1918,New Zealand,0,FirstHalf,Pass,Unsuccessful,77,5.4,87.8,45.6
+11,431063,Hamdi Fathy,944,Egypt,0,FirstHalf,Clearance,Successful,8.8,54.6,24.8,56.4
+12,394749,Omar Marmoush,944,Egypt,1,FirstHalf,Foul,Successful,26,58.2,,
+21,483919,Finn Surman,1918,New Zealand,1,FirstHalf,Foul,Unsuccessful,74,41.8,,
+13,476815,Marwan Attia,944,Egypt,1,FirstHalf,Pass,Successful,26.2,52.8,39.7,22.3
+14,450471,Mohamed Hany,944,Egypt,1,FirstHalf,Pass,Successful,52.7,11.2,59.4,8.2
+15,512753,Mostafa Zico,944,Egypt,1,FirstHalf,Pass,Successful,60.5,8.2,50.1,16.9
+16,476815,Marwan Attia,944,Egypt,1,FirstHalf,Pass,Successful,49.3,17,35.9,50.7
+17,431063,Hamdi Fathy,944,Egypt,1,FirstHalf,Pass,Successful,37.1,51.8,43.3,67.5
+18,431069,Mohanad Lasheen,944,Egypt,1,FirstHalf,Pass,Successful,45.9,68.4,59.5,86.7
+19,431065,Ahmed Fatouh,944,Egypt,1,FirstHalf,Pass,Successful,64.4,87,85,84.6
+20,394749,Omar Marmoush,944,Egypt,1,FirstHalf,BallTouch,Unsuccessful,92.6,74.6,,
+22,134040,Max Crocombe,1918,New Zealand,1,FirstHalf,KeeperPickup,Successful,1.2,39.9,,
+24,134040,Max Crocombe,1918,New Zealand,1,FirstHalf,Pass,Successful,9.2,48,70.2,57.6
+25,73380,Chris Wood,1918,New Zealand,1,FirstHalf,BallTouch,Unsuccessful,70.9,57.3,,
+21,450472,Yasser Ibrahim,944,Egypt,1,FirstHalf,BallRecovery,Successful,28,40.9,,
+22,450472,Yasser Ibrahim,944,Egypt,1,FirstHalf,Pass,Successful,29.1,38.9,28.9,56.1
+23,431063,Hamdi Fathy,944,Egypt,1,FirstHalf,Pass,Successful,28.8,62.7,35.5,87.8
+24,431068,Emam Ashour,944,Egypt,1,FirstHalf,Pass,Successful,36.4,84.3,31.4,87.6
+25,431065,Ahmed Fatouh,944,Egypt,1,FirstHalf,Pass,Successful,30.7,87,27.6,73.8
+26,431063,Hamdi Fathy,944,Egypt,1,FirstHalf,Pass,Successful,25.4,65.6,23.7,37.4
+27,450472,Yasser Ibrahim,944,Egypt,2,FirstHalf,Pass,Successful,26,32.3,35.1,10
+28,450471,Mohamed Hany,944,Egypt,2,FirstHalf,Pass,Successful,35.7,8.6,25.7,24.5
+29,450472,Yasser Ibrahim,944,Egypt,2,FirstHalf,Pass,Successful,25.4,25,25.8,57
+30,431063,Hamdi Fathy,944,Egypt,2,FirstHalf,Pass,Successful,25.6,58.2,27.6,92.6
+31,431065,Ahmed Fatouh,944,Egypt,2,FirstHalf,Pass,Successful,27.6,93.6,36.2,92.3
+32,431068,Emam Ashour,944,Egypt,2,FirstHalf,Foul,Successful,34.8,82.6,,
+27,395377,Joe Bell,1918,New Zealand,2,FirstHalf,Foul,Unsuccessful,65.2,17.4,,
+34,431065,Ahmed Fatouh,944,Egypt,2,FirstHalf,Pass,Successful,32.3,93,37.5,88.9
+39,431068,Emam Ashour,944,Egypt,2,FirstHalf,Pass,Successful,37.3,92.6,31.7,96.1
+43,431065,Ahmed Fatouh,944,Egypt,2,FirstHalf,Pass,Successful,31.8,93.4,30.3,85.4
+46,431063,Hamdi Fathy,944,Egypt,2,FirstHalf,Pass,Successful,27.8,75,34.9,92.9
+33,431065,Ahmed Fatouh,944,Egypt,2,FirstHalf,Pass,Unsuccessful,33.8,91.8,86.2,58.1
+28,134040,Max Crocombe,1918,New Zealand,2,FirstHalf,BallRecovery,Successful,13.7,46.2,,
+29,134040,Max Crocombe,1918,New Zealand,2,FirstHalf,Pass,Successful,14.8,41.5,21.5,25.2
+30,483919,Finn Surman,1918,New Zealand,2,FirstHalf,Pass,Successful,22.6,24.4,29.1,4.3
+31,114686,Tim Payne,1918,New Zealand,2,FirstHalf,Pass,Unsuccessful,30.7,5.8,33.6,8.4
+35,431068,Emam Ashour,944,Egypt,2,FirstHalf,BlockedPass,Successful,66.4,91.6,,
+33,114686,Tim Payne,1918,New Zealand,3,FirstHalf,Pass,Successful,38.5,0,65.8,7.8
+34,73380,Chris Wood,1918,New Zealand,3,FirstHalf,BallTouch,Unsuccessful,66,7.3,,
+37,431063,Hamdi Fathy,944,Egypt,3,FirstHalf,Pass,Unsuccessful,35.9,92.4,38.2,92.8
+35,73380,Chris Wood,1918,New Zealand,3,FirstHalf,BallTouch,Unsuccessful,62.5,4.3,,
+40,431065,Ahmed Fatouh,944,Egypt,3,FirstHalf,Pass,Successful,47.1,100,57.7,79.1
+41,394749,Omar Marmoush,944,Egypt,3,FirstHalf,Pass,Successful,52.5,75.9,46.7,28.7
+42,450471,Mohamed Hany,944,Egypt,3,FirstHalf,Pass,Successful,60.1,22.1,67.5,19.7
+44,108226,Mohamed Salah,944,Egypt,3,FirstHalf,Pass,Successful,65.3,24.5,44.5,32.8
+45,450472,Yasser Ibrahim,944,Egypt,3,FirstHalf,Pass,Successful,43.9,31.9,30.5,58.8
+47,431063,Hamdi Fathy,944,Egypt,3,FirstHalf,Pass,Successful,33.7,58.1,36.9,39.7
+48,450472,Yasser Ibrahim,944,Egypt,3,FirstHalf,Pass,Successful,43.4,31.1,62.2,11.5
+49,108226,Mohamed Salah,944,Egypt,3,FirstHalf,Pass,Unsuccessful,62.9,10.9,87.9,38.2
+37,134040,Max Crocombe,1918,New Zealand,4,FirstHalf,KeeperPickup,Successful,14.4,59.8,,
+38,134040,Max Crocombe,1918,New Zealand,4,FirstHalf,Pass,Successful,13,58.8,21.8,58.8
+39,395377,Joe Bell,1918,New Zealand,4,FirstHalf,Pass,Successful,24.4,61.2,23.1,75.7
+40,443658,Marko Stamenic,1918,New Zealand,4,FirstHalf,Pass,Successful,23.1,75.9,13.2,65.4
+41,42898,Michael Boxall,1918,New Zealand,4,FirstHalf,Pass,Successful,13.7,59.4,10.8,27.6
+42,483919,Finn Surman,1918,New Zealand,4,FirstHalf,Pass,Successful,9.7,18.4,24,3.9
+43,114686,Tim Payne,1918,New Zealand,4,FirstHalf,Pass,Unsuccessful,24,3.3,23.3,7.2
+50,431068,Emam Ashour,944,Egypt,4,FirstHalf,BallTouch,Successful,74.9,81.9,,
+44,455331,Callum McCowatt,1918,New Zealand,4,FirstHalf,Pass,Unsuccessful,25,9.7,69.3,39.4
+51,450472,Yasser Ibrahim,944,Egypt,4,FirstHalf,Pass,Successful,29.6,56.9,14.5,53.1
+52,519797,Mostafa Shobeir,944,Egypt,4,FirstHalf,Pass,Successful,14.6,53.1,65.3,84.9
+53,431068,Emam Ashour,944,Egypt,4,FirstHalf,Aerial,Successful,65.3,84.9,,
+45,114686,Tim Payne,1918,New Zealand,4,FirstHalf,Aerial,Unsuccessful,34.7,15.1,,
+54,431068,Emam Ashour,944,Egypt,4,FirstHalf,Pass,Unsuccessful,60.7,90.8,64.7,78.1
+46,483919,Finn Surman,1918,New Zealand,4,FirstHalf,Pass,Unsuccessful,35.4,22,43,16.5
+55,476815,Marwan Attia,944,Egypt,4,FirstHalf,Pass,Unsuccessful,52,81.8,65.4,74
+47,395377,Joe Bell,1918,New Zealand,4,FirstHalf,Pass,Successful,42.2,12.9,26.5,21.6
+48,483919,Finn Surman,1918,New Zealand,4,FirstHalf,Pass,Successful,26.3,21.1,36.9,27.1
+49,443658,Marko Stamenic,1918,New Zealand,4,FirstHalf,Pass,Successful,39.3,23.7,36.4,14.4
+50,395377,Joe Bell,1918,New Zealand,4,FirstHalf,Pass,Successful,35.7,14.8,42.7,10.8
+51,455331,Callum McCowatt,1918,New Zealand,4,FirstHalf,Pass,Successful,42.7,10.8,44.6,20.2
+52,443658,Marko Stamenic,1918,New Zealand,4,FirstHalf,Pass,Successful,53.6,19,62.4,32.8
+53,379696,Sarpreet Singh,1918,New Zealand,4,FirstHalf,Pass,Successful,62.4,32.8,57.8,33.9
+54,443658,Marko Stamenic,1918,New Zealand,4,FirstHalf,TakeOn,Unsuccessful,62.8,38,,
+56,431063,Hamdi Fathy,944,Egypt,4,FirstHalf,Tackle,Successful,37.3,62,,
+57,108226,Mohamed Salah,944,Egypt,4,FirstHalf,BallRecovery,Successful,42.7,27.5,,
+55,443658,Marko Stamenic,1918,New Zealand,4,FirstHalf,Challenge,Unsuccessful,32.9,71.1,,
+58,108226,Mohamed Salah,944,Egypt,4,FirstHalf,TakeOn,Successful,67.1,28.9,,
+59,108226,Mohamed Salah,944,Egypt,4,FirstHalf,Pass,Successful,69.9,37.6,76.8,35
+60,394749,Omar Marmoush,944,Egypt,4,FirstHalf,BallTouch,Unsuccessful,76.9,35,,
+56,455336,Elijah Just,1918,New Zealand,4,FirstHalf,Pass,Successful,20.8,72.9,11.3,71.1
+57,402095,Liberato Cacace,1918,New Zealand,4,FirstHalf,BallRecovery,Successful,12,70.3,,
+58,402095,Liberato Cacace,1918,New Zealand,4,FirstHalf,Pass,Successful,11.8,72.1,25,63
+59,395377,Joe Bell,1918,New Zealand,4,FirstHalf,Pass,Unsuccessful,25,63,27.4,67.3
+61,431069,Mohanad Lasheen,944,Egypt,4,FirstHalf,BlockedPass,Successful,72.6,32.7,,
+61,42898,Michael Boxall,1918,New Zealand,5,FirstHalf,Pass,Successful,4.4,61.3,4.7,49.6
+62,134040,Max Crocombe,1918,New Zealand,5,FirstHalf,Pass,Unsuccessful,7.9,46,61.2,91.6
+63,450471,Mohamed Hany,944,Egypt,5,FirstHalf,Pass,Unsuccessful,36.2,9.2,56.1,16
+63,402095,Liberato Cacace,1918,New Zealand,5,FirstHalf,Pass,Successful,42.1,83.4,53.2,94.5
+64,73380,Chris Wood,1918,New Zealand,5,FirstHalf,Dispossessed,Successful,45.2,90.4,,
+65,431069,Mohanad Lasheen,944,Egypt,5,FirstHalf,Tackle,Successful,54.8,9.6,,
+842,73380,Chris Wood,1918,New Zealand,5,FirstHalf,Error,Successful,44.2,91.1,,
+66,108226,Mohamed Salah,944,Egypt,5,FirstHalf,BallRecovery,Successful,69.6,19.6,,
+65,73380,Chris Wood,1918,New Zealand,5,FirstHalf,Challenge,Unsuccessful,16.8,68.8,,
+67,108226,Mohamed Salah,944,Egypt,5,FirstHalf,TakeOn,Successful,83.2,31.2,,
+68,108226,Mohamed Salah,944,Egypt,5,FirstHalf,SavedShot,Successful,81.6,44.2,,
+66,483919,Finn Surman,1918,New Zealand,5,FirstHalf,Save,Successful,14.1,52.3,,
+67,114686,Tim Payne,1918,New Zealand,5,FirstHalf,BallRecovery,Successful,4.2,16.8,,
+68,114686,Tim Payne,1918,New Zealand,5,FirstHalf,Pass,Successful,9.7,10.2,38.3,21.9
+69,379696,Sarpreet Singh,1918,New Zealand,5,FirstHalf,Pass,Successful,38.4,24.3,35,10.6
+70,455331,Callum McCowatt,1918,New Zealand,5,FirstHalf,Pass,Successful,34.3,11.1,26.7,18.9
+71,395377,Joe Bell,1918,New Zealand,5,FirstHalf,Pass,Successful,26.7,18.9,32.9,21.3
+72,379696,Sarpreet Singh,1918,New Zealand,5,FirstHalf,Pass,Unsuccessful,32.9,21.3,32.2,18.9
+69,431063,Hamdi Fathy,944,Egypt,5,FirstHalf,BlockedPass,Successful,67.8,81.1,,
+73,455331,Callum McCowatt,1918,New Zealand,6,FirstHalf,Pass,Successful,25.2,14.2,9,19.6
+74,483919,Finn Surman,1918,New Zealand,6,FirstHalf,Pass,Successful,5.6,17.7,15.7,4.6
+75,114686,Tim Payne,1918,New Zealand,6,FirstHalf,Pass,Unsuccessful,11.5,7.6,23.1,10.5
+70,431068,Emam Ashour,944,Egypt,6,FirstHalf,BallTouch,Successful,76.6,89.9,,
+126,379696,Sarpreet Singh,1918,New Zealand,6,FirstHalf,Dispossessed,Successful,38.9,25,,
+108,431063,Hamdi Fathy,944,Egypt,6,FirstHalf,Tackle,Unsuccessful,61.1,75,,
+76,379696,Sarpreet Singh,1918,New Zealand,6,FirstHalf,Pass,Unsuccessful,33.5,36.8,27.5,71.6
+72,108226,Mohamed Salah,944,Egypt,6,FirstHalf,Aerial,Successful,70.9,30.7,,
+77,402095,Liberato Cacace,1918,New Zealand,6,FirstHalf,Aerial,Unsuccessful,29.1,69.3,,
+73,108226,Mohamed Salah,944,Egypt,6,FirstHalf,Pass,Unsuccessful,73.4,26.8,72.5,25.4
+78,402095,Liberato Cacace,1918,New Zealand,6,FirstHalf,BallTouch,Successful,25.6,70,,
+74,512753,Mostafa Zico,944,Egypt,6,FirstHalf,Challenge,Unsuccessful,69.4,31.2,,
+79,455336,Elijah Just,1918,New Zealand,6,FirstHalf,TakeOn,Successful,30.6,68.8,,
+80,455336,Elijah Just,1918,New Zealand,6,FirstHalf,Pass,Successful,45.3,55.5,53.7,52.8
+81,73380,Chris Wood,1918,New Zealand,6,FirstHalf,Pass,Successful,53.4,52.3,72.9,84
+82,402095,Liberato Cacace,1918,New Zealand,6,FirstHalf,Pass,Successful,73.1,84.6,81.3,56.5
+83,379696,Sarpreet Singh,1918,New Zealand,6,FirstHalf,MissedShots,Successful,81.6,58.2,,
+76,519797,Mostafa Shobeir,944,Egypt,6,FirstHalf,Pass,Successful,4.5,52.7,16.8,86
+77,431065,Ahmed Fatouh,944,Egypt,6,FirstHalf,Pass,Successful,20.1,91.8,30.6,93.2
+78,431068,Emam Ashour,944,Egypt,6,FirstHalf,BallTouch,Unsuccessful,54.3,92.6,,
+86,443658,Marko Stamenic,1918,New Zealand,6,FirstHalf,BallRecovery,Successful,37.2,7.3,,
+87,443658,Marko Stamenic,1918,New Zealand,6,FirstHalf,Pass,Successful,37.2,7.3,52.7,10.2
+88,455331,Callum McCowatt,1918,New Zealand,6,FirstHalf,Pass,Unsuccessful,44.9,15.3,56.7,26.8
+79,431063,Hamdi Fathy,944,Egypt,6,FirstHalf,Interception,Successful,43.3,73.2,,
+80,476815,Marwan Attia,944,Egypt,7,FirstHalf,BallRecovery,Successful,48.3,70.2,,
+81,476815,Marwan Attia,944,Egypt,7,FirstHalf,Pass,Successful,49.4,67.4,63,58.4
+82,108226,Mohamed Salah,944,Egypt,7,FirstHalf,Dispossessed,Successful,66.2,53.6,,
+89,455336,Elijah Just,1918,New Zealand,7,FirstHalf,Tackle,Successful,33.7,46.4,,
+90,443658,Marko Stamenic,1918,New Zealand,7,FirstHalf,Pass,Unsuccessful,32.2,37,32.7,37.9
+157,108226,Mohamed Salah,944,Egypt,7,FirstHalf,BlockedPass,Successful,71.4,60,,
+91,455331,Callum McCowatt,1918,New Zealand,7,FirstHalf,BallRecovery,Successful,40.6,35.5,,
+92,455331,Callum McCowatt,1918,New Zealand,7,FirstHalf,Pass,Successful,40.6,35.5,30.5,27.3
+93,395377,Joe Bell,1918,New Zealand,7,FirstHalf,Pass,Successful,30.5,27.3,36.2,40
+94,455336,Elijah Just,1918,New Zealand,7,FirstHalf,Pass,Successful,35.9,42,38.2,30.9
+95,395377,Joe Bell,1918,New Zealand,7,FirstHalf,Pass,Successful,38.2,30.9,44.1,36.4
+100,395377,Joe Bell,1918,New Zealand,7,FirstHalf,Pass,Successful,44.2,47.1,49,57.6
+101,443658,Marko Stamenic,1918,New Zealand,7,FirstHalf,Pass,Successful,49,57.6,43.5,52.5
+102,395377,Joe Bell,1918,New Zealand,7,FirstHalf,Pass,Successful,46.4,54.1,40.2,76.3
+103,42898,Michael Boxall,1918,New Zealand,7,FirstHalf,Pass,Successful,41.9,77.1,37.2,61.9
+104,443658,Marko Stamenic,1918,New Zealand,7,FirstHalf,Pass,Successful,38.2,61.9,52.1,24.4
+105,379696,Sarpreet Singh,1918,New Zealand,7,FirstHalf,Pass,Unsuccessful,55.1,30.3,84,48.6
+88,450472,Yasser Ibrahim,944,Egypt,7,FirstHalf,Clearance,Successful,17.8,53.9,23.9,60.5
+89,431065,Ahmed Fatouh,944,Egypt,7,FirstHalf,Pass,Unsuccessful,24.5,60.8,40.7,57.3
+106,379696,Sarpreet Singh,1918,New Zealand,7,FirstHalf,Pass,Successful,56.3,35.7,57.1,50.1
+107,443658,Marko Stamenic,1918,New Zealand,8,FirstHalf,Pass,Successful,57.8,41.1,48.1,18
+108,114686,Tim Payne,1918,New Zealand,8,FirstHalf,Pass,Successful,44.1,16.5,37.3,25
+109,483919,Finn Surman,1918,New Zealand,8,FirstHalf,Pass,Successful,34.9,28.3,41.6,26.2
+110,395377,Joe Bell,1918,New Zealand,8,FirstHalf,Pass,Successful,41.4,25.2,33.6,43.6
+111,483919,Finn Surman,1918,New Zealand,8,FirstHalf,Pass,Successful,33.4,43.2,34.3,65.2
+112,42898,Michael Boxall,1918,New Zealand,8,FirstHalf,Pass,Successful,35.4,63.6,36.5,54.7
+113,443658,Marko Stamenic,1918,New Zealand,8,FirstHalf,Pass,Successful,36.4,56.2,44.8,79.8
+114,42898,Michael Boxall,1918,New Zealand,8,FirstHalf,Pass,Successful,56.5,73.9,48,72.4
+115,443658,Marko Stamenic,1918,New Zealand,8,FirstHalf,Pass,Successful,35.9,77.2,39,43
+116,483919,Finn Surman,1918,New Zealand,8,FirstHalf,Pass,Successful,38.2,40.9,41.2,17.8
+117,114686,Tim Payne,1918,New Zealand,8,FirstHalf,Pass,Successful,42.1,24.3,35.7,39.6
+118,483919,Finn Surman,1918,New Zealand,8,FirstHalf,Pass,Successful,35,39.1,36.2,66.7
+119,42898,Michael Boxall,1918,New Zealand,8,FirstHalf,Pass,Successful,35.1,62.8,30.4,39.9
+120,483919,Finn Surman,1918,New Zealand,8,FirstHalf,Pass,Successful,30.5,39.7,34.7,18.3
+121,114686,Tim Payne,1918,New Zealand,8,FirstHalf,Pass,Successful,34.3,16.9,43.6,5.7
+122,379696,Sarpreet Singh,1918,New Zealand,8,FirstHalf,Pass,Unsuccessful,43.5,5.5,54.1,19.8
+90,431068,Emam Ashour,944,Egypt,8,FirstHalf,Pass,Successful,49.3,82.6,45.6,69.3
+91,431069,Mohanad Lasheen,944,Egypt,8,FirstHalf,BallRecovery,Successful,41.9,63.2,,
+92,431069,Mohanad Lasheen,944,Egypt,8,FirstHalf,Pass,Successful,45.2,72.6,60,92.4
+93,431065,Ahmed Fatouh,944,Egypt,8,FirstHalf,Pass,Successful,58.8,93.8,46.3,90.4
+94,431068,Emam Ashour,944,Egypt,8,FirstHalf,Pass,Successful,44.4,91.4,38.6,89.3
+95,431063,Hamdi Fathy,944,Egypt,8,FirstHalf,Pass,Successful,35.4,78.6,37.7,68.7
+96,431069,Mohanad Lasheen,944,Egypt,9,FirstHalf,Pass,Successful,37,69,30.6,54.3
+97,450472,Yasser Ibrahim,944,Egypt,9,FirstHalf,Pass,Successful,31.4,46,37.3,10.3
+98,450471,Mohamed Hany,944,Egypt,9,FirstHalf,Pass,Successful,37.8,7.7,31.2,25.6
+99,450472,Yasser Ibrahim,944,Egypt,9,FirstHalf,Pass,Successful,32.9,26.2,32.3,59.9
+100,431063,Hamdi Fathy,944,Egypt,9,FirstHalf,Pass,Successful,31.7,62.6,39.5,88.7
+101,431065,Ahmed Fatouh,944,Egypt,9,FirstHalf,Pass,Successful,44.2,89,60.4,87.8
+102,431068,Emam Ashour,944,Egypt,9,FirstHalf,Pass,Successful,61.1,89.9,40.7,77.9
+103,431063,Hamdi Fathy,944,Egypt,9,FirstHalf,Pass,Successful,44.6,72,67.4,7
+104,450471,Mohamed Hany,944,Egypt,9,FirstHalf,Dispossessed,Successful,64.4,10,,
+123,455336,Elijah Just,1918,New Zealand,9,FirstHalf,Tackle,Unsuccessful,35.6,90,,
+105,476815,Marwan Attia,944,Egypt,9,FirstHalf,Pass,Successful,52.8,11.3,65.2,11.9
+106,512753,Mostafa Zico,944,Egypt,9,FirstHalf,Pass,Successful,67,13.1,64,11.6
+107,450471,Mohamed Hany,944,Egypt,9,FirstHalf,BallTouch,Unsuccessful,64,11.6,,
+125,455336,Elijah Just,1918,New Zealand,9,FirstHalf,BallRecovery,Successful,40.4,94.5,,
+127,455336,Elijah Just,1918,New Zealand,9,FirstHalf,Pass,Successful,45.7,92.5,42.4,74.5
+128,395377,Joe Bell,1918,New Zealand,9,FirstHalf,Pass,Successful,43.3,77.2,40.1,96.6
+129,402095,Liberato Cacace,1918,New Zealand,9,FirstHalf,Pass,Successful,39.4,97.5,35.1,77.8
+130,443658,Marko Stamenic,1918,New Zealand,9,FirstHalf,Pass,Unsuccessful,37.3,78.9,87,75.3
+109,519797,Mostafa Shobeir,944,Egypt,9,FirstHalf,BallRecovery,Successful,15,27.4,,
+110,519797,Mostafa Shobeir,944,Egypt,9,FirstHalf,Pass,Successful,14.7,27.1,27.3,21.7
+111,450472,Yasser Ibrahim,944,Egypt,9,FirstHalf,Pass,Successful,27.3,21.7,34.2,19.6
+112,476815,Marwan Attia,944,Egypt,9,FirstHalf,Pass,Successful,33.9,49,26.5,62
+113,431063,Hamdi Fathy,944,Egypt,9,FirstHalf,Pass,Successful,26.5,62,31.3,92.4
+114,431065,Ahmed Fatouh,944,Egypt,10,FirstHalf,Pass,Successful,31.9,91.4,57.6,78.6
+115,431068,Emam Ashour,944,Egypt,10,FirstHalf,Pass,Successful,57.6,78.6,55.5,79.8
+116,476815,Marwan Attia,944,Egypt,10,FirstHalf,Pass,Successful,56.8,80.1,67.9,70.7
+117,394749,Omar Marmoush,944,Egypt,10,FirstHalf,Pass,Successful,65.9,71.3,66.3,62
+118,431068,Emam Ashour,944,Egypt,10,FirstHalf,Pass,Successful,64,44.6,69.3,10.6
+119,450471,Mohamed Hany,944,Egypt,10,FirstHalf,Pass,Successful,74.4,9.4,73.9,26.5
+120,431068,Emam Ashour,944,Egypt,10,FirstHalf,Pass,Successful,74.1,26.2,72.1,18.4
+121,108226,Mohamed Salah,944,Egypt,10,FirstHalf,Pass,Successful,69.3,30.5,69,58.5
+122,476815,Marwan Attia,944,Egypt,10,FirstHalf,Pass,Successful,68.3,61.8,76.1,82.5
+123,431065,Ahmed Fatouh,944,Egypt,10,FirstHalf,Pass,Successful,77.9,84,91,76.8
+124,431068,Emam Ashour,944,Egypt,10,FirstHalf,Pass,Successful,97.4,86.9,79.1,86.4
+125,476815,Marwan Attia,944,Egypt,10,FirstHalf,Pass,Unsuccessful,76.4,81.5,100,15.7
+132,42898,Michael Boxall,1918,New Zealand,10,FirstHalf,Pass,Successful,4.5,61.8,3.1,49.5
+133,134040,Max Crocombe,1918,New Zealand,10,FirstHalf,Pass,Successful,6.5,50.7,54.9,83.4
+134,73380,Chris Wood,1918,New Zealand,11,FirstHalf,Aerial,Successful,54.9,83.4,,
+127,450472,Yasser Ibrahim,944,Egypt,11,FirstHalf,Aerial,Unsuccessful,45.1,16.6,,
+135,73380,Chris Wood,1918,New Zealand,11,FirstHalf,Pass,Successful,54.9,83.4,40.4,81.9
+136,443658,Marko Stamenic,1918,New Zealand,11,FirstHalf,Aerial,Successful,40.4,81.9,,
+128,512753,Mostafa Zico,944,Egypt,11,FirstHalf,Aerial,Unsuccessful,59.6,18.1,,
+137,443658,Marko Stamenic,1918,New Zealand,11,FirstHalf,Pass,Successful,40.4,81.9,48,92.4
+129,,,944,Egypt,11,FirstHalf,Foul,Successful,53.4,14.9,,
+138,455336,Elijah Just,1918,New Zealand,11,FirstHalf,Foul,Unsuccessful,46.6,85.1,,
+130,450471,Mohamed Hany,944,Egypt,11,FirstHalf,Pass,Successful,46.7,4.7,34.8,14.3
+131,450472,Yasser Ibrahim,944,Egypt,11,FirstHalf,Pass,Successful,34.5,19.6,33.2,48.8
+132,431063,Hamdi Fathy,944,Egypt,11,FirstHalf,Pass,Successful,34,52.4,41,83.6
+133,431065,Ahmed Fatouh,944,Egypt,11,FirstHalf,Pass,Successful,43,83.4,56.8,89.1
+134,431068,Emam Ashour,944,Egypt,11,FirstHalf,Pass,Successful,58.5,87.6,44.9,84.6
+135,431065,Ahmed Fatouh,944,Egypt,11,FirstHalf,Pass,Successful,46.9,85.5,41.3,80.6
+136,431063,Hamdi Fathy,944,Egypt,11,FirstHalf,Pass,Successful,41.1,80.4,45.5,84.6
+137,431065,Ahmed Fatouh,944,Egypt,11,FirstHalf,Pass,Successful,47.4,86.9,39.5,77.6
+138,431063,Hamdi Fathy,944,Egypt,11,FirstHalf,Pass,Successful,39.9,73.2,47.4,57.3
+139,476815,Marwan Attia,944,Egypt,11,FirstHalf,Pass,Successful,45.3,55.2,46.5,18.8
+140,431069,Mohanad Lasheen,944,Egypt,11,FirstHalf,Pass,Successful,55.5,14.8,40.1,54.6
+141,431063,Hamdi Fathy,944,Egypt,11,FirstHalf,Pass,Successful,57.3,58.4,64.7,89.6
+142,431065,Ahmed Fatouh,944,Egypt,11,FirstHalf,Pass,Successful,68.8,91.2,64.7,81.6
+143,431063,Hamdi Fathy,944,Egypt,11,FirstHalf,Pass,Successful,54.8,71.4,48.4,59
+144,450472,Yasser Ibrahim,944,Egypt,12,FirstHalf,Pass,Successful,47,56.4,45.3,31.9
+145,431069,Mohanad Lasheen,944,Egypt,12,FirstHalf,Pass,Successful,46.8,27.4,84.9,19.6
+146,512753,Mostafa Zico,944,Egypt,12,FirstHalf,BallTouch,Unsuccessful,87.4,21.5,,
+139,42898,Michael Boxall,1918,New Zealand,12,FirstHalf,BallTouch,Unsuccessful,9.5,82.8,,
+147,512753,Mostafa Zico,944,Egypt,12,FirstHalf,Pass,Successful,88,25.6,85.5,31.9
+148,108226,Mohamed Salah,944,Egypt,12,FirstHalf,Pass,Unsuccessful,85.6,37.3,88.3,49
+140,455331,Callum McCowatt,1918,New Zealand,12,FirstHalf,Clearance,Successful,13.4,50.7,45.3,83.2
+141,455336,Elijah Just,1918,New Zealand,12,FirstHalf,BallRecovery,Successful,45,85,,
+142,455336,Elijah Just,1918,New Zealand,12,FirstHalf,Pass,Successful,45,85,47.7,58.6
+143,379696,Sarpreet Singh,1918,New Zealand,12,FirstHalf,BallTouch,Unsuccessful,48.1,59.1,,
+149,431065,Ahmed Fatouh,944,Egypt,12,FirstHalf,Pass,Successful,43.5,42.2,28.9,39.8
+150,450472,Yasser Ibrahim,944,Egypt,12,FirstHalf,BallRecovery,Successful,28.7,39.8,,
+151,450472,Yasser Ibrahim,944,Egypt,12,FirstHalf,Pass,Successful,30.5,41,30.3,50.7
+152,431063,Hamdi Fathy,944,Egypt,12,FirstHalf,Pass,Successful,32,47.9,38.5,55.4
+153,476815,Marwan Attia,944,Egypt,12,FirstHalf,Pass,Successful,44.9,55.5,59.1,87.2
+154,431068,Emam Ashour,944,Egypt,12,FirstHalf,Pass,Successful,67.7,80.3,65.9,70.8
+155,476815,Marwan Attia,944,Egypt,12,FirstHalf,Pass,Successful,65.9,70.8,69.4,70.8
+156,431068,Emam Ashour,944,Egypt,12,FirstHalf,Pass,Unsuccessful,70.4,68.4,85.7,40.4
+144,42898,Michael Boxall,1918,New Zealand,12,FirstHalf,Clearance,Successful,15.8,62.5,18.9,88.5
+145,455336,Elijah Just,1918,New Zealand,12,FirstHalf,BallRecovery,Successful,19.9,87.1,,
+146,455336,Elijah Just,1918,New Zealand,12,FirstHalf,Pass,Successful,19.9,87,47.6,69.3
+843,73380,Chris Wood,1918,New Zealand,12,FirstHalf,Aerial,Successful,47,72.6,,
+991,450472,Yasser Ibrahim,944,Egypt,12,FirstHalf,Aerial,Unsuccessful,53,27.4,,
+147,73380,Chris Wood,1918,New Zealand,12,FirstHalf,Dispossessed,Successful,45.2,67.5,,
+158,431069,Mohanad Lasheen,944,Egypt,12,FirstHalf,Tackle,Unsuccessful,54.8,32.5,,
+148,443658,Marko Stamenic,1918,New Zealand,12,FirstHalf,BallTouch,Successful,38.1,63,,
+149,395377,Joe Bell,1918,New Zealand,12,FirstHalf,Pass,Successful,36,52.9,27,63.1
+150,42898,Michael Boxall,1918,New Zealand,12,FirstHalf,Pass,Successful,29.7,62.7,31.4,34.6
+151,483919,Finn Surman,1918,New Zealand,12,FirstHalf,Pass,Successful,27.7,34.6,31.9,49.3
+152,443658,Marko Stamenic,1918,New Zealand,13,FirstHalf,Pass,Successful,34.9,48.3,32.5,71.5
+153,42898,Michael Boxall,1918,New Zealand,13,FirstHalf,Pass,Successful,31.5,72.9,36.9,82.2
+844,402095,Liberato Cacace,1918,New Zealand,13,FirstHalf,TakeOn,Unsuccessful,38.6,85.9,,
+154,402095,Liberato Cacace,1918,New Zealand,13,FirstHalf,Foul,Successful,37,78.4,,
+159,512753,Mostafa Zico,944,Egypt,13,FirstHalf,Foul,Unsuccessful,63,21.6,,
+155,395377,Joe Bell,1918,New Zealand,13,FirstHalf,Pass,Successful,40.2,81.4,48.9,96.9
+156,455336,Elijah Just,1918,New Zealand,13,FirstHalf,Pass,Successful,47.9,97.9,67.6,92.7
+992,450472,Yasser Ibrahim,944,Egypt,13,FirstHalf,Challenge,Unsuccessful,24.9,13.6,,
+845,443658,Marko Stamenic,1918,New Zealand,13,FirstHalf,TakeOn,Successful,75.1,86.4,,
+157,443658,Marko Stamenic,1918,New Zealand,13,FirstHalf,Pass,Successful,76.1,70.5,90.9,69.9
+158,455336,Elijah Just,1918,New Zealand,13,FirstHalf,SavedShot,Successful,90.9,69.9,,
+161,519797,Mostafa Shobeir,944,Egypt,13,FirstHalf,Save,Successful,1.9,45.4,,
+159,455336,Elijah Just,1918,New Zealand,13,FirstHalf,CornerAwarded,Successful,96.1,61.7,,
+162,519797,Mostafa Shobeir,944,Egypt,13,FirstHalf,CornerAwarded,Unsuccessful,4,38.2,,
+160,114686,Tim Payne,1918,New Zealand,14,FirstHalf,Pass,Successful,99.5,99.5,92.9,51.6
+161,483919,Finn Surman,1918,New Zealand,14,FirstHalf,Goal,Successful,92.9,51.6,,
+163,108226,Mohamed Salah,944,Egypt,15,FirstHalf,Pass,Successful,50.2,50,35.6,62.9
+164,476815,Marwan Attia,944,Egypt,15,FirstHalf,Pass,Successful,34.8,59.3,37.4,28
+165,450471,Mohamed Hany,944,Egypt,15,FirstHalf,Pass,Successful,41.3,14.6,48.9,4.9
+166,512753,Mostafa Zico,944,Egypt,15,FirstHalf,Pass,Successful,45,5.2,36.3,7
+167,450471,Mohamed Hany,944,Egypt,15,FirstHalf,Pass,Successful,38.6,21.4,25,29.5
+168,450472,Yasser Ibrahim,944,Egypt,15,FirstHalf,Pass,Successful,25.8,32.3,25,66.5
+169,431063,Hamdi Fathy,944,Egypt,16,FirstHalf,Pass,Successful,26.2,67.7,34.9,86.3
+170,431065,Ahmed Fatouh,944,Egypt,16,FirstHalf,Pass,Successful,34.7,87,30.1,74
+171,431063,Hamdi Fathy,944,Egypt,16,FirstHalf,Pass,Successful,28.5,70.2,28.3,38.8
+172,450472,Yasser Ibrahim,944,Egypt,16,FirstHalf,Pass,Successful,28.4,36.2,38.8,12.5
+173,450471,Mohamed Hany,944,Egypt,16,FirstHalf,Pass,Unsuccessful,40.3,3.7,76.4,24.2
+162,42898,Michael Boxall,1918,New Zealand,16,FirstHalf,Pass,Successful,23.6,82.8,32.6,96.3
+163,402095,Liberato Cacace,1918,New Zealand,16,FirstHalf,Pass,Successful,29.3,95.1,29.6,82.6
+164,395377,Joe Bell,1918,New Zealand,16,FirstHalf,Pass,Unsuccessful,33.8,76.6,33.9,84.9
+174,108226,Mohamed Salah,944,Egypt,16,FirstHalf,BallTouch,Unsuccessful,71.1,17.4,,
+165,395377,Joe Bell,1918,New Zealand,16,FirstHalf,BallRecovery,Successful,35.5,77.8,,
+166,395377,Joe Bell,1918,New Zealand,16,FirstHalf,Pass,Successful,35.5,77.8,32.6,56.1
+167,455331,Callum McCowatt,1918,New Zealand,16,FirstHalf,Pass,Successful,32.6,56.1,29.8,65.7
+168,443658,Marko Stamenic,1918,New Zealand,16,FirstHalf,Pass,Successful,29.8,65.7,18.4,32.7
+169,483919,Finn Surman,1918,New Zealand,16,FirstHalf,Pass,Successful,17.4,32.1,35.1,35.4
+170,455331,Callum McCowatt,1918,New Zealand,16,FirstHalf,Pass,Successful,35.1,35.4,17.5,30
+171,483919,Finn Surman,1918,New Zealand,16,FirstHalf,Pass,Successful,12.6,28.5,4.5,48.3
+172,134040,Max Crocombe,1918,New Zealand,16,FirstHalf,Pass,Successful,6,45,45.7,41.4
+173,379696,Sarpreet Singh,1918,New Zealand,16,FirstHalf,Foul,Successful,40.6,38.4,,
+175,431069,Mohanad Lasheen,944,Egypt,16,FirstHalf,Foul,Unsuccessful,59.4,61.6,,
+176,431069,Mohanad Lasheen,944,Egypt,16,FirstHalf,Card,Successful,0,0,,
+175,395377,Joe Bell,1918,New Zealand,17,FirstHalf,Pass,Unsuccessful,40.9,37.2,81.3,100
+178,450471,Mohamed Hany,944,Egypt,17,FirstHalf,Pass,Successful,19.8,0,27.8,5
+179,512753,Mostafa Zico,944,Egypt,17,FirstHalf,Pass,Successful,29.4,5.9,26.3,7.7
+180,450471,Mohamed Hany,944,Egypt,17,FirstHalf,Pass,Unsuccessful,26.1,7.7,51.3,26.9
+178,42898,Michael Boxall,1918,New Zealand,17,FirstHalf,Clearance,Successful,49.5,80.1,52.4,59.4
+179,379696,Sarpreet Singh,1918,New Zealand,18,FirstHalf,Pass,Unsuccessful,51.9,58.2,65.7,100
+182,450471,Mohamed Hany,944,Egypt,18,FirstHalf,Pass,Successful,39.5,0,43,8.8
+183,431069,Mohanad Lasheen,944,Egypt,18,FirstHalf,BallTouch,Unsuccessful,40,12.5,,
+204,431069,Mohanad Lasheen,944,Egypt,18,FirstHalf,Error,Successful,32.3,39.1,,
+181,455336,Elijah Just,1918,New Zealand,18,FirstHalf,BallRecovery,Successful,65.9,73.2,,
+182,455336,Elijah Just,1918,New Zealand,18,FirstHalf,SavedShot,Successful,79,72.2,,
+184,476815,Marwan Attia,944,Egypt,18,FirstHalf,Save,Successful,19,31.4,,
+184,402095,Liberato Cacace,1918,New Zealand,18,FirstHalf,Pass,Successful,89.3,100,89,92.2
+185,379696,Sarpreet Singh,1918,New Zealand,18,FirstHalf,Pass,Unsuccessful,89.3,92.4,90.3,88.5
+186,431069,Mohanad Lasheen,944,Egypt,18,FirstHalf,Clearance,Successful,9.7,11.5,,
+187,450471,Mohamed Hany,944,Egypt,18,FirstHalf,Clearance,Successful,3.9,22.9,20.5,0
+187,402095,Liberato Cacace,1918,New Zealand,18,FirstHalf,Pass,Successful,86.2,100,88.6,89.1
+188,379696,Sarpreet Singh,1918,New Zealand,18,FirstHalf,Pass,Successful,87,86.5,85.1,97.3
+189,402095,Liberato Cacace,1918,New Zealand,18,FirstHalf,Pass,Unsuccessful,84.9,97.3,89.3,91.9
+189,476815,Marwan Attia,944,Egypt,18,FirstHalf,Clearance,Successful,8.1,8.2,4.4,32.3
+218,476815,Marwan Attia,944,Egypt,18,FirstHalf,Error,Successful,10.3,8.3,,
+190,455331,Callum McCowatt,1918,New Zealand,18,FirstHalf,SavedShot,Successful,95.4,68.1,,
+190,519797,Mostafa Shobeir,944,Egypt,18,FirstHalf,Save,Successful,1.4,43.8,,
+191,512753,Mostafa Zico,944,Egypt,18,FirstHalf,Clearance,Successful,3.9,36.4,42.7,32.5
+191,42898,Michael Boxall,1918,New Zealand,18,FirstHalf,Pass,Successful,62.7,76.8,63.5,89.5
+192,443658,Marko Stamenic,1918,New Zealand,18,FirstHalf,Pass,Successful,65.4,92.2,70.8,93.8
+193,455336,Elijah Just,1918,New Zealand,18,FirstHalf,Pass,Successful,73.6,88.6,88.3,76.6
+194,402095,Liberato Cacace,1918,New Zealand,19,FirstHalf,BallTouch,Unsuccessful,87.8,76.3,,
+193,450471,Mohamed Hany,944,Egypt,19,FirstHalf,BallRecovery,Successful,16,10.3,,
+192,450471,Mohamed Hany,944,Egypt,19,FirstHalf,Pass,Successful,13.1,22.1,24.3,14.2
+194,512753,Mostafa Zico,944,Egypt,19,FirstHalf,Foul,Successful,27.5,7.6,,
+195,379696,Sarpreet Singh,1918,New Zealand,19,FirstHalf,Foul,Unsuccessful,72.6,92.5,,
+196,379696,Sarpreet Singh,1918,New Zealand,19,FirstHalf,Card,Successful,0,0,,
+196,512753,Mostafa Zico,944,Egypt,19,FirstHalf,Pass,Successful,33.2,12.7,43.4,75.8
+197,431068,Emam Ashour,944,Egypt,19,FirstHalf,Pass,Successful,68.7,72.8,80.8,85.5
+198,431065,Ahmed Fatouh,944,Egypt,19,FirstHalf,Pass,Successful,79.5,79.5,72.4,72.2
+199,476815,Marwan Attia,944,Egypt,19,FirstHalf,Pass,Successful,68.5,66.9,70.7,18.2
+200,450471,Mohamed Hany,944,Egypt,19,FirstHalf,Pass,Successful,70.6,16.6,90.5,25.4
+201,108226,Mohamed Salah,944,Egypt,19,FirstHalf,Pass,Successful,91,25.6,83.7,27.2
+202,450471,Mohamed Hany,944,Egypt,19,FirstHalf,SavedShot,Successful,83.7,27.2,,
+197,443658,Marko Stamenic,1918,New Zealand,19,FirstHalf,Save,Successful,12.8,69.3,,
+198,443658,Marko Stamenic,1918,New Zealand,19,FirstHalf,CornerAwarded,Unsuccessful,14.8,73,,
+203,450471,Mohamed Hany,944,Egypt,19,FirstHalf,CornerAwarded,Successful,85.2,27,,
+205,108226,Mohamed Salah,944,Egypt,20,FirstHalf,Pass,Successful,99.5,0.5,76,11.8
+206,476815,Marwan Attia,944,Egypt,20,FirstHalf,Pass,Successful,76,11.8,86.8,8.8
+207,431068,Emam Ashour,944,Egypt,20,FirstHalf,Pass,Successful,88,8.9,94.1,24.5
+208,108226,Mohamed Salah,944,Egypt,20,FirstHalf,Pass,Successful,90.6,21.5,81.2,17.3
+209,476815,Marwan Attia,944,Egypt,20,FirstHalf,Pass,Successful,79.2,18.1,91.8,52.1
+210,512753,Mostafa Zico,944,Egypt,20,FirstHalf,Aerial,Successful,91.8,52.1,,
+199,483919,Finn Surman,1918,New Zealand,20,FirstHalf,Aerial,Unsuccessful,8.2,47.9,,
+211,512753,Mostafa Zico,944,Egypt,20,FirstHalf,MissedShots,Successful,91.8,52.1,,
+204,42898,Michael Boxall,1918,New Zealand,20,FirstHalf,Pass,Successful,5,61,3,50.4
+205,134040,Max Crocombe,1918,New Zealand,20,FirstHalf,Pass,Unsuccessful,8.2,45.3,66.4,83.1
+217,450471,Mohamed Hany,944,Egypt,21,FirstHalf,BallRecovery,Successful,32.2,16.9,,
+219,450471,Mohamed Hany,944,Egypt,21,FirstHalf,Pass,Successful,32.9,30.1,33.2,66.5
+220,431065,Ahmed Fatouh,944,Egypt,21,FirstHalf,Pass,Successful,34.3,69.3,47,87.9
+221,431068,Emam Ashour,944,Egypt,21,FirstHalf,Dispossessed,Successful,62,84.4,,
+206,114686,Tim Payne,1918,New Zealand,21,FirstHalf,Tackle,Successful,38,15.6,,
+207,134040,Max Crocombe,1918,New Zealand,21,FirstHalf,KeeperPickup,Successful,15,30.6,,
+208,134040,Max Crocombe,1918,New Zealand,21,FirstHalf,Pass,Unsuccessful,13.8,28.5,71.4,38.7
+229,450472,Yasser Ibrahim,944,Egypt,21,FirstHalf,Aerial,Successful,28.6,61.3,,
+212,73380,Chris Wood,1918,New Zealand,21,FirstHalf,Aerial,Unsuccessful,71.4,38.7,,
+222,450472,Yasser Ibrahim,944,Egypt,21,FirstHalf,Clearance,Successful,28.6,61.3,33,53.3
+209,73380,Chris Wood,1918,New Zealand,21,FirstHalf,BallTouch,Successful,70.7,39.9,,
+223,431063,Hamdi Fathy,944,Egypt,21,FirstHalf,BallRecovery,Successful,26.2,60.6,,
+224,431063,Hamdi Fathy,944,Egypt,21,FirstHalf,Pass,Successful,25.9,60.2,27.6,22.7
+225,450471,Mohamed Hany,944,Egypt,21,FirstHalf,Pass,Unsuccessful,30.2,16.7,62.6,0
+214,402095,Liberato Cacace,1918,New Zealand,25,FirstHalf,Pass,Successful,56.3,100,75.3,94.3
+215,73380,Chris Wood,1918,New Zealand,25,FirstHalf,Pass,Unsuccessful,74.5,94.5,87.1,81.1
+231,450472,Yasser Ibrahim,944,Egypt,25,FirstHalf,Clearance,Successful,14.4,19,44.9,47
+216,395377,Joe Bell,1918,New Zealand,25,FirstHalf,BallTouch,Unsuccessful,56,54.1,,
+232,512753,Mostafa Zico,944,Egypt,25,FirstHalf,BallRecovery,Successful,40,38.9,,
+233,512753,Mostafa Zico,944,Egypt,25,FirstHalf,Pass,Unsuccessful,40.5,37.9,56.8,32.5
+217,443658,Marko Stamenic,1918,New Zealand,25,FirstHalf,BallRecovery,Successful,44.9,71.2,,
+218,443658,Marko Stamenic,1918,New Zealand,25,FirstHalf,Pass,Successful,44.9,71.2,58.3,88.5
+219,455336,Elijah Just,1918,New Zealand,25,FirstHalf,Pass,Successful,65.9,95.4,59.3,87.9
+220,443658,Marko Stamenic,1918,New Zealand,25,FirstHalf,Pass,Successful,59.7,87.7,62.9,81.1
+221,455331,Callum McCowatt,1918,New Zealand,25,FirstHalf,Pass,Successful,58.1,79.2,47.2,66.6
+222,395377,Joe Bell,1918,New Zealand,25,FirstHalf,Pass,Successful,46.7,65.5,35.5,76.2
+223,42898,Michael Boxall,1918,New Zealand,25,FirstHalf,Pass,Unsuccessful,36.3,76.6,86.3,77.4
+234,450471,Mohamed Hany,944,Egypt,25,FirstHalf,Clearance,Successful,15.4,23,22.2,20
+224,455336,Elijah Just,1918,New Zealand,25,FirstHalf,Pass,Successful,79.7,81,85.7,53.4
+225,73380,Chris Wood,1918,New Zealand,25,FirstHalf,Pass,Successful,81.8,50.1,71.8,48.1
+226,395377,Joe Bell,1918,New Zealand,25,FirstHalf,SavedShot,Successful,71.8,48.1,,
+235,476815,Marwan Attia,944,Egypt,25,FirstHalf,Save,Successful,20.5,51.6,,
+247,108226,Mohamed Salah,944,Egypt,25,FirstHalf,BallRecovery,Successful,32.7,46.2,,
+255,108226,Mohamed Salah,944,Egypt,25,FirstHalf,Pass,Unsuccessful,32.7,46.2,60.1,59.1
+227,483919,Finn Surman,1918,New Zealand,25,FirstHalf,Clearance,Successful,40.2,34.6,42.3,24.4
+228,114686,Tim Payne,1918,New Zealand,25,FirstHalf,BallRecovery,Successful,40.1,21,,
+229,114686,Tim Payne,1918,New Zealand,25,FirstHalf,BallTouch,Unsuccessful,40.6,14.4,,
+238,431068,Emam Ashour,944,Egypt,25,FirstHalf,BallRecovery,Successful,57.9,81.3,,
+239,431068,Emam Ashour,944,Egypt,25,FirstHalf,Pass,Successful,62.1,89.9,65,70.1
+240,108226,Mohamed Salah,944,Egypt,25,FirstHalf,Pass,Successful,69.2,64.4,84.9,71.9
+241,431068,Emam Ashour,944,Egypt,26,FirstHalf,Pass,Successful,87.8,68.5,80.7,69.5
+242,394749,Omar Marmoush,944,Egypt,26,FirstHalf,SavedShot,Successful,81.6,67.3,,
+230,134040,Max Crocombe,1918,New Zealand,26,FirstHalf,Save,Successful,2.7,49.3,,
+231,402095,Liberato Cacace,1918,New Zealand,26,FirstHalf,BallTouch,Successful,4.6,56.4,,
+232,134040,Max Crocombe,1918,New Zealand,26,FirstHalf,KeeperPickup,Successful,4.3,57.4,,
+233,134040,Max Crocombe,1918,New Zealand,26,FirstHalf,Pass,Successful,14.5,50.8,68.2,65.8
+234,73380,Chris Wood,1918,New Zealand,26,FirstHalf,Aerial,Successful,68.2,65.8,,
+243,450472,Yasser Ibrahim,944,Egypt,26,FirstHalf,Aerial,Unsuccessful,31.8,34.2,,
+235,73380,Chris Wood,1918,New Zealand,26,FirstHalf,Pass,Successful,68.2,65.8,62.9,48.4
+236,379696,Sarpreet Singh,1918,New Zealand,26,FirstHalf,Pass,Successful,62.9,48.4,66.6,36.4
+237,455336,Elijah Just,1918,New Zealand,26,FirstHalf,Pass,Successful,67.6,34.2,57.1,39.4
+238,395377,Joe Bell,1918,New Zealand,26,FirstHalf,Pass,Successful,59.1,41.4,69.2,93.9
+239,402095,Liberato Cacace,1918,New Zealand,26,FirstHalf,Pass,Successful,69.3,94.5,67.9,81.4
+240,455336,Elijah Just,1918,New Zealand,26,FirstHalf,Pass,Successful,69.5,83.7,76,95.4
+241,402095,Liberato Cacace,1918,New Zealand,26,FirstHalf,Pass,Successful,74.4,97.3,90.6,56
+244,73380,Chris Wood,1918,New Zealand,26,FirstHalf,Aerial,Successful,90.6,56,,
+259,450472,Yasser Ibrahim,944,Egypt,26,FirstHalf,Aerial,Unsuccessful,9.4,44,,
+242,73380,Chris Wood,1918,New Zealand,26,FirstHalf,MissedShots,Successful,90.6,56,,
+245,519797,Mostafa Shobeir,944,Egypt,27,FirstHalf,Pass,Successful,5,55.7,8.7,75
+246,431063,Hamdi Fathy,944,Egypt,27,FirstHalf,Pass,Successful,8.7,75,13.5,89.6
+248,431065,Ahmed Fatouh,944,Egypt,27,FirstHalf,Pass,Unsuccessful,14.3,92,62,77.1
+249,394749,Omar Marmoush,944,Egypt,27,FirstHalf,Aerial,Successful,62,77.1,,
+245,483919,Finn Surman,1918,New Zealand,27,FirstHalf,Aerial,Unsuccessful,38,22.9,,
+298,394749,Omar Marmoush,944,Egypt,27,FirstHalf,Pass,Unsuccessful,55,78.5,58.8,74.2
+246,483919,Finn Surman,1918,New Zealand,27,FirstHalf,BallTouch,Successful,38,22.9,,
+251,431065,Ahmed Fatouh,944,Egypt,27,FirstHalf,Pass,Successful,47.4,100,62.5,90.2
+252,431068,Emam Ashour,944,Egypt,27,FirstHalf,BallTouch,Unsuccessful,64.4,88.2,,
+248,114686,Tim Payne,1918,New Zealand,27,FirstHalf,Pass,Unsuccessful,36.2,4.5,37.4,4.2
+253,431068,Emam Ashour,944,Egypt,27,FirstHalf,BlockedPass,Successful,63.1,93.9,,
+260,114686,Tim Payne,1918,New Zealand,27,FirstHalf,BallTouch,Successful,30.6,6.7,,
+314,431068,Emam Ashour,944,Egypt,27,FirstHalf,BallTouch,Successful,67.1,93.5,,
+250,114686,Tim Payne,1918,New Zealand,28,FirstHalf,Pass,Unsuccessful,34.3,0,60,5.8
+256,431063,Hamdi Fathy,944,Egypt,28,FirstHalf,Aerial,Successful,40,94.2,,
+251,73380,Chris Wood,1918,New Zealand,28,FirstHalf,Aerial,Unsuccessful,60,5.8,,
+257,431063,Hamdi Fathy,944,Egypt,28,FirstHalf,BallTouch,Successful,36.6,79.1,,
+303,379696,Sarpreet Singh,1918,New Zealand,28,FirstHalf,Aerial,Successful,62.9,5.6,,
+345,476815,Marwan Attia,944,Egypt,28,FirstHalf,Aerial,Unsuccessful,37.1,94.4,,
+304,379696,Sarpreet Singh,1918,New Zealand,28,FirstHalf,BallTouch,Unsuccessful,58.3,6.8,,
+258,431065,Ahmed Fatouh,944,Egypt,28,FirstHalf,Clearance,Successful,33,78.9,44.7,74.4
+252,455336,Elijah Just,1918,New Zealand,28,FirstHalf,Pass,Successful,54.6,33.6,59.9,25.6
+253,73380,Chris Wood,1918,New Zealand,28,FirstHalf,Pass,Successful,59.9,25.6,53.2,22.8
+254,395377,Joe Bell,1918,New Zealand,28,FirstHalf,Pass,Successful,53.2,22.8,43.7,8.2
+255,114686,Tim Payne,1918,New Zealand,28,FirstHalf,Pass,Successful,43.7,8.2,26.9,28.2
+256,483919,Finn Surman,1918,New Zealand,28,FirstHalf,Pass,Successful,26.7,28.8,20.6,65.1
+257,42898,Michael Boxall,1918,New Zealand,28,FirstHalf,Pass,Successful,21.5,63.9,9.4,48.1
+258,134040,Max Crocombe,1918,New Zealand,28,FirstHalf,Pass,Unsuccessful,11.6,49.9,57.8,100
+261,450471,Mohamed Hany,944,Egypt,28,FirstHalf,Pass,Successful,36,0,47.4,5.8
+262,512753,Mostafa Zico,944,Egypt,28,FirstHalf,Pass,Successful,46.5,4.4,40,5.5
+263,450471,Mohamed Hany,944,Egypt,28,FirstHalf,Pass,Unsuccessful,40,5.5,64.6,27.1
+262,395377,Joe Bell,1918,New Zealand,28,FirstHalf,Interception,Successful,35.4,72.9,,
+263,395377,Joe Bell,1918,New Zealand,28,FirstHalf,BallRecovery,Successful,40.2,76.8,,
+264,395377,Joe Bell,1918,New Zealand,28,FirstHalf,Pass,Successful,40.4,76.5,43.2,98.1
+265,402095,Liberato Cacace,1918,New Zealand,28,FirstHalf,Pass,Successful,43.2,98.1,39.7,90.4
+266,443658,Marko Stamenic,1918,New Zealand,28,FirstHalf,Pass,Successful,39.7,90.4,41.9,97.8
+267,402095,Liberato Cacace,1918,New Zealand,28,FirstHalf,Pass,Successful,41.9,97.8,25,80.8
+268,42898,Michael Boxall,1918,New Zealand,28,FirstHalf,Pass,Successful,26.5,78.4,14.9,50.1
+269,134040,Max Crocombe,1918,New Zealand,28,FirstHalf,Pass,Successful,14.7,47.7,60.7,78.3
+846,73380,Chris Wood,1918,New Zealand,29,FirstHalf,Aerial,Successful,61.8,79.2,,
+994,450472,Yasser Ibrahim,944,Egypt,29,FirstHalf,Aerial,Unsuccessful,38.2,20.8,,
+270,73380,Chris Wood,1918,New Zealand,29,FirstHalf,Pass,Successful,60.7,78.4,72.9,74.4
+271,455331,Callum McCowatt,1918,New Zealand,29,FirstHalf,Pass,Unsuccessful,72.9,74.4,67.6,57.3
+264,476815,Marwan Attia,944,Egypt,29,FirstHalf,BallRecovery,Successful,31.4,46.9,,
+265,476815,Marwan Attia,944,Egypt,29,FirstHalf,Pass,Successful,32.4,46.7,49,46.7
+266,108226,Mohamed Salah,944,Egypt,29,FirstHalf,Foul,Successful,51.2,44.4,,
+272,42898,Michael Boxall,1918,New Zealand,29,FirstHalf,Foul,Unsuccessful,48.8,55.6,,
+267,431069,Mohanad Lasheen,944,Egypt,29,FirstHalf,Pass,Successful,47.2,37.7,46.2,60.9
+268,476815,Marwan Attia,944,Egypt,29,FirstHalf,Pass,Successful,54.7,72.4,60.4,93.2
+269,431065,Ahmed Fatouh,944,Egypt,29,FirstHalf,Pass,Successful,58,92,54.1,82.4
+270,476815,Marwan Attia,944,Egypt,29,FirstHalf,Pass,Successful,53.6,81.6,62.3,76.5
+271,431068,Emam Ashour,944,Egypt,29,FirstHalf,Pass,Successful,63.3,69.8,44.9,81.6
+272,476815,Marwan Attia,944,Egypt,29,FirstHalf,Pass,Successful,44.4,82.7,36.4,69.8
+273,431063,Hamdi Fathy,944,Egypt,29,FirstHalf,Pass,Successful,36.9,65.4,37.9,34.9
+274,450472,Yasser Ibrahim,944,Egypt,29,FirstHalf,Pass,Successful,43.3,28,58.6,11.8
+275,450471,Mohamed Hany,944,Egypt,29,FirstHalf,Pass,Unsuccessful,61,2.3,72.4,4.7
+273,443658,Marko Stamenic,1918,New Zealand,29,FirstHalf,Interception,Successful,31.6,92.4,,
+277,450471,Mohamed Hany,944,Egypt,29,FirstHalf,Pass,Successful,64.4,0,69.4,8.2
+278,108226,Mohamed Salah,944,Egypt,29,FirstHalf,Pass,Successful,69.9,8.6,65.6,5.5
+279,450471,Mohamed Hany,944,Egypt,29,FirstHalf,Pass,Successful,64.9,5,60,13
+280,431069,Mohanad Lasheen,944,Egypt,30,FirstHalf,Pass,Successful,55.3,27.2,51.3,59.1
+281,476815,Marwan Attia,944,Egypt,30,FirstHalf,Pass,Successful,58.7,64.4,69.9,89
+282,431065,Ahmed Fatouh,944,Egypt,30,FirstHalf,Pass,Successful,69.8,87,68.1,77.4
+283,431068,Emam Ashour,944,Egypt,30,FirstHalf,Pass,Successful,66.9,76.5,65.1,85.2
+284,476815,Marwan Attia,944,Egypt,30,FirstHalf,Pass,Successful,63.1,87.3,60.5,77.3
+285,431068,Emam Ashour,944,Egypt,30,FirstHalf,Pass,Successful,59,69.5,63.6,86.9
+286,476815,Marwan Attia,944,Egypt,30,FirstHalf,Pass,Successful,65.1,86.1,61.3,81.3
+287,431068,Emam Ashour,944,Egypt,30,FirstHalf,Pass,Successful,60.9,81.3,49,75.8
+288,431069,Mohanad Lasheen,944,Egypt,30,FirstHalf,Pass,Successful,47.1,73.5,47.2,33.7
+289,450472,Yasser Ibrahim,944,Egypt,30,FirstHalf,Pass,Successful,61,11.5,68.8,11.5
+290,108226,Mohamed Salah,944,Egypt,30,FirstHalf,Pass,Successful,66.2,6.8,68.9,4.9
+291,450471,Mohamed Hany,944,Egypt,30,FirstHalf,Pass,Successful,69,5.5,71.1,9.1
+292,512753,Mostafa Zico,944,Egypt,30,FirstHalf,Dispossessed,Successful,67.4,8.2,,
+275,402095,Liberato Cacace,1918,New Zealand,30,FirstHalf,Tackle,Unsuccessful,32.6,91.8,,
+293,512753,Mostafa Zico,944,Egypt,30,FirstHalf,BallTouch,Successful,68.1,9.5,,
+277,402095,Liberato Cacace,1918,New Zealand,30,FirstHalf,Pass,Successful,37,100,37.1,83.5
+278,395377,Joe Bell,1918,New Zealand,30,FirstHalf,Pass,Unsuccessful,32.5,82.5,39.5,92.7
+295,450471,Mohamed Hany,944,Egypt,30,FirstHalf,Pass,Unsuccessful,61.3,6.2,64.1,6.6
+279,402095,Liberato Cacace,1918,New Zealand,30,FirstHalf,BallTouch,Successful,35,94.2,,
+297,450471,Mohamed Hany,944,Egypt,30,FirstHalf,BallRecovery,Successful,59.9,15.4,,
+299,450471,Mohamed Hany,944,Egypt,30,FirstHalf,Pass,Successful,58.3,4.1,46,31.7
+300,431063,Hamdi Fathy,944,Egypt,30,FirstHalf,Pass,Successful,53.2,43.1,59.4,65.1
+301,431065,Ahmed Fatouh,944,Egypt,30,FirstHalf,Pass,Successful,64.4,68.6,71.9,90.8
+302,431068,Emam Ashour,944,Egypt,31,FirstHalf,Pass,Successful,76.2,92,70.7,84
+303,476815,Marwan Attia,944,Egypt,31,FirstHalf,Pass,Successful,70.3,83.9,69.4,79.7
+304,431068,Emam Ashour,944,Egypt,31,FirstHalf,Pass,Successful,69.4,78.8,62.7,67.7
+305,431069,Mohanad Lasheen,944,Egypt,31,FirstHalf,Pass,Successful,62.4,62.4,80.1,9.4
+306,450471,Mohamed Hany,944,Egypt,31,FirstHalf,Pass,Successful,79.3,8.6,70.2,17
+307,512753,Mostafa Zico,944,Egypt,31,FirstHalf,Pass,Successful,71.3,17.6,75,32.9
+308,431068,Emam Ashour,944,Egypt,31,FirstHalf,Pass,Successful,75,32.9,77.9,26
+309,108226,Mohamed Salah,944,Egypt,31,FirstHalf,Dispossessed,Successful,90.8,23.1,,
+280,42898,Michael Boxall,1918,New Zealand,31,FirstHalf,Tackle,Successful,9.2,77,,
+281,402095,Liberato Cacace,1918,New Zealand,31,FirstHalf,BallRecovery,Successful,11.7,83.1,,
+282,402095,Liberato Cacace,1918,New Zealand,31,FirstHalf,Pass,Unsuccessful,11.7,89.8,50.8,87.4
+310,450472,Yasser Ibrahim,944,Egypt,31,FirstHalf,Pass,Successful,48.6,19.7,61,16.8
+311,431069,Mohanad Lasheen,944,Egypt,31,FirstHalf,Pass,Unsuccessful,61,19.5,62.1,19.5
+283,455336,Elijah Just,1918,New Zealand,31,FirstHalf,BlockedPass,Successful,37.9,81,,
+284,455331,Callum McCowatt,1918,New Zealand,31,FirstHalf,Aerial,Successful,36.8,67.8,,
+312,431068,Emam Ashour,944,Egypt,31,FirstHalf,Aerial,Unsuccessful,63.2,32.2,,
+285,455331,Callum McCowatt,1918,New Zealand,31,FirstHalf,Pass,Unsuccessful,39.4,71.7,43.6,59.7
+313,476815,Marwan Attia,944,Egypt,31,FirstHalf,BallRecovery,Successful,64.8,51,,
+315,476815,Marwan Attia,944,Egypt,31,FirstHalf,Pass,Successful,64.8,51.2,69.3,75.9
+316,431065,Ahmed Fatouh,944,Egypt,31,FirstHalf,Pass,Successful,69.3,75.9,74.5,67.8
+287,443658,Marko Stamenic,1918,New Zealand,31,FirstHalf,Challenge,Unsuccessful,19,43.6,,
+317,394749,Omar Marmoush,944,Egypt,31,FirstHalf,TakeOn,Successful,81,56.4,,
+346,394749,Omar Marmoush,944,Egypt,31,FirstHalf,TakeOn,Unsuccessful,84.6,55.8,,
+288,483919,Finn Surman,1918,New Zealand,31,FirstHalf,Tackle,Successful,15.4,44.2,,
+289,42898,Michael Boxall,1918,New Zealand,31,FirstHalf,Clearance,Successful,13.7,56.1,67.2,32.4
+318,431063,Hamdi Fathy,944,Egypt,31,FirstHalf,Pass,Successful,28.4,79.2,14.3,61.2
+319,519797,Mostafa Shobeir,944,Egypt,31,FirstHalf,Pass,Successful,13.7,60.3,26.4,35.3
+320,450472,Yasser Ibrahim,944,Egypt,31,FirstHalf,Pass,Successful,27.4,34.6,37.6,40.3
+321,431069,Mohanad Lasheen,944,Egypt,31,FirstHalf,Pass,Successful,39,42.4,44.2,65.1
+322,476815,Marwan Attia,944,Egypt,31,FirstHalf,Pass,Successful,45,70.7,59.5,88.5
+323,431065,Ahmed Fatouh,944,Egypt,31,FirstHalf,Pass,Successful,59.6,88.7,65.9,91.8
+324,431068,Emam Ashour,944,Egypt,32,FirstHalf,Pass,Successful,68.7,90,62.7,81
+325,476815,Marwan Attia,944,Egypt,32,FirstHalf,Pass,Successful,60.1,79.5,48.6,67.5
+326,431063,Hamdi Fathy,944,Egypt,32,FirstHalf,Pass,Successful,51,64.7,59.5,85.2
+327,476815,Marwan Attia,944,Egypt,32,FirstHalf,Pass,Successful,63,83.7,75.3,92.1
+328,431065,Ahmed Fatouh,944,Egypt,32,FirstHalf,Pass,Unsuccessful,75.3,92.1,82.9,70.8
+290,483919,Finn Surman,1918,New Zealand,32,FirstHalf,BallRecovery,Successful,17.2,36.7,,
+291,483919,Finn Surman,1918,New Zealand,32,FirstHalf,Pass,Successful,17,36,10.7,27.6
+292,114686,Tim Payne,1918,New Zealand,32,FirstHalf,Pass,Successful,9,27.6,15.1,8.1
+293,455331,Callum McCowatt,1918,New Zealand,32,FirstHalf,Pass,Successful,15.1,8.1,22.6,23.7
+294,395377,Joe Bell,1918,New Zealand,32,FirstHalf,Pass,Successful,22.6,23.7,34.3,22.3
+295,114686,Tim Payne,1918,New Zealand,32,FirstHalf,Pass,Successful,33.6,22.5,37.7,31.5
+296,73380,Chris Wood,1918,New Zealand,32,FirstHalf,Pass,Successful,37.7,31.5,47.5,9
+297,379696,Sarpreet Singh,1918,New Zealand,32,FirstHalf,BallTouch,Unsuccessful,43.1,4.5,,
+330,431065,Ahmed Fatouh,944,Egypt,32,FirstHalf,Pass,Successful,58.8,100,56.2,66.5
+331,431069,Mohanad Lasheen,944,Egypt,32,FirstHalf,Pass,Successful,58.1,66,65.6,8.5
+332,450471,Mohamed Hany,944,Egypt,32,FirstHalf,Pass,Successful,67.5,9.5,74.9,11.8
+333,512753,Mostafa Zico,944,Egypt,32,FirstHalf,Pass,Successful,77.2,12.1,73,7.7
+334,450471,Mohamed Hany,944,Egypt,32,FirstHalf,Pass,Successful,75.1,8.9,80.3,7.3
+335,512753,Mostafa Zico,944,Egypt,32,FirstHalf,Pass,Successful,79.6,7.4,76.3,13.4
+336,450471,Mohamed Hany,944,Egypt,32,FirstHalf,Pass,Successful,76.3,13.4,73.6,7.6
+337,512753,Mostafa Zico,944,Egypt,32,FirstHalf,Pass,Successful,73.3,7.4,64.3,14.2
+338,431069,Mohanad Lasheen,944,Egypt,32,FirstHalf,Pass,Successful,64.3,14.2,53.2,31.7
+339,450472,Yasser Ibrahim,944,Egypt,33,FirstHalf,Pass,Successful,57,34.6,65.7,63
+340,476815,Marwan Attia,944,Egypt,33,FirstHalf,Pass,Successful,64.1,60.5,62.9,32.2
+341,431069,Mohanad Lasheen,944,Egypt,33,FirstHalf,Pass,Unsuccessful,70.1,36.7,75,33.4
+299,443658,Marko Stamenic,1918,New Zealand,33,FirstHalf,Interception,Successful,25,66.6,,
+342,450472,Yasser Ibrahim,944,Egypt,33,FirstHalf,Pass,Successful,60.7,27.8,73.6,7.7
+343,450471,Mohamed Hany,944,Egypt,33,FirstHalf,Pass,Unsuccessful,73.8,7.6,87.6,39.8
+300,483919,Finn Surman,1918,New Zealand,33,FirstHalf,Clearance,Successful,14.3,59.5,19.7,41.2
+344,431068,Emam Ashour,944,Egypt,33,FirstHalf,Foul,Successful,78.4,56,,
+301,455331,Callum McCowatt,1918,New Zealand,33,FirstHalf,Foul,Unsuccessful,21.6,44,,
+302,455331,Callum McCowatt,1918,New Zealand,33,FirstHalf,Card,Successful,0,0,,
+347,394749,Omar Marmoush,944,Egypt,34,FirstHalf,Pass,Successful,78.6,59.6,78.8,63.5
+348,108226,Mohamed Salah,944,Egypt,34,FirstHalf,MissedShots,Successful,80.5,63.4,,
+306,42898,Michael Boxall,1918,New Zealand,35,FirstHalf,Pass,Successful,4.3,60.6,3.6,42.1
+307,134040,Max Crocombe,1918,New Zealand,35,FirstHalf,Pass,Successful,8.5,45,62.3,82
+308,73380,Chris Wood,1918,New Zealand,35,FirstHalf,Aerial,Successful,62.3,82,,
+350,450472,Yasser Ibrahim,944,Egypt,35,FirstHalf,Aerial,Unsuccessful,37.7,18,,
+309,73380,Chris Wood,1918,New Zealand,35,FirstHalf,Pass,Unsuccessful,64.4,82.6,65.7,83.6
+384,450472,Yasser Ibrahim,944,Egypt,35,FirstHalf,BallTouch,Successful,37.7,18,,
+310,455331,Callum McCowatt,1918,New Zealand,35,FirstHalf,Pass,Unsuccessful,98.1,88.9,86.4,58.6
+351,476815,Marwan Attia,944,Egypt,35,FirstHalf,Clearance,Successful,15.9,43.3,35.4,29.5
+311,443658,Marko Stamenic,1918,New Zealand,35,FirstHalf,Pass,Successful,62.8,86.1,55.3,67.9
+312,42898,Michael Boxall,1918,New Zealand,35,FirstHalf,Pass,Successful,52.7,57.3,24.7,54.4
+313,134040,Max Crocombe,1918,New Zealand,35,FirstHalf,Pass,Unsuccessful,25.9,62.7,71.7,81.6
+352,450472,Yasser Ibrahim,944,Egypt,35,FirstHalf,Clearance,Successful,27.9,23.2,35,22.7
+314,455331,Callum McCowatt,1918,New Zealand,35,FirstHalf,Pass,Successful,63,75.7,56.9,91.9
+315,402095,Liberato Cacace,1918,New Zealand,35,FirstHalf,Pass,Successful,56.8,91.9,67.6,99
+316,455336,Elijah Just,1918,New Zealand,35,FirstHalf,Pass,Successful,63.8,77.7,71.4,61.6
+317,73380,Chris Wood,1918,New Zealand,36,FirstHalf,Pass,Unsuccessful,71.4,61.6,94.2,60.1
+353,519797,Mostafa Shobeir,944,Egypt,36,FirstHalf,KeeperPickup,Successful,8.7,42.7,,
+354,519797,Mostafa Shobeir,944,Egypt,36,FirstHalf,Pass,Successful,8.7,42.7,21.3,69.9
+355,431065,Ahmed Fatouh,944,Egypt,36,FirstHalf,Pass,Successful,27.2,77.6,36,87.2
+356,476815,Marwan Attia,944,Egypt,36,FirstHalf,Pass,Successful,45.6,89.3,40.7,87.9
+357,431065,Ahmed Fatouh,944,Egypt,36,FirstHalf,Pass,Successful,46.3,87.6,40.2,81.8
+358,476815,Marwan Attia,944,Egypt,36,FirstHalf,Pass,Successful,41.7,80.7,39.4,59.6
+359,431069,Mohanad Lasheen,944,Egypt,36,FirstHalf,Pass,Successful,39.6,58.2,43.5,29.9
+360,450472,Yasser Ibrahim,944,Egypt,36,FirstHalf,Pass,Successful,44.4,29,48.6,8.9
+361,450471,Mohamed Hany,944,Egypt,36,FirstHalf,Pass,Successful,49,8.9,41.8,26
+362,450472,Yasser Ibrahim,944,Egypt,36,FirstHalf,Pass,Successful,41.8,28.7,34.1,58.4
+363,431063,Hamdi Fathy,944,Egypt,36,FirstHalf,Pass,Successful,36.3,63.3,39.6,36.7
+364,450472,Yasser Ibrahim,944,Egypt,36,FirstHalf,Pass,Successful,41.9,32.6,47.5,7.1
+365,450471,Mohamed Hany,944,Egypt,36,FirstHalf,Pass,Successful,45.5,8.5,53.9,20.6
+366,431069,Mohanad Lasheen,944,Egypt,36,FirstHalf,Pass,Successful,56.3,20.6,61.1,6.8
+367,512753,Mostafa Zico,944,Egypt,36,FirstHalf,Pass,Unsuccessful,61.7,7.1,68,23.2
+318,395377,Joe Bell,1918,New Zealand,36,FirstHalf,BallRecovery,Successful,33.6,69,,
+319,395377,Joe Bell,1918,New Zealand,36,FirstHalf,Pass,Successful,33.6,68.8,53.2,67.2
+320,379696,Sarpreet Singh,1918,New Zealand,36,FirstHalf,Pass,Successful,53.2,66.1,65.7,73.9
+321,73380,Chris Wood,1918,New Zealand,36,FirstHalf,Pass,Successful,65.7,73.9,58.5,93
+322,455331,Callum McCowatt,1918,New Zealand,36,FirstHalf,Pass,Successful,58.5,93.3,43.6,97.2
+323,42898,Michael Boxall,1918,New Zealand,36,FirstHalf,Pass,Successful,43.6,97.2,38.1,81.9
+324,443658,Marko Stamenic,1918,New Zealand,36,FirstHalf,Pass,Successful,36.5,83.6,28.3,72.2
+325,42898,Michael Boxall,1918,New Zealand,36,FirstHalf,Pass,Successful,25.4,68.1,24.4,29.7
+11330,73380,Chris Wood,1918,New Zealand,37,FirstHalf,OffsideGiven,Unsuccessful,82.2,50.9,,
+326,483919,Finn Surman,1918,New Zealand,37,FirstHalf,Pass,Successful,22.8,27.6,32.4,5.4
+327,114686,Tim Payne,1918,New Zealand,37,FirstHalf,Pass,Successful,32.4,5.1,30.7,19.9
+328,395377,Joe Bell,1918,New Zealand,37,FirstHalf,Pass,Unsuccessful,30.7,19.3,72.9,22.5
+368,431063,Hamdi Fathy,944,Egypt,37,FirstHalf,Aerial,Successful,27.1,77.5,,
+329,455336,Elijah Just,1918,New Zealand,37,FirstHalf,Aerial,Unsuccessful,72.9,22.5,,
+369,431063,Hamdi Fathy,944,Egypt,37,FirstHalf,Clearance,Successful,26.8,76.1,28.2,82.6
+370,431065,Ahmed Fatouh,944,Egypt,37,FirstHalf,BallTouch,Unsuccessful,26.1,81.6,,
+330,114686,Tim Payne,1918,New Zealand,37,FirstHalf,OffsidePass,Successful,75.4,40.5,82.2,50.9
+371,450471,Mohamed Hany,944,Egypt,37,FirstHalf,OffsideProvoked,Successful,19.5,44,,
+372,476815,Marwan Attia,944,Egypt,37,FirstHalf,Pass,Successful,19.1,52.8,32.8,91.4
+373,431068,Emam Ashour,944,Egypt,37,FirstHalf,Pass,Successful,32.8,88.9,44.2,94.6
+374,394749,Omar Marmoush,944,Egypt,37,FirstHalf,Pass,Successful,37.9,89,30.2,84
+375,431065,Ahmed Fatouh,944,Egypt,37,FirstHalf,Pass,Successful,40,81.8,39,68.7
+376,476815,Marwan Attia,944,Egypt,37,FirstHalf,Pass,Successful,43,78.1,56,95.5
+377,394749,Omar Marmoush,944,Egypt,37,FirstHalf,Pass,Successful,59.4,87.2,61.3,81.9
+378,431068,Emam Ashour,944,Egypt,37,FirstHalf,Pass,Successful,61.3,81.9,58.4,87.8
+379,431065,Ahmed Fatouh,944,Egypt,37,FirstHalf,Pass,Successful,56.8,92.6,54.3,89.9
+380,431068,Emam Ashour,944,Egypt,37,FirstHalf,Pass,Successful,49,72,46,41.9
+381,450472,Yasser Ibrahim,944,Egypt,37,FirstHalf,Pass,Successful,46.4,35.3,57.9,8
+382,450471,Mohamed Hany,944,Egypt,37,FirstHalf,Pass,Successful,61.5,3.1,67.4,3.1
+383,512753,Mostafa Zico,944,Egypt,37,FirstHalf,Pass,Successful,67.1,3.9,61.8,8
+385,450471,Mohamed Hany,944,Egypt,38,FirstHalf,BallTouch,Unsuccessful,62.8,13,,
+331,395377,Joe Bell,1918,New Zealand,38,FirstHalf,BallRecovery,Successful,31.3,67.6,,
+332,395377,Joe Bell,1918,New Zealand,38,FirstHalf,Pass,Successful,33.6,65.1,48.6,97.8
+386,431069,Mohanad Lasheen,944,Egypt,38,FirstHalf,Challenge,Unsuccessful,39.3,10.2,,
+333,402095,Liberato Cacace,1918,New Zealand,38,FirstHalf,TakeOn,Successful,60.7,89.8,,
+334,402095,Liberato Cacace,1918,New Zealand,38,FirstHalf,Pass,Successful,68.6,79.9,79.7,78.7
+335,379696,Sarpreet Singh,1918,New Zealand,38,FirstHalf,Pass,Successful,83.9,91.8,69.5,95.9
+336,455336,Elijah Just,1918,New Zealand,38,FirstHalf,Pass,Successful,71.2,79.5,80,89.4
+337,402095,Liberato Cacace,1918,New Zealand,38,FirstHalf,Pass,Successful,80.1,88.9,85.5,94.2
+338,379696,Sarpreet Singh,1918,New Zealand,38,FirstHalf,Pass,Unsuccessful,86.2,94.3,95.9,47.2
+388,519797,Mostafa Shobeir,944,Egypt,38,FirstHalf,Aerial,Successful,4.1,52.8,,
+339,73380,Chris Wood,1918,New Zealand,38,FirstHalf,Aerial,Unsuccessful,95.9,47.2,,
+389,519797,Mostafa Shobeir,944,Egypt,38,FirstHalf,Punch,Successful,4.1,52.8,10.5,57.8
+390,519797,Mostafa Shobeir,944,Egypt,38,FirstHalf,KeeperPickup,Successful,10.5,57.8,,
+391,519797,Mostafa Shobeir,944,Egypt,38,FirstHalf,Pass,Successful,13.3,58.8,85.7,70.8
+392,394749,Omar Marmoush,944,Egypt,38,FirstHalf,BallTouch,Unsuccessful,85.7,70.8,,
+340,483919,Finn Surman,1918,New Zealand,38,FirstHalf,BallRecovery,Successful,15,8.5,,
+341,483919,Finn Surman,1918,New Zealand,38,FirstHalf,Pass,Successful,14.7,16.4,28.1,13.3
+342,114686,Tim Payne,1918,New Zealand,38,FirstHalf,Pass,Successful,31.1,16,48.4,24.1
+343,395377,Joe Bell,1918,New Zealand,38,FirstHalf,Pass,Successful,48.4,24.1,36.6,31.2
+344,455331,Callum McCowatt,1918,New Zealand,38,FirstHalf,Pass,Successful,39,35.4,31.1,46
+345,443658,Marko Stamenic,1918,New Zealand,38,FirstHalf,Pass,Successful,31.9,45.3,33.6,79.3
+346,402095,Liberato Cacace,1918,New Zealand,38,FirstHalf,Pass,Successful,33.6,78,35.8,66.6
+347,443658,Marko Stamenic,1918,New Zealand,38,FirstHalf,Pass,Successful,32.7,64.3,37.7,50.4
+348,455331,Callum McCowatt,1918,New Zealand,38,FirstHalf,Pass,Successful,37,46.6,44.8,31.6
+349,395377,Joe Bell,1918,New Zealand,38,FirstHalf,Pass,Successful,51.1,25.5,43.1,14.1
+350,114686,Tim Payne,1918,New Zealand,39,FirstHalf,Pass,Successful,42.8,15,46.4,24.7
+351,395377,Joe Bell,1918,New Zealand,39,FirstHalf,Pass,Successful,43.1,23.4,38.7,47.4
+352,443658,Marko Stamenic,1918,New Zealand,39,FirstHalf,Pass,Successful,38.7,47.1,49,69.6
+353,379696,Sarpreet Singh,1918,New Zealand,39,FirstHalf,Pass,Successful,48.3,70.5,40.9,78.9
+354,42898,Michael Boxall,1918,New Zealand,39,FirstHalf,Pass,Successful,38.5,79.2,33.6,49.3
+355,443658,Marko Stamenic,1918,New Zealand,39,FirstHalf,Pass,Unsuccessful,33.4,49,84.9,31
+393,519797,Mostafa Shobeir,944,Egypt,39,FirstHalf,KeeperPickup,Successful,13.8,62.4,,
+395,519797,Mostafa Shobeir,944,Egypt,39,FirstHalf,Pass,Unsuccessful,21.2,61.2,59.9,100
+399,431063,Hamdi Fathy,944,Egypt,40,FirstHalf,SubstitutionOff,Successful,0,0,,
+400,139468,Ramy Rabia,944,Egypt,40,FirstHalf,SubstitutionOn,Successful,0,0,,
+11362,73380,Chris Wood,1918,New Zealand,41,FirstHalf,OffsideGiven,Unsuccessful,59.8,34.2,,
+359,114686,Tim Payne,1918,New Zealand,41,FirstHalf,Pass,Successful,46.6,0,65.1,25.5
+360,73380,Chris Wood,1918,New Zealand,41,FirstHalf,BallTouch,Successful,62.3,27.8,,
+401,519797,Mostafa Shobeir,944,Egypt,41,FirstHalf,BallRecovery,Successful,10.2,52.2,,
+402,519797,Mostafa Shobeir,944,Egypt,41,FirstHalf,Pass,Successful,11,52.7,19.4,73.1
+403,139468,Ramy Rabia,944,Egypt,41,FirstHalf,Pass,Successful,21.2,68.6,25,30.8
+404,450472,Yasser Ibrahim,944,Egypt,41,FirstHalf,Pass,Successful,25.5,28.7,25.2,49.4
+405,139468,Ramy Rabia,944,Egypt,41,FirstHalf,Pass,Successful,32.4,55.8,32.4,83.3
+406,431065,Ahmed Fatouh,944,Egypt,41,FirstHalf,Pass,Successful,31.2,87.5,55.8,88.5
+407,431068,Emam Ashour,944,Egypt,41,FirstHalf,Pass,Successful,52.8,92,47.9,86.7
+408,476815,Marwan Attia,944,Egypt,41,FirstHalf,Pass,Unsuccessful,47.4,89.1,72.9,84
+361,483919,Finn Surman,1918,New Zealand,41,FirstHalf,BallRecovery,Successful,29.2,11.1,,
+362,483919,Finn Surman,1918,New Zealand,41,FirstHalf,OffsidePass,Successful,32.5,15.8,59.8,34.2
+409,139468,Ramy Rabia,944,Egypt,41,FirstHalf,OffsideProvoked,Successful,42.7,69.3,,
+410,431069,Mohanad Lasheen,944,Egypt,41,FirstHalf,Pass,Successful,49.5,59.3,57.8,16.9
+411,450471,Mohamed Hany,944,Egypt,41,FirstHalf,Pass,Successful,62.5,11.3,46.5,27.2
+412,450472,Yasser Ibrahim,944,Egypt,41,FirstHalf,Pass,Successful,54.2,31.3,44,64.5
+413,139468,Ramy Rabia,944,Egypt,41,FirstHalf,Pass,Successful,44.5,65,60,84.3
+414,476815,Marwan Attia,944,Egypt,42,FirstHalf,Pass,Successful,60.5,86.3,67.5,91.7
+417,431065,Ahmed Fatouh,944,Egypt,42,FirstHalf,Foul,Successful,75.2,85.4,,
+364,114686,Tim Payne,1918,New Zealand,42,FirstHalf,Foul,Unsuccessful,24.8,14.6,,
+418,394749,Omar Marmoush,944,Egypt,42,FirstHalf,Pass,Unsuccessful,78.4,87.7,92.2,52.2
+365,73380,Chris Wood,1918,New Zealand,42,FirstHalf,Aerial,Successful,7.8,47.8,,
+419,139468,Ramy Rabia,944,Egypt,42,FirstHalf,Aerial,Unsuccessful,92.2,52.2,,
+366,73380,Chris Wood,1918,New Zealand,42,FirstHalf,Clearance,Successful,7.8,47.8,25.9,52.5
+367,455336,Elijah Just,1918,New Zealand,42,FirstHalf,Pass,Unsuccessful,28.5,51,65.9,60.7
+420,519797,Mostafa Shobeir,944,Egypt,42,FirstHalf,Pass,Successful,34.8,41.9,37.3,51.8
+421,431065,Ahmed Fatouh,944,Egypt,42,FirstHalf,Pass,Successful,38.7,57.2,47.9,82.7
+422,476815,Marwan Attia,944,Egypt,42,FirstHalf,Pass,Successful,51,83.9,67.8,92.7
+423,431068,Emam Ashour,944,Egypt,42,FirstHalf,Pass,Successful,69.4,90.5,65.1,87.3
+424,431065,Ahmed Fatouh,944,Egypt,43,FirstHalf,Pass,Successful,62.9,90.2,46.1,76.7
+425,139468,Ramy Rabia,944,Egypt,43,FirstHalf,Pass,Successful,45,72,43.7,47.6
+426,450472,Yasser Ibrahim,944,Egypt,43,FirstHalf,Pass,Successful,44.6,41.9,48.4,25.8
+427,431069,Mohanad Lasheen,944,Egypt,43,FirstHalf,Pass,Successful,55,28.2,51.6,57.3
+428,139468,Ramy Rabia,944,Egypt,43,FirstHalf,Pass,Successful,53.7,57.9,62.6,86.1
+429,431065,Ahmed Fatouh,944,Egypt,43,FirstHalf,Pass,Successful,62.8,87.9,78.6,82.2
+430,394749,Omar Marmoush,944,Egypt,43,FirstHalf,Foul,Successful,78.3,82.6,,
+368,395377,Joe Bell,1918,New Zealand,43,FirstHalf,Foul,Unsuccessful,21.6,17.4,,
+431,108226,Mohamed Salah,944,Egypt,43,FirstHalf,Pass,Successful,80.6,84.6,84.5,68.9
+432,512753,Mostafa Zico,944,Egypt,44,FirstHalf,Pass,Unsuccessful,79.4,69.9,86,74.1
+369,379696,Sarpreet Singh,1918,New Zealand,44,FirstHalf,Clearance,Successful,13.4,36.7,64.5,63.6
+433,519797,Mostafa Shobeir,944,Egypt,44,FirstHalf,Pass,Successful,34.3,49.7,44.1,35.2
+434,450471,Mohamed Hany,944,Egypt,44,FirstHalf,Pass,Successful,44.7,34.4,43.5,59
+435,139468,Ramy Rabia,944,Egypt,44,FirstHalf,Pass,Successful,46.3,56.7,61,87.9
+436,476815,Marwan Attia,944,Egypt,44,FirstHalf,Pass,Successful,61.3,88.4,71.7,91.4
+437,431068,Emam Ashour,944,Egypt,44,FirstHalf,Pass,Unsuccessful,91.3,87.8,100,25.9
+371,134040,Max Crocombe,1918,New Zealand,44,FirstHalf,Pass,Unsuccessful,4.9,60.4,62.9,83.7
+439,450472,Yasser Ibrahim,944,Egypt,44,FirstHalf,Clearance,Successful,38,16.2,42.4,9
+440,512753,Mostafa Zico,944,Egypt,44,FirstHalf,Pass,Unsuccessful,40.2,15.5,39.9,30.4
+372,379696,Sarpreet Singh,1918,New Zealand,44,FirstHalf,Pass,Successful,64.4,74.5,56.7,87.3
+373,402095,Liberato Cacace,1918,New Zealand,44,FirstHalf,Pass,Successful,55.8,89.5,60.9,81
+374,443658,Marko Stamenic,1918,New Zealand,44,FirstHalf,Pass,Unsuccessful,60.6,80.8,72,79.3
+995,450472,Yasser Ibrahim,944,Egypt,44,FirstHalf,BallRecovery,Successful,28.5,19.9,,
+441,450472,Yasser Ibrahim,944,Egypt,44,FirstHalf,Pass,Successful,35.9,22.3,14.7,36.8
+443,519797,Mostafa Shobeir,944,Egypt,45,FirstHalf,Pass,Successful,10.4,39.1,21.2,86.6
+444,431065,Ahmed Fatouh,944,Egypt,45,FirstHalf,Pass,Successful,21.5,88.8,43.5,69.5
+445,394749,Omar Marmoush,944,Egypt,45,FirstHalf,Pass,Successful,40.2,63.9,53.5,16.4
+446,450471,Mohamed Hany,944,Egypt,45,FirstHalf,Pass,Successful,69.1,28.4,83.8,17.5
+447,512753,Mostafa Zico,944,Egypt,45,FirstHalf,Pass,Unsuccessful,89.4,11.5,91.5,39.7
+376,443658,Marko Stamenic,1918,New Zealand,45,FirstHalf,Clearance,Successful,9.6,65.2,29.2,100
+449,512753,Mostafa Zico,944,Egypt,45,FirstHalf,Pass,Successful,67.9,0,60.9,13.3
+450,431069,Mohanad Lasheen,944,Egypt,45,FirstHalf,Pass,Successful,64.5,6.6,63.1,20.9
+451,476815,Marwan Attia,944,Egypt,45,FirstHalf,Pass,Successful,63.4,16.6,64.1,7.6
+452,431069,Mohanad Lasheen,944,Egypt,45,FirstHalf,Pass,Successful,67.2,6.2,84.9,14.6
+453,108226,Mohamed Salah,944,Egypt,45,FirstHalf,Pass,Successful,87,3.7,84.6,4.3
+454,512753,Mostafa Zico,944,Egypt,45,FirstHalf,Pass,Successful,88.3,16.3,93.9,50.5
+455,431068,Emam Ashour,944,Egypt,45,FirstHalf,MissedShots,Successful,93.3,52.1,,
+379,134040,Max Crocombe,1918,New Zealand,46,FirstHalf,Pass,Unsuccessful,4.2,40.5,65.4,44.4
+457,139468,Ramy Rabia,944,Egypt,46,FirstHalf,Aerial,Successful,34.6,55.6,,
+380,379696,Sarpreet Singh,1918,New Zealand,46,FirstHalf,Aerial,Unsuccessful,65.4,44.4,,
+458,139468,Ramy Rabia,944,Egypt,46,FirstHalf,Clearance,Successful,34.6,55.6,45.5,49.4
+381,395377,Joe Bell,1918,New Zealand,46,FirstHalf,Pass,Successful,54.9,43.6,55.6,61.2
+382,443658,Marko Stamenic,1918,New Zealand,46,FirstHalf,Pass,Successful,54.8,58.2,67.2,62.4
+383,73380,Chris Wood,1918,New Zealand,46,FirstHalf,Pass,Successful,67.2,62.4,60.6,82
+384,455336,Elijah Just,1918,New Zealand,46,FirstHalf,TakeOn,Unsuccessful,61.3,84,,
+459,450471,Mohamed Hany,944,Egypt,46,FirstHalf,Tackle,Successful,38.7,16,,
+386,455336,Elijah Just,1918,New Zealand,46,FirstHalf,Pass,Unsuccessful,71.6,100,93.7,96.7
+462,450472,Yasser Ibrahim,944,Egypt,46,FirstHalf,Interception,Successful,6.3,3.3,,
+463,450471,Mohamed Hany,944,Egypt,46,FirstHalf,Pass,Unsuccessful,14.4,4.7,42.9,31
+387,42898,Michael Boxall,1918,New Zealand,46,FirstHalf,Pass,Successful,56.1,67.9,60.4,70.3
+388,395377,Joe Bell,1918,New Zealand,46,FirstHalf,Pass,Unsuccessful,60.8,67.1,63.2,67.3
+464,108226,Mohamed Salah,944,Egypt,46,FirstHalf,BlockedPass,Successful,36.8,32.7,,
+465,476815,Marwan Attia,944,Egypt,46,FirstHalf,BallRecovery,Successful,39.6,58.7,,
+466,476815,Marwan Attia,944,Egypt,46,FirstHalf,Pass,Successful,75.7,88.7,69.8,80
+467,431065,Ahmed Fatouh,944,Egypt,46,FirstHalf,Pass,Successful,69.7,83,88.2,89.1
+468,476815,Marwan Attia,944,Egypt,46,FirstHalf,Pass,Successful,89.6,87,77.1,74.7
+469,394749,Omar Marmoush,944,Egypt,46,FirstHalf,Pass,Unsuccessful,76.6,73.2,94.5,61.1
+389,134040,Max Crocombe,1918,New Zealand,47,FirstHalf,KeeperPickup,Successful,3.9,41.1,,
+390,134040,Max Crocombe,1918,New Zealand,47,FirstHalf,Pass,Unsuccessful,13,30.3,72.9,26.4
+470,431065,Ahmed Fatouh,944,Egypt,47,FirstHalf,Clearance,Successful,28.6,73.4,37.1,100
+392,114686,Tim Payne,1918,New Zealand,47,FirstHalf,Pass,Successful,68.8,0,79.3,4
+405,379696,Sarpreet Singh,1918,New Zealand,47,FirstHalf,BallTouch,Unsuccessful,73.8,4.3,,
+473,431068,Emam Ashour,944,Egypt,47,FirstHalf,BallRecovery,Successful,27.7,83,,
+474,431068,Emam Ashour,944,Egypt,47,FirstHalf,Pass,Successful,27.8,92,41,87.1
+475,394749,Omar Marmoush,944,Egypt,47,FirstHalf,Foul,Successful,42.2,83.9,,
+393,483919,Finn Surman,1918,New Zealand,47,FirstHalf,Foul,Unsuccessful,57.8,16.2,,
+476,476815,Marwan Attia,944,Egypt,47,FirstHalf,Pass,Successful,39.2,73.4,28.9,61.3
+477,450472,Yasser Ibrahim,944,Egypt,47,FirstHalf,Pass,Successful,32.6,45.1,37.3,29
+478,431069,Mohanad Lasheen,944,Egypt,47,FirstHalf,Pass,Successful,38.7,27.1,35.3,57.8
+479,139468,Ramy Rabia,944,Egypt,48,FirstHalf,Pass,Successful,35.4,59.9,48.4,77.3
+480,476815,Marwan Attia,944,Egypt,48,FirstHalf,Pass,Successful,57.2,80,68,89
+481,431065,Ahmed Fatouh,944,Egypt,48,FirstHalf,Pass,Successful,70.5,88.2,64.7,64.5
+482,431069,Mohanad Lasheen,944,Egypt,48,FirstHalf,Pass,Successful,57.8,66.4,68.7,7.2
+483,450471,Mohamed Hany,944,Egypt,48,FirstHalf,TakeOn,Unsuccessful,70.9,3.6,,
+395,455336,Elijah Just,1918,New Zealand,48,FirstHalf,Tackle,Unsuccessful,29.1,96.4,,
+484,450471,Mohamed Hany,944,Egypt,48,FirstHalf,BallTouch,Successful,71.1,5.8,,
+397,402095,Liberato Cacace,1918,New Zealand,48,FirstHalf,Pass,Successful,29.2,100,46.8,96
+398,73380,Chris Wood,1918,New Zealand,48,FirstHalf,Aerial,Successful,46.8,96,,
+486,450472,Yasser Ibrahim,944,Egypt,48,FirstHalf,Aerial,Unsuccessful,53.2,4,,
+399,73380,Chris Wood,1918,New Zealand,48,FirstHalf,Pass,Successful,46.8,96,56.7,91.8
+400,379696,Sarpreet Singh,1918,New Zealand,48,FirstHalf,Pass,Unsuccessful,56.1,89.8,57.8,91
+487,450471,Mohamed Hany,944,Egypt,48,FirstHalf,BlockedPass,Successful,42.2,9,,
+401,455331,Callum McCowatt,1918,New Zealand,48,FirstHalf,Pass,Successful,61.4,75.6,56.6,90.4
+407,73380,Chris Wood,1918,New Zealand,48,FirstHalf,Pass,Unsuccessful,55,88.8,55.9,85.9
+497,512753,Mostafa Zico,944,Egypt,48,FirstHalf,BlockedPass,Successful,45.9,6.9,,
+402,73380,Chris Wood,1918,New Zealand,48,FirstHalf,BallTouch,Successful,55.5,92.2,,
+489,512753,Mostafa Zico,944,Egypt,48,FirstHalf,Pass,Successful,53.1,0,46.3,8.3
+490,450471,Mohamed Hany,944,Egypt,48,FirstHalf,Pass,Successful,45.3,6.8,43,10.3
+491,431069,Mohanad Lasheen,944,Egypt,48,FirstHalf,Pass,Successful,40.3,18.2,44.6,63
+492,476815,Marwan Attia,944,Egypt,48,FirstHalf,Pass,Successful,44.2,70.2,64.5,80.7
+493,431068,Emam Ashour,944,Egypt,48,FirstHalf,Pass,Successful,66.8,83.6,72.2,90.6
+494,431065,Ahmed Fatouh,944,Egypt,48,FirstHalf,Pass,Successful,72.3,87.2,68.1,82.1
+495,476815,Marwan Attia,944,Egypt,49,FirstHalf,Pass,Successful,67.1,79.8,60.4,67.5
+404,,,1918,New Zealand,49,FirstHalf,End,Successful,0,0,,
+496,,,944,Egypt,49,FirstHalf,End,Successful,0,0,,
+408,,,1918,New Zealand,45,SecondHalf,Start,Successful,0,0,,
+498,,,944,Egypt,45,SecondHalf,Start,Successful,0,0,,
+499,394749,Omar Marmoush,944,Egypt,45,SecondHalf,Pass,Successful,49.8,50.1,28.4,61.8
+500,139468,Ramy Rabia,944,Egypt,45,SecondHalf,Pass,Successful,28.9,62,32,69.9
+501,476815,Marwan Attia,944,Egypt,45,SecondHalf,Pass,Successful,32,69.9,27.7,62.1
+502,139468,Ramy Rabia,944,Egypt,45,SecondHalf,Pass,Successful,27.8,59.9,27,45.2
+503,450472,Yasser Ibrahim,944,Egypt,45,SecondHalf,Pass,Successful,29.8,45.4,30.4,59.9
+504,139468,Ramy Rabia,944,Egypt,45,SecondHalf,Pass,Successful,34.3,61.1,35.9,85.2
+505,431065,Ahmed Fatouh,944,Egypt,45,SecondHalf,Pass,Successful,37,85.8,43.3,63.5
+506,431069,Mohanad Lasheen,944,Egypt,45,SecondHalf,Pass,Successful,49.5,55.2,87.4,8.2
+507,450471,Mohamed Hany,944,Egypt,45,SecondHalf,Pass,Successful,87.9,7.7,88.6,46
+508,108226,Mohamed Salah,944,Egypt,45,SecondHalf,SavedShot,Successful,88.7,46,,
+409,134040,Max Crocombe,1918,New Zealand,45,SecondHalf,Save,Successful,2.8,52,,
+410,402095,Liberato Cacace,1918,New Zealand,45,SecondHalf,Clearance,Successful,2.4,56.2,40.1,78.4
+411,73380,Chris Wood,1918,New Zealand,45,SecondHalf,Pass,Unsuccessful,35,74.2,38.6,100
+510,450471,Mohamed Hany,944,Egypt,45,SecondHalf,Pass,Successful,59.8,0,55.2,18.4
+511,431069,Mohanad Lasheen,944,Egypt,45,SecondHalf,Pass,Successful,58.8,28.9,50.6,62.4
+512,476815,Marwan Attia,944,Egypt,45,SecondHalf,Pass,Successful,51.7,58.3,67.5,94
+513,431068,Emam Ashour,944,Egypt,45,SecondHalf,Pass,Successful,63.3,82.1,59.8,72.3
+514,476815,Marwan Attia,944,Egypt,45,SecondHalf,Pass,Successful,59.8,72.3,62.7,89.6
+515,431065,Ahmed Fatouh,944,Egypt,45,SecondHalf,Pass,Successful,64.2,89.4,74,75.8
+516,476815,Marwan Attia,944,Egypt,45,SecondHalf,Pass,Successful,74.1,75.6,84,89.3
+517,431068,Emam Ashour,944,Egypt,46,SecondHalf,Pass,Successful,88.3,88.7,76.9,81.6
+518,476815,Marwan Attia,944,Egypt,46,SecondHalf,Pass,Unsuccessful,75.2,77.7,87.9,49.4
+413,42898,Michael Boxall,1918,New Zealand,46,SecondHalf,Clearance,Successful,9.4,49.8,28.6,49
+519,394749,Omar Marmoush,944,Egypt,46,SecondHalf,Foul,Successful,68.2,54.4,,
+414,455331,Callum McCowatt,1918,New Zealand,46,SecondHalf,Foul,Unsuccessful,31.7,45.6,,
+520,108226,Mohamed Salah,944,Egypt,46,SecondHalf,Pass,Successful,71.4,52.5,72.7,45.4
+521,394749,Omar Marmoush,944,Egypt,46,SecondHalf,MissedShots,Successful,72.7,45.4,,
+416,42898,Michael Boxall,1918,New Zealand,47,SecondHalf,Pass,Successful,5.2,60,3.9,49.9
+417,134040,Max Crocombe,1918,New Zealand,47,SecondHalf,Pass,Unsuccessful,4.3,49.9,40.2,74.1
+523,512753,Mostafa Zico,944,Egypt,47,SecondHalf,Interception,Successful,59.8,25.9,,
+418,443658,Marko Stamenic,1918,New Zealand,47,SecondHalf,Pass,Successful,32,63.6,34.3,87
+419,402095,Liberato Cacace,1918,New Zealand,47,SecondHalf,Pass,Unsuccessful,34.3,86.7,62.2,85.3
+524,450472,Yasser Ibrahim,944,Egypt,47,SecondHalf,Pass,Successful,41.1,31.1,58.5,33.4
+525,431069,Mohanad Lasheen,944,Egypt,47,SecondHalf,Pass,Successful,58.7,33.4,53.2,19.3
+526,512753,Mostafa Zico,944,Egypt,47,SecondHalf,BallRecovery,Successful,52.9,17.3,,
+527,512753,Mostafa Zico,944,Egypt,47,SecondHalf,Pass,Successful,52.9,17.3,64,23.6
+528,108226,Mohamed Salah,944,Egypt,47,SecondHalf,BallTouch,Unsuccessful,62,23.6,,
+420,443658,Marko Stamenic,1918,New Zealand,47,SecondHalf,Clearance,Successful,38.6,78.7,61.1,100
+530,450471,Mohamed Hany,944,Egypt,47,SecondHalf,Pass,Successful,47.3,0,32.4,11.9
+531,450472,Yasser Ibrahim,944,Egypt,47,SecondHalf,Pass,Successful,32.8,15.8,30.7,46.1
+532,139468,Ramy Rabia,944,Egypt,47,SecondHalf,Pass,Successful,47.3,59.9,44.7,75.6
+533,476815,Marwan Attia,944,Egypt,47,SecondHalf,Pass,Successful,46.3,78.3,57,91.4
+534,431065,Ahmed Fatouh,944,Egypt,47,SecondHalf,Pass,Successful,57.9,93.8,46.6,84.2
+535,139468,Ramy Rabia,944,Egypt,47,SecondHalf,Pass,Successful,44.9,75.5,41.4,37
+536,450472,Yasser Ibrahim,944,Egypt,47,SecondHalf,Pass,Successful,43.3,31.1,55.5,10.4
+537,450471,Mohamed Hany,944,Egypt,48,SecondHalf,Pass,Successful,55.5,10.4,61.1,15.7
+538,512753,Mostafa Zico,944,Egypt,48,SecondHalf,Pass,Unsuccessful,61.2,11.5,70.1,12.1
+422,42898,Michael Boxall,1918,New Zealand,48,SecondHalf,Pass,Successful,19.3,90.4,25.2,96.1
+841,402095,Liberato Cacace,1918,New Zealand,48,SecondHalf,TakeOn,Unsuccessful,27.1,94.2,,
+423,402095,Liberato Cacace,1918,New Zealand,48,SecondHalf,Foul,Successful,27.6,90.2,,
+539,512753,Mostafa Zico,944,Egypt,48,SecondHalf,Foul,Unsuccessful,72.4,9.8,,
+424,42898,Michael Boxall,1918,New Zealand,48,SecondHalf,Pass,Successful,29.5,94.6,18.4,70.2
+425,134040,Max Crocombe,1918,New Zealand,48,SecondHalf,Pass,Successful,17.7,67.8,23.7,38.1
+426,483919,Finn Surman,1918,New Zealand,48,SecondHalf,Pass,Successful,24,38.2,29.2,7.5
+427,114686,Tim Payne,1918,New Zealand,48,SecondHalf,Pass,Successful,26.4,12,15.9,22.9
+428,483919,Finn Surman,1918,New Zealand,48,SecondHalf,Pass,Successful,16.2,16.6,35.8,14.7
+429,443658,Marko Stamenic,1918,New Zealand,48,SecondHalf,TakeOn,Unsuccessful,38.4,23.6,,
+540,431065,Ahmed Fatouh,944,Egypt,48,SecondHalf,Tackle,Successful,61.6,76.4,,
+541,476815,Marwan Attia,944,Egypt,48,SecondHalf,BallRecovery,Successful,65.2,55.2,,
+542,476815,Marwan Attia,944,Egypt,48,SecondHalf,Pass,Successful,66.7,55,74.5,53.8
+543,108226,Mohamed Salah,944,Egypt,48,SecondHalf,Pass,Successful,74.1,55,77.1,66
+544,512753,Mostafa Zico,944,Egypt,48,SecondHalf,SavedShot,Successful,78.5,59.7,,
+430,483919,Finn Surman,1918,New Zealand,48,SecondHalf,Save,Successful,17,41.9,,
+431,402095,Liberato Cacace,1918,New Zealand,48,SecondHalf,Clearance,Successful,13.7,73.2,13.8,100
+546,450471,Mohamed Hany,944,Egypt,48,SecondHalf,Pass,Successful,85.5,0,72.9,11.5
+547,476815,Marwan Attia,944,Egypt,48,SecondHalf,Pass,Successful,72.6,11.6,69.3,28.1
+548,431068,Emam Ashour,944,Egypt,49,SecondHalf,MissedShots,Successful,73.4,42.3,,
+434,134040,Max Crocombe,1918,New Zealand,49,SecondHalf,Pass,Unsuccessful,4.4,60.6,57.7,62.7
+550,139468,Ramy Rabia,944,Egypt,49,SecondHalf,Aerial,Successful,42.3,37.3,,
+435,379696,Sarpreet Singh,1918,New Zealand,49,SecondHalf,Aerial,Unsuccessful,57.7,62.7,,
+551,139468,Ramy Rabia,944,Egypt,49,SecondHalf,Pass,Successful,42.2,36.6,58.7,40.3
+552,108226,Mohamed Salah,944,Egypt,49,SecondHalf,BallRecovery,Successful,56.6,51,,
+553,108226,Mohamed Salah,944,Egypt,49,SecondHalf,Pass,Successful,57.4,52.5,68.3,69.2
+554,394749,Omar Marmoush,944,Egypt,49,SecondHalf,SavedShot,Successful,81.6,63.8,,
+436,114686,Tim Payne,1918,New Zealand,49,SecondHalf,Save,Successful,15.8,37.4,,
+555,431065,Ahmed Fatouh,944,Egypt,49,SecondHalf,Pass,Successful,52.7,86.1,42,73.8
+556,139468,Ramy Rabia,944,Egypt,49,SecondHalf,Pass,Successful,54.8,73.6,64.1,80.1
+557,476815,Marwan Attia,944,Egypt,49,SecondHalf,Pass,Successful,64,75.6,69.4,87
+558,431065,Ahmed Fatouh,944,Egypt,49,SecondHalf,Pass,Unsuccessful,79.5,95.7,80.3,93.2
+437,114686,Tim Payne,1918,New Zealand,49,SecondHalf,Clearance,Successful,19.5,7.2,,
+560,431065,Ahmed Fatouh,944,Egypt,49,SecondHalf,Pass,Successful,70.2,100,66.4,93.6
+561,476815,Marwan Attia,944,Egypt,49,SecondHalf,Pass,Successful,64.5,92.1,54.8,74.1
+562,139468,Ramy Rabia,944,Egypt,49,SecondHalf,Pass,Successful,54.2,73.7,47.4,48.4
+563,450472,Yasser Ibrahim,944,Egypt,50,SecondHalf,Pass,Successful,47,45.4,54,64.6
+564,139468,Ramy Rabia,944,Egypt,50,SecondHalf,Pass,Successful,55.9,62.1,67.7,70.8
+565,394749,Omar Marmoush,944,Egypt,50,SecondHalf,Pass,Successful,68.2,72.8,82.3,96.3
+566,431065,Ahmed Fatouh,944,Egypt,50,SecondHalf,Pass,Unsuccessful,90,94.6,89.3,60.3
+439,443658,Marko Stamenic,1918,New Zealand,50,SecondHalf,Clearance,Successful,9.6,37.8,18.7,11.7
+440,455331,Callum McCowatt,1918,New Zealand,50,SecondHalf,BallRecovery,Successful,19.8,6.1,,
+441,455331,Callum McCowatt,1918,New Zealand,50,SecondHalf,Pass,Successful,21.1,5.7,29.5,21.6
+442,379696,Sarpreet Singh,1918,New Zealand,50,SecondHalf,Pass,Successful,29.5,26.2,28.9,61.3
+443,455336,Elijah Just,1918,New Zealand,50,SecondHalf,Pass,Successful,30.6,54,26.2,46.8
+444,443658,Marko Stamenic,1918,New Zealand,50,SecondHalf,Pass,Successful,26,45.6,35.8,23.1
+445,455331,Callum McCowatt,1918,New Zealand,50,SecondHalf,Pass,Unsuccessful,35.9,22.9,32.2,13.3
+567,431065,Ahmed Fatouh,944,Egypt,50,SecondHalf,Interception,Successful,67.8,86.7,,
+446,114686,Tim Payne,1918,New Zealand,50,SecondHalf,BallTouch,Successful,31.4,15.7,,
+636,431065,Ahmed Fatouh,944,Egypt,50,SecondHalf,BallTouch,Successful,63.9,90.2,,
+568,512753,Mostafa Zico,944,Egypt,50,SecondHalf,BallRecovery,Successful,65.3,49.4,,
+569,512753,Mostafa Zico,944,Egypt,50,SecondHalf,Pass,Successful,66,55.2,65.4,40.3
+570,431068,Emam Ashour,944,Egypt,50,SecondHalf,Pass,Unsuccessful,69.2,44.9,72.2,47.5
+447,443658,Marko Stamenic,1918,New Zealand,50,SecondHalf,BallTouch,Successful,27.2,51.5,,
+448,455331,Callum McCowatt,1918,New Zealand,50,SecondHalf,BallRecovery,Successful,29.2,45.7,,
+449,455331,Callum McCowatt,1918,New Zealand,50,SecondHalf,Pass,Successful,29.2,45.7,34.9,68.7
+450,73380,Chris Wood,1918,New Zealand,50,SecondHalf,Pass,Successful,35.7,68.1,27.6,76.3
+451,402095,Liberato Cacace,1918,New Zealand,50,SecondHalf,Pass,Successful,27.8,78.6,65.1,70.9
+452,455336,Elijah Just,1918,New Zealand,50,SecondHalf,TakeOn,Unsuccessful,69,68.1,,
+572,139468,Ramy Rabia,944,Egypt,50,SecondHalf,BallRecovery,Successful,28.9,32.8,,
+573,139468,Ramy Rabia,944,Egypt,50,SecondHalf,Pass,Unsuccessful,29.3,31.7,44.7,30.5
+453,402095,Liberato Cacace,1918,New Zealand,50,SecondHalf,Interception,Successful,55.3,69.5,,
+454,402095,Liberato Cacace,1918,New Zealand,50,SecondHalf,BallRecovery,Successful,56.8,78.1,,
+574,139468,Ramy Rabia,944,Egypt,50,SecondHalf,Challenge,Unsuccessful,33.3,29.2,,
+455,402095,Liberato Cacace,1918,New Zealand,50,SecondHalf,TakeOn,Successful,66.7,70.8,,
+456,402095,Liberato Cacace,1918,New Zealand,50,SecondHalf,TakeOn,Unsuccessful,71.4,74.6,,
+575,450472,Yasser Ibrahim,944,Egypt,50,SecondHalf,Tackle,Successful,28.6,25.3,,
+576,139468,Ramy Rabia,944,Egypt,50,SecondHalf,Pass,Successful,27,34,32.2,18.1
+577,450471,Mohamed Hany,944,Egypt,50,SecondHalf,BallRecovery,Successful,32.5,17.8,,
+578,450471,Mohamed Hany,944,Egypt,51,SecondHalf,Pass,Unsuccessful,33.7,16.7,62.1,35.8
+457,42898,Michael Boxall,1918,New Zealand,51,SecondHalf,BallRecovery,Successful,36.3,70.3,,
+458,42898,Michael Boxall,1918,New Zealand,51,SecondHalf,Pass,Successful,36.3,70.3,47,70.3
+459,395377,Joe Bell,1918,New Zealand,51,SecondHalf,Pass,Successful,47,70.3,40.8,88.8
+460,443658,Marko Stamenic,1918,New Zealand,51,SecondHalf,Pass,Successful,41,87,54.3,80.4
+461,402095,Liberato Cacace,1918,New Zealand,51,SecondHalf,Pass,Successful,54.3,80.4,57.3,91.2
+462,455336,Elijah Just,1918,New Zealand,51,SecondHalf,Pass,Successful,57.5,91.2,59.8,82.8
+579,450472,Yasser Ibrahim,944,Egypt,51,SecondHalf,Challenge,Unsuccessful,36,23.8,,
+463,395377,Joe Bell,1918,New Zealand,51,SecondHalf,TakeOn,Successful,64,76.2,,
+464,395377,Joe Bell,1918,New Zealand,51,SecondHalf,Pass,Successful,63.5,83.1,74.6,83.4
+465,402095,Liberato Cacace,1918,New Zealand,51,SecondHalf,Pass,Unsuccessful,73.9,85,74.7,81.3
+580,431069,Mohanad Lasheen,944,Egypt,51,SecondHalf,Clearance,Successful,25.3,18.7,,
+467,402095,Liberato Cacace,1918,New Zealand,51,SecondHalf,Pass,Successful,86.9,100,80.5,88.9
+468,395377,Joe Bell,1918,New Zealand,51,SecondHalf,Pass,Successful,81.8,88.9,71.1,86.7
+469,443658,Marko Stamenic,1918,New Zealand,51,SecondHalf,Pass,Successful,69.5,86.7,94.2,54.2
+470,455331,Callum McCowatt,1918,New Zealand,51,SecondHalf,Aerial,Successful,94.2,54.2,,
+582,450472,Yasser Ibrahim,944,Egypt,51,SecondHalf,Aerial,Unsuccessful,5.8,45.8,,
+471,455331,Callum McCowatt,1918,New Zealand,51,SecondHalf,SavedShot,Successful,94.2,54.2,,
+583,519797,Mostafa Shobeir,944,Egypt,51,SecondHalf,Save,Successful,2.2,48.6,,
+584,519797,Mostafa Shobeir,944,Egypt,51,SecondHalf,CornerAwarded,Unsuccessful,4,48.3,,
+472,455331,Callum McCowatt,1918,New Zealand,51,SecondHalf,CornerAwarded,Successful,95.9,51.8,,
+473,114686,Tim Payne,1918,New Zealand,52,SecondHalf,Pass,Unsuccessful,99.5,99.5,91.4,49.2
+585,139468,Ramy Rabia,944,Egypt,52,SecondHalf,Aerial,Successful,8.6,50.8,,
+474,483919,Finn Surman,1918,New Zealand,52,SecondHalf,Aerial,Unsuccessful,91.4,49.2,,
+586,139468,Ramy Rabia,944,Egypt,52,SecondHalf,Clearance,Successful,8.7,50.9,22.8,53.8
+475,455336,Elijah Just,1918,New Zealand,52,SecondHalf,Pass,Successful,76.4,42.1,92.1,46.8
+476,73380,Chris Wood,1918,New Zealand,52,SecondHalf,Aerial,Successful,92.1,46.8,,
+587,450472,Yasser Ibrahim,944,Egypt,52,SecondHalf,Aerial,Unsuccessful,7.9,53.2,,
+477,73380,Chris Wood,1918,New Zealand,52,SecondHalf,BallTouch,Unsuccessful,90.8,46.5,,
+588,450471,Mohamed Hany,944,Egypt,52,SecondHalf,Clearance,Successful,7.4,56.1,8.7,54.6
+478,42898,Michael Boxall,1918,New Zealand,52,SecondHalf,BlockedPass,Successful,92,45.8,,
+589,519797,Mostafa Shobeir,944,Egypt,52,SecondHalf,Claim,Successful,5,50.4,,
+591,519797,Mostafa Shobeir,944,Egypt,52,SecondHalf,Foul,Successful,11.8,41.5,,
+479,483919,Finn Surman,1918,New Zealand,52,SecondHalf,Foul,Unsuccessful,88.2,58.5,,
+592,519797,Mostafa Shobeir,944,Egypt,52,SecondHalf,Pass,Successful,15.4,51.3,32.9,73.4
+593,139468,Ramy Rabia,944,Egypt,52,SecondHalf,Pass,Successful,22.8,64.5,31.3,78.2
+594,476815,Marwan Attia,944,Egypt,52,SecondHalf,Pass,Successful,37.2,84,68.8,95.9
+480,455331,Callum McCowatt,1918,New Zealand,53,SecondHalf,Challenge,Unsuccessful,37.2,12.8,,
+595,394749,Omar Marmoush,944,Egypt,53,SecondHalf,TakeOn,Successful,62.8,87.2,,
+596,394749,Omar Marmoush,944,Egypt,53,SecondHalf,Pass,Successful,62.1,80.9,88.4,57.9
+597,108226,Mohamed Salah,944,Egypt,53,SecondHalf,Pass,Unsuccessful,88.5,76.7,91.3,58.2
+482,483919,Finn Surman,1918,New Zealand,53,SecondHalf,Clearance,Successful,7.9,42.9,32.9,0
+599,431065,Ahmed Fatouh,944,Egypt,53,SecondHalf,Pass,Successful,69.8,100,63,81.8
+600,476815,Marwan Attia,944,Egypt,53,SecondHalf,Pass,Successful,63,80.3,67.7,56.8
+601,431068,Emam Ashour,944,Egypt,53,SecondHalf,Pass,Successful,67.5,70.8,59.7,75.5
+602,476815,Marwan Attia,944,Egypt,53,SecondHalf,Pass,Successful,60.4,74.4,64.4,91.2
+603,431065,Ahmed Fatouh,944,Egypt,53,SecondHalf,Pass,Successful,66,95.7,62.9,83.7
+604,394749,Omar Marmoush,944,Egypt,53,SecondHalf,Pass,Successful,61.1,71.7,85,17
+605,450471,Mohamed Hany,944,Egypt,53,SecondHalf,Pass,Successful,85.3,16.3,72,26.9
+606,108226,Mohamed Salah,944,Egypt,53,SecondHalf,Pass,Successful,71,28.9,63.4,29.2
+607,431069,Mohanad Lasheen,944,Egypt,53,SecondHalf,Pass,Successful,63.4,29.2,60.1,46.1
+608,450472,Yasser Ibrahim,944,Egypt,53,SecondHalf,Pass,Successful,57.3,45.6,62.1,69
+609,476815,Marwan Attia,944,Egypt,53,SecondHalf,Pass,Successful,61,74.6,67.9,74.7
+610,394749,Omar Marmoush,944,Egypt,53,SecondHalf,Pass,Successful,75.6,78.9,81.2,89.4
+611,431065,Ahmed Fatouh,944,Egypt,53,SecondHalf,Pass,Successful,79.7,90.3,70.2,85.8
+612,394749,Omar Marmoush,944,Egypt,53,SecondHalf,Pass,Successful,67.9,82.2,68.3,68.6
+613,431068,Emam Ashour,944,Egypt,53,SecondHalf,Pass,Successful,68.3,68.6,63.4,75.9
+614,476815,Marwan Attia,944,Egypt,53,SecondHalf,Pass,Successful,63.4,75.9,72,91.8
+615,431065,Ahmed Fatouh,944,Egypt,53,SecondHalf,Pass,Successful,76.1,85.8,77.4,76.4
+616,394749,Omar Marmoush,944,Egypt,54,SecondHalf,Pass,Successful,78.6,74.3,89.5,75
+617,431065,Ahmed Fatouh,944,Egypt,54,SecondHalf,Pass,Successful,89.6,75.5,89.7,52.8
+618,512753,Mostafa Zico,944,Egypt,54,SecondHalf,SavedShot,Successful,89.7,52.8,,
+485,483919,Finn Surman,1918,New Zealand,54,SecondHalf,Save,Successful,6.4,47.5,,
+619,431068,Emam Ashour,944,Egypt,54,SecondHalf,MissedShots,Successful,85.5,61.5,,
+486,455336,Elijah Just,1918,New Zealand,54,SecondHalf,Clearance,Successful,15.3,53.7,38.6,11.2
+487,455331,Callum McCowatt,1918,New Zealand,54,SecondHalf,BallRecovery,Successful,39.5,8.2,,
+488,455331,Callum McCowatt,1918,New Zealand,54,SecondHalf,Pass,Successful,41,5.1,38.7,18.6
+489,379696,Sarpreet Singh,1918,New Zealand,54,SecondHalf,Pass,Successful,42.7,26.8,68.1,92.4
+490,73380,Chris Wood,1918,New Zealand,54,SecondHalf,Pass,Successful,67.3,96.6,56.8,90.6
+491,402095,Liberato Cacace,1918,New Zealand,54,SecondHalf,Pass,Successful,57.3,89.8,65.9,93.7
+492,73380,Chris Wood,1918,New Zealand,54,SecondHalf,Pass,Unsuccessful,65.9,93.7,64.1,80.1
+621,431069,Mohanad Lasheen,944,Egypt,54,SecondHalf,Pass,Successful,35,21.1,29.8,14.3
+622,450471,Mohamed Hany,944,Egypt,54,SecondHalf,BallRecovery,Successful,28.7,23.8,,
+623,450471,Mohamed Hany,944,Egypt,54,SecondHalf,Pass,Successful,28.5,24.7,30.4,36.5
+624,476815,Marwan Attia,944,Egypt,54,SecondHalf,Pass,Successful,30.3,37,30.3,32.2
+625,431069,Mohanad Lasheen,944,Egypt,54,SecondHalf,Pass,Successful,30.3,30.4,22.9,47.6
+626,139468,Ramy Rabia,944,Egypt,54,SecondHalf,Pass,Successful,27.5,54,31.3,55.8
+627,476815,Marwan Attia,944,Egypt,54,SecondHalf,Pass,Successful,38.5,60,36.8,85.5
+628,431065,Ahmed Fatouh,944,Egypt,54,SecondHalf,Pass,Successful,36.4,87.5,45.2,93.2
+629,394749,Omar Marmoush,944,Egypt,54,SecondHalf,Pass,Successful,53.4,83.3,57.8,89.1
+630,431065,Ahmed Fatouh,944,Egypt,54,SecondHalf,Pass,Successful,60,92.7,53.4,75
+631,476815,Marwan Attia,944,Egypt,54,SecondHalf,Pass,Successful,52.5,68.4,54.4,37.3
+632,450472,Yasser Ibrahim,944,Egypt,54,SecondHalf,Pass,Unsuccessful,58.4,35,100,22.4
+494,134040,Max Crocombe,1918,New Zealand,55,SecondHalf,Pass,Successful,5,63,70.4,72.3
+495,73380,Chris Wood,1918,New Zealand,55,SecondHalf,Pass,Unsuccessful,72.9,71.7,84.1,65.5
+634,519797,Mostafa Shobeir,944,Egypt,55,SecondHalf,KeeperSweeper,Successful,15.6,39.2,,
+635,519797,Mostafa Shobeir,944,Egypt,55,SecondHalf,Clearance,Successful,16.1,38.5,55.9,23.3
+500,402095,Liberato Cacace,1918,New Zealand,55,SecondHalf,BallTouch,Unsuccessful,39.4,88.9,,
+637,108226,Mohamed Salah,944,Egypt,55,SecondHalf,BallTouch,Unsuccessful,62,18.2,,
+496,42898,Michael Boxall,1918,New Zealand,55,SecondHalf,Clearance,Successful,17.7,92.7,22.5,100
+639,450471,Mohamed Hany,944,Egypt,55,SecondHalf,Pass,Successful,73.8,0,66.3,17
+640,476815,Marwan Attia,944,Egypt,55,SecondHalf,Pass,Successful,65.6,17.8,67.6,8.9
+641,450471,Mohamed Hany,944,Egypt,55,SecondHalf,Pass,Successful,67.6,8.9,49.3,16.3
+642,450472,Yasser Ibrahim,944,Egypt,55,SecondHalf,Pass,Successful,51.3,17.2,54,42.7
+643,139468,Ramy Rabia,944,Egypt,55,SecondHalf,Pass,Successful,65.8,50.7,68.4,44.3
+644,431068,Emam Ashour,944,Egypt,55,SecondHalf,Pass,Successful,69.7,48.5,67.4,43
+645,476815,Marwan Attia,944,Egypt,55,SecondHalf,Pass,Successful,67.4,43,71.8,19.7
+646,450471,Mohamed Hany,944,Egypt,56,SecondHalf,Pass,Successful,71.5,20,84.5,18.2
+647,476815,Marwan Attia,944,Egypt,56,SecondHalf,Pass,Unsuccessful,92.1,16.6,91.7,21.2
+498,402095,Liberato Cacace,1918,New Zealand,56,SecondHalf,Clearance,Successful,8.3,78.8,,
+499,402095,Liberato Cacace,1918,New Zealand,56,SecondHalf,CornerAwarded,Unsuccessful,7,79.8,,
+648,476815,Marwan Attia,944,Egypt,56,SecondHalf,CornerAwarded,Successful,92.9,20.2,,
+649,108226,Mohamed Salah,944,Egypt,56,SecondHalf,Pass,Successful,99.5,0.5,89.5,6.1
+650,476815,Marwan Attia,944,Egypt,56,SecondHalf,Pass,Successful,89.6,5.9,73.8,15.2
+651,431068,Emam Ashour,944,Egypt,56,SecondHalf,Pass,Successful,73.8,15.2,84.9,7.7
+652,476815,Marwan Attia,944,Egypt,56,SecondHalf,Pass,Unsuccessful,88.4,11.3,87.9,14.8
+501,455336,Elijah Just,1918,New Zealand,56,SecondHalf,Clearance,Successful,12.1,85.2,,
+654,476815,Marwan Attia,944,Egypt,56,SecondHalf,Pass,Successful,87.8,0,68.6,7.1
+655,431068,Emam Ashour,944,Egypt,56,SecondHalf,Pass,Successful,69.2,11.9,65.8,28.7
+656,450471,Mohamed Hany,944,Egypt,56,SecondHalf,Pass,Successful,68.4,28.4,67.3,14.8
+657,431068,Emam Ashour,944,Egypt,56,SecondHalf,Pass,Successful,66.3,16,65.6,50.7
+658,431065,Ahmed Fatouh,944,Egypt,56,SecondHalf,Pass,Successful,66,54,69.2,66.6
+659,394749,Omar Marmoush,944,Egypt,56,SecondHalf,Pass,Successful,73.3,69.5,76.2,82.8
+660,431069,Mohanad Lasheen,944,Egypt,56,SecondHalf,Pass,Successful,75.1,84.5,64.8,86.1
+661,431065,Ahmed Fatouh,944,Egypt,56,SecondHalf,Pass,Successful,63.6,85.1,59.5,61.8
+662,450471,Mohamed Hany,944,Egypt,56,SecondHalf,Pass,Unsuccessful,63.4,50.7,84.3,45.8
+503,42898,Michael Boxall,1918,New Zealand,56,SecondHalf,Clearance,Successful,13.7,60.5,17.9,82
+663,108226,Mohamed Salah,944,Egypt,57,SecondHalf,Pass,Unsuccessful,85.7,19.1,94.3,52.7
+504,134040,Max Crocombe,1918,New Zealand,57,SecondHalf,KeeperPickup,Successful,4.4,49.3,,
+505,134040,Max Crocombe,1918,New Zealand,57,SecondHalf,Pass,Unsuccessful,15.5,40.6,64.1,100
+665,450471,Mohamed Hany,944,Egypt,57,SecondHalf,Pass,Successful,39.4,0,40.1,12.5
+666,476815,Marwan Attia,944,Egypt,57,SecondHalf,Pass,Successful,39.9,13.1,36.9,11.2
+667,450471,Mohamed Hany,944,Egypt,57,SecondHalf,Pass,Successful,36.7,11.6,21.7,45.2
+668,139468,Ramy Rabia,944,Egypt,57,SecondHalf,Pass,Successful,25.8,50.4,38.8,80.4
+669,431065,Ahmed Fatouh,944,Egypt,57,SecondHalf,Pass,Successful,55.8,87.9,59.3,93.6
+670,394749,Omar Marmoush,944,Egypt,57,SecondHalf,Pass,Successful,63.2,73.5,70.7,42.7
+671,431068,Emam Ashour,944,Egypt,57,SecondHalf,TakeOn,Unsuccessful,73.2,43.7,,
+507,443658,Marko Stamenic,1918,New Zealand,57,SecondHalf,Tackle,Unsuccessful,26.8,56.3,,
+672,431068,Emam Ashour,944,Egypt,57,SecondHalf,Pass,Successful,71.9,47.9,69.8,48.4
+673,476815,Marwan Attia,944,Egypt,57,SecondHalf,Pass,Successful,67.5,50.3,87.8,13.6
+674,450471,Mohamed Hany,944,Egypt,57,SecondHalf,Pass,Successful,88.8,14.6,91.4,53.2
+675,512753,Mostafa Zico,944,Egypt,57,SecondHalf,Goal,Successful,91.4,53.2,,
+508,73380,Chris Wood,1918,New Zealand,58,SecondHalf,Pass,Successful,50.2,49.8,39.6,47.1
+509,395377,Joe Bell,1918,New Zealand,58,SecondHalf,Pass,Successful,42.7,46.6,39.1,59.2
+510,443658,Marko Stamenic,1918,New Zealand,58,SecondHalf,Pass,Successful,37.9,61.5,39.5,46
+511,395377,Joe Bell,1918,New Zealand,58,SecondHalf,Pass,Successful,37.4,47.5,28.8,62.5
+512,42898,Michael Boxall,1918,New Zealand,58,SecondHalf,Pass,Successful,27.7,58.2,34.7,43.6
+513,395377,Joe Bell,1918,New Zealand,58,SecondHalf,Pass,Successful,34.8,43.8,35.8,60.9
+514,443658,Marko Stamenic,1918,New Zealand,58,SecondHalf,Pass,Unsuccessful,36.1,61,65.6,100
+677,450471,Mohamed Hany,944,Egypt,59,SecondHalf,Pass,Successful,35.6,0,34,11.8
+678,476815,Marwan Attia,944,Egypt,59,SecondHalf,Pass,Successful,32.4,13.4,26.7,50
+679,139468,Ramy Rabia,944,Egypt,59,SecondHalf,Pass,Unsuccessful,32.3,54.8,69.2,92.7
+516,114686,Tim Payne,1918,New Zealand,59,SecondHalf,Clearance,Successful,27.6,4,30.4,0
+681,431065,Ahmed Fatouh,944,Egypt,59,SecondHalf,Pass,Successful,67.8,100,55.2,91.4
+682,139468,Ramy Rabia,944,Egypt,59,SecondHalf,Pass,Successful,55.3,86.1,60.1,92
+683,431065,Ahmed Fatouh,944,Egypt,59,SecondHalf,Pass,Successful,60.9,91.2,65.4,68
+518,443658,Marko Stamenic,1918,New Zealand,59,SecondHalf,Challenge,Unsuccessful,27.4,48.4,,
+703,431068,Emam Ashour,944,Egypt,59,SecondHalf,TakeOn,Successful,72.6,51.6,,
+684,431068,Emam Ashour,944,Egypt,59,SecondHalf,Pass,Successful,69,54.3,88.1,24.5
+685,450471,Mohamed Hany,944,Egypt,59,SecondHalf,Pass,Successful,89.2,24.5,88.1,32.5
+686,108226,Mohamed Salah,944,Egypt,59,SecondHalf,BallTouch,Unsuccessful,86.4,38.6,,
+519,395377,Joe Bell,1918,New Zealand,59,SecondHalf,Clearance,Successful,14.5,50.1,41,75.3
+520,73380,Chris Wood,1918,New Zealand,59,SecondHalf,BallRecovery,Successful,36,78.6,,
+521,73380,Chris Wood,1918,New Zealand,59,SecondHalf,Pass,Successful,37.8,79.6,30.7,81.4
+522,455336,Elijah Just,1918,New Zealand,59,SecondHalf,Pass,Successful,30.7,81.3,61.3,82.5
+523,455331,Callum McCowatt,1918,New Zealand,59,SecondHalf,Dispossessed,Successful,86.9,88.5,,
+687,139468,Ramy Rabia,944,Egypt,59,SecondHalf,Tackle,Successful,13.1,11.5,,
+525,402095,Liberato Cacace,1918,New Zealand,60,SecondHalf,Pass,Unsuccessful,87.5,100,93.2,67
+689,450471,Mohamed Hany,944,Egypt,60,SecondHalf,Clearance,Successful,7.3,32.9,25,14
+526,42898,Michael Boxall,1918,New Zealand,60,SecondHalf,Pass,Unsuccessful,71.2,83.8,87.1,73.3
+690,450471,Mohamed Hany,944,Egypt,60,SecondHalf,Clearance,Successful,12,27.7,23,22
+527,42898,Michael Boxall,1918,New Zealand,60,SecondHalf,TakeOn,Unsuccessful,76,79.4,,
+691,512753,Mostafa Zico,944,Egypt,60,SecondHalf,Tackle,Unsuccessful,24,20.6,,
+528,42898,Michael Boxall,1918,New Zealand,60,SecondHalf,Pass,Unsuccessful,71.6,85,75.4,100
+693,431068,Emam Ashour,944,Egypt,60,SecondHalf,Pass,Successful,24,0,19.2,21.8
+694,450472,Yasser Ibrahim,944,Egypt,60,SecondHalf,Pass,Successful,19.7,26,24.8,36.8
+695,476815,Marwan Attia,944,Egypt,60,SecondHalf,Pass,Successful,24.9,38.2,31.9,88.7
+696,431065,Ahmed Fatouh,944,Egypt,60,SecondHalf,Pass,Successful,42.4,85.8,33.6,73.8
+697,139468,Ramy Rabia,944,Egypt,60,SecondHalf,Pass,Successful,34.2,66.6,75.2,13
+993,431068,Emam Ashour,944,Egypt,60,SecondHalf,TakeOn,Unsuccessful,77.1,12.7,,
+698,431068,Emam Ashour,944,Egypt,60,SecondHalf,Foul,Successful,76.5,12,,
+530,402095,Liberato Cacace,1918,New Zealand,60,SecondHalf,Foul,Unsuccessful,23.4,88.1,,
+699,108226,Mohamed Salah,944,Egypt,61,SecondHalf,Pass,Successful,76.7,11.3,69.4,22.6
+700,476815,Marwan Attia,944,Egypt,61,SecondHalf,Pass,Unsuccessful,69.2,22.3,87.3,48.1
+531,402095,Liberato Cacace,1918,New Zealand,61,SecondHalf,Foul,Successful,12.3,52.4,,
+701,139468,Ramy Rabia,944,Egypt,61,SecondHalf,Foul,Unsuccessful,87.7,47.6,,
+532,134040,Max Crocombe,1918,New Zealand,62,SecondHalf,Pass,Successful,14.8,52.8,29.7,90.9
+533,402095,Liberato Cacace,1918,New Zealand,62,SecondHalf,Pass,Successful,35.5,92.1,33.2,72.1
+534,443658,Marko Stamenic,1918,New Zealand,62,SecondHalf,Pass,Successful,31.1,60.9,29.4,37.3
+535,483919,Finn Surman,1918,New Zealand,62,SecondHalf,Pass,Successful,28.9,39.9,25,68.8
+536,42898,Michael Boxall,1918,New Zealand,62,SecondHalf,Pass,Successful,24.7,72.1,20.4,34.5
+537,483919,Finn Surman,1918,New Zealand,62,SecondHalf,Pass,Successful,28.5,16.5,44.5,19.2
+538,455331,Callum McCowatt,1918,New Zealand,62,SecondHalf,Pass,Successful,42.1,23.5,30.4,28.5
+539,443658,Marko Stamenic,1918,New Zealand,62,SecondHalf,Pass,Successful,30,30.1,33.3,23.4
+540,455331,Callum McCowatt,1918,New Zealand,62,SecondHalf,Pass,Successful,40.1,25.8,44.5,6.4
+541,114686,Tim Payne,1918,New Zealand,62,SecondHalf,Pass,Successful,42.1,6,32.9,16.8
+542,443658,Marko Stamenic,1918,New Zealand,62,SecondHalf,Pass,Successful,42.4,35.2,35.3,61.3
+543,42898,Michael Boxall,1918,New Zealand,62,SecondHalf,Pass,Successful,35.3,61.3,34.1,41.2
+544,483919,Finn Surman,1918,New Zealand,62,SecondHalf,Pass,Successful,31.2,38.5,31.7,62.7
+545,42898,Michael Boxall,1918,New Zealand,62,SecondHalf,Pass,Successful,31,64.9,34.3,54
+546,443658,Marko Stamenic,1918,New Zealand,63,SecondHalf,Pass,Successful,33.9,52.8,33.5,30.3
+547,483919,Finn Surman,1918,New Zealand,63,SecondHalf,Pass,Successful,42.3,25,52,32.8
+548,395377,Joe Bell,1918,New Zealand,63,SecondHalf,Pass,Successful,51.3,39.6,47.5,68.4
+549,42898,Michael Boxall,1918,New Zealand,63,SecondHalf,Pass,Successful,64.3,69.4,56.8,63
+550,443658,Marko Stamenic,1918,New Zealand,63,SecondHalf,Pass,Successful,56.8,63,51.3,37.2
+551,483919,Finn Surman,1918,New Zealand,63,SecondHalf,Pass,Successful,52.9,32.1,73.7,4.6
+552,114686,Tim Payne,1918,New Zealand,63,SecondHalf,Pass,Successful,79.7,2.8,65.1,5.2
+553,455331,Callum McCowatt,1918,New Zealand,63,SecondHalf,Pass,Successful,66,6.1,59.3,19.6
+554,483919,Finn Surman,1918,New Zealand,63,SecondHalf,Pass,Successful,59.3,19.2,64.7,30.7
+555,443658,Marko Stamenic,1918,New Zealand,63,SecondHalf,Pass,Successful,57.6,27.4,63.4,25.4
+556,455331,Callum McCowatt,1918,New Zealand,63,SecondHalf,Pass,Successful,73.2,35.5,80.6,59.2
+557,73380,Chris Wood,1918,New Zealand,63,SecondHalf,Pass,Successful,81.3,59.8,74.7,57.9
+558,395377,Joe Bell,1918,New Zealand,63,SecondHalf,Pass,Successful,74.7,57.9,73.7,48.7
+559,455331,Callum McCowatt,1918,New Zealand,63,SecondHalf,Pass,Unsuccessful,72.2,49,77.6,60.6
+705,450471,Mohamed Hany,944,Egypt,63,SecondHalf,Interception,Successful,22.4,39.4,,
+706,512753,Mostafa Zico,944,Egypt,63,SecondHalf,BallRecovery,Successful,30.3,47.3,,
+707,512753,Mostafa Zico,944,Egypt,63,SecondHalf,Pass,Successful,30.3,47.3,31,40
+708,108226,Mohamed Salah,944,Egypt,63,SecondHalf,BallTouch,Unsuccessful,31.1,39.7,,
+560,402095,Liberato Cacace,1918,New Zealand,63,SecondHalf,BallTouch,Successful,71.2,73.6,,
+562,455331,Callum McCowatt,1918,New Zealand,63,SecondHalf,BallRecovery,Successful,71.4,69.3,,
+563,455331,Callum McCowatt,1918,New Zealand,63,SecondHalf,Pass,Successful,73.7,71.1,78.5,60.9
+564,379696,Sarpreet Singh,1918,New Zealand,63,SecondHalf,Dispossessed,Successful,77.6,59.7,,
+710,431069,Mohanad Lasheen,944,Egypt,63,SecondHalf,Tackle,Successful,22.4,40.3,,
+711,450471,Mohamed Hany,944,Egypt,63,SecondHalf,Pass,Successful,22.1,35.3,25.9,38.8
+712,476815,Marwan Attia,944,Egypt,63,SecondHalf,Pass,Successful,26.1,38.8,27,16.9
+744,431068,Emam Ashour,944,Egypt,63,SecondHalf,BallRecovery,Successful,25.8,17.7,,
+713,431068,Emam Ashour,944,Egypt,63,SecondHalf,Pass,Unsuccessful,27,16.4,28.7,32.2
+595,379696,Sarpreet Singh,1918,New Zealand,63,SecondHalf,BallRecovery,Successful,74.2,72.6,,
+565,379696,Sarpreet Singh,1918,New Zealand,63,SecondHalf,Pass,Successful,72.2,77.7,69.8,87.1
+566,395377,Joe Bell,1918,New Zealand,63,SecondHalf,Pass,Successful,70.3,86.8,70.1,51.7
+567,443658,Marko Stamenic,1918,New Zealand,64,SecondHalf,SavedShot,Successful,70,53,,
+714,431069,Mohanad Lasheen,944,Egypt,64,SecondHalf,Save,Successful,23.7,48.2,,
+715,394749,Omar Marmoush,944,Egypt,64,SecondHalf,BallRecovery,Successful,51.6,63.6,,
+716,394749,Omar Marmoush,944,Egypt,64,SecondHalf,Pass,Successful,66.4,59.7,88.7,65.3
+717,108226,Mohamed Salah,944,Egypt,64,SecondHalf,Pass,Successful,85.4,72.8,71.4,75.5
+718,431069,Mohanad Lasheen,944,Egypt,64,SecondHalf,Pass,Successful,71.4,75.5,72.3,65
+719,512753,Mostafa Zico,944,Egypt,64,SecondHalf,Pass,Unsuccessful,72.6,62.7,97.2,39.1
+568,134040,Max Crocombe,1918,New Zealand,64,SecondHalf,BallRecovery,Successful,2.1,59.8,,
+569,134040,Max Crocombe,1918,New Zealand,64,SecondHalf,Pass,Successful,8.9,62.2,14.9,32.8
+570,483919,Finn Surman,1918,New Zealand,64,SecondHalf,Pass,Successful,14.2,27.6,28.2,36.4
+571,395377,Joe Bell,1918,New Zealand,64,SecondHalf,Pass,Successful,27.4,37,31.5,51.9
+572,443658,Marko Stamenic,1918,New Zealand,64,SecondHalf,Pass,Successful,32.1,39.1,38.7,43
+573,455336,Elijah Just,1918,New Zealand,64,SecondHalf,Pass,Successful,39.5,42.7,33.2,35.4
+574,443658,Marko Stamenic,1918,New Zealand,64,SecondHalf,Pass,Successful,36.8,38.1,33.6,46.5
+575,395377,Joe Bell,1918,New Zealand,64,SecondHalf,Pass,Successful,33.6,47.1,45.1,44.1
+576,379696,Sarpreet Singh,1918,New Zealand,64,SecondHalf,Foul,Successful,45.1,46.5,,
+720,139468,Ramy Rabia,944,Egypt,64,SecondHalf,Foul,Unsuccessful,54.9,53.5,,
+577,455331,Callum McCowatt,1918,New Zealand,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+578,457096,Ben Old,1918,New Zealand,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+624,,,1918,New Zealand,65,SecondHalf,FormationChange,Successful,0,0,,
+608,395377,Joe Bell,1918,New Zealand,65,SecondHalf,Pass,Successful,43.8,46.5,45.8,49.1
+579,443658,Marko Stamenic,1918,New Zealand,65,SecondHalf,Pass,Successful,37.2,50.9,36.8,66.9
+580,42898,Michael Boxall,1918,New Zealand,65,SecondHalf,Pass,Successful,41.7,81.6,52,68.7
+581,395377,Joe Bell,1918,New Zealand,65,SecondHalf,Dispossessed,Successful,54.1,67.4,,
+721,431069,Mohanad Lasheen,944,Egypt,65,SecondHalf,Tackle,Successful,45.9,32.6,,
+722,108226,Mohamed Salah,944,Egypt,65,SecondHalf,BallRecovery,Successful,57.8,36.8,,
+723,108226,Mohamed Salah,944,Egypt,65,SecondHalf,Pass,Successful,70.7,50.1,82.5,67.8
+724,394749,Omar Marmoush,944,Egypt,65,SecondHalf,Dispossessed,Successful,86,64.4,,
+582,395377,Joe Bell,1918,New Zealand,65,SecondHalf,Tackle,Successful,14,35.6,,
+583,379696,Sarpreet Singh,1918,New Zealand,65,SecondHalf,Pass,Successful,31.6,34.2,22.7,25.2
+584,114686,Tim Payne,1918,New Zealand,65,SecondHalf,BallRecovery,Successful,22.7,25.2,,
+585,114686,Tim Payne,1918,New Zealand,65,SecondHalf,Pass,Successful,21.1,23.1,60.7,2.2
+586,455336,Elijah Just,1918,New Zealand,65,SecondHalf,Pass,Unsuccessful,67.8,23.1,74.2,39.3
+725,450472,Yasser Ibrahim,944,Egypt,65,SecondHalf,Clearance,Successful,22.8,56.9,33.1,93.9
+587,114686,Tim Payne,1918,New Zealand,65,SecondHalf,Pass,Unsuccessful,68.3,11.5,95.8,59.4
+726,519797,Mostafa Shobeir,944,Egypt,65,SecondHalf,Aerial,Successful,4.2,40.6,,
+588,73380,Chris Wood,1918,New Zealand,65,SecondHalf,Aerial,Unsuccessful,95.8,59.4,,
+727,519797,Mostafa Shobeir,944,Egypt,65,SecondHalf,Claim,Successful,4.4,42.3,,
+728,519797,Mostafa Shobeir,944,Egypt,65,SecondHalf,Pass,Successful,6.9,45.5,15.6,22.7
+729,450471,Mohamed Hany,944,Egypt,66,SecondHalf,Pass,Successful,28.5,17.3,25.8,30.1
+730,431069,Mohanad Lasheen,944,Egypt,66,SecondHalf,Pass,Successful,27.4,36.5,29.8,66.8
+731,476815,Marwan Attia,944,Egypt,66,SecondHalf,Pass,Successful,30,67.2,34.5,88.4
+732,431065,Ahmed Fatouh,944,Egypt,66,SecondHalf,Pass,Successful,35.1,88.8,33,75.5
+733,476815,Marwan Attia,944,Egypt,66,SecondHalf,Pass,Successful,32.4,73.7,32,88.7
+734,431065,Ahmed Fatouh,944,Egypt,66,SecondHalf,Pass,Successful,31.4,87.3,23.2,77.1
+735,139468,Ramy Rabia,944,Egypt,66,SecondHalf,Pass,Successful,23.7,84.6,27.9,92
+745,431065,Ahmed Fatouh,944,Egypt,66,SecondHalf,Pass,Unsuccessful,34.1,92.1,34.9,91.4
+594,379696,Sarpreet Singh,1918,New Zealand,66,SecondHalf,BlockedPass,Successful,65.1,8.6,,
+589,455336,Elijah Just,1918,New Zealand,66,SecondHalf,BallTouch,Successful,72.1,8,,
+736,139468,Ramy Rabia,944,Egypt,66,SecondHalf,Pass,Unsuccessful,22.9,78,51.9,52.7
+590,42898,Michael Boxall,1918,New Zealand,66,SecondHalf,Pass,Successful,47.1,43.6,80.4,82.3
+591,457096,Ben Old,1918,New Zealand,66,SecondHalf,BallTouch,Unsuccessful,80.4,82.3,,
+738,450472,Yasser Ibrahim,944,Egypt,66,SecondHalf,Pass,Successful,11.9,0,29.6,5.9
+739,431068,Emam Ashour,944,Egypt,66,SecondHalf,Pass,Successful,30.3,7,52.7,30.4
+740,512753,Mostafa Zico,944,Egypt,66,SecondHalf,Pass,Successful,57.4,36.5,71.7,28.6
+741,108226,Mohamed Salah,944,Egypt,66,SecondHalf,Pass,Unsuccessful,83.1,30.5,85.8,36.5
+593,42898,Michael Boxall,1918,New Zealand,66,SecondHalf,BallTouch,Successful,14.2,70.5,,
+742,512753,Mostafa Zico,944,Egypt,66,SecondHalf,Pass,Successful,88.9,37.4,86.4,42.1
+743,108226,Mohamed Salah,944,Egypt,66,SecondHalf,Goal,Successful,86.4,42.1,,
+597,379696,Sarpreet Singh,1918,New Zealand,68,SecondHalf,Pass,Successful,49.9,50.1,42,41.2
+598,395377,Joe Bell,1918,New Zealand,68,SecondHalf,Pass,Successful,42.2,43.6,36.4,35.4
+599,483919,Finn Surman,1918,New Zealand,68,SecondHalf,Pass,Successful,36.4,35.4,41,64.6
+600,443658,Marko Stamenic,1918,New Zealand,68,SecondHalf,Pass,Successful,41,64.6,33.5,34.3
+601,483919,Finn Surman,1918,New Zealand,68,SecondHalf,Pass,Successful,33.6,33.3,41.8,8.5
+602,114686,Tim Payne,1918,New Zealand,68,SecondHalf,BallTouch,Unsuccessful,42.3,7.9,,
+746,394749,Omar Marmoush,944,Egypt,68,SecondHalf,TakeOn,Unsuccessful,51,86,,
+603,114686,Tim Payne,1918,New Zealand,68,SecondHalf,Tackle,Unsuccessful,49,14.1,,
+747,431065,Ahmed Fatouh,944,Egypt,68,SecondHalf,BallRecovery,Successful,32.8,90,,
+748,431065,Ahmed Fatouh,944,Egypt,68,SecondHalf,Pass,Successful,34.8,91.7,34.6,87
+749,431069,Mohanad Lasheen,944,Egypt,68,SecondHalf,Pass,Successful,34.8,85.4,37.4,91.7
+750,431065,Ahmed Fatouh,944,Egypt,68,SecondHalf,Pass,Successful,37.4,91.7,35.4,82.4
+751,431069,Mohanad Lasheen,944,Egypt,68,SecondHalf,Pass,Successful,36.5,76.5,31.2,77.3
+752,139468,Ramy Rabia,944,Egypt,68,SecondHalf,Pass,Successful,30.9,73.5,27.2,46
+753,450472,Yasser Ibrahim,944,Egypt,69,SecondHalf,Pass,Successful,27.2,46,32.8,23
+754,450471,Mohamed Hany,944,Egypt,69,SecondHalf,Pass,Successful,33.2,21.7,28.7,33.7
+755,450472,Yasser Ibrahim,944,Egypt,69,SecondHalf,Pass,Successful,27.7,36.1,32.2,42.2
+756,476815,Marwan Attia,944,Egypt,69,SecondHalf,Pass,Successful,32.4,43.1,25.8,37.3
+757,450472,Yasser Ibrahim,944,Egypt,69,SecondHalf,Pass,Successful,27.3,35.9,28.4,46.1
+758,476815,Marwan Attia,944,Egypt,69,SecondHalf,Pass,Successful,29.3,49,30.5,76.4
+759,431069,Mohanad Lasheen,944,Egypt,69,SecondHalf,Pass,Successful,31.4,77.7,23.1,40
+760,450472,Yasser Ibrahim,944,Egypt,69,SecondHalf,Pass,Successful,24,38.3,42.2,10.1
+761,450471,Mohamed Hany,944,Egypt,69,SecondHalf,Pass,Successful,44,9.8,60.3,14
+762,431068,Emam Ashour,944,Egypt,69,SecondHalf,Pass,Successful,61.7,37.3,53.7,60.8
+763,431069,Mohanad Lasheen,944,Egypt,69,SecondHalf,Pass,Successful,53.7,60.8,67.1,89.4
+764,431065,Ahmed Fatouh,944,Egypt,69,SecondHalf,Pass,Successful,67.8,89.7,66.5,77
+765,431068,Emam Ashour,944,Egypt,69,SecondHalf,Pass,Successful,66.5,77,62.1,88.5
+766,431065,Ahmed Fatouh,944,Egypt,69,SecondHalf,Pass,Successful,62.1,89,58.2,75
+767,431069,Mohanad Lasheen,944,Egypt,69,SecondHalf,Pass,Successful,57.3,71,57.7,57.3
+768,476815,Marwan Attia,944,Egypt,69,SecondHalf,Pass,Successful,58.8,57.8,62.3,51.5
+769,431069,Mohanad Lasheen,944,Egypt,69,SecondHalf,Pass,Successful,62.8,50.6,62.5,36.1
+770,108226,Mohamed Salah,944,Egypt,69,SecondHalf,Pass,Successful,63.2,32.2,70.1,13.1
+771,450471,Mohamed Hany,944,Egypt,69,SecondHalf,Pass,Successful,69,11.6,64.9,19.7
+772,108226,Mohamed Salah,944,Egypt,69,SecondHalf,Pass,Successful,62.9,23.8,46.9,40.6
+773,450472,Yasser Ibrahim,944,Egypt,69,SecondHalf,Pass,Successful,46.3,42.4,37.9,74
+774,139468,Ramy Rabia,944,Egypt,69,SecondHalf,Pass,Successful,35.1,73.1,34.9,51.6
+775,450472,Yasser Ibrahim,944,Egypt,70,SecondHalf,Pass,Successful,35.1,48.5,35.4,33.1
+776,431069,Mohanad Lasheen,944,Egypt,70,SecondHalf,Pass,Successful,36.2,32.2,39.9,26.5
+777,476815,Marwan Attia,944,Egypt,70,SecondHalf,Pass,Successful,39.9,26.5,37.3,32.2
+778,431069,Mohanad Lasheen,944,Egypt,70,SecondHalf,Pass,Successful,37.3,32.3,38.5,33.7
+779,476815,Marwan Attia,944,Egypt,70,SecondHalf,Pass,Successful,38.9,39.4,33.5,87.6
+780,139468,Ramy Rabia,944,Egypt,70,SecondHalf,Pass,Successful,33.7,88.1,30.6,57.5
+781,450472,Yasser Ibrahim,944,Egypt,70,SecondHalf,Pass,Successful,29.1,53,61.5,6.1
+782,450471,Mohamed Hany,944,Egypt,70,SecondHalf,Pass,Successful,61.5,5.8,63.2,14.8
+783,108226,Mohamed Salah,944,Egypt,70,SecondHalf,Pass,Unsuccessful,57.5,31.6,86.7,48.4
+605,134040,Max Crocombe,1918,New Zealand,70,SecondHalf,KeeperPickup,Successful,13.7,49.9,,
+606,134040,Max Crocombe,1918,New Zealand,70,SecondHalf,Pass,Successful,15.4,48.9,29.5,13.6
+607,114686,Tim Payne,1918,New Zealand,70,SecondHalf,Dispossessed,Successful,33.6,8.6,,
+784,512753,Mostafa Zico,944,Egypt,70,SecondHalf,Tackle,Successful,66.4,91.4,,
+785,512753,Mostafa Zico,944,Egypt,70,SecondHalf,BallRecovery,Successful,61.5,89.9,,
+786,512753,Mostafa Zico,944,Egypt,70,SecondHalf,Pass,Successful,61.4,90.5,59.6,71.9
+787,108226,Mohamed Salah,944,Egypt,70,SecondHalf,Pass,Successful,63.5,67.8,66.8,63.8
+788,394749,Omar Marmoush,944,Egypt,70,SecondHalf,Pass,Successful,67,61.8,65,56.1
+789,431068,Emam Ashour,944,Egypt,70,SecondHalf,Pass,Successful,64,65.7,62.4,59.9
+790,476815,Marwan Attia,944,Egypt,70,SecondHalf,Pass,Successful,64.9,56.1,79.2,10
+791,450471,Mohamed Hany,944,Egypt,70,SecondHalf,Pass,Unsuccessful,90.1,11.3,94.1,48.5
+609,134040,Max Crocombe,1918,New Zealand,70,SecondHalf,KeeperPickup,Successful,4.2,52.3,,
+610,134040,Max Crocombe,1918,New Zealand,70,SecondHalf,Pass,Successful,12.2,49.9,39.1,46.8
+611,379696,Sarpreet Singh,1918,New Zealand,70,SecondHalf,BallTouch,Unsuccessful,34.3,45.8,,
+792,476815,Marwan Attia,944,Egypt,71,SecondHalf,BallRecovery,Successful,63.1,50.7,,
+793,476815,Marwan Attia,944,Egypt,71,SecondHalf,Pass,Successful,63.1,50.9,67.9,63.5
+794,394749,Omar Marmoush,944,Egypt,71,SecondHalf,Pass,Unsuccessful,69.9,63,86.4,38
+612,402095,Liberato Cacace,1918,New Zealand,71,SecondHalf,Clearance,Successful,13.2,63.4,21.1,79.3
+613,457096,Ben Old,1918,New Zealand,71,SecondHalf,BallRecovery,Successful,17.7,88.2,,
+614,457096,Ben Old,1918,New Zealand,71,SecondHalf,Pass,Unsuccessful,18.5,94.9,31.4,89.7
+796,450471,Mohamed Hany,944,Egypt,71,SecondHalf,BallRecovery,Successful,67.5,19.3,,
+797,450471,Mohamed Hany,944,Egypt,71,SecondHalf,Pass,Successful,67.5,19.3,70.9,19.9
+798,431068,Emam Ashour,944,Egypt,71,SecondHalf,Pass,Successful,74.4,16,73.4,18.2
+799,108226,Mohamed Salah,944,Egypt,71,SecondHalf,Pass,Successful,76.2,30.1,81.3,49.1
+800,394749,Omar Marmoush,944,Egypt,71,SecondHalf,BallTouch,Unsuccessful,81.2,48.1,,
+615,483919,Finn Surman,1918,New Zealand,71,SecondHalf,Pass,Successful,15.5,51.4,21.5,43.9
+616,114686,Tim Payne,1918,New Zealand,71,SecondHalf,BallRecovery,Successful,21.4,43.9,,
+617,114686,Tim Payne,1918,New Zealand,71,SecondHalf,Pass,Successful,38.6,45.9,55,73.3
+618,457096,Ben Old,1918,New Zealand,71,SecondHalf,Pass,Successful,61,74.8,69.7,86.7
+619,379696,Sarpreet Singh,1918,New Zealand,71,SecondHalf,Pass,Unsuccessful,68.1,88.7,69.1,87.1
+801,450472,Yasser Ibrahim,944,Egypt,71,SecondHalf,BlockedPass,Successful,30.9,12.9,,
+620,379696,Sarpreet Singh,1918,New Zealand,71,SecondHalf,BallTouch,Successful,68.8,83.7,,
+802,431069,Mohanad Lasheen,944,Egypt,71,SecondHalf,BallRecovery,Successful,31.9,17.9,,
+803,431069,Mohanad Lasheen,944,Egypt,71,SecondHalf,Pass,Successful,30.3,17.9,24.3,14.5
+804,450471,Mohamed Hany,944,Egypt,71,SecondHalf,Pass,Successful,22.9,14,28.8,8.3
+805,450472,Yasser Ibrahim,944,Egypt,71,SecondHalf,Pass,Successful,30.3,7.3,43.4,21.8
+806,512753,Mostafa Zico,944,Egypt,71,SecondHalf,Pass,Unsuccessful,43.7,21.4,44.2,23.6
+621,42898,Michael Boxall,1918,New Zealand,71,SecondHalf,BlockedPass,Successful,55.8,76.4,,
+626,402095,Liberato Cacace,1918,New Zealand,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+627,556000,Jesse Randall,1918,New Zealand,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+628,379696,Sarpreet Singh,1918,New Zealand,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+629,137327,Ryan Thomas,1918,New Zealand,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+661,,,1918,New Zealand,75,SecondHalf,FormationChange,Successful,0,0,,
+810,394749,Omar Marmoush,944,Egypt,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+811,313545,Trezeguet,944,Egypt,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+812,512753,Mostafa Zico,944,Egypt,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+813,559489,Hamza Abdelkarim,944,Egypt,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+814,,,944,Egypt,75,SecondHalf,FormationChange,Successful,0,0,,
+815,450471,Mohamed Hany,944,Egypt,76,SecondHalf,Pass,Unsuccessful,39.9,0,60.9,11.8
+630,42898,Michael Boxall,1918,New Zealand,76,SecondHalf,BallTouch,Successful,34.7,85.5,,
+817,108226,Mohamed Salah,944,Egypt,76,SecondHalf,TakeOn,Unsuccessful,63.9,28,,
+631,395377,Joe Bell,1918,New Zealand,76,SecondHalf,Tackle,Unsuccessful,36.1,72,,
+833,108226,Mohamed Salah,944,Egypt,76,SecondHalf,BallTouch,Successful,69.6,38,,
+632,443658,Marko Stamenic,1918,New Zealand,76,SecondHalf,Pass,Successful,30.2,70.6,24.7,55.6
+633,483919,Finn Surman,1918,New Zealand,76,SecondHalf,BallRecovery,Successful,25.1,55.3,,
+634,483919,Finn Surman,1918,New Zealand,76,SecondHalf,Pass,Successful,24.2,51.9,37.2,41.1
+635,455336,Elijah Just,1918,New Zealand,76,SecondHalf,TakeOn,Unsuccessful,38.4,42.5,,
+818,431065,Ahmed Fatouh,944,Egypt,76,SecondHalf,Tackle,Successful,61.6,57.5,,
+819,476815,Marwan Attia,944,Egypt,76,SecondHalf,BallRecovery,Successful,59.5,55.8,,
+820,476815,Marwan Attia,944,Egypt,76,SecondHalf,Pass,Unsuccessful,60.2,54.9,65.6,43.4
+636,443658,Marko Stamenic,1918,New Zealand,76,SecondHalf,BallRecovery,Successful,33.1,60.1,,
+637,443658,Marko Stamenic,1918,New Zealand,76,SecondHalf,Pass,Unsuccessful,38.3,61.1,63.8,31.7
+821,139468,Ramy Rabia,944,Egypt,76,SecondHalf,BallRecovery,Successful,27.9,69.3,,
+822,139468,Ramy Rabia,944,Egypt,76,SecondHalf,Pass,Successful,26.6,73.2,29,86.7
+823,431065,Ahmed Fatouh,944,Egypt,76,SecondHalf,Pass,Successful,30.9,91.4,36.4,86.1
+824,313545,Trezeguet,944,Egypt,76,SecondHalf,Pass,Unsuccessful,37.6,87.7,35.8,85.7
+639,455336,Elijah Just,1918,New Zealand,76,SecondHalf,BlockedPass,Successful,64.2,14.3,,
+825,313545,Trezeguet,944,Egypt,76,SecondHalf,BallTouch,Successful,36.5,86.6,,
+640,455336,Elijah Just,1918,New Zealand,76,SecondHalf,BallRecovery,Successful,59.4,9.1,,
+641,455336,Elijah Just,1918,New Zealand,76,SecondHalf,Pass,Successful,61.4,14.1,68.7,30.9
+642,73380,Chris Wood,1918,New Zealand,76,SecondHalf,Pass,Unsuccessful,68.7,30.9,68.8,30.1
+826,139468,Ramy Rabia,944,Egypt,76,SecondHalf,BlockedPass,Successful,31.2,69.9,,
+643,73380,Chris Wood,1918,New Zealand,76,SecondHalf,BallTouch,Successful,70.1,28.8,,
+827,476815,Marwan Attia,944,Egypt,76,SecondHalf,BallRecovery,Successful,35.1,60.5,,
+828,476815,Marwan Attia,944,Egypt,76,SecondHalf,Pass,Successful,35.1,60.5,42.3,48.8
+829,108226,Mohamed Salah,944,Egypt,76,SecondHalf,Pass,Unsuccessful,42.3,48.7,43,48.2
+644,443658,Marko Stamenic,1918,New Zealand,76,SecondHalf,BlockedPass,Successful,57,51.8,,
+830,476815,Marwan Attia,944,Egypt,76,SecondHalf,Pass,Successful,37.4,38.8,31.6,28.3
+831,450471,Mohamed Hany,944,Egypt,77,SecondHalf,Pass,Unsuccessful,31.3,29.5,85.4,15.7
+645,457096,Ben Old,1918,New Zealand,77,SecondHalf,Foul,Successful,12.8,86.6,,
+832,431068,Emam Ashour,944,Egypt,77,SecondHalf,Foul,Unsuccessful,87.2,13.4,,
+646,134040,Max Crocombe,1918,New Zealand,77,SecondHalf,Pass,Successful,7,78.3,14.3,87.7
+647,42898,Michael Boxall,1918,New Zealand,77,SecondHalf,Pass,Successful,37.2,62.2,31.4,38.8
+648,483919,Finn Surman,1918,New Zealand,77,SecondHalf,Pass,Successful,29.9,34.2,39.2,9.1
+649,114686,Tim Payne,1918,New Zealand,77,SecondHalf,Pass,Successful,38.7,8.1,39.3,24.7
+650,455336,Elijah Just,1918,New Zealand,77,SecondHalf,Pass,Successful,33.8,35.8,34.2,60.3
+651,395377,Joe Bell,1918,New Zealand,77,SecondHalf,Pass,Successful,37.7,69,48.9,74.2
+652,556000,Jesse Randall,1918,New Zealand,77,SecondHalf,Pass,Successful,48.6,74.4,41.8,63.7
+653,443658,Marko Stamenic,1918,New Zealand,77,SecondHalf,Pass,Successful,41.8,63.7,45.2,25.8
+654,483919,Finn Surman,1918,New Zealand,77,SecondHalf,Pass,Successful,45.2,25.8,57.9,34.2
+655,455336,Elijah Just,1918,New Zealand,77,SecondHalf,Pass,Successful,66.9,3.7,57.9,19.9
+656,443658,Marko Stamenic,1918,New Zealand,77,SecondHalf,Pass,Successful,63.1,34.2,65.3,25.8
+657,137327,Ryan Thomas,1918,New Zealand,78,SecondHalf,Foul,Successful,65,36.4,,
+834,313545,Trezeguet,944,Egypt,78,SecondHalf,Foul,Unsuccessful,35,63.6,,
+658,114686,Tim Payne,1918,New Zealand,78,SecondHalf,Pass,Unsuccessful,60.9,27.9,92.7,57
+838,450472,Yasser Ibrahim,944,Egypt,78,SecondHalf,Foul,Successful,7,45.6,,
+659,73380,Chris Wood,1918,New Zealand,78,SecondHalf,Foul,Unsuccessful,93,54.4,,
+839,519797,Mostafa Shobeir,944,Egypt,79,SecondHalf,Pass,Unsuccessful,9.3,47.2,67.8,19.2
+662,457096,Ben Old,1918,New Zealand,79,SecondHalf,Pass,Unsuccessful,27.6,84.7,39.1,87
+840,431068,Emam Ashour,944,Egypt,79,SecondHalf,Pass,Successful,61,32.2,64.5,35.5
+841,559489,Hamza Abdelkarim,944,Egypt,79,SecondHalf,Pass,Successful,65,36.2,70.6,39.7
+842,108226,Mohamed Salah,944,Egypt,79,SecondHalf,BallTouch,Unsuccessful,70.6,39.7,,
+663,483919,Finn Surman,1918,New Zealand,79,SecondHalf,BallRecovery,Successful,28,64.8,,
+664,483919,Finn Surman,1918,New Zealand,79,SecondHalf,Pass,Successful,25.5,59.1,8.5,52
+665,134040,Max Crocombe,1918,New Zealand,79,SecondHalf,Pass,Successful,8.9,48.3,14.3,89.1
+666,457096,Ben Old,1918,New Zealand,79,SecondHalf,Pass,Unsuccessful,25.5,89.8,36,84.6
+843,431069,Mohanad Lasheen,944,Egypt,79,SecondHalf,Interception,Successful,64,15.4,,
+844,108226,Mohamed Salah,944,Egypt,79,SecondHalf,BallRecovery,Successful,69,13,,
+845,108226,Mohamed Salah,944,Egypt,79,SecondHalf,Pass,Successful,73.6,9.2,74.4,16.1
+846,431068,Emam Ashour,944,Egypt,79,SecondHalf,Pass,Unsuccessful,87.4,17,86.6,49.6
+667,114686,Tim Payne,1918,New Zealand,79,SecondHalf,Clearance,Successful,13.2,47.7,21.4,25.9
+668,455336,Elijah Just,1918,New Zealand,79,SecondHalf,Challenge,Unsuccessful,14.2,32.8,,
+847,431065,Ahmed Fatouh,944,Egypt,79,SecondHalf,TakeOn,Successful,85.8,67.2,,
+848,431065,Ahmed Fatouh,944,Egypt,79,SecondHalf,SavedShot,Successful,87.1,67.9,,
+669,134040,Max Crocombe,1918,New Zealand,79,SecondHalf,Save,Successful,2.4,47.1,,
+670,134040,Max Crocombe,1918,New Zealand,79,SecondHalf,KeeperPickup,Successful,2.4,47.1,,
+671,134040,Max Crocombe,1918,New Zealand,80,SecondHalf,Pass,Unsuccessful,15.4,38.7,74.7,1.8
+849,139468,Ramy Rabia,944,Egypt,80,SecondHalf,BallRecovery,Successful,28.1,89.1,,
+850,139468,Ramy Rabia,944,Egypt,80,SecondHalf,Pass,Unsuccessful,23.8,87.8,62,42.1
+672,42898,Michael Boxall,1918,New Zealand,80,SecondHalf,Pass,Unsuccessful,41.6,58.6,60.8,69.3
+851,450471,Mohamed Hany,944,Egypt,80,SecondHalf,Pass,Successful,38.5,34.1,43.2,37.9
+852,431069,Mohanad Lasheen,944,Egypt,80,SecondHalf,Pass,Successful,43.9,37.9,56.2,13.6
+853,431068,Emam Ashour,944,Egypt,80,SecondHalf,Pass,Successful,63.1,13.6,68.7,8
+854,450471,Mohamed Hany,944,Egypt,80,SecondHalf,Pass,Successful,69.3,7.9,68.7,17.2
+855,431068,Emam Ashour,944,Egypt,80,SecondHalf,Pass,Successful,69.1,21.2,82.1,8.5
+856,108226,Mohamed Salah,944,Egypt,80,SecondHalf,Pass,Successful,88.3,12.4,87.5,23.8
+857,431068,Emam Ashour,944,Egypt,80,SecondHalf,Pass,Successful,87.5,23.9,84.1,27.2
+858,108226,Mohamed Salah,944,Egypt,80,SecondHalf,SavedShot,Successful,83.9,33.8,,
+673,395377,Joe Bell,1918,New Zealand,80,SecondHalf,Save,Successful,13.7,59.3,,
+674,395377,Joe Bell,1918,New Zealand,80,SecondHalf,CornerAwarded,Unsuccessful,15.2,64.8,,
+859,108226,Mohamed Salah,944,Egypt,80,SecondHalf,CornerAwarded,Successful,84.8,35.2,,
+860,108226,Mohamed Salah,944,Egypt,81,SecondHalf,Pass,Successful,99.5,99.5,93.4,59.3
+861,313545,Trezeguet,944,Egypt,81,SecondHalf,Goal,Successful,93.4,59.3,,
+675,73380,Chris Wood,1918,New Zealand,82,SecondHalf,Pass,Successful,50.1,50.1,43.7,46.9
+676,395377,Joe Bell,1918,New Zealand,82,SecondHalf,Pass,Successful,44.6,47.7,44.5,63.9
+677,443658,Marko Stamenic,1918,New Zealand,82,SecondHalf,Pass,Successful,44.5,69.9,37,89.4
+678,457096,Ben Old,1918,New Zealand,82,SecondHalf,Pass,Successful,37.9,88.9,31.5,64.3
+679,42898,Michael Boxall,1918,New Zealand,82,SecondHalf,Pass,Successful,30.7,63.4,28.4,35.8
+680,483919,Finn Surman,1918,New Zealand,82,SecondHalf,Pass,Successful,26.1,34.8,32.5,4
+681,114686,Tim Payne,1918,New Zealand,82,SecondHalf,Pass,Unsuccessful,32.5,4,35,4.6
+862,313545,Trezeguet,944,Egypt,82,SecondHalf,BlockedPass,Successful,65,95.4,,
+683,114686,Tim Payne,1918,New Zealand,83,SecondHalf,Pass,Successful,30.2,0,33.6,12.6
+684,395377,Joe Bell,1918,New Zealand,83,SecondHalf,Pass,Unsuccessful,33.2,12.6,53.3,27
+864,450472,Yasser Ibrahim,944,Egypt,83,SecondHalf,Pass,Unsuccessful,46.8,68.9,62.4,44.9
+685,42898,Michael Boxall,1918,New Zealand,83,SecondHalf,Pass,Unsuccessful,34.3,50.8,37.1,35.2
+866,313545,Trezeguet,944,Egypt,83,SecondHalf,BallRecovery,Successful,63,77.9,,
+865,313545,Trezeguet,944,Egypt,83,SecondHalf,Pass,Successful,61.5,66.5,73.9,76.5
+867,108226,Mohamed Salah,944,Egypt,83,SecondHalf,Pass,Successful,85.8,77.6,89.9,50.3
+686,42898,Michael Boxall,1918,New Zealand,83,SecondHalf,Foul,Successful,7.8,51.6,,
+868,559489,Hamza Abdelkarim,944,Egypt,83,SecondHalf,Foul,Unsuccessful,92.2,48.4,,
+871,431068,Emam Ashour,944,Egypt,84,SecondHalf,SubstitutionOff,Successful,0,0,,
+872,333238,Zizo,944,Egypt,84,SecondHalf,SubstitutionOn,Successful,0,0,,
+869,108226,Mohamed Salah,944,Egypt,84,SecondHalf,SubstitutionOff,Successful,0,0,,
+870,499595,Hossam Abdelmaguid,944,Egypt,84,SecondHalf,SubstitutionOn,Successful,0,0,,
+873,,,944,Egypt,84,SecondHalf,FormationChange,Successful,0,0,,
+687,114686,Tim Payne,1918,New Zealand,84,SecondHalf,SubstitutionOff,Successful,0,0,,
+688,496299,Tyler Bindon,1918,New Zealand,84,SecondHalf,SubstitutionOn,Successful,0,0,,
+689,455336,Elijah Just,1918,New Zealand,84,SecondHalf,SubstitutionOff,Successful,0,0,,
+690,455329,Francis de Vries,1918,New Zealand,84,SecondHalf,SubstitutionOn,Successful,0,0,,
+803,,,1918,New Zealand,85,SecondHalf,FormationChange,Successful,0,0,,
+691,134040,Max Crocombe,1918,New Zealand,85,SecondHalf,Pass,Successful,7.9,52.2,26,32.5
+692,483919,Finn Surman,1918,New Zealand,85,SecondHalf,Pass,Successful,26.1,35,25.5,61.7
+693,42898,Michael Boxall,1918,New Zealand,85,SecondHalf,Pass,Successful,24.9,58.9,33.2,62.1
+694,443658,Marko Stamenic,1918,New Zealand,85,SecondHalf,Pass,Successful,32.6,57,58.3,6.9
+695,496299,Tyler Bindon,1918,New Zealand,85,SecondHalf,Pass,Successful,46.1,11.7,29.6,14.8
+696,483919,Finn Surman,1918,New Zealand,85,SecondHalf,Pass,Successful,29.4,13.3,18.8,42
+697,134040,Max Crocombe,1918,New Zealand,85,SecondHalf,Pass,Successful,19.2,42.3,27.5,25.5
+698,483919,Finn Surman,1918,New Zealand,85,SecondHalf,Pass,Successful,31,23.8,46.6,28.9
+699,137327,Ryan Thomas,1918,New Zealand,85,SecondHalf,Pass,Successful,45.4,24.4,56,5.5
+700,496299,Tyler Bindon,1918,New Zealand,85,SecondHalf,Pass,Successful,55.4,3.1,90.9,18.7
+701,556000,Jesse Randall,1918,New Zealand,85,SecondHalf,Pass,Unsuccessful,95,22.6,93.9,26.2
+874,139468,Ramy Rabia,944,Egypt,85,SecondHalf,BlockedPass,Successful,6.1,73.8,,
+702,556000,Jesse Randall,1918,New Zealand,85,SecondHalf,BallTouch,Successful,93.9,26.2,,
+876,519797,Mostafa Shobeir,944,Egypt,85,SecondHalf,Pass,Unsuccessful,4.4,55.7,64.1,75
+704,483919,Finn Surman,1918,New Zealand,86,SecondHalf,Aerial,Successful,35.9,25,,
+895,559489,Hamza Abdelkarim,944,Egypt,86,SecondHalf,Aerial,Unsuccessful,64.1,75,,
+705,483919,Finn Surman,1918,New Zealand,86,SecondHalf,BallTouch,Successful,41.4,27,,
+706,496299,Tyler Bindon,1918,New Zealand,86,SecondHalf,Pass,Unsuccessful,33.9,19,47.2,10.3
+877,559489,Hamza Abdelkarim,944,Egypt,86,SecondHalf,BallTouch,Unsuccessful,56.8,79.4,,
+707,496299,Tyler Bindon,1918,New Zealand,86,SecondHalf,BallRecovery,Successful,35.3,5.7,,
+708,496299,Tyler Bindon,1918,New Zealand,86,SecondHalf,Pass,Unsuccessful,49.8,1.2,52.7,2.1
+878,476815,Marwan Attia,944,Egypt,86,SecondHalf,BlockedPass,Successful,47.3,97.9,,
+710,496299,Tyler Bindon,1918,New Zealand,86,SecondHalf,Pass,Successful,57.5,0,65.2,3.6
+711,137327,Ryan Thomas,1918,New Zealand,86,SecondHalf,Pass,Unsuccessful,65,1.1,67,2.7
+880,313545,Trezeguet,944,Egypt,86,SecondHalf,BlockedPass,Successful,33,97.3,,
+712,137327,Ryan Thomas,1918,New Zealand,86,SecondHalf,BallTouch,Successful,66.7,2.8,,
+905,313545,Trezeguet,944,Egypt,86,SecondHalf,ShieldBallOpp,Successful,30.9,95.5,,
+882,431065,Ahmed Fatouh,944,Egypt,86,SecondHalf,Pass,Successful,31.9,100,17.4,86.9
+883,139468,Ramy Rabia,944,Egypt,86,SecondHalf,Pass,Successful,17.3,87,19.4,90.9
+884,431065,Ahmed Fatouh,944,Egypt,86,SecondHalf,Dispossessed,Successful,17.8,93.8,,
+714,137327,Ryan Thomas,1918,New Zealand,86,SecondHalf,Tackle,Successful,82.2,6.2,,
+715,137327,Ryan Thomas,1918,New Zealand,86,SecondHalf,BallRecovery,Successful,87.7,2.8,,
+716,137327,Ryan Thomas,1918,New Zealand,86,SecondHalf,Pass,Unsuccessful,87.5,2.1,87.3,3.6
+885,139468,Ramy Rabia,944,Egypt,86,SecondHalf,BlockedPass,Successful,12.7,96.4,,
+718,42898,Michael Boxall,1918,New Zealand,86,SecondHalf,Pass,Unsuccessful,83.5,0,92.4,44.2
+887,499595,Hossam Abdelmaguid,944,Egypt,86,SecondHalf,Aerial,Successful,7.6,55.8,,
+719,73380,Chris Wood,1918,New Zealand,86,SecondHalf,Aerial,Unsuccessful,92.4,44.2,,
+888,499595,Hossam Abdelmaguid,944,Egypt,86,SecondHalf,Clearance,Successful,8,55.2,21.1,41.1
+720,395377,Joe Bell,1918,New Zealand,86,SecondHalf,Pass,Successful,78.4,56.6,85.6,40.6
+721,483919,Finn Surman,1918,New Zealand,87,SecondHalf,Pass,Successful,85.5,40.9,89,47.9
+723,496299,Tyler Bindon,1918,New Zealand,87,SecondHalf,Pass,Unsuccessful,87.3,47.2,86.3,48.5
+890,499595,Hossam Abdelmaguid,944,Egypt,87,SecondHalf,Clearance,Successful,13.8,51.7,19.9,51.3
+891,476815,Marwan Attia,944,Egypt,87,SecondHalf,BallTouch,Unsuccessful,25.6,54.9,,
+724,42898,Michael Boxall,1918,New Zealand,87,SecondHalf,Pass,Successful,66,36.9,74.7,81.3
+725,457096,Ben Old,1918,New Zealand,87,SecondHalf,Pass,Successful,70.3,80.4,72.6,89.5
+726,395377,Joe Bell,1918,New Zealand,87,SecondHalf,Pass,Successful,72.6,89.5,60.9,73.8
+727,455329,Francis de Vries,1918,New Zealand,87,SecondHalf,Pass,Unsuccessful,60.2,79.9,86.4,22
+892,431065,Ahmed Fatouh,944,Egypt,87,SecondHalf,Aerial,Successful,13.6,78,,
+728,556000,Jesse Randall,1918,New Zealand,87,SecondHalf,Aerial,Unsuccessful,86.4,22,,
+893,431065,Ahmed Fatouh,944,Egypt,87,SecondHalf,BallTouch,Successful,12.7,76.8,,
+730,42898,Michael Boxall,1918,New Zealand,87,SecondHalf,Pass,Unsuccessful,88.4,0,90.7,45.6
+896,431069,Mohanad Lasheen,944,Egypt,87,SecondHalf,Clearance,Successful,10.5,52.8,0,63.8
+897,431069,Mohanad Lasheen,944,Egypt,87,SecondHalf,CornerAwarded,Unsuccessful,2.8,60,,
+731,42898,Michael Boxall,1918,New Zealand,87,SecondHalf,CornerAwarded,Successful,97.2,40,,
+11743,73380,Chris Wood,1918,New Zealand,88,SecondHalf,OffsideGiven,Unsuccessful,81.1,60.7,,
+732,455329,Francis de Vries,1918,New Zealand,88,SecondHalf,Pass,Unsuccessful,99.4,0.2,92,54.2
+898,499595,Hossam Abdelmaguid,944,Egypt,88,SecondHalf,Aerial,Successful,8.1,46.4,,
+733,73380,Chris Wood,1918,New Zealand,88,SecondHalf,Aerial,Unsuccessful,91.9,53.6,,
+899,499595,Hossam Abdelmaguid,944,Egypt,88,SecondHalf,Clearance,Successful,8,46.4,27.6,29.8
+900,333238,Zizo,944,Egypt,88,SecondHalf,BallRecovery,Successful,29.7,30.2,,
+901,333238,Zizo,944,Egypt,88,SecondHalf,Pass,Successful,31.4,30.8,27.6,29
+902,476815,Marwan Attia,944,Egypt,88,SecondHalf,Pass,Unsuccessful,28.3,29.5,66.7,49.6
+734,457096,Ben Old,1918,New Zealand,88,SecondHalf,BallRecovery,Successful,21.9,32.1,,
+735,457096,Ben Old,1918,New Zealand,88,SecondHalf,Pass,Successful,31.5,15,37.2,6.3
+736,455329,Francis de Vries,1918,New Zealand,88,SecondHalf,Pass,Successful,45.1,46.6,31,57
+737,42898,Michael Boxall,1918,New Zealand,88,SecondHalf,Pass,Successful,31.1,57.3,39.7,85
+738,395377,Joe Bell,1918,New Zealand,88,SecondHalf,Pass,Successful,39.6,83.5,30.7,66.3
+739,42898,Michael Boxall,1918,New Zealand,88,SecondHalf,Pass,Successful,29.7,64,32.1,37.2
+740,483919,Finn Surman,1918,New Zealand,88,SecondHalf,Pass,Successful,40.1,27.1,54.8,25
+741,137327,Ryan Thomas,1918,New Zealand,88,SecondHalf,Pass,Successful,53.9,23.4,38.3,52.8
+742,42898,Michael Boxall,1918,New Zealand,88,SecondHalf,Pass,Successful,45.1,61,60.9,90.4
+743,455329,Francis de Vries,1918,New Zealand,88,SecondHalf,OffsidePass,Successful,67.5,94.8,81.1,60.7
+904,139468,Ramy Rabia,944,Egypt,88,SecondHalf,OffsideProvoked,Successful,20.4,45.8,,
+906,519797,Mostafa Shobeir,944,Egypt,89,SecondHalf,Pass,Unsuccessful,22.5,37.7,66.4,74.9
+746,496299,Tyler Bindon,1918,New Zealand,89,SecondHalf,Aerial,Successful,33.6,25.1,,
+907,313545,Trezeguet,944,Egypt,89,SecondHalf,Aerial,Unsuccessful,66.4,74.9,,
+747,496299,Tyler Bindon,1918,New Zealand,89,SecondHalf,Pass,Successful,33.6,25.1,46,26.5
+748,137327,Ryan Thomas,1918,New Zealand,89,SecondHalf,Pass,Successful,44.3,16.8,40.3,10.7
+749,556000,Jesse Randall,1918,New Zealand,89,SecondHalf,BallRecovery,Successful,50.5,11.1,,
+908,431065,Ahmed Fatouh,944,Egypt,89,SecondHalf,Challenge,Unsuccessful,36.3,81.8,,
+750,556000,Jesse Randall,1918,New Zealand,89,SecondHalf,TakeOn,Successful,63.7,18.2,,
+751,556000,Jesse Randall,1918,New Zealand,89,SecondHalf,BallTouch,Unsuccessful,76.7,43.6,,
+910,431069,Mohanad Lasheen,944,Egypt,89,SecondHalf,BallRecovery,Successful,24.9,45.4,,
+911,431069,Mohanad Lasheen,944,Egypt,89,SecondHalf,Pass,Unsuccessful,25.4,40,75.9,13.3
+752,42898,Michael Boxall,1918,New Zealand,89,SecondHalf,BallRecovery,Successful,20.1,91.9,,
+753,42898,Michael Boxall,1918,New Zealand,89,SecondHalf,Pass,Successful,20.1,91.9,7.4,72
+754,134040,Max Crocombe,1918,New Zealand,89,SecondHalf,Pass,Successful,8.4,70.9,26,81.9
+755,455329,Francis de Vries,1918,New Zealand,89,SecondHalf,Pass,Unsuccessful,28.2,86.9,72.1,62.2
+912,450472,Yasser Ibrahim,944,Egypt,90,SecondHalf,Clearance,Successful,27.1,41.3,42.3,41.3
+913,499595,Hossam Abdelmaguid,944,Egypt,90,SecondHalf,Pass,Successful,42.6,40.3,52.6,54.4
+914,313545,Trezeguet,944,Egypt,90,SecondHalf,Pass,Unsuccessful,50.6,57.5,61.4,33.6
+756,443658,Marko Stamenic,1918,New Zealand,90,SecondHalf,Pass,Successful,37.4,62.1,14.4,45.7
+757,134040,Max Crocombe,1918,New Zealand,90,SecondHalf,Pass,Successful,18.8,48.3,29.2,31
+758,483919,Finn Surman,1918,New Zealand,90,SecondHalf,Pass,Successful,28.5,32.7,39.6,31
+759,395377,Joe Bell,1918,New Zealand,90,SecondHalf,Pass,Successful,39.6,30.6,53.2,34.8
+760,137327,Ryan Thomas,1918,New Zealand,90,SecondHalf,Pass,Successful,51.3,33.7,46.8,44.8
+761,395377,Joe Bell,1918,New Zealand,90,SecondHalf,Pass,Successful,55,52,52.6,78.1
+762,443658,Marko Stamenic,1918,New Zealand,90,SecondHalf,Pass,Successful,54.6,80.2,67,88.9
+763,457096,Ben Old,1918,New Zealand,90,SecondHalf,Pass,Unsuccessful,64.7,93.3,62.6,93
+916,476815,Marwan Attia,944,Egypt,90,SecondHalf,BlockedPass,Successful,37.4,7,,
+765,443658,Marko Stamenic,1918,New Zealand,90,SecondHalf,Pass,Successful,48.7,100,53.7,85.4
+766,395377,Joe Bell,1918,New Zealand,90,SecondHalf,Pass,Successful,54,86.9,49.7,95.1
+767,443658,Marko Stamenic,1918,New Zealand,90,SecondHalf,Pass,Successful,49.7,93.9,46.8,79.2
+768,395377,Joe Bell,1918,New Zealand,90,SecondHalf,Pass,Successful,47.2,75.9,51.8,33.7
+769,483919,Finn Surman,1918,New Zealand,90,SecondHalf,Pass,Successful,58.5,34.3,64,50.4
+770,395377,Joe Bell,1918,New Zealand,90,SecondHalf,Pass,Unsuccessful,64.7,48.6,66.9,43.9
+918,431069,Mohanad Lasheen,944,Egypt,90,SecondHalf,BallTouch,Successful,32,56.4,,
+920,431065,Ahmed Fatouh,944,Egypt,90,SecondHalf,BallRecovery,Successful,28.7,56,,
+919,431065,Ahmed Fatouh,944,Egypt,90,SecondHalf,Pass,Successful,23.3,63.6,28.7,56
+921,499595,Hossam Abdelmaguid,944,Egypt,90,SecondHalf,Pass,Unsuccessful,28.7,56,45.5,65.1
+771,483919,Finn Surman,1918,New Zealand,90,SecondHalf,BallRecovery,Successful,48.9,32.5,,
+772,483919,Finn Surman,1918,New Zealand,90,SecondHalf,Pass,Successful,47.4,32.5,57.1,35.5
+773,137327,Ryan Thomas,1918,New Zealand,91,SecondHalf,Pass,Successful,79.8,4.2,71.2,12.1
+774,496299,Tyler Bindon,1918,New Zealand,91,SecondHalf,Pass,Successful,71.2,12.1,84.9,0.9
+775,137327,Ryan Thomas,1918,New Zealand,91,SecondHalf,Pass,Unsuccessful,85,0.7,95.9,52.3
+922,519797,Mostafa Shobeir,944,Egypt,91,SecondHalf,Punch,Unsuccessful,4.1,47.7,9,22.9
+776,455329,Francis de Vries,1918,New Zealand,91,SecondHalf,Pass,Successful,87.8,97.6,65.9,84.1
+777,42898,Michael Boxall,1918,New Zealand,91,SecondHalf,Pass,Successful,67.5,84.6,65.8,63.3
+778,443658,Marko Stamenic,1918,New Zealand,91,SecondHalf,Pass,Unsuccessful,65,58.6,96.8,37.6
+923,519797,Mostafa Shobeir,944,Egypt,91,SecondHalf,Foul,Successful,5.4,60.8,,
+779,496299,Tyler Bindon,1918,New Zealand,91,SecondHalf,Foul,Unsuccessful,94.6,39.2,,
+924,519797,Mostafa Shobeir,944,Egypt,92,SecondHalf,Pass,Successful,13.3,61.7,62.6,64.5
+925,559489,Hamza Abdelkarim,944,Egypt,92,SecondHalf,Aerial,Successful,62.6,64.5,,
+780,483919,Finn Surman,1918,New Zealand,92,SecondHalf,Aerial,Unsuccessful,37.4,35.5,,
+926,559489,Hamza Abdelkarim,944,Egypt,92,SecondHalf,Pass,Unsuccessful,62.6,64.5,78.4,48.8
+781,455329,Francis de Vries,1918,New Zealand,92,SecondHalf,Pass,Unsuccessful,17.8,53.1,10.1,43.8
+782,455329,Francis de Vries,1918,New Zealand,92,SecondHalf,Error,Successful,9.5,44.2,,
+927,333238,Zizo,944,Egypt,92,SecondHalf,TakeOn,Successful,91.3,57.6,,
+786,134040,Max Crocombe,1918,New Zealand,92,SecondHalf,Challenge,Unsuccessful,8.7,42.4,,
+928,333238,Zizo,944,Egypt,92,SecondHalf,SavedShot,Successful,96.4,59.1,,
+783,134040,Max Crocombe,1918,New Zealand,92,SecondHalf,Save,Successful,2.1,43.5,,
+784,395377,Joe Bell,1918,New Zealand,92,SecondHalf,BallRecovery,Successful,31.4,32.4,,
+785,395377,Joe Bell,1918,New Zealand,92,SecondHalf,Pass,Unsuccessful,34.3,33.3,56.3,63.3
+929,450471,Mohamed Hany,944,Egypt,92,SecondHalf,BallRecovery,Successful,42.7,36.2,,
+930,450471,Mohamed Hany,944,Egypt,92,SecondHalf,Pass,Successful,48.4,41.5,53,56.9
+931,431069,Mohanad Lasheen,944,Egypt,92,SecondHalf,Pass,Successful,54.8,51.9,61.8,18.5
+932,476815,Marwan Attia,944,Egypt,92,SecondHalf,Pass,Successful,62.4,17.9,59,24.1
+933,450471,Mohamed Hany,944,Egypt,92,SecondHalf,Pass,Unsuccessful,59,24.1,59.8,25.9
+787,137327,Ryan Thomas,1918,New Zealand,92,SecondHalf,BlockedPass,Successful,40.2,74.1,,
+934,450471,Mohamed Hany,944,Egypt,92,SecondHalf,BallTouch,Successful,59.8,25.9,,
+788,457096,Ben Old,1918,New Zealand,92,SecondHalf,BallRecovery,Successful,36.8,72.1,,
+789,457096,Ben Old,1918,New Zealand,92,SecondHalf,Pass,Successful,36.8,72.1,62.3,71.7
+790,73380,Chris Wood,1918,New Zealand,92,SecondHalf,Pass,Successful,62.3,71.7,52.5,63.7
+791,457096,Ben Old,1918,New Zealand,92,SecondHalf,Pass,Successful,66.7,48.4,60.7,35.1
+792,395377,Joe Bell,1918,New Zealand,92,SecondHalf,Pass,Successful,62.1,34.9,55.4,17.4
+935,431069,Mohanad Lasheen,944,Egypt,92,SecondHalf,Challenge,Unsuccessful,37.2,74,,
+793,496299,Tyler Bindon,1918,New Zealand,92,SecondHalf,TakeOn,Successful,62.8,26,,
+794,496299,Tyler Bindon,1918,New Zealand,92,SecondHalf,Pass,Successful,64.7,17.1,87.2,23.7
+795,457096,Ben Old,1918,New Zealand,92,SecondHalf,TakeOn,Unsuccessful,87.8,24.7,,
+936,139468,Ramy Rabia,944,Egypt,92,SecondHalf,Tackle,Successful,12,75.2,,
+796,457096,Ben Old,1918,New Zealand,92,SecondHalf,CornerAwarded,Successful,88.3,25.2,,
+937,139468,Ramy Rabia,944,Egypt,92,SecondHalf,CornerAwarded,Unsuccessful,11.6,74.7,,
+797,455329,Francis de Vries,1918,New Zealand,93,SecondHalf,Pass,Successful,99.5,0.5,93,62.8
+798,496299,Tyler Bindon,1918,New Zealand,93,SecondHalf,Pass,Unsuccessful,93,65.7,95.2,47.1
+938,499595,Hossam Abdelmaguid,944,Egypt,93,SecondHalf,Clearance,Successful,5.6,48.9,4.8,39.3
+799,137327,Ryan Thomas,1918,New Zealand,93,SecondHalf,Pass,Unsuccessful,96.9,60.5,96.4,51.2
+939,499595,Hossam Abdelmaguid,944,Egypt,93,SecondHalf,Aerial,Successful,3.6,48.8,,
+802,42898,Michael Boxall,1918,New Zealand,93,SecondHalf,Aerial,Unsuccessful,96.4,51.2,,
+940,499595,Hossam Abdelmaguid,944,Egypt,93,SecondHalf,Clearance,Successful,3.6,48.8,15.7,46
+941,559489,Hamza Abdelkarim,944,Egypt,93,SecondHalf,Pass,Unsuccessful,14.1,53.3,56,72.5
+800,395377,Joe Bell,1918,New Zealand,93,SecondHalf,Pass,Successful,44,23.4,39.4,65.7
+806,42898,Michael Boxall,1918,New Zealand,97,SecondHalf,Pass,Unsuccessful,57,68.7,88.4,82.3
+946,450471,Mohamed Hany,944,Egypt,97,SecondHalf,Clearance,Successful,14.6,17.9,35.1,0
+808,443658,Marko Stamenic,1918,New Zealand,97,SecondHalf,Pass,Successful,69.3,100,77.5,90.9
+809,457096,Ben Old,1918,New Zealand,97,SecondHalf,Pass,Successful,77.6,90.4,72.4,95.2
+810,443658,Marko Stamenic,1918,New Zealand,97,SecondHalf,Pass,Successful,72.4,95.2,82.5,96.7
+811,455329,Francis de Vries,1918,New Zealand,97,SecondHalf,Dispossessed,Successful,85.2,96.2,,
+948,431069,Mohanad Lasheen,944,Egypt,97,SecondHalf,Tackle,Successful,14.8,3.8,,
+813,455329,Francis de Vries,1918,New Zealand,97,SecondHalf,Pass,Unsuccessful,88.1,100,96.1,53.2
+950,519797,Mostafa Shobeir,944,Egypt,97,SecondHalf,Aerial,Successful,3.9,46.8,,
+814,496299,Tyler Bindon,1918,New Zealand,97,SecondHalf,Aerial,Unsuccessful,96.1,53.2,,
+951,519797,Mostafa Shobeir,944,Egypt,97,SecondHalf,Punch,Unsuccessful,3.8,46.8,17.9,50.1
+815,443658,Marko Stamenic,1918,New Zealand,97,SecondHalf,MissedShots,Successful,82.8,44.3,,
+816,496299,Tyler Bindon,1918,New Zealand,97,SecondHalf,SavedShot,Successful,94.8,54.2,,
+952,519797,Mostafa Shobeir,944,Egypt,97,SecondHalf,Save,Successful,1,49.1,,
+817,42898,Michael Boxall,1918,New Zealand,97,SecondHalf,BallTouch,Unsuccessful,86.5,62.4,,
+953,431069,Mohanad Lasheen,944,Egypt,97,SecondHalf,Clearance,Successful,7.4,47,16,48.8
+954,559489,Hamza Abdelkarim,944,Egypt,97,SecondHalf,Clearance,Successful,16.4,49.1,35.2,48.4
+955,313545,Trezeguet,944,Egypt,97,SecondHalf,BallRecovery,Successful,35.2,48.4,,
+956,313545,Trezeguet,944,Egypt,97,SecondHalf,Pass,Successful,48.9,44.6,69.4,32.5
+957,333238,Zizo,944,Egypt,97,SecondHalf,Pass,Unsuccessful,71.2,32.2,92.6,43.1
+820,134040,Max Crocombe,1918,New Zealand,97,SecondHalf,Smother,Successful,7.4,56.9,,
+818,134040,Max Crocombe,1918,New Zealand,97,SecondHalf,BallTouch,Unsuccessful,6.3,58.6,,
+958,313545,Trezeguet,944,Egypt,97,SecondHalf,BallTouch,Successful,92.8,43.4,,
+960,499595,Hossam Abdelmaguid,944,Egypt,98,SecondHalf,SubstitutionOff,Successful,0,0,,
+961,431067,Mohamed Abdelmonem,944,Egypt,98,SecondHalf,SubstitutionOn,Successful,0,0,,
+821,134040,Max Crocombe,1918,New Zealand,98,SecondHalf,Pass,Successful,4.1,50.1,15.3,41.1
+822,483919,Finn Surman,1918,New Zealand,98,SecondHalf,Pass,Successful,29.3,39.4,34.4,59.8
+823,42898,Michael Boxall,1918,New Zealand,98,SecondHalf,Pass,Successful,37,58.9,58.7,93.6
+824,455329,Francis de Vries,1918,New Zealand,98,SecondHalf,Pass,Unsuccessful,64,93,77.4,57
+962,431067,Mohamed Abdelmonem,944,Egypt,98,SecondHalf,Clearance,Successful,21.2,42.5,26.3,59
+964,476815,Marwan Attia,944,Egypt,98,SecondHalf,BallRecovery,Successful,33.8,85.9,,
+963,476815,Marwan Attia,944,Egypt,98,SecondHalf,Pass,Successful,27.8,61.7,41.5,78.9
+965,313545,Trezeguet,944,Egypt,98,SecondHalf,Pass,Unsuccessful,60,77.3,77.1,84.8
+825,42898,Michael Boxall,1918,New Zealand,98,SecondHalf,Pass,Successful,20.4,7.8,39,4.8
+826,556000,Jesse Randall,1918,New Zealand,98,SecondHalf,BallRecovery,Successful,37.4,4.6,,
+827,556000,Jesse Randall,1918,New Zealand,98,SecondHalf,Pass,Successful,33.9,4.3,34.9,17.1
+828,483919,Finn Surman,1918,New Zealand,98,SecondHalf,Pass,Unsuccessful,41.4,35.4,41.9,35.8
+966,559489,Hamza Abdelkarim,944,Egypt,98,SecondHalf,BlockedPass,Successful,58.1,64.2,,
+967,431067,Mohamed Abdelmonem,944,Egypt,99,SecondHalf,BallRecovery,Successful,51.6,52.1,,
+968,431067,Mohamed Abdelmonem,944,Egypt,99,SecondHalf,Pass,Successful,52.6,52.3,53.6,43.6
+969,476815,Marwan Attia,944,Egypt,99,SecondHalf,Pass,Successful,53.3,41.9,43,47.7
+970,450472,Yasser Ibrahim,944,Egypt,99,SecondHalf,Pass,Successful,31.3,43.1,14.3,45.5
+971,519797,Mostafa Shobeir,944,Egypt,99,SecondHalf,Pass,Unsuccessful,14.2,48.2,67.9,61.7
+829,496299,Tyler Bindon,1918,New Zealand,99,SecondHalf,Pass,Successful,26.2,27.4,14.2,42.1
+830,134040,Max Crocombe,1918,New Zealand,99,SecondHalf,KeeperPickup,Successful,13.3,40.5,,
+831,134040,Max Crocombe,1918,New Zealand,99,SecondHalf,Pass,Successful,13.6,39.4,31.4,16.2
+832,496299,Tyler Bindon,1918,New Zealand,99,SecondHalf,Pass,Successful,37,17.4,73,68.7
+833,73380,Chris Wood,1918,New Zealand,99,SecondHalf,Aerial,Successful,73,68.7,,
+972,450471,Mohamed Hany,944,Egypt,99,SecondHalf,Aerial,Unsuccessful,27,31.3,,
+834,73380,Chris Wood,1918,New Zealand,99,SecondHalf,Pass,Unsuccessful,73,68.7,71.4,62.8
+973,450472,Yasser Ibrahim,944,Egypt,99,SecondHalf,Clearance,Successful,24.1,30.8,59.5,72.6
+974,313545,Trezeguet,944,Egypt,99,SecondHalf,BallRecovery,Successful,59.5,72.6,,
+975,313545,Trezeguet,944,Egypt,99,SecondHalf,Pass,Successful,56.7,77.3,56.4,60.3
+976,476815,Marwan Attia,944,Egypt,99,SecondHalf,Pass,Successful,60.3,56.4,67.9,28
+977,333238,Zizo,944,Egypt,99,SecondHalf,Pass,Successful,73.7,41.2,66,62
+978,431065,Ahmed Fatouh,944,Egypt,99,SecondHalf,Pass,Successful,65.8,62,63.3,44.6
+979,431067,Mohamed Abdelmonem,944,Egypt,99,SecondHalf,Pass,Successful,63.3,43,68.3,30.1
+980,476815,Marwan Attia,944,Egypt,99,SecondHalf,Pass,Successful,66.4,23.5,64.5,40.3
+981,431069,Mohanad Lasheen,944,Egypt,99,SecondHalf,Pass,Successful,64.8,36.7,66,22.4
+982,476815,Marwan Attia,944,Egypt,99,SecondHalf,Pass,Successful,66,20.9,72.6,12.1
+983,450471,Mohamed Hany,944,Egypt,99,SecondHalf,Pass,Successful,72.7,11.8,85.4,16.9
+984,333238,Zizo,944,Egypt,99,SecondHalf,Pass,Unsuccessful,90.8,16.7,90.9,21.5
+835,42898,Michael Boxall,1918,New Zealand,99,SecondHalf,Clearance,Successful,9.1,78.5,,
+836,42898,Michael Boxall,1918,New Zealand,100,SecondHalf,CornerAwarded,Unsuccessful,4.4,100,,
+986,333238,Zizo,944,Egypt,100,SecondHalf,CornerAwarded,Successful,95.6,0,,
+837,,,1918,New Zealand,100,SecondHalf,End,Successful,0,0,,
+987,,,944,Egypt,100,SecondHalf,End,Successful,0,0,,
+988,,,944,Egypt,0,PostGame,End,Successful,0,0,,
+839,,,1918,New Zealand,0,PostGame,End,Successful,0,0,,
+1,,,1918,New Zealand,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,944,Egypt,0,PreMatch,FormationSet,Successful,0,0,,

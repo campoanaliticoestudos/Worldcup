@@ -1,0 +1,1352 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,338,Spain,0,FirstHalf,Start,Successful,0,0,,
+2,,,967,Uruguay,0,FirstHalf,Start,Successful,0,0,,
+3,298839,Mikel Oyarzabal,338,Spain,0,FirstHalf,Pass,Successful,49.8,50.4,38.2,51.5
+4,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,47,66,39.8,28.9
+5,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Pass,Successful,39.3,28.1,41.7,7.4
+6,254582,Marcos Llorente,338,Spain,0,FirstHalf,Pass,Successful,38.3,6.8,8.9,25
+7,332823,Unai Simón,338,Spain,0,FirstHalf,Pass,Unsuccessful,8.5,24.7,37.4,0
+4,403752,Juan Manuel Sanabria,967,Uruguay,0,FirstHalf,Pass,Unsuccessful,74.8,100,75.9,75
+16,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Aerial,Successful,24.1,25,,
+5,400828,Darwin Núñez,967,Uruguay,0,FirstHalf,Aerial,Unsuccessful,75.9,75,,
+9,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Clearance,Successful,24.1,25,27,25.7
+6,400828,Darwin Núñez,967,Uruguay,0,FirstHalf,BallTouch,Successful,76,74.7,,
+10,298839,Mikel Oyarzabal,338,Spain,0,FirstHalf,BallRecovery,Successful,35.9,29.9,,
+11,298839,Mikel Oyarzabal,338,Spain,0,FirstHalf,Pass,Successful,36.4,30.2,27.9,43.3
+12,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,27.9,49.9,27,71
+13,363496,Marc Cucurella,338,Spain,0,FirstHalf,Pass,Successful,27.8,74.7,34.1,97.2
+14,395242,Álex Baena,338,Spain,0,FirstHalf,BallTouch,Unsuccessful,34.1,97.2,,
+8,145385,Guillermo Varela,967,Uruguay,0,FirstHalf,Pass,Successful,65.4,0,38.3,9
+9,448735,Sebastián Cáceres,967,Uruguay,0,FirstHalf,Pass,Successful,35.6,10.2,13.2,31.6
+10,30966,Fernando Muslera,967,Uruguay,0,FirstHalf,Pass,Successful,13.2,31.6,31.3,18.1
+11,408962,Manuel Ugarte,967,Uruguay,0,FirstHalf,Pass,Successful,31.3,18.1,23.7,7.3
+23,145385,Guillermo Varela,967,Uruguay,0,FirstHalf,Pass,Successful,67.4,0,37,18.8
+12,448735,Sebastián Cáceres,967,Uruguay,0,FirstHalf,Pass,Successful,24.9,6.4,45.3,18.7
+13,303657,Rodrigo Bentancur,967,Uruguay,0,FirstHalf,Pass,Unsuccessful,43.3,19.6,34.2,41.7
+24,238916,Mikel Merino,338,Spain,0,FirstHalf,Interception,Successful,65.8,58.3,,
+17,480249,Lamine Yamal,338,Spain,1,FirstHalf,TakeOn,Unsuccessful,69.3,49.2,,
+14,347178,Mathías Olivera,967,Uruguay,1,FirstHalf,Tackle,Unsuccessful,30.6,50.8,,
+19,480249,Lamine Yamal,338,Spain,1,FirstHalf,BallRecovery,Successful,74.6,60,,
+18,480249,Lamine Yamal,338,Spain,1,FirstHalf,TakeOn,Successful,75.8,57.7,,
+15,303657,Rodrigo Bentancur,967,Uruguay,1,FirstHalf,Challenge,Unsuccessful,24.2,42.3,,
+20,480249,Lamine Yamal,338,Spain,1,FirstHalf,Pass,Successful,75.6,60.6,90.9,71.7
+21,298839,Mikel Oyarzabal,338,Spain,1,FirstHalf,Pass,Unsuccessful,91,71.7,91.5,68
+16,448735,Sebastián Cáceres,967,Uruguay,1,FirstHalf,BlockedPass,Successful,8.5,32,,
+22,298839,Mikel Oyarzabal,338,Spain,1,FirstHalf,CornerAwarded,Successful,97.8,66.6,,
+17,448735,Sebastián Cáceres,967,Uruguay,1,FirstHalf,CornerAwarded,Unsuccessful,2.3,33.4,,
+23,395242,Álex Baena,338,Spain,1,FirstHalf,Pass,Unsuccessful,99.5,99.5,97.3,47.8
+19,30966,Fernando Muslera,967,Uruguay,1,FirstHalf,Claim,Successful,2.7,52.2,,
+20,30966,Fernando Muslera,967,Uruguay,1,FirstHalf,Pass,Unsuccessful,16,48,61.3,78.4
+25,363496,Marc Cucurella,338,Spain,1,FirstHalf,Pass,Successful,41.5,19.7,48.5,32.9
+26,498386,Pau Cubarsí,338,Spain,1,FirstHalf,Pass,Successful,48.5,32.9,62.4,14.9
+27,303139,Rodri,338,Spain,1,FirstHalf,BallRecovery,Successful,64,14.3,,
+28,303139,Rodri,338,Spain,2,FirstHalf,Pass,Successful,67.5,8.2,46.1,30.5
+29,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,46.2,32.3,47.5,53.9
+30,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Successful,57.7,68.3,56.2,81
+31,363496,Marc Cucurella,338,Spain,2,FirstHalf,Pass,Successful,55.5,81,44.5,45.7
+32,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,45,45.7,47.1,67.1
+33,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Successful,54.5,72.3,58.6,87.2
+34,402197,Pedri,338,Spain,2,FirstHalf,Pass,Successful,58.4,86.6,51.4,72
+35,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Successful,60.9,73.5,64.8,87
+36,402197,Pedri,338,Spain,2,FirstHalf,Pass,Successful,65.2,87.3,69.2,72.3
+37,303139,Rodri,338,Spain,2,FirstHalf,BallTouch,Unsuccessful,74.1,72.3,,
+22,344644,Federico Valverde,967,Uruguay,2,FirstHalf,Dispossessed,Successful,26.6,27,,
+38,303139,Rodri,338,Spain,2,FirstHalf,Tackle,Successful,73.4,73,,
+39,303139,Rodri,338,Spain,2,FirstHalf,Pass,Successful,74.2,72,75.1,66.8
+40,395242,Álex Baena,338,Spain,2,FirstHalf,Pass,Successful,75.1,66.8,68.6,69.5
+41,402197,Pedri,338,Spain,2,FirstHalf,Pass,Successful,67.7,50.6,78.2,5.6
+42,480249,Lamine Yamal,338,Spain,2,FirstHalf,Pass,Successful,89.6,12.5,76.6,8
+43,254582,Marcos Llorente,338,Spain,2,FirstHalf,Pass,Successful,75.3,7.7,74.1,25.7
+44,402197,Pedri,338,Spain,2,FirstHalf,Pass,Unsuccessful,75.1,26.3,100,29.9
+25,30966,Fernando Muslera,967,Uruguay,3,FirstHalf,Pass,Successful,5.3,58.8,68.7,72.1
+26,400828,Darwin Núñez,967,Uruguay,3,FirstHalf,Pass,Unsuccessful,68.7,72.1,70.6,54.6
+46,363496,Marc Cucurella,338,Spain,3,FirstHalf,Pass,Successful,28.2,38.9,52.9,39.4
+47,298839,Mikel Oyarzabal,338,Spain,3,FirstHalf,Aerial,Successful,52.9,39.4,,
+27,448735,Sebastián Cáceres,967,Uruguay,3,FirstHalf,Aerial,Unsuccessful,47.1,60.6,,
+48,298839,Mikel Oyarzabal,338,Spain,3,FirstHalf,Pass,Unsuccessful,52.9,39.4,55,38.6
+28,403752,Juan Manuel Sanabria,967,Uruguay,3,FirstHalf,Pass,Unsuccessful,42.4,72.6,68.7,62.5
+49,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Aerial,Successful,31.3,37.5,,
+29,400828,Darwin Núñez,967,Uruguay,3,FirstHalf,Aerial,Unsuccessful,68.7,62.5,,
+50,498386,Pau Cubarsí,338,Spain,3,FirstHalf,Pass,Unsuccessful,31.3,37.5,47.9,43.6
+30,303657,Rodrigo Bentancur,967,Uruguay,3,FirstHalf,Pass,Unsuccessful,54.7,53.4,49,56.4
+51,298839,Mikel Oyarzabal,338,Spain,3,FirstHalf,BallTouch,Successful,54.5,44.5,,
+31,145385,Guillermo Varela,967,Uruguay,3,FirstHalf,Pass,Successful,38.2,42.7,15.5,49.6
+32,30966,Fernando Muslera,967,Uruguay,3,FirstHalf,Pass,Successful,15.5,49.6,56.3,49.8
+34,400828,Darwin Núñez,967,Uruguay,3,FirstHalf,Foul,Successful,54,46.7,,
+52,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Foul,Unsuccessful,46,53.2,,
+35,408962,Manuel Ugarte,967,Uruguay,4,FirstHalf,Pass,Successful,53.9,50.2,54.8,72.4
+36,347178,Mathías Olivera,967,Uruguay,4,FirstHalf,Pass,Unsuccessful,63.1,79.2,70.2,91
+53,480249,Lamine Yamal,338,Spain,4,FirstHalf,Interception,Successful,29.8,9,,
+37,347178,Mathías Olivera,967,Uruguay,4,FirstHalf,Pass,Successful,59.5,89.5,42.4,81.1
+38,408962,Manuel Ugarte,967,Uruguay,4,FirstHalf,Pass,Unsuccessful,43.2,72.1,91,60.1
+54,332823,Unai Simón,338,Spain,4,FirstHalf,KeeperPickup,Successful,10.4,35.6,,
+55,332823,Unai Simón,338,Spain,4,FirstHalf,Pass,Successful,12.9,30.2,27.7,86.3
+56,363496,Marc Cucurella,338,Spain,4,FirstHalf,Pass,Successful,37.9,92.6,43,94.4
+57,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Successful,43,94.2,37,95.6
+58,363496,Marc Cucurella,338,Spain,4,FirstHalf,Pass,Successful,35.7,95.6,21.3,83.4
+59,122117,Aymeric Laporte,338,Spain,4,FirstHalf,Pass,Successful,15.2,86,8.2,44.5
+60,332823,Unai Simón,338,Spain,4,FirstHalf,Pass,Successful,8.2,44.5,15.9,28.4
+61,498386,Pau Cubarsí,338,Spain,5,FirstHalf,Pass,Successful,13.1,24.2,20.3,6.5
+62,254582,Marcos Llorente,338,Spain,5,FirstHalf,Pass,Unsuccessful,20.5,4.7,30,25.9
+39,448735,Sebastián Cáceres,967,Uruguay,5,FirstHalf,Pass,Successful,67.1,68.4,69.6,73.8
+40,303657,Rodrigo Bentancur,967,Uruguay,5,FirstHalf,BallRecovery,Successful,69.6,73.8,,
+41,303657,Rodrigo Bentancur,967,Uruguay,5,FirstHalf,Foul,Successful,68.6,77.2,,
+63,238916,Mikel Merino,338,Spain,5,FirstHalf,Foul,Unsuccessful,31.4,22.8,,
+42,460758,Maxi Araújo,967,Uruguay,5,FirstHalf,Pass,Unsuccessful,67.6,74.5,90.1,40.5
+64,122117,Aymeric Laporte,338,Spain,5,FirstHalf,Clearance,Successful,8.8,57,10.3,50
+65,332823,Unai Simón,338,Spain,5,FirstHalf,Aerial,Successful,10.3,50,,
+43,448735,Sebastián Cáceres,967,Uruguay,5,FirstHalf,Aerial,Unsuccessful,89.7,50,,
+66,332823,Unai Simón,338,Spain,5,FirstHalf,Claim,Unsuccessful,10.3,50,,
+44,448735,Sebastián Cáceres,967,Uruguay,5,FirstHalf,BallTouch,Successful,91.2,48.3,,
+67,298839,Mikel Oyarzabal,338,Spain,5,FirstHalf,Clearance,Successful,2.8,52.7,63.4,100
+46,145385,Guillermo Varela,967,Uruguay,6,FirstHalf,Pass,Successful,45.4,0,67.6,16.2
+47,400828,Darwin Núñez,967,Uruguay,6,FirstHalf,Pass,Unsuccessful,67.6,16.2,62.9,32.7
+69,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,34.7,65,14.9,61.1
+70,332823,Unai Simón,338,Spain,6,FirstHalf,KeeperPickup,Successful,14.9,61.1,,
+71,332823,Unai Simón,338,Spain,6,FirstHalf,Pass,Successful,12.6,55.1,14.7,39.4
+72,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,42.4,35.9,47.5,5
+73,238916,Mikel Merino,338,Spain,6,FirstHalf,Pass,Successful,47.5,4.4,39.7,8
+74,254582,Marcos Llorente,338,Spain,6,FirstHalf,Pass,Successful,38.8,10.1,35.9,28.4
+75,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,35.5,34.1,36.7,69.8
+76,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Successful,39,74,36,38.8
+77,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,36.2,38.9,38.7,58.7
+78,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,43.2,61.4,47.9,69.3
+79,402197,Pedri,338,Spain,6,FirstHalf,Pass,Successful,52.4,65.4,46,36.1
+80,498386,Pau Cubarsí,338,Spain,7,FirstHalf,Pass,Successful,46.6,34.6,96.7,9.7
+81,480249,Lamine Yamal,338,Spain,7,FirstHalf,TakeOn,Unsuccessful,95.8,11.5,,
+48,403752,Juan Manuel Sanabria,967,Uruguay,7,FirstHalf,Tackle,Successful,4.3,88.4,,
+82,480249,Lamine Yamal,338,Spain,7,FirstHalf,CornerAwarded,Successful,95.1,12,,
+49,403752,Juan Manuel Sanabria,967,Uruguay,7,FirstHalf,CornerAwarded,Unsuccessful,5,87.9,,
+83,480249,Lamine Yamal,338,Spain,7,FirstHalf,Pass,Unsuccessful,99.5,0.5,95.3,35
+58,145385,Guillermo Varela,967,Uruguay,7,FirstHalf,BallTouch,Successful,6.4,61.7,,
+50,400828,Darwin Núñez,967,Uruguay,7,FirstHalf,BallTouch,Successful,4.6,63,,
+51,400828,Darwin Núñez,967,Uruguay,7,FirstHalf,CornerAwarded,Unsuccessful,4.6,63.8,,
+84,480249,Lamine Yamal,338,Spain,7,FirstHalf,CornerAwarded,Successful,95.4,36.2,,
+85,395242,Álex Baena,338,Spain,8,FirstHalf,Pass,Unsuccessful,99.5,0.5,96.4,48.2
+52,303657,Rodrigo Bentancur,967,Uruguay,8,FirstHalf,Clearance,Successful,3.8,53.4,37,79.3
+86,480249,Lamine Yamal,338,Spain,8,FirstHalf,Dispossessed,Successful,67.7,18.3,,
+53,403752,Juan Manuel Sanabria,967,Uruguay,8,FirstHalf,Tackle,Unsuccessful,32.2,81.8,,
+87,402197,Pedri,338,Spain,8,FirstHalf,Pass,Successful,61.8,30.1,35.3,34.6
+88,254582,Marcos Llorente,338,Spain,8,FirstHalf,Pass,Successful,34.5,37.1,12.4,49.4
+89,332823,Unai Simón,338,Spain,8,FirstHalf,Pass,Successful,15.2,51.9,24.9,58.1
+90,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,24.5,57.8,18,17.6
+91,254582,Marcos Llorente,338,Spain,8,FirstHalf,Pass,Successful,19.7,18.2,20.4,29.8
+92,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Pass,Successful,21.7,35.9,24.1,69
+93,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,29.4,84,14.1,57
+94,332823,Unai Simón,338,Spain,8,FirstHalf,Pass,Successful,18.2,55.7,29.4,43.3
+95,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Pass,Successful,36,52.4,39.5,85.1
+96,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,40.1,85.5,45.6,89.6
+97,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,46.2,90.9,39.9,84.6
+98,122117,Aymeric Laporte,338,Spain,8,FirstHalf,Pass,Successful,41.1,81,47.6,71.4
+99,402197,Pedri,338,Spain,8,FirstHalf,Pass,Successful,53.9,74.3,61.5,92.4
+100,303139,Rodri,338,Spain,8,FirstHalf,Pass,Successful,60.1,91.7,48.1,73.1
+101,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Pass,Unsuccessful,64.7,67.2,92.9,32.5
+54,30966,Fernando Muslera,967,Uruguay,9,FirstHalf,KeeperPickup,Successful,7.7,59.8,,
+56,30966,Fernando Muslera,967,Uruguay,9,FirstHalf,Pass,Successful,12.6,54.4,14.3,69.1
+57,347178,Mathías Olivera,967,Uruguay,9,FirstHalf,Pass,Successful,14.3,69.1,25,52
+59,408962,Manuel Ugarte,967,Uruguay,9,FirstHalf,Pass,Successful,24.8,52,4.7,75.6
+60,347178,Mathías Olivera,967,Uruguay,9,FirstHalf,Pass,Unsuccessful,7,85.6,66.1,58
+102,122117,Aymeric Laporte,338,Spain,9,FirstHalf,BallRecovery,Successful,33.6,35.3,,
+103,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Pass,Successful,35.2,37,45.7,56
+104,303139,Rodri,338,Spain,9,FirstHalf,Pass,Successful,45.7,56,48.7,42.8
+105,402197,Pedri,338,Spain,9,FirstHalf,Pass,Successful,59.3,31.6,62.5,6.5
+106,254582,Marcos Llorente,338,Spain,9,FirstHalf,Pass,Successful,62.5,6.5,68.3,5.8
+107,480249,Lamine Yamal,338,Spain,9,FirstHalf,Pass,Successful,68.3,5.8,52,17
+108,254582,Marcos Llorente,338,Spain,9,FirstHalf,Pass,Successful,51.9,17,46.5,55.7
+109,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Pass,Successful,52.8,67.1,56.1,53.9
+110,303139,Rodri,338,Spain,9,FirstHalf,Pass,Successful,56.1,53.9,52.5,66.2
+111,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Pass,Successful,52.1,66.2,43.2,43.1
+112,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Successful,40.7,36.4,48.5,29
+113,402197,Pedri,338,Spain,9,FirstHalf,Pass,Successful,39.3,16.9,13.8,41.5
+114,332823,Unai Simón,338,Spain,9,FirstHalf,Pass,Successful,13.9,43.6,24.8,68.3
+11118,480249,Lamine Yamal,338,Spain,10,FirstHalf,OffsideGiven,Unsuccessful,74.4,4.7,,
+115,122117,Aymeric Laporte,338,Spain,10,FirstHalf,Pass,Successful,27.4,71.3,44.1,73.8
+116,395242,Álex Baena,338,Spain,10,FirstHalf,Pass,Successful,44.8,76.5,47.4,92.4
+117,363496,Marc Cucurella,338,Spain,10,FirstHalf,Pass,Successful,55.8,92.4,47.9,95.1
+118,395242,Álex Baena,338,Spain,10,FirstHalf,OffsidePass,Successful,46.7,93.2,74.4,4.7
+61,403752,Juan Manuel Sanabria,967,Uruguay,10,FirstHalf,OffsideProvoked,Successful,30.9,68.3,,
+62,347178,Mathías Olivera,967,Uruguay,10,FirstHalf,Pass,Successful,16.4,90.1,22.1,72.6
+63,303657,Rodrigo Bentancur,967,Uruguay,10,FirstHalf,Pass,Successful,22.1,72.6,21.6,93.9
+64,347178,Mathías Olivera,967,Uruguay,10,FirstHalf,Pass,Successful,21.6,93,4.1,64.8
+65,30966,Fernando Muslera,967,Uruguay,10,FirstHalf,Pass,Unsuccessful,3.8,64,31.3,56.7
+11068,400828,Darwin Núñez,967,Uruguay,11,FirstHalf,OffsideGiven,Unsuccessful,81.2,74.5,,
+120,395242,Álex Baena,338,Spain,11,FirstHalf,BallTouch,Unsuccessful,71.5,43,,
+66,303657,Rodrigo Bentancur,967,Uruguay,11,FirstHalf,Pass,Unsuccessful,29.5,63.6,37.7,73.5
+121,402197,Pedri,338,Spain,11,FirstHalf,BallTouch,Successful,70.1,31.4,,
+67,460758,Maxi Araújo,967,Uruguay,11,FirstHalf,Pass,Successful,39.9,75.1,56.8,96
+68,403752,Juan Manuel Sanabria,967,Uruguay,11,FirstHalf,OffsidePass,Successful,58.6,94.8,81.2,74.5
+122,498386,Pau Cubarsí,338,Spain,11,FirstHalf,OffsideProvoked,Successful,32.4,26.8,,
+123,498386,Pau Cubarsí,338,Spain,11,FirstHalf,Pass,Successful,7,32.9,24.5,46.6
+124,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,37.7,46.1,58.3,11.3
+125,238916,Mikel Merino,338,Spain,11,FirstHalf,Pass,Successful,64.9,10.6,72.6,4.7
+126,480249,Lamine Yamal,338,Spain,11,FirstHalf,Pass,Successful,72.2,5.9,61.8,8.5
+127,254582,Marcos Llorente,338,Spain,11,FirstHalf,Pass,Successful,61.5,10.4,57.8,23.3
+128,402197,Pedri,338,Spain,11,FirstHalf,Pass,Successful,58.5,31.3,55.5,69.5
+129,122117,Aymeric Laporte,338,Spain,11,FirstHalf,Pass,Successful,77.3,86.7,79.5,95
+130,395242,Álex Baena,338,Spain,11,FirstHalf,Pass,Successful,77.8,95.1,74.6,73.7
+131,298839,Mikel Oyarzabal,338,Spain,11,FirstHalf,Pass,Unsuccessful,73.6,75.2,72.5,75.2
+120,347178,Mathías Olivera,967,Uruguay,11,FirstHalf,BlockedPass,Successful,27.5,24.8,,
+69,436657,Agustín Canobbio,967,Uruguay,11,FirstHalf,BallRecovery,Successful,37.2,7.6,,
+70,436657,Agustín Canobbio,967,Uruguay,11,FirstHalf,Foul,Successful,39.7,11.9,,
+132,395242,Álex Baena,338,Spain,11,FirstHalf,Foul,Unsuccessful,60.3,88.2,,
+72,145385,Guillermo Varela,967,Uruguay,12,FirstHalf,Pass,Successful,43.3,22.2,28,32.5
+73,448735,Sebastián Cáceres,967,Uruguay,12,FirstHalf,Pass,Successful,28,32.5,13.8,54.4
+74,30966,Fernando Muslera,967,Uruguay,12,FirstHalf,Pass,Successful,13.8,54.4,39.6,42.4
+75,303657,Rodrigo Bentancur,967,Uruguay,12,FirstHalf,Pass,Successful,39.6,42.4,54.7,51
+76,400828,Darwin Núñez,967,Uruguay,12,FirstHalf,Pass,Successful,54.7,51,41,60.7
+77,344644,Federico Valverde,967,Uruguay,12,FirstHalf,Dispossessed,Successful,42.8,58.6,,
+133,238916,Mikel Merino,338,Spain,12,FirstHalf,Tackle,Unsuccessful,57.2,41.4,,
+78,460758,Maxi Araújo,967,Uruguay,12,FirstHalf,BallTouch,Unsuccessful,74.5,72.6,,
+134,254582,Marcos Llorente,338,Spain,12,FirstHalf,Clearance,Successful,19.2,27.7,25,50.6
+135,395242,Álex Baena,338,Spain,12,FirstHalf,BallRecovery,Successful,25.4,51.6,,
+215,395242,Álex Baena,338,Spain,12,FirstHalf,Pass,Unsuccessful,23.4,54.4,22.4,49.4
+84,344644,Federico Valverde,967,Uruguay,12,FirstHalf,Interception,Successful,77.6,50.6,,
+79,344644,Federico Valverde,967,Uruguay,12,FirstHalf,BallRecovery,Successful,79.1,52.9,,
+80,344644,Federico Valverde,967,Uruguay,12,FirstHalf,Pass,Successful,79.2,52.9,87,54.6
+81,400828,Darwin Núñez,967,Uruguay,12,FirstHalf,Pass,Unsuccessful,87,54.6,87.2,49.9
+136,363496,Marc Cucurella,338,Spain,12,FirstHalf,Clearance,Successful,13.8,57.9,28.5,35.6
+137,402197,Pedri,338,Spain,12,FirstHalf,Foul,Successful,30.4,35.2,,
+83,303657,Rodrigo Bentancur,967,Uruguay,12,FirstHalf,Foul,Unsuccessful,69.5,64.8,,
+138,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,27.4,31.6,29.7,57.6
+139,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,31.7,61.5,33.3,49.1
+140,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,37.9,55.5,45.3,80.7
+141,402197,Pedri,338,Spain,13,FirstHalf,Pass,Successful,45.3,80.7,36.7,72
+142,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,34.4,70.8,34.9,53.4
+143,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,35,49.9,45.8,44.5
+144,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,BallTouch,Unsuccessful,45.8,44.5,,
+85,448735,Sebastián Cáceres,967,Uruguay,13,FirstHalf,BallRecovery,Successful,55.1,70.8,,
+86,448735,Sebastián Cáceres,967,Uruguay,13,FirstHalf,Pass,Successful,55.1,70.8,57.1,82.3
+145,254582,Marcos Llorente,338,Spain,13,FirstHalf,Challenge,Unsuccessful,31.4,10.4,,
+87,460758,Maxi Araújo,967,Uruguay,13,FirstHalf,TakeOn,Successful,68.6,89.6,,
+146,303139,Rodri,338,Spain,13,FirstHalf,Challenge,Unsuccessful,26.2,31.3,,
+88,460758,Maxi Araújo,967,Uruguay,13,FirstHalf,TakeOn,Successful,73.8,68.7,,
+89,460758,Maxi Araújo,967,Uruguay,13,FirstHalf,Dispossessed,Successful,74.4,71.2,,
+147,254582,Marcos Llorente,338,Spain,13,FirstHalf,Tackle,Successful,25.6,28.8,,
+148,238916,Mikel Merino,338,Spain,13,FirstHalf,BallRecovery,Successful,29.8,33.5,,
+149,238916,Mikel Merino,338,Spain,13,FirstHalf,Pass,Successful,29.8,33.5,33,38.5
+150,303139,Rodri,338,Spain,13,FirstHalf,TakeOn,Unsuccessful,34,38.3,,
+90,408962,Manuel Ugarte,967,Uruguay,13,FirstHalf,Tackle,Successful,66,61.7,,
+91,408962,Manuel Ugarte,967,Uruguay,13,FirstHalf,BallRecovery,Successful,68.3,66.1,,
+92,408962,Manuel Ugarte,967,Uruguay,13,FirstHalf,Pass,Successful,68.3,66.1,67.3,74.4
+93,344644,Federico Valverde,967,Uruguay,13,FirstHalf,Pass,Successful,67.3,74.4,66.8,60.4
+94,460758,Maxi Araújo,967,Uruguay,13,FirstHalf,Pass,Successful,66.8,60.4,69.5,68.2
+95,408962,Manuel Ugarte,967,Uruguay,13,FirstHalf,Pass,Successful,69.5,68.2,74.9,71.8
+96,344644,Federico Valverde,967,Uruguay,13,FirstHalf,Pass,Successful,74,76,91.1,92.8
+97,400828,Darwin Núñez,967,Uruguay,13,FirstHalf,Pass,Successful,91.3,92.8,83.4,96
+98,403752,Juan Manuel Sanabria,967,Uruguay,13,FirstHalf,Pass,Unsuccessful,83.4,96,82.2,93.1
+151,402197,Pedri,338,Spain,13,FirstHalf,BlockedPass,Successful,17.8,6.9,,
+152,402197,Pedri,338,Spain,13,FirstHalf,BallRecovery,Successful,23.7,7.7,,
+153,402197,Pedri,338,Spain,13,FirstHalf,TakeOn,Unsuccessful,27.6,7.6,,
+99,403752,Juan Manuel Sanabria,967,Uruguay,13,FirstHalf,Tackle,Successful,72.4,92.4,,
+100,403752,Juan Manuel Sanabria,967,Uruguay,13,FirstHalf,BallRecovery,Successful,69.4,93.3,,
+101,403752,Juan Manuel Sanabria,967,Uruguay,13,FirstHalf,Pass,Successful,69.4,93.3,55.9,96.1
+102,347178,Mathías Olivera,967,Uruguay,13,FirstHalf,Dispossessed,Successful,43.6,89.8,,
+154,480249,Lamine Yamal,338,Spain,13,FirstHalf,Tackle,Successful,56.4,10.2,,
+155,480249,Lamine Yamal,338,Spain,14,FirstHalf,Dispossessed,Successful,59,19.9,,
+103,347178,Mathías Olivera,967,Uruguay,14,FirstHalf,Tackle,Successful,41,80,,
+104,303657,Rodrigo Bentancur,967,Uruguay,14,FirstHalf,Pass,Successful,36.1,47.8,34.7,9.9
+105,145385,Guillermo Varela,967,Uruguay,14,FirstHalf,Pass,Successful,35.1,21.1,24.2,24
+106,448735,Sebastián Cáceres,967,Uruguay,14,FirstHalf,Pass,Successful,23.1,24,3.8,50.4
+107,30966,Fernando Muslera,967,Uruguay,14,FirstHalf,Pass,Unsuccessful,4.6,48.7,52.4,55.5
+156,498386,Pau Cubarsí,338,Spain,14,FirstHalf,BallTouch,Successful,53,48.1,,
+157,303139,Rodri,338,Spain,14,FirstHalf,BallRecovery,Successful,68.4,38.8,,
+158,303139,Rodri,338,Spain,14,FirstHalf,Pass,Successful,68.4,38.8,73,29.3
+159,238916,Mikel Merino,338,Spain,14,FirstHalf,Pass,Successful,72.8,25.4,69.1,10.6
+160,480249,Lamine Yamal,338,Spain,14,FirstHalf,Pass,Successful,69.1,10.6,59.9,19
+161,254582,Marcos Llorente,338,Spain,14,FirstHalf,Pass,Successful,59.8,19.7,54,56.6
+162,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,54.9,63.8,57.9,73.2
+163,363496,Marc Cucurella,338,Spain,14,FirstHalf,Pass,Successful,57.9,73.2,53.5,64.2
+164,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,53.8,64.2,52.6,40.9
+165,498386,Pau Cubarsí,338,Spain,14,FirstHalf,Pass,Successful,56.1,43.7,60.1,67.4
+166,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,60.7,67.4,60,38.6
+167,498386,Pau Cubarsí,338,Spain,14,FirstHalf,Pass,Successful,65.4,35.5,73.9,26.5
+168,238916,Mikel Merino,338,Spain,14,FirstHalf,Pass,Successful,73.9,26.5,72.5,43.6
+169,303139,Rodri,338,Spain,14,FirstHalf,Pass,Successful,73.3,43.3,78.7,8.5
+170,480249,Lamine Yamal,338,Spain,14,FirstHalf,Pass,Unsuccessful,79.9,11.6,90.8,39.2
+108,408962,Manuel Ugarte,967,Uruguay,15,FirstHalf,Clearance,Successful,7.5,55.2,0,98.1
+171,480249,Lamine Yamal,338,Spain,15,FirstHalf,CornerAwarded,Successful,97,16.8,,
+109,408962,Manuel Ugarte,967,Uruguay,15,FirstHalf,CornerAwarded,Unsuccessful,3,83.2,,
+172,395242,Álex Baena,338,Spain,15,FirstHalf,Pass,Successful,99.5,0.5,91.1,57.6
+173,498386,Pau Cubarsí,338,Spain,15,FirstHalf,BallTouch,Successful,91.9,55.7,,
+111,303657,Rodrigo Bentancur,967,Uruguay,15,FirstHalf,Clearance,Successful,14.7,47.1,32.1,39.3
+174,363496,Marc Cucurella,338,Spain,15,FirstHalf,Pass,Unsuccessful,62,71.4,66,70.5
+112,344644,Federico Valverde,967,Uruguay,15,FirstHalf,BallTouch,Successful,34.8,28.2,,
+113,303657,Rodrigo Bentancur,967,Uruguay,15,FirstHalf,BallRecovery,Successful,34.3,13.5,,
+114,303657,Rodrigo Bentancur,967,Uruguay,15,FirstHalf,Pass,Unsuccessful,34.9,13.5,56.9,45.1
+175,498386,Pau Cubarsí,338,Spain,15,FirstHalf,BallRecovery,Successful,37.8,61.2,,
+176,498386,Pau Cubarsí,338,Spain,15,FirstHalf,Pass,Successful,30.1,60.6,33.1,59.9
+177,122117,Aymeric Laporte,338,Spain,15,FirstHalf,Pass,Successful,33.1,59.9,39.5,62.7
+178,402197,Pedri,338,Spain,15,FirstHalf,Pass,Successful,45.9,66.2,47.9,69.8
+179,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,47.8,68.7,47.9,57.9
+180,402197,Pedri,338,Spain,16,FirstHalf,Pass,Successful,52,45.2,45.7,20.2
+181,254582,Marcos Llorente,338,Spain,16,FirstHalf,Pass,Successful,43.8,13.9,39.9,37.6
+182,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,46,48.1,55.6,73.5
+183,303139,Rodri,338,Spain,16,FirstHalf,Pass,Successful,55.3,72.8,55.5,57.5
+184,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,55.1,57.8,59.8,35.6
+185,402197,Pedri,338,Spain,16,FirstHalf,Pass,Successful,59.8,35.6,46.6,47
+186,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Pass,Successful,46.9,45.4,55.7,43
+187,402197,Pedri,338,Spain,16,FirstHalf,Pass,Successful,69.2,35.2,80.3,15.1
+188,480249,Lamine Yamal,338,Spain,16,FirstHalf,SavedShot,Successful,85.3,27.7,,
+116,303657,Rodrigo Bentancur,967,Uruguay,16,FirstHalf,Save,Successful,10.5,65.7,,
+189,298839,Mikel Oyarzabal,338,Spain,16,FirstHalf,BallTouch,Unsuccessful,87.4,51.3,,
+117,436657,Agustín Canobbio,967,Uruguay,16,FirstHalf,Clearance,Successful,15.9,35.7,63.6,48.4
+190,332823,Unai Simón,338,Spain,16,FirstHalf,Pass,Successful,37.7,59.1,45.3,74.3
+191,122117,Aymeric Laporte,338,Spain,16,FirstHalf,Pass,Successful,46.7,79.8,55.4,90.3
+192,363496,Marc Cucurella,338,Spain,16,FirstHalf,Pass,Successful,55.5,90.6,30.8,87.5
+193,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,46.2,65,53.4,41.2
+194,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,54.4,47.2,48,64.1
+195,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,48,64.1,52.9,43
+196,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,54,43.3,56.1,54.6
+197,303139,Rodri,338,Spain,17,FirstHalf,Pass,Successful,58.8,59.6,64.9,83.1
+198,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,62.8,82.5,57.3,65.3
+199,303139,Rodri,338,Spain,17,FirstHalf,Pass,Successful,56.7,65,56.6,32.5
+200,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,57.3,31,73.6,2.8
+201,480249,Lamine Yamal,338,Spain,17,FirstHalf,Pass,Unsuccessful,75.7,5.3,79.4,8
+118,403752,Juan Manuel Sanabria,967,Uruguay,17,FirstHalf,BlockedPass,Successful,20.6,92,,
+202,238916,Mikel Merino,338,Spain,17,FirstHalf,Pass,Successful,73,21.8,71.1,7
+203,480249,Lamine Yamal,338,Spain,17,FirstHalf,Pass,Successful,69.4,6.7,43.6,29.2
+204,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,43.7,34.6,55.1,64.7
+205,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,56.6,66.9,49.2,32.5
+206,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Successful,48.9,35.2,48.5,51.9
+207,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,58.3,62.7,66.9,73.1
+208,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,67.7,76.5,73.5,91.5
+209,395242,Álex Baena,338,Spain,18,FirstHalf,Pass,Successful,71.3,88.5,60.1,75.2
+210,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,59,73.7,55.2,45.2
+211,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,67,29.3,77.9,2.8
+212,480249,Lamine Yamal,338,Spain,18,FirstHalf,TakeOn,Unsuccessful,77.2,4.6,,
+121,403752,Juan Manuel Sanabria,967,Uruguay,18,FirstHalf,Tackle,Successful,22.8,95.4,,
+214,254582,Marcos Llorente,338,Spain,18,FirstHalf,Pass,Successful,65.3,0,58.1,16.1
+216,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,56.3,19,63.1,57.8
+217,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,68,60.2,77.3,65.9
+218,395242,Álex Baena,338,Spain,18,FirstHalf,Pass,Successful,77.3,65.9,88,58.7
+219,298839,Mikel Oyarzabal,338,Spain,18,FirstHalf,Dispossessed,Successful,88.6,62.3,,
+124,347178,Mathías Olivera,967,Uruguay,18,FirstHalf,Tackle,Successful,11.4,37.7,,
+221,363496,Marc Cucurella,338,Spain,18,FirstHalf,Pass,Successful,89.6,100,96.8,90.2
+222,402197,Pedri,338,Spain,18,FirstHalf,Pass,Unsuccessful,96.4,91.7,95.3,93.5
+126,436657,Agustín Canobbio,967,Uruguay,18,FirstHalf,BlockedPass,Successful,4.7,6.5,,
+223,402197,Pedri,338,Spain,18,FirstHalf,CornerAwarded,Successful,98.6,87.5,,
+127,436657,Agustín Canobbio,967,Uruguay,18,FirstHalf,CornerAwarded,Unsuccessful,1.4,12.5,,
+224,395242,Álex Baena,338,Spain,19,FirstHalf,Pass,Successful,99.5,99.5,95.5,43.7
+225,498386,Pau Cubarsí,338,Spain,19,FirstHalf,MissedShots,Successful,95.5,43.7,,
+128,145385,Guillermo Varela,967,Uruguay,19,FirstHalf,Clearance,Successful,8.7,40.8,20.4,17.7
+129,403752,Juan Manuel Sanabria,967,Uruguay,19,FirstHalf,Clearance,Successful,20.4,17.7,22.4,0
+227,395242,Álex Baena,338,Spain,19,FirstHalf,Pass,Successful,83.5,100,57.1,90.5
+228,402197,Pedri,338,Spain,19,FirstHalf,Pass,Successful,60.8,83.9,60.1,44.8
+229,498386,Pau Cubarsí,338,Spain,19,FirstHalf,Pass,Successful,62,41.9,70.4,34
+230,238916,Mikel Merino,338,Spain,20,FirstHalf,Pass,Unsuccessful,73.4,31.9,79.7,38.5
+133,403752,Juan Manuel Sanabria,967,Uruguay,20,FirstHalf,Interception,Successful,20.3,61.5,,
+134,344644,Federico Valverde,967,Uruguay,20,FirstHalf,BallRecovery,Successful,28.1,68.4,,
+135,344644,Federico Valverde,967,Uruguay,20,FirstHalf,Pass,Unsuccessful,28.1,68.4,25.9,75.6
+231,238916,Mikel Merino,338,Spain,20,FirstHalf,Interception,Successful,74.1,24.4,,
+232,238916,Mikel Merino,338,Spain,20,FirstHalf,BallRecovery,Successful,79.4,30.4,,
+233,238916,Mikel Merino,338,Spain,20,FirstHalf,Pass,Successful,79.4,30.4,91.8,23.5
+234,480249,Lamine Yamal,338,Spain,20,FirstHalf,Pass,Unsuccessful,96.6,26.6,91.8,40.9
+136,408962,Manuel Ugarte,967,Uruguay,20,FirstHalf,Clearance,Successful,10.3,57.7,7.5,78
+137,403752,Juan Manuel Sanabria,967,Uruguay,20,FirstHalf,BallRecovery,Successful,7.3,78.1,,
+138,403752,Juan Manuel Sanabria,967,Uruguay,20,FirstHalf,Pass,Successful,7.6,88.3,31.3,91.9
+139,400828,Darwin Núñez,967,Uruguay,20,FirstHalf,Pass,Successful,30.4,89.5,16.3,77.5
+140,408962,Manuel Ugarte,967,Uruguay,20,FirstHalf,Pass,Unsuccessful,23.6,87.9,68.2,34.3
+235,395242,Álex Baena,338,Spain,20,FirstHalf,BallRecovery,Successful,31.7,74.9,,
+236,395242,Álex Baena,338,Spain,20,FirstHalf,Pass,Successful,31.7,74.9,14.8,53.4
+237,332823,Unai Simón,338,Spain,20,FirstHalf,Pass,Successful,25.6,58.8,30.8,60.5
+238,122117,Aymeric Laporte,338,Spain,20,FirstHalf,Pass,Successful,31.3,59.9,33.9,42.5
+239,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,35.7,38.8,44.6,30.4
+240,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,45.1,32,38.9,63.6
+241,122117,Aymeric Laporte,338,Spain,20,FirstHalf,Pass,Successful,51.5,68.7,51.3,47.6
+242,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,54.8,45.7,57.6,64.8
+243,122117,Aymeric Laporte,338,Spain,20,FirstHalf,Pass,Successful,57.6,64.8,53.4,44.2
+244,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,53.4,44.2,55.5,32.5
+245,303139,Rodri,338,Spain,21,FirstHalf,Pass,Successful,55.7,33.4,47.2,59.1
+246,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,65.7,60,74,61.8
+247,298839,Mikel Oyarzabal,338,Spain,21,FirstHalf,Dispossessed,Successful,74.6,60.8,,
+141,347178,Mathías Olivera,967,Uruguay,21,FirstHalf,Tackle,Successful,25.4,39.2,,
+142,303657,Rodrigo Bentancur,967,Uruguay,21,FirstHalf,BallRecovery,Successful,30.8,35.5,,
+143,303657,Rodrigo Bentancur,967,Uruguay,21,FirstHalf,Pass,Successful,30.7,35.5,7.1,49.9
+144,30966,Fernando Muslera,967,Uruguay,21,FirstHalf,Pass,Successful,7,49.5,14.9,18
+145,448735,Sebastián Cáceres,967,Uruguay,21,FirstHalf,Pass,Unsuccessful,16,16.6,51.9,49.3
+249,498386,Pau Cubarsí,338,Spain,21,FirstHalf,BallRecovery,Successful,44.8,45.8,,
+250,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,44.8,45.8,41.3,60.9
+251,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,44.1,62.1,57,65
+252,402197,Pedri,338,Spain,21,FirstHalf,Pass,Successful,58.6,65.6,70.7,77
+253,298839,Mikel Oyarzabal,338,Spain,21,FirstHalf,Pass,Successful,69.7,76.2,55,65.9
+254,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,55.6,66.5,61.5,72.3
+255,402197,Pedri,338,Spain,21,FirstHalf,Pass,Successful,62.4,72.3,57.7,65.3
+256,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,60.4,64.5,60.8,37.7
+257,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,61.2,31,64.8,5.9
+258,254582,Marcos Llorente,338,Spain,21,FirstHalf,Pass,Successful,65.5,5.3,71.6,3.7
+259,480249,Lamine Yamal,338,Spain,21,FirstHalf,Pass,Successful,71.6,3.7,62,4.9
+260,254582,Marcos Llorente,338,Spain,21,FirstHalf,Pass,Successful,60.4,8.3,55.6,29.8
+261,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,63.1,37.6,64,64.7
+262,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,67.9,70.4,77.4,71.4
+263,402197,Pedri,338,Spain,21,FirstHalf,Pass,Unsuccessful,78.5,71.4,87.8,69
+146,145385,Guillermo Varela,967,Uruguay,21,FirstHalf,Interception,Successful,12.2,31,,
+264,402197,Pedri,338,Spain,22,FirstHalf,BallTouch,Unsuccessful,87.2,70.2,,
+147,145385,Guillermo Varela,967,Uruguay,22,FirstHalf,Clearance,Successful,12.6,33.9,16.1,33.7
+265,402197,Pedri,338,Spain,22,FirstHalf,BlockedPass,Successful,86.5,70.8,,
+148,436657,Agustín Canobbio,967,Uruguay,22,FirstHalf,BallRecovery,Successful,19.3,26.5,,
+149,436657,Agustín Canobbio,967,Uruguay,22,FirstHalf,BallTouch,Unsuccessful,19.6,26.5,,
+266,363496,Marc Cucurella,338,Spain,22,FirstHalf,BallRecovery,Successful,74,71.3,,
+267,363496,Marc Cucurella,338,Spain,22,FirstHalf,Pass,Successful,74,71.3,70.1,68
+268,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,69.1,71.7,57.8,75
+269,122117,Aymeric Laporte,338,Spain,22,FirstHalf,Pass,Successful,57.2,74.7,53.9,54.9
+270,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,53.9,53.7,57.5,31
+271,254582,Marcos Llorente,338,Spain,22,FirstHalf,Pass,Successful,56.2,31.4,45.9,48.1
+272,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,46.3,51.8,61.1,75.9
+273,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,61.3,76.1,66.8,73.2
+274,238916,Mikel Merino,338,Spain,22,FirstHalf,Dispossessed,Successful,67,71.2,,
+150,408962,Manuel Ugarte,967,Uruguay,22,FirstHalf,Tackle,Unsuccessful,33,28.9,,
+275,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,61,70.8,59.4,60.9
+151,344644,Federico Valverde,967,Uruguay,22,FirstHalf,Challenge,Unsuccessful,43,42.7,,
+276,402197,Pedri,338,Spain,22,FirstHalf,TakeOn,Successful,57,57.3,,
+277,402197,Pedri,338,Spain,22,FirstHalf,Pass,Successful,58.5,36.2,75.5,16.6
+278,254582,Marcos Llorente,338,Spain,22,FirstHalf,Pass,Unsuccessful,80.4,17.6,87.6,48.2
+153,145385,Guillermo Varela,967,Uruguay,22,FirstHalf,BallTouch,Successful,9.6,48.7,,
+152,30966,Fernando Muslera,967,Uruguay,22,FirstHalf,KeeperPickup,Successful,8.8,48.6,,
+157,30966,Fernando Muslera,967,Uruguay,26,FirstHalf,Pass,Unsuccessful,18.2,49,73.1,46.9
+283,122117,Aymeric Laporte,338,Spain,26,FirstHalf,Pass,Unsuccessful,27.2,49.6,46.7,41.8
+158,347178,Mathías Olivera,967,Uruguay,26,FirstHalf,Pass,Unsuccessful,53.2,62.8,77.6,45.7
+284,122117,Aymeric Laporte,338,Spain,26,FirstHalf,BallRecovery,Successful,25.9,59,,
+285,122117,Aymeric Laporte,338,Spain,26,FirstHalf,Pass,Successful,23.1,61.8,6.9,54.3
+286,332823,Unai Simón,338,Spain,26,FirstHalf,Pass,Successful,7.2,54.6,10.8,70.1
+287,122117,Aymeric Laporte,338,Spain,26,FirstHalf,Pass,Successful,10.8,70.8,15.6,65.9
+288,303139,Rodri,338,Spain,26,FirstHalf,Pass,Successful,15.6,65.9,20.2,93.8
+289,363496,Marc Cucurella,338,Spain,26,FirstHalf,Pass,Unsuccessful,20.7,96.2,23.1,96.2
+159,303657,Rodrigo Bentancur,967,Uruguay,26,FirstHalf,BlockedPass,Successful,76.9,3.8,,
+291,363496,Marc Cucurella,338,Spain,26,FirstHalf,Pass,Successful,23.5,100,20.9,93.2
+292,303139,Rodri,338,Spain,26,FirstHalf,Dispossessed,Successful,19,95.6,,
+161,344644,Federico Valverde,967,Uruguay,26,FirstHalf,Tackle,Successful,81,4.4,,
+162,344644,Federico Valverde,967,Uruguay,26,FirstHalf,BallRecovery,Successful,86.4,7.2,,
+163,344644,Federico Valverde,967,Uruguay,26,FirstHalf,Pass,Unsuccessful,91.6,21,90.7,39
+188,400828,Darwin Núñez,967,Uruguay,26,FirstHalf,ChanceMissed,Unsuccessful,50,50,,
+293,254582,Marcos Llorente,338,Spain,26,FirstHalf,BallRecovery,Successful,7.5,27.5,,
+294,254582,Marcos Llorente,338,Spain,26,FirstHalf,Pass,Successful,7.5,27.5,29.1,3.8
+295,480249,Lamine Yamal,338,Spain,26,FirstHalf,TakeOn,Unsuccessful,32.8,6.9,,
+165,403752,Juan Manuel Sanabria,967,Uruguay,26,FirstHalf,Tackle,Successful,67.2,93.1,,
+166,347178,Mathías Olivera,967,Uruguay,26,FirstHalf,BallRecovery,Successful,67.2,91.2,,
+167,347178,Mathías Olivera,967,Uruguay,26,FirstHalf,Pass,Successful,67.2,91.2,76.1,93
+168,460758,Maxi Araújo,967,Uruguay,26,FirstHalf,Pass,Successful,76.1,93,69.3,86.1
+169,403752,Juan Manuel Sanabria,967,Uruguay,26,FirstHalf,Pass,Successful,71.3,88.8,75.6,96.6
+170,460758,Maxi Araújo,967,Uruguay,26,FirstHalf,Dispossessed,Successful,71.6,94.8,,
+296,402197,Pedri,338,Spain,26,FirstHalf,Tackle,Unsuccessful,28.6,5.3,,
+171,460758,Maxi Araújo,967,Uruguay,26,FirstHalf,BallTouch,Successful,72.6,95.2,,
+297,480249,Lamine Yamal,338,Spain,26,FirstHalf,BallRecovery,Successful,36.6,8,,
+298,480249,Lamine Yamal,338,Spain,27,FirstHalf,Pass,Unsuccessful,59.3,25.8,69.1,49.7
+172,448735,Sebastián Cáceres,967,Uruguay,27,FirstHalf,BallTouch,Successful,24.7,45.1,,
+299,395242,Álex Baena,338,Spain,27,FirstHalf,Pass,Unsuccessful,96.5,96,96.8,92.7
+173,448735,Sebastián Cáceres,967,Uruguay,27,FirstHalf,BallTouch,Successful,6.5,9.9,,
+174,30966,Fernando Muslera,967,Uruguay,27,FirstHalf,KeeperPickup,Successful,2.7,41.1,,
+176,30966,Fernando Muslera,967,Uruguay,27,FirstHalf,Pass,Unsuccessful,10.7,54.7,54.3,51.3
+300,122117,Aymeric Laporte,338,Spain,27,FirstHalf,Aerial,Successful,45.7,48.7,,
+177,400828,Darwin Núñez,967,Uruguay,27,FirstHalf,Aerial,Unsuccessful,54.3,51.3,,
+301,122117,Aymeric Laporte,338,Spain,27,FirstHalf,Interception,Successful,56.5,48.7,,
+178,460758,Maxi Araújo,967,Uruguay,27,FirstHalf,Pass,Successful,42.3,66.3,29.6,76.8
+179,347178,Mathías Olivera,967,Uruguay,27,FirstHalf,Pass,Successful,31.9,77.8,33.5,68.4
+180,408962,Manuel Ugarte,967,Uruguay,27,FirstHalf,Pass,Successful,33.5,68.4,29.4,78.3
+181,347178,Mathías Olivera,967,Uruguay,27,FirstHalf,Pass,Successful,23.9,66,24.4,28.3
+182,448735,Sebastián Cáceres,967,Uruguay,27,FirstHalf,Pass,Successful,29.2,17.5,26.2,59.5
+183,347178,Mathías Olivera,967,Uruguay,27,FirstHalf,Pass,Successful,26.2,59.5,32.1,41.1
+184,408962,Manuel Ugarte,967,Uruguay,27,FirstHalf,Pass,Successful,33.8,43.5,31.8,60.9
+185,347178,Mathías Olivera,967,Uruguay,27,FirstHalf,Pass,Successful,31.8,60.9,30.6,45.9
+186,408962,Manuel Ugarte,967,Uruguay,28,FirstHalf,Pass,Unsuccessful,30.5,42.4,59.8,29.7
+303,363496,Marc Cucurella,338,Spain,28,FirstHalf,Pass,Successful,40.7,71.3,44.4,68.9
+304,303139,Rodri,338,Spain,28,FirstHalf,Pass,Successful,44.4,68.9,45.1,81.2
+305,395242,Álex Baena,338,Spain,28,FirstHalf,Pass,Unsuccessful,45.1,81.2,41.7,77.6
+187,400828,Darwin Núñez,967,Uruguay,28,FirstHalf,Interception,Successful,58.3,22.4,,
+324,363496,Marc Cucurella,338,Spain,28,FirstHalf,BallTouch,Successful,38.3,81.6,,
+189,400828,Darwin Núñez,967,Uruguay,28,FirstHalf,BallRecovery,Successful,73.7,12.9,,
+190,400828,Darwin Núñez,967,Uruguay,28,FirstHalf,Pass,Unsuccessful,94.9,21.9,96.2,46.6
+306,332823,Unai Simón,338,Spain,28,FirstHalf,KeeperPickup,Successful,2,53.1,,
+308,332823,Unai Simón,338,Spain,28,FirstHalf,Pass,Successful,13.7,47.8,15.5,43.9
+309,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,18.2,45.7,26.4,55.7
+310,303139,Rodri,338,Spain,28,FirstHalf,Pass,Successful,34.3,60.2,30.3,40.4
+311,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,36.3,40.6,33,57.9
+312,122117,Aymeric Laporte,338,Spain,28,FirstHalf,Pass,Successful,37.1,62.1,42.2,33.7
+313,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,46.6,32.6,67.2,14
+314,238916,Mikel Merino,338,Spain,28,FirstHalf,Pass,Successful,69.9,11.6,62.3,2.9
+315,254582,Marcos Llorente,338,Spain,28,FirstHalf,Pass,Successful,61.2,3.5,47.9,25.9
+316,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Pass,Successful,48.5,30.8,55.3,68.3
+317,402197,Pedri,338,Spain,29,FirstHalf,Pass,Successful,65.2,78.2,61.7,94.8
+318,363496,Marc Cucurella,338,Spain,29,FirstHalf,Pass,Successful,60.5,94.4,42.8,66.2
+319,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,42.8,66.2,47,39.2
+320,498386,Pau Cubarsí,338,Spain,29,FirstHalf,Pass,Successful,46.2,35.8,51.6,56
+321,303139,Rodri,338,Spain,29,FirstHalf,Pass,Successful,51.6,56,40.6,60.8
+322,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,38.3,59.7,24.1,49.6
+323,332823,Unai Simón,338,Spain,29,FirstHalf,Pass,Successful,24.8,50,30.9,64.4
+325,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,53.8,68,65.7,61.7
+326,298839,Mikel Oyarzabal,338,Spain,29,FirstHalf,Pass,Unsuccessful,65.7,61.7,71.9,84.8
+191,145385,Guillermo Varela,967,Uruguay,29,FirstHalf,Pass,Unsuccessful,31,13,39,36.7
+327,303139,Rodri,338,Spain,29,FirstHalf,Aerial,Successful,61,63.3,,
+192,344644,Federico Valverde,967,Uruguay,29,FirstHalf,Aerial,Unsuccessful,39,36.7,,
+328,303139,Rodri,338,Spain,29,FirstHalf,Pass,Unsuccessful,61,63.3,81.1,75.6
+193,448735,Sebastián Cáceres,967,Uruguay,29,FirstHalf,Pass,Unsuccessful,26.9,25.8,65.1,16.5
+329,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,39.5,90.3,54.9,96
+330,402197,Pedri,338,Spain,29,FirstHalf,Pass,Unsuccessful,55.3,96,61.2,100
+195,145385,Guillermo Varela,967,Uruguay,29,FirstHalf,Pass,Successful,42.1,0,56.8,11.7
+196,400828,Darwin Núñez,967,Uruguay,29,FirstHalf,Pass,Successful,56.8,11.7,60.7,7
+197,303657,Rodrigo Bentancur,967,Uruguay,29,FirstHalf,Pass,Successful,61.2,6.6,72.9,4
+198,436657,Agustín Canobbio,967,Uruguay,30,FirstHalf,Pass,Successful,74.4,3.9,85.1,4.8
+199,303657,Rodrigo Bentancur,967,Uruguay,30,FirstHalf,Pass,Unsuccessful,86.9,7.6,100,99.1
+333,332823,Unai Simón,338,Spain,30,FirstHalf,Pass,Successful,4.3,49.1,11.9,32.5
+334,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,14.3,32.3,26.5,40.9
+335,303139,Rodri,338,Spain,30,FirstHalf,Pass,Successful,30.8,34.9,29.5,27.8
+336,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,29.8,31,29.5,63.5
+337,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,37.5,74.9,32.7,50.4
+338,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,53.7,41.8,65.7,43
+339,238916,Mikel Merino,338,Spain,30,FirstHalf,Pass,Unsuccessful,68,49.4,70.1,55.8
+201,303657,Rodrigo Bentancur,967,Uruguay,30,FirstHalf,BallTouch,Successful,30.5,40.6,,
+340,395242,Álex Baena,338,Spain,30,FirstHalf,BallTouch,Unsuccessful,71.4,82.9,,
+203,436657,Agustín Canobbio,967,Uruguay,30,FirstHalf,Pass,Unsuccessful,32.9,17.7,24.7,17.1
+341,238916,Mikel Merino,338,Spain,30,FirstHalf,Pass,Unsuccessful,77.8,93.4,75.8,80.3
+204,303657,Rodrigo Bentancur,967,Uruguay,30,FirstHalf,BallRecovery,Successful,26.7,19.8,,
+205,303657,Rodrigo Bentancur,967,Uruguay,30,FirstHalf,Pass,Successful,27.3,20.1,26.8,25.8
+206,408962,Manuel Ugarte,967,Uruguay,31,FirstHalf,Pass,Successful,26.8,25.8,40.7,19.6
+207,400828,Darwin Núñez,967,Uruguay,31,FirstHalf,Pass,Successful,40.7,19.6,36.4,16.5
+208,303657,Rodrigo Bentancur,967,Uruguay,31,FirstHalf,Pass,Successful,47.1,11.4,60.9,2.5
+209,436657,Agustín Canobbio,967,Uruguay,31,FirstHalf,Foul,Successful,62.3,12,,
+342,395242,Álex Baena,338,Spain,31,FirstHalf,Foul,Unsuccessful,37.8,88,,
+210,460758,Maxi Araújo,967,Uruguay,31,FirstHalf,Pass,Unsuccessful,68.9,11.4,92.1,68.2
+343,332823,Unai Simón,338,Spain,31,FirstHalf,Claim,Unsuccessful,7.9,31.8,,
+211,436657,Agustín Canobbio,967,Uruguay,31,FirstHalf,SavedShot,Successful,85.7,65.4,,
+344,402197,Pedri,338,Spain,31,FirstHalf,Save,Successful,13.8,36.4,,
+441,122117,Aymeric Laporte,338,Spain,31,FirstHalf,Clearance,Successful,8.8,51.9,28.9,50.1
+212,408962,Manuel Ugarte,967,Uruguay,32,FirstHalf,Pass,Unsuccessful,67.3,50.5,79.5,44.5
+345,122117,Aymeric Laporte,338,Spain,32,FirstHalf,Aerial,Successful,20.5,55.5,,
+213,448735,Sebastián Cáceres,967,Uruguay,32,FirstHalf,Aerial,Unsuccessful,79.5,44.5,,
+346,122117,Aymeric Laporte,338,Spain,32,FirstHalf,Clearance,Successful,20.5,55.5,25.8,68.7
+347,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Unsuccessful,26.3,69.3,55.5,41.6
+214,403752,Juan Manuel Sanabria,967,Uruguay,32,FirstHalf,Clearance,Successful,42.8,60.1,48.6,74.7
+348,298839,Mikel Oyarzabal,338,Spain,32,FirstHalf,BallRecovery,Successful,55.3,22.3,,
+349,298839,Mikel Oyarzabal,338,Spain,32,FirstHalf,TakeOn,Unsuccessful,58.2,21.2,,
+215,344644,Federico Valverde,967,Uruguay,32,FirstHalf,Tackle,Successful,41.8,78.8,,
+216,303657,Rodrigo Bentancur,967,Uruguay,32,FirstHalf,BallRecovery,Successful,58.5,90.3,,
+217,303657,Rodrigo Bentancur,967,Uruguay,32,FirstHalf,Pass,Successful,58.5,90.3,51.5,88.3
+218,344644,Federico Valverde,967,Uruguay,32,FirstHalf,Pass,Unsuccessful,52.8,88,66.9,86.8
+350,254582,Marcos Llorente,338,Spain,32,FirstHalf,BallRecovery,Successful,34.3,11.5,,
+351,254582,Marcos Llorente,338,Spain,32,FirstHalf,Pass,Successful,36.7,11.5,41.9,13.1
+352,402197,Pedri,338,Spain,32,FirstHalf,Pass,Successful,41.9,13.1,44.1,30.5
+353,303139,Rodri,338,Spain,32,FirstHalf,Pass,Successful,46.2,34.9,48.6,68.1
+354,363496,Marc Cucurella,338,Spain,32,FirstHalf,Pass,Successful,55.6,71.1,60,86.4
+355,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Successful,60.6,87.3,56,69.8
+356,303139,Rodri,338,Spain,32,FirstHalf,Pass,Successful,53.8,65.3,47.6,41.3
+357,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,53.4,33.4,63.4,8.5
+358,254582,Marcos Llorente,338,Spain,32,FirstHalf,Pass,Successful,69.5,4.4,61.9,26.2
+359,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,62.4,29.3,66.7,45.2
+360,303139,Rodri,338,Spain,32,FirstHalf,Pass,Successful,66.8,48.2,65.1,63
+361,122117,Aymeric Laporte,338,Spain,32,FirstHalf,Pass,Successful,69.4,69.6,72.7,76.5
+362,402197,Pedri,338,Spain,32,FirstHalf,Pass,Successful,73.8,77.4,80.8,93.3
+363,395242,Álex Baena,338,Spain,32,FirstHalf,Pass,Unsuccessful,80.1,90.8,94.9,47
+219,30966,Fernando Muslera,967,Uruguay,32,FirstHalf,KeeperPickup,Successful,3,52.3,,
+220,30966,Fernando Muslera,967,Uruguay,33,FirstHalf,Pass,Unsuccessful,13.6,51.9,79.8,80.5
+364,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,26.4,17,15.2,28.1
+365,332823,Unai Simón,338,Spain,33,FirstHalf,KeeperPickup,Successful,15.2,28.1,,
+366,332823,Unai Simón,338,Spain,33,FirstHalf,Pass,Successful,15.2,30.7,27.2,54.9
+367,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,28.1,54.9,45.7,49.3
+368,303139,Rodri,338,Spain,33,FirstHalf,Pass,Successful,54.8,42.1,62.8,35.9
+369,480249,Lamine Yamal,338,Spain,33,FirstHalf,Pass,Successful,62.2,36.1,53.3,41.9
+370,303139,Rodri,338,Spain,33,FirstHalf,Pass,Successful,53.3,41.9,52.8,25.3
+371,238916,Mikel Merino,338,Spain,33,FirstHalf,Pass,Successful,53.5,33.2,46.2,68.3
+372,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,61.4,74.7,59.3,65.3
+373,303139,Rodri,338,Spain,33,FirstHalf,Pass,Successful,59.3,65.3,57,74.6
+374,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,55.8,73.7,52.2,41.2
+375,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,54.8,31.1,63.6,25.6
+221,403752,Juan Manuel Sanabria,967,Uruguay,33,FirstHalf,Challenge,Unsuccessful,35,68.5,,
+376,480249,Lamine Yamal,338,Spain,33,FirstHalf,TakeOn,Successful,65,31.5,,
+377,480249,Lamine Yamal,338,Spain,33,FirstHalf,TakeOn,Unsuccessful,73.3,37.4,,
+222,403752,Juan Manuel Sanabria,967,Uruguay,33,FirstHalf,Tackle,Unsuccessful,26.6,62.6,,
+378,480249,Lamine Yamal,338,Spain,33,FirstHalf,BallTouch,Successful,76.1,35.3,,
+223,408962,Manuel Ugarte,967,Uruguay,33,FirstHalf,BallRecovery,Successful,31.3,62.8,,
+224,408962,Manuel Ugarte,967,Uruguay,33,FirstHalf,Pass,Unsuccessful,32.5,65.4,37.8,63.7
+379,238916,Mikel Merino,338,Spain,33,FirstHalf,Interception,Successful,62.2,36.3,,
+380,303139,Rodri,338,Spain,33,FirstHalf,BallRecovery,Successful,64.9,39.1,,
+381,303139,Rodri,338,Spain,33,FirstHalf,Pass,Successful,63.2,39.1,52.5,51
+382,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,53.3,52.4,60.2,65
+383,363496,Marc Cucurella,338,Spain,34,FirstHalf,Pass,Successful,62.9,73.2,64.8,90.5
+384,395242,Álex Baena,338,Spain,34,FirstHalf,Pass,Successful,63.3,90.3,59.6,69.5
+385,303139,Rodri,338,Spain,34,FirstHalf,Pass,Successful,65.8,63.3,69.4,67.7
+386,402197,Pedri,338,Spain,34,FirstHalf,Pass,Successful,66.6,65,60.6,36.7
+387,498386,Pau Cubarsí,338,Spain,34,FirstHalf,Pass,Successful,59.5,35.6,63.7,62
+388,402197,Pedri,338,Spain,34,FirstHalf,Pass,Successful,66.4,66.5,71.9,71.7
+389,303139,Rodri,338,Spain,34,FirstHalf,Pass,Successful,72.3,78.5,73.3,90.3
+390,363496,Marc Cucurella,338,Spain,34,FirstHalf,Pass,Successful,70.4,90.3,60.6,69.3
+391,122117,Aymeric Laporte,338,Spain,34,FirstHalf,Pass,Successful,70.2,70.8,71,75.5
+392,303139,Rodri,338,Spain,34,FirstHalf,Pass,Successful,69.3,74.4,64.8,41.9
+393,498386,Pau Cubarsí,338,Spain,34,FirstHalf,Pass,Successful,68.7,37.3,70.3,29
+394,402197,Pedri,338,Spain,34,FirstHalf,Pass,Successful,71.3,27.7,77.4,24.8
+395,480249,Lamine Yamal,338,Spain,34,FirstHalf,Pass,Unsuccessful,77.4,24.8,72.8,23.3
+225,303657,Rodrigo Bentancur,967,Uruguay,34,FirstHalf,TakeOn,Unsuccessful,31.2,76.4,,
+396,402197,Pedri,338,Spain,34,FirstHalf,Tackle,Unsuccessful,68.9,23.6,,
+226,460758,Maxi Araújo,967,Uruguay,34,FirstHalf,BallRecovery,Successful,28.1,73,,
+227,460758,Maxi Araújo,967,Uruguay,34,FirstHalf,Pass,Successful,28.5,69.1,35.1,61.2
+228,400828,Darwin Núñez,967,Uruguay,34,FirstHalf,Pass,Successful,52.8,86.5,57.5,96.9
+229,403752,Juan Manuel Sanabria,967,Uruguay,34,FirstHalf,Pass,Successful,57.8,92.8,63.8,86.8
+230,460758,Maxi Araújo,967,Uruguay,35,FirstHalf,Pass,Successful,61.3,92.7,40,88.6
+231,347178,Mathías Olivera,967,Uruguay,35,FirstHalf,Pass,Successful,39.5,83.4,32.5,67.2
+232,408962,Manuel Ugarte,967,Uruguay,35,FirstHalf,Pass,Successful,35.4,62.8,34.3,71.8
+233,347178,Mathías Olivera,967,Uruguay,35,FirstHalf,Pass,Successful,34.3,71.2,34.1,61.9
+234,408962,Manuel Ugarte,967,Uruguay,35,FirstHalf,Pass,Successful,39.2,60,58.1,94.6
+397,254582,Marcos Llorente,338,Spain,35,FirstHalf,Challenge,Unsuccessful,30.8,14.4,,
+235,460758,Maxi Araújo,967,Uruguay,35,FirstHalf,TakeOn,Successful,69.2,85.6,,
+398,303139,Rodri,338,Spain,35,FirstHalf,Challenge,Unsuccessful,30.5,26.2,,
+236,460758,Maxi Araújo,967,Uruguay,35,FirstHalf,TakeOn,Successful,69.5,73.8,,
+237,460758,Maxi Araújo,967,Uruguay,35,FirstHalf,Pass,Successful,70.6,70.8,69.8,43.2
+238,303657,Rodrigo Bentancur,967,Uruguay,35,FirstHalf,MissedShots,Successful,72.5,45.4,,
+400,332823,Unai Simón,338,Spain,35,FirstHalf,Pass,Successful,3.7,53.9,10.3,33.7
+401,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,13.1,40.9,7.4,51.3
+402,332823,Unai Simón,338,Spain,36,FirstHalf,Pass,Successful,19.2,51.9,54,83.7
+403,395242,Álex Baena,338,Spain,36,FirstHalf,Pass,Unsuccessful,54,83.7,80.2,100
+241,145385,Guillermo Varela,967,Uruguay,36,FirstHalf,Pass,Unsuccessful,32.1,0,60,10.6
+405,122117,Aymeric Laporte,338,Spain,36,FirstHalf,Aerial,Successful,40,89.4,,
+242,400828,Darwin Núñez,967,Uruguay,36,FirstHalf,Aerial,Unsuccessful,60,10.6,,
+406,122117,Aymeric Laporte,338,Spain,36,FirstHalf,Interception,Successful,40.1,90.9,,
+407,395242,Álex Baena,338,Spain,36,FirstHalf,Pass,Successful,45.2,96.9,39.3,93.9
+408,363496,Marc Cucurella,338,Spain,36,FirstHalf,BallTouch,Unsuccessful,39.3,93.9,,
+243,400828,Darwin Núñez,967,Uruguay,36,FirstHalf,Dispossessed,Successful,62,7.6,,
+409,363496,Marc Cucurella,338,Spain,36,FirstHalf,Tackle,Unsuccessful,38,92.4,,
+244,400828,Darwin Núñez,967,Uruguay,36,FirstHalf,BallTouch,Successful,62.1,8.1,,
+410,363496,Marc Cucurella,338,Spain,36,FirstHalf,BallTouch,Successful,38.1,93.2,,
+411,122117,Aymeric Laporte,338,Spain,36,FirstHalf,Pass,Unsuccessful,38.7,92.3,70.1,48.4
+245,347178,Mathías Olivera,967,Uruguay,36,FirstHalf,Pass,Unsuccessful,29.5,46.5,55.7,71.5
+246,460758,Maxi Araújo,967,Uruguay,36,FirstHalf,Foul,Successful,53.8,70.3,,
+412,254582,Marcos Llorente,338,Spain,36,FirstHalf,Foul,Unsuccessful,46.3,29.8,,
+247,347178,Mathías Olivera,967,Uruguay,37,FirstHalf,Pass,Successful,51.6,73.2,47.4,25.2
+248,448735,Sebastián Cáceres,967,Uruguay,37,FirstHalf,Pass,Successful,49.4,20.5,62.6,5.2
+249,436657,Agustín Canobbio,967,Uruguay,37,FirstHalf,TakeOn,Unsuccessful,63,7.2,,
+413,395242,Álex Baena,338,Spain,37,FirstHalf,Tackle,Unsuccessful,37,92.8,,
+256,436657,Agustín Canobbio,967,Uruguay,37,FirstHalf,BallTouch,Unsuccessful,66.1,12.3,,
+414,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,33.6,77.9,31.3,86.4
+415,363496,Marc Cucurella,338,Spain,37,FirstHalf,BallRecovery,Successful,31.8,88.2,,
+416,363496,Marc Cucurella,338,Spain,37,FirstHalf,Pass,Successful,31.8,88.2,37.1,91.7
+417,395242,Álex Baena,338,Spain,37,FirstHalf,Pass,Successful,37.1,91.7,33.3,72
+418,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,33.3,69.9,25.8,52.2
+419,498386,Pau Cubarsí,338,Spain,37,FirstHalf,Pass,Successful,25.7,53.6,23.9,66.5
+420,122117,Aymeric Laporte,338,Spain,37,FirstHalf,Pass,Successful,32.6,70.8,38.1,71.4
+421,303139,Rodri,338,Spain,37,FirstHalf,Pass,Successful,38.9,71,35.6,49
+422,498386,Pau Cubarsí,338,Spain,37,FirstHalf,Pass,Successful,46.6,49.7,70,66.6
+423,238916,Mikel Merino,338,Spain,37,FirstHalf,Pass,Successful,71.5,65.3,70.5,46.6
+424,402197,Pedri,338,Spain,37,FirstHalf,Pass,Unsuccessful,71.7,52.7,74.8,60.5
+250,303657,Rodrigo Bentancur,967,Uruguay,37,FirstHalf,BallTouch,Successful,27.4,40.3,,
+251,460758,Maxi Araújo,967,Uruguay,37,FirstHalf,BallRecovery,Successful,33.2,30.6,,
+252,460758,Maxi Araújo,967,Uruguay,37,FirstHalf,Dispossessed,Successful,32.8,11.8,,
+425,402197,Pedri,338,Spain,37,FirstHalf,Tackle,Successful,67.2,88.2,,
+254,145385,Guillermo Varela,967,Uruguay,38,FirstHalf,Pass,Successful,35.8,0,45.3,6.6
+255,436657,Agustín Canobbio,967,Uruguay,38,FirstHalf,BallTouch,Unsuccessful,45.3,6.6,,
+427,363496,Marc Cucurella,338,Spain,38,FirstHalf,Pass,Successful,53.8,87.3,62.8,73.4
+428,238916,Mikel Merino,338,Spain,38,FirstHalf,Pass,Successful,62.8,73.4,62.1,82.7
+429,402197,Pedri,338,Spain,38,FirstHalf,BallRecovery,Successful,62.1,82.7,,
+430,402197,Pedri,338,Spain,38,FirstHalf,Pass,Successful,62.1,82.7,54.4,80.1
+431,303139,Rodri,338,Spain,38,FirstHalf,Pass,Successful,54.4,80.1,38.7,67.4
+432,498386,Pau Cubarsí,338,Spain,38,FirstHalf,Pass,Successful,39.2,65.6,54.1,25.6
+433,254582,Marcos Llorente,338,Spain,38,FirstHalf,Pass,Successful,54.3,26,41.1,40.1
+434,498386,Pau Cubarsí,338,Spain,38,FirstHalf,Pass,Successful,39.8,43,47.8,51.9
+435,303139,Rodri,338,Spain,38,FirstHalf,Pass,Successful,55.4,58.1,68.2,56.4
+436,298839,Mikel Oyarzabal,338,Spain,38,FirstHalf,Pass,Successful,56.8,53.6,56,64.1
+437,303139,Rodri,338,Spain,38,FirstHalf,Pass,Unsuccessful,57,64.1,64.9,49.1
+258,408962,Manuel Ugarte,967,Uruguay,38,FirstHalf,Interception,Successful,35.1,50.9,,
+259,400828,Darwin Núñez,967,Uruguay,38,FirstHalf,BallRecovery,Successful,44.4,50.1,,
+260,400828,Darwin Núñez,967,Uruguay,38,FirstHalf,MissedShots,Successful,43.1,50.5,,
+438,332823,Unai Simón,338,Spain,38,FirstHalf,BallRecovery,Successful,8.7,42.4,,
+444,332823,Unai Simón,338,Spain,40,FirstHalf,KeeperPickup,Successful,13.7,52.1,,
+445,332823,Unai Simón,338,Spain,40,FirstHalf,Pass,Successful,12.1,54.6,21.2,82.1
+446,122117,Aymeric Laporte,338,Spain,40,FirstHalf,Pass,Successful,21,84.2,8.6,57.2
+447,332823,Unai Simón,338,Spain,40,FirstHalf,Pass,Successful,9.3,55.5,55.5,14.3
+448,238916,Mikel Merino,338,Spain,40,FirstHalf,Aerial,Successful,55.5,14.3,,
+264,347178,Mathías Olivera,967,Uruguay,40,FirstHalf,Aerial,Unsuccessful,44.5,85.7,,
+449,238916,Mikel Merino,338,Spain,40,FirstHalf,Pass,Unsuccessful,55.5,14.3,65.8,8.3
+265,403752,Juan Manuel Sanabria,967,Uruguay,40,FirstHalf,Pass,Unsuccessful,40.3,90,57.3,90.1
+450,254582,Marcos Llorente,338,Spain,40,FirstHalf,Pass,Successful,42,7.6,46,12.5
+451,238916,Mikel Merino,338,Spain,40,FirstHalf,Dispossessed,Successful,45,12.6,,
+266,408962,Manuel Ugarte,967,Uruguay,40,FirstHalf,Tackle,Unsuccessful,55,87.4,,
+452,254582,Marcos Llorente,338,Spain,40,FirstHalf,Pass,Successful,44.2,9.4,52,7.9
+453,480249,Lamine Yamal,338,Spain,40,FirstHalf,Pass,Successful,52,7.9,54,31.3
+454,402197,Pedri,338,Spain,40,FirstHalf,Pass,Successful,53.6,27.4,57.9,12.1
+455,238916,Mikel Merino,338,Spain,40,FirstHalf,Pass,Successful,60,10.6,67,5.6
+456,480249,Lamine Yamal,338,Spain,40,FirstHalf,Pass,Unsuccessful,66.5,5.6,68,10.6
+269,303657,Rodrigo Bentancur,967,Uruguay,40,FirstHalf,BallTouch,Successful,35.3,88,,
+457,402197,Pedri,338,Spain,40,FirstHalf,Pass,Successful,71.8,27.8,84.1,13.9
+458,480249,Lamine Yamal,338,Spain,40,FirstHalf,TakeOn,Unsuccessful,90.3,14.2,,
+270,403752,Juan Manuel Sanabria,967,Uruguay,40,FirstHalf,Tackle,Unsuccessful,9.6,85.8,,
+459,480249,Lamine Yamal,338,Spain,41,FirstHalf,BallTouch,Unsuccessful,87.2,14.9,,
+271,403752,Juan Manuel Sanabria,967,Uruguay,41,FirstHalf,Pass,Unsuccessful,13.4,83.7,20.7,80.2
+460,238916,Mikel Merino,338,Spain,41,FirstHalf,BlockedPass,Successful,79.3,19.8,,
+272,460758,Maxi Araújo,967,Uruguay,41,FirstHalf,Challenge,Unsuccessful,13.4,90.2,,
+461,254582,Marcos Llorente,338,Spain,41,FirstHalf,TakeOn,Successful,86.6,9.8,,
+462,254582,Marcos Llorente,338,Spain,41,FirstHalf,Pass,Successful,92.7,5.9,89,43.7
+273,30966,Fernando Muslera,967,Uruguay,41,FirstHalf,Error,Successful,2.5,50.5,,
+463,395242,Álex Baena,338,Spain,41,FirstHalf,Goal,Successful,85.9,45.7,,
+278,408962,Manuel Ugarte,967,Uruguay,44,FirstHalf,SubstitutionOff,Successful,0,0,,
+279,345389,Nicolás de la Cruz,967,Uruguay,44,FirstHalf,SubstitutionOn,Successful,0,0,,
+287,,,967,Uruguay,44,FirstHalf,FormationChange,Successful,0,0,,
+280,400828,Darwin Núñez,967,Uruguay,44,FirstHalf,Pass,Successful,49.7,50.1,38.7,53.8
+281,303657,Rodrigo Bentancur,967,Uruguay,44,FirstHalf,Pass,Successful,38.3,52.3,31.8,28.6
+282,448735,Sebastián Cáceres,967,Uruguay,44,FirstHalf,Pass,Unsuccessful,32,19.3,36.8,18.1
+467,298839,Mikel Oyarzabal,338,Spain,44,FirstHalf,BlockedPass,Successful,63.2,81.9,,
+284,145385,Guillermo Varela,967,Uruguay,44,FirstHalf,Pass,Successful,38.3,0,55.3,5.1
+285,436657,Agustín Canobbio,967,Uruguay,44,FirstHalf,Pass,Successful,55.4,5.1,51.2,10.5
+11290,460758,Maxi Araújo,967,Uruguay,45,FirstHalf,OffsideGiven,Unsuccessful,67.3,88.5,,
+286,145385,Guillermo Varela,967,Uruguay,45,FirstHalf,Foul,Successful,54.6,15.6,,
+469,402197,Pedri,338,Spain,45,FirstHalf,Foul,Unsuccessful,45.4,84.4,,
+288,145385,Guillermo Varela,967,Uruguay,45,FirstHalf,Pass,Successful,53.7,15.4,37.2,22.9
+289,448735,Sebastián Cáceres,967,Uruguay,45,FirstHalf,Pass,Successful,37.2,22.9,13.8,51.1
+290,30966,Fernando Muslera,967,Uruguay,45,FirstHalf,OffsidePass,Successful,18.3,50.4,67.3,88.5
+471,254582,Marcos Llorente,338,Spain,45,FirstHalf,OffsideProvoked,Successful,41,15.4,,
+472,303139,Rodri,338,Spain,45,FirstHalf,Pass,Successful,31.3,24.2,35.2,7.7
+473,254582,Marcos Llorente,338,Spain,45,FirstHalf,Pass,Successful,34.5,7.6,25.1,20.3
+474,303139,Rodri,338,Spain,45,FirstHalf,Pass,Successful,25.6,21.4,11.8,29.2
+475,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Pass,Successful,11.4,30.2,3.4,51
+476,332823,Unai Simón,338,Spain,45,FirstHalf,Pass,Successful,4,51.5,9.1,77.7
+477,122117,Aymeric Laporte,338,Spain,45,FirstHalf,Pass,Unsuccessful,13.5,83.4,53.2,54.5
+292,448735,Sebastián Cáceres,967,Uruguay,45,FirstHalf,Pass,Successful,46.8,47.2,68.4,58.9
+293,344644,Federico Valverde,967,Uruguay,45,FirstHalf,BallRecovery,Successful,66.7,60.1,,
+294,344644,Federico Valverde,967,Uruguay,45,FirstHalf,Pass,Successful,66.7,60.1,68.5,74.2
+295,460758,Maxi Araújo,967,Uruguay,45,FirstHalf,Pass,Unsuccessful,66,75.4,70.9,65.8
+480,498386,Pau Cubarsí,338,Spain,45,FirstHalf,Clearance,Successful,27.8,32,39.3,36.2
+481,238916,Mikel Merino,338,Spain,45,FirstHalf,Pass,Successful,39.3,36.2,46.6,49.6
+482,298839,Mikel Oyarzabal,338,Spain,45,FirstHalf,Dispossessed,Successful,46.8,46.9,,
+296,303657,Rodrigo Bentancur,967,Uruguay,45,FirstHalf,Tackle,Successful,53.2,53.1,,
+297,448735,Sebastián Cáceres,967,Uruguay,46,FirstHalf,Pass,Successful,47.7,54.9,43.7,66.6
+298,347178,Mathías Olivera,967,Uruguay,46,FirstHalf,Pass,Successful,44.1,68.4,61.6,82.5
+299,460758,Maxi Araújo,967,Uruguay,46,FirstHalf,Pass,Successful,61.6,82.5,55.7,88.8
+300,403752,Juan Manuel Sanabria,967,Uruguay,46,FirstHalf,Pass,Successful,55.5,88.9,44.1,74.5
+301,303657,Rodrigo Bentancur,967,Uruguay,46,FirstHalf,Pass,Successful,46.6,55.6,46.9,27.1
+302,448735,Sebastián Cáceres,967,Uruguay,46,FirstHalf,Pass,Successful,39.9,30.7,37.2,56.5
+303,347178,Mathías Olivera,967,Uruguay,46,FirstHalf,Pass,Successful,33.7,54,45.7,58.6
+304,344644,Federico Valverde,967,Uruguay,46,FirstHalf,Pass,Unsuccessful,45.7,58.6,53.6,51.1
+483,402197,Pedri,338,Spain,46,FirstHalf,Pass,Unsuccessful,47.4,57,45,57.8
+305,345389,Nicolás de la Cruz,967,Uruguay,46,FirstHalf,BlockedPass,Successful,55,42.2,,
+306,345389,Nicolás de la Cruz,967,Uruguay,46,FirstHalf,BallTouch,Unsuccessful,53.8,50.5,,
+484,122117,Aymeric Laporte,338,Spain,46,FirstHalf,Dispossessed,Successful,40,65.1,,
+308,345389,Nicolás de la Cruz,967,Uruguay,46,FirstHalf,Tackle,Unsuccessful,60,34.9,,
+485,402197,Pedri,338,Spain,46,FirstHalf,BallRecovery,Successful,42.8,67.1,,
+486,402197,Pedri,338,Spain,46,FirstHalf,Foul,Successful,45.6,71,,
+307,436657,Agustín Canobbio,967,Uruguay,46,FirstHalf,Foul,Unsuccessful,54.4,29,,
+487,303139,Rodri,338,Spain,46,FirstHalf,Pass,Successful,43.4,68.3,48.4,57.8
+488,402197,Pedri,338,Spain,46,FirstHalf,Pass,Successful,45.1,56.1,32.3,69.5
+489,122117,Aymeric Laporte,338,Spain,46,FirstHalf,Pass,Successful,31.7,73.1,38.9,74.7
+490,303139,Rodri,338,Spain,47,FirstHalf,Pass,Successful,53.4,48.5,55.4,11.6
+491,254582,Marcos Llorente,338,Spain,47,FirstHalf,Pass,Successful,44.8,10.7,37,25.7
+492,498386,Pau Cubarsí,338,Spain,47,FirstHalf,Pass,Successful,38,27.1,46.2,24.5
+493,238916,Mikel Merino,338,Spain,47,FirstHalf,Pass,Successful,46.2,24.5,47,43.1
+494,303139,Rodri,338,Spain,47,FirstHalf,Pass,Successful,47,43.1,57.3,51.3
+495,298839,Mikel Oyarzabal,338,Spain,47,FirstHalf,Pass,Unsuccessful,57.3,51.3,56,36.8
+309,448735,Sebastián Cáceres,967,Uruguay,47,FirstHalf,Interception,Successful,44,63.2,,
+310,344644,Federico Valverde,967,Uruguay,47,FirstHalf,BallRecovery,Successful,49.4,66.9,,
+311,344644,Federico Valverde,967,Uruguay,47,FirstHalf,Pass,Successful,49.4,66.9,44.1,67.6
+312,347178,Mathías Olivera,967,Uruguay,47,FirstHalf,Pass,Successful,44.1,67.6,58.2,84
+313,460758,Maxi Araújo,967,Uruguay,47,FirstHalf,Pass,Successful,62.2,84.7,81.2,96.3
+314,403752,Juan Manuel Sanabria,967,Uruguay,47,FirstHalf,Pass,Unsuccessful,85.7,95.4,90.3,63.9
+496,498386,Pau Cubarsí,338,Spain,47,FirstHalf,Clearance,Successful,9.4,36.5,7,15.5
+497,254582,Marcos Llorente,338,Spain,47,FirstHalf,BallRecovery,Successful,6.5,14.8,,
+498,254582,Marcos Llorente,338,Spain,47,FirstHalf,Pass,Successful,6.2,10.4,14.3,6.2
+499,238916,Mikel Merino,338,Spain,47,FirstHalf,Pass,Successful,14.3,6.2,14,13.9
+500,303139,Rodri,338,Spain,47,FirstHalf,Pass,Successful,14,13.9,1.7,12.4
+501,254582,Marcos Llorente,338,Spain,47,FirstHalf,Pass,Unsuccessful,1.7,12.4,24.4,3.8
+315,344644,Federico Valverde,967,Uruguay,47,FirstHalf,BallTouch,Unsuccessful,78.9,96.6,,
+503,254582,Marcos Llorente,338,Spain,47,FirstHalf,Pass,Successful,26.1,0,24.4,8.2
+504,303139,Rodri,338,Spain,47,FirstHalf,Pass,Successful,19.4,11.2,14.6,46.4
+505,122117,Aymeric Laporte,338,Spain,47,FirstHalf,Pass,Successful,26.8,60,34.3,57
+506,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,41.9,68.7,35.7,43.3
+507,498386,Pau Cubarsí,338,Spain,48,FirstHalf,Pass,Successful,35.8,42.7,43.2,75
+508,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,58.4,77.7,66.9,77.4
+509,395242,Álex Baena,338,Spain,48,FirstHalf,Pass,Successful,67,77.3,60.9,92.1
+510,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,59.4,92.9,35.8,71.9
+511,122117,Aymeric Laporte,338,Spain,48,FirstHalf,Pass,Successful,28.2,65.4,19.2,50.3
+512,332823,Unai Simón,338,Spain,48,FirstHalf,Pass,Successful,19.2,50.3,29.7,57.9
+513,402197,Pedri,338,Spain,48,FirstHalf,Pass,Successful,29.7,57.9,24.8,77.6
+514,122117,Aymeric Laporte,338,Spain,48,FirstHalf,Pass,Successful,26.5,77.7,32.1,92.6
+515,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,33.1,92.3,28.9,85.4
+516,122117,Aymeric Laporte,338,Spain,48,FirstHalf,Pass,Successful,28.2,82.7,32.5,74.7
+517,402197,Pedri,338,Spain,48,FirstHalf,Pass,Successful,34,75.8,38.6,90.9
+518,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,37.6,88.4,39.6,57.2
+519,395242,Álex Baena,338,Spain,48,FirstHalf,Pass,Successful,39.6,55.8,56,48.5
+520,238916,Mikel Merino,338,Spain,48,FirstHalf,Pass,Successful,56.6,50.7,68.6,63.2
+521,303139,Rodri,338,Spain,48,FirstHalf,Pass,Successful,78.1,68,98.2,74.4
+522,298839,Mikel Oyarzabal,338,Spain,48,FirstHalf,BallTouch,Unsuccessful,98.2,74.4,,
+318,30966,Fernando Muslera,967,Uruguay,49,FirstHalf,Pass,Successful,5.2,39.4,62.1,36.4
+319,400828,Darwin Núñez,967,Uruguay,49,FirstHalf,Pass,Unsuccessful,62.1,36.6,78.1,30.7
+524,363496,Marc Cucurella,338,Spain,49,FirstHalf,Pass,Successful,26.6,67.2,31.4,61.4
+525,122117,Aymeric Laporte,338,Spain,49,FirstHalf,Pass,Successful,31.4,61.4,33.3,67.1
+526,303139,Rodri,338,Spain,49,FirstHalf,Pass,Unsuccessful,30.9,78.5,33.1,80.6
+320,345389,Nicolás de la Cruz,967,Uruguay,49,FirstHalf,BlockedPass,Successful,66.9,19.4,,
+540,303139,Rodri,338,Spain,49,FirstHalf,BallTouch,Successful,29.5,86,,
+322,145385,Guillermo Varela,967,Uruguay,49,FirstHalf,Pass,Successful,68.5,0,64.1,5.7
+528,395242,Álex Baena,338,Spain,49,FirstHalf,Challenge,Unsuccessful,33,93,,
+323,345389,Nicolás de la Cruz,967,Uruguay,49,FirstHalf,TakeOn,Successful,67,7,,
+324,345389,Nicolás de la Cruz,967,Uruguay,49,FirstHalf,Dispossessed,Successful,69.4,21.9,,
+529,303139,Rodri,338,Spain,49,FirstHalf,Tackle,Successful,30.6,78.1,,
+530,238916,Mikel Merino,338,Spain,49,FirstHalf,BallTouch,Successful,33.1,66.8,,
+531,402197,Pedri,338,Spain,49,FirstHalf,Foul,Successful,37,75.2,,
+325,303657,Rodrigo Bentancur,967,Uruguay,49,FirstHalf,Foul,Unsuccessful,63,24.9,,
+532,122117,Aymeric Laporte,338,Spain,49,FirstHalf,Pass,Successful,35.6,70.8,32.9,42.7
+533,498386,Pau Cubarsí,338,Spain,49,FirstHalf,Pass,Successful,34.7,41,32.7,65.4
+534,122117,Aymeric Laporte,338,Spain,50,FirstHalf,Pass,Successful,33.5,65.7,31.7,38.2
+535,498386,Pau Cubarsí,338,Spain,50,FirstHalf,Pass,Successful,32.3,35.9,36.6,10.9
+536,254582,Marcos Llorente,338,Spain,50,FirstHalf,Pass,Successful,30,10.1,9,19.6
+537,498386,Pau Cubarsí,338,Spain,50,FirstHalf,Pass,Unsuccessful,9.2,6.2,34.2,0
+327,403752,Juan Manuel Sanabria,967,Uruguay,50,FirstHalf,Pass,Successful,68.8,100,74.9,91.5
+328,460758,Maxi Araújo,967,Uruguay,50,FirstHalf,Foul,Successful,75.6,92.6,,
+539,238916,Mikel Merino,338,Spain,50,FirstHalf,Foul,Unsuccessful,24.4,7.4,,
+329,460758,Maxi Araújo,967,Uruguay,51,FirstHalf,Pass,Unsuccessful,80.9,96.3,92.7,41.1
+541,122117,Aymeric Laporte,338,Spain,51,FirstHalf,Clearance,Successful,8.9,52.4,5.5,100
+331,145385,Guillermo Varela,967,Uruguay,51,FirstHalf,Pass,Successful,90.7,0,88.6,12
+332,303657,Rodrigo Bentancur,967,Uruguay,51,FirstHalf,Pass,Successful,88.6,12,85.8,6.4
+333,145385,Guillermo Varela,967,Uruguay,51,FirstHalf,Pass,Successful,85.8,6.4,89.2,8.7
+334,303657,Rodrigo Bentancur,967,Uruguay,51,FirstHalf,BallTouch,Unsuccessful,82.1,4.6,,
+543,402197,Pedri,338,Spain,51,FirstHalf,BallRecovery,Successful,25.1,92.7,,
+544,402197,Pedri,338,Spain,51,FirstHalf,Pass,Successful,26,93.9,25,76.2
+545,303139,Rodri,338,Spain,51,FirstHalf,Pass,Successful,23.7,74,21.1,66
+546,122117,Aymeric Laporte,338,Spain,51,FirstHalf,Pass,Successful,20.8,65.6,22.8,76.1
+547,303139,Rodri,338,Spain,51,FirstHalf,Pass,Successful,22,77.6,24.7,91.8
+548,363496,Marc Cucurella,338,Spain,51,FirstHalf,Pass,Successful,23.6,91.5,13.2,84
+549,303139,Rodri,338,Spain,51,FirstHalf,Pass,Successful,12.4,82.8,3.5,47.3
+550,332823,Unai Simón,338,Spain,51,FirstHalf,Pass,Unsuccessful,12,46,32.4,59
+335,303657,Rodrigo Bentancur,967,Uruguay,51,FirstHalf,Interception,Successful,67.6,41,,
+336,303657,Rodrigo Bentancur,967,Uruguay,51,FirstHalf,BallRecovery,Successful,69.6,50.7,,
+337,303657,Rodrigo Bentancur,967,Uruguay,51,FirstHalf,Pass,Successful,69.6,50.7,77.4,66.1
+338,460758,Maxi Araújo,967,Uruguay,52,FirstHalf,BallTouch,Unsuccessful,77.5,67,,
+551,254582,Marcos Llorente,338,Spain,52,FirstHalf,Clearance,Successful,22.5,32.8,26.2,36.2
+339,460758,Maxi Araújo,967,Uruguay,52,FirstHalf,BallTouch,Successful,78.1,69.6,,
+340,344644,Federico Valverde,967,Uruguay,52,FirstHalf,Pass,Successful,75.2,74.2,72.3,63
+341,303657,Rodrigo Bentancur,967,Uruguay,52,FirstHalf,Pass,Successful,72.3,63,89.1,79.3
+342,344644,Federico Valverde,967,Uruguay,52,FirstHalf,Pass,Unsuccessful,89.1,79.3,90.9,51.9
+552,122117,Aymeric Laporte,338,Spain,52,FirstHalf,Interception,Successful,9.1,48.1,,
+553,332823,Unai Simón,338,Spain,52,FirstHalf,Save,Successful,1.2,48.8,,
+554,332823,Unai Simón,338,Spain,52,FirstHalf,KeeperPickup,Successful,3.3,49.9,,
+555,332823,Unai Simón,338,Spain,52,FirstHalf,Pass,Successful,10,51.2,24.1,76.2
+556,122117,Aymeric Laporte,338,Spain,52,FirstHalf,Pass,Successful,24.1,76.2,18.5,52.7
+557,303139,Rodri,338,Spain,52,FirstHalf,Pass,Successful,34.1,28.1,41.1,25.7
+558,480249,Lamine Yamal,338,Spain,52,FirstHalf,Pass,Successful,42.1,26,34.8,14.3
+559,303139,Rodri,338,Spain,52,FirstHalf,Pass,Successful,34.1,10.3,41.8,4.4
+560,254582,Marcos Llorente,338,Spain,52,FirstHalf,Pass,Successful,41.5,4.4,31.9,6.4
+561,303139,Rodri,338,Spain,52,FirstHalf,Pass,Successful,29,9.1,24,29.6
+562,498386,Pau Cubarsí,338,Spain,52,FirstHalf,Pass,Successful,25.1,31.7,29.1,62
+563,122117,Aymeric Laporte,338,Spain,52,FirstHalf,Pass,Successful,39,68,63.5,58.8
+564,298839,Mikel Oyarzabal,338,Spain,52,FirstHalf,Pass,Successful,63.5,58.8,54.1,56.6
+565,238916,Mikel Merino,338,Spain,52,FirstHalf,Pass,Successful,54.1,56.6,59.9,71.1
+566,298839,Mikel Oyarzabal,338,Spain,52,FirstHalf,Pass,Successful,57.3,71.4,42.2,77.9
+567,122117,Aymeric Laporte,338,Spain,52,FirstHalf,Pass,Successful,45.5,77.3,62,67.1
+568,298839,Mikel Oyarzabal,338,Spain,52,FirstHalf,MissedShots,Successful,68.2,60.1,,
+344,,,967,Uruguay,53,FirstHalf,End,Successful,0,0,,
+570,,,338,Spain,53,FirstHalf,End,Successful,0,0,,
+345,30966,Fernando Muslera,967,Uruguay,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+346,231141,Sergio Rochet,967,Uruguay,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+347,,,967,Uruguay,45,SecondHalf,Start,Successful,0,0,,
+571,,,338,Spain,45,SecondHalf,Start,Successful,0,0,,
+348,344644,Federico Valverde,967,Uruguay,45,SecondHalf,Pass,Successful,50.1,49.9,36.2,54.9
+349,303657,Rodrigo Bentancur,967,Uruguay,45,SecondHalf,Pass,Successful,36.2,54.9,28.9,59.1
+350,347178,Mathías Olivera,967,Uruguay,45,SecondHalf,Pass,Successful,30.3,55.5,31,15
+351,448735,Sebastián Cáceres,967,Uruguay,45,SecondHalf,Pass,Successful,31.2,14.8,56.3,6.4
+352,436657,Agustín Canobbio,967,Uruguay,45,SecondHalf,Foul,Successful,55,6.4,,
+572,395242,Álex Baena,338,Spain,45,SecondHalf,Foul,Unsuccessful,45,93.6,,
+353,145385,Guillermo Varela,967,Uruguay,45,SecondHalf,Pass,Successful,53.9,4.3,29.5,8.5
+354,448735,Sebastián Cáceres,967,Uruguay,45,SecondHalf,Pass,Successful,28.8,10,8.6,45.3
+355,231141,Sergio Rochet,967,Uruguay,45,SecondHalf,Pass,Successful,8.6,45.3,78.6,28.3
+356,400828,Darwin Núñez,967,Uruguay,45,SecondHalf,BallTouch,Unsuccessful,88.4,29.8,,
+573,498386,Pau Cubarsí,338,Spain,45,SecondHalf,Clearance,Successful,7.8,65.9,14.9,77.3
+357,436657,Agustín Canobbio,967,Uruguay,45,SecondHalf,Pass,Successful,74.4,12.3,82.6,5.2
+358,145385,Guillermo Varela,967,Uruguay,45,SecondHalf,Pass,Successful,82.6,5.2,91.5,11.8
+359,436657,Agustín Canobbio,967,Uruguay,45,SecondHalf,Foul,Successful,92,12.2,,
+574,395242,Álex Baena,338,Spain,45,SecondHalf,Foul,Unsuccessful,8,87.8,,
+575,395242,Álex Baena,338,Spain,45,SecondHalf,Card,Successful,0,0,,
+360,460758,Maxi Araújo,967,Uruguay,46,SecondHalf,Pass,Unsuccessful,95.9,13.9,97,50.1
+576,303139,Rodri,338,Spain,46,SecondHalf,Clearance,Successful,4,49.4,12.2,0
+11365,460758,Maxi Araújo,967,Uruguay,47,SecondHalf,OffsideGiven,Unsuccessful,78.9,52.1,,
+362,403752,Juan Manuel Sanabria,967,Uruguay,47,SecondHalf,Pass,Successful,88.6,100,67.4,90.3
+363,347178,Mathías Olivera,967,Uruguay,47,SecondHalf,Pass,Successful,64.9,87.6,66.2,69.3
+364,303657,Rodrigo Bentancur,967,Uruguay,47,SecondHalf,Pass,Successful,65.7,67.3,64.3,42.1
+365,345389,Nicolás de la Cruz,967,Uruguay,47,SecondHalf,OffsidePass,Successful,64.2,43.4,78.9,52.1
+578,498386,Pau Cubarsí,338,Spain,47,SecondHalf,OffsideProvoked,Successful,25.2,49.7,,
+579,332823,Unai Simón,338,Spain,47,SecondHalf,Pass,Successful,10.8,52.5,29.6,8.3
+580,238916,Mikel Merino,338,Spain,47,SecondHalf,Pass,Successful,34.5,6.8,44.2,21.7
+581,480249,Lamine Yamal,338,Spain,47,SecondHalf,Pass,Successful,45.5,52.2,44.3,89.3
+582,363496,Marc Cucurella,338,Spain,47,SecondHalf,Pass,Successful,43,84.8,44.8,71
+583,402197,Pedri,338,Spain,47,SecondHalf,Pass,Successful,44,69.8,32.9,68.7
+584,122117,Aymeric Laporte,338,Spain,47,SecondHalf,Pass,Successful,33.3,63.6,30.7,38.6
+585,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,34.4,30.4,34.8,11.9
+586,254582,Marcos Llorente,338,Spain,47,SecondHalf,Pass,Successful,30.5,9.8,19.4,29.9
+587,498386,Pau Cubarsí,338,Spain,47,SecondHalf,Pass,Successful,13.5,31.9,7.6,49.6
+588,332823,Unai Simón,338,Spain,48,SecondHalf,Pass,Successful,9.1,53.9,12.2,75.2
+589,122117,Aymeric Laporte,338,Spain,48,SecondHalf,Pass,Successful,20.9,78.9,32.6,68.6
+590,303139,Rodri,338,Spain,48,SecondHalf,Pass,Successful,42.5,48.1,38,27.4
+591,254582,Marcos Llorente,338,Spain,48,SecondHalf,Pass,Successful,39.7,23.6,55.3,5.6
+592,480249,Lamine Yamal,338,Spain,48,SecondHalf,Pass,Successful,55.3,5.5,40.3,6.4
+593,254582,Marcos Llorente,338,Spain,48,SecondHalf,Pass,Successful,39.9,6.4,31.3,30.4
+594,303139,Rodri,338,Spain,48,SecondHalf,Pass,Successful,30.6,32,23.9,54
+595,498386,Pau Cubarsí,338,Spain,48,SecondHalf,Pass,Successful,23.9,54.3,28.3,74.9
+596,122117,Aymeric Laporte,338,Spain,48,SecondHalf,Pass,Unsuccessful,29.9,75.6,91.8,76.8
+368,231141,Sergio Rochet,967,Uruguay,48,SecondHalf,KeeperPickup,Successful,8.4,24.7,,
+370,231141,Sergio Rochet,967,Uruguay,48,SecondHalf,Pass,Successful,13.6,41.7,18.9,63
+371,347178,Mathías Olivera,967,Uruguay,48,SecondHalf,Pass,Successful,18.9,63,5.9,50.8
+372,231141,Sergio Rochet,967,Uruguay,48,SecondHalf,Pass,Successful,5.9,50.8,21.5,49.8
+373,303657,Rodrigo Bentancur,967,Uruguay,48,SecondHalf,Pass,Successful,21.5,49.8,13.7,12.4
+374,448735,Sebastián Cáceres,967,Uruguay,49,SecondHalf,Pass,Successful,13.9,12.3,5,35.7
+375,231141,Sergio Rochet,967,Uruguay,49,SecondHalf,Pass,Successful,5,35.7,9.6,3.4
+376,448735,Sebastián Cáceres,967,Uruguay,49,SecondHalf,Pass,Unsuccessful,13.2,3.1,46.1,19.9
+597,122117,Aymeric Laporte,338,Spain,49,SecondHalf,Aerial,Successful,53.9,80.1,,
+377,400828,Darwin Núñez,967,Uruguay,49,SecondHalf,Aerial,Unsuccessful,46.1,19.9,,
+598,122117,Aymeric Laporte,338,Spain,49,SecondHalf,BallTouch,Successful,52,77.9,,
+599,498386,Pau Cubarsí,338,Spain,49,SecondHalf,BallRecovery,Successful,27.3,66.9,,
+600,498386,Pau Cubarsí,338,Spain,49,SecondHalf,Pass,Successful,27.3,66.9,9.7,55.4
+601,332823,Unai Simón,338,Spain,49,SecondHalf,Pass,Successful,9.7,53.7,20.7,29.6
+602,254582,Marcos Llorente,338,Spain,49,SecondHalf,Pass,Successful,22,22.4,34.3,8.2
+603,480249,Lamine Yamal,338,Spain,49,SecondHalf,Pass,Successful,27.7,11.6,19.4,36.4
+604,498386,Pau Cubarsí,338,Spain,49,SecondHalf,Pass,Successful,18,47.2,32.3,88.5
+605,363496,Marc Cucurella,338,Spain,49,SecondHalf,Pass,Successful,34.5,90,61.1,96.8
+606,395242,Álex Baena,338,Spain,49,SecondHalf,Pass,Unsuccessful,63,66.3,72.8,62.6
+380,347178,Mathías Olivera,967,Uruguay,49,SecondHalf,Interception,Successful,27.2,37.4,,
+381,436657,Agustín Canobbio,967,Uruguay,49,SecondHalf,BallRecovery,Successful,28.4,43,,
+382,436657,Agustín Canobbio,967,Uruguay,49,SecondHalf,Pass,Successful,28.5,43,26.3,54.3
+383,303657,Rodrigo Bentancur,967,Uruguay,49,SecondHalf,Pass,Successful,28.5,50.8,34.3,22.6
+384,145385,Guillermo Varela,967,Uruguay,49,SecondHalf,Pass,Successful,39.6,18.9,69.2,4.2
+385,436657,Agustín Canobbio,967,Uruguay,49,SecondHalf,Pass,Successful,82.7,6,68,5.7
+386,145385,Guillermo Varela,967,Uruguay,49,SecondHalf,Pass,Successful,71.5,4.5,75.3,2.5
+387,436657,Agustín Canobbio,967,Uruguay,49,SecondHalf,Pass,Successful,75.3,2.5,69.6,21.4
+388,345389,Nicolás de la Cruz,967,Uruguay,50,SecondHalf,Pass,Successful,70,23.7,74.9,59.4
+389,344644,Federico Valverde,967,Uruguay,50,SecondHalf,Pass,Unsuccessful,73.4,68.9,74.1,68.1
+607,254582,Marcos Llorente,338,Spain,50,SecondHalf,Clearance,Successful,24.1,41.3,31.6,50.7
+608,298839,Mikel Oyarzabal,338,Spain,50,SecondHalf,Pass,Successful,32.8,57.5,29.7,59.7
+609,303139,Rodri,338,Spain,50,SecondHalf,BallRecovery,Successful,28.7,60.5,,
+610,303139,Rodri,338,Spain,50,SecondHalf,Pass,Successful,28.7,60.5,33.1,41.3
+390,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,Challenge,Unsuccessful,37.2,78.9,,
+611,480249,Lamine Yamal,338,Spain,50,SecondHalf,TakeOn,Successful,62.8,21.1,,
+612,480249,Lamine Yamal,338,Spain,50,SecondHalf,Dispossessed,Successful,62.9,12.4,,
+391,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,Tackle,Successful,37.1,87.6,,
+392,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,BallRecovery,Successful,33.5,94.9,,
+393,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,Pass,Successful,48.2,86.4,44.8,73.6
+394,344644,Federico Valverde,967,Uruguay,50,SecondHalf,Pass,Successful,44.8,73.6,53.7,86.8
+395,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,Pass,Successful,55.6,88.6,66.3,96.4
+396,460758,Maxi Araújo,967,Uruguay,50,SecondHalf,Pass,Successful,66.4,96.3,60.5,87.3
+397,303657,Rodrigo Bentancur,967,Uruguay,50,SecondHalf,Pass,Successful,60.5,85,57.4,75.7
+398,344644,Federico Valverde,967,Uruguay,50,SecondHalf,Pass,Successful,58.8,78.7,65.2,95.2
+399,403752,Juan Manuel Sanabria,967,Uruguay,50,SecondHalf,Pass,Successful,65.2,95.2,56.8,91.6
+400,344644,Federico Valverde,967,Uruguay,50,SecondHalf,Pass,Successful,60.5,90.6,69.8,73.8
+401,460758,Maxi Araújo,967,Uruguay,50,SecondHalf,Pass,Successful,72.4,67.5,77.7,58.9
+402,400828,Darwin Núñez,967,Uruguay,50,SecondHalf,Pass,Successful,77.7,58.9,70.6,51.6
+403,345389,Nicolás de la Cruz,967,Uruguay,50,SecondHalf,Pass,Unsuccessful,71.7,50.2,100,25.9
+614,122117,Aymeric Laporte,338,Spain,51,SecondHalf,Pass,Successful,5.1,60.5,6.2,28.7
+615,498386,Pau Cubarsí,338,Spain,51,SecondHalf,Pass,Successful,12.5,29.5,15.5,72
+616,122117,Aymeric Laporte,338,Spain,51,SecondHalf,Pass,Successful,24.5,74.1,33.7,66.2
+617,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,36.2,66.3,45.5,57.3
+618,298839,Mikel Oyarzabal,338,Spain,51,SecondHalf,Pass,Successful,45.6,56.3,34,52.2
+619,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,32.2,49.6,29.1,24.4
+620,254582,Marcos Llorente,338,Spain,51,SecondHalf,Pass,Successful,26.3,16.1,41.7,7
+621,480249,Lamine Yamal,338,Spain,51,SecondHalf,Pass,Successful,41.8,7,39.2,39.2
+622,303139,Rodri,338,Spain,51,SecondHalf,Pass,Successful,46.2,43.6,48.5,55.5
+623,402197,Pedri,338,Spain,51,SecondHalf,Pass,Successful,47.9,56.7,55.5,83.9
+624,363496,Marc Cucurella,338,Spain,51,SecondHalf,Pass,Successful,64.7,90.9,74.4,98.1
+625,395242,Álex Baena,338,Spain,51,SecondHalf,Pass,Successful,73.2,93.6,60.8,81.8
+626,303139,Rodri,338,Spain,51,SecondHalf,BallTouch,Successful,61.8,84.2,,
+407,145385,Guillermo Varela,967,Uruguay,52,SecondHalf,Pass,Successful,35.1,0,43.3,6.6
+408,345389,Nicolás de la Cruz,967,Uruguay,52,SecondHalf,BallTouch,Successful,43.3,6.6,,
+628,332823,Unai Simón,338,Spain,52,SecondHalf,BallRecovery,Successful,19.6,86,,
+629,332823,Unai Simón,338,Spain,52,SecondHalf,Pass,Successful,14.3,71.1,21.9,36.8
+630,498386,Pau Cubarsí,338,Spain,52,SecondHalf,Pass,Successful,28.6,26,33.7,8.6
+631,254582,Marcos Llorente,338,Spain,52,SecondHalf,Pass,Successful,35.2,8.2,27.2,16
+632,498386,Pau Cubarsí,338,Spain,52,SecondHalf,Pass,Successful,25.7,16.3,11.5,46.1
+633,332823,Unai Simón,338,Spain,52,SecondHalf,Pass,Successful,10.9,47.2,21.2,70.1
+634,122117,Aymeric Laporte,338,Spain,53,SecondHalf,Pass,Successful,21.3,69.2,9.7,54.3
+635,498386,Pau Cubarsí,338,Spain,53,SecondHalf,Pass,Successful,10.6,50.4,44,12.5
+636,298839,Mikel Oyarzabal,338,Spain,53,SecondHalf,Pass,Successful,43.3,5,32.1,4.1
+637,254582,Marcos Llorente,338,Spain,53,SecondHalf,Pass,Successful,32.1,4.1,34.6,15.4
+638,238916,Mikel Merino,338,Spain,53,SecondHalf,Pass,Successful,34.6,15.4,43.3,10.4
+639,480249,Lamine Yamal,338,Spain,53,SecondHalf,Foul,Successful,42.8,9.9,,
+409,403752,Juan Manuel Sanabria,967,Uruguay,53,SecondHalf,Foul,Unsuccessful,57.2,90.2,,
+410,403752,Juan Manuel Sanabria,967,Uruguay,53,SecondHalf,Card,Successful,0,0,,
+640,254582,Marcos Llorente,338,Spain,54,SecondHalf,Pass,Successful,43.2,8.2,45,27.1
+641,303139,Rodri,338,Spain,54,SecondHalf,Pass,Successful,45,28.7,44.6,53.6
+642,402197,Pedri,338,Spain,54,SecondHalf,Pass,Successful,43.9,53.6,40.6,33.4
+643,303139,Rodri,338,Spain,54,SecondHalf,Pass,Unsuccessful,41.1,28.4,94.2,24.1
+411,231141,Sergio Rochet,967,Uruguay,54,SecondHalf,BallRecovery,Successful,3.6,78.1,,
+412,231141,Sergio Rochet,967,Uruguay,54,SecondHalf,Pass,Successful,19.2,49.9,65.7,76.8
+413,400828,Darwin Núñez,967,Uruguay,54,SecondHalf,Aerial,Successful,65.7,76.8,,
+644,498386,Pau Cubarsí,338,Spain,54,SecondHalf,Aerial,Unsuccessful,34.3,23.2,,
+414,400828,Darwin Núñez,967,Uruguay,54,SecondHalf,Pass,Unsuccessful,65.7,76.8,78.2,72.9
+645,254582,Marcos Llorente,338,Spain,54,SecondHalf,Pass,Successful,19.7,30.7,12.3,43
+646,332823,Unai Simón,338,Spain,54,SecondHalf,KeeperPickup,Successful,11.9,44,,
+647,332823,Unai Simón,338,Spain,54,SecondHalf,Pass,Unsuccessful,12.2,43.4,27.2,11.3
+415,303657,Rodrigo Bentancur,967,Uruguay,54,SecondHalf,Interception,Successful,72.8,88.7,,
+416,303657,Rodrigo Bentancur,967,Uruguay,54,SecondHalf,BallRecovery,Successful,69.8,96.1,,
+417,303657,Rodrigo Bentancur,967,Uruguay,54,SecondHalf,Pass,Successful,71.4,95.5,66.5,74.2
+418,344644,Federico Valverde,967,Uruguay,54,SecondHalf,TakeOn,Unsuccessful,67.2,73.2,,
+648,303139,Rodri,338,Spain,54,SecondHalf,Tackle,Unsuccessful,32.7,26.8,,
+419,345389,Nicolás de la Cruz,967,Uruguay,55,SecondHalf,Aerial,Successful,60.7,70.6,,
+649,303139,Rodri,338,Spain,55,SecondHalf,Aerial,Unsuccessful,39.3,29.4,,
+420,345389,Nicolás de la Cruz,967,Uruguay,55,SecondHalf,Pass,Successful,57.1,71.7,66.8,75.4
+424,460758,Maxi Araújo,967,Uruguay,55,SecondHalf,Foul,Successful,72,68.8,,
+650,498386,Pau Cubarsí,338,Spain,55,SecondHalf,Foul,Unsuccessful,28,31.2,,
+425,345389,Nicolás de la Cruz,967,Uruguay,55,SecondHalf,Pass,Unsuccessful,72.6,71.1,100,36
+427,344644,Federico Valverde,967,Uruguay,56,SecondHalf,SubstitutionOff,Successful,0,0,,
+428,484254,Federico Viñas,967,Uruguay,56,SecondHalf,SubstitutionOn,Successful,0,0,,
+429,,,967,Uruguay,56,SecondHalf,FormationChange,Successful,0,0,,
+652,122117,Aymeric Laporte,338,Spain,56,SecondHalf,Pass,Successful,4.9,61.1,4.2,50.9
+653,332823,Unai Simón,338,Spain,56,SecondHalf,Pass,Successful,8.2,50.4,13.5,75.6
+654,122117,Aymeric Laporte,338,Spain,56,SecondHalf,Pass,Unsuccessful,20.5,80,23,75.5
+655,,,338,Spain,56,SecondHalf,Foul,Successful,27,76.8,,
+431,484254,Federico Viñas,967,Uruguay,56,SecondHalf,Foul,Unsuccessful,73,23.2,,
+656,122117,Aymeric Laporte,338,Spain,56,SecondHalf,Pass,Unsuccessful,24.2,74.9,46.1,41.9
+432,303657,Rodrigo Bentancur,967,Uruguay,56,SecondHalf,Pass,Unsuccessful,54.6,61,65.3,61.2
+657,303139,Rodri,338,Spain,56,SecondHalf,Pass,Successful,31.1,42.1,21.4,35.9
+658,498386,Pau Cubarsí,338,Spain,56,SecondHalf,Pass,Successful,21.4,35.9,11,46.9
+659,332823,Unai Simón,338,Spain,56,SecondHalf,Pass,Unsuccessful,12.8,49.6,42.3,83.6
+433,145385,Guillermo Varela,967,Uruguay,56,SecondHalf,Pass,Successful,56.8,16.5,64.2,27
+434,484254,Federico Viñas,967,Uruguay,57,SecondHalf,BallRecovery,Successful,61.4,27,,
+435,484254,Federico Viñas,967,Uruguay,57,SecondHalf,Dispossessed,Successful,61,27.2,,
+660,303139,Rodri,338,Spain,57,SecondHalf,Tackle,Successful,39,72.8,,
+661,303139,Rodri,338,Spain,57,SecondHalf,BallRecovery,Successful,40.5,76.2,,
+662,303139,Rodri,338,Spain,57,SecondHalf,Pass,Successful,40.5,76.2,45.3,85.2
+663,395242,Álex Baena,338,Spain,57,SecondHalf,Pass,Successful,56.3,87.8,51.6,79.1
+667,402197,Pedri,338,Spain,57,SecondHalf,Pass,Successful,51.3,81.8,58.5,73.6
+664,395242,Álex Baena,338,Spain,57,SecondHalf,Pass,Successful,57.7,75.8,66.8,87.5
+665,402197,Pedri,338,Spain,57,SecondHalf,Pass,Unsuccessful,68.2,87.2,82.1,56.1
+437,347178,Mathías Olivera,967,Uruguay,57,SecondHalf,Clearance,Successful,17,41.1,17.6,12.3
+438,448735,Sebastián Cáceres,967,Uruguay,57,SecondHalf,BallTouch,Unsuccessful,14.1,13,,
+439,448735,Sebastián Cáceres,967,Uruguay,57,SecondHalf,CornerAwarded,Unsuccessful,15.3,17.2,,
+666,402197,Pedri,338,Spain,57,SecondHalf,CornerAwarded,Successful,84.8,82.8,,
+440,145385,Guillermo Varela,967,Uruguay,57,SecondHalf,Card,Successful,0,0,,
+668,480249,Lamine Yamal,338,Spain,58,SecondHalf,Pass,Unsuccessful,99.5,99.5,85.9,44.6
+442,484254,Federico Viñas,967,Uruguay,58,SecondHalf,Clearance,Successful,14.1,55.4,33.5,49.3
+670,402197,Pedri,338,Spain,58,SecondHalf,Pass,Successful,60.5,53.1,30.6,48.2
+671,332823,Unai Simón,338,Spain,58,SecondHalf,Pass,Unsuccessful,30.6,48.2,66.9,82.5
+443,460758,Maxi Araújo,967,Uruguay,58,SecondHalf,TakeOn,Unsuccessful,37.4,21.2,,
+672,395242,Álex Baena,338,Spain,58,SecondHalf,Tackle,Successful,62.6,78.8,,
+673,298839,Mikel Oyarzabal,338,Spain,58,SecondHalf,Pass,Successful,58.8,88.1,55.5,76.8
+674,303139,Rodri,338,Spain,58,SecondHalf,Pass,Successful,55.5,76.8,57.1,88.8
+675,298839,Mikel Oyarzabal,338,Spain,58,SecondHalf,Pass,Successful,57.3,88.8,64.2,94.7
+676,363496,Marc Cucurella,338,Spain,58,SecondHalf,Pass,Successful,66.8,94.5,65.1,87.9
+677,395242,Álex Baena,338,Spain,58,SecondHalf,Pass,Successful,63.8,86.1,58,94.4
+678,298839,Mikel Oyarzabal,338,Spain,58,SecondHalf,Pass,Successful,57.5,93.6,52.9,70.8
+679,402197,Pedri,338,Spain,58,SecondHalf,Pass,Successful,52.2,67.5,47.3,44.3
+680,498386,Pau Cubarsí,338,Spain,58,SecondHalf,Pass,Successful,46.8,41.5,55.5,15.8
+681,254582,Marcos Llorente,338,Spain,58,SecondHalf,Pass,Successful,55.6,15.5,56.8,26.5
+682,238916,Mikel Merino,338,Spain,58,SecondHalf,Foul,Successful,60.8,29.8,,
+444,303657,Rodrigo Bentancur,967,Uruguay,58,SecondHalf,Foul,Unsuccessful,39.2,70.2,,
+683,402197,Pedri,338,Spain,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+684,294193,Fabián Ruiz,338,Spain,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+685,238916,Mikel Merino,338,Spain,59,SecondHalf,SubstitutionOff,Successful,0,0,,
+686,261212,Dani Olmo,338,Spain,59,SecondHalf,SubstitutionOn,Successful,0,0,,
+710,,,338,Spain,59,SecondHalf,FormationChange,Successful,0,0,,
+687,254582,Marcos Llorente,338,Spain,59,SecondHalf,Pass,Successful,55.3,25.7,56.6,34
+688,303139,Rodri,338,Spain,59,SecondHalf,Pass,Successful,54.1,29.3,46.1,19.9
+689,254582,Marcos Llorente,338,Spain,59,SecondHalf,Pass,Successful,40.6,16.7,14.3,32.2
+690,332823,Unai Simón,338,Spain,59,SecondHalf,Pass,Successful,14.3,32.3,21.2,65.3
+691,122117,Aymeric Laporte,338,Spain,59,SecondHalf,Pass,Successful,21.5,63.8,24.2,56.1
+692,303139,Rodri,338,Spain,59,SecondHalf,Pass,Unsuccessful,24.2,56.1,30,86.7
+445,345389,Nicolás de la Cruz,967,Uruguay,59,SecondHalf,Interception,Successful,70,13.3,,
+446,345389,Nicolás de la Cruz,967,Uruguay,59,SecondHalf,BallRecovery,Successful,74,13.3,,
+447,345389,Nicolás de la Cruz,967,Uruguay,59,SecondHalf,Pass,Successful,85.9,14.2,85.9,38.5
+448,460758,Maxi Araújo,967,Uruguay,59,SecondHalf,BallTouch,Unsuccessful,86.1,38.5,,
+693,332823,Unai Simón,338,Spain,59,SecondHalf,Smother,Successful,2.4,58.8,,
+694,332823,Unai Simón,338,Spain,59,SecondHalf,KeeperPickup,Successful,2.4,58.8,,
+695,332823,Unai Simón,338,Spain,59,SecondHalf,Pass,Successful,13.1,57,23.2,91.7
+696,363496,Marc Cucurella,338,Spain,59,SecondHalf,Pass,Successful,21.5,91.1,13.2,72.5
+697,122117,Aymeric Laporte,338,Spain,60,SecondHalf,Pass,Successful,13.3,69.8,25.4,47.9
+698,294193,Fabián Ruiz,338,Spain,60,SecondHalf,Pass,Successful,26.1,47.5,18.6,32
+699,498386,Pau Cubarsí,338,Spain,60,SecondHalf,Pass,Successful,26,28.9,43.8,33.4
+700,298839,Mikel Oyarzabal,338,Spain,60,SecondHalf,Pass,Successful,44,34.1,54.5,81.6
+701,395242,Álex Baena,338,Spain,60,SecondHalf,Aerial,Successful,54.5,81.6,,
+450,145385,Guillermo Varela,967,Uruguay,60,SecondHalf,Aerial,Unsuccessful,45.5,18.4,,
+702,395242,Álex Baena,338,Spain,60,SecondHalf,Pass,Unsuccessful,54.5,81.6,74.1,75.9
+451,448735,Sebastián Cáceres,967,Uruguay,60,SecondHalf,BallRecovery,Successful,23.5,25.3,,
+452,448735,Sebastián Cáceres,967,Uruguay,60,SecondHalf,Pass,Successful,23.3,25.3,9.7,40
+453,231141,Sergio Rochet,967,Uruguay,60,SecondHalf,Pass,Unsuccessful,9.7,40,67.1,21.9
+703,122117,Aymeric Laporte,338,Spain,60,SecondHalf,BallTouch,Successful,38.2,89,,
+704,363496,Marc Cucurella,338,Spain,60,SecondHalf,Pass,Unsuccessful,37.5,92.1,64,82.2
+454,448735,Sebastián Cáceres,967,Uruguay,60,SecondHalf,Pass,Successful,34.6,29.7,34.1,48.9
+455,347178,Mathías Olivera,967,Uruguay,60,SecondHalf,Pass,Successful,43.2,53.1,44.2,35.8
+456,303657,Rodrigo Bentancur,967,Uruguay,60,SecondHalf,Pass,Successful,44.6,46.5,37.5,64.5
+457,347178,Mathías Olivera,967,Uruguay,60,SecondHalf,Pass,Successful,41,70.2,57.2,67.8
+458,345389,Nicolás de la Cruz,967,Uruguay,60,SecondHalf,Pass,Unsuccessful,57.2,67.8,65,55.6
+705,498386,Pau Cubarsí,338,Spain,60,SecondHalf,BallRecovery,Successful,34.5,39.8,,
+706,498386,Pau Cubarsí,338,Spain,60,SecondHalf,Pass,Successful,34.5,39.8,52.6,50
+707,395242,Álex Baena,338,Spain,60,SecondHalf,BallTouch,Unsuccessful,58.3,38.3,,
+459,303657,Rodrigo Bentancur,967,Uruguay,60,SecondHalf,Pass,Unsuccessful,33.9,66.7,37,66.4
+708,395242,Álex Baena,338,Spain,60,SecondHalf,BlockedPass,Successful,63,33.6,,
+461,403752,Juan Manuel Sanabria,967,Uruguay,61,SecondHalf,Pass,Successful,22.5,100,37.7,89.4
+462,460758,Maxi Araújo,967,Uruguay,61,SecondHalf,TakeOn,Unsuccessful,42.4,93,,
+712,254582,Marcos Llorente,338,Spain,61,SecondHalf,BallRecovery,Successful,42,9.8,,
+713,254582,Marcos Llorente,338,Spain,61,SecondHalf,Pass,Successful,41.5,13,38.8,32.9
+714,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Pass,Successful,39.2,36.7,45.5,71
+715,363496,Marc Cucurella,338,Spain,61,SecondHalf,Pass,Successful,59.3,89,51.1,80.6
+716,294193,Fabián Ruiz,338,Spain,61,SecondHalf,Pass,Successful,51,80.6,62,77
+717,303139,Rodri,338,Spain,61,SecondHalf,Pass,Successful,59.6,73.2,53.1,51.3
+718,261212,Dani Olmo,338,Spain,61,SecondHalf,Pass,Successful,63.8,46.4,74.9,38.3
+719,298839,Mikel Oyarzabal,338,Spain,61,SecondHalf,Pass,Successful,74.9,38.3,74,44.8
+720,261212,Dani Olmo,338,Spain,61,SecondHalf,TakeOn,Unsuccessful,78.8,42.8,,
+463,403752,Juan Manuel Sanabria,967,Uruguay,61,SecondHalf,Clearance,Successful,12.4,56,12,51.5
+464,347178,Mathías Olivera,967,Uruguay,61,SecondHalf,BallRecovery,Successful,11.7,48,,
+465,347178,Mathías Olivera,967,Uruguay,61,SecondHalf,Pass,Successful,11.7,48,3,43
+466,231141,Sergio Rochet,967,Uruguay,61,SecondHalf,Pass,Unsuccessful,3,43,77.3,33.1
+721,122117,Aymeric Laporte,338,Spain,61,SecondHalf,Pass,Successful,21.8,67.8,13.1,62.7
+722,332823,Unai Simón,338,Spain,61,SecondHalf,KeeperPickup,Successful,13.1,62.7,,
+723,332823,Unai Simón,338,Spain,62,SecondHalf,Pass,Successful,14.6,53.3,19.7,35
+724,498386,Pau Cubarsí,338,Spain,62,SecondHalf,Pass,Successful,21.7,34.7,30.8,55.7
+725,303139,Rodri,338,Spain,62,SecondHalf,Pass,Successful,30.3,56.6,9.9,52.7
+726,332823,Unai Simón,338,Spain,62,SecondHalf,Pass,Successful,8.6,49.1,38.6,42.2
+727,261212,Dani Olmo,338,Spain,62,SecondHalf,Pass,Unsuccessful,39.4,42.2,53.1,33.7
+469,347178,Mathías Olivera,967,Uruguay,62,SecondHalf,Pass,Unsuccessful,44.5,65.7,60.6,27.6
+728,363496,Marc Cucurella,338,Spain,62,SecondHalf,Interception,Successful,39.4,72.4,,
+729,261212,Dani Olmo,338,Spain,62,SecondHalf,Pass,Successful,38,56,52.5,32.6
+730,294193,Fabián Ruiz,338,Spain,62,SecondHalf,Pass,Successful,53.2,32,70.9,10.7
+731,480249,Lamine Yamal,338,Spain,62,SecondHalf,Pass,Successful,85.2,28.1,86.5,46.2
+732,261212,Dani Olmo,338,Spain,62,SecondHalf,MissedShots,Successful,86.5,46.2,,
+471,231141,Sergio Rochet,967,Uruguay,63,SecondHalf,Pass,Unsuccessful,4.7,58.2,69.2,100
+735,254582,Marcos Llorente,338,Spain,63,SecondHalf,Pass,Successful,30.2,0,13.1,16.4
+736,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,12,17.8,3.4,48.2
+737,332823,Unai Simón,338,Spain,63,SecondHalf,Pass,Successful,3.4,49.1,15.1,46.6
+738,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,14.4,45.5,9.9,17.9
+739,498386,Pau Cubarsí,338,Spain,63,SecondHalf,Pass,Successful,10.4,16.4,23.2,8.9
+740,254582,Marcos Llorente,338,Spain,63,SecondHalf,Pass,Successful,30.1,8.2,41.5,5.9
+741,480249,Lamine Yamal,338,Spain,63,SecondHalf,BallTouch,Unsuccessful,41.6,5.6,,
+473,403752,Juan Manuel Sanabria,967,Uruguay,63,SecondHalf,BallRecovery,Successful,56.1,84.7,,
+474,403752,Juan Manuel Sanabria,967,Uruguay,63,SecondHalf,Pass,Successful,55.9,81.7,66.3,50.5
+475,484254,Federico Viñas,967,Uruguay,63,SecondHalf,Pass,Successful,66.2,52.2,66.5,83.7
+476,400828,Darwin Núñez,967,Uruguay,63,SecondHalf,Pass,Successful,67.1,86.7,77.9,90.6
+477,460758,Maxi Araújo,967,Uruguay,63,SecondHalf,Pass,Successful,93.8,85.3,96.1,60.3
+478,484254,Federico Viñas,967,Uruguay,63,SecondHalf,MissedShots,Successful,96.1,60.3,,
+743,332823,Unai Simón,338,Spain,63,SecondHalf,Pass,Successful,4.2,51.6,9,73.2
+744,122117,Aymeric Laporte,338,Spain,63,SecondHalf,Pass,Successful,9,73.2,24.3,51.9
+745,303139,Rodri,338,Spain,63,SecondHalf,Pass,Successful,25,50.9,28.3,38.3
+746,261212,Dani Olmo,338,Spain,64,SecondHalf,Pass,Successful,29.7,36.5,57.2,3.2
+747,480249,Lamine Yamal,338,Spain,64,SecondHalf,Pass,Unsuccessful,66.7,29.3,73.3,55.1
+480,145385,Guillermo Varela,967,Uruguay,64,SecondHalf,Clearance,Successful,21,46,24.7,48.4
+749,298839,Mikel Oyarzabal,338,Spain,64,SecondHalf,BlockedPass,Successful,74.4,56.7,,
+481,231141,Sergio Rochet,967,Uruguay,64,SecondHalf,KeeperPickup,Successful,9.3,52,,
+482,231141,Sergio Rochet,967,Uruguay,64,SecondHalf,Pass,Successful,14.8,52.2,33.6,46.9
+483,345389,Nicolás de la Cruz,967,Uruguay,64,SecondHalf,Pass,Successful,42.5,49.2,53.7,69.1
+484,347178,Mathías Olivera,967,Uruguay,64,SecondHalf,Pass,Successful,61.2,70.9,75.7,87.1
+485,460758,Maxi Araújo,967,Uruguay,64,SecondHalf,Pass,Successful,82.5,81.9,96.9,73.5
+486,347178,Mathías Olivera,967,Uruguay,64,SecondHalf,Pass,Unsuccessful,96.9,73.5,94.2,69.7
+750,332823,Unai Simón,338,Spain,64,SecondHalf,KeeperPickup,Successful,2.1,44,,
+751,332823,Unai Simón,338,Spain,64,SecondHalf,Pass,Successful,12.3,50.7,11.5,63
+752,122117,Aymeric Laporte,338,Spain,64,SecondHalf,Pass,Successful,11.5,62.9,24.4,66.5
+753,303139,Rodri,338,Spain,64,SecondHalf,Pass,Successful,32.1,66.6,41.6,83
+754,294193,Fabián Ruiz,338,Spain,64,SecondHalf,Pass,Successful,42.3,84.2,55.3,95.1
+755,395242,Álex Baena,338,Spain,64,SecondHalf,Pass,Successful,54.9,95.1,38.5,93.3
+756,363496,Marc Cucurella,338,Spain,64,SecondHalf,Pass,Successful,37.9,92.9,40.3,86.3
+757,294193,Fabián Ruiz,338,Spain,65,SecondHalf,Pass,Successful,37.4,74.6,30.6,73.7
+758,294193,Fabián Ruiz,338,Spain,65,SecondHalf,Foul,Successful,37.6,66.3,,
+487,345389,Nicolás de la Cruz,967,Uruguay,65,SecondHalf,Foul,Unsuccessful,62.4,33.8,,
+759,395242,Álex Baena,338,Spain,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+760,403865,Yéremy Pino,338,Spain,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+761,122117,Aymeric Laporte,338,Spain,66,SecondHalf,Pass,Successful,38.8,68,58.8,60
+762,298839,Mikel Oyarzabal,338,Spain,66,SecondHalf,Pass,Successful,58.8,60,66.4,68.6
+763,294193,Fabián Ruiz,338,Spain,66,SecondHalf,Pass,Successful,69.1,70.4,67.2,61.8
+764,298839,Mikel Oyarzabal,338,Spain,66,SecondHalf,BallTouch,Unsuccessful,71.6,58.8,,
+489,347178,Mathías Olivera,967,Uruguay,66,SecondHalf,BallRecovery,Successful,13.3,45.4,,
+490,347178,Mathías Olivera,967,Uruguay,66,SecondHalf,Pass,Successful,13.3,45.4,3.8,48.7
+491,231141,Sergio Rochet,967,Uruguay,66,SecondHalf,Pass,Successful,9.1,45.1,15.1,57.9
+492,347178,Mathías Olivera,967,Uruguay,66,SecondHalf,Pass,Successful,15.8,55.2,29.3,39.4
+493,303657,Rodrigo Bentancur,967,Uruguay,66,SecondHalf,Pass,Successful,30.8,38.4,53.1,34.5
+494,484254,Federico Viñas,967,Uruguay,66,SecondHalf,BallTouch,Unsuccessful,52.7,34.6,,
+765,403865,Yéremy Pino,338,Spain,66,SecondHalf,TakeOn,Unsuccessful,51.4,68.4,,
+495,484254,Federico Viñas,967,Uruguay,66,SecondHalf,Tackle,Successful,48.6,31.5,,
+496,484254,Federico Viñas,967,Uruguay,66,SecondHalf,Pass,Successful,48.5,40.8,87.2,89.7
+497,460758,Maxi Araújo,967,Uruguay,66,SecondHalf,TakeOn,Unsuccessful,88.1,84.7,,
+766,254582,Marcos Llorente,338,Spain,66,SecondHalf,Tackle,Successful,11.9,15.3,,
+767,261212,Dani Olmo,338,Spain,66,SecondHalf,BallTouch,Unsuccessful,28.1,14.9,,
+498,303657,Rodrigo Bentancur,967,Uruguay,66,SecondHalf,Pass,Successful,68.6,93.7,71.9,84.6
+499,400828,Darwin Núñez,967,Uruguay,66,SecondHalf,Pass,Successful,76.3,80.8,92.2,90.6
+500,403752,Juan Manuel Sanabria,967,Uruguay,66,SecondHalf,Pass,Unsuccessful,92.6,91.3,95.5,0
+504,403752,Juan Manuel Sanabria,967,Uruguay,69,SecondHalf,SubstitutionOff,Successful,0,0,,
+505,382265,Brian Rodríguez,967,Uruguay,69,SecondHalf,SubstitutionOn,Successful,0,0,,
+506,,,967,Uruguay,69,SecondHalf,FormationChange,Successful,0,0,,
+771,363496,Marc Cucurella,338,Spain,70,SecondHalf,Pass,Unsuccessful,3.9,100,26.7,96.2
+507,145385,Guillermo Varela,967,Uruguay,70,SecondHalf,Aerial,Successful,73.3,3.8,,
+772,403865,Yéremy Pino,338,Spain,70,SecondHalf,Aerial,Unsuccessful,26.7,96.2,,
+508,145385,Guillermo Varela,967,Uruguay,70,SecondHalf,Pass,Unsuccessful,73.3,3.8,77.4,14.1
+773,294193,Fabián Ruiz,338,Spain,70,SecondHalf,Pass,Successful,23.2,92.3,24.7,76.4
+774,261212,Dani Olmo,338,Spain,70,SecondHalf,Pass,Successful,24.4,75.2,17.9,8
+775,480249,Lamine Yamal,338,Spain,70,SecondHalf,Pass,Unsuccessful,17.2,9,39.9,0
+510,382265,Brian Rodríguez,967,Uruguay,70,SecondHalf,Pass,Successful,57.8,100,46.4,92.5
+511,303657,Rodrigo Bentancur,967,Uruguay,70,SecondHalf,Pass,Successful,44.8,91.9,35.8,71.2
+512,347178,Mathías Olivera,967,Uruguay,70,SecondHalf,Pass,Successful,41.5,62.4,40.9,28.3
+513,448735,Sebastián Cáceres,967,Uruguay,70,SecondHalf,Pass,Successful,40.9,28.3,46.8,7.5
+514,145385,Guillermo Varela,967,Uruguay,70,SecondHalf,Pass,Successful,46.8,7.5,58.3,4
+515,436657,Agustín Canobbio,967,Uruguay,70,SecondHalf,Pass,Successful,58,4.2,55.5,29.7
+516,345389,Nicolás de la Cruz,967,Uruguay,70,SecondHalf,Pass,Successful,56.5,33.4,86.7,89.7
+517,382265,Brian Rodríguez,967,Uruguay,70,SecondHalf,Pass,Unsuccessful,88.8,84.9,88.2,77.8
+778,254582,Marcos Llorente,338,Spain,70,SecondHalf,Interception,Successful,11.8,22.2,,
+518,382265,Brian Rodríguez,967,Uruguay,70,SecondHalf,TakeOn,Unsuccessful,89.6,84.4,,
+779,254582,Marcos Llorente,338,Spain,70,SecondHalf,Tackle,Successful,10.4,15.6,,
+520,382265,Brian Rodríguez,967,Uruguay,70,SecondHalf,Pass,Successful,96.4,100,79.2,88.5
+521,460758,Maxi Araújo,967,Uruguay,71,SecondHalf,Pass,Successful,78,87.7,80.9,95.8
+781,254582,Marcos Llorente,338,Spain,71,SecondHalf,Challenge,Unsuccessful,15,12.7,,
+522,382265,Brian Rodríguez,967,Uruguay,71,SecondHalf,TakeOn,Successful,85,87.3,,
+523,382265,Brian Rodríguez,967,Uruguay,71,SecondHalf,TakeOn,Unsuccessful,86.4,74.4,,
+782,303139,Rodri,338,Spain,71,SecondHalf,Tackle,Successful,13.6,25.6,,
+783,480249,Lamine Yamal,338,Spain,71,SecondHalf,TakeOn,Unsuccessful,23,13.4,,
+524,347178,Mathías Olivera,967,Uruguay,71,SecondHalf,Tackle,Unsuccessful,77,86.7,,
+784,480249,Lamine Yamal,338,Spain,71,SecondHalf,Pass,Successful,22.2,13.6,13.4,15.2
+785,254582,Marcos Llorente,338,Spain,71,SecondHalf,BallRecovery,Successful,12.9,15.2,,
+786,254582,Marcos Llorente,338,Spain,71,SecondHalf,Pass,Successful,12.9,15.2,14.5,8.6
+525,460758,Maxi Araújo,967,Uruguay,71,SecondHalf,Challenge,Unsuccessful,78.8,94.7,,
+787,480249,Lamine Yamal,338,Spain,71,SecondHalf,TakeOn,Successful,21.2,5.3,,
+788,480249,Lamine Yamal,338,Spain,71,SecondHalf,Pass,Successful,24.9,4.1,30.8,39.1
+789,294193,Fabián Ruiz,338,Spain,71,SecondHalf,Pass,Successful,71.5,60.5,86.5,26.8
+791,480249,Lamine Yamal,338,Spain,71,SecondHalf,TakeOn,Successful,90.2,33.1,,
+531,303657,Rodrigo Bentancur,967,Uruguay,71,SecondHalf,Challenge,Unsuccessful,9.8,66.9,,
+790,480249,Lamine Yamal,338,Spain,71,SecondHalf,Pass,Unsuccessful,93.8,32,95.2,42.7
+526,448735,Sebastián Cáceres,967,Uruguay,71,SecondHalf,Interception,Successful,4.8,57.3,,
+527,303657,Rodrigo Bentancur,967,Uruguay,71,SecondHalf,BallRecovery,Successful,4.3,61.2,,
+528,303657,Rodrigo Bentancur,967,Uruguay,71,SecondHalf,Pass,Successful,4.3,61.2,8.2,67.3
+529,460758,Maxi Araújo,967,Uruguay,71,SecondHalf,BallTouch,Unsuccessful,8.3,67.3,,
+792,403865,Yéremy Pino,338,Spain,71,SecondHalf,Pass,Successful,85.9,31.3,79.8,29.8
+793,261212,Dani Olmo,338,Spain,71,SecondHalf,BallRecovery,Successful,87.7,28.7,,
+794,261212,Dani Olmo,338,Spain,71,SecondHalf,TakeOn,Successful,87.5,25.8,,
+530,436657,Agustín Canobbio,967,Uruguay,71,SecondHalf,Challenge,Unsuccessful,12.4,74.2,,
+795,261212,Dani Olmo,338,Spain,71,SecondHalf,Pass,Successful,91.7,28.4,89.8,18.4
+796,403865,Yéremy Pino,338,Spain,71,SecondHalf,Pass,Successful,84.5,8.3,72.3,7.9
+797,303139,Rodri,338,Spain,71,SecondHalf,Pass,Successful,62.4,36.1,45,44.6
+798,498386,Pau Cubarsí,338,Spain,71,SecondHalf,Pass,Successful,45.9,44.9,55.6,48.8
+799,303139,Rodri,338,Spain,71,SecondHalf,Pass,Successful,60.1,59.7,64.6,92
+800,363496,Marc Cucurella,338,Spain,71,SecondHalf,Pass,Successful,63.3,93.3,53.7,90.9
+801,122117,Aymeric Laporte,338,Spain,72,SecondHalf,Pass,Successful,53.7,90.9,57.9,69.6
+802,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,60.1,59.1,55.7,31.1
+803,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Successful,54.3,28.1,39.9,47.5
+804,498386,Pau Cubarsí,338,Spain,72,SecondHalf,Pass,Successful,39.9,47.5,52.9,49.1
+805,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,44.6,49.9,24.7,73.4
+806,122117,Aymeric Laporte,338,Spain,72,SecondHalf,Pass,Successful,22.7,73.7,10,55.7
+807,332823,Unai Simón,338,Spain,72,SecondHalf,Pass,Successful,10,55.7,15,83.1
+808,122117,Aymeric Laporte,338,Spain,72,SecondHalf,Pass,Successful,15,83.1,20.8,70.4
+809,303139,Rodri,338,Spain,72,SecondHalf,Pass,Successful,22,65.3,20.4,35.8
+810,498386,Pau Cubarsí,338,Spain,72,SecondHalf,Pass,Successful,39.4,34.6,56.7,12.1
+811,261212,Dani Olmo,338,Spain,72,SecondHalf,Pass,Successful,57.2,10.3,61.4,5.6
+812,480249,Lamine Yamal,338,Spain,72,SecondHalf,Pass,Successful,58.8,5.6,46.4,13.9
+813,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Unsuccessful,44.9,14.8,32.7,27.1
+532,484254,Federico Viñas,967,Uruguay,72,SecondHalf,Interception,Successful,67.3,72.9,,
+533,484254,Federico Viñas,967,Uruguay,72,SecondHalf,Pass,Unsuccessful,64,83.8,59.4,84.3
+814,254582,Marcos Llorente,338,Spain,72,SecondHalf,Pass,Successful,35.3,24.5,40.3,22.9
+534,484254,Federico Viñas,967,Uruguay,72,SecondHalf,Challenge,Unsuccessful,54.1,75,,
+815,261212,Dani Olmo,338,Spain,72,SecondHalf,TakeOn,Successful,45.9,25,,
+816,261212,Dani Olmo,338,Spain,72,SecondHalf,Pass,Unsuccessful,66,40.6,85.8,37
+535,231141,Sergio Rochet,967,Uruguay,72,SecondHalf,KeeperPickup,Successful,13.1,63.4,,
+536,231141,Sergio Rochet,967,Uruguay,72,SecondHalf,Pass,Successful,13.1,63.4,26.9,63.7
+537,303657,Rodrigo Bentancur,967,Uruguay,72,SecondHalf,Pass,Successful,27.7,64.9,20.6,69.3
+538,347178,Mathías Olivera,967,Uruguay,72,SecondHalf,Pass,Successful,21.4,69.3,26.2,92.5
+539,460758,Maxi Araújo,967,Uruguay,73,SecondHalf,Pass,Successful,32.6,91.5,26.3,78.1
+540,347178,Mathías Olivera,967,Uruguay,73,SecondHalf,Pass,Successful,26.1,69.7,29,53.1
+541,345389,Nicolás de la Cruz,967,Uruguay,73,SecondHalf,Pass,Successful,27.6,53.2,2.9,50.2
+542,231141,Sergio Rochet,967,Uruguay,73,SecondHalf,Pass,Unsuccessful,4.6,47.8,57.5,26.8
+817,122117,Aymeric Laporte,338,Spain,73,SecondHalf,Pass,Successful,42.5,80.9,52.5,59.7
+818,303139,Rodri,338,Spain,73,SecondHalf,BallRecovery,Successful,52.5,59.7,,
+819,303139,Rodri,338,Spain,73,SecondHalf,Pass,Successful,56.8,66,61.8,88.8
+820,403865,Yéremy Pino,338,Spain,73,SecondHalf,Pass,Successful,65.1,90.3,73.4,94.5
+821,294193,Fabián Ruiz,338,Spain,73,SecondHalf,Pass,Successful,75.1,94.8,69.7,97.4
+822,403865,Yéremy Pino,338,Spain,73,SecondHalf,Pass,Successful,69,93.5,67.2,75
+823,294193,Fabián Ruiz,338,Spain,73,SecondHalf,Pass,Successful,70.2,63,67.4,26.6
+824,254582,Marcos Llorente,338,Spain,73,SecondHalf,Pass,Successful,66.9,23.3,73.5,6.1
+825,480249,Lamine Yamal,338,Spain,73,SecondHalf,Pass,Successful,86.3,4.3,76,15.7
+826,294193,Fabián Ruiz,338,Spain,73,SecondHalf,Pass,Unsuccessful,73.8,23.3,69,34.3
+543,484254,Federico Viñas,967,Uruguay,73,SecondHalf,BallRecovery,Successful,30.7,72.9,,
+544,484254,Federico Viñas,967,Uruguay,73,SecondHalf,Foul,Successful,31,68,,
+827,303139,Rodri,338,Spain,73,SecondHalf,Foul,Unsuccessful,69,32,,
+545,347178,Mathías Olivera,967,Uruguay,74,SecondHalf,Pass,Successful,34.1,69.4,32.5,59.1
+546,303657,Rodrigo Bentancur,967,Uruguay,74,SecondHalf,Pass,Successful,30.8,59.5,29.9,71.8
+547,347178,Mathías Olivera,967,Uruguay,74,SecondHalf,Pass,Successful,29.1,63.6,9,62.4
+548,231141,Sergio Rochet,967,Uruguay,74,SecondHalf,Pass,Unsuccessful,9.3,61.6,34.7,49.5
+829,294193,Fabián Ruiz,338,Spain,74,SecondHalf,Pass,Unsuccessful,60.8,51.6,68.8,38.6
+549,303657,Rodrigo Bentancur,967,Uruguay,74,SecondHalf,Pass,Successful,32.9,62.7,33.7,52.8
+550,345389,Nicolás de la Cruz,967,Uruguay,74,SecondHalf,Foul,Successful,35.2,51.3,,
+830,261212,Dani Olmo,338,Spain,74,SecondHalf,Foul,Unsuccessful,64.7,48.7,,
+551,345389,Nicolás de la Cruz,967,Uruguay,74,SecondHalf,Pass,Successful,34.6,55.2,44.6,68.4
+552,303657,Rodrigo Bentancur,967,Uruguay,74,SecondHalf,Pass,Successful,46.1,69.1,58.6,93.3
+553,382265,Brian Rodríguez,967,Uruguay,74,SecondHalf,BallTouch,Unsuccessful,63.4,78.4,,
+831,254582,Marcos Llorente,338,Spain,74,SecondHalf,BallRecovery,Successful,34.5,36.7,,
+832,254582,Marcos Llorente,338,Spain,74,SecondHalf,Pass,Successful,56.1,66.5,38.8,69.9
+833,122117,Aymeric Laporte,338,Spain,74,SecondHalf,Pass,Successful,38.8,69.9,44.5,74.7
+834,363496,Marc Cucurella,338,Spain,74,SecondHalf,Pass,Successful,43.7,71.6,35.6,49.7
+835,498386,Pau Cubarsí,338,Spain,74,SecondHalf,Pass,Successful,35.6,49.7,44.3,43.3
+836,303139,Rodri,338,Spain,74,SecondHalf,Pass,Successful,38,56.9,35.7,69.8
+837,122117,Aymeric Laporte,338,Spain,74,SecondHalf,Pass,Successful,35.8,70.2,45.1,60.6
+838,294193,Fabián Ruiz,338,Spain,74,SecondHalf,Pass,Successful,45.1,60.5,31.9,34.1
+839,498386,Pau Cubarsí,338,Spain,75,SecondHalf,Pass,Successful,33.1,33.8,34.3,50.6
+840,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,31.3,48.2,25,41.3
+841,498386,Pau Cubarsí,338,Spain,75,SecondHalf,Pass,Successful,25,41.3,26,68.7
+842,122117,Aymeric Laporte,338,Spain,75,SecondHalf,Pass,Successful,39.9,61.4,47.1,40.9
+843,261212,Dani Olmo,338,Spain,75,SecondHalf,Foul,Successful,47.8,41,,
+555,347178,Mathías Olivera,967,Uruguay,75,SecondHalf,Foul,Unsuccessful,52.2,59,,
+844,480249,Lamine Yamal,338,Spain,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+845,408449,Nico Williams,338,Spain,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+846,298839,Mikel Oyarzabal,338,Spain,75,SecondHalf,SubstitutionOff,Successful,0,0,,
+847,349760,Ferran Torres,338,Spain,75,SecondHalf,SubstitutionOn,Successful,0,0,,
+853,,,338,Spain,75,SecondHalf,FormationChange,Successful,0,0,,
+848,303139,Rodri,338,Spain,75,SecondHalf,Pass,Successful,51.6,38.5,56.6,9.8
+849,403865,Yéremy Pino,338,Spain,75,SecondHalf,Pass,Successful,53.8,9.5,34.6,13.7
+850,254582,Marcos Llorente,338,Spain,76,SecondHalf,Pass,Successful,32.3,15.2,24.5,44.9
+851,498386,Pau Cubarsí,338,Spain,76,SecondHalf,Pass,Successful,23.6,48.2,23.7,69.8
+852,122117,Aymeric Laporte,338,Spain,76,SecondHalf,Foul,Successful,24,69.2,,
+556,484254,Federico Viñas,967,Uruguay,76,SecondHalf,Foul,Unsuccessful,76,30.8,,
+854,122117,Aymeric Laporte,338,Spain,76,SecondHalf,Pass,Successful,23.3,65.3,13.7,50.4
+855,332823,Unai Simón,338,Spain,76,SecondHalf,Pass,Successful,14.3,47.9,19.7,28
+856,498386,Pau Cubarsí,338,Spain,76,SecondHalf,Pass,Successful,21.7,28.6,9.2,50.3
+857,332823,Unai Simón,338,Spain,76,SecondHalf,Pass,Unsuccessful,11.6,53.9,58,57.3
+557,145385,Guillermo Varela,967,Uruguay,76,SecondHalf,Pass,Successful,44.1,44.4,55.9,51.6
+558,347178,Mathías Olivera,967,Uruguay,76,SecondHalf,BallRecovery,Successful,55.9,51.6,,
+559,347178,Mathías Olivera,967,Uruguay,76,SecondHalf,Pass,Unsuccessful,55.9,51.6,63,49.6
+560,303657,Rodrigo Bentancur,967,Uruguay,76,SecondHalf,Foul,Successful,64.2,49.6,,
+858,303139,Rodri,338,Spain,76,SecondHalf,Foul,Unsuccessful,35.7,50.4,,
+11570,436657,Agustín Canobbio,967,Uruguay,77,SecondHalf,OffsideGiven,Unsuccessful,81.9,15.7,,
+561,345389,Nicolás de la Cruz,967,Uruguay,77,SecondHalf,Pass,Successful,62.7,50.5,60.8,81.4
+562,460758,Maxi Araújo,967,Uruguay,77,SecondHalf,Pass,Successful,60.8,81.4,68.2,93.1
+563,382265,Brian Rodríguez,967,Uruguay,77,SecondHalf,Pass,Unsuccessful,66.1,89.1,67.2,85.2
+859,403865,Yéremy Pino,338,Spain,77,SecondHalf,BlockedPass,Successful,32.8,14.8,,
+860,294193,Fabián Ruiz,338,Spain,77,SecondHalf,BallRecovery,Successful,31.9,32.2,,
+861,294193,Fabián Ruiz,338,Spain,77,SecondHalf,Pass,Successful,29.9,38,11.5,46.9
+862,332823,Unai Simón,338,Spain,77,SecondHalf,Pass,Successful,10.3,46.9,44.1,31.1
+863,349760,Ferran Torres,338,Spain,77,SecondHalf,Aerial,Successful,44.1,31.1,,
+564,448735,Sebastián Cáceres,967,Uruguay,77,SecondHalf,Aerial,Unsuccessful,55.9,68.9,,
+864,349760,Ferran Torres,338,Spain,77,SecondHalf,Pass,Successful,44.1,31.1,45,6.2
+865,403865,Yéremy Pino,338,Spain,77,SecondHalf,Pass,Successful,40.9,6.4,35.6,27.2
+866,261212,Dani Olmo,338,Spain,77,SecondHalf,Pass,Successful,32.6,27.5,29.8,32
+867,303139,Rodri,338,Spain,77,SecondHalf,Pass,Successful,39.7,38.2,42.1,79.4
+868,363496,Marc Cucurella,338,Spain,77,SecondHalf,Pass,Successful,43.6,89.6,57.8,95.9
+869,408449,Nico Williams,338,Spain,77,SecondHalf,Pass,Unsuccessful,59.5,88.8,61.3,88.1
+566,345389,Nicolás de la Cruz,967,Uruguay,77,SecondHalf,BlockedPass,Successful,38.7,11.9,,
+567,436657,Agustín Canobbio,967,Uruguay,77,SecondHalf,BallRecovery,Successful,39,9.1,,
+568,436657,Agustín Canobbio,967,Uruguay,77,SecondHalf,Pass,Successful,39.6,9.1,44.3,16.8
+569,345389,Nicolás de la Cruz,967,Uruguay,77,SecondHalf,Pass,Successful,69.5,24.9,69.8,51
+570,382265,Brian Rodríguez,967,Uruguay,77,SecondHalf,OffsidePass,Successful,70.9,39.1,81.9,15.7
+870,254582,Marcos Llorente,338,Spain,77,SecondHalf,OffsideProvoked,Successful,19.1,45.8,,
+871,122117,Aymeric Laporte,338,Spain,78,SecondHalf,Pass,Successful,18,72.6,28.8,64.5
+872,261212,Dani Olmo,338,Spain,78,SecondHalf,Pass,Successful,28.8,64.5,21.6,71.6
+873,122117,Aymeric Laporte,338,Spain,78,SecondHalf,Pass,Successful,19.8,71.4,11.4,28.6
+874,498386,Pau Cubarsí,338,Spain,78,SecondHalf,Pass,Successful,11.3,28,34.3,44.8
+875,349760,Ferran Torres,338,Spain,78,SecondHalf,BallTouch,Unsuccessful,34.3,44.8,,
+571,303657,Rodrigo Bentancur,967,Uruguay,78,SecondHalf,Pass,Unsuccessful,62.5,49.8,59.3,52.9
+876,349760,Ferran Torres,338,Spain,78,SecondHalf,BlockedPass,Successful,40.7,47.1,,
+572,448735,Sebastián Cáceres,967,Uruguay,78,SecondHalf,BallRecovery,Successful,52.8,33.3,,
+573,448735,Sebastián Cáceres,967,Uruguay,78,SecondHalf,Pass,Successful,52.8,33.3,54.9,49.8
+574,303657,Rodrigo Bentancur,967,Uruguay,78,SecondHalf,Pass,Successful,54.9,49.8,51.8,30.1
+575,448735,Sebastián Cáceres,967,Uruguay,78,SecondHalf,Pass,Successful,52.3,30,63.7,48.7
+576,345389,Nicolás de la Cruz,967,Uruguay,78,SecondHalf,Pass,Unsuccessful,65.8,54.9,89.7,47.5
+877,332823,Unai Simón,338,Spain,78,SecondHalf,Smother,Successful,10.3,52.5,,
+878,332823,Unai Simón,338,Spain,78,SecondHalf,KeeperPickup,Successful,14,54.2,,
+879,332823,Unai Simón,338,Spain,78,SecondHalf,Pass,Successful,14.2,54,21.8,36.7
+880,303139,Rodri,338,Spain,78,SecondHalf,Pass,Successful,21.8,36.7,29.7,54.6
+881,294193,Fabián Ruiz,338,Spain,78,SecondHalf,Pass,Successful,30.1,57.8,33.4,78.6
+882,363496,Marc Cucurella,338,Spain,78,SecondHalf,Pass,Successful,65.7,91.7,67.4,97.1
+883,408449,Nico Williams,338,Spain,78,SecondHalf,Pass,Successful,67.5,95,69.4,75.5
+884,303139,Rodri,338,Spain,78,SecondHalf,Dispossessed,Successful,67.6,82,,
+577,484254,Federico Viñas,967,Uruguay,78,SecondHalf,Tackle,Successful,32.4,18,,
+578,484254,Federico Viñas,967,Uruguay,79,SecondHalf,Foul,Successful,32.4,17.3,,
+885,303139,Rodri,338,Spain,79,SecondHalf,Foul,Unsuccessful,67.6,82.8,,
+579,448735,Sebastián Cáceres,967,Uruguay,79,SecondHalf,Pass,Successful,31,19.5,14.3,45.6
+580,231141,Sergio Rochet,967,Uruguay,79,SecondHalf,Pass,Successful,18.3,44.4,29.8,24.4
+581,448735,Sebastián Cáceres,967,Uruguay,79,SecondHalf,Pass,Successful,29.8,24.4,19.4,51.3
+582,231141,Sergio Rochet,967,Uruguay,79,SecondHalf,Pass,Unsuccessful,26.7,43.6,75.5,19.9
+886,122117,Aymeric Laporte,338,Spain,79,SecondHalf,Clearance,Successful,19.4,82.1,31,86.7
+887,408449,Nico Williams,338,Spain,79,SecondHalf,Pass,Unsuccessful,31,86.7,40.3,76.8
+583,145385,Guillermo Varela,967,Uruguay,79,SecondHalf,Pass,Successful,58.3,26.2,73.5,31.8
+584,400828,Darwin Núñez,967,Uruguay,79,SecondHalf,Pass,Successful,74.4,24.3,76,5.1
+585,436657,Agustín Canobbio,967,Uruguay,79,SecondHalf,Pass,Successful,73.9,9.7,69,21.4
+586,345389,Nicolás de la Cruz,967,Uruguay,80,SecondHalf,Pass,Successful,68.4,26.2,70.7,34.5
+587,347178,Mathías Olivera,967,Uruguay,80,SecondHalf,Pass,Successful,74,28.2,83.3,11.7
+588,436657,Agustín Canobbio,967,Uruguay,80,SecondHalf,Pass,Unsuccessful,84.3,9.9,100,59.8
+889,122117,Aymeric Laporte,338,Spain,80,SecondHalf,Pass,Successful,4.9,60.8,4.1,54
+890,332823,Unai Simón,338,Spain,80,SecondHalf,Pass,Successful,9.5,51.5,12.3,76.5
+891,122117,Aymeric Laporte,338,Spain,80,SecondHalf,Pass,Successful,12.6,82.8,23.5,97.5
+892,363496,Marc Cucurella,338,Spain,80,SecondHalf,Pass,Unsuccessful,23.5,97.5,26,95.7
+590,436657,Agustín Canobbio,967,Uruguay,80,SecondHalf,BlockedPass,Successful,73,6,,
+893,363496,Marc Cucurella,338,Spain,80,SecondHalf,Foul,Successful,27.3,89.2,,
+591,436657,Agustín Canobbio,967,Uruguay,80,SecondHalf,Foul,Unsuccessful,72.6,10.8,,
+1,,,967,Uruguay,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,338,Spain,0,PreMatch,FormationSet,Successful,0,0,,

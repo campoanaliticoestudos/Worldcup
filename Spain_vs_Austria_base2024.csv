@@ -1,0 +1,549 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,324,Austria,0,FirstHalf,Start,Successful,0,0,,
+2,,,338,Spain,0,FirstHalf,Start,Successful,0,0,,
+3,298839,Mikel Oyarzabal,338,Spain,0,FirstHalf,Pass,Successful,49.9,50.2,37.3,45.6
+4,303139,Rodri,338,Spain,0,FirstHalf,Pass,Successful,34.7,44.1,28,14.7
+5,362352,Pedro Porro,338,Spain,0,FirstHalf,Pass,Unsuccessful,29.6,10.7,68.3,24.1
+3,39722,David Alaba,324,Austria,0,FirstHalf,Pass,Successful,33.8,74.7,48.7,59.3
+4,383847,Romano Schmid,324,Austria,0,FirstHalf,Pass,Unsuccessful,48.7,59.3,45.6,71.1
+6,261212,Dani Olmo,338,Spain,0,FirstHalf,Pass,Unsuccessful,45.9,28.8,44.6,33.5
+16,430703,Paul Wanner,324,Austria,0,FirstHalf,BlockedPass,Successful,55.4,66.5,,
+5,,,324,Austria,0,FirstHalf,Foul,Successful,54.4,68.2,,
+7,261212,Dani Olmo,338,Spain,0,FirstHalf,Foul,Unsuccessful,45.6,31.8,,
+6,262856,Xaver Schlager,324,Austria,0,FirstHalf,Pass,Successful,54.4,70.2,44.8,66.3
+7,39722,David Alaba,324,Austria,0,FirstHalf,Pass,Successful,44.8,66.3,39.4,24
+8,330816,Kevin Danso,324,Austria,0,FirstHalf,Pass,Successful,35.9,21.9,14.5,45.5
+9,130812,Alexander Schlager,324,Austria,0,FirstHalf,Pass,Successful,15.3,53.6,22.4,78.7
+10,39722,David Alaba,324,Austria,0,FirstHalf,Pass,Successful,23.9,80.9,31.1,96.8
+11,248010,Konrad Laimer,324,Austria,0,FirstHalf,Pass,Successful,44.9,91.7,92.5,93.3
+12,92051,Marcel Sabitzer,324,Austria,0,FirstHalf,Pass,Unsuccessful,97.4,86.9,92.6,59.4
+8,498386,Pau Cubarsí,338,Spain,0,FirstHalf,Clearance,Successful,9.1,40,19.1,13.9
+13,248010,Konrad Laimer,324,Austria,0,FirstHalf,Pass,Successful,87.6,81.5,91.5,88.7
+14,92051,Marcel Sabitzer,324,Austria,0,FirstHalf,Pass,Successful,90.3,89.6,76.5,70.9
+15,418587,Nicolas Seiwald,324,Austria,0,FirstHalf,BallTouch,Unsuccessful,75.7,67.5,,
+9,480249,Lamine Yamal,338,Spain,0,FirstHalf,BallRecovery,Successful,25.7,31.2,,
+10,480249,Lamine Yamal,338,Spain,0,FirstHalf,Pass,Successful,38.4,52.3,58.8,75.6
+11,395242,Álex Baena,338,Spain,0,FirstHalf,Pass,Successful,62.9,72.7,66.3,67
+12,480249,Lamine Yamal,338,Spain,1,FirstHalf,SavedShot,Successful,80.3,66.7,,
+17,130812,Alexander Schlager,324,Austria,1,FirstHalf,Save,Successful,3.1,49.6,,
+18,130812,Alexander Schlager,324,Austria,1,FirstHalf,KeeperPickup,Successful,3.1,49.6,,
+20,130812,Alexander Schlager,324,Austria,1,FirstHalf,Pass,Successful,4.7,49.6,7.8,32.1
+21,330816,Kevin Danso,324,Austria,1,FirstHalf,Pass,Successful,9.6,29.8,23.8,25.2
+22,418587,Nicolas Seiwald,324,Austria,1,FirstHalf,Pass,Successful,23.9,25,11.1,31.6
+23,330816,Kevin Danso,324,Austria,1,FirstHalf,Pass,Successful,12.6,38.3,9.3,78.1
+24,39722,David Alaba,324,Austria,1,FirstHalf,Pass,Successful,13.5,85.4,4.7,66.9
+25,130812,Alexander Schlager,324,Austria,1,FirstHalf,Pass,Successful,8.3,58.7,15.8,28.2
+26,330816,Kevin Danso,324,Austria,1,FirstHalf,Pass,Successful,26.3,22.4,31,2.6
+27,333741,Stefan Posch,324,Austria,1,FirstHalf,Pass,Successful,27.7,5.5,8.3,19.7
+28,330816,Kevin Danso,324,Austria,1,FirstHalf,Pass,Successful,15.1,9.4,42.4,7.7
+29,383847,Romano Schmid,324,Austria,1,FirstHalf,Pass,Successful,42.4,7.7,37.2,12.9
+30,430703,Paul Wanner,324,Austria,1,FirstHalf,Pass,Unsuccessful,36.9,12.8,35.2,0
+14,363496,Marc Cucurella,338,Spain,1,FirstHalf,Pass,Successful,61,100,67.2,90.9
+15,261212,Dani Olmo,338,Spain,1,FirstHalf,Pass,Successful,67,90.9,69.1,96.1
+16,395242,Álex Baena,338,Spain,1,FirstHalf,TakeOn,Unsuccessful,71.1,94.7,,
+32,330816,Kevin Danso,324,Austria,2,FirstHalf,Clearance,Successful,15.4,13.4,18.1,11.9
+18,395242,Álex Baena,338,Spain,2,FirstHalf,BallTouch,Successful,73.3,92.9,,
+49,330816,Kevin Danso,324,Austria,2,FirstHalf,BallRecovery,Successful,10.7,4.8,,
+33,330816,Kevin Danso,324,Austria,2,FirstHalf,Pass,Unsuccessful,19,5.5,54.5,5.8
+32,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Aerial,Successful,45.5,94.2,,
+34,84919,Michael Gregoritsch,324,Austria,2,FirstHalf,Aerial,Unsuccessful,54.5,5.8,,
+19,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Unsuccessful,45.5,94.2,58.4,93.7
+35,383847,Romano Schmid,324,Austria,2,FirstHalf,Pass,Successful,42,8,57.8,8
+65,84919,Michael Gregoritsch,324,Austria,2,FirstHalf,Pass,Unsuccessful,57.1,5.1,53.8,40.6
+20,362352,Pedro Porro,338,Spain,2,FirstHalf,Interception,Successful,46.2,59.4,,
+21,303139,Rodri,338,Spain,2,FirstHalf,Pass,Unsuccessful,42,69,37.5,67
+36,84919,Michael Gregoritsch,324,Austria,2,FirstHalf,Pass,Unsuccessful,64.9,25.6,64.9,27.6
+22,498386,Pau Cubarsí,338,Spain,2,FirstHalf,BlockedPass,Successful,35.1,72.4,,
+23,122117,Aymeric Laporte,338,Spain,2,FirstHalf,BallRecovery,Successful,19.6,85.5,,
+24,122117,Aymeric Laporte,338,Spain,2,FirstHalf,Pass,Successful,18.3,85.6,7.7,66.1
+25,332823,Unai Simón,338,Spain,2,FirstHalf,Pass,Successful,6.7,57.1,8.6,40.1
+26,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Pass,Successful,11.1,28.9,22.8,6.2
+27,362352,Pedro Porro,338,Spain,2,FirstHalf,Pass,Successful,28.6,5.4,33,10.1
+28,480249,Lamine Yamal,338,Spain,2,FirstHalf,Pass,Successful,33,10.1,29.4,10.7
+29,362352,Pedro Porro,338,Spain,2,FirstHalf,Pass,Unsuccessful,29.4,10.7,58,6.2
+37,39722,David Alaba,324,Austria,2,FirstHalf,BallRecovery,Successful,36.3,91.1,,
+38,39722,David Alaba,324,Austria,2,FirstHalf,Pass,Successful,35.2,90.5,18.3,63.9
+39,130812,Alexander Schlager,324,Austria,2,FirstHalf,Pass,Successful,18.3,63.9,27,40.7
+40,330816,Kevin Danso,324,Austria,2,FirstHalf,Pass,Successful,27,39.7,32.1,40
+41,418587,Nicolas Seiwald,324,Austria,2,FirstHalf,Pass,Successful,32.1,40,26.2,40
+42,330816,Kevin Danso,324,Austria,2,FirstHalf,Pass,Successful,26.4,31.3,33.4,7
+43,333741,Stefan Posch,324,Austria,2,FirstHalf,Pass,Successful,32.2,17.1,36.4,24.3
+44,418587,Nicolas Seiwald,324,Austria,2,FirstHalf,Pass,Successful,36.4,24.3,47.4,14.3
+45,383847,Romano Schmid,324,Austria,2,FirstHalf,Pass,Successful,47.4,14.3,43.4,4
+46,418587,Nicolas Seiwald,324,Austria,2,FirstHalf,Pass,Unsuccessful,44.2,4.1,45.2,6.2
+76,363496,Marc Cucurella,338,Spain,2,FirstHalf,BlockedPass,Successful,54.8,93.8,,
+47,383847,Romano Schmid,324,Austria,2,FirstHalf,Pass,Unsuccessful,79.6,6.4,87.3,41.9
+30,498386,Pau Cubarsí,338,Spain,2,FirstHalf,Clearance,Successful,12.3,60.6,8.6,100
+50,330816,Kevin Danso,324,Austria,3,FirstHalf,Pass,Unsuccessful,86.1,0,92,41.2
+33,122117,Aymeric Laporte,338,Spain,3,FirstHalf,Clearance,Successful,9.3,55.5,19.4,86.4
+51,330816,Kevin Danso,324,Austria,3,FirstHalf,Pass,Successful,73.4,18.9,54.9,45.8
+52,418587,Nicolas Seiwald,324,Austria,3,FirstHalf,Pass,Successful,54.9,45.8,59.9,74.7
+53,248010,Konrad Laimer,324,Austria,3,FirstHalf,Pass,Successful,58.6,79.7,45.7,59.1
+54,418587,Nicolas Seiwald,324,Austria,3,FirstHalf,Pass,Successful,44.4,57.9,45,77.8
+55,248010,Konrad Laimer,324,Austria,3,FirstHalf,Pass,Successful,45.5,77.9,34.1,64.8
+56,418587,Nicolas Seiwald,324,Austria,3,FirstHalf,Pass,Successful,34.1,61.5,35.9,28.5
+57,330816,Kevin Danso,324,Austria,3,FirstHalf,Pass,Successful,36.9,30,31.8,49.7
+58,418587,Nicolas Seiwald,324,Austria,3,FirstHalf,Pass,Successful,32,51.8,35.4,70.6
+59,39722,David Alaba,324,Austria,3,FirstHalf,Pass,Successful,36.2,70.3,45.4,63.4
+60,262856,Xaver Schlager,324,Austria,3,FirstHalf,Dispossessed,Successful,45.5,65.4,,
+41,298839,Mikel Oyarzabal,338,Spain,3,FirstHalf,Tackle,Successful,54.5,34.6,,
+34,480249,Lamine Yamal,338,Spain,3,FirstHalf,BallRecovery,Successful,59.7,27.4,,
+45,480249,Lamine Yamal,338,Spain,3,FirstHalf,Pass,Successful,56.7,28.6,62.4,36.4
+47,261212,Dani Olmo,338,Spain,3,FirstHalf,Dispossessed,Successful,58.8,27.6,,
+80,418587,Nicolas Seiwald,324,Austria,3,FirstHalf,Tackle,Unsuccessful,41.2,72.4,,
+35,480249,Lamine Yamal,338,Spain,4,FirstHalf,Pass,Successful,68,44.4,80,66.7
+36,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Unsuccessful,84,67.6,86.1,62.9
+61,330816,Kevin Danso,324,Austria,4,FirstHalf,BallTouch,Successful,13.9,37.1,,
+37,480249,Lamine Yamal,338,Spain,4,FirstHalf,BallTouch,Successful,80.1,72.7,,
+38,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Successful,85.7,82.1,92.9,72.4
+39,480249,Lamine Yamal,338,Spain,4,FirstHalf,Pass,Unsuccessful,94.2,71.7,94.5,68.6
+62,330816,Kevin Danso,324,Austria,4,FirstHalf,BlockedPass,Successful,5.5,31.4,,
+40,480249,Lamine Yamal,338,Spain,4,FirstHalf,CornerAwarded,Successful,91.8,73.2,,
+64,330816,Kevin Danso,324,Austria,4,FirstHalf,CornerAwarded,Unsuccessful,8.2,26.8,,
+42,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Successful,99.5,99.5,79.1,83
+43,402197,Pedri,338,Spain,4,FirstHalf,Pass,Successful,79.1,83,84.2,91.5
+44,395242,Álex Baena,338,Spain,4,FirstHalf,Pass,Unsuccessful,84.2,91.5,90.4,62.7
+66,84919,Michael Gregoritsch,324,Austria,4,FirstHalf,Clearance,Successful,4.8,41,12,12
+67,383847,Romano Schmid,324,Austria,4,FirstHalf,BallRecovery,Successful,12,12,,
+68,383847,Romano Schmid,324,Austria,4,FirstHalf,Pass,Successful,13.4,14.4,24.4,26.1
+69,430703,Paul Wanner,324,Austria,4,FirstHalf,Pass,Successful,24.4,26.1,26.1,18.5
+70,383847,Romano Schmid,324,Austria,4,FirstHalf,Pass,Successful,33.9,20.6,30.4,23.4
+71,430703,Paul Wanner,324,Austria,4,FirstHalf,Pass,Successful,32.7,25.5,68.8,95
+11079,84919,Michael Gregoritsch,324,Austria,5,FirstHalf,OffsideGiven,Unsuccessful,65.4,62.4,,
+72,92051,Marcel Sabitzer,324,Austria,5,FirstHalf,Pass,Successful,70.3,93.6,67.8,74.1
+73,248010,Konrad Laimer,324,Austria,5,FirstHalf,Pass,Successful,72,75.1,76.3,95.1
+74,92051,Marcel Sabitzer,324,Austria,5,FirstHalf,Pass,Successful,73.8,93.6,65.9,75.4
+75,262856,Xaver Schlager,324,Austria,5,FirstHalf,Pass,Unsuccessful,61.5,95.1,47.5,90.9
+46,480249,Lamine Yamal,338,Spain,5,FirstHalf,BallTouch,Successful,55.1,8.8,,
+76,39722,David Alaba,324,Austria,5,FirstHalf,Pass,Successful,35.9,87.5,40.6,71.4
+77,418587,Nicolas Seiwald,324,Austria,5,FirstHalf,Pass,Successful,40.9,68.7,34.6,70.8
+78,39722,David Alaba,324,Austria,5,FirstHalf,Pass,Successful,38.7,74.8,59.7,86.9
+79,92051,Marcel Sabitzer,324,Austria,5,FirstHalf,OffsidePass,Successful,59.4,80.5,65.4,62.4
+48,363496,Marc Cucurella,338,Spain,5,FirstHalf,OffsideProvoked,Successful,35.3,72.2,,
+49,498386,Pau Cubarsí,338,Spain,5,FirstHalf,Pass,Successful,24.8,28.9,22.7,61.2
+50,122117,Aymeric Laporte,338,Spain,5,FirstHalf,Pass,Successful,30.4,69.3,27.3,40.3
+51,498386,Pau Cubarsí,338,Spain,5,FirstHalf,Pass,Successful,26.8,33,42.4,25.3
+52,261212,Dani Olmo,338,Spain,5,FirstHalf,Pass,Successful,43.2,25,39.8,5.1
+53,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,40.5,5,47.4,5.9
+54,480249,Lamine Yamal,338,Spain,6,FirstHalf,Dispossessed,Successful,47.7,7.2,,
+82,248010,Konrad Laimer,324,Austria,6,FirstHalf,Tackle,Successful,52.2,92.7,,
+56,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,46.8,0,47.4,8.9
+57,261212,Dani Olmo,338,Spain,6,FirstHalf,Pass,Successful,47.4,8.9,42,3
+58,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,41.6,3.3,23.2,12.9
+59,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,21.1,11.6,10.4,47.4
+60,332823,Unai Simón,338,Spain,6,FirstHalf,Pass,Successful,13.2,51.2,23.3,62.1
+61,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Successful,24.4,62,25.9,49.1
+62,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,27.8,48.6,34.9,43.5
+63,402197,Pedri,338,Spain,6,FirstHalf,Pass,Successful,33.2,40.1,30.5,24.7
+64,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,32.8,25.1,53.9,30
+65,298839,Mikel Oyarzabal,338,Spain,6,FirstHalf,Pass,Successful,52.7,27.7,34.9,24.5
+66,498386,Pau Cubarsí,338,Spain,6,FirstHalf,Pass,Successful,33.9,26.7,32.2,47.9
+67,122117,Aymeric Laporte,338,Spain,6,FirstHalf,Pass,Successful,40.1,53.9,45.3,70.9
+68,303139,Rodri,338,Spain,6,FirstHalf,Pass,Successful,51.9,70.8,53.5,44.7
+69,402197,Pedri,338,Spain,6,FirstHalf,Pass,Unsuccessful,56.4,36.7,60.7,35.9
+85,418587,Nicolas Seiwald,324,Austria,6,FirstHalf,BallTouch,Successful,36.8,67.2,,
+70,298839,Mikel Oyarzabal,338,Spain,6,FirstHalf,BallTouch,Successful,69,23.3,,
+71,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,70.6,11.5,84.6,6
+72,480249,Lamine Yamal,338,Spain,6,FirstHalf,Pass,Successful,86.9,8.9,81.9,9.2
+73,362352,Pedro Porro,338,Spain,6,FirstHalf,Pass,Successful,81.9,9.2,86.1,46.7
+74,261212,Dani Olmo,338,Spain,7,FirstHalf,SavedShot,Successful,86.1,46.7,,
+75,298839,Mikel Oyarzabal,338,Spain,7,FirstHalf,BallTouch,Successful,90.5,46.4,,
+86,383847,Romano Schmid,324,Austria,7,FirstHalf,BallRecovery,Successful,18.7,47.5,,
+87,383847,Romano Schmid,324,Austria,7,FirstHalf,Pass,Unsuccessful,18.7,47.5,29.1,48.1
+77,303139,Rodri,338,Spain,7,FirstHalf,BallRecovery,Successful,70.2,50.6,,
+78,303139,Rodri,338,Spain,7,FirstHalf,Pass,Successful,69.3,51.4,58.2,66.1
+79,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,58.1,66.4,65.2,75.5
+80,363496,Marc Cucurella,338,Spain,7,FirstHalf,Pass,Successful,63.5,74.7,57.9,72.6
+81,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Pass,Successful,60,72.9,72.4,95.6
+82,395242,Álex Baena,338,Spain,7,FirstHalf,Pass,Unsuccessful,77.2,92,96.7,75.6
+89,383847,Romano Schmid,324,Austria,7,FirstHalf,BallTouch,Unsuccessful,2.1,22.1,,
+88,383847,Romano Schmid,324,Austria,7,FirstHalf,CornerAwarded,Unsuccessful,5.8,26.5,,
+83,395242,Álex Baena,338,Spain,7,FirstHalf,CornerAwarded,Successful,94.2,73.5,,
+84,395242,Álex Baena,338,Spain,7,FirstHalf,Pass,Successful,99.6,99.6,96.5,54.8
+85,122117,Aymeric Laporte,338,Spain,7,FirstHalf,Aerial,Successful,96.5,54.8,,
+90,330816,Kevin Danso,324,Austria,7,FirstHalf,Aerial,Unsuccessful,3.5,45.2,,
+86,122117,Aymeric Laporte,338,Spain,7,FirstHalf,MissedShots,Successful,96.5,54.8,,
+93,39722,David Alaba,324,Austria,8,FirstHalf,Pass,Successful,5.1,61.2,3.7,49.7
+94,130812,Alexander Schlager,324,Austria,8,FirstHalf,Pass,Unsuccessful,6.7,43.4,57.6,66.9
+91,498386,Pau Cubarsí,338,Spain,8,FirstHalf,Pass,Successful,43.8,32.7,60,9.1
+92,480249,Lamine Yamal,338,Spain,8,FirstHalf,BallRecovery,Successful,62.5,8,,
+93,480249,Lamine Yamal,338,Spain,8,FirstHalf,TakeOn,Unsuccessful,77,6.2,,
+95,248010,Konrad Laimer,324,Austria,8,FirstHalf,Tackle,Successful,23,93.8,,
+96,362352,Pedro Porro,338,Spain,9,FirstHalf,Pass,Successful,90.3,0,67.6,10.6
+97,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Unsuccessful,67.5,10.6,88.5,52.9
+97,130812,Alexander Schlager,324,Austria,9,FirstHalf,Punch,Unsuccessful,11.5,47.1,20.1,38.3
+98,122117,Aymeric Laporte,338,Spain,9,FirstHalf,Pass,Unsuccessful,80.7,59.2,87.8,76.7
+98,333741,Stefan Posch,324,Austria,9,FirstHalf,Clearance,Successful,9.4,24.9,22.9,0
+100,363496,Marc Cucurella,338,Spain,9,FirstHalf,Pass,Successful,84.9,100,79.5,96.1
+101,395242,Álex Baena,338,Spain,9,FirstHalf,Pass,Successful,77.7,96.4,66.6,95.5
+102,402197,Pedri,338,Spain,9,FirstHalf,Pass,Successful,63.9,92.4,55.1,55.8
+103,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Successful,54,50.2,57,25.6
+104,362352,Pedro Porro,338,Spain,9,FirstHalf,Pass,Successful,56.2,27.1,44.2,35.6
+105,498386,Pau Cubarsí,338,Spain,9,FirstHalf,Pass,Successful,42.6,38.3,42.3,64.9
+106,122117,Aymeric Laporte,338,Spain,10,FirstHalf,Pass,Successful,42.1,67,44.8,94.4
+107,363496,Marc Cucurella,338,Spain,10,FirstHalf,Pass,Successful,44.9,94.4,59.8,97.6
+108,395242,Álex Baena,338,Spain,10,FirstHalf,Pass,Successful,60,97.3,68.3,72.6
+109,261212,Dani Olmo,338,Spain,10,FirstHalf,Foul,Successful,67.2,71.3,,
+100,39722,David Alaba,324,Austria,10,FirstHalf,Foul,Unsuccessful,32.8,28.7,,
+110,395242,Álex Baena,338,Spain,10,FirstHalf,Pass,Successful,67.9,64.6,64.9,38.9
+111,498386,Pau Cubarsí,338,Spain,10,FirstHalf,Pass,Successful,64.7,38.2,76.5,8.2
+113,480249,Lamine Yamal,338,Spain,10,FirstHalf,BallTouch,Unsuccessful,91.1,25,,
+101,248010,Konrad Laimer,324,Austria,10,FirstHalf,BallRecovery,Successful,9.7,74.8,,
+102,248010,Konrad Laimer,324,Austria,10,FirstHalf,Pass,Successful,9.7,74.8,13.8,91.1
+103,92051,Marcel Sabitzer,324,Austria,10,FirstHalf,BallTouch,Unsuccessful,16.9,97.1,,
+114,303139,Rodri,338,Spain,10,FirstHalf,BallRecovery,Successful,75.8,5.9,,
+115,303139,Rodri,338,Spain,10,FirstHalf,Pass,Successful,75.8,5.9,73.6,13.9
+116,261212,Dani Olmo,338,Spain,10,FirstHalf,Pass,Successful,73.3,14.1,65.9,15.4
+117,402197,Pedri,338,Spain,10,FirstHalf,Pass,Successful,65.7,16.5,59.2,37
+118,122117,Aymeric Laporte,338,Spain,10,FirstHalf,Pass,Successful,66.9,50.6,72.6,73.8
+119,363496,Marc Cucurella,338,Spain,10,FirstHalf,Pass,Successful,73.6,74.4,82.5,96.2
+120,395242,Álex Baena,338,Spain,10,FirstHalf,Pass,Successful,83.6,93.8,74.8,80.2
+121,363496,Marc Cucurella,338,Spain,10,FirstHalf,Pass,Successful,74.9,80.6,85.5,94.3
+122,395242,Álex Baena,338,Spain,10,FirstHalf,Pass,Unsuccessful,91.7,87.1,92.9,83
+105,333741,Stefan Posch,324,Austria,10,FirstHalf,Clearance,Successful,7.1,17,,
+106,333741,Stefan Posch,324,Austria,10,FirstHalf,CornerAwarded,Unsuccessful,7,17.8,,
+123,395242,Álex Baena,338,Spain,10,FirstHalf,CornerAwarded,Successful,93,82.2,,
+124,395242,Álex Baena,338,Spain,11,FirstHalf,Pass,Unsuccessful,99.5,99.5,96.9,60.6
+107,418587,Nicolas Seiwald,324,Austria,11,FirstHalf,Clearance,Successful,2.5,38.8,16.5,33.6
+125,402197,Pedri,338,Spain,11,FirstHalf,Aerial,Successful,83.5,66.4,,
+108,430703,Paul Wanner,324,Austria,11,FirstHalf,Aerial,Unsuccessful,16.5,33.6,,
+126,402197,Pedri,338,Spain,11,FirstHalf,Pass,Unsuccessful,83.5,66.4,80.3,49.8
+109,92051,Marcel Sabitzer,324,Austria,11,FirstHalf,Clearance,Successful,18.5,54.5,36.9,50.3
+127,362352,Pedro Porro,338,Spain,11,FirstHalf,Pass,Successful,62.9,47.6,75.7,96.7
+128,395242,Álex Baena,338,Spain,11,FirstHalf,Pass,Successful,75.7,96.7,83.2,85.9
+129,298839,Mikel Oyarzabal,338,Spain,11,FirstHalf,Pass,Successful,82.9,86.2,73.4,96.4
+130,395242,Álex Baena,338,Spain,11,FirstHalf,Pass,Successful,72.3,95.9,67.3,84.9
+131,402197,Pedri,338,Spain,11,FirstHalf,Pass,Successful,67,83.8,65.9,67.6
+132,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,67.6,48.3,65.4,33.8
+133,498386,Pau Cubarsí,338,Spain,11,FirstHalf,Pass,Successful,65.6,28.6,73.1,8.8
+134,362352,Pedro Porro,338,Spain,11,FirstHalf,Pass,Successful,71.7,9.2,62.2,25.1
+135,498386,Pau Cubarsí,338,Spain,11,FirstHalf,Pass,Successful,61.8,26,56.4,34.4
+136,303139,Rodri,338,Spain,11,FirstHalf,Pass,Successful,56.9,34.8,52.1,62.3
+137,122117,Aymeric Laporte,338,Spain,12,FirstHalf,Pass,Unsuccessful,46.3,66.1,68.3,94.9
+110,333741,Stefan Posch,324,Austria,12,FirstHalf,Interception,Successful,31.7,5.1,,
+111,383847,Romano Schmid,324,Austria,12,FirstHalf,Pass,Successful,37.6,11.3,43.1,0.8
+112,333741,Stefan Posch,324,Austria,12,FirstHalf,Foul,Successful,41.8,1.4,,
+138,363496,Marc Cucurella,338,Spain,12,FirstHalf,Foul,Unsuccessful,58.3,98.6,,
+113,333741,Stefan Posch,324,Austria,12,FirstHalf,Pass,Successful,43.1,5,46.3,14.1
+114,418587,Nicolas Seiwald,324,Austria,12,FirstHalf,Pass,Successful,46.3,14.1,41.8,4.9
+115,333741,Stefan Posch,324,Austria,12,FirstHalf,Pass,Successful,41.8,4.9,20.3,9.5
+116,330816,Kevin Danso,324,Austria,12,FirstHalf,Pass,Unsuccessful,22.4,7,24.2,6.7
+139,298839,Mikel Oyarzabal,338,Spain,12,FirstHalf,BlockedPass,Successful,75.8,93.3,,
+118,333741,Stefan Posch,324,Austria,13,FirstHalf,Pass,Unsuccessful,29.4,0,42.4,25.3
+141,303139,Rodri,338,Spain,13,FirstHalf,Pass,Successful,55.3,78.2,34.6,76.8
+142,498386,Pau Cubarsí,338,Spain,13,FirstHalf,BallRecovery,Successful,34.1,76.8,,
+143,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,29.5,77.3,14.6,51.8
+144,332823,Unai Simón,338,Spain,13,FirstHalf,Pass,Successful,14.6,51.5,15.7,49.7
+145,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,30.5,42.6,27.1,70.6
+146,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Unsuccessful,27.1,70.6,29.4,71.5
+119,84919,Michael Gregoritsch,324,Austria,13,FirstHalf,BlockedPass,Successful,70.6,28.5,,
+148,363496,Marc Cucurella,338,Spain,13,FirstHalf,Pass,Successful,29.2,100,11.2,90.2
+149,122117,Aymeric Laporte,338,Spain,13,FirstHalf,Pass,Successful,9.6,88.2,3.2,58
+150,332823,Unai Simón,338,Spain,13,FirstHalf,Pass,Successful,24.4,48.2,26,29.7
+151,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,30.7,26.2,52.7,34.1
+152,298839,Mikel Oyarzabal,338,Spain,13,FirstHalf,Pass,Unsuccessful,52.7,34.1,40.4,32.7
+121,262856,Xaver Schlager,324,Austria,13,FirstHalf,Interception,Successful,59.6,67.3,,
+153,498386,Pau Cubarsí,338,Spain,13,FirstHalf,Pass,Successful,27.9,35.7,13.8,48.9
+154,332823,Unai Simón,338,Spain,14,FirstHalf,Pass,Successful,13.8,48.9,22.8,67.6
+155,122117,Aymeric Laporte,338,Spain,14,FirstHalf,Pass,Successful,29.1,66.7,30,52.9
+156,303139,Rodri,338,Spain,14,FirstHalf,Pass,Successful,31.5,49.8,33,25
+157,498386,Pau Cubarsí,338,Spain,14,FirstHalf,Pass,Successful,33.2,24.7,55.4,6.3
+159,298839,Mikel Oyarzabal,338,Spain,14,FirstHalf,Foul,Successful,59.4,23.3,,
+122,39722,David Alaba,324,Austria,14,FirstHalf,Foul,Unsuccessful,40.6,76.7,,
+160,362352,Pedro Porro,338,Spain,15,FirstHalf,Pass,Successful,58.2,14.2,53.8,23.6
+161,303139,Rodri,338,Spain,15,FirstHalf,Pass,Successful,53.8,23.9,59.3,37.9
+162,402197,Pedri,338,Spain,15,FirstHalf,Pass,Unsuccessful,59.3,37.9,67,12.9
+123,248010,Konrad Laimer,324,Austria,15,FirstHalf,BallRecovery,Successful,32.9,88.6,,
+124,248010,Konrad Laimer,324,Austria,15,FirstHalf,Pass,Successful,32,87.9,47.4,62.6
+126,84919,Michael Gregoritsch,324,Austria,15,FirstHalf,Pass,Unsuccessful,52.2,58.7,61,91.8
+163,362352,Pedro Porro,338,Spain,15,FirstHalf,Foul,Successful,36.9,8,,
+127,430703,Paul Wanner,324,Austria,15,FirstHalf,Foul,Unsuccessful,63.1,92,,
+164,362352,Pedro Porro,338,Spain,15,FirstHalf,Pass,Successful,33.9,5.6,30.5,75.6
+165,363496,Marc Cucurella,338,Spain,15,FirstHalf,BallTouch,Unsuccessful,30.5,75.6,,
+128,383847,Romano Schmid,324,Austria,15,FirstHalf,BallRecovery,Successful,62.9,13.2,,
+129,383847,Romano Schmid,324,Austria,15,FirstHalf,Pass,Successful,62.3,9.2,55.2,12.6
+130,333741,Stefan Posch,324,Austria,15,FirstHalf,Pass,Successful,56,13.5,61.2,5.3
+131,383847,Romano Schmid,324,Austria,15,FirstHalf,Pass,Successful,57.8,9.1,32.7,18.6
+132,330816,Kevin Danso,324,Austria,15,FirstHalf,Pass,Successful,37.2,17.4,19.7,34.3
+133,130812,Alexander Schlager,324,Austria,15,FirstHalf,Pass,Successful,20.9,36.4,32.4,84.4
+134,248010,Konrad Laimer,324,Austria,15,FirstHalf,Pass,Successful,29.7,81.1,15.8,70
+135,39722,David Alaba,324,Austria,16,FirstHalf,Pass,Successful,15.8,70,8.2,47.8
+136,130812,Alexander Schlager,324,Austria,16,FirstHalf,Pass,Successful,8.7,47.6,10,72.7
+137,39722,David Alaba,324,Austria,16,FirstHalf,Pass,Successful,18,84.8,10.8,58.7
+138,130812,Alexander Schlager,324,Austria,16,FirstHalf,Pass,Successful,10.9,58.7,19.3,27
+139,330816,Kevin Danso,324,Austria,16,FirstHalf,Pass,Successful,26.3,26.4,30.5,51.2
+140,262856,Xaver Schlager,324,Austria,16,FirstHalf,Pass,Successful,30.5,51.2,25.5,44
+141,418587,Nicolas Seiwald,324,Austria,16,FirstHalf,Pass,Successful,23.6,40,29.6,20.7
+142,330816,Kevin Danso,324,Austria,16,FirstHalf,Pass,Successful,36.8,15.9,57.5,1.4
+143,333741,Stefan Posch,324,Austria,16,FirstHalf,Pass,Unsuccessful,57.5,1.4,68.8,40.4
+166,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Clearance,Successful,30.6,60.8,53.8,65
+167,261212,Dani Olmo,338,Spain,16,FirstHalf,BallTouch,Unsuccessful,53.8,65,,
+144,262856,Xaver Schlager,324,Austria,16,FirstHalf,Pass,Successful,53.5,30.3,39.9,30.1
+145,418587,Nicolas Seiwald,324,Austria,16,FirstHalf,Pass,Successful,38.2,30,29.4,48.2
+146,39722,David Alaba,324,Austria,16,FirstHalf,Pass,Successful,29.5,48.5,32.9,25
+147,418587,Nicolas Seiwald,324,Austria,16,FirstHalf,Pass,Successful,36.7,24.6,50.2,37.9
+148,383847,Romano Schmid,324,Austria,16,FirstHalf,BallTouch,Successful,50.6,37.3,,
+149,430703,Paul Wanner,324,Austria,16,FirstHalf,TakeOn,Unsuccessful,58,36.4,,
+169,498386,Pau Cubarsí,338,Spain,16,FirstHalf,Tackle,Unsuccessful,42,63.6,,
+150,262856,Xaver Schlager,324,Austria,16,FirstHalf,Pass,Unsuccessful,49,41.6,50.7,44.2
+170,303139,Rodri,338,Spain,16,FirstHalf,BlockedPass,Successful,49.3,55.8,,
+151,262856,Xaver Schlager,324,Austria,16,FirstHalf,Dispossessed,Successful,48.6,44.3,,
+171,402197,Pedri,338,Spain,16,FirstHalf,Tackle,Unsuccessful,51.4,55.7,,
+156,418587,Nicolas Seiwald,324,Austria,16,FirstHalf,Pass,Successful,48.3,42.2,65,40.6
+152,383847,Romano Schmid,324,Austria,16,FirstHalf,Pass,Successful,67.2,37.9,67.2,60.6
+153,430703,Paul Wanner,324,Austria,16,FirstHalf,Pass,Successful,67.5,64.8,73.4,77.5
+154,92051,Marcel Sabitzer,324,Austria,16,FirstHalf,Pass,Unsuccessful,73.9,77.9,100,31.9
+173,332823,Unai Simón,338,Spain,17,FirstHalf,Pass,Successful,3.1,54.5,10.2,60.3
+174,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,12.3,55.9,13,27.4
+175,498386,Pau Cubarsí,338,Spain,17,FirstHalf,Pass,Unsuccessful,15.4,19.9,18.4,19.9
+157,84919,Michael Gregoritsch,324,Austria,17,FirstHalf,BallTouch,Successful,80.7,78.7,,
+158,39722,David Alaba,324,Austria,17,FirstHalf,Pass,Successful,61.2,78.1,69,66
+159,262856,Xaver Schlager,324,Austria,17,FirstHalf,Dispossessed,Successful,68.6,66,,
+176,303139,Rodri,338,Spain,17,FirstHalf,Tackle,Successful,31.3,34,,
+177,261212,Dani Olmo,338,Spain,17,FirstHalf,Pass,Successful,40.6,37.4,35.1,41.8
+178,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,36.3,37.1,39.7,23.5
+179,362352,Pedro Porro,338,Spain,17,FirstHalf,Pass,Successful,40.7,16,52.9,3.2
+180,480249,Lamine Yamal,338,Spain,17,FirstHalf,Pass,Successful,53,3.2,62.9,9.7
+181,362352,Pedro Porro,338,Spain,17,FirstHalf,Pass,Successful,80.2,7.4,76.7,91.7
+182,395242,Álex Baena,338,Spain,17,FirstHalf,Pass,Successful,73.5,84.7,72.7,75.8
+183,261212,Dani Olmo,338,Spain,17,FirstHalf,Pass,Successful,72.5,79.4,80.5,95.8
+184,363496,Marc Cucurella,338,Spain,17,FirstHalf,Pass,Successful,78.4,94.9,67.9,86.2
+185,261212,Dani Olmo,338,Spain,17,FirstHalf,Pass,Successful,67,84.7,64.2,74.1
+186,303139,Rodri,338,Spain,17,FirstHalf,Pass,Successful,63.3,72.1,66.2,60.6
+187,402197,Pedri,338,Spain,17,FirstHalf,Pass,Successful,63.8,57.6,52.7,57.1
+188,122117,Aymeric Laporte,338,Spain,17,FirstHalf,Pass,Successful,52.7,57.1,52.9,39.8
+189,498386,Pau Cubarsí,338,Spain,18,FirstHalf,Pass,Successful,52.9,39.8,52.7,51.8
+190,122117,Aymeric Laporte,338,Spain,18,FirstHalf,Pass,Successful,55.1,52.1,63.9,33.3
+191,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,64.3,27,75.6,5.9
+192,480249,Lamine Yamal,338,Spain,18,FirstHalf,Pass,Successful,84,7.4,77.5,25.6
+193,362352,Pedro Porro,338,Spain,18,FirstHalf,Pass,Unsuccessful,77.2,27.9,98.1,55.2
+161,130812,Alexander Schlager,324,Austria,18,FirstHalf,Claim,Successful,1.9,44.8,,
+163,130812,Alexander Schlager,324,Austria,18,FirstHalf,Pass,Successful,3.3,46.1,18.4,55.5
+164,418587,Nicolas Seiwald,324,Austria,18,FirstHalf,Pass,Successful,18.4,55.5,12,82.9
+165,39722,David Alaba,324,Austria,18,FirstHalf,Pass,Successful,11.9,82.6,6.9,49.1
+166,130812,Alexander Schlager,324,Austria,18,FirstHalf,Pass,Successful,9.4,51.9,19.6,74.2
+167,39722,David Alaba,324,Austria,18,FirstHalf,Pass,Unsuccessful,21.6,74.2,39.8,75.3
+194,402197,Pedri,338,Spain,18,FirstHalf,Pass,Successful,58.4,24.1,67.4,16.3
+195,480249,Lamine Yamal,338,Spain,18,FirstHalf,BallRecovery,Successful,68.4,16.3,,
+196,480249,Lamine Yamal,338,Spain,18,FirstHalf,Pass,Successful,71.2,18.5,76.3,32.6
+197,298839,Mikel Oyarzabal,338,Spain,18,FirstHalf,Pass,Unsuccessful,76.3,32.6,90.8,30.3
+168,430703,Paul Wanner,324,Austria,18,FirstHalf,Interception,Successful,9.2,69.7,,
+169,330816,Kevin Danso,324,Austria,18,FirstHalf,Clearance,Successful,10.1,67.5,35.6,90.6
+171,92051,Marcel Sabitzer,324,Austria,18,FirstHalf,Foul,Successful,33.5,92.4,,
+198,362352,Pedro Porro,338,Spain,18,FirstHalf,Foul,Unsuccessful,66.5,7.6,,
+172,248010,Konrad Laimer,324,Austria,19,FirstHalf,Pass,Successful,35.2,89,20.6,88
+173,39722,David Alaba,324,Austria,19,FirstHalf,Pass,Successful,20.8,84.1,15.4,51.5
+174,130812,Alexander Schlager,324,Austria,19,FirstHalf,Pass,Successful,15.4,51.5,25.5,33.1
+175,330816,Kevin Danso,324,Austria,19,FirstHalf,Pass,Successful,29.5,26.8,14,41.6
+176,130812,Alexander Schlager,324,Austria,19,FirstHalf,Pass,Successful,14,36,29.1,19.1
+177,330816,Kevin Danso,324,Austria,19,FirstHalf,Pass,Successful,38.8,16.7,58.5,16.7
+178,333741,Stefan Posch,324,Austria,19,FirstHalf,Pass,Successful,47.9,3.4,32.6,5.6
+179,330816,Kevin Danso,324,Austria,19,FirstHalf,Pass,Successful,30.3,19.1,15.5,61.2
+180,39722,David Alaba,324,Austria,19,FirstHalf,Pass,Successful,15.5,60,27.9,23
+181,330816,Kevin Danso,324,Austria,19,FirstHalf,Pass,Unsuccessful,35.7,22.8,61,0
+200,363496,Marc Cucurella,338,Spain,20,FirstHalf,Pass,Successful,42.4,100,30.9,96.1
+201,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,27.1,94.1,10,70.8
+202,332823,Unai Simón,338,Spain,20,FirstHalf,Pass,Successful,11.4,56.4,23.7,35
+203,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,35,23.9,57,3.8
+204,480249,Lamine Yamal,338,Spain,20,FirstHalf,TakeOn,Unsuccessful,72.4,5.9,,
+184,92051,Marcel Sabitzer,324,Austria,20,FirstHalf,Clearance,Successful,14.8,85.4,2.4,92.4
+185,248010,Konrad Laimer,324,Austria,20,FirstHalf,BallRecovery,Successful,3,88.7,,
+186,248010,Konrad Laimer,324,Austria,20,FirstHalf,Pass,Successful,6.2,82.4,37.7,85.1
+187,84919,Michael Gregoritsch,324,Austria,20,FirstHalf,BallTouch,Unsuccessful,37.7,85.1,,
+206,362352,Pedro Porro,338,Spain,20,FirstHalf,Pass,Successful,61,0,47,10.7
+207,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,46.6,11.8,47,30.7
+208,303139,Rodri,338,Spain,20,FirstHalf,Pass,Successful,46,29.2,43,21.2
+209,498386,Pau Cubarsí,338,Spain,20,FirstHalf,Pass,Successful,41.5,23.5,38.9,49.7
+210,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,44,53.8,61.2,97.1
+211,363496,Marc Cucurella,338,Spain,21,FirstHalf,Pass,Successful,60.8,96.2,42.4,72.7
+212,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,52,72.9,58.3,85.3
+213,402197,Pedri,338,Spain,21,FirstHalf,Pass,Successful,58,84.9,56.5,69.9
+214,303139,Rodri,338,Spain,21,FirstHalf,Pass,Successful,56.1,69.7,45.5,72.9
+215,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,46.3,72.6,71.2,4.1
+216,480249,Lamine Yamal,338,Spain,21,FirstHalf,Pass,Successful,71.2,4.1,65.2,6.3
+217,362352,Pedro Porro,338,Spain,21,FirstHalf,Pass,Successful,64.7,6.3,70.8,2.9
+218,480249,Lamine Yamal,338,Spain,21,FirstHalf,Pass,Successful,68.6,5,58.1,20
+219,303139,Rodri,338,Spain,21,FirstHalf,Pass,Successful,57.2,19.8,42.1,27.1
+220,498386,Pau Cubarsí,338,Spain,21,FirstHalf,Pass,Successful,48.5,39.5,46.9,60.5
+221,122117,Aymeric Laporte,338,Spain,21,FirstHalf,Pass,Successful,52.1,64.7,61.6,92.8
+222,363496,Marc Cucurella,338,Spain,21,FirstHalf,Pass,Successful,62,93.1,70.5,96.1
+223,395242,Álex Baena,338,Spain,21,FirstHalf,Pass,Unsuccessful,70.4,96.1,86.4,66.5
+189,330816,Kevin Danso,324,Austria,21,FirstHalf,BallTouch,Successful,9.8,40.6,,
+224,298839,Mikel Oyarzabal,338,Spain,21,FirstHalf,BallTouch,Successful,87,63.2,,
+190,130812,Alexander Schlager,324,Austria,21,FirstHalf,KeeperPickup,Successful,4.4,60.5,,
+192,130812,Alexander Schlager,324,Austria,21,FirstHalf,Pass,Successful,11,49.9,23.1,20.4
+193,330816,Kevin Danso,324,Austria,21,FirstHalf,Pass,Successful,24.2,18.8,27.3,2.5
+194,333741,Stefan Posch,324,Austria,21,FirstHalf,Pass,Unsuccessful,28,3.4,51,29.8
+225,122117,Aymeric Laporte,338,Spain,22,FirstHalf,Aerial,Successful,49,70.2,,
+195,84919,Michael Gregoritsch,324,Austria,22,FirstHalf,Aerial,Unsuccessful,51,29.8,,
+226,122117,Aymeric Laporte,338,Spain,22,FirstHalf,Interception,Successful,55,69.3,,
+227,362352,Pedro Porro,338,Spain,22,FirstHalf,BallRecovery,Successful,46.7,47.7,,
+228,362352,Pedro Porro,338,Spain,22,FirstHalf,Pass,Successful,48,46.1,45.8,53.2
+229,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,46.5,54.7,51.7,43.9
+230,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,53.9,54.1,47.6,74.7
+231,122117,Aymeric Laporte,338,Spain,22,FirstHalf,Pass,Successful,53.5,75.8,60.8,95.8
+232,395242,Álex Baena,338,Spain,22,FirstHalf,Pass,Successful,56.6,94.1,39.7,68.3
+233,122117,Aymeric Laporte,338,Spain,22,FirstHalf,Pass,Successful,39.4,68.3,45.1,66.2
+234,303139,Rodri,338,Spain,22,FirstHalf,Pass,Successful,44.4,65.2,34,43.2
+235,498386,Pau Cubarsí,338,Spain,22,FirstHalf,Pass,Successful,44.8,29.4,64,5.4
+236,362352,Pedro Porro,338,Spain,22,FirstHalf,Pass,Unsuccessful,66.3,5.9,92.1,30.7
+197,130812,Alexander Schlager,324,Austria,22,FirstHalf,Smother,Successful,8,69.4,,
+196,130812,Alexander Schlager,324,Austria,22,FirstHalf,KeeperPickup,Successful,7.6,68.5,,
+199,130812,Alexander Schlager,324,Austria,22,FirstHalf,Pass,Successful,4.8,50.9,9.5,35.1
+200,330816,Kevin Danso,324,Austria,22,FirstHalf,Pass,Successful,12.9,32.4,28.8,4.3
+201,333741,Stefan Posch,324,Austria,22,FirstHalf,Pass,Unsuccessful,21.6,2.6,24.2,3.7
+237,395242,Álex Baena,338,Spain,22,FirstHalf,BlockedPass,Successful,75.8,96.3,,
+202,333741,Stefan Posch,324,Austria,22,FirstHalf,Pass,Successful,21.3,4.7,31.2,1.9
+203,383847,Romano Schmid,324,Austria,22,FirstHalf,Pass,Unsuccessful,30.6,1.6,39.5,0
+241,363496,Marc Cucurella,338,Spain,27,FirstHalf,Pass,Successful,61.1,100,52.9,61.2
+242,303139,Rodri,338,Spain,27,FirstHalf,Pass,Successful,52.9,60,65.4,47.3
+243,261212,Dani Olmo,338,Spain,27,FirstHalf,Pass,Successful,65.4,45.8,64.3,24.5
+244,362352,Pedro Porro,338,Spain,27,FirstHalf,Pass,Successful,64.1,23.5,78.4,3.8
+245,480249,Lamine Yamal,338,Spain,27,FirstHalf,Pass,Successful,83.4,5.3,96.3,13.9
+246,362352,Pedro Porro,338,Spain,27,FirstHalf,Pass,Unsuccessful,96,14.1,81.3,100
+208,333741,Stefan Posch,324,Austria,27,FirstHalf,Pass,Unsuccessful,27.2,0,47.5,11.6
+248,122117,Aymeric Laporte,338,Spain,27,FirstHalf,Pass,Unsuccessful,56.7,89.1,70.4,84.4
+209,330816,Kevin Danso,324,Austria,27,FirstHalf,Pass,Unsuccessful,29.2,20.4,46.8,8.5
+249,122117,Aymeric Laporte,338,Spain,27,FirstHalf,Pass,Unsuccessful,56.2,93.8,80,76.1
+210,330816,Kevin Danso,324,Austria,27,FirstHalf,Clearance,Successful,21.3,28.3,32.2,54.6
+211,92051,Marcel Sabitzer,324,Austria,27,FirstHalf,BallTouch,Unsuccessful,32.2,54.6,,
+250,362352,Pedro Porro,338,Spain,27,FirstHalf,BallRecovery,Successful,64.7,25.7,,
+251,362352,Pedro Porro,338,Spain,28,FirstHalf,Pass,Successful,65.2,24.5,64.9,25.1
+212,262856,Xaver Schlager,324,Austria,28,FirstHalf,Challenge,Unsuccessful,30.5,71.3,,
+252,480249,Lamine Yamal,338,Spain,28,FirstHalf,TakeOn,Successful,69.4,28.5,,
+253,480249,Lamine Yamal,338,Spain,28,FirstHalf,Pass,Successful,72.9,28.6,80.1,28.2
+254,402197,Pedri,338,Spain,28,FirstHalf,Pass,Successful,80.5,28.2,87.6,43.9
+255,261212,Dani Olmo,338,Spain,28,FirstHalf,TakeOn,Unsuccessful,88.8,45.3,,
+214,333741,Stefan Posch,324,Austria,28,FirstHalf,Clearance,Successful,7.5,49.7,0,78.2
+256,261212,Dani Olmo,338,Spain,28,FirstHalf,CornerAwarded,Successful,96.2,31.2,,
+215,333741,Stefan Posch,324,Austria,28,FirstHalf,CornerAwarded,Unsuccessful,3.7,68.8,,
+257,480249,Lamine Yamal,338,Spain,28,FirstHalf,Pass,Unsuccessful,99.5,0.5,98,50.9
+216,130812,Alexander Schlager,324,Austria,28,FirstHalf,Foul,Successful,1.9,51.2,,
+258,498386,Pau Cubarsí,338,Spain,28,FirstHalf,Foul,Unsuccessful,98.1,48.8,,
+218,130812,Alexander Schlager,324,Austria,29,FirstHalf,Pass,Successful,3,53,7.6,30
+219,330816,Kevin Danso,324,Austria,29,FirstHalf,Pass,Successful,6.9,28.3,10.8,5.2
+220,333741,Stefan Posch,324,Austria,29,FirstHalf,Pass,Unsuccessful,10.8,5.2,38,24.7
+259,303139,Rodri,338,Spain,29,FirstHalf,Interception,Successful,62,75.3,,
+260,402197,Pedri,338,Spain,29,FirstHalf,BallRecovery,Successful,69.2,95.8,,
+261,402197,Pedri,338,Spain,29,FirstHalf,Pass,Successful,55.8,94,39.4,87.1
+262,122117,Aymeric Laporte,338,Spain,29,FirstHalf,Pass,Successful,40.4,86.7,43.3,94.4
+263,402197,Pedri,338,Spain,30,FirstHalf,Pass,Successful,43.5,82.1,36.8,44.1
+264,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,39.2,37,58.7,5
+265,362352,Pedro Porro,338,Spain,30,FirstHalf,Pass,Successful,59.4,5.3,62.6,9.5
+266,480249,Lamine Yamal,338,Spain,30,FirstHalf,Dispossessed,Successful,62,10.4,,
+222,92051,Marcel Sabitzer,324,Austria,30,FirstHalf,Tackle,Successful,37.7,90,,
+223,39722,David Alaba,324,Austria,30,FirstHalf,BallRecovery,Successful,29.7,77.6,,
+224,39722,David Alaba,324,Austria,30,FirstHalf,Pass,Unsuccessful,29.7,77.6,66.6,86.6
+267,498386,Pau Cubarsí,338,Spain,30,FirstHalf,BallRecovery,Successful,34.2,9.4,,
+268,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,29.4,11.8,30.6,44.1
+269,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,31.7,46.7,42.5,53.2
+270,402197,Pedri,338,Spain,30,FirstHalf,Pass,Successful,42.5,53.2,33.3,50.8
+271,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,33.9,50,64.9,5.4
+272,480249,Lamine Yamal,338,Spain,30,FirstHalf,Pass,Unsuccessful,64.9,5.4,62.7,13
+225,92051,Marcel Sabitzer,324,Austria,30,FirstHalf,BallRecovery,Successful,39.3,89.1,,
+226,92051,Marcel Sabitzer,324,Austria,30,FirstHalf,Pass,Unsuccessful,39.3,89.1,51.5,73.6
+273,303139,Rodri,338,Spain,30,FirstHalf,Pass,Unsuccessful,48.1,24.2,53.3,23.2
+227,262856,Xaver Schlager,324,Austria,30,FirstHalf,BlockedPass,Successful,46.7,76.8,,
+275,362352,Pedro Porro,338,Spain,30,FirstHalf,Pass,Successful,42.2,0,42.3,6.9
+276,303139,Rodri,338,Spain,30,FirstHalf,Pass,Successful,42.3,6.9,43.4,3.2
+277,362352,Pedro Porro,338,Spain,30,FirstHalf,Pass,Successful,40.1,5.3,20.5,15.4
+278,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,19.5,15.9,11.6,48.2
+279,332823,Unai Simón,338,Spain,30,FirstHalf,Pass,Successful,14.6,49.7,22,64.4
+280,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,20.1,61.7,19.6,35.3
+281,498386,Pau Cubarsí,338,Spain,30,FirstHalf,Pass,Successful,19.2,35.3,9.5,51.8
+282,332823,Unai Simón,338,Spain,30,FirstHalf,Pass,Successful,9.5,51.8,14.9,69
+283,122117,Aymeric Laporte,338,Spain,30,FirstHalf,Pass,Successful,14.6,69,14.8,51.5
+284,303139,Rodri,338,Spain,30,FirstHalf,Pass,Successful,21.6,40.8,27.3,54.1
+285,402197,Pedri,338,Spain,31,FirstHalf,Pass,Successful,27.1,54.2,11.1,52
+286,332823,Unai Simón,338,Spain,31,FirstHalf,Pass,Successful,12.5,52.3,44.3,91.2
+287,363496,Marc Cucurella,338,Spain,31,FirstHalf,Pass,Successful,59.8,72.3,53.7,66.4
+288,402197,Pedri,338,Spain,31,FirstHalf,Pass,Successful,56.6,68.8,68.6,95.2
+289,395242,Álex Baena,338,Spain,31,FirstHalf,Pass,Successful,73,92.8,66.7,89.3
+290,402197,Pedri,338,Spain,31,FirstHalf,Pass,Successful,75.3,76.7,85.2,90.9
+291,395242,Álex Baena,338,Spain,31,FirstHalf,Pass,Successful,71.8,83.4,68.9,75.9
+292,402197,Pedri,338,Spain,31,FirstHalf,Pass,Successful,67.7,75.8,56.9,74.6
+293,122117,Aymeric Laporte,338,Spain,31,FirstHalf,Pass,Successful,57,74.1,63.2,69.4
+294,303139,Rodri,338,Spain,31,FirstHalf,Pass,Successful,63.2,69.4,66.1,75.5
+295,402197,Pedri,338,Spain,31,FirstHalf,Pass,Successful,61.9,70.9,55.7,45.5
+296,498386,Pau Cubarsí,338,Spain,31,FirstHalf,Pass,Successful,59.9,26.7,76.1,4.1
+230,248010,Konrad Laimer,324,Austria,31,FirstHalf,Challenge,Unsuccessful,3.6,74.2,,
+297,480249,Lamine Yamal,338,Spain,31,FirstHalf,TakeOn,Successful,97.6,23.1,,
+298,480249,Lamine Yamal,338,Spain,31,FirstHalf,SavedShot,Successful,99.3,31.8,,
+231,130812,Alexander Schlager,324,Austria,31,FirstHalf,Save,Successful,0.2,55.1,,
+232,383847,Romano Schmid,324,Austria,31,FirstHalf,BallTouch,Unsuccessful,13.4,10.3,,
+299,363496,Marc Cucurella,338,Spain,31,FirstHalf,Pass,Successful,82.9,95.2,75.6,84.7
+300,395242,Álex Baena,338,Spain,31,FirstHalf,Pass,Successful,75.1,81.8,86.1,68.3
+301,298839,Mikel Oyarzabal,338,Spain,32,FirstHalf,Pass,Unsuccessful,86.3,63.3,84.8,58.5
+233,330816,Kevin Danso,324,Austria,32,FirstHalf,Clearance,Successful,15.5,44.6,18.2,46.3
+302,261212,Dani Olmo,338,Spain,32,FirstHalf,Pass,Successful,81.7,53.9,80.8,60.8
+303,298839,Mikel Oyarzabal,338,Spain,32,FirstHalf,SavedShot,Successful,85.3,62.7,,
+234,130812,Alexander Schlager,324,Austria,32,FirstHalf,Save,Successful,3,49.4,,
+304,298839,Mikel Oyarzabal,338,Spain,32,FirstHalf,CornerAwarded,Successful,91.8,44.4,,
+235,130812,Alexander Schlager,324,Austria,32,FirstHalf,CornerAwarded,Unsuccessful,8.2,55.6,,
+305,480249,Lamine Yamal,338,Spain,32,FirstHalf,Pass,Unsuccessful,99.5,0.5,96.7,51.1
+236,130812,Alexander Schlager,324,Austria,32,FirstHalf,Claim,Unsuccessful,3.3,48.9,,
+237,130812,Alexander Schlager,324,Austria,32,FirstHalf,KeeperPickup,Successful,3.3,48.5,,
+238,130812,Alexander Schlager,324,Austria,32,FirstHalf,Pass,Unsuccessful,9.1,49.4,60.4,97.8
+306,402197,Pedri,338,Spain,32,FirstHalf,BallRecovery,Successful,35.2,5.3,,
+307,402197,Pedri,338,Spain,32,FirstHalf,Pass,Successful,35.2,5.3,27.7,29.1
+308,498386,Pau Cubarsí,338,Spain,32,FirstHalf,Pass,Successful,27.4,30.4,32.7,52
+11312,480249,Lamine Yamal,338,Spain,33,FirstHalf,OffsideGiven,Unsuccessful,74.1,7.8,,
+309,122117,Aymeric Laporte,338,Spain,33,FirstHalf,Pass,Successful,35,56.1,35.9,70.9
+310,363496,Marc Cucurella,338,Spain,33,FirstHalf,Pass,Successful,33.8,67.9,27.6,44.2
+311,498386,Pau Cubarsí,338,Spain,33,FirstHalf,Pass,Successful,28.6,39.8,38,24.2
+312,402197,Pedri,338,Spain,33,FirstHalf,OffsidePass,Successful,40.7,24.2,74.1,7.8
+239,330816,Kevin Danso,324,Austria,33,FirstHalf,OffsideProvoked,Successful,33.8,38.5,,
+240,248010,Konrad Laimer,324,Austria,33,FirstHalf,Pass,Successful,24.5,91,33.6,74
+253,262856,Xaver Schlager,324,Austria,33,FirstHalf,Pass,Successful,34,72.8,37.3,88.5
+263,248010,Konrad Laimer,324,Austria,33,FirstHalf,Pass,Successful,57.5,84.7,62.3,95.5
+241,92051,Marcel Sabitzer,324,Austria,33,FirstHalf,Pass,Unsuccessful,54.1,94.1,66,94.8
+313,362352,Pedro Porro,338,Spain,33,FirstHalf,Pass,Successful,33.3,3.8,39.8,4.1
+314,402197,Pedri,338,Spain,33,FirstHalf,BallTouch,Unsuccessful,39.8,4.1,,
+242,248010,Konrad Laimer,324,Austria,33,FirstHalf,Pass,Successful,58,90.6,52.9,90
+243,92051,Marcel Sabitzer,324,Austria,33,FirstHalf,Pass,Successful,52.9,90,37.1,61.7
+244,39722,David Alaba,324,Austria,33,FirstHalf,Pass,Successful,37.1,61.7,38.4,35.8
+245,330816,Kevin Danso,324,Austria,33,FirstHalf,Pass,Successful,37.8,34.5,37.1,55.4
+246,39722,David Alaba,324,Austria,33,FirstHalf,Pass,Successful,37.1,54.9,39,33.3
+247,330816,Kevin Danso,324,Austria,33,FirstHalf,Pass,Successful,44,24.1,66.2,2.9
+248,333741,Stefan Posch,324,Austria,33,FirstHalf,Pass,Successful,83.5,5,73.5,18
+249,418587,Nicolas Seiwald,324,Austria,33,FirstHalf,Pass,Unsuccessful,77,15.6,86.7,49.9
+315,122117,Aymeric Laporte,338,Spain,34,FirstHalf,Aerial,Successful,12.8,50.8,,
+250,430703,Paul Wanner,324,Austria,34,FirstHalf,Aerial,Unsuccessful,87.2,49.2,,
+316,122117,Aymeric Laporte,338,Spain,34,FirstHalf,Clearance,Successful,12,51.8,27.5,49.4
+251,39722,David Alaba,324,Austria,34,FirstHalf,MissedShots,Successful,71.3,52.1,,
+318,122117,Aymeric Laporte,338,Spain,34,FirstHalf,Pass,Successful,4.8,60.8,3.8,52.6
+319,332823,Unai Simón,338,Spain,34,FirstHalf,Pass,Successful,23.2,47.3,26.1,17.6
+320,498386,Pau Cubarsí,338,Spain,34,FirstHalf,Pass,Successful,25.1,12.9,12.3,30.4
+321,332823,Unai Simón,338,Spain,34,FirstHalf,Pass,Successful,12.3,32.3,18.5,53.5
+322,122117,Aymeric Laporte,338,Spain,34,FirstHalf,Pass,Successful,18.7,54.4,28.8,88.8
+323,363496,Marc Cucurella,338,Spain,34,FirstHalf,Pass,Successful,57,89.3,70.2,97.1
+324,395242,Álex Baena,338,Spain,35,FirstHalf,Pass,Successful,76,67.7,90,24.5
+325,480249,Lamine Yamal,338,Spain,35,FirstHalf,TakeOn,Unsuccessful,92.3,27,,
+254,39722,David Alaba,324,Austria,35,FirstHalf,Clearance,Successful,8.6,63.9,46.8,72.3
+326,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Aerial,Successful,53.2,26.2,,
+255,84919,Michael Gregoritsch,324,Austria,35,FirstHalf,Aerial,Unsuccessful,46.8,75.2,,
+327,498386,Pau Cubarsí,338,Spain,35,FirstHalf,BallTouch,Unsuccessful,53.3,21.8,,
+256,84919,Michael Gregoritsch,324,Austria,35,FirstHalf,TakeOn,Unsuccessful,45.4,71.2,,
+328,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Tackle,Unsuccessful,54.6,28.8,,
+257,430703,Paul Wanner,324,Austria,35,FirstHalf,Pass,Successful,40.9,70.6,48.2,70.9
+258,84919,Michael Gregoritsch,324,Austria,35,FirstHalf,BallRecovery,Successful,48.2,70.9,,
+259,84919,Michael Gregoritsch,324,Austria,35,FirstHalf,Pass,Successful,48.2,70.9,38.6,80
+260,92051,Marcel Sabitzer,324,Austria,35,FirstHalf,Pass,Unsuccessful,39.8,80.2,63.6,64.8
+329,498386,Pau Cubarsí,338,Spain,35,FirstHalf,Pass,Successful,34.7,36.8,41.3,37
+330,122117,Aymeric Laporte,338,Spain,35,FirstHalf,BallRecovery,Successful,41.2,37,,
+331,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Successful,41.2,37,36.1,47.3
+332,303139,Rodri,338,Spain,35,FirstHalf,Pass,Successful,36.2,48.5,45.2,96.2
+333,363496,Marc Cucurella,338,Spain,35,FirstHalf,Pass,Successful,44.3,95.8,42,86.5
+334,303139,Rodri,338,Spain,35,FirstHalf,Pass,Successful,51.4,82.4,64.4,86.8
+335,395242,Álex Baena,338,Spain,35,FirstHalf,Pass,Successful,69.9,82,90.5,74.3
+336,298839,Mikel Oyarzabal,338,Spain,35,FirstHalf,Pass,Unsuccessful,91.9,73.8,87.9,51.5
+261,248010,Konrad Laimer,324,Austria,35,FirstHalf,BallRecovery,Successful,14,41.9,,
+262,248010,Konrad Laimer,324,Austria,35,FirstHalf,Pass,Unsuccessful,14,41.9,55.6,43.4
+337,122117,Aymeric Laporte,338,Spain,35,FirstHalf,BallRecovery,Successful,46.2,59.2,,
+338,122117,Aymeric Laporte,338,Spain,35,FirstHalf,Pass,Successful,46.2,59.2,57.4,69.1
+339,303139,Rodri,338,Spain,35,FirstHalf,Pass,Successful,60.1,69.6,65.5,54.4
+340,402197,Pedri,338,Spain,35,FirstHalf,Pass,Successful,72.6,63.8,83.6,81.2
+341,363496,Marc Cucurella,338,Spain,35,FirstHalf,Pass,Successful,87.4,82.1,90,51.2
+342,298839,Mikel Oyarzabal,338,Spain,35,FirstHalf,Goal,Successful,88.7,54.2,,
+1,,,338,Spain,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,324,Austria,0,PreMatch,FormationSet,Successful,0,0,,

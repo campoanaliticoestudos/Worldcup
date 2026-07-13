@@ -1,0 +1,1325 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,495,Morocco,0,FirstHalf,Start,Successful,0,0,,
+2,,,1160,Canada,0,FirstHalf,Start,Successful,0,0,,
+4,351744,Stephen Eustaquio,1160,Canada,0,FirstHalf,Pass,Successful,49.8,49.9,52.8,49.8
+5,484837,Niko Sigur,1160,Canada,0,FirstHalf,Pass,Successful,56.2,53.8,50.8,60.4
+6,351744,Stephen Eustaquio,1160,Canada,0,FirstHalf,Pass,Successful,50.7,60.6,45.1,73.9
+7,492688,Luc De Fougerolles,1160,Canada,0,FirstHalf,Pass,Unsuccessful,52.5,87,59.6,86.5
+3,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,BallRecovery,Successful,40.8,9.8,,
+4,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Pass,Unsuccessful,44.2,12.8,45,16
+8,351744,Stephen Eustaquio,1160,Canada,0,FirstHalf,BlockedPass,Successful,55,84,,
+5,317541,Brahim Díaz,495,Morocco,0,FirstHalf,Pass,Unsuccessful,49,1,47.4,7.8
+10,437419,Ali Ahmed,1160,Canada,0,FirstHalf,BallTouch,Successful,52.8,93.1,,
+6,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Pass,Unsuccessful,54.8,13.5,71.1,0
+12,313012,Richie Laryea,1160,Canada,0,FirstHalf,Pass,Unsuccessful,33.3,100,62.1,94.5
+8,300359,Issa Diop,495,Morocco,0,FirstHalf,Clearance,Successful,32.1,10.7,47.8,0
+14,313012,Richie Laryea,1160,Canada,0,FirstHalf,Pass,Unsuccessful,56.5,100,99.4,79
+10,136220,Yassine Bounou,495,Morocco,0,FirstHalf,BallRecovery,Successful,2.8,22.3,,
+11,136220,Yassine Bounou,495,Morocco,0,FirstHalf,Pass,Successful,7.8,41.5,10.6,58.8
+12,425471,Redouane Halhal,495,Morocco,0,FirstHalf,Pass,Successful,14.8,57.2,29.4,38.5
+13,504830,Ayyoub Bouaddi,495,Morocco,0,FirstHalf,Pass,Successful,29.3,45.3,29.5,87.8
+14,349932,Noussair Mazraoui,495,Morocco,0,FirstHalf,Pass,Successful,29.5,87.8,39.8,94.5
+15,392361,Azzedine Ounahi,495,Morocco,1,FirstHalf,Pass,Unsuccessful,42.3,95,44.8,80.7
+15,484837,Niko Sigur,1160,Canada,1,FirstHalf,BallTouch,Successful,55.2,19.3,,
+16,392361,Azzedine Ounahi,495,Morocco,1,FirstHalf,Pass,Successful,39.3,93.5,30.9,66.8
+17,486734,Neil El Aynaoui,495,Morocco,1,FirstHalf,Pass,Successful,30.9,66.8,30,26.3
+18,300359,Issa Diop,495,Morocco,1,FirstHalf,Pass,Successful,30.8,24.8,45.8,3.5
+19,317541,Brahim Díaz,495,Morocco,1,FirstHalf,BallTouch,Unsuccessful,53.6,4.8,,
+16,437419,Ali Ahmed,1160,Canada,1,FirstHalf,Foul,Successful,40.2,97.2,,
+20,317541,Brahim Díaz,495,Morocco,1,FirstHalf,Foul,Unsuccessful,59.8,2.8,,
+17,351744,Stephen Eustaquio,1160,Canada,1,FirstHalf,Pass,Successful,46,98.5,24.1,62.7
+18,137263,Maxime Crépeau,1160,Canada,1,FirstHalf,Pass,Successful,23.5,61.3,29.6,36.1
+19,474201,Moïse Bombito,1160,Canada,1,FirstHalf,Pass,Unsuccessful,31.4,33.7,84,0
+22,349932,Noussair Mazraoui,495,Morocco,1,FirstHalf,Pass,Successful,18.2,100,34.2,91.8
+23,433572,Bilal El Khannouss,495,Morocco,1,FirstHalf,Pass,Successful,33.8,92.5,30.9,81.7
+24,486734,Neil El Aynaoui,495,Morocco,2,FirstHalf,Pass,Successful,30.9,81.7,20.8,92.5
+25,349932,Noussair Mazraoui,495,Morocco,2,FirstHalf,Pass,Successful,20.8,92.5,12,69.8
+26,425471,Redouane Halhal,495,Morocco,2,FirstHalf,Pass,Successful,12,69.8,13.4,32.8
+27,300359,Issa Diop,495,Morocco,2,FirstHalf,Pass,Successful,25.5,27.2,34.6,5
+28,320834,Achraf Hakimi,495,Morocco,2,FirstHalf,Pass,Successful,34.6,5,25.7,25.2
+29,300359,Issa Diop,495,Morocco,2,FirstHalf,Pass,Successful,26.4,26.2,29.5,40.8
+30,486734,Neil El Aynaoui,495,Morocco,2,FirstHalf,Pass,Successful,29.5,40.8,31.3,19
+31,300359,Issa Diop,495,Morocco,2,FirstHalf,Pass,Successful,32.2,18,19.1,53.5
+32,136220,Yassine Bounou,495,Morocco,2,FirstHalf,Pass,Successful,19.1,53.5,24.4,72.8
+33,425471,Redouane Halhal,495,Morocco,2,FirstHalf,Pass,Successful,24.6,73.3,13.6,48.2
+34,136220,Yassine Bounou,495,Morocco,2,FirstHalf,Pass,Successful,15.2,49.8,24.5,73.5
+35,425471,Redouane Halhal,495,Morocco,2,FirstHalf,Pass,Successful,25,73.7,33.4,96.5
+37,392361,Azzedine Ounahi,495,Morocco,2,FirstHalf,Foul,Successful,34.6,97.6,,
+21,371027,Tajon Buchanan,1160,Canada,2,FirstHalf,Foul,Unsuccessful,65.4,2.4,,
+38,349932,Noussair Mazraoui,495,Morocco,2,FirstHalf,Pass,Successful,32.7,94.3,23.8,76.5
+39,425471,Redouane Halhal,495,Morocco,2,FirstHalf,Pass,Successful,27.9,63.5,29.9,26.2
+40,300359,Issa Diop,495,Morocco,2,FirstHalf,Pass,Successful,33,22.8,30.8,57.2
+41,425471,Redouane Halhal,495,Morocco,3,FirstHalf,Pass,Successful,31.6,55.2,35.7,17.8
+42,300359,Issa Diop,495,Morocco,3,FirstHalf,Pass,Successful,35.7,17.8,45.1,1.8
+43,320834,Achraf Hakimi,495,Morocco,3,FirstHalf,Pass,Successful,44.3,2.3,29.9,15.7
+44,300359,Issa Diop,495,Morocco,3,FirstHalf,Pass,Successful,26.3,24.2,30.8,37.7
+45,486734,Neil El Aynaoui,495,Morocco,3,FirstHalf,Pass,Successful,29.9,37.2,29.6,14.5
+46,300359,Issa Diop,495,Morocco,3,FirstHalf,Pass,Successful,29.6,12,30.1,33.5
+47,486734,Neil El Aynaoui,495,Morocco,3,FirstHalf,Pass,Successful,31,38.2,30.5,76.2
+48,425471,Redouane Halhal,495,Morocco,3,FirstHalf,Pass,Successful,30.5,81.7,38.9,97.3
+49,392361,Azzedine Ounahi,495,Morocco,3,FirstHalf,BallTouch,Unsuccessful,39.2,97.5,,
+22,397859,Alistair Johnston,1160,Canada,3,FirstHalf,BallRecovery,Successful,60.7,9.7,,
+23,397859,Alistair Johnston,1160,Canada,3,FirstHalf,Pass,Successful,65.2,18.6,70.3,50.7
+24,445292,Tani Oluwaseyi,1160,Canada,3,FirstHalf,Pass,Successful,70.4,51.4,69.3,47.2
+25,351744,Stephen Eustaquio,1160,Canada,3,FirstHalf,Pass,Unsuccessful,69.5,50.5,70.8,52.6
+53,486734,Neil El Aynaoui,495,Morocco,3,FirstHalf,BallTouch,Successful,29.3,39.2,,
+26,313012,Richie Laryea,1160,Canada,3,FirstHalf,Pass,Unsuccessful,78.7,91.5,80.4,84.1
+50,317541,Brahim Díaz,495,Morocco,3,FirstHalf,Interception,Successful,19.6,15.9,,
+27,313012,Richie Laryea,1160,Canada,3,FirstHalf,Pass,Unsuccessful,99.1,74.1,98.5,73
+51,317541,Brahim Díaz,495,Morocco,3,FirstHalf,Clearance,Successful,1.5,27,,
+52,317541,Brahim Díaz,495,Morocco,3,FirstHalf,CornerAwarded,Unsuccessful,0,26,,
+28,313012,Richie Laryea,1160,Canada,3,FirstHalf,CornerAwarded,Successful,100,73.9,,
+29,351744,Stephen Eustaquio,1160,Canada,4,FirstHalf,Pass,Unsuccessful,99.5,99.5,98.8,52.3
+54,136220,Yassine Bounou,495,Morocco,4,FirstHalf,Punch,Unsuccessful,1.2,47.7,31.3,6.5
+30,437419,Ali Ahmed,1160,Canada,4,FirstHalf,Pass,Successful,66.4,75.3,82.2,48.1
+31,492688,Luc De Fougerolles,1160,Canada,4,FirstHalf,Pass,Successful,82.2,48.1,97,65.1
+32,383855,Jonathan David,1160,Canada,4,FirstHalf,SavedShot,Successful,97,65.1,,
+55,136220,Yassine Bounou,495,Morocco,4,FirstHalf,Save,Successful,2.2,39.2,,
+33,383855,Jonathan David,1160,Canada,4,FirstHalf,CornerAwarded,Successful,99.6,63.6,,
+56,136220,Yassine Bounou,495,Morocco,4,FirstHalf,CornerAwarded,Unsuccessful,0.4,36.4,,
+34,351744,Stephen Eustaquio,1160,Canada,5,FirstHalf,Pass,Unsuccessful,99.5,99.5,93.9,49.3
+57,300359,Issa Diop,495,Morocco,5,FirstHalf,Clearance,Successful,7.4,48.2,28.9,93.2
+35,484837,Niko Sigur,1160,Canada,5,FirstHalf,Pass,Unsuccessful,70.8,3.9,97.6,16
+58,425471,Redouane Halhal,495,Morocco,5,FirstHalf,Clearance,Successful,4.7,82.8,0,85.4
+60,425471,Redouane Halhal,495,Morocco,5,FirstHalf,CornerAwarded,Unsuccessful,0.4,86.3,,
+36,484837,Niko Sigur,1160,Canada,5,FirstHalf,CornerAwarded,Successful,99.6,13.7,,
+37,351744,Stephen Eustaquio,1160,Canada,6,FirstHalf,Pass,Successful,99.5,0.5,90.5,35.7
+38,492688,Luc De Fougerolles,1160,Canada,6,FirstHalf,Pass,Unsuccessful,90.4,35.7,92.2,48.3
+61,486734,Neil El Aynaoui,495,Morocco,6,FirstHalf,Clearance,Successful,8.2,39.3,9.9,62
+39,492688,Luc De Fougerolles,1160,Canada,6,FirstHalf,Aerial,Successful,90.1,38,,
+62,392361,Azzedine Ounahi,495,Morocco,6,FirstHalf,Aerial,Unsuccessful,9.9,62,,
+40,492688,Luc De Fougerolles,1160,Canada,6,FirstHalf,Pass,Unsuccessful,90.1,38,97.2,48.9
+64,136220,Yassine Bounou,495,Morocco,6,FirstHalf,Punch,Unsuccessful,2.8,51.1,23.7,67.5
+42,437419,Ali Ahmed,1160,Canada,6,FirstHalf,Pass,Successful,74,27.7,80.2,18.7
+43,351744,Stephen Eustaquio,1160,Canada,6,FirstHalf,Pass,Successful,80.9,18.4,96.6,26.5
+44,492688,Luc De Fougerolles,1160,Canada,6,FirstHalf,Pass,Unsuccessful,97.4,23.1,97.4,28.2
+66,349932,Noussair Mazraoui,495,Morocco,6,FirstHalf,BallTouch,Successful,3,70.5,,
+67,404776,Ismael Saibari,495,Morocco,6,FirstHalf,Clearance,Successful,8.9,83.3,71.8,81.3
+45,137263,Maxime Crépeau,1160,Canada,6,FirstHalf,Pass,Successful,36.3,26.5,42.4,36.1
+46,313012,Richie Laryea,1160,Canada,6,FirstHalf,Pass,Unsuccessful,52,40.9,53.7,42.4
+68,404776,Ismael Saibari,495,Morocco,6,FirstHalf,BlockedPass,Successful,46.3,57.6,,
+47,397859,Alistair Johnston,1160,Canada,6,FirstHalf,Aerial,Successful,41.6,43.3,,
+69,392361,Azzedine Ounahi,495,Morocco,6,FirstHalf,Aerial,Unsuccessful,58.4,56.7,,
+48,397859,Alistair Johnston,1160,Canada,6,FirstHalf,BallTouch,Successful,41.5,32.7,,
+49,484837,Niko Sigur,1160,Canada,6,FirstHalf,BallTouch,Unsuccessful,62.6,16.8,,
+70,504830,Ayyoub Bouaddi,495,Morocco,6,FirstHalf,BallRecovery,Successful,34.5,86,,
+71,504830,Ayyoub Bouaddi,495,Morocco,6,FirstHalf,Pass,Successful,34.5,86,27.4,90.8
+72,349932,Noussair Mazraoui,495,Morocco,6,FirstHalf,Pass,Successful,27.4,90.8,24.8,72.3
+73,425471,Redouane Halhal,495,Morocco,6,FirstHalf,Pass,Successful,24.8,72.3,30.1,59.3
+74,486734,Neil El Aynaoui,495,Morocco,6,FirstHalf,Pass,Successful,30.1,59.3,28.9,92.8
+94,349932,Noussair Mazraoui,495,Morocco,6,FirstHalf,BallTouch,Successful,31.3,88.8,,
+51,371027,Tajon Buchanan,1160,Canada,7,FirstHalf,Pass,Unsuccessful,60.8,0,75.3,19
+78,425471,Redouane Halhal,495,Morocco,7,FirstHalf,BallRecovery,Successful,24.6,74.3,,
+79,425471,Redouane Halhal,495,Morocco,7,FirstHalf,Pass,Successful,24.6,74.3,28.8,57.5
+80,504830,Ayyoub Bouaddi,495,Morocco,7,FirstHalf,Pass,Successful,28.8,57.5,24.6,70.8
+81,425471,Redouane Halhal,495,Morocco,7,FirstHalf,Pass,Successful,24.6,70.8,25.5,26.2
+82,300359,Issa Diop,495,Morocco,7,FirstHalf,Pass,Successful,26.4,28.3,25.2,67.7
+83,425471,Redouane Halhal,495,Morocco,7,FirstHalf,Pass,Successful,24.3,58.7,26.6,23
+84,300359,Issa Diop,495,Morocco,7,FirstHalf,Pass,Successful,25.5,23.2,27.4,1.8
+85,320834,Achraf Hakimi,495,Morocco,7,FirstHalf,Pass,Successful,27.1,1.8,28.4,17.3
+86,504830,Ayyoub Bouaddi,495,Morocco,7,FirstHalf,Pass,Successful,28.4,17.3,11.6,12.7
+87,300359,Issa Diop,495,Morocco,7,FirstHalf,Pass,Successful,11.6,12.7,6.6,45.2
+88,136220,Yassine Bounou,495,Morocco,8,FirstHalf,Pass,Successful,7.8,48.2,15.7,70.2
+89,425471,Redouane Halhal,495,Morocco,8,FirstHalf,Pass,Successful,16.3,69.8,29.4,94.3
+90,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,Pass,Successful,30.7,92.7,27.8,69.8
+91,425471,Redouane Halhal,495,Morocco,8,FirstHalf,Pass,Successful,27.1,65.2,31.9,19.7
+92,300359,Issa Diop,495,Morocco,8,FirstHalf,Pass,Successful,32.6,17.7,39.4,5.3
+93,320834,Achraf Hakimi,495,Morocco,8,FirstHalf,Pass,Successful,39.4,5.3,28.1,19.5
+95,300359,Issa Diop,495,Morocco,8,FirstHalf,Pass,Successful,25.8,23.8,15.9,45
+96,136220,Yassine Bounou,495,Morocco,8,FirstHalf,Pass,Unsuccessful,25.1,52.7,77.6,78
+52,397859,Alistair Johnston,1160,Canada,8,FirstHalf,BallRecovery,Successful,12.3,23.4,,
+53,397859,Alistair Johnston,1160,Canada,8,FirstHalf,Pass,Successful,12.3,23.4,5.4,35.8
+54,137263,Maxime Crépeau,1160,Canada,8,FirstHalf,Pass,Unsuccessful,5.4,35.8,44.6,14.5
+97,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,Aerial,Successful,55.4,85.5,,
+55,383855,Jonathan David,1160,Canada,8,FirstHalf,Aerial,Unsuccessful,44.6,14.5,,
+98,349932,Noussair Mazraoui,495,Morocco,8,FirstHalf,Pass,Unsuccessful,55.4,85.5,59.8,85.5
+56,383855,Jonathan David,1160,Canada,8,FirstHalf,Pass,Successful,45.2,3.6,34.4,3.9
+57,397859,Alistair Johnston,1160,Canada,8,FirstHalf,Pass,Unsuccessful,33.8,3.7,98.7,13.5
+100,300359,Issa Diop,495,Morocco,8,FirstHalf,Foul,Successful,2.3,85.4,,
+59,445292,Tani Oluwaseyi,1160,Canada,8,FirstHalf,Foul,Unsuccessful,97.8,14.5,,
+101,136220,Yassine Bounou,495,Morocco,9,FirstHalf,Pass,Successful,5.4,63.8,13.4,69.2
+102,425471,Redouane Halhal,495,Morocco,9,FirstHalf,Pass,Successful,13.4,69.2,24.4,35.3
+103,300359,Issa Diop,495,Morocco,9,FirstHalf,Pass,Successful,26.2,31.5,37.1,6.3
+104,320834,Achraf Hakimi,495,Morocco,9,FirstHalf,Pass,Unsuccessful,37.1,9.3,70.4,65.7
+60,397859,Alistair Johnston,1160,Canada,9,FirstHalf,BallTouch,Successful,31.6,30.6,,
+61,474201,Moïse Bombito,1160,Canada,9,FirstHalf,Pass,Successful,33.3,36.3,40.2,20.2
+62,371027,Tajon Buchanan,1160,Canada,9,FirstHalf,BallRecovery,Successful,46.2,11.5,,
+63,371027,Tajon Buchanan,1160,Canada,9,FirstHalf,BallTouch,Unsuccessful,66.8,6.7,,
+105,349932,Noussair Mazraoui,495,Morocco,9,FirstHalf,BallRecovery,Successful,24.1,92.7,,
+106,349932,Noussair Mazraoui,495,Morocco,9,FirstHalf,Foul,Successful,25.9,93.6,,
+64,371027,Tajon Buchanan,1160,Canada,9,FirstHalf,Foul,Unsuccessful,74.1,6.4,,
+107,433572,Bilal El Khannouss,495,Morocco,9,FirstHalf,Pass,Successful,26.6,94.4,27.2,78.3
+125,486734,Neil El Aynaoui,495,Morocco,9,FirstHalf,Pass,Successful,26.2,74.2,33.6,48.9
+108,504830,Ayyoub Bouaddi,495,Morocco,9,FirstHalf,Pass,Successful,30.1,46.8,34.9,57.7
+109,392361,Azzedine Ounahi,495,Morocco,9,FirstHalf,Pass,Successful,34.9,57.7,29.2,69.7
+110,486734,Neil El Aynaoui,495,Morocco,9,FirstHalf,Pass,Unsuccessful,34.4,56.2,48.3,22.7
+65,437419,Ali Ahmed,1160,Canada,9,FirstHalf,BallRecovery,Successful,57.6,77.8,,
+66,437419,Ali Ahmed,1160,Canada,9,FirstHalf,Pass,Successful,72,75.9,80.9,62.2
+67,445292,Tani Oluwaseyi,1160,Canada,9,FirstHalf,TakeOn,Successful,89.5,59.6,,
+111,425471,Redouane Halhal,495,Morocco,9,FirstHalf,Challenge,Unsuccessful,10.6,40.4,,
+68,445292,Tani Oluwaseyi,1160,Canada,9,FirstHalf,SavedShot,Successful,89,55.5,,
+112,136220,Yassine Bounou,495,Morocco,9,FirstHalf,Save,Successful,4.7,49,,
+69,313012,Richie Laryea,1160,Canada,10,FirstHalf,Pass,Unsuccessful,94.2,70.5,95.4,57.4
+113,300359,Issa Diop,495,Morocco,10,FirstHalf,Clearance,Successful,7.4,47.2,15.6,35.2
+70,445292,Tani Oluwaseyi,1160,Canada,10,FirstHalf,MissedShots,Successful,88.4,59.9,,
+114,504830,Ayyoub Bouaddi,495,Morocco,10,FirstHalf,Clearance,Successful,10.8,45.8,29.5,66.2
+115,404776,Ismael Saibari,495,Morocco,10,FirstHalf,BallTouch,Unsuccessful,29.5,66.2,,
+71,371027,Tajon Buchanan,1160,Canada,10,FirstHalf,BallTouch,Unsuccessful,88.4,6.3,,
+116,392361,Azzedine Ounahi,495,Morocco,10,FirstHalf,BallRecovery,Successful,12.7,94,,
+117,392361,Azzedine Ounahi,495,Morocco,10,FirstHalf,Foul,Successful,11,95.7,,
+72,371027,Tajon Buchanan,1160,Canada,10,FirstHalf,Foul,Unsuccessful,89.1,4.2,,
+118,349932,Noussair Mazraoui,495,Morocco,10,FirstHalf,Pass,Successful,11.7,95.5,9.6,80.5
+119,425471,Redouane Halhal,495,Morocco,10,FirstHalf,Pass,Successful,10.1,74.3,23.8,58.7
+120,504830,Ayyoub Bouaddi,495,Morocco,10,FirstHalf,Pass,Successful,27,45.2,20.2,29.7
+121,300359,Issa Diop,495,Morocco,10,FirstHalf,Pass,Successful,22.3,33.7,27.9,48.3
+122,504830,Ayyoub Bouaddi,495,Morocco,10,FirstHalf,Pass,Successful,31,57.8,32.3,93.3
+123,349932,Noussair Mazraoui,495,Morocco,10,FirstHalf,Pass,Successful,32.3,93.3,73.3,78.2
+124,404776,Ismael Saibari,495,Morocco,11,FirstHalf,TakeOn,Unsuccessful,75.8,75.3,,
+74,474201,Moïse Bombito,1160,Canada,11,FirstHalf,BallRecovery,Successful,10.5,37.6,,
+75,474201,Moïse Bombito,1160,Canada,11,FirstHalf,Pass,Successful,10.5,37.6,2.9,39.6
+76,137263,Maxime Crépeau,1160,Canada,11,FirstHalf,Pass,Successful,3.2,39.4,13,23.5
+77,492688,Luc De Fougerolles,1160,Canada,11,FirstHalf,Pass,Successful,16.2,22.2,28.5,5.8
+78,397859,Alistair Johnston,1160,Canada,11,FirstHalf,Pass,Successful,28.3,5.8,41.6,3
+79,383855,Jonathan David,1160,Canada,11,FirstHalf,Pass,Successful,73.3,17.4,66.8,35.4
+80,351744,Stephen Eustaquio,1160,Canada,11,FirstHalf,Pass,Successful,66,37.6,75.5,66.3
+81,437419,Ali Ahmed,1160,Canada,11,FirstHalf,Pass,Successful,79.7,72.4,73.5,63.4
+82,351744,Stephen Eustaquio,1160,Canada,11,FirstHalf,Pass,Successful,72.6,63.6,80,63.7
+83,383855,Jonathan David,1160,Canada,11,FirstHalf,Pass,Successful,78.6,68.1,75.4,79.3
+84,313012,Richie Laryea,1160,Canada,11,FirstHalf,Pass,Successful,76.1,78.9,72.6,67.9
+85,351744,Stephen Eustaquio,1160,Canada,11,FirstHalf,Pass,Unsuccessful,72.5,67.2,80.9,64.6
+127,300359,Issa Diop,495,Morocco,11,FirstHalf,Clearance,Successful,19.8,35.5,34.2,0
+87,313012,Richie Laryea,1160,Canada,11,FirstHalf,Pass,Successful,72.9,100,91.2,94.6
+88,437419,Ali Ahmed,1160,Canada,11,FirstHalf,Dispossessed,Successful,90.2,93.6,,
+129,320834,Achraf Hakimi,495,Morocco,11,FirstHalf,Tackle,Successful,9.8,6.4,,
+130,317541,Brahim Díaz,495,Morocco,11,FirstHalf,BallRecovery,Successful,19.5,12.8,,
+131,317541,Brahim Díaz,495,Morocco,11,FirstHalf,Pass,Unsuccessful,19.5,12.8,28.7,34.3
+89,484837,Niko Sigur,1160,Canada,11,FirstHalf,BallRecovery,Successful,73.5,69.1,,
+90,484837,Niko Sigur,1160,Canada,11,FirstHalf,Pass,Unsuccessful,73.5,69.1,80.3,69.6
+132,504830,Ayyoub Bouaddi,495,Morocco,11,FirstHalf,BallTouch,Successful,27.4,36.8,,
+133,425471,Redouane Halhal,495,Morocco,11,FirstHalf,BallRecovery,Successful,21.8,46.2,,
+134,425471,Redouane Halhal,495,Morocco,12,FirstHalf,Pass,Successful,21.8,46.2,31,37.3
+135,392361,Azzedine Ounahi,495,Morocco,12,FirstHalf,Pass,Successful,28.5,27.4,16.5,30.3
+136,504830,Ayyoub Bouaddi,495,Morocco,12,FirstHalf,Dispossessed,Successful,25.1,34,,
+91,445292,Tani Oluwaseyi,1160,Canada,12,FirstHalf,Tackle,Successful,74.9,66,,
+92,351744,Stephen Eustaquio,1160,Canada,12,FirstHalf,BallRecovery,Successful,84,73,,
+93,351744,Stephen Eustaquio,1160,Canada,12,FirstHalf,TakeOn,Unsuccessful,85.7,72.4,,
+137,392361,Azzedine Ounahi,495,Morocco,12,FirstHalf,Pass,Successful,15.8,33.2,17.7,0
+139,320834,Achraf Hakimi,495,Morocco,12,FirstHalf,BallRecovery,Successful,17,9.5,,
+140,320834,Achraf Hakimi,495,Morocco,12,FirstHalf,Pass,Unsuccessful,29.2,5.3,48.5,15
+94,474201,Moïse Bombito,1160,Canada,12,FirstHalf,Pass,Unsuccessful,53,73,59.8,72.9
+141,433572,Bilal El Khannouss,495,Morocco,12,FirstHalf,Pass,Unsuccessful,34.3,22.9,36.3,22.7
+95,484837,Niko Sigur,1160,Canada,12,FirstHalf,BlockedPass,Successful,63.7,77.3,,
+142,433572,Bilal El Khannouss,495,Morocco,12,FirstHalf,Pass,Successful,35.5,26.6,35.8,34.2
+143,392361,Azzedine Ounahi,495,Morocco,12,FirstHalf,Pass,Unsuccessful,29.5,26.4,34.8,26.2
+97,351744,Stephen Eustaquio,1160,Canada,12,FirstHalf,Interception,Successful,65.2,73.8,,
+98,371027,Tajon Buchanan,1160,Canada,12,FirstHalf,BallRecovery,Successful,64,41.8,,
+99,371027,Tajon Buchanan,1160,Canada,12,FirstHalf,Pass,Successful,64.1,41.8,67,14.1
+100,397859,Alistair Johnston,1160,Canada,12,FirstHalf,Pass,Unsuccessful,77.5,16.8,87.2,64.8
+144,320834,Achraf Hakimi,495,Morocco,12,FirstHalf,Clearance,Successful,11.1,31.5,30.3,44.3
+101,351744,Stephen Eustaquio,1160,Canada,12,FirstHalf,Pass,Successful,78.7,56.8,84.6,37.6
+102,383855,Jonathan David,1160,Canada,12,FirstHalf,Pass,Unsuccessful,86.4,37.5,88.6,42
+145,425471,Redouane Halhal,495,Morocco,12,FirstHalf,Interception,Successful,11.4,58,,
+146,486734,Neil El Aynaoui,495,Morocco,12,FirstHalf,Pass,Successful,23.9,59,35.7,55.5
+148,404776,Ismael Saibari,495,Morocco,12,FirstHalf,BallRecovery,Successful,27.5,83.7,,
+147,404776,Ismael Saibari,495,Morocco,12,FirstHalf,Pass,Successful,35.7,55.5,26,79.8
+149,433572,Bilal El Khannouss,495,Morocco,12,FirstHalf,Pass,Unsuccessful,27.9,91,31.6,88.2
+103,397859,Alistair Johnston,1160,Canada,12,FirstHalf,BlockedPass,Successful,68.4,11.8,,
+151,433572,Bilal El Khannouss,495,Morocco,12,FirstHalf,Pass,Successful,30.8,100,21.4,70.2
+152,425471,Redouane Halhal,495,Morocco,12,FirstHalf,Pass,Successful,21.1,64.8,31.5,26.2
+153,320834,Achraf Hakimi,495,Morocco,12,FirstHalf,Pass,Successful,31.3,27.8,30.9,46
+154,504830,Ayyoub Bouaddi,495,Morocco,12,FirstHalf,Pass,Successful,30.9,46,27.9,67.3
+155,425471,Redouane Halhal,495,Morocco,12,FirstHalf,Pass,Successful,28,65.5,27.4,29.5
+156,300359,Issa Diop,495,Morocco,13,FirstHalf,Pass,Successful,28.1,32.3,32.1,48.2
+157,504830,Ayyoub Bouaddi,495,Morocco,13,FirstHalf,Pass,Successful,32.1,48.2,21.8,65.7
+158,425471,Redouane Halhal,495,Morocco,13,FirstHalf,Pass,Successful,22.5,61.5,25.7,29.5
+159,300359,Issa Diop,495,Morocco,13,FirstHalf,Pass,Successful,27.2,31.7,25.8,65
+160,425471,Redouane Halhal,495,Morocco,13,FirstHalf,Pass,Successful,25.8,67.7,28.1,96.8
+161,349932,Noussair Mazraoui,495,Morocco,13,FirstHalf,Pass,Unsuccessful,28.1,96.8,32.7,95.5
+105,371027,Tajon Buchanan,1160,Canada,13,FirstHalf,BlockedPass,Successful,67.3,4.5,,
+163,349932,Noussair Mazraoui,495,Morocco,13,FirstHalf,Pass,Successful,43.3,100,30.6,84.7
+164,425471,Redouane Halhal,495,Morocco,13,FirstHalf,Pass,Successful,30.6,76,37.2,20.2
+165,320834,Achraf Hakimi,495,Morocco,13,FirstHalf,Pass,Successful,37.2,20.2,47.8,4.3
+166,317541,Brahim Díaz,495,Morocco,13,FirstHalf,Pass,Successful,47.8,4.3,52.9,18.3
+167,320834,Achraf Hakimi,495,Morocco,14,FirstHalf,Pass,Successful,52.9,18.3,42.6,7.3
+168,317541,Brahim Díaz,495,Morocco,14,FirstHalf,Pass,Successful,42.6,7.3,32.9,28.2
+169,300359,Issa Diop,495,Morocco,14,FirstHalf,Pass,Successful,32.7,28.5,38.4,41
+170,486734,Neil El Aynaoui,495,Morocco,14,FirstHalf,Pass,Successful,37.8,39,54.2,6.3
+171,392361,Azzedine Ounahi,495,Morocco,14,FirstHalf,Pass,Successful,54.2,6.3,63.8,4.3
+172,320834,Achraf Hakimi,495,Morocco,14,FirstHalf,Pass,Successful,63.8,4.3,56.3,14.3
+173,320834,Achraf Hakimi,495,Morocco,14,FirstHalf,Foul,Successful,64.7,3.6,,
+107,313012,Richie Laryea,1160,Canada,14,FirstHalf,Foul,Unsuccessful,35.3,96.4,,
+174,320834,Achraf Hakimi,495,Morocco,14,FirstHalf,Pass,Successful,61.2,3.5,53.6,17.5
+175,486734,Neil El Aynaoui,495,Morocco,14,FirstHalf,Pass,Successful,52.8,20,44.3,56.8
+177,425471,Redouane Halhal,495,Morocco,14,FirstHalf,Pass,Successful,44.3,56.8,41,28.2
+178,300359,Issa Diop,495,Morocco,14,FirstHalf,Pass,Successful,41,27.7,44.4,4
+179,392361,Azzedine Ounahi,495,Morocco,14,FirstHalf,Pass,Successful,39.6,17.3,28.4,16.8
+180,300359,Issa Diop,495,Morocco,14,FirstHalf,Pass,Successful,28.7,16.8,38.8,21.5
+181,392361,Azzedine Ounahi,495,Morocco,14,FirstHalf,Pass,Unsuccessful,38.6,19.7,80.7,29.8
+108,137263,Maxime Crépeau,1160,Canada,14,FirstHalf,KeeperSweeper,Successful,18.7,69.9,,
+109,137263,Maxime Crépeau,1160,Canada,14,FirstHalf,Clearance,Successful,18.7,70.5,59.1,74.2
+110,445292,Tani Oluwaseyi,1160,Canada,14,FirstHalf,Aerial,Successful,59.1,74.2,,
+182,392361,Azzedine Ounahi,495,Morocco,14,FirstHalf,Aerial,Unsuccessful,40.9,25.8,,
+111,445292,Tani Oluwaseyi,1160,Canada,14,FirstHalf,Pass,Unsuccessful,59.1,74.2,56.1,72.4
+183,392361,Azzedine Ounahi,495,Morocco,14,FirstHalf,BallTouch,Successful,37.4,23.2,,
+184,486734,Neil El Aynaoui,495,Morocco,14,FirstHalf,Pass,Successful,35.7,23.2,28.9,47
+185,425471,Redouane Halhal,495,Morocco,15,FirstHalf,Pass,Successful,29.1,55.3,39.6,92.8
+186,433572,Bilal El Khannouss,495,Morocco,15,FirstHalf,Pass,Successful,39.6,92.8,31.5,80.2
+187,349932,Noussair Mazraoui,495,Morocco,15,FirstHalf,Pass,Successful,31.5,80.2,29.4,60.2
+188,425471,Redouane Halhal,495,Morocco,15,FirstHalf,Pass,Successful,31.4,58.5,35.6,21
+189,300359,Issa Diop,495,Morocco,15,FirstHalf,Pass,Successful,39.2,17.8,44.2,3.7
+190,392361,Azzedine Ounahi,495,Morocco,15,FirstHalf,Pass,Successful,44.2,3.7,33.6,18.3
+191,300359,Issa Diop,495,Morocco,15,FirstHalf,Pass,Successful,32.6,27.5,39.2,4.5
+192,392361,Azzedine Ounahi,495,Morocco,15,FirstHalf,Pass,Successful,38.6,5.3,47.6,6.3
+193,320834,Achraf Hakimi,495,Morocco,15,FirstHalf,Foul,Successful,42,3.6,,
+112,313012,Richie Laryea,1160,Canada,15,FirstHalf,Foul,Unsuccessful,58,96.4,,
+194,320834,Achraf Hakimi,495,Morocco,15,FirstHalf,Pass,Successful,42.7,3.7,39.2,14
+195,486734,Neil El Aynaoui,495,Morocco,15,FirstHalf,Pass,Successful,37.9,17,25.5,30.2
+196,300359,Issa Diop,495,Morocco,15,FirstHalf,Pass,Successful,27.5,25.7,26.3,66.7
+197,425471,Redouane Halhal,495,Morocco,15,FirstHalf,Pass,Successful,28.8,71.2,29.6,53.7
+198,504830,Ayyoub Bouaddi,495,Morocco,15,FirstHalf,Pass,Successful,29.6,54.2,29.3,74
+199,425471,Redouane Halhal,495,Morocco,15,FirstHalf,Pass,Successful,29.6,70.3,29.8,54.5
+11207,404776,Ismael Saibari,495,Morocco,16,FirstHalf,OffsideGiven,Unsuccessful,72.7,30.3,,
+200,504830,Ayyoub Bouaddi,495,Morocco,16,FirstHalf,Pass,Successful,30.5,48.8,35.3,19.3
+201,300359,Issa Diop,495,Morocco,16,FirstHalf,Pass,Successful,35.2,18.2,30.9,41.8
+202,504830,Ayyoub Bouaddi,495,Morocco,16,FirstHalf,Pass,Successful,30.1,43.7,32.1,70.3
+203,425471,Redouane Halhal,495,Morocco,16,FirstHalf,Pass,Successful,34.4,74.3,39.3,95.5
+204,392361,Azzedine Ounahi,495,Morocco,16,FirstHalf,Pass,Successful,38.3,94.5,12.5,58
+205,136220,Yassine Bounou,495,Morocco,16,FirstHalf,Pass,Successful,12.5,58,22.9,61.8
+206,504830,Ayyoub Bouaddi,495,Morocco,16,FirstHalf,Pass,Successful,30.5,41.8,33.7,18
+207,300359,Issa Diop,495,Morocco,16,FirstHalf,OffsidePass,Successful,32.2,20.9,72.7,30.3
+113,492688,Luc De Fougerolles,1160,Canada,16,FirstHalf,OffsideProvoked,Successful,31.8,65,,
+114,492688,Luc De Fougerolles,1160,Canada,16,FirstHalf,Pass,Successful,29.9,63.1,29.1,43.6
+115,474201,Moïse Bombito,1160,Canada,16,FirstHalf,Pass,Successful,26.1,40.8,30.5,48.1
+116,351744,Stephen Eustaquio,1160,Canada,16,FirstHalf,Pass,Successful,32.1,45.7,37,44.5
+117,484837,Niko Sigur,1160,Canada,16,FirstHalf,Pass,Successful,38.3,45,32.2,70.8
+118,492688,Luc De Fougerolles,1160,Canada,16,FirstHalf,Pass,Successful,44.9,73.2,62.3,97.2
+119,437419,Ali Ahmed,1160,Canada,17,FirstHalf,Pass,Successful,51,90.3,34.6,50.5
+120,474201,Moïse Bombito,1160,Canada,17,FirstHalf,Pass,Successful,38.4,38.1,37.3,28.3
+121,397859,Alistair Johnston,1160,Canada,17,FirstHalf,Pass,Successful,37.5,26.1,53.6,3
+122,383855,Jonathan David,1160,Canada,17,FirstHalf,Pass,Successful,53.7,3,64.2,17.2
+123,351744,Stephen Eustaquio,1160,Canada,17,FirstHalf,Pass,Unsuccessful,64.7,18.6,95.8,22.2
+208,425471,Redouane Halhal,495,Morocco,17,FirstHalf,Clearance,Successful,4.9,73.5,0,75.7
+209,425471,Redouane Halhal,495,Morocco,17,FirstHalf,CornerAwarded,Unsuccessful,1.2,48.1,,
+125,351744,Stephen Eustaquio,1160,Canada,17,FirstHalf,CornerAwarded,Successful,98.8,51.9,,
+126,351744,Stephen Eustaquio,1160,Canada,17,FirstHalf,Pass,Successful,99.5,0.5,89.3,46.6
+127,397859,Alistair Johnston,1160,Canada,17,FirstHalf,SavedShot,Successful,89.3,46.6,,
+210,320834,Achraf Hakimi,495,Morocco,17,FirstHalf,Save,Successful,5,50.7,,
+211,300359,Issa Diop,495,Morocco,18,FirstHalf,Clearance,Successful,10.3,47,41.9,0
+128,313012,Richie Laryea,1160,Canada,18,FirstHalf,ShieldBallOpp,Successful,63.9,95.2,,
+130,313012,Richie Laryea,1160,Canada,18,FirstHalf,Pass,Successful,54.6,100,46.2,88.2
+131,484837,Niko Sigur,1160,Canada,18,FirstHalf,Pass,Successful,56.2,77.2,50.4,66.7
+132,492688,Luc De Fougerolles,1160,Canada,18,FirstHalf,Pass,Successful,47.5,66,43.5,55.9
+133,397859,Alistair Johnston,1160,Canada,18,FirstHalf,Pass,Successful,42.8,51,46.2,33
+134,474201,Moïse Bombito,1160,Canada,18,FirstHalf,Pass,Successful,45.4,27,59.2,31.6
+135,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Pass,Unsuccessful,59.2,31.6,60.1,31.9
+213,486734,Neil El Aynaoui,495,Morocco,18,FirstHalf,BlockedPass,Successful,39.9,68.1,,
+214,392361,Azzedine Ounahi,495,Morocco,18,FirstHalf,BallRecovery,Successful,40.9,62.8,,
+215,392361,Azzedine Ounahi,495,Morocco,18,FirstHalf,Pass,Successful,40.9,62.8,41,49.3
+216,504830,Ayyoub Bouaddi,495,Morocco,18,FirstHalf,Pass,Successful,41,49.3,37.9,63.7
+217,392361,Azzedine Ounahi,495,Morocco,18,FirstHalf,TakeOn,Unsuccessful,36.8,64.8,,
+136,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Tackle,Successful,63.2,35.2,,
+137,445292,Tani Oluwaseyi,1160,Canada,18,FirstHalf,BallRecovery,Successful,70.3,37.6,,
+138,445292,Tani Oluwaseyi,1160,Canada,18,FirstHalf,Pass,Successful,70.3,38.4,69.6,48.6
+139,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Pass,Successful,68.7,50.8,65.1,96
+140,437419,Ali Ahmed,1160,Canada,18,FirstHalf,Pass,Successful,77.5,97.9,70.1,91.8
+141,484837,Niko Sigur,1160,Canada,18,FirstHalf,Pass,Successful,69.7,88.8,64.9,68.1
+142,351744,Stephen Eustaquio,1160,Canada,18,FirstHalf,Pass,Successful,64.1,70.9,65.8,90.9
+143,484837,Niko Sigur,1160,Canada,18,FirstHalf,Pass,Successful,65.8,90.4,57.1,78
+144,313012,Richie Laryea,1160,Canada,18,FirstHalf,Pass,Successful,56,72.6,57.6,36
+145,474201,Moïse Bombito,1160,Canada,18,FirstHalf,Pass,Successful,60.7,27.7,74.6,3.7
+146,371027,Tajon Buchanan,1160,Canada,19,FirstHalf,Pass,Successful,73.2,5.2,58.5,9.3
+147,474201,Moïse Bombito,1160,Canada,19,FirstHalf,Pass,Successful,59,25.2,51.8,40.5
+148,492688,Luc De Fougerolles,1160,Canada,19,FirstHalf,Pass,Successful,51.5,38.7,55.1,11.5
+149,474201,Moïse Bombito,1160,Canada,19,FirstHalf,Pass,Successful,54.6,8.7,72.7,12.9
+150,445292,Tani Oluwaseyi,1160,Canada,19,FirstHalf,Foul,Successful,72.6,9.1,,
+219,425471,Redouane Halhal,495,Morocco,19,FirstHalf,Foul,Unsuccessful,27.4,91,,
+220,425471,Redouane Halhal,495,Morocco,19,FirstHalf,Card,Successful,0,0,,
+223,404776,Ismael Saibari,495,Morocco,21,FirstHalf,SubstitutionOff,Successful,0,0,,
+224,430982,Soufiane Rahimi,495,Morocco,21,FirstHalf,SubstitutionOn,Successful,0,0,,
+153,351744,Stephen Eustaquio,1160,Canada,21,FirstHalf,Pass,Unsuccessful,73.1,2.8,98.8,52.2
+225,136220,Yassine Bounou,495,Morocco,22,FirstHalf,Claim,Successful,1.2,47.8,,
+226,136220,Yassine Bounou,495,Morocco,22,FirstHalf,Pass,Successful,10.4,47.3,20.3,23.5
+227,486734,Neil El Aynaoui,495,Morocco,22,FirstHalf,Pass,Successful,31.4,18.5,41.5,5
+228,320834,Achraf Hakimi,495,Morocco,22,FirstHalf,Pass,Successful,41.5,5,31.2,15.3
+229,486734,Neil El Aynaoui,495,Morocco,22,FirstHalf,Pass,Successful,31.6,13.7,28.1,37.3
+230,300359,Issa Diop,495,Morocco,22,FirstHalf,Pass,Successful,28.7,39.8,29.5,70
+231,425471,Redouane Halhal,495,Morocco,22,FirstHalf,Pass,Successful,30.3,71,35.1,93.7
+232,349932,Noussair Mazraoui,495,Morocco,22,FirstHalf,Pass,Successful,35.1,93.7,41.7,95
+233,433572,Bilal El Khannouss,495,Morocco,22,FirstHalf,Pass,Successful,41,94.8,32.2,86.8
+234,349932,Noussair Mazraoui,495,Morocco,22,FirstHalf,Pass,Unsuccessful,32.1,85.3,65.1,54.3
+154,492688,Luc De Fougerolles,1160,Canada,22,FirstHalf,Pass,Successful,34.8,42.6,39.8,44.8
+155,484837,Niko Sigur,1160,Canada,22,FirstHalf,Pass,Successful,39.6,46.6,33.2,49.8
+156,492688,Luc De Fougerolles,1160,Canada,22,FirstHalf,Pass,Successful,33.4,51,38.8,54.9
+157,484837,Niko Sigur,1160,Canada,22,FirstHalf,BallRecovery,Successful,38.1,56.7,,
+158,484837,Niko Sigur,1160,Canada,22,FirstHalf,Pass,Successful,38.1,56.7,47.6,67.8
+159,371027,Tajon Buchanan,1160,Canada,22,FirstHalf,Pass,Successful,70.5,97,59.2,95.5
+160,313012,Richie Laryea,1160,Canada,22,FirstHalf,Pass,Successful,58,95.1,46.6,79.8
+161,492688,Luc De Fougerolles,1160,Canada,22,FirstHalf,Pass,Successful,47.7,71.7,55.3,71.7
+162,351744,Stephen Eustaquio,1160,Canada,22,FirstHalf,Pass,Successful,54.8,70.6,47.3,70
+163,492688,Luc De Fougerolles,1160,Canada,22,FirstHalf,Pass,Successful,47,69.9,40.8,65.5
+164,484837,Niko Sigur,1160,Canada,23,FirstHalf,Pass,Successful,35.9,59.2,17.7,49.8
+165,137263,Maxime Crépeau,1160,Canada,23,FirstHalf,Pass,Successful,16.6,47.1,21.7,20.4
+166,474201,Moïse Bombito,1160,Canada,23,FirstHalf,Pass,Unsuccessful,22.9,14.4,91.7,9.1
+236,425471,Redouane Halhal,495,Morocco,23,FirstHalf,BallRecovery,Successful,9.6,90.2,,
+237,425471,Redouane Halhal,495,Morocco,23,FirstHalf,Foul,Successful,8.4,95.7,,
+167,383855,Jonathan David,1160,Canada,23,FirstHalf,Foul,Unsuccessful,91.6,4.3,,
+240,425471,Redouane Halhal,495,Morocco,26,FirstHalf,Pass,Successful,4.4,93.3,7.7,66.8
+241,136220,Yassine Bounou,495,Morocco,26,FirstHalf,Pass,Successful,12.8,53.7,22.9,28
+242,300359,Issa Diop,495,Morocco,26,FirstHalf,Pass,Successful,29.9,29.3,29.1,67.3
+243,425471,Redouane Halhal,495,Morocco,26,FirstHalf,Pass,Successful,29.1,67.3,14.6,48.8
+244,136220,Yassine Bounou,495,Morocco,26,FirstHalf,Pass,Unsuccessful,26,47,73.1,79.8
+170,397859,Alistair Johnston,1160,Canada,26,FirstHalf,Clearance,Successful,29.1,19.2,36.1,31.6
+245,392361,Azzedine Ounahi,495,Morocco,26,FirstHalf,Pass,Unsuccessful,61.9,68.7,74.7,79
+171,397859,Alistair Johnston,1160,Canada,26,FirstHalf,Pass,Successful,28.4,20.4,36.3,22.6
+172,371027,Tajon Buchanan,1160,Canada,26,FirstHalf,BallRecovery,Successful,36.5,22.5,,
+173,371027,Tajon Buchanan,1160,Canada,26,FirstHalf,Pass,Successful,36.4,22.5,32.1,30.6
+174,484837,Niko Sigur,1160,Canada,26,FirstHalf,Pass,Successful,31.6,30.3,37.5,32.7
+175,351744,Stephen Eustaquio,1160,Canada,26,FirstHalf,Pass,Unsuccessful,37,33.1,39.4,22.6
+246,349932,Noussair Mazraoui,495,Morocco,27,FirstHalf,Aerial,Successful,60.6,77.4,,
+176,371027,Tajon Buchanan,1160,Canada,27,FirstHalf,Aerial,Unsuccessful,39.4,22.6,,
+247,349932,Noussair Mazraoui,495,Morocco,27,FirstHalf,Pass,Successful,60.6,77.4,66.4,89.2
+249,433572,Bilal El Khannouss,495,Morocco,27,FirstHalf,Foul,Successful,64.7,93.6,,
+178,397859,Alistair Johnston,1160,Canada,27,FirstHalf,Foul,Unsuccessful,35.3,6.4,,
+250,486734,Neil El Aynaoui,495,Morocco,27,FirstHalf,Pass,Successful,54.2,81.3,60.5,96.7
+251,349932,Noussair Mazraoui,495,Morocco,27,FirstHalf,Pass,Successful,60.5,96.7,54.5,82.8
+252,486734,Neil El Aynaoui,495,Morocco,27,FirstHalf,Pass,Successful,53.1,80.3,40.9,33.2
+253,300359,Issa Diop,495,Morocco,27,FirstHalf,Pass,Successful,40.9,32.7,44.1,7.5
+254,320834,Achraf Hakimi,495,Morocco,27,FirstHalf,Pass,Successful,44.1,7.5,44.3,29
+255,504830,Ayyoub Bouaddi,495,Morocco,27,FirstHalf,Pass,Successful,44.3,29,30.6,25.5
+256,300359,Issa Diop,495,Morocco,27,FirstHalf,Pass,Successful,32.4,32.3,29.9,70.2
+257,425471,Redouane Halhal,495,Morocco,27,FirstHalf,Pass,Successful,30.3,72,39.8,69.7
+258,392361,Azzedine Ounahi,495,Morocco,27,FirstHalf,Pass,Successful,39.8,69.7,17.3,48
+259,136220,Yassine Bounou,495,Morocco,27,FirstHalf,Pass,Successful,17.3,48,33.8,17.8
+260,300359,Issa Diop,495,Morocco,27,FirstHalf,Pass,Unsuccessful,33.8,17,68.8,30.7
+179,492688,Luc De Fougerolles,1160,Canada,27,FirstHalf,BallRecovery,Successful,36.5,64.6,,
+180,492688,Luc De Fougerolles,1160,Canada,27,FirstHalf,Pass,Successful,35.9,62.8,44.1,58.6
+181,484837,Niko Sigur,1160,Canada,27,FirstHalf,Pass,Successful,44.1,58.6,35.8,78.3
+182,313012,Richie Laryea,1160,Canada,27,FirstHalf,Pass,Successful,35.8,78.3,38.6,73.8
+183,351744,Stephen Eustaquio,1160,Canada,27,FirstHalf,Pass,Successful,38.3,75.1,25.6,62.2
+184,492688,Luc De Fougerolles,1160,Canada,27,FirstHalf,Pass,Successful,23.1,58.6,26.5,35.4
+185,474201,Moïse Bombito,1160,Canada,27,FirstHalf,Pass,Unsuccessful,25.5,34.6,33.2,34.3
+261,433572,Bilal El Khannouss,495,Morocco,27,FirstHalf,Interception,Successful,66.8,65.7,,
+186,474201,Moïse Bombito,1160,Canada,27,FirstHalf,Error,Successful,30.9,36.1,,
+262,433572,Bilal El Khannouss,495,Morocco,27,FirstHalf,BallRecovery,Successful,67,71,,
+263,433572,Bilal El Khannouss,495,Morocco,27,FirstHalf,Pass,Successful,67,71,73.1,59.3
+264,430982,Soufiane Rahimi,495,Morocco,28,FirstHalf,SavedShot,Successful,73.1,53.4,,
+187,137263,Maxime Crépeau,1160,Canada,28,FirstHalf,Save,Successful,1.2,48.6,,
+188,137263,Maxime Crépeau,1160,Canada,28,FirstHalf,KeeperPickup,Successful,1.2,48.6,,
+189,137263,Maxime Crépeau,1160,Canada,28,FirstHalf,Pass,Successful,11.5,46.2,14.4,60.9
+190,492688,Luc De Fougerolles,1160,Canada,28,FirstHalf,Pass,Successful,14.5,58.9,13,32.2
+191,474201,Moïse Bombito,1160,Canada,28,FirstHalf,Pass,Successful,15.1,25.3,15,10.6
+192,397859,Alistair Johnston,1160,Canada,28,FirstHalf,Pass,Successful,15.2,9.1,31,2.4
+193,371027,Tajon Buchanan,1160,Canada,28,FirstHalf,Pass,Unsuccessful,30.7,2.5,31.3,4.6
+265,349932,Noussair Mazraoui,495,Morocco,28,FirstHalf,BlockedPass,Successful,68.7,95.4,,
+194,484837,Niko Sigur,1160,Canada,28,FirstHalf,Pass,Unsuccessful,27.6,7.5,29.1,7.5
+266,486734,Neil El Aynaoui,495,Morocco,28,FirstHalf,BlockedPass,Successful,70.9,92.5,,
+267,486734,Neil El Aynaoui,495,Morocco,28,FirstHalf,BallRecovery,Successful,68.3,89.5,,
+268,486734,Neil El Aynaoui,495,Morocco,28,FirstHalf,BallTouch,Successful,69.2,92.5,,
+274,433572,Bilal El Khannouss,495,Morocco,28,FirstHalf,BallTouch,Successful,65.8,94.3,,
+196,397859,Alistair Johnston,1160,Canada,28,FirstHalf,Pass,Successful,32.7,0,30.9,4.5
+197,474201,Moïse Bombito,1160,Canada,28,FirstHalf,Pass,Unsuccessful,30.9,3.9,60.8,9.1
+270,425471,Redouane Halhal,495,Morocco,28,FirstHalf,Clearance,Successful,41.4,84.3,54.4,100
+199,397859,Alistair Johnston,1160,Canada,28,FirstHalf,Pass,Unsuccessful,54.2,0,81.6,3.3
+272,425471,Redouane Halhal,495,Morocco,28,FirstHalf,BallTouch,Unsuccessful,20.9,92.3,,
+201,397859,Alistair Johnston,1160,Canada,29,FirstHalf,Pass,Unsuccessful,84.2,0,95.1,31.6
+275,349932,Noussair Mazraoui,495,Morocco,29,FirstHalf,Foul,Successful,6.6,68.8,,
+202,492688,Luc De Fougerolles,1160,Canada,29,FirstHalf,Foul,Unsuccessful,93.5,31.2,,
+276,136220,Yassine Bounou,495,Morocco,29,FirstHalf,Pass,Successful,12.3,61.8,25.5,62.7
+277,486734,Neil El Aynaoui,495,Morocco,29,FirstHalf,Pass,Successful,29.2,53.5,33.9,5.3
+278,320834,Achraf Hakimi,495,Morocco,29,FirstHalf,Pass,Successful,33.6,7.3,24.6,29.5
+279,300359,Issa Diop,495,Morocco,29,FirstHalf,Pass,Successful,24.6,29.5,25.8,48.5
+280,486734,Neil El Aynaoui,495,Morocco,29,FirstHalf,Pass,Successful,27.5,45.3,33.4,8.2
+281,320834,Achraf Hakimi,495,Morocco,29,FirstHalf,Pass,Unsuccessful,33.9,6.8,36.7,6
+203,437419,Ali Ahmed,1160,Canada,29,FirstHalf,BlockedPass,Successful,63.3,94,,
+283,320834,Achraf Hakimi,495,Morocco,29,FirstHalf,Pass,Successful,32.2,0,16.4,19
+284,300359,Issa Diop,495,Morocco,30,FirstHalf,Pass,Successful,21.4,26.2,30,38.5
+285,486734,Neil El Aynaoui,495,Morocco,30,FirstHalf,Pass,Successful,27.1,44.5,30.1,66.5
+286,392361,Azzedine Ounahi,495,Morocco,30,FirstHalf,Pass,Successful,29.5,68.2,30.2,95.2
+287,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,30.2,95.2,37.7,95.2
+288,433572,Bilal El Khannouss,495,Morocco,30,FirstHalf,Pass,Unsuccessful,37.7,95.2,30.5,85.7
+205,383855,Jonathan David,1160,Canada,30,FirstHalf,BallTouch,Unsuccessful,69,4.3,,
+290,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,29.5,100,26.9,87.7
+291,486734,Neil El Aynaoui,495,Morocco,30,FirstHalf,Pass,Successful,26.9,87.7,29.3,95.8
+292,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,29.3,95.8,25.7,88.8
+293,486734,Neil El Aynaoui,495,Morocco,30,FirstHalf,Dispossessed,Successful,26,92,,
+207,383855,Jonathan David,1160,Canada,30,FirstHalf,Tackle,Unsuccessful,74,7.9,,
+294,486734,Neil El Aynaoui,495,Morocco,30,FirstHalf,BallTouch,Successful,25.8,91.2,,
+295,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,26.3,96.5,15.2,82.2
+296,425471,Redouane Halhal,495,Morocco,30,FirstHalf,Pass,Successful,15.3,70.2,25.6,26.2
+297,300359,Issa Diop,495,Morocco,30,FirstHalf,Pass,Successful,30.3,19.7,40.8,2.3
+298,320834,Achraf Hakimi,495,Morocco,30,FirstHalf,Pass,Successful,40.8,2.3,29.4,17.5
+299,300359,Issa Diop,495,Morocco,30,FirstHalf,Pass,Successful,29.2,27.3,31.6,40
+300,504830,Ayyoub Bouaddi,495,Morocco,30,FirstHalf,Pass,Successful,30.9,41.2,30.1,70.7
+301,425471,Redouane Halhal,495,Morocco,30,FirstHalf,Pass,Successful,30.5,70.8,34.8,95.8
+302,349932,Noussair Mazraoui,495,Morocco,30,FirstHalf,Pass,Successful,34.8,95.8,28.2,73.8
+303,425471,Redouane Halhal,495,Morocco,30,FirstHalf,Pass,Successful,27.9,68.8,29.9,53.5
+304,504830,Ayyoub Bouaddi,495,Morocco,30,FirstHalf,Pass,Successful,29.9,53.5,28.6,70.8
+305,425471,Redouane Halhal,495,Morocco,30,FirstHalf,Pass,Successful,28.6,65.7,30.9,23.3
+306,300359,Issa Diop,495,Morocco,30,FirstHalf,Pass,Successful,36.6,18.7,41.7,2.3
+307,320834,Achraf Hakimi,495,Morocco,30,FirstHalf,Pass,Successful,42.6,2.7,33.2,24.5
+11316,430982,Soufiane Rahimi,495,Morocco,31,FirstHalf,OffsideGiven,Unsuccessful,80.1,6.3,,
+308,300359,Issa Diop,495,Morocco,31,FirstHalf,Pass,Successful,33,27,33.7,43.2
+309,486734,Neil El Aynaoui,495,Morocco,31,FirstHalf,Pass,Successful,33.9,40.5,39.1,5.3
+310,320834,Achraf Hakimi,495,Morocco,31,FirstHalf,Pass,Successful,39.1,5.3,46.4,2.8
+311,392361,Azzedine Ounahi,495,Morocco,31,FirstHalf,Pass,Successful,40.2,4.3,30.9,19.8
+312,300359,Issa Diop,495,Morocco,31,FirstHalf,Pass,Successful,30.1,21.8,31.3,39
+313,486734,Neil El Aynaoui,495,Morocco,31,FirstHalf,Pass,Successful,32.8,37.8,38.7,3.7
+314,392361,Azzedine Ounahi,495,Morocco,31,FirstHalf,Pass,Successful,39.5,6.5,56.3,5
+315,320834,Achraf Hakimi,495,Morocco,31,FirstHalf,Pass,Successful,56.3,5,53.5,18.2
+316,392361,Azzedine Ounahi,495,Morocco,31,FirstHalf,OffsidePass,Successful,53.5,18.2,80.1,6.3
+209,474201,Moïse Bombito,1160,Canada,31,FirstHalf,OffsideProvoked,Successful,32.8,82.2,,
+210,137263,Maxime Crépeau,1160,Canada,32,FirstHalf,Pass,Successful,17.6,96.9,66.7,98.4
+211,437419,Ali Ahmed,1160,Canada,32,FirstHalf,Aerial,Successful,66.7,98.4,,
+318,320834,Achraf Hakimi,495,Morocco,32,FirstHalf,Aerial,Unsuccessful,33.3,1.6,,
+212,437419,Ali Ahmed,1160,Canada,32,FirstHalf,Pass,Unsuccessful,66.7,98.4,81.5,98.4
+319,300359,Issa Diop,495,Morocco,32,FirstHalf,BallRecovery,Successful,19.6,3.5,,
+320,300359,Issa Diop,495,Morocco,32,FirstHalf,Pass,Successful,17,4,8.9,36.2
+321,136220,Yassine Bounou,495,Morocco,32,FirstHalf,Pass,Unsuccessful,9.7,43.5,72.2,14.8
+213,313012,Richie Laryea,1160,Canada,32,FirstHalf,BallRecovery,Successful,31.7,92.5,,
+214,313012,Richie Laryea,1160,Canada,32,FirstHalf,Pass,Successful,27.7,85.6,8.8,65.2
+215,137263,Maxime Crépeau,1160,Canada,32,FirstHalf,Pass,Successful,7.7,56.7,9.7,30.1
+216,474201,Moïse Bombito,1160,Canada,32,FirstHalf,Pass,Successful,10.5,27.3,16.1,7.6
+217,397859,Alistair Johnston,1160,Canada,32,FirstHalf,Pass,Unsuccessful,18.6,5.1,25.1,12.3
+322,504830,Ayyoub Bouaddi,495,Morocco,32,FirstHalf,BallTouch,Successful,69.9,83,,
+323,486734,Neil El Aynaoui,495,Morocco,32,FirstHalf,Pass,Unsuccessful,61.1,70.2,70.4,79
+218,484837,Niko Sigur,1160,Canada,32,FirstHalf,Pass,Successful,31.6,15,33.9,25.3
+219,383855,Jonathan David,1160,Canada,32,FirstHalf,Pass,Successful,36.9,25.3,31.1,26.5
+220,474201,Moïse Bombito,1160,Canada,32,FirstHalf,Pass,Successful,28.1,30,29,95.5
+221,492688,Luc De Fougerolles,1160,Canada,32,FirstHalf,Pass,Successful,26.7,96.3,32.2,78.6
+222,351744,Stephen Eustaquio,1160,Canada,32,FirstHalf,Pass,Successful,32.2,78.6,10.4,60.1
+223,137263,Maxime Crépeau,1160,Canada,32,FirstHalf,Pass,Successful,13,57.4,15.7,45.3
+224,474201,Moïse Bombito,1160,Canada,32,FirstHalf,Pass,Successful,19.6,42.3,19.7,23.2
+225,397859,Alistair Johnston,1160,Canada,33,FirstHalf,Pass,Successful,18.7,23.4,20.6,36.3
+226,474201,Moïse Bombito,1160,Canada,33,FirstHalf,Pass,Unsuccessful,20.6,36.3,28.7,7.8
+324,504830,Ayyoub Bouaddi,495,Morocco,33,FirstHalf,BallTouch,Unsuccessful,67.9,87.8,,
+227,397859,Alistair Johnston,1160,Canada,33,FirstHalf,Clearance,Successful,25.4,7,29.9,0
+326,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Pass,Successful,64.4,100,38.6,86
+327,425471,Redouane Halhal,495,Morocco,33,FirstHalf,Pass,Unsuccessful,37.7,66,45.8,20
+229,437419,Ali Ahmed,1160,Canada,33,FirstHalf,BallRecovery,Successful,61.5,78,,
+230,437419,Ali Ahmed,1160,Canada,33,FirstHalf,Pass,Successful,66.8,75.6,66.8,66.7
+231,351744,Stephen Eustaquio,1160,Canada,33,FirstHalf,Pass,Unsuccessful,69.3,61.3,90.6,32.2
+329,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Aerial,Successful,9.4,67.8,,
+232,371027,Tajon Buchanan,1160,Canada,33,FirstHalf,Aerial,Unsuccessful,90.6,32.2,,
+330,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Clearance,Successful,9.4,67.8,22.3,88.7
+233,397859,Alistair Johnston,1160,Canada,33,FirstHalf,Pass,Unsuccessful,88.7,13.5,91.1,22.9
+331,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Clearance,Successful,8.2,72.8,29.6,100
+235,397859,Alistair Johnston,1160,Canada,33,FirstHalf,Pass,Unsuccessful,74.5,0,92.5,13.3
+333,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Aerial,Successful,7.5,86.7,,
+236,383855,Jonathan David,1160,Canada,33,FirstHalf,Aerial,Unsuccessful,92.5,13.3,,
+334,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,Clearance,Successful,7.5,86.7,0,84.8
+237,397859,Alistair Johnston,1160,Canada,33,FirstHalf,CornerAwarded,Successful,97.8,14.4,,
+335,349932,Noussair Mazraoui,495,Morocco,33,FirstHalf,CornerAwarded,Unsuccessful,2.2,85.6,,
+238,351744,Stephen Eustaquio,1160,Canada,34,FirstHalf,Pass,Successful,99.5,0.5,91.8,42.1
+243,445292,Tani Oluwaseyi,1160,Canada,34,FirstHalf,Aerial,Successful,91.8,42.1,,
+336,430982,Soufiane Rahimi,495,Morocco,34,FirstHalf,Aerial,Unsuccessful,8.2,57.9,,
+239,445292,Tani Oluwaseyi,1160,Canada,34,FirstHalf,Pass,Unsuccessful,91.8,42.1,93.6,48.3
+337,300359,Issa Diop,495,Morocco,34,FirstHalf,BallTouch,Successful,9.3,51.1,,
+339,317541,Brahim Díaz,495,Morocco,34,FirstHalf,Pass,Successful,9.6,45.7,16.5,39.3
+340,504830,Ayyoub Bouaddi,495,Morocco,34,FirstHalf,Foul,Successful,14.6,36.8,,
+242,492688,Luc De Fougerolles,1160,Canada,34,FirstHalf,Foul,Unsuccessful,85.4,63.3,,
+342,300359,Issa Diop,495,Morocco,35,FirstHalf,Pass,Successful,19.1,27,29.1,46.5
+343,504830,Ayyoub Bouaddi,495,Morocco,35,FirstHalf,Pass,Successful,30.3,55.3,32.3,94
+344,349932,Noussair Mazraoui,495,Morocco,35,FirstHalf,Pass,Successful,32.3,94,21.8,76
+345,425471,Redouane Halhal,495,Morocco,35,FirstHalf,Pass,Successful,19.6,61.3,22.2,24.8
+346,300359,Issa Diop,495,Morocco,35,FirstHalf,Pass,Successful,23.5,25.7,30.3,39
+347,486734,Neil El Aynaoui,495,Morocco,35,FirstHalf,Pass,Successful,27.1,42.5,26.3,67
+348,425471,Redouane Halhal,495,Morocco,35,FirstHalf,Pass,Successful,26.6,67,28.9,94
+349,349932,Noussair Mazraoui,495,Morocco,35,FirstHalf,TakeOn,Unsuccessful,29.6,94.8,,
+244,371027,Tajon Buchanan,1160,Canada,35,FirstHalf,Tackle,Successful,70.4,5.2,,
+245,371027,Tajon Buchanan,1160,Canada,35,FirstHalf,BallRecovery,Successful,75.9,1.8,,
+246,371027,Tajon Buchanan,1160,Canada,35,FirstHalf,TakeOn,Unsuccessful,78.4,4.8,,
+350,349932,Noussair Mazraoui,495,Morocco,35,FirstHalf,Tackle,Successful,21.6,95.2,,
+249,397859,Alistair Johnston,1160,Canada,36,FirstHalf,Pass,Unsuccessful,87.3,0,90.9,33.6
+352,504830,Ayyoub Bouaddi,495,Morocco,36,FirstHalf,Aerial,Successful,9.1,66.4,,
+250,492688,Luc De Fougerolles,1160,Canada,36,FirstHalf,Aerial,Unsuccessful,90.9,33.6,,
+353,504830,Ayyoub Bouaddi,495,Morocco,36,FirstHalf,Clearance,Successful,9.1,66.4,33.1,76.8
+251,313012,Richie Laryea,1160,Canada,36,FirstHalf,Pass,Successful,67,15.1,74.7,2.8
+252,397859,Alistair Johnston,1160,Canada,36,FirstHalf,TakeOn,Unsuccessful,74.8,3.7,,
+354,433572,Bilal El Khannouss,495,Morocco,36,FirstHalf,Tackle,Unsuccessful,25.2,96.3,,
+253,484837,Niko Sigur,1160,Canada,36,FirstHalf,TakeOn,Unsuccessful,80,3,,
+355,349932,Noussair Mazraoui,495,Morocco,36,FirstHalf,Tackle,Unsuccessful,20,97,,
+254,397859,Alistair Johnston,1160,Canada,36,FirstHalf,Pass,Successful,77.5,2.4,80.7,6.9
+255,492688,Luc De Fougerolles,1160,Canada,36,FirstHalf,BallTouch,Successful,80.7,6.9,,
+256,397859,Alistair Johnston,1160,Canada,36,FirstHalf,BallTouch,Unsuccessful,76.1,6.9,,
+356,349932,Noussair Mazraoui,495,Morocco,36,FirstHalf,BallRecovery,Successful,25.2,82.7,,
+358,349932,Noussair Mazraoui,495,Morocco,36,FirstHalf,Foul,Successful,33.9,80,,
+257,474201,Moïse Bombito,1160,Canada,36,FirstHalf,Foul,Unsuccessful,66.1,20,,
+359,504830,Ayyoub Bouaddi,495,Morocco,37,FirstHalf,Pass,Successful,30.9,78.7,28.9,53.7
+360,486734,Neil El Aynaoui,495,Morocco,37,FirstHalf,Pass,Successful,29.5,54.2,28.2,76.5
+361,425471,Redouane Halhal,495,Morocco,37,FirstHalf,Pass,Successful,27.8,73.2,13.2,50.3
+362,136220,Yassine Bounou,495,Morocco,37,FirstHalf,Pass,Successful,13.4,47.2,26.2,24.3
+363,300359,Issa Diop,495,Morocco,37,FirstHalf,Pass,Successful,28.4,21.8,27.7,40.7
+364,486734,Neil El Aynaoui,495,Morocco,37,FirstHalf,Pass,Successful,28.5,39.5,35.5,3.8
+365,320834,Achraf Hakimi,495,Morocco,37,FirstHalf,Pass,Unsuccessful,35.5,3.8,39.5,5.8
+258,437419,Ali Ahmed,1160,Canada,37,FirstHalf,Interception,Successful,60.5,94.2,,
+367,320834,Achraf Hakimi,495,Morocco,37,FirstHalf,Pass,Successful,40.5,0,46.7,7
+369,317541,Brahim Díaz,495,Morocco,37,FirstHalf,Dispossessed,Successful,41.2,6.8,,
+261,351744,Stephen Eustaquio,1160,Canada,37,FirstHalf,Tackle,Successful,58.8,93.2,,
+370,317541,Brahim Díaz,495,Morocco,37,FirstHalf,TakeOn,Unsuccessful,41.5,7.5,,
+260,383855,Jonathan David,1160,Canada,37,FirstHalf,Tackle,Unsuccessful,58.5,92.5,,
+371,504830,Ayyoub Bouaddi,495,Morocco,37,FirstHalf,Dispossessed,Successful,48.2,12.6,,
+279,437419,Ali Ahmed,1160,Canada,37,FirstHalf,Tackle,Successful,51.8,87.4,,
+280,351744,Stephen Eustaquio,1160,Canada,37,FirstHalf,BallTouch,Successful,49,83.2,,
+417,504830,Ayyoub Bouaddi,495,Morocco,37,FirstHalf,BallTouch,Successful,46.4,13.3,,
+372,392361,Azzedine Ounahi,495,Morocco,37,FirstHalf,Foul,Successful,43.2,19.5,,
+263,484837,Niko Sigur,1160,Canada,37,FirstHalf,Foul,Unsuccessful,56.8,80.5,,
+373,320834,Achraf Hakimi,495,Morocco,37,FirstHalf,Pass,Successful,42.3,14.5,28.7,40.3
+374,486734,Neil El Aynaoui,495,Morocco,37,FirstHalf,Pass,Successful,33,43.3,32,71
+375,425471,Redouane Halhal,495,Morocco,37,FirstHalf,Pass,Successful,33.7,79.5,35.1,95.3
+376,349932,Noussair Mazraoui,495,Morocco,37,FirstHalf,Pass,Successful,35.1,95.3,28.7,72.5
+377,425471,Redouane Halhal,495,Morocco,38,FirstHalf,Pass,Successful,26.9,70.3,14.1,47.7
+378,136220,Yassine Bounou,495,Morocco,38,FirstHalf,Pass,Successful,13.5,46,23.4,23
+379,300359,Issa Diop,495,Morocco,38,FirstHalf,Pass,Successful,25.7,27.7,28.1,44.2
+380,486734,Neil El Aynaoui,495,Morocco,38,FirstHalf,Pass,Successful,28.1,44.2,37.3,33.7
+381,392361,Azzedine Ounahi,495,Morocco,38,FirstHalf,Pass,Successful,35.2,33,30,17.8
+382,300359,Issa Diop,495,Morocco,38,FirstHalf,Pass,Successful,30,17.8,30.2,38.2
+383,486734,Neil El Aynaoui,495,Morocco,38,FirstHalf,Pass,Unsuccessful,30.5,35.7,87.5,29.8
+266,313012,Richie Laryea,1160,Canada,38,FirstHalf,Foul,Successful,20.2,75,,
+384,320834,Achraf Hakimi,495,Morocco,38,FirstHalf,Foul,Unsuccessful,79.8,25,,
+385,320834,Achraf Hakimi,495,Morocco,39,FirstHalf,Card,Successful,0,0,,
+268,313012,Richie Laryea,1160,Canada,39,FirstHalf,Card,Successful,0,0,,
+269,137263,Maxime Crépeau,1160,Canada,40,FirstHalf,Pass,Unsuccessful,27.4,75.7,73.9,91.2
+386,320834,Achraf Hakimi,495,Morocco,40,FirstHalf,Aerial,Successful,26.1,8.8,,
+270,437419,Ali Ahmed,1160,Canada,40,FirstHalf,Aerial,Unsuccessful,73.9,91.2,,
+387,320834,Achraf Hakimi,495,Morocco,40,FirstHalf,Clearance,Successful,26.1,8.8,36.6,23.5
+388,486734,Neil El Aynaoui,495,Morocco,40,FirstHalf,Pass,Unsuccessful,35.2,25.8,63,60.7
+271,397859,Alistair Johnston,1160,Canada,40,FirstHalf,Dispossessed,Successful,34.2,36.3,,
+389,430982,Soufiane Rahimi,495,Morocco,40,FirstHalf,Tackle,Unsuccessful,65.8,63.7,,
+273,371027,Tajon Buchanan,1160,Canada,40,FirstHalf,TakeOn,Unsuccessful,37.3,25.4,,
+390,433572,Bilal El Khannouss,495,Morocco,40,FirstHalf,Tackle,Successful,62.8,74.6,,
+391,349932,Noussair Mazraoui,495,Morocco,40,FirstHalf,BallRecovery,Successful,57.4,80.3,,
+392,349932,Noussair Mazraoui,495,Morocco,40,FirstHalf,Pass,Successful,57.4,80.3,64.2,75.2
+393,433572,Bilal El Khannouss,495,Morocco,40,FirstHalf,TakeOn,Unsuccessful,63.9,72.8,,
+274,484837,Niko Sigur,1160,Canada,40,FirstHalf,Tackle,Successful,36.1,27.2,,
+275,484837,Niko Sigur,1160,Canada,40,FirstHalf,Foul,Successful,36.2,30.8,,
+394,433572,Bilal El Khannouss,495,Morocco,40,FirstHalf,Foul,Unsuccessful,63.8,69.2,,
+276,474201,Moïse Bombito,1160,Canada,40,FirstHalf,Pass,Successful,38.5,30.4,30.8,60.1
+277,492688,Luc De Fougerolles,1160,Canada,41,FirstHalf,Pass,Successful,41.3,39.1,42.8,23.4
+278,474201,Moïse Bombito,1160,Canada,41,FirstHalf,Pass,Unsuccessful,44,20.4,98.6,37.9
+395,136220,Yassine Bounou,495,Morocco,41,FirstHalf,KeeperPickup,Successful,1.7,60.5,,
+396,136220,Yassine Bounou,495,Morocco,41,FirstHalf,Pass,Successful,4.9,57.7,25,32.3
+397,300359,Issa Diop,495,Morocco,41,FirstHalf,Pass,Successful,25,32.3,31.2,9
+398,320834,Achraf Hakimi,495,Morocco,41,FirstHalf,Pass,Successful,31.2,9,28.2,36.5
+399,504830,Ayyoub Bouaddi,495,Morocco,41,FirstHalf,Pass,Successful,28.9,41.2,24.9,70.3
+400,425471,Redouane Halhal,495,Morocco,41,FirstHalf,Pass,Successful,24.9,71.5,11.7,48.7
+401,136220,Yassine Bounou,495,Morocco,41,FirstHalf,Pass,Successful,24.1,45.7,30,24
+402,300359,Issa Diop,495,Morocco,41,FirstHalf,Pass,Successful,30,24,23.9,45.2
+403,136220,Yassine Bounou,495,Morocco,41,FirstHalf,Pass,Successful,24.4,47,32.4,16
+404,300359,Issa Diop,495,Morocco,41,FirstHalf,Pass,Successful,32.4,18.3,22,42
+405,136220,Yassine Bounou,495,Morocco,42,FirstHalf,Pass,Successful,25.6,51.7,30.2,81.5
+406,425471,Redouane Halhal,495,Morocco,42,FirstHalf,Pass,Successful,30.2,81.5,31.5,96
+407,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,Pass,Successful,31.5,96,14.2,59.3
+408,136220,Yassine Bounou,495,Morocco,42,FirstHalf,Pass,Successful,14.4,54.5,26,23.2
+409,300359,Issa Diop,495,Morocco,42,FirstHalf,Pass,Successful,27.9,18.2,40,2.5
+410,320834,Achraf Hakimi,495,Morocco,42,FirstHalf,Pass,Successful,40.6,2.8,58.3,17
+411,317541,Brahim Díaz,495,Morocco,42,FirstHalf,Pass,Successful,54.2,25.3,45,26.5
+412,392361,Azzedine Ounahi,495,Morocco,42,FirstHalf,Pass,Successful,45,26.5,36.3,27.7
+413,486734,Neil El Aynaoui,495,Morocco,42,FirstHalf,Pass,Successful,36.7,28.5,32.1,64.5
+414,425471,Redouane Halhal,495,Morocco,42,FirstHalf,Pass,Successful,28,56.5,36,41.8
+415,486734,Neil El Aynaoui,495,Morocco,42,FirstHalf,Pass,Successful,36,41.8,25.2,23.8
+416,300359,Issa Diop,495,Morocco,42,FirstHalf,Pass,Successful,29.9,24.7,36.7,5.3
+418,392361,Azzedine Ounahi,495,Morocco,42,FirstHalf,Pass,Successful,34.5,16.2,41.9,22.3
+419,486734,Neil El Aynaoui,495,Morocco,42,FirstHalf,Dispossessed,Successful,38.4,21.6,,
+282,351744,Stephen Eustaquio,1160,Canada,42,FirstHalf,Tackle,Unsuccessful,61.6,78.4,,
+420,320834,Achraf Hakimi,495,Morocco,42,FirstHalf,Pass,Successful,40.3,3,27.7,28.3
+421,300359,Issa Diop,495,Morocco,42,FirstHalf,Pass,Successful,26.6,27.8,25.6,59.7
+422,425471,Redouane Halhal,495,Morocco,42,FirstHalf,Pass,Successful,25.8,60,31.9,86.8
+423,349932,Noussair Mazraoui,495,Morocco,42,FirstHalf,Pass,Successful,31.9,86.8,44.9,89
+424,317541,Brahim Díaz,495,Morocco,42,FirstHalf,Foul,Successful,53.7,70.8,,
+284,383855,Jonathan David,1160,Canada,42,FirstHalf,Foul,Unsuccessful,46.3,29.2,,
+285,383855,Jonathan David,1160,Canada,42,FirstHalf,Card,Successful,0,0,,
+425,320834,Achraf Hakimi,495,Morocco,43,FirstHalf,Pass,Successful,59.2,70.3,89.8,28.2
+426,300359,Issa Diop,495,Morocco,43,FirstHalf,Aerial,Successful,89.8,28.2,,
+286,371027,Tajon Buchanan,1160,Canada,43,FirstHalf,Aerial,Unsuccessful,10.2,71.8,,
+427,300359,Issa Diop,495,Morocco,43,FirstHalf,Pass,Unsuccessful,89.8,28.2,89.9,29.5
+294,371027,Tajon Buchanan,1160,Canada,43,FirstHalf,BallTouch,Successful,8.9,72.3,,
+287,492688,Luc De Fougerolles,1160,Canada,43,FirstHalf,Clearance,Successful,7.7,60,34.4,63
+288,383855,Jonathan David,1160,Canada,43,FirstHalf,Pass,Unsuccessful,34.8,63,37.9,69.1
+428,392361,Azzedine Ounahi,495,Morocco,43,FirstHalf,Pass,Successful,63.3,24.3,70.4,7.8
+429,300359,Issa Diop,495,Morocco,43,FirstHalf,Pass,Successful,70.4,7.8,63.3,8.8
+430,392361,Azzedine Ounahi,495,Morocco,43,FirstHalf,Pass,Unsuccessful,65.4,9.3,76.6,15.3
+290,492688,Luc De Fougerolles,1160,Canada,43,FirstHalf,Interception,Successful,23.4,84.7,,
+432,392361,Azzedine Ounahi,495,Morocco,43,FirstHalf,Pass,Successful,71.2,0,67.2,18.7
+433,320834,Achraf Hakimi,495,Morocco,44,FirstHalf,Pass,Successful,67.2,18.7,69.3,6.5
+434,392361,Azzedine Ounahi,495,Morocco,44,FirstHalf,BallTouch,Unsuccessful,69.3,6.5,,
+292,437419,Ali Ahmed,1160,Canada,44,FirstHalf,Foul,Successful,31.3,91,,
+435,392361,Azzedine Ounahi,495,Morocco,44,FirstHalf,Foul,Unsuccessful,68.7,9,,
+436,392361,Azzedine Ounahi,495,Morocco,44,FirstHalf,Card,Successful,0,0,,
+295,492688,Luc De Fougerolles,1160,Canada,44,FirstHalf,Pass,Unsuccessful,34.3,94.2,74.5,76.6
+437,300359,Issa Diop,495,Morocco,44,FirstHalf,Pass,Unsuccessful,28.1,23.2,62.4,0
+297,313012,Richie Laryea,1160,Canada,44,FirstHalf,Pass,Unsuccessful,45.9,100,69.3,96.1
+439,320834,Achraf Hakimi,495,Morocco,45,FirstHalf,Pass,Successful,29.3,6.5,35.1,23.7
+440,486734,Neil El Aynaoui,495,Morocco,45,FirstHalf,Pass,Unsuccessful,35.1,23.7,46.2,19.5
+298,351744,Stephen Eustaquio,1160,Canada,45,FirstHalf,BallTouch,Unsuccessful,52.6,57.1,,
+441,430982,Soufiane Rahimi,495,Morocco,45,FirstHalf,Pass,Successful,47.9,38.3,65.8,71.5
+442,433572,Bilal El Khannouss,495,Morocco,45,FirstHalf,BallRecovery,Successful,65.8,71.5,,
+443,433572,Bilal El Khannouss,495,Morocco,45,FirstHalf,Pass,Successful,67.6,71.8,70.6,61.5
+444,430982,Soufiane Rahimi,495,Morocco,45,FirstHalf,BallTouch,Unsuccessful,76.1,70.7,,
+300,371027,Tajon Buchanan,1160,Canada,45,FirstHalf,BallRecovery,Successful,24.5,7.2,,
+301,371027,Tajon Buchanan,1160,Canada,45,FirstHalf,Pass,Successful,24.4,7.2,32.5,18.4
+302,383855,Jonathan David,1160,Canada,45,FirstHalf,BallTouch,Unsuccessful,55.8,1.2,,
+446,349932,Noussair Mazraoui,495,Morocco,45,FirstHalf,Pass,Unsuccessful,44.9,100,65.2,94.7
+305,397859,Alistair Johnston,1160,Canada,45,FirstHalf,Pass,Unsuccessful,30.7,2.2,35.5,9.9
+447,486734,Neil El Aynaoui,495,Morocco,45,FirstHalf,Pass,Successful,63.5,92.3,62.4,73.5
+448,392361,Azzedine Ounahi,495,Morocco,45,FirstHalf,Foul,Successful,63.3,78.2,,
+306,383855,Jonathan David,1160,Canada,45,FirstHalf,Foul,Unsuccessful,36.7,21.8,,
+449,349932,Noussair Mazraoui,495,Morocco,46,FirstHalf,Pass,Successful,58.5,75.7,46.4,66
+450,425471,Redouane Halhal,495,Morocco,46,FirstHalf,Pass,Successful,45.8,65.5,43.6,30.7
+451,300359,Issa Diop,495,Morocco,46,FirstHalf,Pass,Successful,37,26.2,18.2,46.5
+452,136220,Yassine Bounou,495,Morocco,46,FirstHalf,Pass,Successful,25,54.5,28.1,73.2
+453,425471,Redouane Halhal,495,Morocco,46,FirstHalf,Pass,Successful,28.1,73.2,19.1,53.7
+454,136220,Yassine Bounou,495,Morocco,46,FirstHalf,Pass,Successful,26.9,47.7,29.3,75
+455,425471,Redouane Halhal,495,Morocco,46,FirstHalf,Pass,Successful,29.3,75,30.3,95.2
+456,349932,Noussair Mazraoui,495,Morocco,46,FirstHalf,Pass,Unsuccessful,30.3,95.2,38.9,100
+309,397859,Alistair Johnston,1160,Canada,46,FirstHalf,Pass,Successful,61.9,0,62.7,8.2
+310,351744,Stephen Eustaquio,1160,Canada,46,FirstHalf,Pass,Successful,62.8,8.5,61.4,1.9
+311,397859,Alistair Johnston,1160,Canada,46,FirstHalf,Pass,Successful,61.3,1.9,73.1,7.8
+312,371027,Tajon Buchanan,1160,Canada,46,FirstHalf,Aerial,Successful,73.1,7.8,,
+458,349932,Noussair Mazraoui,495,Morocco,46,FirstHalf,Aerial,Unsuccessful,26.9,92.2,,
+313,371027,Tajon Buchanan,1160,Canada,46,FirstHalf,Pass,Successful,73.1,7.8,76.2,25.3
+314,445292,Tani Oluwaseyi,1160,Canada,46,FirstHalf,Aerial,Successful,76.2,25.3,,
+459,486734,Neil El Aynaoui,495,Morocco,46,FirstHalf,Aerial,Unsuccessful,23.8,74.7,,
+315,445292,Tani Oluwaseyi,1160,Canada,46,FirstHalf,Pass,Unsuccessful,76.2,25.3,93.2,6
+460,425471,Redouane Halhal,495,Morocco,46,FirstHalf,BallRecovery,Successful,6.6,92.3,,
+461,425471,Redouane Halhal,495,Morocco,46,FirstHalf,Foul,Successful,5.2,95.8,,
+316,484837,Niko Sigur,1160,Canada,46,FirstHalf,Foul,Unsuccessful,94.8,4.3,,
+462,136220,Yassine Bounou,495,Morocco,47,FirstHalf,Pass,Unsuccessful,8.9,88.7,62.2,100
+318,397859,Alistair Johnston,1160,Canada,47,FirstHalf,Pass,Successful,32.1,0,33.1,7.6
+319,351744,Stephen Eustaquio,1160,Canada,47,FirstHalf,Pass,Unsuccessful,33.4,3.9,47.9,3.3
+464,486734,Neil El Aynaoui,495,Morocco,47,FirstHalf,BallRecovery,Successful,54.9,92,,
+465,486734,Neil El Aynaoui,495,Morocco,47,FirstHalf,TakeOn,Unsuccessful,55.6,94.4,,
+321,383855,Jonathan David,1160,Canada,47,FirstHalf,Tackle,Unsuccessful,44.4,5.6,,
+466,486734,Neil El Aynaoui,495,Morocco,47,FirstHalf,BallTouch,Successful,54.9,92,,
+323,397859,Alistair Johnston,1160,Canada,47,FirstHalf,Pass,Successful,46.2,0,92.5,2.4
+324,445292,Tani Oluwaseyi,1160,Canada,48,FirstHalf,TakeOn,Unsuccessful,95.9,6.6,,
+469,349932,Noussair Mazraoui,495,Morocco,48,FirstHalf,Clearance,Successful,6,74.3,62.2,80.5
+325,492688,Luc De Fougerolles,1160,Canada,48,FirstHalf,Pass,Successful,45.2,15.6,45.9,49.8
+326,474201,Moïse Bombito,1160,Canada,48,FirstHalf,Pass,Successful,45.9,49.8,53.7,48.7
+327,351744,Stephen Eustaquio,1160,Canada,48,FirstHalf,Pass,Successful,53.8,48.6,61.2,76.5
+328,313012,Richie Laryea,1160,Canada,48,FirstHalf,Pass,Successful,79.7,78.9,71.7,72.6
+329,351744,Stephen Eustaquio,1160,Canada,48,FirstHalf,Pass,Successful,72.4,73.6,82.4,96.1
+330,437419,Ali Ahmed,1160,Canada,48,FirstHalf,Pass,Unsuccessful,82.4,96.1,84,93.3
+470,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,Interception,Successful,16,6.7,,
+471,504830,Ayyoub Bouaddi,495,Morocco,48,FirstHalf,BallRecovery,Successful,14.2,17.5,,
+331,437419,Ali Ahmed,1160,Canada,48,FirstHalf,Challenge,Unsuccessful,80.8,82.9,,
+472,504830,Ayyoub Bouaddi,495,Morocco,48,FirstHalf,TakeOn,Successful,19.2,17.1,,
+473,504830,Ayyoub Bouaddi,495,Morocco,48,FirstHalf,Pass,Successful,19.4,9,31.3,3
+474,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,Pass,Successful,31.3,3.3,44.8,4.3
+332,474201,Moïse Bombito,1160,Canada,48,FirstHalf,Challenge,Unsuccessful,44.2,89.6,,
+475,392361,Azzedine Ounahi,495,Morocco,48,FirstHalf,TakeOn,Successful,55.8,10.4,,
+476,392361,Azzedine Ounahi,495,Morocco,48,FirstHalf,Pass,Successful,62.1,21,68.1,40.7
+477,317541,Brahim Díaz,495,Morocco,48,FirstHalf,Pass,Successful,69.4,41.8,73.5,70.2
+478,433572,Bilal El Khannouss,495,Morocco,48,FirstHalf,Pass,Successful,68.5,68,62.3,61.5
+479,486734,Neil El Aynaoui,495,Morocco,48,FirstHalf,Dispossessed,Successful,64.6,62.2,,
+334,445292,Tani Oluwaseyi,1160,Canada,48,FirstHalf,Tackle,Successful,35.4,37.8,,
+335,383855,Jonathan David,1160,Canada,48,FirstHalf,BallRecovery,Successful,34.4,44.2,,
+336,383855,Jonathan David,1160,Canada,48,FirstHalf,Pass,Successful,34.4,44.4,43.8,48
+337,351744,Stephen Eustaquio,1160,Canada,48,FirstHalf,BallTouch,Unsuccessful,43.8,48,,
+480,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,BallRecovery,Successful,57.7,48.8,,
+481,320834,Achraf Hakimi,495,Morocco,48,FirstHalf,Pass,Successful,57.7,48.8,57.3,74.2
+482,433572,Bilal El Khannouss,495,Morocco,48,FirstHalf,Pass,Successful,54,72.7,44,32
+483,300359,Issa Diop,495,Morocco,48,FirstHalf,Pass,Successful,44,32,67,6
+484,392361,Azzedine Ounahi,495,Morocco,49,FirstHalf,Pass,Successful,68.6,7.8,62.6,16.5
+485,504830,Ayyoub Bouaddi,495,Morocco,49,FirstHalf,Pass,Successful,62.1,17,60.6,36
+486,486734,Neil El Aynaoui,495,Morocco,49,FirstHalf,Pass,Successful,59.7,34.5,68,5.5
+487,392361,Azzedine Ounahi,495,Morocco,49,FirstHalf,Pass,Successful,68,5.5,62.1,17.7
+488,504830,Ayyoub Bouaddi,495,Morocco,49,FirstHalf,Pass,Successful,62.9,16.5,56.6,36.7
+489,486734,Neil El Aynaoui,495,Morocco,49,FirstHalf,Pass,Successful,55.7,40.3,49.5,70
+490,425471,Redouane Halhal,495,Morocco,49,FirstHalf,Pass,Successful,49.5,70,53.7,89.2
+491,349932,Noussair Mazraoui,495,Morocco,49,FirstHalf,Pass,Successful,45.5,89.7,28.7,52
+492,136220,Yassine Bounou,495,Morocco,49,FirstHalf,Pass,Successful,28.7,52,36.2,28.7
+493,300359,Issa Diop,495,Morocco,49,FirstHalf,Pass,Successful,38,25.7,57,3.5
+494,392361,Azzedine Ounahi,495,Morocco,49,FirstHalf,Pass,Successful,57,3.5,64.7,12.3
+495,320834,Achraf Hakimi,495,Morocco,49,FirstHalf,Pass,Successful,64.7,12.3,57.1,12.2
+496,392361,Azzedine Ounahi,495,Morocco,49,FirstHalf,Dispossessed,Successful,60.5,13.4,,
+340,437419,Ali Ahmed,1160,Canada,49,FirstHalf,Tackle,Unsuccessful,39.5,86.6,,
+497,392361,Azzedine Ounahi,495,Morocco,49,FirstHalf,BallTouch,Successful,59.9,15.2,,
+341,351744,Stephen Eustaquio,1160,Canada,49,FirstHalf,BallTouch,Successful,37,88.3,,
+499,320834,Achraf Hakimi,495,Morocco,49,FirstHalf,Pass,Successful,59.8,0,67.8,10.8
+500,433572,Bilal El Khannouss,495,Morocco,49,FirstHalf,Pass,Successful,67.7,11,63.6,4.7
+501,320834,Achraf Hakimi,495,Morocco,49,FirstHalf,Dispossessed,Successful,63.3,10.6,,
+343,437419,Ali Ahmed,1160,Canada,49,FirstHalf,Tackle,Unsuccessful,36.7,89.4,,
+502,504830,Ayyoub Bouaddi,495,Morocco,49,FirstHalf,Pass,Successful,55.4,25.7,39.8,18
+503,300359,Issa Diop,495,Morocco,49,FirstHalf,Pass,Successful,39.6,22,41.9,48.2
+504,425471,Redouane Halhal,495,Morocco,49,FirstHalf,Pass,Successful,41.9,48.2,39.8,22
+505,300359,Issa Diop,495,Morocco,49,FirstHalf,Pass,Successful,42,21.2,59,4.5
+506,433572,Bilal El Khannouss,495,Morocco,50,FirstHalf,Pass,Successful,59,4.5,67.3,12.7
+507,320834,Achraf Hakimi,495,Morocco,50,FirstHalf,Pass,Successful,67.3,12.7,60.6,15.8
+508,433572,Bilal El Khannouss,495,Morocco,50,FirstHalf,BallTouch,Unsuccessful,68.5,22.3,,
+344,492688,Luc De Fougerolles,1160,Canada,50,FirstHalf,Foul,Successful,32.8,74.8,,
+509,433572,Bilal El Khannouss,495,Morocco,50,FirstHalf,Foul,Unsuccessful,67.2,25.2,,
+510,433572,Bilal El Khannouss,495,Morocco,50,FirstHalf,Card,Successful,0,0,,
+345,137263,Maxime Crépeau,1160,Canada,50,FirstHalf,Pass,Unsuccessful,34.3,63.1,76.3,88.9
+511,320834,Achraf Hakimi,495,Morocco,50,FirstHalf,Aerial,Successful,23.7,11.1,,
+346,437419,Ali Ahmed,1160,Canada,50,FirstHalf,Aerial,Unsuccessful,76.3,88.9,,
+512,320834,Achraf Hakimi,495,Morocco,50,FirstHalf,Clearance,Successful,23.7,11.1,35,8
+347,351744,Stephen Eustaquio,1160,Canada,51,FirstHalf,Dispossessed,Successful,63.8,95.2,,
+513,317541,Brahim Díaz,495,Morocco,51,FirstHalf,Tackle,Successful,36.2,4.8,,
+349,,,1160,Canada,51,FirstHalf,End,Successful,0,0,,
+515,,,495,Morocco,51,FirstHalf,End,Successful,0,0,,
+350,,,1160,Canada,45,SecondHalf,Start,Successful,0,0,,
+516,,,495,Morocco,45,SecondHalf,Start,Successful,0,0,,
+517,392361,Azzedine Ounahi,495,Morocco,45,SecondHalf,Pass,Successful,50,49.8,29.3,63.8
+518,425471,Redouane Halhal,495,Morocco,45,SecondHalf,Pass,Successful,29.3,63.8,28.1,48.5
+519,486734,Neil El Aynaoui,495,Morocco,45,SecondHalf,Pass,Successful,29.9,46.2,31,21.2
+520,300359,Issa Diop,495,Morocco,45,SecondHalf,Pass,Successful,31,21.2,27.2,41.8
+521,486734,Neil El Aynaoui,495,Morocco,45,SecondHalf,Pass,Successful,27.2,41.8,28.4,12
+522,300359,Issa Diop,495,Morocco,45,SecondHalf,Pass,Successful,28.4,12,63,12.3
+523,320834,Achraf Hakimi,495,Morocco,45,SecondHalf,Aerial,Successful,63,12.3,,
+351,492688,Luc De Fougerolles,1160,Canada,45,SecondHalf,Aerial,Unsuccessful,37,87.7,,
+524,320834,Achraf Hakimi,495,Morocco,45,SecondHalf,Pass,Unsuccessful,63,12.3,67.9,32.5
+352,474201,Moïse Bombito,1160,Canada,45,SecondHalf,Pass,Unsuccessful,32.8,71.1,68.4,73.9
+525,300359,Issa Diop,495,Morocco,45,SecondHalf,Pass,Unsuccessful,27.9,24.2,48.3,39.2
+353,351744,Stephen Eustaquio,1160,Canada,45,SecondHalf,Pass,Successful,49,58.2,62.5,62.5
+354,383855,Jonathan David,1160,Canada,45,SecondHalf,Pass,Unsuccessful,62.8,62.7,68.1,69
+526,300359,Issa Diop,495,Morocco,45,SecondHalf,Pass,Successful,38.7,31.2,55.2,40.5
+527,430982,Soufiane Rahimi,495,Morocco,45,SecondHalf,Pass,Successful,55.2,40.5,55.1,6.2
+528,320834,Achraf Hakimi,495,Morocco,45,SecondHalf,Pass,Unsuccessful,56,5.2,59.5,10.2
+355,313012,Richie Laryea,1160,Canada,45,SecondHalf,BallTouch,Successful,34.2,97.2,,
+356,492688,Luc De Fougerolles,1160,Canada,45,SecondHalf,Clearance,Successful,26.7,96.3,26.9,100
+530,317541,Brahim Díaz,495,Morocco,45,SecondHalf,Pass,Successful,77.2,0,70.2,11.7
+531,486734,Neil El Aynaoui,495,Morocco,45,SecondHalf,Pass,Successful,70.2,11.7,72.9,2.2
+532,317541,Brahim Díaz,495,Morocco,45,SecondHalf,Pass,Successful,72.9,2.2,72.3,12.7
+533,486734,Neil El Aynaoui,495,Morocco,45,SecondHalf,Pass,Successful,73.8,12.2,74.9,3.3
+534,320834,Achraf Hakimi,495,Morocco,45,SecondHalf,Pass,Unsuccessful,74.9,3.3,64.3,18
+358,313012,Richie Laryea,1160,Canada,45,SecondHalf,BlockedPass,Successful,35.7,82,,
+359,445292,Tani Oluwaseyi,1160,Canada,45,SecondHalf,BallRecovery,Successful,43.2,73.2,,
+360,445292,Tani Oluwaseyi,1160,Canada,45,SecondHalf,Pass,Successful,43.2,73,49.8,63.7
+361,383855,Jonathan David,1160,Canada,45,SecondHalf,BallTouch,Unsuccessful,49.8,63.7,,
+535,425471,Redouane Halhal,495,Morocco,45,SecondHalf,Pass,Successful,41,37.5,65.4,86.7
+536,433572,Bilal El Khannouss,495,Morocco,45,SecondHalf,BallRecovery,Successful,65.4,86.7,,
+537,433572,Bilal El Khannouss,495,Morocco,45,SecondHalf,TakeOn,Unsuccessful,68.2,84.4,,
+362,397859,Alistair Johnston,1160,Canada,45,SecondHalf,Tackle,Successful,32.4,14.4,,
+363,397859,Alistair Johnston,1160,Canada,45,SecondHalf,BallRecovery,Successful,30.5,19.3,,
+364,397859,Alistair Johnston,1160,Canada,45,SecondHalf,Pass,Successful,30.5,18.3,44.8,17.7
+365,371027,Tajon Buchanan,1160,Canada,45,SecondHalf,Pass,Unsuccessful,43.9,1.6,45,1.8
+538,349932,Noussair Mazraoui,495,Morocco,45,SecondHalf,BlockedPass,Successful,55,98.2,,
+539,433572,Bilal El Khannouss,495,Morocco,45,SecondHalf,BallRecovery,Successful,53.7,83.3,,
+540,433572,Bilal El Khannouss,495,Morocco,45,SecondHalf,Pass,Successful,56.6,79.2,58.3,68
+541,392361,Azzedine Ounahi,495,Morocco,46,SecondHalf,Pass,Successful,51.3,60.3,73.4,6
+543,320834,Achraf Hakimi,495,Morocco,46,SecondHalf,TakeOn,Unsuccessful,88.5,10.1,,
+367,313012,Richie Laryea,1160,Canada,46,SecondHalf,Tackle,Successful,11.4,90,,
+545,320834,Achraf Hakimi,495,Morocco,46,SecondHalf,Pass,Successful,88.5,0,89.7,12.7
+546,317541,Brahim Díaz,495,Morocco,46,SecondHalf,Pass,Successful,89.7,12.7,90.1,4.7
+547,320834,Achraf Hakimi,495,Morocco,46,SecondHalf,Pass,Unsuccessful,94.4,3.8,94.4,6.8
+369,313012,Richie Laryea,1160,Canada,46,SecondHalf,Clearance,Successful,5.6,93.2,,
+549,320834,Achraf Hakimi,495,Morocco,46,SecondHalf,Pass,Successful,93,0,63.3,7.5
+550,486734,Neil El Aynaoui,495,Morocco,46,SecondHalf,Pass,Successful,63.3,7.5,45.6,54.2
+551,425471,Redouane Halhal,495,Morocco,46,SecondHalf,Pass,Successful,45.6,54.2,45.5,76
+552,349932,Noussair Mazraoui,495,Morocco,46,SecondHalf,Pass,Successful,45.5,76,59.2,95.5
+553,433572,Bilal El Khannouss,495,Morocco,46,SecondHalf,Pass,Successful,52.6,97.7,22.8,82.2
+554,349932,Noussair Mazraoui,495,Morocco,46,SecondHalf,Pass,Successful,22.8,82.2,15.1,55.5
+555,136220,Yassine Bounou,495,Morocco,46,SecondHalf,Pass,Successful,15.1,55.5,25.7,30.5
+556,300359,Issa Diop,495,Morocco,47,SecondHalf,Pass,Successful,26.6,26,37.1,6.3
+557,392361,Azzedine Ounahi,495,Morocco,47,SecondHalf,Pass,Successful,37.1,7.2,24.5,24.7
+558,300359,Issa Diop,495,Morocco,47,SecondHalf,Pass,Successful,24.3,25,30.8,3.8
+559,392361,Azzedine Ounahi,495,Morocco,47,SecondHalf,Pass,Unsuccessful,30.6,10.5,32.7,13.2
+371,437419,Ali Ahmed,1160,Canada,47,SecondHalf,BlockedPass,Successful,67.3,86.8,,
+372,445292,Tani Oluwaseyi,1160,Canada,47,SecondHalf,BallRecovery,Successful,71.3,73.6,,
+373,445292,Tani Oluwaseyi,1160,Canada,47,SecondHalf,Pass,Unsuccessful,82.8,71.2,83.9,70.3
+560,504830,Ayyoub Bouaddi,495,Morocco,47,SecondHalf,BallTouch,Successful,19.4,32.5,,
+374,383855,Jonathan David,1160,Canada,47,SecondHalf,Pass,Successful,86.6,64.9,91.5,68.1
+375,445292,Tani Oluwaseyi,1160,Canada,47,SecondHalf,Pass,Unsuccessful,92.1,68.2,92.3,66
+561,300359,Issa Diop,495,Morocco,47,SecondHalf,BlockedPass,Successful,7.7,34,,
+562,300359,Issa Diop,495,Morocco,47,SecondHalf,CornerAwarded,Unsuccessful,2.6,32,,
+376,445292,Tani Oluwaseyi,1160,Canada,47,SecondHalf,CornerAwarded,Successful,97.4,68,,
+377,351744,Stephen Eustaquio,1160,Canada,47,SecondHalf,Pass,Successful,99.5,99.5,96,78
+378,371027,Tajon Buchanan,1160,Canada,48,SecondHalf,Pass,Successful,96,78,88.7,88.3
+379,351744,Stephen Eustaquio,1160,Canada,48,SecondHalf,Pass,Successful,84.5,86.4,74.8,78.3
+380,437419,Ali Ahmed,1160,Canada,48,SecondHalf,Pass,Successful,73.9,77.5,68.6,52
+381,313012,Richie Laryea,1160,Canada,48,SecondHalf,Pass,Successful,67.6,47.1,73.7,26.4
+382,484837,Niko Sigur,1160,Canada,48,SecondHalf,Pass,Successful,73.7,26.4,89,46.9
+383,492688,Luc De Fougerolles,1160,Canada,48,SecondHalf,MissedShots,Successful,89,46.9,,
+564,300359,Issa Diop,495,Morocco,48,SecondHalf,Pass,Successful,4.4,43.5,25.8,6.3
+565,320834,Achraf Hakimi,495,Morocco,48,SecondHalf,Pass,Successful,25.2,11.3,53.6,8.5
+566,317541,Brahim Díaz,495,Morocco,48,SecondHalf,Pass,Successful,55.9,6.3,70.6,12.7
+567,430982,Soufiane Rahimi,495,Morocco,48,SecondHalf,Foul,Successful,87.2,9.7,,
+385,492688,Luc De Fougerolles,1160,Canada,48,SecondHalf,Foul,Unsuccessful,12.7,90.4,,
+386,492688,Luc De Fougerolles,1160,Canada,48,SecondHalf,Card,Successful,0,0,,
+568,320834,Achraf Hakimi,495,Morocco,49,SecondHalf,Pass,Successful,89.8,11.2,81.9,47.7
+569,392361,Azzedine Ounahi,495,Morocco,49,SecondHalf,Goal,Successful,81.9,47.7,,
+387,351744,Stephen Eustaquio,1160,Canada,50,SecondHalf,Pass,Successful,50.2,49.8,52,48.4
+388,484837,Niko Sigur,1160,Canada,50,SecondHalf,Pass,Successful,49.5,48.1,38.7,40.9
+389,474201,Moïse Bombito,1160,Canada,50,SecondHalf,Pass,Successful,38.6,41.1,45,52.8
+390,351744,Stephen Eustaquio,1160,Canada,50,SecondHalf,Pass,Successful,45,53.1,34.1,72.1
+391,492688,Luc De Fougerolles,1160,Canada,51,SecondHalf,Pass,Successful,42.2,79,49.3,94.5
+392,313012,Richie Laryea,1160,Canada,51,SecondHalf,BallTouch,Unsuccessful,58.8,97.2,,
+572,320834,Achraf Hakimi,495,Morocco,51,SecondHalf,Pass,Successful,37.6,0,32.4,13.8
+573,504830,Ayyoub Bouaddi,495,Morocco,51,SecondHalf,Pass,Successful,36.9,16.5,48.3,48
+574,392361,Azzedine Ounahi,495,Morocco,51,SecondHalf,TakeOn,Successful,45.3,49.4,,
+394,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,Challenge,Unsuccessful,54.7,50.6,,
+575,392361,Azzedine Ounahi,495,Morocco,51,SecondHalf,Pass,Successful,42.6,46.8,34.5,69.8
+576,349932,Noussair Mazraoui,495,Morocco,51,SecondHalf,Pass,Successful,35.3,70.7,41.7,95.7
+577,433572,Bilal El Khannouss,495,Morocco,51,SecondHalf,Pass,Unsuccessful,40.6,94.5,42.6,75.3
+396,484837,Niko Sigur,1160,Canada,51,SecondHalf,BallRecovery,Successful,57.6,30,,
+397,484837,Niko Sigur,1160,Canada,51,SecondHalf,Pass,Successful,55.6,32.8,56,44.4
+398,351744,Stephen Eustaquio,1160,Canada,51,SecondHalf,Pass,Unsuccessful,56.9,46.5,66.3,58.5
+578,300359,Issa Diop,495,Morocco,51,SecondHalf,Interception,Successful,33.7,41.5,,
+399,351744,Stephen Eustaquio,1160,Canada,51,SecondHalf,Pass,Successful,59.4,67.2,64.4,90.7
+400,313012,Richie Laryea,1160,Canada,51,SecondHalf,Pass,Successful,65.8,96.4,61.5,85.6
+401,351744,Stephen Eustaquio,1160,Canada,51,SecondHalf,Pass,Successful,61.5,85.8,52,69.9
+402,492688,Luc De Fougerolles,1160,Canada,51,SecondHalf,Pass,Successful,53.5,59.4,53.2,31
+403,397859,Alistair Johnston,1160,Canada,51,SecondHalf,Pass,Successful,52.8,28.2,68.3,4.6
+404,371027,Tajon Buchanan,1160,Canada,51,SecondHalf,Pass,Successful,68.3,4.6,67.4,17.5
+405,383855,Jonathan David,1160,Canada,51,SecondHalf,TakeOn,Unsuccessful,91.2,33.9,,
+580,349932,Noussair Mazraoui,495,Morocco,51,SecondHalf,Clearance,Successful,8.1,65.2,28.1,30.3
+406,313012,Richie Laryea,1160,Canada,51,SecondHalf,Pass,Unsuccessful,78.4,59.7,86.4,57.7
+11588,430982,Soufiane Rahimi,495,Morocco,52,SecondHalf,OffsideGiven,Unsuccessful,60.1,11.8,,
+581,300359,Issa Diop,495,Morocco,52,SecondHalf,Aerial,Successful,13.6,42.3,,
+407,445292,Tani Oluwaseyi,1160,Canada,52,SecondHalf,Aerial,Unsuccessful,86.4,57.7,,
+582,300359,Issa Diop,495,Morocco,52,SecondHalf,Clearance,Successful,13.6,42.3,15.6,44.3
+408,445292,Tani Oluwaseyi,1160,Canada,52,SecondHalf,BallTouch,Successful,85.9,57.7,,
+583,317541,Brahim Díaz,495,Morocco,52,SecondHalf,Dispossessed,Successful,23.2,30.8,,
+409,351744,Stephen Eustaquio,1160,Canada,52,SecondHalf,Tackle,Unsuccessful,76.8,69.8,,
+584,317541,Brahim Díaz,495,Morocco,52,SecondHalf,BallTouch,Successful,23.7,28,,
+579,320834,Achraf Hakimi,495,Morocco,52,SecondHalf,BallRecovery,Successful,24.2,12.1,,
+585,320834,Achraf Hakimi,495,Morocco,52,SecondHalf,BallTouch,Unsuccessful,80,23.5,,
+411,437419,Ali Ahmed,1160,Canada,52,SecondHalf,BallRecovery,Successful,21.4,75.9,,
+412,437419,Ali Ahmed,1160,Canada,52,SecondHalf,Pass,Successful,43.8,73.6,48.2,95.5
+413,313012,Richie Laryea,1160,Canada,52,SecondHalf,BallTouch,Unsuccessful,66,97.8,,
+587,320834,Achraf Hakimi,495,Morocco,52,SecondHalf,Pass,Successful,28.8,0,28.1,15
+588,504830,Ayyoub Bouaddi,495,Morocco,52,SecondHalf,OffsidePass,Successful,28.1,15,60.1,11.8
+415,474201,Moïse Bombito,1160,Canada,52,SecondHalf,OffsideProvoked,Successful,44.2,82.5,,
+416,492688,Luc De Fougerolles,1160,Canada,53,SecondHalf,Pass,Successful,35.6,81,43.3,81
+417,351744,Stephen Eustaquio,1160,Canada,53,SecondHalf,Pass,Successful,43.3,81,35.2,80.2
+418,492688,Luc De Fougerolles,1160,Canada,53,SecondHalf,Pass,Successful,44.3,70.3,53.6,71.8
+419,351744,Stephen Eustaquio,1160,Canada,53,SecondHalf,Dispossessed,Successful,57.8,80.8,,
+589,430982,Soufiane Rahimi,495,Morocco,53,SecondHalf,Tackle,Successful,44,20.4,,
+590,317541,Brahim Díaz,495,Morocco,53,SecondHalf,BallRecovery,Successful,33.4,10,,
+591,317541,Brahim Díaz,495,Morocco,53,SecondHalf,Pass,Successful,33.4,10,35.6,29.3
+592,504830,Ayyoub Bouaddi,495,Morocco,53,SecondHalf,Pass,Successful,40.7,27.5,58.3,28.3
+593,392361,Azzedine Ounahi,495,Morocco,53,SecondHalf,Pass,Successful,44.3,32.5,32.1,66
+594,425471,Redouane Halhal,495,Morocco,53,SecondHalf,Pass,Successful,30.5,65,28.4,27.2
+595,300359,Issa Diop,495,Morocco,53,SecondHalf,Pass,Successful,28.4,26,31.4,6.2
+596,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Pass,Successful,31.4,6.2,20.2,28.7
+597,300359,Issa Diop,495,Morocco,53,SecondHalf,Pass,Successful,22.1,31.7,25.2,6.3
+598,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Pass,Successful,25.2,6.3,35.1,3.8
+599,504830,Ayyoub Bouaddi,495,Morocco,53,SecondHalf,Pass,Successful,35.1,3.8,34.8,20
+600,392361,Azzedine Ounahi,495,Morocco,53,SecondHalf,Pass,Successful,34.8,20,22.5,14.7
+601,320834,Achraf Hakimi,495,Morocco,53,SecondHalf,Pass,Successful,22.5,14.7,20.9,43.2
+602,486734,Neil El Aynaoui,495,Morocco,53,SecondHalf,Pass,Successful,21.6,43.5,26.9,89
+603,349932,Noussair Mazraoui,495,Morocco,53,SecondHalf,Pass,Successful,27.2,87.7,14.1,73.5
+604,425471,Redouane Halhal,495,Morocco,54,SecondHalf,Pass,Successful,13.7,72.8,4.5,46
+605,136220,Yassine Bounou,495,Morocco,54,SecondHalf,Pass,Successful,4.5,46,11.1,16
+606,300359,Issa Diop,495,Morocco,54,SecondHalf,Pass,Unsuccessful,11.1,16,15.3,14.7
+421,445292,Tani Oluwaseyi,1160,Canada,54,SecondHalf,BallTouch,Successful,85.2,87.1,,
+607,317541,Brahim Díaz,495,Morocco,54,SecondHalf,Pass,Unsuccessful,28,12.7,30.8,8.7
+422,313012,Richie Laryea,1160,Canada,54,SecondHalf,BlockedPass,Successful,69.2,91.3,,
+423,313012,Richie Laryea,1160,Canada,54,SecondHalf,BallRecovery,Successful,74.1,82.8,,
+424,313012,Richie Laryea,1160,Canada,54,SecondHalf,Pass,Successful,77.6,79.6,88.8,80.2
+425,445292,Tani Oluwaseyi,1160,Canada,54,SecondHalf,Pass,Unsuccessful,90.7,80.1,88.5,60.1
+608,504830,Ayyoub Bouaddi,495,Morocco,54,SecondHalf,Pass,Successful,11.5,40.8,11.7,33.8
+609,486734,Neil El Aynaoui,495,Morocco,54,SecondHalf,BallRecovery,Successful,12.3,32.5,,
+610,486734,Neil El Aynaoui,495,Morocco,54,SecondHalf,Pass,Successful,12.3,32.5,22.8,10
+611,320834,Achraf Hakimi,495,Morocco,54,SecondHalf,Pass,Unsuccessful,25.7,6.7,39.8,26.8
+438,484837,Niko Sigur,1160,Canada,54,SecondHalf,BallTouch,Successful,63.5,64.1,,
+612,317541,Brahim Díaz,495,Morocco,54,SecondHalf,Pass,Successful,65.6,36.3,91.3,26.3
+613,430982,Soufiane Rahimi,495,Morocco,54,SecondHalf,Pass,Unsuccessful,91.3,26.3,90.9,31.7
+426,474201,Moïse Bombito,1160,Canada,54,SecondHalf,BlockedPass,Successful,9.1,68.3,,
+614,430982,Soufiane Rahimi,495,Morocco,54,SecondHalf,CornerAwarded,Successful,97.2,26.6,,
+427,474201,Moïse Bombito,1160,Canada,54,SecondHalf,CornerAwarded,Unsuccessful,2.8,73.4,,
+615,320834,Achraf Hakimi,495,Morocco,55,SecondHalf,Pass,Unsuccessful,99.5,0.5,93.3,31.3
+428,437419,Ali Ahmed,1160,Canada,55,SecondHalf,BallTouch,Successful,5.1,71.7,,
+616,320834,Achraf Hakimi,495,Morocco,55,SecondHalf,Pass,Unsuccessful,86.1,9.3,100,97.2
+430,137263,Maxime Crépeau,1160,Canada,55,SecondHalf,Pass,Successful,3.9,46.3,13.2,43.3
+431,474201,Moïse Bombito,1160,Canada,55,SecondHalf,Pass,Successful,35.2,28.9,27.7,52.8
+432,492688,Luc De Fougerolles,1160,Canada,55,SecondHalf,Pass,Successful,29.5,53.5,28.7,30.3
+433,474201,Moïse Bombito,1160,Canada,55,SecondHalf,Pass,Successful,28.9,33.9,28.2,48.4
+434,492688,Luc De Fougerolles,1160,Canada,55,SecondHalf,Pass,Successful,35.5,62.4,43.9,80.2
+435,351744,Stephen Eustaquio,1160,Canada,55,SecondHalf,Pass,Successful,42.8,79.3,33.1,67.2
+436,492688,Luc De Fougerolles,1160,Canada,56,SecondHalf,Pass,Successful,42.9,78.1,47.6,94
+437,351744,Stephen Eustaquio,1160,Canada,56,SecondHalf,Pass,Unsuccessful,47.6,94,51.4,94.5
+618,317541,Brahim Díaz,495,Morocco,56,SecondHalf,BlockedPass,Successful,48.6,5.5,,
+440,313012,Richie Laryea,1160,Canada,56,SecondHalf,Pass,Successful,54.1,100,65.4,98.2
+441,351744,Stephen Eustaquio,1160,Canada,56,SecondHalf,Pass,Successful,69.3,96.4,62,96.3
+442,313012,Richie Laryea,1160,Canada,56,SecondHalf,Pass,Successful,62.2,96.3,60,84.7
+443,484837,Niko Sigur,1160,Canada,56,SecondHalf,Pass,Successful,60,84.6,60.2,95.8
+444,313012,Richie Laryea,1160,Canada,56,SecondHalf,Pass,Successful,59.8,96.6,46.8,92.8
+445,492688,Luc De Fougerolles,1160,Canada,56,SecondHalf,Pass,Successful,44.9,83.8,47.9,51.9
+446,474201,Moïse Bombito,1160,Canada,56,SecondHalf,Pass,Successful,51.7,43.9,66.7,2.8
+447,371027,Tajon Buchanan,1160,Canada,56,SecondHalf,Pass,Unsuccessful,67.5,4.8,60.8,23.8
+622,430982,Soufiane Rahimi,495,Morocco,56,SecondHalf,BallRecovery,Successful,35.2,72.7,,
+623,430982,Soufiane Rahimi,495,Morocco,56,SecondHalf,Pass,Unsuccessful,35.2,72.7,57.6,89.3
+448,474201,Moïse Bombito,1160,Canada,56,SecondHalf,Pass,Successful,41,15.7,24.3,42.3
+449,137263,Maxime Crépeau,1160,Canada,56,SecondHalf,BallRecovery,Successful,23.7,43,,
+450,137263,Maxime Crépeau,1160,Canada,56,SecondHalf,Pass,Successful,21.9,61,60.4,89.4
+451,437419,Ali Ahmed,1160,Canada,56,SecondHalf,Aerial,Successful,60.4,89.4,,
+624,320834,Achraf Hakimi,495,Morocco,56,SecondHalf,Aerial,Unsuccessful,39.6,10.6,,
+452,437419,Ali Ahmed,1160,Canada,56,SecondHalf,Pass,Unsuccessful,60.4,89.4,68.5,77.7
+625,300359,Issa Diop,495,Morocco,56,SecondHalf,Pass,Successful,32.2,28.8,39.8,23
+626,504830,Ayyoub Bouaddi,495,Morocco,56,SecondHalf,Pass,Unsuccessful,39.8,23,54,34
+453,484837,Niko Sigur,1160,Canada,56,SecondHalf,Pass,Unsuccessful,46.8,63.3,68.5,66.6
+627,300359,Issa Diop,495,Morocco,56,SecondHalf,Clearance,Successful,23.8,25.8,34.5,38.2
+628,486734,Neil El Aynaoui,495,Morocco,56,SecondHalf,Pass,Unsuccessful,34.1,35.5,53.7,33
+454,492688,Luc De Fougerolles,1160,Canada,56,SecondHalf,Pass,Successful,47.2,64.3,49.1,63.4
+455,484837,Niko Sigur,1160,Canada,56,SecondHalf,Pass,Unsuccessful,48.1,63.9,74.7,49.2
+629,425471,Redouane Halhal,495,Morocco,56,SecondHalf,BallRecovery,Successful,22.2,60.2,,
+630,425471,Redouane Halhal,495,Morocco,56,SecondHalf,Pass,Successful,22.2,60.2,6.7,53
+631,136220,Yassine Bounou,495,Morocco,56,SecondHalf,Pass,Unsuccessful,6.7,53,56.9,31
+456,492688,Luc De Fougerolles,1160,Canada,57,SecondHalf,Aerial,Successful,43.1,69,,
+632,430982,Soufiane Rahimi,495,Morocco,57,SecondHalf,Aerial,Unsuccessful,56.9,31,,
+457,492688,Luc De Fougerolles,1160,Canada,57,SecondHalf,Pass,Unsuccessful,43.1,69,47.6,60.5
+633,430982,Soufiane Rahimi,495,Morocco,57,SecondHalf,BallTouch,Successful,56.9,31,,
+634,320834,Achraf Hakimi,495,Morocco,57,SecondHalf,BallTouch,Unsuccessful,58.4,8.5,,
+458,313012,Richie Laryea,1160,Canada,57,SecondHalf,Foul,Successful,33.4,93.6,,
+635,320834,Achraf Hakimi,495,Morocco,57,SecondHalf,Foul,Unsuccessful,66.6,6.4,,
+459,313012,Richie Laryea,1160,Canada,57,SecondHalf,Pass,Successful,26.5,97.3,33,86.1
+460,351744,Stephen Eustaquio,1160,Canada,57,SecondHalf,Pass,Successful,33.6,85.2,27.2,62.8
+461,492688,Luc De Fougerolles,1160,Canada,57,SecondHalf,Pass,Successful,30.5,68.5,37.6,89.5
+462,313012,Richie Laryea,1160,Canada,57,SecondHalf,Pass,Successful,39.1,92.1,97.7,98.5
+463,437419,Ali Ahmed,1160,Canada,57,SecondHalf,Pass,Unsuccessful,97.6,98.5,95,91.9
+636,504830,Ayyoub Bouaddi,495,Morocco,57,SecondHalf,BallTouch,Successful,4.3,10.8,,
+464,437419,Ali Ahmed,1160,Canada,57,SecondHalf,CornerAwarded,Successful,98.2,89.4,,
+637,504830,Ayyoub Bouaddi,495,Morocco,57,SecondHalf,CornerAwarded,Unsuccessful,1.8,10.5,,
+465,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,Pass,Successful,99.5,99.5,95.7,35.1
+466,492688,Luc De Fougerolles,1160,Canada,58,SecondHalf,Pass,Unsuccessful,95.7,35.1,95.8,39
+638,349932,Noussair Mazraoui,495,Morocco,58,SecondHalf,Clearance,Successful,3.2,60.8,2.2,74
+639,425471,Redouane Halhal,495,Morocco,58,SecondHalf,Clearance,Successful,2.2,74,14.2,100
+468,397859,Alistair Johnston,1160,Canada,58,SecondHalf,Pass,Unsuccessful,90.6,0,95.1,34.5
+641,349932,Noussair Mazraoui,495,Morocco,58,SecondHalf,Clearance,Successful,6.3,68.3,22.5,60.3
+469,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,Pass,Successful,82,37.9,84.6,4.5
+470,397859,Alistair Johnston,1160,Canada,58,SecondHalf,Pass,Successful,84.6,4.5,73,17.8
+471,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,Pass,Unsuccessful,73.2,17.8,88.8,16.2
+642,433572,Bilal El Khannouss,495,Morocco,58,SecondHalf,BallRecovery,Successful,10.9,88,,
+643,433572,Bilal El Khannouss,495,Morocco,58,SecondHalf,Pass,Unsuccessful,4.3,97.5,33,86
+472,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,BallRecovery,Successful,66.8,15,,
+473,351744,Stephen Eustaquio,1160,Canada,58,SecondHalf,Pass,Successful,66.8,15,71.3,7.3
+474,397859,Alistair Johnston,1160,Canada,58,SecondHalf,Pass,Successful,71.3,7.3,71.5,16.8
+475,474201,Moïse Bombito,1160,Canada,58,SecondHalf,Pass,Unsuccessful,71.4,16.9,74.4,16.3
+644,486734,Neil El Aynaoui,495,Morocco,58,SecondHalf,BlockedPass,Successful,25.6,83.7,,
+11481,371027,Tajon Buchanan,1160,Canada,59,SecondHalf,OffsideGiven,Unsuccessful,78.8,23.9,,
+477,484837,Niko Sigur,1160,Canada,59,SecondHalf,Pass,Successful,74.4,0,59.5,12.1
+478,474201,Moïse Bombito,1160,Canada,59,SecondHalf,Pass,Successful,55.1,18.6,30.4,45.7
+479,137263,Maxime Crépeau,1160,Canada,59,SecondHalf,Pass,Successful,32.5,40.6,69.6,4.9
+480,397859,Alistair Johnston,1160,Canada,59,SecondHalf,Aerial,Successful,69.6,4.9,,
+646,349932,Noussair Mazraoui,495,Morocco,59,SecondHalf,Aerial,Unsuccessful,30.4,95.1,,
+481,397859,Alistair Johnston,1160,Canada,59,SecondHalf,OffsidePass,Successful,69.6,4.9,78.8,23.9
+647,300359,Issa Diop,495,Morocco,59,SecondHalf,OffsideProvoked,Successful,26.6,58.9,,
+648,425471,Redouane Halhal,495,Morocco,60,SecondHalf,Pass,Successful,23.7,75.5,10.4,55.5
+649,136220,Yassine Bounou,495,Morocco,60,SecondHalf,Pass,Successful,10.4,55.5,21,83
+650,425471,Redouane Halhal,495,Morocco,60,SecondHalf,Pass,Successful,21,83,7.5,60.3
+651,136220,Yassine Bounou,495,Morocco,60,SecondHalf,Pass,Unsuccessful,7.5,60.3,58.1,58.5
+482,492688,Luc De Fougerolles,1160,Canada,60,SecondHalf,Pass,Successful,41,43.2,51.9,42.9
+483,351744,Stephen Eustaquio,1160,Canada,60,SecondHalf,BallRecovery,Successful,52.4,42.6,,
+484,351744,Stephen Eustaquio,1160,Canada,60,SecondHalf,Pass,Successful,52.4,42.6,61.6,29.4
+485,371027,Tajon Buchanan,1160,Canada,60,SecondHalf,Pass,Successful,62.5,28.6,59.2,33.6
+486,484837,Niko Sigur,1160,Canada,60,SecondHalf,Pass,Successful,59.1,33.6,65.7,38.5
+487,383855,Jonathan David,1160,Canada,60,SecondHalf,Pass,Unsuccessful,66.4,39,65.3,40
+653,504830,Ayyoub Bouaddi,495,Morocco,60,SecondHalf,Pass,Unsuccessful,31.4,60.2,68,32.5
+488,313012,Richie Laryea,1160,Canada,60,SecondHalf,Pass,Successful,24.6,60.7,15.8,44.1
+489,137263,Maxime Crépeau,1160,Canada,60,SecondHalf,Pass,Successful,18.1,36.9,31.9,4.9
+490,397859,Alistair Johnston,1160,Canada,60,SecondHalf,Pass,Successful,31.2,4.3,26.4,13.6
+491,474201,Moïse Bombito,1160,Canada,60,SecondHalf,Pass,Successful,26.1,14.5,30.2,24.1
+492,484837,Niko Sigur,1160,Canada,60,SecondHalf,Pass,Successful,28,23.2,14.7,46.8
+493,137263,Maxime Crépeau,1160,Canada,60,SecondHalf,Pass,Successful,15.1,48.9,21.8,60
+494,492688,Luc De Fougerolles,1160,Canada,60,SecondHalf,Pass,Successful,20.4,59.7,20.2,29.5
+495,474201,Moïse Bombito,1160,Canada,60,SecondHalf,Pass,Successful,32.7,22,29.6,14.7
+496,397859,Alistair Johnston,1160,Canada,60,SecondHalf,Pass,Successful,28.7,15.4,22.5,45
+497,492688,Luc De Fougerolles,1160,Canada,61,SecondHalf,Pass,Successful,25.9,52,35.7,81.9
+498,484837,Niko Sigur,1160,Canada,61,SecondHalf,Pass,Successful,46,58.8,44.5,63.7
+499,492688,Luc De Fougerolles,1160,Canada,61,SecondHalf,Pass,Successful,46.1,60.6,46.3,38.5
+500,474201,Moïse Bombito,1160,Canada,61,SecondHalf,Pass,Successful,53.5,33.6,70.5,44.1
+501,445292,Tani Oluwaseyi,1160,Canada,61,SecondHalf,BallTouch,Unsuccessful,70.6,44.2,,
+654,136220,Yassine Bounou,495,Morocco,61,SecondHalf,KeeperPickup,Successful,8,33.8,,
+655,136220,Yassine Bounou,495,Morocco,61,SecondHalf,Pass,Successful,10.3,27.2,34.6,6.7
+656,320834,Achraf Hakimi,495,Morocco,61,SecondHalf,Pass,Successful,34.6,6.7,42.9,17.3
+657,392361,Azzedine Ounahi,495,Morocco,61,SecondHalf,Dispossessed,Successful,42.4,11.2,,
+502,445292,Tani Oluwaseyi,1160,Canada,61,SecondHalf,Tackle,Unsuccessful,57.6,88.8,,
+658,392361,Azzedine Ounahi,495,Morocco,61,SecondHalf,BallTouch,Successful,42,8.7,,
+503,445292,Tani Oluwaseyi,1160,Canada,61,SecondHalf,Dispossessed,Successful,65.7,90.6,,
+659,504830,Ayyoub Bouaddi,495,Morocco,61,SecondHalf,Tackle,Successful,34.3,9.3,,
+660,504830,Ayyoub Bouaddi,495,Morocco,61,SecondHalf,Foul,Successful,34.2,8.2,,
+504,445292,Tani Oluwaseyi,1160,Canada,61,SecondHalf,Foul,Unsuccessful,65.8,91.8,,
+661,433572,Bilal El Khannouss,495,Morocco,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+662,476110,Chemsdine Talbi,495,Morocco,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+663,504830,Ayyoub Bouaddi,495,Morocco,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+664,248144,Sofyan Amrabat,495,Morocco,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+505,445292,Tani Oluwaseyi,1160,Canada,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+506,273229,Cyle Larin,1160,Canada,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+665,248144,Sofyan Amrabat,495,Morocco,62,SecondHalf,Pass,Successful,34.3,10.8,26.9,3.3
+666,320834,Achraf Hakimi,495,Morocco,62,SecondHalf,Pass,Successful,28.4,5,9.1,15.5
+667,300359,Issa Diop,495,Morocco,62,SecondHalf,Pass,Successful,10.9,8.8,41.5,5.5
+668,392361,Azzedine Ounahi,495,Morocco,62,SecondHalf,Pass,Successful,41.5,5.5,58.1,7
+669,317541,Brahim Díaz,495,Morocco,62,SecondHalf,Pass,Successful,58.1,7,69.4,21.5
+670,430982,Soufiane Rahimi,495,Morocco,62,SecondHalf,Pass,Successful,84.4,30,74.1,72.2
+671,476110,Chemsdine Talbi,495,Morocco,62,SecondHalf,Pass,Successful,67,94.3,59,77.8
+672,349932,Noussair Mazraoui,495,Morocco,63,SecondHalf,Pass,Successful,72.7,85.8,72.9,98
+673,476110,Chemsdine Talbi,495,Morocco,63,SecondHalf,Pass,Successful,72.9,96.2,67.7,79.5
+674,392361,Azzedine Ounahi,495,Morocco,63,SecondHalf,Pass,Successful,77.2,81.5,86.9,94.3
+508,371027,Tajon Buchanan,1160,Canada,63,SecondHalf,Challenge,Unsuccessful,12.9,8.2,,
+675,349932,Noussair Mazraoui,495,Morocco,63,SecondHalf,TakeOn,Successful,85.9,91.6,,
+676,349932,Noussair Mazraoui,495,Morocco,63,SecondHalf,Pass,Unsuccessful,85,86.8,88.5,44.7
+509,492688,Luc De Fougerolles,1160,Canada,63,SecondHalf,Clearance,Successful,9.1,52.6,25.5,76
+677,320834,Achraf Hakimi,495,Morocco,63,SecondHalf,Pass,Successful,71.8,29.7,84.3,14.3
+678,317541,Brahim Díaz,495,Morocco,63,SecondHalf,Pass,Successful,85.5,12.8,90.4,22.2
+679,320834,Achraf Hakimi,495,Morocco,63,SecondHalf,Pass,Unsuccessful,90.4,22.2,85.4,39
+510,492688,Luc De Fougerolles,1160,Canada,63,SecondHalf,Clearance,Successful,12.5,67.5,58.1,61.3
+680,425471,Redouane Halhal,495,Morocco,63,SecondHalf,Pass,Successful,34.6,43.2,10.2,45.5
+681,136220,Yassine Bounou,495,Morocco,63,SecondHalf,Pass,Successful,10.2,45.5,25.6,15
+682,300359,Issa Diop,495,Morocco,63,SecondHalf,Pass,Successful,25.6,15,29.2,29.8
+683,248144,Sofyan Amrabat,495,Morocco,63,SecondHalf,Pass,Successful,29.2,29.8,40.9,11
+684,320834,Achraf Hakimi,495,Morocco,63,SecondHalf,Pass,Successful,40.9,11,57.7,30.7
+685,430982,Soufiane Rahimi,495,Morocco,63,SecondHalf,Pass,Successful,57.7,30.7,74.4,20.7
+686,317541,Brahim Díaz,495,Morocco,63,SecondHalf,Pass,Successful,89.2,25.2,86.9,40
+687,320834,Achraf Hakimi,495,Morocco,63,SecondHalf,BallTouch,Successful,86.9,40,,
+511,484837,Niko Sigur,1160,Canada,63,SecondHalf,Clearance,Successful,21,62.8,44.4,52.6
+688,425471,Redouane Halhal,495,Morocco,63,SecondHalf,Pass,Unsuccessful,51,47,63.5,30.8
+512,437419,Ali Ahmed,1160,Canada,63,SecondHalf,BallRecovery,Successful,35,72.7,,
+513,437419,Ali Ahmed,1160,Canada,63,SecondHalf,Pass,Unsuccessful,33.7,72.4,36.1,70.3
+689,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Foul,Successful,62.6,27,,
+514,437419,Ali Ahmed,1160,Canada,64,SecondHalf,Foul,Unsuccessful,37.4,73,,
+690,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Pass,Successful,63.8,22.8,54.2,35.5
+691,486734,Neil El Aynaoui,495,Morocco,64,SecondHalf,Pass,Successful,54.2,35.5,46,74.7
+692,349932,Noussair Mazraoui,495,Morocco,64,SecondHalf,Pass,Successful,46,74.7,39.4,63.3
+693,425471,Redouane Halhal,495,Morocco,64,SecondHalf,Pass,Successful,39.4,63.3,35.7,16.7
+694,300359,Issa Diop,495,Morocco,64,SecondHalf,Pass,Successful,36,16.2,44.8,4.2
+695,320834,Achraf Hakimi,495,Morocco,64,SecondHalf,Pass,Successful,43.5,6,37.1,35.7
+696,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Pass,Successful,37.1,35.7,26.9,15
+697,300359,Issa Diop,495,Morocco,64,SecondHalf,Pass,Successful,26.9,15,10.9,44.5
+698,136220,Yassine Bounou,495,Morocco,64,SecondHalf,Pass,Successful,13.8,45.5,24.8,35
+699,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Pass,Successful,25.8,37.5,29.4,22.3
+700,486734,Neil El Aynaoui,495,Morocco,64,SecondHalf,Pass,Successful,29.4,22.3,17.9,17.5
+701,300359,Issa Diop,495,Morocco,64,SecondHalf,Pass,Successful,17.9,17.5,7.2,47.3
+702,136220,Yassine Bounou,495,Morocco,64,SecondHalf,Pass,Successful,9.4,52.3,15.2,73.8
+703,425471,Redouane Halhal,495,Morocco,64,SecondHalf,Pass,Successful,15.2,73.8,20,50.3
+704,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Pass,Successful,22.3,53,30.2,45.5
+705,486734,Neil El Aynaoui,495,Morocco,64,SecondHalf,Pass,Successful,29.5,46.3,22.5,47.7
+706,248144,Sofyan Amrabat,495,Morocco,64,SecondHalf,Pass,Successful,25.9,43.7,47,34.3
+707,392361,Azzedine Ounahi,495,Morocco,64,SecondHalf,Pass,Unsuccessful,51.7,38.5,87.8,53.3
+11524,313012,Richie Laryea,1160,Canada,65,SecondHalf,OffsideGiven,Unsuccessful,84.6,88.9,,
+515,137263,Maxime Crépeau,1160,Canada,65,SecondHalf,BallRecovery,Successful,16.3,49.8,,
+516,137263,Maxime Crépeau,1160,Canada,65,SecondHalf,Pass,Successful,17.1,49.2,26.9,34.5
+517,397859,Alistair Johnston,1160,Canada,65,SecondHalf,Pass,Successful,28.5,35.4,37.7,36.1
+518,484837,Niko Sigur,1160,Canada,65,SecondHalf,Pass,Successful,37.7,36,53.3,31
+519,383855,Jonathan David,1160,Canada,65,SecondHalf,Pass,Successful,59.8,23.4,64.1,3
+520,371027,Tajon Buchanan,1160,Canada,65,SecondHalf,Pass,Successful,65.2,2.4,47.1,25.5
+521,397859,Alistair Johnston,1160,Canada,65,SecondHalf,Pass,Successful,47.5,23.4,46.4,41.2
+522,474201,Moïse Bombito,1160,Canada,65,SecondHalf,Pass,Successful,53.5,48.1,52.7,67.2
+523,492688,Luc De Fougerolles,1160,Canada,65,SecondHalf,Pass,Successful,52.7,68.4,64.1,97.8
+524,437419,Ali Ahmed,1160,Canada,65,SecondHalf,OffsidePass,Successful,78.4,89.5,84.6,88.9
+709,300359,Issa Diop,495,Morocco,65,SecondHalf,OffsideProvoked,Successful,20.4,34.6,,
+710,136220,Yassine Bounou,495,Morocco,66,SecondHalf,Pass,Unsuccessful,20.8,16.3,66.8,16.7
+526,492688,Luc De Fougerolles,1160,Canada,66,SecondHalf,Pass,Successful,31,92.2,57.4,87.1
+527,273229,Cyle Larin,1160,Canada,66,SecondHalf,BallTouch,Unsuccessful,57.4,87.1,,
+712,248144,Sofyan Amrabat,495,Morocco,66,SecondHalf,TakeOn,Unsuccessful,47.4,10.4,,
+528,437419,Ali Ahmed,1160,Canada,66,SecondHalf,Tackle,Successful,52.6,89.6,,
+714,320834,Achraf Hakimi,495,Morocco,66,SecondHalf,Pass,Successful,46,0,46.6,14.8
+715,486734,Neil El Aynaoui,495,Morocco,66,SecondHalf,Pass,Successful,46.4,15,43.5,4.5
+716,320834,Achraf Hakimi,495,Morocco,66,SecondHalf,Pass,Successful,43.5,4.5,19.2,63.8
+717,136220,Yassine Bounou,495,Morocco,66,SecondHalf,Clearance,Successful,19.2,63.8,33.9,51.8
+530,383855,Jonathan David,1160,Canada,66,SecondHalf,BallTouch,Successful,66.7,46.2,,
+531,484837,Niko Sigur,1160,Canada,66,SecondHalf,Aerial,Successful,65.4,48.4,,
+718,486734,Neil El Aynaoui,495,Morocco,66,SecondHalf,Aerial,Unsuccessful,34.6,51.6,,
+532,484837,Niko Sigur,1160,Canada,66,SecondHalf,Pass,Successful,63.6,48.9,71.6,52.8
+533,273229,Cyle Larin,1160,Canada,66,SecondHalf,Pass,Successful,70.1,51.9,74,50.8
+534,383855,Jonathan David,1160,Canada,66,SecondHalf,BallRecovery,Successful,74.5,51.3,,
+535,383855,Jonathan David,1160,Canada,66,SecondHalf,Pass,Unsuccessful,74.6,51.6,85,56.4
+719,320834,Achraf Hakimi,495,Morocco,66,SecondHalf,Pass,Successful,8.4,45,6.4,47.8
+720,136220,Yassine Bounou,495,Morocco,66,SecondHalf,Foul,Successful,5.5,49,,
+536,273229,Cyle Larin,1160,Canada,66,SecondHalf,Foul,Unsuccessful,94.5,51,,
+537,273229,Cyle Larin,1160,Canada,66,SecondHalf,Card,Successful,0,0,,
+723,136220,Yassine Bounou,495,Morocco,70,SecondHalf,Pass,Unsuccessful,15,46.7,72,7.3
+540,437419,Ali Ahmed,1160,Canada,70,SecondHalf,Aerial,Successful,28,92.7,,
+724,430982,Soufiane Rahimi,495,Morocco,70,SecondHalf,Aerial,Unsuccessful,72,7.3,,
+541,437419,Ali Ahmed,1160,Canada,70,SecondHalf,Clearance,Successful,28,92.7,29.5,100
+726,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,Pass,Successful,70.7,0,71.2,14.5
+727,392361,Azzedine Ounahi,495,Morocco,71,SecondHalf,Pass,Successful,71.2,14.5,70,3.2
+728,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,Pass,Successful,70,3.2,76.4,6.5
+729,392361,Azzedine Ounahi,495,Morocco,71,SecondHalf,Pass,Unsuccessful,76.4,6.5,78,12
+543,313012,Richie Laryea,1160,Canada,71,SecondHalf,Interception,Successful,22,88,,
+544,313012,Richie Laryea,1160,Canada,71,SecondHalf,BallRecovery,Successful,25.2,91,,
+545,313012,Richie Laryea,1160,Canada,71,SecondHalf,Pass,Successful,25.6,90.6,28,96.9
+546,351744,Stephen Eustaquio,1160,Canada,71,SecondHalf,BallTouch,Unsuccessful,28,96.9,,
+731,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,Pass,Successful,68.4,0,79.3,8.5
+732,317541,Brahim Díaz,495,Morocco,71,SecondHalf,Pass,Successful,79.3,8.5,74.1,3.2
+733,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,Pass,Unsuccessful,74.1,3.2,76.6,7.3
+548,351744,Stephen Eustaquio,1160,Canada,71,SecondHalf,BlockedPass,Successful,23.4,92.7,,
+734,320834,Achraf Hakimi,495,Morocco,71,SecondHalf,BallTouch,Successful,76.6,7.3,,
+549,351744,Stephen Eustaquio,1160,Canada,71,SecondHalf,BallRecovery,Successful,28.4,98.2,,
+550,351744,Stephen Eustaquio,1160,Canada,71,SecondHalf,Pass,Unsuccessful,31.6,98.2,65.4,93
+736,425471,Redouane Halhal,495,Morocco,71,SecondHalf,BallRecovery,Successful,34.2,10.7,,
+737,425471,Redouane Halhal,495,Morocco,71,SecondHalf,Pass,Successful,34.2,10.7,14.4,40.2
+738,136220,Yassine Bounou,495,Morocco,71,SecondHalf,Pass,Unsuccessful,18.2,51.3,72.3,85.2
+551,397859,Alistair Johnston,1160,Canada,71,SecondHalf,Pass,Successful,27.3,21.6,37.9,30
+552,484837,Niko Sigur,1160,Canada,71,SecondHalf,BallRecovery,Successful,38,29.8,,
+553,484837,Niko Sigur,1160,Canada,71,SecondHalf,Pass,Successful,39.3,26.7,32,6.1
+554,397859,Alistair Johnston,1160,Canada,71,SecondHalf,Pass,Unsuccessful,31.8,5.8,57.7,21.7
+739,349932,Noussair Mazraoui,495,Morocco,71,SecondHalf,BallRecovery,Successful,39.3,79.2,,
+740,349932,Noussair Mazraoui,495,Morocco,71,SecondHalf,Pass,Successful,39.3,79.2,53.1,62.5
+741,392361,Azzedine Ounahi,495,Morocco,71,SecondHalf,Pass,Successful,53.1,62.5,42.6,71.7
+742,486734,Neil El Aynaoui,495,Morocco,71,SecondHalf,Pass,Successful,42.6,71.7,55.4,77.3
+743,248144,Sofyan Amrabat,495,Morocco,71,SecondHalf,Pass,Successful,55.4,77.3,57.4,94.7
+744,476110,Chemsdine Talbi,495,Morocco,71,SecondHalf,Pass,Unsuccessful,57.4,94.7,60.1,81.7
+556,397859,Alistair Johnston,1160,Canada,71,SecondHalf,BallTouch,Successful,39.4,2.7,,
+746,476110,Chemsdine Talbi,495,Morocco,71,SecondHalf,Pass,Successful,43.7,92.7,39.3,68.3
+747,425471,Redouane Halhal,495,Morocco,71,SecondHalf,Pass,Successful,36.5,65.8,14.4,50.8
+748,136220,Yassine Bounou,495,Morocco,72,SecondHalf,Pass,Successful,14.4,49,21.4,25.7
+749,300359,Issa Diop,495,Morocco,72,SecondHalf,Pass,Successful,21.4,25.7,24.9,5.5
+750,320834,Achraf Hakimi,495,Morocco,72,SecondHalf,Pass,Unsuccessful,24.9,5.5,39.4,5.2
+557,313012,Richie Laryea,1160,Canada,72,SecondHalf,BallTouch,Successful,62.4,99.1,,
+752,320834,Achraf Hakimi,495,Morocco,72,SecondHalf,Pass,Successful,38.1,0,36.3,11.5
+753,486734,Neil El Aynaoui,495,Morocco,72,SecondHalf,Pass,Unsuccessful,36.3,11.5,71.4,0
+560,313012,Richie Laryea,1160,Canada,72,SecondHalf,Pass,Successful,36.9,100,62.3,94.6
+561,273229,Cyle Larin,1160,Canada,72,SecondHalf,Pass,Successful,64.8,95.7,60.9,88.8
+562,383855,Jonathan David,1160,Canada,72,SecondHalf,Pass,Unsuccessful,61,88.2,59.6,90.9
+755,248144,Sofyan Amrabat,495,Morocco,72,SecondHalf,BallRecovery,Successful,47.9,12.5,,
+756,248144,Sofyan Amrabat,495,Morocco,72,SecondHalf,Pass,Unsuccessful,55.9,5,78.2,7.8
+563,492688,Luc De Fougerolles,1160,Canada,72,SecondHalf,Pass,Successful,19.6,94.6,8.7,64.6
+564,137263,Maxime Crépeau,1160,Canada,72,SecondHalf,BallRecovery,Successful,8.9,63.9,,
+565,137263,Maxime Crépeau,1160,Canada,72,SecondHalf,Pass,Successful,14.7,48.1,31.4,18.7
+566,474201,Moïse Bombito,1160,Canada,73,SecondHalf,Pass,Unsuccessful,32,17.2,49,0
+758,349932,Noussair Mazraoui,495,Morocco,73,SecondHalf,Pass,Successful,45,100,54.3,91.3
+759,392361,Azzedine Ounahi,495,Morocco,73,SecondHalf,Pass,Unsuccessful,54.3,91.3,52.4,92.3
+568,371027,Tajon Buchanan,1160,Canada,73,SecondHalf,BlockedPass,Successful,47.6,7.7,,
+761,349932,Noussair Mazraoui,495,Morocco,73,SecondHalf,Pass,Successful,57,100,74.9,84.8
+762,430982,Soufiane Rahimi,495,Morocco,73,SecondHalf,Aerial,Successful,74.9,84.8,,
+570,474201,Moïse Bombito,1160,Canada,73,SecondHalf,Aerial,Unsuccessful,25.1,15.2,,
+763,430982,Soufiane Rahimi,495,Morocco,73,SecondHalf,Pass,Unsuccessful,74.9,84.8,75.5,90.5
+578,474201,Moïse Bombito,1160,Canada,73,SecondHalf,BallTouch,Successful,25.8,17.2,,
+571,397859,Alistair Johnston,1160,Canada,73,SecondHalf,BallRecovery,Successful,26.5,14.8,,
+572,397859,Alistair Johnston,1160,Canada,73,SecondHalf,Pass,Successful,26.5,14.8,29.8,16.8
+573,484837,Niko Sigur,1160,Canada,73,SecondHalf,Pass,Successful,28.9,17.8,24.6,19.5
+574,474201,Moïse Bombito,1160,Canada,73,SecondHalf,Pass,Successful,24.9,22.9,29.7,33.6
+575,351744,Stephen Eustaquio,1160,Canada,73,SecondHalf,Pass,Successful,30.8,34.2,10.3,43.5
+576,137263,Maxime Crépeau,1160,Canada,73,SecondHalf,Pass,Unsuccessful,11,43.2,53.4,45.1
+765,300359,Issa Diop,495,Morocco,73,SecondHalf,Pass,Unsuccessful,43.3,55.2,55.2,54.8
+577,351744,Stephen Eustaquio,1160,Canada,73,SecondHalf,Pass,Unsuccessful,47.7,47.8,75.6,49
+766,425471,Redouane Halhal,495,Morocco,73,SecondHalf,Pass,Successful,26,47.7,6.7,47.2
+767,136220,Yassine Bounou,495,Morocco,73,SecondHalf,KeeperPickup,Successful,6.7,47.2,,
+768,136220,Yassine Bounou,495,Morocco,74,SecondHalf,Pass,Successful,9.2,48.8,23.2,52.5
+769,248144,Sofyan Amrabat,495,Morocco,74,SecondHalf,Pass,Successful,28.6,43.8,29.8,8.3
+770,320834,Achraf Hakimi,495,Morocco,74,SecondHalf,Pass,Unsuccessful,30.1,7.5,63.8,0
+580,313012,Richie Laryea,1160,Canada,74,SecondHalf,Pass,Successful,58.2,100,71,83.7
+581,273229,Cyle Larin,1160,Canada,74,SecondHalf,Pass,Successful,72.6,82.6,74.2,71.7
+582,383855,Jonathan David,1160,Canada,74,SecondHalf,Pass,Successful,72.4,65.2,60.3,65.8
+583,484837,Niko Sigur,1160,Canada,74,SecondHalf,Pass,Successful,61.9,79.6,68.3,94.2
+584,313012,Richie Laryea,1160,Canada,74,SecondHalf,Pass,Successful,68,94.2,55.4,73.2
+585,492688,Luc De Fougerolles,1160,Canada,74,SecondHalf,Pass,Successful,60.1,73.6,66.1,97
+586,484837,Niko Sigur,1160,Canada,74,SecondHalf,Pass,Successful,58.5,77.5,55.3,37.2
+587,474201,Moïse Bombito,1160,Canada,74,SecondHalf,Pass,Successful,63.6,26.2,72.8,2.8
+588,371027,Tajon Buchanan,1160,Canada,74,SecondHalf,TakeOn,Unsuccessful,73.8,4.6,,
+773,476110,Chemsdine Talbi,495,Morocco,74,SecondHalf,Tackle,Successful,26.2,95.4,,
+590,397859,Alistair Johnston,1160,Canada,75,SecondHalf,Pass,Unsuccessful,86.4,0,90.7,39.3
+775,349932,Noussair Mazraoui,495,Morocco,75,SecondHalf,Clearance,Successful,8.6,67,17,95.3
+591,397859,Alistair Johnston,1160,Canada,75,SecondHalf,Pass,Successful,83,8.4,74.1,18
+592,484837,Niko Sigur,1160,Canada,75,SecondHalf,Pass,Unsuccessful,74.4,19.8,96.2,51.7
+776,136220,Yassine Bounou,495,Morocco,75,SecondHalf,Aerial,Successful,3.8,48.3,,
+593,273229,Cyle Larin,1160,Canada,75,SecondHalf,Aerial,Unsuccessful,96.2,51.7,,
+777,136220,Yassine Bounou,495,Morocco,75,SecondHalf,Punch,Unsuccessful,3.8,48.3,19.1,34.3
+594,351744,Stephen Eustaquio,1160,Canada,75,SecondHalf,Pass,Successful,83.3,57,87,58.3
+595,383855,Jonathan David,1160,Canada,75,SecondHalf,Pass,Successful,88.6,67.9,85.8,76.6
+596,437419,Ali Ahmed,1160,Canada,75,SecondHalf,Pass,Unsuccessful,84.9,76.6,88,62.1
+778,300359,Issa Diop,495,Morocco,75,SecondHalf,Clearance,Successful,8.8,40.2,28.6,45.8
+779,392361,Azzedine Ounahi,495,Morocco,75,SecondHalf,BallTouch,Unsuccessful,28.6,45.7,,
+600,397859,Alistair Johnston,1160,Canada,75,SecondHalf,Pass,Successful,74.2,41.9,81.1,47.4
+780,248144,Sofyan Amrabat,495,Morocco,75,SecondHalf,Challenge,Unsuccessful,20.2,48.8,,
+598,351744,Stephen Eustaquio,1160,Canada,75,SecondHalf,TakeOn,Successful,79,52,,
+599,351744,Stephen Eustaquio,1160,Canada,75,SecondHalf,Foul,Successful,81.6,51.2,,
+781,248144,Sofyan Amrabat,495,Morocco,75,SecondHalf,Foul,Unsuccessful,18.4,48.8,,
+601,383855,Jonathan David,1160,Canada,77,SecondHalf,MissedShots,Successful,82.2,51.1,,
+603,437419,Ali Ahmed,1160,Canada,77,SecondHalf,SubstitutionOff,Successful,0,0,,
+604,532188,Promise David,1160,Canada,77,SecondHalf,SubstitutionOn,Successful,0,0,,
+605,313012,Richie Laryea,1160,Canada,77,SecondHalf,SubstitutionOff,Successful,0,0,,
+606,377467,Jacob Shaffelburg,1160,Canada,77,SecondHalf,SubstitutionOn,Successful,0,0,,
+615,,,1160,Canada,77,SecondHalf,FormationChange,Successful,0,0,,
+783,136220,Yassine Bounou,495,Morocco,78,SecondHalf,Pass,Unsuccessful,4.7,43,59.8,13.2
+607,492688,Luc De Fougerolles,1160,Canada,78,SecondHalf,Aerial,Successful,40.2,86.8,,
+784,430982,Soufiane Rahimi,495,Morocco,78,SecondHalf,Aerial,Unsuccessful,59.8,13.2,,
+608,492688,Luc De Fougerolles,1160,Canada,78,SecondHalf,Pass,Unsuccessful,40.2,86.8,65.9,84.4
+785,300359,Issa Diop,495,Morocco,78,SecondHalf,Pass,Successful,31.7,9.7,57.7,7.8
+786,317541,Brahim Díaz,495,Morocco,78,SecondHalf,BallTouch,Unsuccessful,57.7,7.8,,
+609,351744,Stephen Eustaquio,1160,Canada,78,SecondHalf,Pass,Successful,45.2,88.5,46.1,95.4
+610,377467,Jacob Shaffelburg,1160,Canada,78,SecondHalf,BallRecovery,Successful,46.1,95.4,,
+611,377467,Jacob Shaffelburg,1160,Canada,78,SecondHalf,Pass,Successful,46.1,95.4,68.3,58.9
+612,371027,Tajon Buchanan,1160,Canada,78,SecondHalf,SavedShot,Successful,70.8,58.8,,
+787,136220,Yassine Bounou,495,Morocco,78,SecondHalf,Save,Successful,3.7,47.5,,
+613,371027,Tajon Buchanan,1160,Canada,78,SecondHalf,CornerAwarded,Successful,88.2,58.8,,
+788,136220,Yassine Bounou,495,Morocco,78,SecondHalf,CornerAwarded,Unsuccessful,11.8,41.2,,
+614,351744,Stephen Eustaquio,1160,Canada,79,SecondHalf,Pass,Unsuccessful,99.5,99.5,95.5,60.4
+789,392361,Azzedine Ounahi,495,Morocco,79,SecondHalf,Clearance,Successful,3.2,39.7,45,17.2
+616,484837,Niko Sigur,1160,Canada,79,SecondHalf,Pass,Successful,58.8,73.3,97.3,27.6
+790,349932,Noussair Mazraoui,495,Morocco,79,SecondHalf,Foul,Successful,2.4,71.5,,
+617,532188,Promise David,1160,Canada,79,SecondHalf,Foul,Unsuccessful,97.6,28.5,,
+791,136220,Yassine Bounou,495,Morocco,79,SecondHalf,Pass,Unsuccessful,8,69.3,56.2,82.7
+618,371027,Tajon Buchanan,1160,Canada,80,SecondHalf,Pass,Unsuccessful,48.5,5.4,68.3,0
+793,349932,Noussair Mazraoui,495,Morocco,80,SecondHalf,Pass,Successful,34.5,100,42.7,86.7
+794,476110,Chemsdine Talbi,495,Morocco,80,SecondHalf,Pass,Unsuccessful,42.7,86.7,47.1,74
+620,397859,Alistair Johnston,1160,Canada,80,SecondHalf,BlockedPass,Successful,52.9,26,,
+621,351744,Stephen Eustaquio,1160,Canada,80,SecondHalf,BallRecovery,Successful,56,15.6,,
+622,351744,Stephen Eustaquio,1160,Canada,80,SecondHalf,Pass,Unsuccessful,56,15.6,60.6,13.9
+804,248144,Sofyan Amrabat,495,Morocco,80,SecondHalf,BallTouch,Unsuccessful,39.1,85.5,,
+623,351744,Stephen Eustaquio,1160,Canada,80,SecondHalf,Foul,Successful,60.6,15.6,,
+795,248144,Sofyan Amrabat,495,Morocco,80,SecondHalf,Foul,Unsuccessful,39.4,84.4,,
+624,351744,Stephen Eustaquio,1160,Canada,80,SecondHalf,Pass,Successful,61.7,19.3,85.1,25.5
+625,383855,Jonathan David,1160,Canada,80,SecondHalf,Pass,Successful,87.3,22.2,76.1,20.7
+626,351744,Stephen Eustaquio,1160,Canada,80,SecondHalf,Pass,Unsuccessful,78,21.6,86.7,48.3
+796,486734,Neil El Aynaoui,495,Morocco,80,SecondHalf,Clearance,Successful,12.7,51.5,25.7,59.3
+797,392361,Azzedine Ounahi,495,Morocco,80,SecondHalf,Clearance,Successful,25.7,59.3,44.2,45.3
+627,484837,Niko Sigur,1160,Canada,80,SecondHalf,Pass,Successful,45.8,51.7,25.9,47.1
+628,137263,Maxime Crépeau,1160,Canada,80,SecondHalf,Pass,Successful,32.5,38.4,57.1,36.3
+629,474201,Moïse Bombito,1160,Canada,81,SecondHalf,Pass,Successful,57.9,31,54.2,36
+630,492688,Luc De Fougerolles,1160,Canada,81,SecondHalf,Pass,Unsuccessful,69.5,16.8,76.5,16.9
+798,476110,Chemsdine Talbi,495,Morocco,81,SecondHalf,Interception,Successful,23.5,83.1,,
+799,476110,Chemsdine Talbi,495,Morocco,81,SecondHalf,BallRecovery,Successful,28.1,81,,
+631,351744,Stephen Eustaquio,1160,Canada,81,SecondHalf,Challenge,Unsuccessful,70,19.2,,
+800,476110,Chemsdine Talbi,495,Morocco,81,SecondHalf,TakeOn,Successful,31,80.8,,
+801,476110,Chemsdine Talbi,495,Morocco,81,SecondHalf,Pass,Successful,59.8,62.2,74.5,35.7
+802,317541,Brahim Díaz,495,Morocco,81,SecondHalf,Pass,Unsuccessful,85.9,36.5,85,43
+632,377467,Jacob Shaffelburg,1160,Canada,81,SecondHalf,BallTouch,Successful,12.9,62.7,,
+803,392361,Azzedine Ounahi,495,Morocco,81,SecondHalf,Goal,Successful,86.2,43.1,,
+633,351744,Stephen Eustaquio,1160,Canada,83,SecondHalf,Pass,Successful,50.1,49.8,31.8,43.6
+634,474201,Moïse Bombito,1160,Canada,83,SecondHalf,Pass,Unsuccessful,36.2,43.8,72.8,67.8
+805,300359,Issa Diop,495,Morocco,83,SecondHalf,Aerial,Successful,27.2,32.2,,
+635,383855,Jonathan David,1160,Canada,83,SecondHalf,Aerial,Unsuccessful,72.8,67.8,,
+819,300359,Issa Diop,495,Morocco,83,SecondHalf,Clearance,Successful,27.2,32.2,35.5,27.4
+806,392361,Azzedine Ounahi,495,Morocco,83,SecondHalf,Pass,Successful,36.7,29.2,41.4,11.3
+807,317541,Brahim Díaz,495,Morocco,83,SecondHalf,BallTouch,Unsuccessful,45.6,13,,
+638,492688,Luc De Fougerolles,1160,Canada,83,SecondHalf,Foul,Successful,41.7,93.2,,
+808,317541,Brahim Díaz,495,Morocco,83,SecondHalf,Foul,Unsuccessful,58.3,6.8,,
+639,351744,Stephen Eustaquio,1160,Canada,83,SecondHalf,Pass,Unsuccessful,40.2,92.7,72.8,51.3
+809,425471,Redouane Halhal,495,Morocco,83,SecondHalf,Aerial,Successful,27.2,48.7,,
+640,383855,Jonathan David,1160,Canada,83,SecondHalf,Aerial,Unsuccessful,72.8,51.3,,
+810,425471,Redouane Halhal,495,Morocco,83,SecondHalf,Clearance,Successful,27.2,48.7,42,49.8
+641,397859,Alistair Johnston,1160,Canada,83,SecondHalf,Pass,Successful,63.2,54,70.6,64
+642,351744,Stephen Eustaquio,1160,Canada,83,SecondHalf,Pass,Successful,73.1,64.6,78.3,66.4
+643,383855,Jonathan David,1160,Canada,83,SecondHalf,SavedShot,Successful,78.6,68.9,,
+811,300359,Issa Diop,495,Morocco,83,SecondHalf,Save,Successful,16.8,35,,
+812,476110,Chemsdine Talbi,495,Morocco,83,SecondHalf,Clearance,Successful,15,56.3,36.5,37.3
+813,430982,Soufiane Rahimi,495,Morocco,83,SecondHalf,Pass,Unsuccessful,36.6,37.3,22.5,36.3
+644,383855,Jonathan David,1160,Canada,83,SecondHalf,Pass,Successful,72.6,76.5,86.6,80.8
+645,377467,Jacob Shaffelburg,1160,Canada,83,SecondHalf,Pass,Unsuccessful,90.3,76.8,97.7,53.2
+814,136220,Yassine Bounou,495,Morocco,83,SecondHalf,KeeperPickup,Successful,3,47.2,,
+815,136220,Yassine Bounou,495,Morocco,83,SecondHalf,Pass,Successful,12.5,47,31.9,95
+816,349932,Noussair Mazraoui,495,Morocco,84,SecondHalf,Pass,Successful,32.7,84.3,62.8,58
+817,430982,Soufiane Rahimi,495,Morocco,84,SecondHalf,Aerial,Successful,62.8,58,,
+646,492688,Luc De Fougerolles,1160,Canada,84,SecondHalf,Aerial,Unsuccessful,37.2,42,,
+818,430982,Soufiane Rahimi,495,Morocco,84,SecondHalf,Pass,Unsuccessful,62.8,58,65.4,33.3
+647,377467,Jacob Shaffelburg,1160,Canada,84,SecondHalf,BallRecovery,Successful,32.1,63.1,,
+648,377467,Jacob Shaffelburg,1160,Canada,84,SecondHalf,Pass,Successful,32.5,58.3,35.4,37.6
+649,474201,Moïse Bombito,1160,Canada,84,SecondHalf,Pass,Successful,36.3,35.4,42.6,30.9
+650,484837,Niko Sigur,1160,Canada,84,SecondHalf,Pass,Successful,56.2,24.6,74.9,3.3
+651,397859,Alistair Johnston,1160,Canada,84,SecondHalf,Pass,Unsuccessful,86.4,3.9,93.1,51.1
+820,136220,Yassine Bounou,495,Morocco,84,SecondHalf,Claim,Successful,6.9,48.9,,
+822,136220,Yassine Bounou,495,Morocco,84,SecondHalf,Pass,Successful,9.2,45.5,38.9,23.8
+824,392361,Azzedine Ounahi,495,Morocco,84,SecondHalf,Pass,Successful,79.2,16.3,88.3,49.3
+825,430982,Soufiane Rahimi,495,Morocco,84,SecondHalf,ShotOnPost,Successful,88.3,49.3,,
+652,137263,Maxime Crépeau,1160,Canada,84,SecondHalf,KeeperPickup,Successful,2,53.7,,
+653,137263,Maxime Crépeau,1160,Canada,84,SecondHalf,Pass,Successful,14.4,62.2,28,87.7
+654,377467,Jacob Shaffelburg,1160,Canada,84,SecondHalf,Pass,Successful,31.1,89.1,43.3,59.4
+655,351744,Stephen Eustaquio,1160,Canada,84,SecondHalf,Pass,Successful,43.9,58.6,71.3,96.9
+656,383855,Jonathan David,1160,Canada,84,SecondHalf,Pass,Successful,77.7,98.4,98.1,76.6
+657,371027,Tajon Buchanan,1160,Canada,84,SecondHalf,Pass,Unsuccessful,98.1,76.6,90.1,55.5
+826,486734,Neil El Aynaoui,495,Morocco,84,SecondHalf,Clearance,Successful,10.3,44.8,0,27.7
+827,486734,Neil El Aynaoui,495,Morocco,84,SecondHalf,CornerAwarded,Unsuccessful,3.6,34.4,,
+658,371027,Tajon Buchanan,1160,Canada,84,SecondHalf,CornerAwarded,Successful,96.4,65.6,,
+659,351744,Stephen Eustaquio,1160,Canada,85,SecondHalf,Pass,Successful,99.5,99.5,94.8,90.7
+660,371027,Tajon Buchanan,1160,Canada,85,SecondHalf,Pass,Unsuccessful,95,89.2,92.3,70.5
+828,320834,Achraf Hakimi,495,Morocco,85,SecondHalf,Clearance,Successful,7.3,38.2,8.6,26.8
+829,392361,Azzedine Ounahi,495,Morocco,85,SecondHalf,Clearance,Successful,8.6,26.8,36,28.8
+661,377467,Jacob Shaffelburg,1160,Canada,85,SecondHalf,Pass,Successful,61.6,70.3,60.5,48.7
+662,484837,Niko Sigur,1160,Canada,85,SecondHalf,Pass,Successful,60.4,48.7,77.5,77.2
+663,383855,Jonathan David,1160,Canada,85,SecondHalf,Pass,Successful,79.5,77.4,91.7,79.9
+664,377467,Jacob Shaffelburg,1160,Canada,85,SecondHalf,Pass,Unsuccessful,91.4,79.6,92.3,65.8
+831,486734,Neil El Aynaoui,495,Morocco,85,SecondHalf,Clearance,Successful,6.8,33,13.5,20.2
+1,,,1160,Canada,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,495,Morocco,0,PreMatch,FormationSet,Successful,0,0,,

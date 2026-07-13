@@ -1,0 +1,1572 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,409,Brazil,0,FirstHalf,Start,Successful,0,0,,
+2,,,986,Japan,0,FirstHalf,Start,Successful,0,0,,
+3,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Pass,Successful,49.8,50.4,27.4,49.8
+4,114147,Alisson Becker,409,Brazil,0,FirstHalf,Pass,Unsuccessful,28,48.3,73.8,37.2
+3,509815,Kaishu Sano,986,Japan,0,FirstHalf,Pass,Unsuccessful,28.4,60,37.1,66.3
+5,88300,Danilo,409,Brazil,0,FirstHalf,Dispossessed,Successful,65.3,37.6,,
+4,377287,Daizen Maeda,986,Japan,0,FirstHalf,Tackle,Successful,34.7,62.4,,
+5,370255,Junya Ito,986,Japan,0,FirstHalf,Pass,Unsuccessful,36.5,57.2,65.5,84.5
+6,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,33.2,21,33.8,52.8
+7,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,34.9,53.1,41.4,63.4
+8,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Pass,Successful,41.6,63,36.2,35.2
+9,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,37.5,35.1,60.1,3.9
+10,472122,Rayan,409,Brazil,0,FirstHalf,Pass,Successful,60.1,4,42.3,19.2
+11,88300,Danilo,409,Brazil,0,FirstHalf,Pass,Successful,42.3,19.2,36,51.3
+12,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,35.7,53.2,28.4,74.4
+13,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,28.2,74.8,36.5,95.1
+14,115097,Douglas Santos,409,Brazil,0,FirstHalf,Pass,Successful,35.7,94.5,14.9,92.8
+15,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,14.4,93.3,9.8,76.5
+16,114147,Alisson Becker,409,Brazil,0,FirstHalf,Pass,Unsuccessful,9.8,76.5,30,86.7
+6,343435,Ritsu Doan,986,Japan,0,FirstHalf,BallTouch,Unsuccessful,69.6,6.2,,
+17,115097,Douglas Santos,409,Brazil,0,FirstHalf,BallTouch,Successful,26.4,90.1,,
+7,343435,Ritsu Doan,986,Japan,0,FirstHalf,Dispossessed,Successful,70.2,12.2,,
+57,115097,Douglas Santos,409,Brazil,0,FirstHalf,Tackle,Unsuccessful,29.8,87.8,,
+34,343435,Ritsu Doan,986,Japan,0,FirstHalf,BallTouch,Successful,72.6,16.2,,
+18,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Foul,Successful,28.8,80.5,,
+8,377283,Takehiro Tomiyasu,986,Japan,0,FirstHalf,Foul,Unsuccessful,71.2,19.6,,
+19,334087,Gabriel Magalhães,409,Brazil,1,FirstHalf,Pass,Successful,29.3,81.4,32.6,73.8
+20,88526,Casemiro,409,Brazil,1,FirstHalf,Pass,Successful,33.4,69.7,81.8,6.1
+21,472122,Rayan,409,Brazil,1,FirstHalf,Pass,Successful,80.7,13.8,75.6,28.5
+22,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,Pass,Successful,75.4,28.3,77.5,12.7
+23,88300,Danilo,409,Brazil,1,FirstHalf,Pass,Successful,77.2,11.8,74.1,31.9
+24,88526,Casemiro,409,Brazil,1,FirstHalf,Pass,Unsuccessful,74.1,31.9,80.2,41.2
+9,509815,Kaishu Sano,986,Japan,1,FirstHalf,Pass,Successful,20.6,63.6,24.5,68.4
+10,377288,Ayase Ueda,986,Japan,1,FirstHalf,BallRecovery,Successful,24.5,68.4,,
+11,377288,Ayase Ueda,986,Japan,1,FirstHalf,Pass,Unsuccessful,24.4,69.6,21.6,71.8
+25,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,BlockedPass,Successful,78.4,28.2,,
+680,377288,Ayase Ueda,986,Japan,1,FirstHalf,Error,Successful,23.1,71.8,,
+26,472122,Rayan,409,Brazil,1,FirstHalf,BallTouch,Successful,78.7,36.6,,
+29,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,BallRecovery,Successful,78.4,31.9,,
+27,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,SavedShot,Successful,85.1,33,,
+12,143724,Shogo Taniguchi,986,Japan,1,FirstHalf,Save,Successful,12.9,64.6,,
+13,143724,Shogo Taniguchi,986,Japan,1,FirstHalf,CornerAwarded,Unsuccessful,12,63.6,,
+28,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,CornerAwarded,Successful,100,39.7,,
+30,338780,Bruno Guimarães,409,Brazil,2,FirstHalf,Pass,Unsuccessful,99.4,0.2,89.7,35.2
+14,370255,Junya Ito,986,Japan,2,FirstHalf,Clearance,Successful,8.6,66.6,31.4,100
+32,88300,Danilo,409,Brazil,2,FirstHalf,Pass,Successful,69.3,0,50.3,14.8
+33,101949,Marquinhos,409,Brazil,2,FirstHalf,Pass,Successful,50.5,15.1,46.7,51.7
+34,334087,Gabriel Magalhães,409,Brazil,2,FirstHalf,Pass,Successful,45.9,49.8,42.7,31
+35,101949,Marquinhos,409,Brazil,2,FirstHalf,Pass,Unsuccessful,42.7,30.6,43.6,0
+17,379700,Keito Nakamura,986,Japan,2,FirstHalf,Pass,Successful,54.4,100,30.8,96.5
+18,422717,Hiroki Ito,986,Japan,2,FirstHalf,Pass,Successful,31.5,92.1,36.2,79.6
+19,344166,Daichi Kamada,986,Japan,2,FirstHalf,Pass,Successful,36.2,79.6,31.2,94.8
+20,422717,Hiroki Ito,986,Japan,2,FirstHalf,Pass,Unsuccessful,31.2,94.8,75.2,84.5
+37,101949,Marquinhos,409,Brazil,2,FirstHalf,Pass,Successful,30.2,19.5,32.7,10.8
+38,88300,Danilo,409,Brazil,2,FirstHalf,Pass,Unsuccessful,32.7,10.8,28.2,16.2
+681,377287,Daizen Maeda,986,Japan,2,FirstHalf,Interception,Successful,72.2,93.2,,
+21,377287,Daizen Maeda,986,Japan,3,FirstHalf,Dispossessed,Successful,90,84.6,,
+40,101949,Marquinhos,409,Brazil,3,FirstHalf,Tackle,Unsuccessful,10,15.4,,
+22,377287,Daizen Maeda,986,Japan,3,FirstHalf,BallTouch,Successful,91.6,85.7,,
+42,334087,Gabriel Magalhães,409,Brazil,3,FirstHalf,Pass,Successful,4,60.1,3.1,43.8
+43,114147,Alisson Becker,409,Brazil,3,FirstHalf,Pass,Unsuccessful,8,44.4,67.5,59.1
+24,377283,Takehiro Tomiyasu,986,Japan,3,FirstHalf,Clearance,Successful,34.5,41.2,42.5,73.2
+44,362758,Matheus Cunha,409,Brazil,3,FirstHalf,BallTouch,Unsuccessful,74.7,20.8,,
+25,379700,Keito Nakamura,986,Japan,3,FirstHalf,BallRecovery,Successful,22.3,92.1,,
+26,379700,Keito Nakamura,986,Japan,3,FirstHalf,Pass,Successful,25.2,90.3,8.7,71.7
+27,422717,Hiroki Ito,986,Japan,3,FirstHalf,Pass,Successful,9.1,69.6,23.8,8.2
+28,377283,Takehiro Tomiyasu,986,Japan,3,FirstHalf,Pass,Successful,23.8,8.2,47.2,45.8
+29,377288,Ayase Ueda,986,Japan,3,FirstHalf,BallTouch,Unsuccessful,47.2,45.8,,
+30,377288,Ayase Ueda,986,Japan,3,FirstHalf,Challenge,Unsuccessful,38.5,42.6,,
+46,88526,Casemiro,409,Brazil,3,FirstHalf,TakeOn,Successful,61.5,57.4,,
+47,88526,Casemiro,409,Brazil,3,FirstHalf,Pass,Successful,66.4,51.9,46.4,48.3
+48,101949,Marquinhos,409,Brazil,3,FirstHalf,BallRecovery,Successful,46.4,48.3,,
+49,101949,Marquinhos,409,Brazil,3,FirstHalf,Pass,Successful,46.4,48.3,38.2,60.6
+50,334087,Gabriel Magalhães,409,Brazil,4,FirstHalf,Pass,Successful,38.2,60.6,44.9,68.2
+51,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,Pass,Unsuccessful,45.2,67.8,86.7,69
+31,447570,Zion Suzuki,986,Japan,4,FirstHalf,KeeperSweeper,Successful,14.8,36,,
+32,447570,Zion Suzuki,986,Japan,4,FirstHalf,Punch,Unsuccessful,14.8,36.1,27.1,0
+53,115097,Douglas Santos,409,Brazil,4,FirstHalf,Pass,Successful,73.7,100,64.2,91.6
+54,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,Pass,Successful,64,90.3,64.4,68.4
+55,88526,Casemiro,409,Brazil,4,FirstHalf,Pass,Successful,64.4,70.3,62.9,89.5
+56,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,Pass,Successful,62.8,87.7,52.9,44.8
+58,101949,Marquinhos,409,Brazil,4,FirstHalf,Pass,Successful,53.8,43.8,56.4,57.7
+59,88526,Casemiro,409,Brazil,4,FirstHalf,Pass,Successful,57.3,58.9,53.6,70
+60,334087,Gabriel Magalhães,409,Brazil,4,FirstHalf,Pass,Successful,53.8,70.8,57.8,64.3
+61,88526,Casemiro,409,Brazil,4,FirstHalf,Pass,Successful,57.9,65.2,66,77.1
+62,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,Pass,Successful,66.2,78.1,71.4,93.4
+63,115097,Douglas Santos,409,Brazil,4,FirstHalf,Pass,Successful,71.4,93.4,64.1,86.7
+64,319756,Lucas Paquetá,409,Brazil,4,FirstHalf,BallTouch,Unsuccessful,64.4,87.1,,
+36,377283,Takehiro Tomiyasu,986,Japan,4,FirstHalf,Pass,Successful,24.6,0,10.4,26.8
+37,143724,Shogo Taniguchi,986,Japan,4,FirstHalf,Pass,Successful,10.7,27.3,6.2,57.5
+38,447570,Zion Suzuki,986,Japan,4,FirstHalf,Pass,Successful,7,58.5,13.4,81.5
+39,422717,Hiroki Ito,986,Japan,5,FirstHalf,Pass,Unsuccessful,21.6,84.1,75,77.2
+66,88526,Casemiro,409,Brazil,5,FirstHalf,BallRecovery,Successful,29.9,22.9,,
+67,88526,Casemiro,409,Brazil,5,FirstHalf,Pass,Successful,27.8,22.8,19.9,34.5
+68,114147,Alisson Becker,409,Brazil,5,FirstHalf,Pass,Successful,19.9,34.5,25.3,32.8
+69,88526,Casemiro,409,Brazil,5,FirstHalf,Pass,Successful,25.3,32.8,30.4,61.3
+70,334087,Gabriel Magalhães,409,Brazil,5,FirstHalf,Pass,Successful,35.5,66.3,43.6,91.8
+71,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,47.6,93.4,53.3,73.2
+72,362758,Matheus Cunha,409,Brazil,5,FirstHalf,Pass,Successful,53.3,75,47.7,89.1
+73,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,46.4,89.7,37.9,44.4
+74,101949,Marquinhos,409,Brazil,5,FirstHalf,Pass,Successful,44.5,37.5,44,63.7
+75,334087,Gabriel Magalhães,409,Brazil,5,FirstHalf,Pass,Successful,56.2,73.5,51.7,56.2
+76,88526,Casemiro,409,Brazil,5,FirstHalf,Pass,Successful,52.1,56.2,58.8,15.1
+77,88300,Danilo,409,Brazil,5,FirstHalf,Pass,Successful,59,15.1,72.5,6.6
+78,472122,Rayan,409,Brazil,5,FirstHalf,Pass,Successful,72.5,6.6,66.5,13.3
+79,88300,Danilo,409,Brazil,5,FirstHalf,Pass,Successful,66.9,12,72,3.9
+80,472122,Rayan,409,Brazil,5,FirstHalf,Pass,Successful,70.7,6.2,67.7,20.1
+81,338780,Bruno Guimarães,409,Brazil,5,FirstHalf,Pass,Unsuccessful,68.6,23.1,86.7,54.1
+41,377283,Takehiro Tomiyasu,986,Japan,5,FirstHalf,Clearance,Successful,13.6,46.3,35.3,55.5
+82,88526,Casemiro,409,Brazil,5,FirstHalf,Pass,Successful,62.9,47.2,54.8,57.6
+83,334087,Gabriel Magalhães,409,Brazil,5,FirstHalf,Pass,Successful,55.2,59.2,61,79.3
+84,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,61.6,79.6,69.8,80.5
+85,337782,Vinícius Júnior,409,Brazil,5,FirstHalf,Pass,Successful,68.6,81.3,64.6,88.3
+86,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,64.7,88.3,65,83.1
+87,337782,Vinícius Júnior,409,Brazil,6,FirstHalf,Foul,Successful,64,76.4,,
+42,509815,Kaishu Sano,986,Japan,6,FirstHalf,Foul,Unsuccessful,35.9,23.6,,
+88,338780,Bruno Guimarães,409,Brazil,6,FirstHalf,Pass,Unsuccessful,66.3,76.8,92.8,32.7
+43,447570,Zion Suzuki,986,Japan,6,FirstHalf,Aerial,Successful,7.2,67.3,,
+89,334087,Gabriel Magalhães,409,Brazil,6,FirstHalf,Aerial,Unsuccessful,92.8,32.7,,
+44,447570,Zion Suzuki,986,Japan,6,FirstHalf,KeeperPickup,Successful,8.2,57.3,,
+45,447570,Zion Suzuki,986,Japan,6,FirstHalf,Pass,Successful,7.2,52.5,14.9,58.5
+46,143724,Shogo Taniguchi,986,Japan,6,FirstHalf,Pass,Successful,15.4,58.5,24.5,66.7
+47,344166,Daichi Kamada,986,Japan,7,FirstHalf,Pass,Successful,21.5,58.8,2.5,49
+48,447570,Zion Suzuki,986,Japan,7,FirstHalf,Pass,Successful,2.5,49,12.6,4
+49,377283,Takehiro Tomiyasu,986,Japan,7,FirstHalf,Pass,Unsuccessful,12.6,4,36,1.9
+90,115097,Douglas Santos,409,Brazil,7,FirstHalf,BallTouch,Successful,68.3,94.5,,
+51,377283,Takehiro Tomiyasu,986,Japan,7,FirstHalf,Pass,Successful,34.8,0,34.9,9.4
+52,509815,Kaishu Sano,986,Japan,7,FirstHalf,Pass,Successful,34.9,9.4,32.7,2.3
+53,377283,Takehiro Tomiyasu,986,Japan,7,FirstHalf,Pass,Successful,32.7,2.3,36,6.7
+54,509815,Kaishu Sano,986,Japan,7,FirstHalf,Pass,Successful,34.4,5.2,33,3.7
+55,377283,Takehiro Tomiyasu,986,Japan,7,FirstHalf,Pass,Unsuccessful,32.6,2.5,53,0
+93,115097,Douglas Santos,409,Brazil,7,FirstHalf,Pass,Successful,49.1,100,32.2,91.8
+94,334087,Gabriel Magalhães,409,Brazil,7,FirstHalf,Pass,Successful,33.2,90.3,31.3,50.4
+95,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,35.1,47.1,36,17.4
+96,88300,Danilo,409,Brazil,7,FirstHalf,Pass,Successful,36.2,17.1,31,33.4
+97,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,32.9,37.2,35.1,67.3
+98,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,41.4,67.3,37.5,37.2
+99,101949,Marquinhos,409,Brazil,8,FirstHalf,Pass,Successful,40.6,37.3,45,61.6
+100,88526,Casemiro,409,Brazil,8,FirstHalf,Pass,Successful,46.4,64.5,41.2,71.4
+101,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,43.1,70.9,46.4,54.4
+102,338780,Bruno Guimarães,409,Brazil,8,FirstHalf,Pass,Successful,46.1,55.9,41.9,32.2
+103,101949,Marquinhos,409,Brazil,8,FirstHalf,Pass,Successful,46.9,31,68.7,4.2
+104,472122,Rayan,409,Brazil,8,FirstHalf,Pass,Successful,68.2,6.7,64.9,28.2
+105,338780,Bruno Guimarães,409,Brazil,8,FirstHalf,Pass,Successful,66,28.2,80.5,3.7
+106,88300,Danilo,409,Brazil,8,FirstHalf,Pass,Successful,80.5,3.9,71.7,15.4
+107,338780,Bruno Guimarães,409,Brazil,8,FirstHalf,Pass,Successful,71.7,15.4,56.4,28.5
+108,101949,Marquinhos,409,Brazil,8,FirstHalf,Pass,Successful,57.3,28.6,55.8,60.3
+109,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,64.4,72,71,73
+110,337782,Vinícius Júnior,409,Brazil,8,FirstHalf,Pass,Successful,71,73,63.6,73.8
+111,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,63,74.4,55.2,55.6
+112,88526,Casemiro,409,Brazil,8,FirstHalf,Pass,Successful,54.5,55.6,54.6,40.5
+113,101949,Marquinhos,409,Brazil,8,FirstHalf,Pass,Successful,56.3,38.1,75,9.6
+114,472122,Rayan,409,Brazil,8,FirstHalf,Pass,Successful,71.4,13.8,80.3,86.7
+115,115097,Douglas Santos,409,Brazil,8,FirstHalf,Pass,Successful,80.3,86.7,66.9,73.6
+116,334087,Gabriel Magalhães,409,Brazil,8,FirstHalf,Pass,Successful,66.9,73.6,64.3,55.6
+117,88526,Casemiro,409,Brazil,8,FirstHalf,Pass,Successful,64.9,57,74.8,96.7
+118,115097,Douglas Santos,409,Brazil,9,FirstHalf,Pass,Successful,70.5,93,56.3,82.3
+119,334087,Gabriel Magalhães,409,Brazil,9,FirstHalf,Pass,Successful,54.5,81.1,46.1,63.3
+120,88526,Casemiro,409,Brazil,9,FirstHalf,Pass,Successful,46.1,63.3,45.8,34
+121,101949,Marquinhos,409,Brazil,9,FirstHalf,Pass,Successful,53.2,34,59.2,25.9
+122,338780,Bruno Guimarães,409,Brazil,9,FirstHalf,Pass,Successful,59.2,25.9,69.8,6.3
+123,88300,Danilo,409,Brazil,9,FirstHalf,Pass,Successful,70.3,5.4,59.5,15.7
+124,338780,Bruno Guimarães,409,Brazil,9,FirstHalf,Pass,Successful,65.3,30.6,57.3,52.6
+125,88526,Casemiro,409,Brazil,9,FirstHalf,Pass,Successful,58,47.8,98.1,26.8
+126,88300,Danilo,409,Brazil,9,FirstHalf,Pass,Successful,98.1,26.7,89.9,59.7
+127,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,TakeOn,Unsuccessful,89.6,60.2,,
+57,343435,Ritsu Doan,986,Japan,9,FirstHalf,Tackle,Unsuccessful,10.4,39.8,,
+128,115097,Douglas Santos,409,Brazil,9,FirstHalf,Pass,Successful,86,62.7,84.1,61.5
+129,338780,Bruno Guimarães,409,Brazil,9,FirstHalf,SavedShot,Successful,84.6,62.6,,
+130,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,BallTouch,Successful,87.3,62.2,,
+131,334087,Gabriel Magalhães,409,Brazil,9,FirstHalf,Pass,Successful,77.9,76.2,76.4,67.6
+132,338780,Bruno Guimarães,409,Brazil,9,FirstHalf,Pass,Successful,75.7,72,84.4,96.3
+133,115097,Douglas Santos,409,Brazil,9,FirstHalf,Pass,Successful,84.4,96.3,75.1,91.6
+134,334087,Gabriel Magalhães,409,Brazil,9,FirstHalf,Pass,Successful,74.4,90.7,62.1,69.6
+135,88526,Casemiro,409,Brazil,9,FirstHalf,Pass,Successful,62.4,68.7,64,35.5
+136,101949,Marquinhos,409,Brazil,9,FirstHalf,Pass,Unsuccessful,67,38.4,88.8,55.8
+58,143724,Shogo Taniguchi,986,Japan,9,FirstHalf,Clearance,Successful,15.2,41.5,2.7,58.7
+59,447570,Zion Suzuki,986,Japan,9,FirstHalf,KeeperPickup,Successful,2.6,58.8,,
+60,447570,Zion Suzuki,986,Japan,10,FirstHalf,Pass,Successful,14.5,46.9,23.5,87.5
+61,422717,Hiroki Ito,986,Japan,10,FirstHalf,Pass,Successful,22.2,82.3,14.6,61.2
+62,143724,Shogo Taniguchi,986,Japan,10,FirstHalf,Pass,Successful,13.6,55.2,16,14.3
+63,377283,Takehiro Tomiyasu,986,Japan,10,FirstHalf,Pass,Successful,21.8,16.4,38.1,28.9
+64,370255,Junya Ito,986,Japan,10,FirstHalf,Pass,Successful,38.1,28.9,32.3,29.5
+65,509815,Kaishu Sano,986,Japan,10,FirstHalf,Pass,Successful,36.5,43.6,34.6,72
+66,422717,Hiroki Ito,986,Japan,10,FirstHalf,Pass,Successful,40.2,82,48.6,88.1
+67,344166,Daichi Kamada,986,Japan,10,FirstHalf,Pass,Successful,47.9,89.4,45.9,69.7
+68,509815,Kaishu Sano,986,Japan,10,FirstHalf,Pass,Successful,45.9,69.7,42.5,82.4
+69,344166,Daichi Kamada,986,Japan,10,FirstHalf,Pass,Successful,45,82.1,53.8,95.9
+70,379700,Keito Nakamura,986,Japan,10,FirstHalf,Pass,Successful,53.8,95.9,42,92.3
+71,344166,Daichi Kamada,986,Japan,10,FirstHalf,Pass,Successful,42.8,89.9,38,64.8
+72,422717,Hiroki Ito,986,Japan,10,FirstHalf,Pass,Successful,40.4,54.2,47.3,53.3
+73,509815,Kaishu Sano,986,Japan,10,FirstHalf,Pass,Successful,54.9,46,47,31.9
+74,143724,Shogo Taniguchi,986,Japan,10,FirstHalf,Pass,Successful,49.2,34.3,56.1,7
+75,377283,Takehiro Tomiyasu,986,Japan,10,FirstHalf,Pass,Successful,56.1,7,63.6,2.2
+76,343435,Ritsu Doan,986,Japan,10,FirstHalf,Pass,Successful,63.6,2.2,67.6,10.6
+77,370255,Junya Ito,986,Japan,10,FirstHalf,Pass,Successful,67.6,10.6,62.7,30.4
+78,509815,Kaishu Sano,986,Japan,10,FirstHalf,Pass,Successful,63.3,32.2,80.8,90
+79,379700,Keito Nakamura,986,Japan,11,FirstHalf,Pass,Unsuccessful,85.5,75.9,92.6,48.5
+137,101949,Marquinhos,409,Brazil,11,FirstHalf,Clearance,Successful,10.1,48.3,25,84.7
+138,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,BallRecovery,Successful,23.7,85.2,,
+139,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,Pass,Successful,18.2,87.7,12.3,92.4
+140,115097,Douglas Santos,409,Brazil,11,FirstHalf,Pass,Unsuccessful,12.3,92.5,46.4,74.4
+80,143724,Shogo Taniguchi,986,Japan,11,FirstHalf,Pass,Successful,53.3,22.7,65.1,9.1
+81,509815,Kaishu Sano,986,Japan,11,FirstHalf,BallTouch,Unsuccessful,62.3,7.1,,
+141,337782,Vinícius Júnior,409,Brazil,11,FirstHalf,Foul,Successful,40,88.6,,
+82,509815,Kaishu Sano,986,Japan,11,FirstHalf,Foul,Unsuccessful,60,11.4,,
+83,509815,Kaishu Sano,986,Japan,11,FirstHalf,Card,Successful,0,0,,
+142,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,Pass,Successful,43.3,80.3,33.8,45.4
+144,101949,Marquinhos,409,Brazil,11,FirstHalf,Pass,Successful,37.1,53.2,37.8,69.4
+145,334087,Gabriel Magalhães,409,Brazil,11,FirstHalf,Pass,Successful,37.9,69.3,42.2,81
+146,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,Pass,Successful,44.1,81.4,38.8,39.1
+147,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,39.3,39.6,41.9,9.6
+148,88300,Danilo,409,Brazil,12,FirstHalf,Pass,Successful,41.8,10.6,33.4,39.6
+149,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,33.8,39.9,35.9,67.8
+150,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,48.6,68.5,53.3,49.6
+151,88526,Casemiro,409,Brazil,12,FirstHalf,Pass,Successful,53.3,49.6,50.6,68.5
+152,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,55.4,66.7,66.5,42
+153,338780,Bruno Guimarães,409,Brazil,12,FirstHalf,Pass,Successful,66.5,42,55.4,44.4
+154,88526,Casemiro,409,Brazil,12,FirstHalf,Pass,Successful,55.8,43.3,62.7,16.6
+155,88300,Danilo,409,Brazil,12,FirstHalf,Pass,Successful,62.8,16.8,60.4,31.8
+156,88526,Casemiro,409,Brazil,12,FirstHalf,Pass,Unsuccessful,61.6,31.5,78.4,72.1
+84,343435,Ritsu Doan,986,Japan,12,FirstHalf,BallRecovery,Successful,24.7,23.7,,
+85,343435,Ritsu Doan,986,Japan,12,FirstHalf,Pass,Successful,30,6.7,19.3,18.5
+86,377283,Takehiro Tomiyasu,986,Japan,12,FirstHalf,Pass,Successful,15.9,23.9,3.3,47
+87,447570,Zion Suzuki,986,Japan,12,FirstHalf,Pass,Successful,3.3,47,9.4,65.5
+88,143724,Shogo Taniguchi,986,Japan,12,FirstHalf,Pass,Successful,15.3,60.6,3.2,47.8
+89,447570,Zion Suzuki,986,Japan,12,FirstHalf,Pass,Successful,7.8,45.2,68.7,60.8
+90,377288,Ayase Ueda,986,Japan,12,FirstHalf,BallTouch,Unsuccessful,68.7,60.8,,
+157,88300,Danilo,409,Brazil,12,FirstHalf,Pass,Successful,33.6,30.3,46.4,57.7
+158,319756,Lucas Paquetá,409,Brazil,12,FirstHalf,BallRecovery,Successful,45.9,58,,
+159,319756,Lucas Paquetá,409,Brazil,12,FirstHalf,Pass,Successful,45.9,58,40.9,51.6
+160,88526,Casemiro,409,Brazil,12,FirstHalf,Pass,Successful,46.1,49.8,70.5,49.6
+161,338780,Bruno Guimarães,409,Brazil,12,FirstHalf,Pass,Successful,70,49,77.9,45.9
+162,362758,Matheus Cunha,409,Brazil,13,FirstHalf,MissedShots,Successful,78.5,47.4,,
+91,447570,Zion Suzuki,986,Japan,13,FirstHalf,Save,Successful,1.5,48.8,,
+163,362758,Matheus Cunha,409,Brazil,13,FirstHalf,CornerAwarded,Successful,99.2,61.6,,
+92,447570,Zion Suzuki,986,Japan,13,FirstHalf,CornerAwarded,Unsuccessful,0.8,38.4,,
+164,337782,Vinícius Júnior,409,Brazil,13,FirstHalf,Pass,Successful,99.5,99.5,91,91.2
+165,338780,Bruno Guimarães,409,Brazil,13,FirstHalf,Pass,Successful,90.9,90.9,85,91.9
+166,337782,Vinícius Júnior,409,Brazil,13,FirstHalf,Pass,Successful,85,91.9,79.8,74.1
+167,319756,Lucas Paquetá,409,Brazil,13,FirstHalf,Pass,Successful,79.8,73.9,88.5,70.9
+168,338780,Bruno Guimarães,409,Brazil,13,FirstHalf,MissedShots,Successful,88.5,70.9,,
+94,143724,Shogo Taniguchi,986,Japan,13,FirstHalf,Pass,Successful,5.1,61.5,4.2,46.4
+95,447570,Zion Suzuki,986,Japan,13,FirstHalf,Pass,Successful,7.3,46.3,29.6,91.8
+96,422717,Hiroki Ito,986,Japan,13,FirstHalf,Pass,Successful,52.1,91.1,64.9,59.9
+97,370255,Junya Ito,986,Japan,13,FirstHalf,Foul,Successful,80.1,66.9,,
+170,88526,Casemiro,409,Brazil,13,FirstHalf,Foul,Unsuccessful,19.9,33.1,,
+171,88526,Casemiro,409,Brazil,13,FirstHalf,Card,Successful,0,0,,
+98,344166,Daichi Kamada,986,Japan,15,FirstHalf,SavedShot,Successful,81.1,65.8,,
+172,88526,Casemiro,409,Brazil,15,FirstHalf,Save,Successful,11.1,40.4,,
+99,344166,Daichi Kamada,986,Japan,15,FirstHalf,CornerAwarded,Successful,93.6,69.4,,
+173,88526,Casemiro,409,Brazil,15,FirstHalf,CornerAwarded,Unsuccessful,6.4,30.6,,
+100,370255,Junya Ito,986,Japan,16,FirstHalf,Pass,Unsuccessful,99.5,99.5,97.3,53.7
+174,88526,Casemiro,409,Brazil,16,FirstHalf,Aerial,Successful,2.7,46.3,,
+101,377283,Takehiro Tomiyasu,986,Japan,16,FirstHalf,Aerial,Unsuccessful,97.3,53.7,,
+175,88526,Casemiro,409,Brazil,16,FirstHalf,Clearance,Successful,2.7,46.3,14.4,46
+176,338780,Bruno Guimarães,409,Brazil,16,FirstHalf,Clearance,Successful,14.4,46,47.5,29.7
+102,509815,Kaishu Sano,986,Japan,16,FirstHalf,Pass,Successful,56.3,65.2,65.8,89.1
+103,379700,Keito Nakamura,986,Japan,16,FirstHalf,Pass,Successful,65.8,89.1,73.6,95.6
+104,370255,Junya Ito,986,Japan,16,FirstHalf,Pass,Unsuccessful,87.7,90.2,100,82.4
+178,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Pass,Successful,4.7,60,3.9,49
+179,114147,Alisson Becker,409,Brazil,16,FirstHalf,Pass,Successful,4.3,48.9,8.6,18.6
+180,101949,Marquinhos,409,Brazil,16,FirstHalf,Pass,Successful,8.6,18.3,48,12.1
+181,472122,Rayan,409,Brazil,16,FirstHalf,Aerial,Successful,48,12.1,,
+106,422717,Hiroki Ito,986,Japan,16,FirstHalf,Aerial,Unsuccessful,52,87.9,,
+182,472122,Rayan,409,Brazil,16,FirstHalf,Pass,Unsuccessful,48,12.1,48.8,13.6
+107,422717,Hiroki Ito,986,Japan,16,FirstHalf,BallTouch,Successful,52.1,86.8,,
+108,509815,Kaishu Sano,986,Japan,16,FirstHalf,Pass,Successful,42.8,63.4,34.6,80.9
+109,143724,Shogo Taniguchi,986,Japan,16,FirstHalf,BallRecovery,Successful,34.6,80.9,,
+110,143724,Shogo Taniguchi,986,Japan,16,FirstHalf,Pass,Successful,34.6,80.9,41.9,81.8
+111,344166,Daichi Kamada,986,Japan,16,FirstHalf,Pass,Successful,41.9,81.8,32.9,57.3
+112,143724,Shogo Taniguchi,986,Japan,16,FirstHalf,Pass,Successful,32.9,57.3,38.1,59.3
+113,509815,Kaishu Sano,986,Japan,16,FirstHalf,Pass,Successful,38.1,59.3,33.6,23.3
+114,377283,Takehiro Tomiyasu,986,Japan,17,FirstHalf,Pass,Successful,34.4,27.7,44.3,11.4
+115,509815,Kaishu Sano,986,Japan,17,FirstHalf,Pass,Successful,59.6,12.3,71.4,2.9
+116,343435,Ritsu Doan,986,Japan,17,FirstHalf,Pass,Successful,71.4,2.9,92.7,10.1
+117,377287,Daizen Maeda,986,Japan,17,FirstHalf,Pass,Unsuccessful,92.7,10.1,93.1,12.5
+183,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Clearance,Successful,6.9,87.5,,
+119,343435,Ritsu Doan,986,Japan,17,FirstHalf,Pass,Successful,86.5,0,89.3,18.3
+185,,,409,Brazil,17,FirstHalf,Foul,Successful,13.2,81.4,,
+120,377288,Ayase Ueda,986,Japan,17,FirstHalf,Foul,Unsuccessful,86.8,18.6,,
+186,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Successful,16.4,76.6,12.6,52.3
+187,114147,Alisson Becker,409,Brazil,17,FirstHalf,Pass,Successful,13,50.8,15.7,34.5
+188,101949,Marquinhos,409,Brazil,17,FirstHalf,Pass,Successful,18.9,37.3,22.2,71.7
+189,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Successful,29.3,72.3,43.5,94.2
+190,115097,Douglas Santos,409,Brazil,17,FirstHalf,Pass,Successful,43.2,94.2,36.8,75.1
+191,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,37.2,73.8,35.9,41.1
+192,101949,Marquinhos,409,Brazil,18,FirstHalf,Pass,Successful,36.1,40.8,42.8,12.4
+193,88300,Danilo,409,Brazil,18,FirstHalf,Pass,Successful,42.8,12.4,35.2,31.6
+194,101949,Marquinhos,409,Brazil,18,FirstHalf,Pass,Successful,36.8,33.4,38.3,68.8
+195,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,41.6,65.1,40.6,39.7
+196,101949,Marquinhos,409,Brazil,18,FirstHalf,Pass,Successful,42.7,41.4,44.6,61
+197,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,47,62.4,53.5,76.5
+198,362758,Matheus Cunha,409,Brazil,18,FirstHalf,Pass,Successful,53.8,74.4,45.9,33.7
+199,101949,Marquinhos,409,Brazil,18,FirstHalf,Pass,Successful,55,34.5,45.7,59.4
+200,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,45.8,59.4,52.6,55.5
+201,88526,Casemiro,409,Brazil,18,FirstHalf,Pass,Successful,56.5,64.6,45.7,70
+202,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,46.8,69.1,54.3,50.1
+203,338780,Bruno Guimarães,409,Brazil,18,FirstHalf,Pass,Successful,48.1,55.6,46,67.9
+204,88526,Casemiro,409,Brazil,18,FirstHalf,Pass,Successful,46,67.9,46.9,36.9
+205,101949,Marquinhos,409,Brazil,18,FirstHalf,Pass,Successful,46.9,36.9,41.9,70.2
+206,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,Pass,Successful,42.2,71.8,46.9,58.6
+207,338780,Bruno Guimarães,409,Brazil,18,FirstHalf,Pass,Successful,47.7,59.1,59.3,79.3
+208,319756,Lucas Paquetá,409,Brazil,18,FirstHalf,Pass,Successful,63.7,83.4,68.6,87.7
+209,337782,Vinícius Júnior,409,Brazil,18,FirstHalf,Dispossessed,Successful,66,91.2,,
+123,370255,Junya Ito,986,Japan,18,FirstHalf,Tackle,Successful,34,8.8,,
+211,319756,Lucas Paquetá,409,Brazil,19,FirstHalf,Pass,Successful,63.8,100,48.3,86.1
+212,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,48.3,86.1,46.7,43.6
+213,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,50.8,41.5,53.3,16.6
+214,88300,Danilo,409,Brazil,19,FirstHalf,Pass,Successful,53.3,16.6,43.7,37
+215,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,46.8,37.2,52.9,16.8
+216,88300,Danilo,409,Brazil,19,FirstHalf,Pass,Successful,52.5,17.1,62.3,9.9
+217,362758,Matheus Cunha,409,Brazil,19,FirstHalf,TakeOn,Unsuccessful,59.6,7.6,,
+125,379700,Keito Nakamura,986,Japan,19,FirstHalf,Tackle,Unsuccessful,40.4,92.4,,
+218,362758,Matheus Cunha,409,Brazil,19,FirstHalf,BallTouch,Successful,61.3,10.8,,
+138,379700,Keito Nakamura,986,Japan,19,FirstHalf,BallTouch,Successful,42.7,96.7,,
+257,362758,Matheus Cunha,409,Brazil,19,FirstHalf,BallTouch,Successful,57.3,3.3,,
+127,422717,Hiroki Ito,986,Japan,19,FirstHalf,Pass,Successful,42.2,100,62.2,88.6
+128,377288,Ayase Ueda,986,Japan,19,FirstHalf,Aerial,Successful,62.2,88.6,,
+220,101949,Marquinhos,409,Brazil,19,FirstHalf,Aerial,Unsuccessful,37.8,11.4,,
+129,377288,Ayase Ueda,986,Japan,19,FirstHalf,Pass,Successful,62.2,88.6,46.6,69
+130,509815,Kaishu Sano,986,Japan,19,FirstHalf,Dispossessed,Successful,44.4,68,,
+221,338780,Bruno Guimarães,409,Brazil,19,FirstHalf,Tackle,Unsuccessful,55.6,32,,
+132,509815,Kaishu Sano,986,Japan,19,FirstHalf,Pass,Successful,41,73.3,36.5,71.1
+133,143724,Shogo Taniguchi,986,Japan,19,FirstHalf,Pass,Successful,36.5,71.1,36,85.7
+134,422717,Hiroki Ito,986,Japan,19,FirstHalf,Pass,Unsuccessful,35.4,86.3,45.7,22.8
+223,115097,Douglas Santos,409,Brazil,19,FirstHalf,BallRecovery,Successful,63.4,70.3,,
+224,115097,Douglas Santos,409,Brazil,19,FirstHalf,Pass,Successful,68.4,71.8,83.9,86.4
+225,337782,Vinícius Júnior,409,Brazil,19,FirstHalf,Pass,Unsuccessful,92.5,83.1,89.4,59.5
+135,143724,Shogo Taniguchi,986,Japan,19,FirstHalf,Clearance,Successful,8.8,44.8,14.3,18.3
+226,115097,Douglas Santos,409,Brazil,19,FirstHalf,Pass,Successful,88.3,83.1,97,80.2
+227,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,Pass,Unsuccessful,97.2,80.1,97.2,78
+136,509815,Kaishu Sano,986,Japan,20,FirstHalf,Clearance,Successful,2.8,22,,
+137,377283,Takehiro Tomiyasu,986,Japan,20,FirstHalf,Clearance,Successful,2.3,34.8,54.4,4.6
+228,334087,Gabriel Magalhães,409,Brazil,20,FirstHalf,Pass,Successful,44,94.5,55.4,74.5
+229,88526,Casemiro,409,Brazil,20,FirstHalf,Pass,Successful,56.1,73.8,54.1,44.5
+230,101949,Marquinhos,409,Brazil,20,FirstHalf,Pass,Successful,57,42.3,66.8,8.5
+231,88300,Danilo,409,Brazil,20,FirstHalf,Pass,Successful,66.8,8.5,75.5,5.7
+232,472122,Rayan,409,Brazil,20,FirstHalf,Pass,Successful,75.6,5.7,53.5,15.7
+233,101949,Marquinhos,409,Brazil,20,FirstHalf,Pass,Successful,56.9,21.6,57.5,57.6
+234,334087,Gabriel Magalhães,409,Brazil,20,FirstHalf,Pass,Successful,57.5,57.6,58.1,39.1
+235,88526,Casemiro,409,Brazil,20,FirstHalf,Pass,Successful,58.1,39.1,53,33.6
+236,101949,Marquinhos,409,Brazil,20,FirstHalf,Pass,Successful,56,36.3,63.4,16.6
+237,88300,Danilo,409,Brazil,20,FirstHalf,Pass,Successful,62.6,16.5,73,6.3
+238,472122,Rayan,409,Brazil,20,FirstHalf,Pass,Successful,72.9,6.3,58.8,8.2
+239,88300,Danilo,409,Brazil,20,FirstHalf,Pass,Successful,58.6,6.6,42.1,38.1
+240,101949,Marquinhos,409,Brazil,20,FirstHalf,Pass,Successful,44.9,40.3,46.3,60.4
+241,334087,Gabriel Magalhães,409,Brazil,20,FirstHalf,Pass,Successful,60.1,66,72,73.3
+242,337782,Vinícius Júnior,409,Brazil,20,FirstHalf,Pass,Successful,72,73.3,61.6,93.4
+243,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,Pass,Successful,62.7,93.6,63.6,76.9
+244,337782,Vinícius Júnior,409,Brazil,20,FirstHalf,Pass,Successful,63.6,76.9,67.5,67.5
+245,362758,Matheus Cunha,409,Brazil,20,FirstHalf,Pass,Successful,67.5,67.5,62.9,72.4
+246,337782,Vinícius Júnior,409,Brazil,21,FirstHalf,Pass,Successful,65,74.7,63.7,86.7
+247,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Successful,61.7,84.1,55.7,43.6
+248,101949,Marquinhos,409,Brazil,21,FirstHalf,Pass,Successful,55.8,42.9,62.6,27.9
+249,88526,Casemiro,409,Brazil,21,FirstHalf,Pass,Successful,64.5,25,58.6,64.5
+250,334087,Gabriel Magalhães,409,Brazil,21,FirstHalf,Pass,Successful,62.4,67,65.4,86.4
+251,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Successful,66.5,83.8,68.4,62.7
+252,338780,Bruno Guimarães,409,Brazil,21,FirstHalf,Pass,Successful,69.4,65.5,74.4,69.9
+253,362758,Matheus Cunha,409,Brazil,21,FirstHalf,Pass,Successful,74.4,70,60.9,62.5
+254,334087,Gabriel Magalhães,409,Brazil,21,FirstHalf,Pass,Successful,61,62.5,65.6,62.4
+255,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Unsuccessful,66.2,62.4,83.7,0
+140,422717,Hiroki Ito,986,Japan,21,FirstHalf,Pass,Successful,14.9,100,3.9,84.2
+141,143724,Shogo Taniguchi,986,Japan,21,FirstHalf,Pass,Unsuccessful,5.4,75.6,58.3,31.8
+258,115097,Douglas Santos,409,Brazil,21,FirstHalf,BallRecovery,Successful,45.3,65.2,,
+259,115097,Douglas Santos,409,Brazil,21,FirstHalf,Pass,Successful,46.8,63.1,65.2,54.3
+260,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Successful,57.9,48,59.3,13.6
+261,88300,Danilo,409,Brazil,21,FirstHalf,Pass,Successful,59.2,13.6,54.2,31.6
+262,319756,Lucas Paquetá,409,Brazil,22,FirstHalf,Pass,Successful,56.7,33.3,63,7.8
+263,88300,Danilo,409,Brazil,22,FirstHalf,Pass,Unsuccessful,58.8,4.9,64.1,8.6
+142,377287,Daizen Maeda,986,Japan,22,FirstHalf,Interception,Successful,35.9,91.4,,
+265,88300,Danilo,409,Brazil,22,FirstHalf,Pass,Successful,70.6,0,59.1,11.7
+266,319756,Lucas Paquetá,409,Brazil,22,FirstHalf,Pass,Successful,63,19.8,57.7,51.4
+267,334087,Gabriel Magalhães,409,Brazil,22,FirstHalf,Pass,Successful,60.2,58.5,68.4,96.9
+268,115097,Douglas Santos,409,Brazil,22,FirstHalf,Pass,Successful,68.4,96.9,85.5,93.7
+269,362758,Matheus Cunha,409,Brazil,22,FirstHalf,TakeOn,Unsuccessful,94.9,89.5,,
+148,143724,Shogo Taniguchi,986,Japan,26,FirstHalf,Pass,Successful,4.7,61.8,4.3,48.7
+149,447570,Zion Suzuki,986,Japan,26,FirstHalf,Pass,Unsuccessful,8.3,45.7,68,24.9
+273,334087,Gabriel Magalhães,409,Brazil,26,FirstHalf,Aerial,Successful,32,75.1,,
+150,377288,Ayase Ueda,986,Japan,26,FirstHalf,Aerial,Unsuccessful,68,24.9,,
+274,334087,Gabriel Magalhães,409,Brazil,26,FirstHalf,Interception,Successful,33.7,73.9,,
+151,379700,Keito Nakamura,986,Japan,26,FirstHalf,Pass,Successful,63.6,26.4,67.3,3.8
+152,370255,Junya Ito,986,Japan,26,FirstHalf,Pass,Successful,70.3,3.8,96.7,17
+153,379700,Keito Nakamura,986,Japan,26,FirstHalf,Pass,Unsuccessful,96.7,17,96.6,21.9
+275,334087,Gabriel Magalhães,409,Brazil,26,FirstHalf,Clearance,Successful,3.4,78.1,,
+154,379700,Keito Nakamura,986,Japan,26,FirstHalf,CornerAwarded,Successful,99,18.8,,
+276,334087,Gabriel Magalhães,409,Brazil,26,FirstHalf,CornerAwarded,Unsuccessful,1,81.2,,
+155,370255,Junya Ito,986,Japan,26,FirstHalf,Pass,Successful,99.5,0.5,91.4,52.1
+156,377288,Ayase Ueda,986,Japan,27,FirstHalf,Aerial,Successful,91.4,52.1,,
+277,88300,Danilo,409,Brazil,27,FirstHalf,Aerial,Unsuccessful,8.6,47.9,,
+157,377288,Ayase Ueda,986,Japan,27,FirstHalf,MissedShots,Successful,91.4,52.1,,
+279,334087,Gabriel Magalhães,409,Brazil,27,FirstHalf,Pass,Successful,4.6,58.6,3.1,50.1
+280,114147,Alisson Becker,409,Brazil,27,FirstHalf,Pass,Successful,4.1,49.6,16.3,50.8
+281,338780,Bruno Guimarães,409,Brazil,27,FirstHalf,Pass,Successful,12.8,57.5,12.8,80.1
+282,334087,Gabriel Magalhães,409,Brazil,27,FirstHalf,Pass,Successful,16.4,80.7,13,57.4
+283,114147,Alisson Becker,409,Brazil,27,FirstHalf,Pass,Successful,13.5,57.6,16,75.4
+284,334087,Gabriel Magalhães,409,Brazil,27,FirstHalf,Pass,Successful,20.1,68.1,17.1,30.6
+285,101949,Marquinhos,409,Brazil,27,FirstHalf,Pass,Successful,17.1,30.6,8.8,43.9
+286,114147,Alisson Becker,409,Brazil,27,FirstHalf,Pass,Successful,8.8,43.9,57.3,46.2
+287,319756,Lucas Paquetá,409,Brazil,27,FirstHalf,BallTouch,Unsuccessful,58,46.5,,
+159,143724,Shogo Taniguchi,986,Japan,27,FirstHalf,BallRecovery,Successful,37.6,51.8,,
+160,143724,Shogo Taniguchi,986,Japan,27,FirstHalf,Pass,Successful,37.6,51.8,33,67.6
+161,422717,Hiroki Ito,986,Japan,27,FirstHalf,Pass,Unsuccessful,33,67.6,86.9,69.9
+288,114147,Alisson Becker,409,Brazil,27,FirstHalf,KeeperPickup,Successful,12.8,31.8,,
+289,114147,Alisson Becker,409,Brazil,27,FirstHalf,Pass,Successful,12.8,32.1,18.9,33.7
+290,101949,Marquinhos,409,Brazil,27,FirstHalf,Pass,Successful,21.4,32.5,27.1,67.6
+291,334087,Gabriel Magalhães,409,Brazil,27,FirstHalf,Pass,Successful,30.6,67.2,31.2,34.2
+292,101949,Marquinhos,409,Brazil,28,FirstHalf,Pass,Successful,33.3,36.4,39.8,6.6
+293,88300,Danilo,409,Brazil,28,FirstHalf,Pass,Successful,39.8,6.9,38,32.4
+294,101949,Marquinhos,409,Brazil,28,FirstHalf,Pass,Successful,38,32.4,35.9,8.4
+295,88300,Danilo,409,Brazil,28,FirstHalf,Pass,Successful,35.8,8.5,15.7,40.5
+296,114147,Alisson Becker,409,Brazil,28,FirstHalf,Pass,Successful,13.3,44.7,19.1,66
+297,334087,Gabriel Magalhães,409,Brazil,28,FirstHalf,Pass,Successful,22.9,66.4,12.5,47.5
+298,114147,Alisson Becker,409,Brazil,28,FirstHalf,Pass,Successful,15,44.5,15.4,18
+299,101949,Marquinhos,409,Brazil,28,FirstHalf,Pass,Unsuccessful,19.2,14.2,59.7,35.7
+162,143724,Shogo Taniguchi,986,Japan,28,FirstHalf,BallRecovery,Successful,45.5,66.4,,
+163,143724,Shogo Taniguchi,986,Japan,28,FirstHalf,Pass,Successful,45.8,65.2,62.6,42.1
+164,370255,Junya Ito,986,Japan,28,FirstHalf,TakeOn,Unsuccessful,64.2,42.5,,
+300,319756,Lucas Paquetá,409,Brazil,28,FirstHalf,Tackle,Successful,35.8,57.5,,
+301,472122,Rayan,409,Brazil,28,FirstHalf,BallRecovery,Successful,35.4,45.3,,
+302,472122,Rayan,409,Brazil,28,FirstHalf,Pass,Successful,35.4,45.3,31.9,47.5
+303,88526,Casemiro,409,Brazil,28,FirstHalf,Pass,Successful,31.9,47.5,44,27.4
+304,88300,Danilo,409,Brazil,28,FirstHalf,Pass,Unsuccessful,44,27.4,50.4,43
+166,509815,Kaishu Sano,986,Japan,28,FirstHalf,Interception,Successful,49.6,57,,
+305,88300,Danilo,409,Brazil,28,FirstHalf,Error,Successful,42.8,20.1,,
+167,509815,Kaishu Sano,986,Japan,28,FirstHalf,BallRecovery,Successful,53.1,54.6,,
+168,509815,Kaishu Sano,986,Japan,28,FirstHalf,Goal,Successful,75.1,42.9,,
+306,319756,Lucas Paquetá,409,Brazil,30,FirstHalf,Pass,Successful,49.8,50.5,26.2,46.5
+307,114147,Alisson Becker,409,Brazil,30,FirstHalf,Pass,Unsuccessful,30,43.8,69.4,14.7
+169,422717,Hiroki Ito,986,Japan,30,FirstHalf,Aerial,Successful,30.6,85.3,,
+308,472122,Rayan,409,Brazil,30,FirstHalf,Aerial,Unsuccessful,69.4,14.7,,
+170,422717,Hiroki Ito,986,Japan,30,FirstHalf,Pass,Unsuccessful,30.6,85.3,27.2,85.4
+332,472122,Rayan,409,Brazil,30,FirstHalf,BallTouch,Successful,71.8,10.6,,
+309,338780,Bruno Guimarães,409,Brazil,30,FirstHalf,Pass,Successful,66.8,20.9,61.7,26.6
+310,88526,Casemiro,409,Brazil,30,FirstHalf,Pass,Successful,59.3,30.3,70,31.3
+311,362758,Matheus Cunha,409,Brazil,30,FirstHalf,Pass,Successful,74.2,21.9,75.5,11.2
+312,472122,Rayan,409,Brazil,30,FirstHalf,Pass,Successful,75.5,11.2,73.1,16
+313,362758,Matheus Cunha,409,Brazil,30,FirstHalf,Pass,Successful,72.3,14.8,59.1,13.8
+314,88300,Danilo,409,Brazil,30,FirstHalf,Pass,Successful,59.9,17.4,57.9,50.1
+315,101949,Marquinhos,409,Brazil,30,FirstHalf,Pass,Successful,57.9,50.1,68.1,91.2
+316,115097,Douglas Santos,409,Brazil,30,FirstHalf,Pass,Successful,68,90.7,61.7,72.6
+317,334087,Gabriel Magalhães,409,Brazil,30,FirstHalf,Pass,Successful,61.9,71.4,60.7,41.7
+318,101949,Marquinhos,409,Brazil,30,FirstHalf,Pass,Successful,60.9,40.3,72.4,8.5
+319,472122,Rayan,409,Brazil,30,FirstHalf,Pass,Successful,69.2,6.7,56.2,13.9
+320,88300,Danilo,409,Brazil,30,FirstHalf,Pass,Successful,58.1,17.1,56,32.8
+321,101949,Marquinhos,409,Brazil,30,FirstHalf,Pass,Successful,56.7,35.8,55.1,59.5
+322,334087,Gabriel Magalhães,409,Brazil,30,FirstHalf,Pass,Successful,60.3,64.2,71.1,83.7
+323,115097,Douglas Santos,409,Brazil,30,FirstHalf,Pass,Successful,70.9,83.5,77.5,95.2
+324,337782,Vinícius Júnior,409,Brazil,30,FirstHalf,Pass,Unsuccessful,72.4,87.4,73.2,85.9
+172,370255,Junya Ito,986,Japan,30,FirstHalf,Clearance,Successful,26.8,14.1,,
+326,115097,Douglas Santos,409,Brazil,31,FirstHalf,Pass,Successful,65.8,100,52.6,90.7
+327,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,Pass,Successful,53.3,87.6,46.3,49.2
+328,101949,Marquinhos,409,Brazil,31,FirstHalf,Pass,Successful,47.1,48,53.8,20.1
+329,88300,Danilo,409,Brazil,31,FirstHalf,Pass,Successful,54.1,19.8,67.1,6.6
+330,472122,Rayan,409,Brazil,31,FirstHalf,Pass,Successful,66.2,7.2,46.9,14.2
+331,88300,Danilo,409,Brazil,31,FirstHalf,Pass,Successful,46.9,14.2,44.4,39.9
+333,101949,Marquinhos,409,Brazil,31,FirstHalf,Pass,Successful,53,46.2,55.3,63.4
+334,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,Pass,Successful,61.5,68.4,50.3,43.9
+335,101949,Marquinhos,409,Brazil,31,FirstHalf,Pass,Successful,52.5,42,54.5,68.2
+336,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,Pass,Successful,58.3,67.9,60.1,83.7
+337,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,Pass,Successful,62.3,83.4,74.2,93.9
+338,115097,Douglas Santos,409,Brazil,31,FirstHalf,Foul,Successful,72.5,95.7,,
+174,343435,Ritsu Doan,986,Japan,31,FirstHalf,Foul,Unsuccessful,27.6,4.2,,
+11339,101949,Marquinhos,409,Brazil,32,FirstHalf,OffsideGiven,Unsuccessful,91.1,52.2,,
+339,319756,Lucas Paquetá,409,Brazil,32,FirstHalf,OffsidePass,Successful,77,89.7,91.1,52.2
+175,377283,Takehiro Tomiyasu,986,Japan,32,FirstHalf,OffsideProvoked,Successful,13.8,54,,
+176,143724,Shogo Taniguchi,986,Japan,32,FirstHalf,Pass,Successful,5,63,5.8,48.1
+177,447570,Zion Suzuki,986,Japan,32,FirstHalf,Pass,Successful,5.8,48.1,36.6,90.2
+178,344166,Daichi Kamada,986,Japan,32,FirstHalf,BallTouch,Unsuccessful,36.6,90.2,,
+343,88300,Danilo,409,Brazil,33,FirstHalf,Pass,Successful,73.6,0,55.3,10.3
+344,101949,Marquinhos,409,Brazil,33,FirstHalf,Pass,Successful,58.5,19.6,54.8,56.2
+345,334087,Gabriel Magalhães,409,Brazil,33,FirstHalf,Pass,Successful,55.4,56.8,62.7,62.1
+346,319756,Lucas Paquetá,409,Brazil,33,FirstHalf,Pass,Successful,63.5,61.6,72.6,68.2
+347,337782,Vinícius Júnior,409,Brazil,33,FirstHalf,Pass,Successful,72.5,67.8,75.1,48.4
+348,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,Pass,Unsuccessful,75.2,48.6,83.8,57.1
+180,143724,Shogo Taniguchi,986,Japan,33,FirstHalf,Clearance,Successful,19.2,40.9,29.2,49.3
+349,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,Pass,Successful,75.3,52.6,75.1,58.3
+350,337782,Vinícius Júnior,409,Brazil,33,FirstHalf,SavedShot,Successful,75.1,58.2,,
+181,447570,Zion Suzuki,986,Japan,33,FirstHalf,Save,Successful,2.2,49.7,,
+182,447570,Zion Suzuki,986,Japan,33,FirstHalf,KeeperPickup,Successful,2.2,49.7,,
+183,447570,Zion Suzuki,986,Japan,33,FirstHalf,Pass,Successful,8.3,48.8,18.9,64.8
+184,143724,Shogo Taniguchi,986,Japan,33,FirstHalf,Pass,Successful,19.5,63.1,25.2,91.5
+185,422717,Hiroki Ito,986,Japan,33,FirstHalf,Pass,Unsuccessful,25.7,95.6,28.4,95
+351,472122,Rayan,409,Brazil,33,FirstHalf,BlockedPass,Successful,71.6,5,,
+187,422717,Hiroki Ito,986,Japan,33,FirstHalf,Pass,Successful,29.1,100,44,95.6
+188,377287,Daizen Maeda,986,Japan,33,FirstHalf,Pass,Unsuccessful,44,95.6,47.2,81.7
+353,88526,Casemiro,409,Brazil,33,FirstHalf,BallRecovery,Successful,49.3,14.1,,
+354,88526,Casemiro,409,Brazil,33,FirstHalf,Pass,Successful,46.8,15.3,38.7,35.2
+355,334087,Gabriel Magalhães,409,Brazil,33,FirstHalf,Pass,Successful,38.7,35.2,42.2,27.7
+356,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Successful,43,28,43.9,51.4
+357,334087,Gabriel Magalhães,409,Brazil,34,FirstHalf,Pass,Unsuccessful,45.3,51.3,82.4,46.3
+189,143724,Shogo Taniguchi,986,Japan,34,FirstHalf,Clearance,Successful,24,50.4,37.8,53.1
+358,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Successful,64.5,47.8,66.6,49.3
+359,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,BallTouch,Successful,66.6,49.3,,
+360,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Successful,65,91.6,65.4,75.6
+361,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Successful,65.4,75.6,64.9,96
+362,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Successful,65.1,95.1,63.5,88
+363,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Successful,65,80.5,75.5,13.9
+364,88300,Danilo,409,Brazil,34,FirstHalf,Pass,Successful,75.5,13.8,60.5,26.7
+365,101949,Marquinhos,409,Brazil,34,FirstHalf,Pass,Successful,62.4,22.8,80.5,8.7
+366,88300,Danilo,409,Brazil,34,FirstHalf,Pass,Unsuccessful,81.6,9.6,88,51.9
+190,377283,Takehiro Tomiyasu,986,Japan,34,FirstHalf,Clearance,Successful,12.8,47.7,18.5,45
+367,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,Pass,Successful,83.3,54,89.4,76.9
+368,337782,Vinícius Júnior,409,Brazil,34,FirstHalf,Pass,Successful,89.2,72,82.4,61.7
+369,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,SavedShot,Successful,82.4,61.7,,
+191,509815,Kaishu Sano,986,Japan,34,FirstHalf,Save,Successful,10.1,42.6,,
+370,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,Pass,Successful,82.6,69,88.2,78.4
+371,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Successful,88.2,77.4,87.8,72.9
+372,337782,Vinícius Júnior,409,Brazil,34,FirstHalf,Pass,Successful,92.2,76.2,91.7,85.2
+373,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Unsuccessful,91.7,85.2,91.7,84
+192,343435,Ritsu Doan,986,Japan,34,FirstHalf,Clearance,Successful,8.3,16,,
+193,343435,Ritsu Doan,986,Japan,34,FirstHalf,Pass,Successful,2.5,2.3,19.7,3.7
+194,370255,Junya Ito,986,Japan,34,FirstHalf,BallRecovery,Successful,19.7,3.7,,
+195,370255,Junya Ito,986,Japan,34,FirstHalf,Dispossessed,Successful,25,16,,
+374,115097,Douglas Santos,409,Brazil,34,FirstHalf,Tackle,Unsuccessful,75,84,,
+332,370255,Junya Ito,986,Japan,34,FirstHalf,BallTouch,Successful,20.8,14.1,,
+375,88526,Casemiro,409,Brazil,34,FirstHalf,BallTouch,Successful,75.9,74.8,,
+376,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,BallRecovery,Successful,74,72.3,,
+377,319756,Lucas Paquetá,409,Brazil,34,FirstHalf,Pass,Unsuccessful,74,72.3,100,78.9
+197,143724,Shogo Taniguchi,986,Japan,35,FirstHalf,Pass,Successful,4.2,62.4,4.2,55.8
+198,447570,Zion Suzuki,986,Japan,35,FirstHalf,Pass,Successful,4.2,55.8,10.7,92.9
+199,422717,Hiroki Ito,986,Japan,35,FirstHalf,Pass,Successful,10.8,93.2,7.5,65.1
+200,143724,Shogo Taniguchi,986,Japan,35,FirstHalf,Pass,Unsuccessful,15.8,48.8,21.8,40.6
+379,337782,Vinícius Júnior,409,Brazil,35,FirstHalf,Interception,Successful,78.2,59.4,,
+380,338780,Bruno Guimarães,409,Brazil,35,FirstHalf,BallRecovery,Successful,74.1,52.3,,
+381,338780,Bruno Guimarães,409,Brazil,35,FirstHalf,Pass,Successful,81.6,55.9,84.5,66.6
+382,362758,Matheus Cunha,409,Brazil,35,FirstHalf,Pass,Successful,90.4,72.4,84.1,63.4
+383,337782,Vinícius Júnior,409,Brazil,35,FirstHalf,Pass,Unsuccessful,90.5,67.9,86.7,68.7
+201,343435,Ritsu Doan,986,Japan,35,FirstHalf,Clearance,Successful,15.6,33.1,16.5,12.8
+384,362758,Matheus Cunha,409,Brazil,35,FirstHalf,Pass,Successful,77.7,81.6,70.4,46.5
+385,88526,Casemiro,409,Brazil,35,FirstHalf,Pass,Successful,70.3,46.6,62.6,57.7
+386,334087,Gabriel Magalhães,409,Brazil,35,FirstHalf,Pass,Successful,63,58.6,66.4,69.3
+387,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,Pass,Unsuccessful,69.2,67.6,88.8,72.9
+202,377283,Takehiro Tomiyasu,986,Japan,35,FirstHalf,Clearance,Successful,14.9,26.5,23.9,16.5
+203,370255,Junya Ito,986,Japan,35,FirstHalf,Dispossessed,Successful,24.6,17.2,,
+388,362758,Matheus Cunha,409,Brazil,35,FirstHalf,Tackle,Successful,75.4,82.8,,
+389,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,BallTouch,Successful,65,73.8,,
+204,377288,Ayase Ueda,986,Japan,35,FirstHalf,BallRecovery,Successful,37.5,25.5,,
+205,377288,Ayase Ueda,986,Japan,35,FirstHalf,Pass,Successful,37.5,25.5,47.8,8.8
+206,370255,Junya Ito,986,Japan,36,FirstHalf,TakeOn,Unsuccessful,61.8,3.8,,
+390,319756,Lucas Paquetá,409,Brazil,36,FirstHalf,Tackle,Successful,38.3,96.2,,
+208,343435,Ritsu Doan,986,Japan,36,FirstHalf,Pass,Successful,60.4,0,73.8,3.7
+209,377288,Ayase Ueda,986,Japan,36,FirstHalf,BallTouch,Unsuccessful,73.8,3.7,,
+392,115097,Douglas Santos,409,Brazil,36,FirstHalf,BallRecovery,Successful,28.6,84,,
+393,115097,Douglas Santos,409,Brazil,36,FirstHalf,Pass,Successful,29.8,83.1,25.2,68.5
+394,88526,Casemiro,409,Brazil,36,FirstHalf,Pass,Successful,45.3,54.1,56.7,8.2
+395,88300,Danilo,409,Brazil,36,FirstHalf,Pass,Successful,57.9,6.7,55,35.1
+396,88526,Casemiro,409,Brazil,36,FirstHalf,Pass,Successful,58,36.1,58.1,12.6
+397,88300,Danilo,409,Brazil,36,FirstHalf,Pass,Successful,59.3,19.5,54.7,57.1
+398,334087,Gabriel Magalhães,409,Brazil,36,FirstHalf,Pass,Successful,57.8,59.5,62.7,56.4
+399,319756,Lucas Paquetá,409,Brazil,36,FirstHalf,Pass,Successful,64.9,62.1,70.3,98.1
+400,115097,Douglas Santos,409,Brazil,36,FirstHalf,Pass,Successful,70.2,96.3,60.8,69.7
+401,319756,Lucas Paquetá,409,Brazil,36,FirstHalf,Pass,Successful,60,66.4,59.7,38.2
+402,101949,Marquinhos,409,Brazil,36,FirstHalf,Pass,Successful,59.5,38.5,60.1,61.8
+403,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,61.2,59.4,72.9,50.7
+404,88526,Casemiro,409,Brazil,37,FirstHalf,Pass,Successful,72.3,51,73.8,60.9
+405,362758,Matheus Cunha,409,Brazil,37,FirstHalf,Pass,Successful,75.1,62.1,77.7,66.4
+406,337782,Vinícius Júnior,409,Brazil,37,FirstHalf,Pass,Successful,77.2,67.8,64.9,66.6
+407,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,67.5,66.4,67.4,41.2
+408,338780,Bruno Guimarães,409,Brazil,37,FirstHalf,Pass,Successful,67.4,43.8,64.5,69.7
+409,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,63.1,70.2,71.4,94.3
+410,115097,Douglas Santos,409,Brazil,37,FirstHalf,Pass,Successful,68.3,94.8,59.2,74.8
+411,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,62.8,72.1,65.4,55.6
+412,88526,Casemiro,409,Brazil,37,FirstHalf,Pass,Successful,66.3,52.6,57.1,42.4
+413,101949,Marquinhos,409,Brazil,37,FirstHalf,Pass,Successful,60.5,41.8,66.9,65.1
+414,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,67,68.2,78.3,97.2
+415,337782,Vinícius Júnior,409,Brazil,37,FirstHalf,Pass,Successful,77.4,93.9,64,64.9
+416,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,65.9,64.6,68,75.4
+417,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,66.5,77.4,58.1,65.5
+418,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,59.9,65.1,62.6,44.7
+419,88526,Casemiro,409,Brazil,37,FirstHalf,Pass,Successful,64.6,44.7,56.3,34.9
+420,101949,Marquinhos,409,Brazil,37,FirstHalf,Pass,Successful,58.2,39.9,56.7,58.9
+421,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,62.5,62.2,70.9,64.6
+422,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,70.9,64.6,70.2,61
+423,362758,Matheus Cunha,409,Brazil,37,FirstHalf,SavedShot,Successful,71.9,59.9,,
+211,447570,Zion Suzuki,986,Japan,37,FirstHalf,Save,Successful,2.3,50.6,,
+212,447570,Zion Suzuki,986,Japan,37,FirstHalf,KeeperPickup,Successful,2.3,50.6,,
+214,447570,Zion Suzuki,986,Japan,38,FirstHalf,Pass,Successful,7.7,50.9,9.3,68.4
+215,143724,Shogo Taniguchi,986,Japan,38,FirstHalf,Pass,Unsuccessful,14,60,61.8,93.8
+424,101949,Marquinhos,409,Brazil,38,FirstHalf,BallRecovery,Successful,34.8,9.7,,
+425,101949,Marquinhos,409,Brazil,38,FirstHalf,Pass,Successful,36.8,19.6,41.4,56.5
+426,88526,Casemiro,409,Brazil,38,FirstHalf,Pass,Successful,55.6,61.5,55.7,94.3
+427,115097,Douglas Santos,409,Brazil,38,FirstHalf,Pass,Successful,55.7,94,44.8,64.9
+428,334087,Gabriel Magalhães,409,Brazil,38,FirstHalf,Pass,Successful,46.4,65.1,56.8,54.6
+429,362758,Matheus Cunha,409,Brazil,38,FirstHalf,Pass,Successful,62.5,41.7,74.4,7.5
+430,472122,Rayan,409,Brazil,38,FirstHalf,Pass,Successful,70,21.7,61.4,64.6
+431,334087,Gabriel Magalhães,409,Brazil,38,FirstHalf,Pass,Successful,66.3,63.3,60.6,50.2
+432,88526,Casemiro,409,Brazil,38,FirstHalf,Pass,Successful,62.6,49.2,62.2,34.3
+433,88300,Danilo,409,Brazil,38,FirstHalf,Pass,Successful,64.8,32.1,74.6,10.5
+434,338780,Bruno Guimarães,409,Brazil,38,FirstHalf,Pass,Successful,73.4,11.2,65.9,28.3
+435,88300,Danilo,409,Brazil,39,FirstHalf,Pass,Successful,67.3,27.9,62.6,64.9
+436,334087,Gabriel Magalhães,409,Brazil,39,FirstHalf,Pass,Successful,63.4,65.2,66.1,74.4
+437,319756,Lucas Paquetá,409,Brazil,39,FirstHalf,Pass,Successful,66.1,74.4,73.6,75.1
+438,337782,Vinícius Júnior,409,Brazil,39,FirstHalf,Pass,Successful,71.4,66.9,70,50.8
+439,88526,Casemiro,409,Brazil,39,FirstHalf,BallTouch,Unsuccessful,70,51.1,,
+216,377287,Daizen Maeda,986,Japan,39,FirstHalf,BallRecovery,Successful,37.3,38.8,,
+217,377287,Daizen Maeda,986,Japan,39,FirstHalf,BallTouch,Unsuccessful,57.8,23.7,,
+440,319756,Lucas Paquetá,409,Brazil,39,FirstHalf,Dispossessed,Successful,40.6,90.2,,
+218,377287,Daizen Maeda,986,Japan,39,FirstHalf,Tackle,Unsuccessful,59.4,9.8,,
+441,319756,Lucas Paquetá,409,Brazil,39,FirstHalf,BallTouch,Successful,38.7,89.4,,
+220,343435,Ritsu Doan,986,Japan,39,FirstHalf,Pass,Successful,54.3,0,52.9,6.8
+221,370255,Junya Ito,986,Japan,39,FirstHalf,Pass,Successful,57.4,8.3,57.2,4.3
+222,343435,Ritsu Doan,986,Japan,39,FirstHalf,Pass,Successful,57.2,4.3,44,9.4
+223,377283,Takehiro Tomiyasu,986,Japan,39,FirstHalf,Pass,Successful,44,12,46.8,44.2
+224,344166,Daichi Kamada,986,Japan,39,FirstHalf,Pass,Successful,45.3,67,33.4,83.3
+225,422717,Hiroki Ito,986,Japan,39,FirstHalf,Pass,Successful,33.4,83.3,43.1,91.5
+226,344166,Daichi Kamada,986,Japan,39,FirstHalf,Pass,Successful,39.2,92.6,22.4,81.8
+227,422717,Hiroki Ito,986,Japan,39,FirstHalf,Pass,Successful,14,81.2,3.7,56.9
+228,447570,Zion Suzuki,986,Japan,39,FirstHalf,Pass,Successful,7.8,47.6,20.5,4.1
+229,377283,Takehiro Tomiyasu,986,Japan,39,FirstHalf,Pass,Unsuccessful,31.6,4.9,54.4,70.5
+443,88300,Danilo,409,Brazil,39,FirstHalf,BallRecovery,Successful,47.9,31.9,,
+444,88300,Danilo,409,Brazil,39,FirstHalf,Pass,Successful,48.3,32.4,48.3,56.5
+445,88526,Casemiro,409,Brazil,40,FirstHalf,Pass,Successful,61.4,60.6,71.2,65.5
+446,362758,Matheus Cunha,409,Brazil,40,FirstHalf,Pass,Successful,71.2,65.5,62.8,76
+447,319756,Lucas Paquetá,409,Brazil,40,FirstHalf,Pass,Successful,64.8,75.4,75.8,91.8
+448,115097,Douglas Santos,409,Brazil,40,FirstHalf,Pass,Successful,77.5,94.5,73.8,88.8
+449,337782,Vinícius Júnior,409,Brazil,40,FirstHalf,Pass,Unsuccessful,74.1,83.5,74.6,81.7
+230,370255,Junya Ito,986,Japan,40,FirstHalf,Clearance,Successful,25.4,18.3,,
+450,337782,Vinícius Júnior,409,Brazil,40,FirstHalf,Pass,Successful,64.3,78.7,62.7,38.2
+451,101949,Marquinhos,409,Brazil,40,FirstHalf,Pass,Successful,68.8,35.8,81.6,6
+452,88300,Danilo,409,Brazil,40,FirstHalf,Pass,Successful,81.6,6,69.1,18.9
+453,338780,Bruno Guimarães,409,Brazil,40,FirstHalf,Pass,Successful,69.8,26.4,57.8,34.3
+454,101949,Marquinhos,409,Brazil,40,FirstHalf,Pass,Successful,61.3,33.7,67,71.4
+455,319756,Lucas Paquetá,409,Brazil,40,FirstHalf,Pass,Successful,67.9,73.3,79.7,96.6
+456,115097,Douglas Santos,409,Brazil,40,FirstHalf,Pass,Successful,79.7,96.3,79.3,87.6
+457,362758,Matheus Cunha,409,Brazil,40,FirstHalf,Pass,Successful,79.3,87.6,79,95.2
+458,115097,Douglas Santos,409,Brazil,40,FirstHalf,Pass,Successful,79,95.2,68.9,78.7
+459,319756,Lucas Paquetá,409,Brazil,40,FirstHalf,Pass,Unsuccessful,69.4,79.2,92.3,35.5
+231,447570,Zion Suzuki,986,Japan,40,FirstHalf,Claim,Successful,7.7,64.5,,
+232,447570,Zion Suzuki,986,Japan,40,FirstHalf,Pass,Successful,9.8,59.3,21.9,92.3
+233,379700,Keito Nakamura,986,Japan,40,FirstHalf,Pass,Successful,26.5,88.9,14.6,63.3
+234,344166,Daichi Kamada,986,Japan,40,FirstHalf,Pass,Successful,14.6,63.3,14.7,92.7
+235,422717,Hiroki Ito,986,Japan,40,FirstHalf,Pass,Successful,14.7,92.7,24.7,92.9
+236,379700,Keito Nakamura,986,Japan,40,FirstHalf,Pass,Successful,19.6,92.1,10.3,64.8
+237,344166,Daichi Kamada,986,Japan,40,FirstHalf,Pass,Successful,10.3,58.5,11.1,9.4
+238,377283,Takehiro Tomiyasu,986,Japan,41,FirstHalf,Pass,Successful,20.9,26.5,21.5,59.7
+239,143724,Shogo Taniguchi,986,Japan,41,FirstHalf,Pass,Successful,22.7,60.5,41.8,66.1
+240,377287,Daizen Maeda,986,Japan,41,FirstHalf,Pass,Successful,43.8,48.2,48.6,24.9
+241,370255,Junya Ito,986,Japan,41,FirstHalf,Pass,Successful,47.9,20.1,57,2.9
+242,343435,Ritsu Doan,986,Japan,41,FirstHalf,Pass,Successful,58.5,3.5,54.1,4.6
+243,370255,Junya Ito,986,Japan,41,FirstHalf,Pass,Successful,54.1,4.6,45.8,22.2
+244,377283,Takehiro Tomiyasu,986,Japan,41,FirstHalf,Pass,Successful,45.7,28.9,38.1,48.1
+245,143724,Shogo Taniguchi,986,Japan,41,FirstHalf,Pass,Successful,38.1,48.1,43.3,64.6
+246,344166,Daichi Kamada,986,Japan,41,FirstHalf,Pass,Successful,43.7,65.4,36.4,44.3
+247,143724,Shogo Taniguchi,986,Japan,41,FirstHalf,Pass,Successful,36.4,44.3,39.5,23.1
+248,377283,Takehiro Tomiyasu,986,Japan,41,FirstHalf,Pass,Successful,56,14.9,70.5,1.7
+249,370255,Junya Ito,986,Japan,41,FirstHalf,Pass,Successful,68.9,7.1,58.6,12
+250,377283,Takehiro Tomiyasu,986,Japan,41,FirstHalf,Pass,Successful,58.6,12,66.5,2.2
+251,343435,Ritsu Doan,986,Japan,41,FirstHalf,Pass,Successful,68.2,2.9,67.1,11
+252,370255,Junya Ito,986,Japan,41,FirstHalf,Pass,Successful,67.1,11,65.4,3.8
+253,343435,Ritsu Doan,986,Japan,42,FirstHalf,Pass,Unsuccessful,83,2.3,81.9,3.5
+460,88526,Casemiro,409,Brazil,42,FirstHalf,BlockedPass,Successful,18.1,96.5,,
+461,362758,Matheus Cunha,409,Brazil,42,FirstHalf,BallTouch,Unsuccessful,29.3,92.8,,
+255,343435,Ritsu Doan,986,Japan,42,FirstHalf,Pass,Successful,72.7,0,55.4,2.6
+256,377283,Takehiro Tomiyasu,986,Japan,42,FirstHalf,Pass,Successful,50.8,5.2,57.6,35.4
+257,344166,Daichi Kamada,986,Japan,42,FirstHalf,Pass,Successful,57.6,35.4,64.8,29.5
+258,509815,Kaishu Sano,986,Japan,42,FirstHalf,Pass,Successful,65.6,27.6,77.4,6.1
+259,370255,Junya Ito,986,Japan,42,FirstHalf,Pass,Successful,77.4,6.1,73.1,2.5
+260,343435,Ritsu Doan,986,Japan,42,FirstHalf,Pass,Successful,74.8,5.2,75.9,17.3
+261,370255,Junya Ito,986,Japan,42,FirstHalf,Pass,Unsuccessful,76.3,18.8,91.6,52.5
+463,101949,Marquinhos,409,Brazil,42,FirstHalf,Clearance,Successful,12.7,48.9,29.5,40.8
+262,344166,Daichi Kamada,986,Japan,42,FirstHalf,Pass,Successful,72.2,57.2,70.9,85.1
+263,422717,Hiroki Ito,986,Japan,42,FirstHalf,Pass,Unsuccessful,75.5,83.2,97.1,39.8
+464,115097,Douglas Santos,409,Brazil,42,FirstHalf,Clearance,Successful,4.8,57.4,11.5,100
+265,343435,Ritsu Doan,986,Japan,43,FirstHalf,Pass,Successful,92.5,0,97.4,6.2
+266,509815,Kaishu Sano,986,Japan,43,FirstHalf,Pass,Successful,97.7,6.2,93.1,2.5
+267,343435,Ritsu Doan,986,Japan,43,FirstHalf,Pass,Successful,83.6,2.2,63.8,3.2
+268,377283,Takehiro Tomiyasu,986,Japan,43,FirstHalf,Pass,Successful,65.6,2.2,69.9,14.6
+269,509815,Kaishu Sano,986,Japan,43,FirstHalf,BallTouch,Successful,71.9,25.8,,
+270,344166,Daichi Kamada,986,Japan,43,FirstHalf,Pass,Successful,64.1,38.3,65,68.5
+271,422717,Hiroki Ito,986,Japan,43,FirstHalf,Pass,Successful,65.3,74.1,72.2,92.1
+272,379700,Keito Nakamura,986,Japan,43,FirstHalf,Pass,Successful,72.2,92.1,89.2,91.5
+273,377287,Daizen Maeda,986,Japan,43,FirstHalf,Pass,Successful,89.2,91.5,76.2,92.4
+274,379700,Keito Nakamura,986,Japan,43,FirstHalf,Pass,Successful,71,91.2,62.6,74.5
+275,344166,Daichi Kamada,986,Japan,43,FirstHalf,Pass,Successful,62.6,70.2,59.6,39.4
+276,143724,Shogo Taniguchi,986,Japan,43,FirstHalf,Pass,Successful,60.4,33.3,61.5,13.5
+277,377283,Takehiro Tomiyasu,986,Japan,43,FirstHalf,Pass,Successful,61.5,12,68.3,1.9
+278,343435,Ritsu Doan,986,Japan,43,FirstHalf,Pass,Successful,68.3,1.9,69.1,16.2
+279,509815,Kaishu Sano,986,Japan,43,FirstHalf,Pass,Successful,69.1,16.2,67.8,12.6
+280,343435,Ritsu Doan,986,Japan,43,FirstHalf,Pass,Unsuccessful,69.7,25.3,78,40.3
+468,338780,Bruno Guimarães,409,Brazil,43,FirstHalf,Interception,Successful,22,59.7,,
+469,338780,Bruno Guimarães,409,Brazil,43,FirstHalf,BallRecovery,Successful,29.1,63.7,,
+470,338780,Bruno Guimarães,409,Brazil,43,FirstHalf,BallTouch,Successful,29.1,63.7,,
+471,88526,Casemiro,409,Brazil,43,FirstHalf,Pass,Unsuccessful,30.1,63.4,30.2,45
+281,377287,Daizen Maeda,986,Japan,43,FirstHalf,Pass,Successful,73,61.1,62.6,65.1
+282,344166,Daichi Kamada,986,Japan,43,FirstHalf,BallRecovery,Successful,62.6,65.1,,
+283,344166,Daichi Kamada,986,Japan,43,FirstHalf,Pass,Successful,64.9,67,69.4,91.7
+284,422717,Hiroki Ito,986,Japan,43,FirstHalf,Pass,Successful,70.9,90.8,64.6,79.6
+285,344166,Daichi Kamada,986,Japan,44,FirstHalf,Pass,Successful,64.6,79.6,63.4,56.3
+286,509815,Kaishu Sano,986,Japan,44,FirstHalf,Pass,Successful,63.4,56.3,67,81.8
+287,344166,Daichi Kamada,986,Japan,44,FirstHalf,Pass,Successful,67.5,82,71.1,65.5
+288,379700,Keito Nakamura,986,Japan,44,FirstHalf,Pass,Successful,70.4,65.1,54.5,51.6
+289,143724,Shogo Taniguchi,986,Japan,44,FirstHalf,Pass,Successful,54.5,51.6,65.5,82.6
+290,344166,Daichi Kamada,986,Japan,44,FirstHalf,Pass,Successful,66.2,82.7,75.2,83.3
+291,377287,Daizen Maeda,986,Japan,44,FirstHalf,Pass,Successful,75.2,83.3,70.3,83.9
+292,344166,Daichi Kamada,986,Japan,44,FirstHalf,Pass,Successful,70.9,82.6,72.9,4.7
+293,370255,Junya Ito,986,Japan,44,FirstHalf,SavedShot,Successful,81.6,29.5,,
+472,88526,Casemiro,409,Brazil,44,FirstHalf,Save,Successful,15.6,67.3,,
+473,338780,Bruno Guimarães,409,Brazil,44,FirstHalf,Foul,Successful,30.4,48.6,,
+295,344166,Daichi Kamada,986,Japan,44,FirstHalf,Foul,Unsuccessful,69.6,51.4,,
+296,344166,Daichi Kamada,986,Japan,44,FirstHalf,Card,Successful,0,0,,
+474,334087,Gabriel Magalhães,409,Brazil,44,FirstHalf,Pass,Successful,40.3,58.6,41,46.2
+475,101949,Marquinhos,409,Brazil,44,FirstHalf,Pass,Successful,42.7,46.6,45.9,68.1
+476,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,61.9,72.3,65.3,94
+477,115097,Douglas Santos,409,Brazil,45,FirstHalf,Pass,Successful,65.7,95.5,57.6,76.3
+478,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,60.2,74.8,55.8,42.7
+479,101949,Marquinhos,409,Brazil,45,FirstHalf,Pass,Successful,67.4,36,87.4,50.8
+480,319756,Lucas Paquetá,409,Brazil,45,FirstHalf,Aerial,Successful,87.4,50.8,,
+298,143724,Shogo Taniguchi,986,Japan,45,FirstHalf,Aerial,Unsuccessful,12.6,49.2,,
+481,319756,Lucas Paquetá,409,Brazil,45,FirstHalf,SavedShot,Successful,87.4,50.8,,
+318,143724,Shogo Taniguchi,986,Japan,45,FirstHalf,Save,Successful,10.5,49.5,,
+509,319756,Lucas Paquetá,409,Brazil,45,FirstHalf,BallTouch,Successful,90.3,51.5,,
+300,447570,Zion Suzuki,986,Japan,45,FirstHalf,Pass,Unsuccessful,5.2,53,68.4,62.9
+483,88526,Casemiro,409,Brazil,45,FirstHalf,Interception,Successful,31.6,37.1,,
+301,377287,Daizen Maeda,986,Japan,45,FirstHalf,Pass,Successful,85.8,96.9,79.4,89.6
+302,379700,Keito Nakamura,986,Japan,45,FirstHalf,Pass,Successful,79.4,86.9,70,83.6
+303,344166,Daichi Kamada,986,Japan,45,FirstHalf,Pass,Successful,70,83.6,81.5,93.9
+304,377287,Daizen Maeda,986,Japan,45,FirstHalf,Pass,Successful,80.8,93.9,72.4,85.3
+305,344166,Daichi Kamada,986,Japan,46,FirstHalf,Pass,Successful,72.3,83.8,74.3,94.5
+306,422717,Hiroki Ito,986,Japan,46,FirstHalf,Pass,Successful,74.3,94.5,89.7,93.6
+307,379700,Keito Nakamura,986,Japan,46,FirstHalf,Pass,Successful,90.3,95.7,74.1,94.8
+308,344166,Daichi Kamada,986,Japan,46,FirstHalf,Pass,Successful,73.4,94.1,66.3,79.6
+309,143724,Shogo Taniguchi,986,Japan,46,FirstHalf,Pass,Successful,66.3,79.6,69.6,64
+310,509815,Kaishu Sano,986,Japan,46,FirstHalf,Pass,Successful,68.8,62.3,64.1,27.6
+311,377283,Takehiro Tomiyasu,986,Japan,46,FirstHalf,Pass,Unsuccessful,64.1,25.9,70.3,0
+485,115097,Douglas Santos,409,Brazil,46,FirstHalf,Pass,Successful,23.5,100,22.5,88.6
+486,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,Pass,Unsuccessful,22.7,89.2,50.3,68.5
+313,344166,Daichi Kamada,986,Japan,46,FirstHalf,Pass,Successful,52.5,31.9,43.7,17.4
+314,377283,Takehiro Tomiyasu,986,Japan,46,FirstHalf,Pass,Unsuccessful,43.7,17.4,60.1,13.1
+487,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,Pass,Unsuccessful,44.7,83.8,57.1,72.6
+315,344166,Daichi Kamada,986,Japan,46,FirstHalf,Pass,Successful,44.6,19.7,44.7,3.7
+316,343435,Ritsu Doan,986,Japan,46,FirstHalf,BallRecovery,Successful,44.7,3.7,,
+317,343435,Ritsu Doan,986,Japan,46,FirstHalf,Pass,Unsuccessful,44.7,3.7,81.9,1.7
+488,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,BallRecovery,Successful,21.9,96.9,,
+489,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,Pass,Successful,22.1,91.2,23.9,44.7
+490,101949,Marquinhos,409,Brazil,47,FirstHalf,Pass,Successful,26.9,42.6,34.8,12
+491,88300,Danilo,409,Brazil,47,FirstHalf,Pass,Successful,34.9,12,35.2,29.2
+492,338780,Bruno Guimarães,409,Brazil,47,FirstHalf,Pass,Successful,37.4,32.4,40.3,68.1
+493,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,Pass,Successful,40.2,68.2,58.4,97
+494,115097,Douglas Santos,409,Brazil,47,FirstHalf,Pass,Successful,58.7,96.7,47.9,76
+495,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,Pass,Successful,49.4,74.8,48.7,53.5
+496,88526,Casemiro,409,Brazil,47,FirstHalf,Pass,Successful,52,52.8,55.1,34.9
+497,101949,Marquinhos,409,Brazil,47,FirstHalf,Pass,Successful,57.4,36.7,57.1,67.6
+498,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,Pass,Successful,59.7,67.3,55.2,48.3
+499,88526,Casemiro,409,Brazil,47,FirstHalf,Pass,Successful,57.1,46.2,56.5,29.1
+500,101949,Marquinhos,409,Brazil,47,FirstHalf,Pass,Successful,59.9,36.6,56.1,68.7
+501,334087,Gabriel Magalhães,409,Brazil,47,FirstHalf,Pass,Successful,65,73,73.6,71.1
+502,319756,Lucas Paquetá,409,Brazil,47,FirstHalf,Pass,Unsuccessful,73.8,70.5,75.3,70.2
+319,377283,Takehiro Tomiyasu,986,Japan,47,FirstHalf,BlockedPass,Successful,24.7,29.8,,
+320,143724,Shogo Taniguchi,986,Japan,47,FirstHalf,Clearance,Successful,23.6,36.6,35.9,0
+504,115097,Douglas Santos,409,Brazil,48,FirstHalf,Pass,Successful,68.6,100,56.3,88.8
+505,334087,Gabriel Magalhães,409,Brazil,48,FirstHalf,Pass,Successful,58.2,85,66.3,74.8
+506,338780,Bruno Guimarães,409,Brazil,48,FirstHalf,Pass,Successful,67.4,77.8,75.4,95.5
+507,115097,Douglas Santos,409,Brazil,48,FirstHalf,Pass,Successful,75.4,95.7,68.8,85
+508,338780,Bruno Guimarães,409,Brazil,48,FirstHalf,Pass,Successful,69.1,77.7,80,12.7
+510,88300,Danilo,409,Brazil,48,FirstHalf,Pass,Successful,80,12.7,69.5,20.8
+511,101949,Marquinhos,409,Brazil,48,FirstHalf,Pass,Successful,69.6,20.8,88.9,62.5
+512,319756,Lucas Paquetá,409,Brazil,48,FirstHalf,Aerial,Successful,88.9,62.5,,
+322,377283,Takehiro Tomiyasu,986,Japan,48,FirstHalf,Aerial,Unsuccessful,11.1,37.5,,
+513,319756,Lucas Paquetá,409,Brazil,48,FirstHalf,BallTouch,Unsuccessful,88.9,62.5,,
+323,370255,Junya Ito,986,Japan,48,FirstHalf,Clearance,Successful,15.4,27,47.5,23.9
+514,334087,Gabriel Magalhães,409,Brazil,48,FirstHalf,Pass,Successful,56.2,71.5,74.6,12
+515,88300,Danilo,409,Brazil,48,FirstHalf,Aerial,Successful,74.6,12,,
+324,379700,Keito Nakamura,986,Japan,48,FirstHalf,Aerial,Unsuccessful,25.4,88,,
+516,88300,Danilo,409,Brazil,48,FirstHalf,Pass,Unsuccessful,74.6,12,89.7,51.1
+325,143724,Shogo Taniguchi,986,Japan,48,FirstHalf,Clearance,Successful,14.7,46.4,22,68.7
+326,377287,Daizen Maeda,986,Japan,48,FirstHalf,BallRecovery,Successful,22,68.8,,
+327,377287,Daizen Maeda,986,Japan,48,FirstHalf,Pass,Successful,22,68.8,2.7,75.7
+328,422717,Hiroki Ito,986,Japan,48,FirstHalf,Pass,Successful,2.7,75.7,14.1,92.7
+329,379700,Keito Nakamura,986,Japan,48,FirstHalf,Pass,Successful,14.1,92.7,37.3,44.2
+330,370255,Junya Ito,986,Japan,48,FirstHalf,Pass,Unsuccessful,37.3,44.2,61.4,68.1
+517,101949,Marquinhos,409,Brazil,48,FirstHalf,Interception,Successful,38.6,31.9,,
+518,334087,Gabriel Magalhães,409,Brazil,48,FirstHalf,BallRecovery,Successful,22.7,44.7,,
+519,334087,Gabriel Magalhães,409,Brazil,48,FirstHalf,Pass,Successful,26.8,44.5,33.5,66
+520,115097,Douglas Santos,409,Brazil,48,FirstHalf,Pass,Successful,46.2,75.4,61.6,93.7
+331,,,986,Japan,48,FirstHalf,End,Successful,0,0,,
+521,,,409,Brazil,48,FirstHalf,End,Successful,0,0,,
+522,319756,Lucas Paquetá,409,Brazil,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+523,445649,Endrick,409,Brazil,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+524,,,409,Brazil,45,SecondHalf,FormationChange,Successful,0,0,,
+333,,,986,Japan,45,SecondHalf,Start,Successful,0,0,,
+525,,,409,Brazil,45,SecondHalf,Start,Successful,0,0,,
+334,370255,Junya Ito,986,Japan,45,SecondHalf,Pass,Successful,49.9,50,23.5,54.8
+335,447570,Zion Suzuki,986,Japan,45,SecondHalf,Pass,Unsuccessful,23.7,56.7,72.9,77.8
+526,88526,Casemiro,409,Brazil,45,SecondHalf,Aerial,Successful,27.1,22.2,,
+337,377288,Ayase Ueda,986,Japan,45,SecondHalf,Aerial,Unsuccessful,72.9,77.8,,
+527,88526,Casemiro,409,Brazil,45,SecondHalf,Clearance,Successful,27.1,22.2,34.5,27
+338,370255,Junya Ito,986,Japan,45,SecondHalf,Pass,Unsuccessful,64.4,73.3,67.9,85.6
+339,379700,Keito Nakamura,986,Japan,45,SecondHalf,Aerial,Successful,67.9,85.6,,
+528,472122,Rayan,409,Brazil,45,SecondHalf,Aerial,Unsuccessful,32.1,14.4,,
+340,379700,Keito Nakamura,986,Japan,45,SecondHalf,Pass,Unsuccessful,67.9,85.6,72,95.3
+529,88300,Danilo,409,Brazil,45,SecondHalf,Pass,Unsuccessful,26.9,12.3,55,28.3
+341,143724,Shogo Taniguchi,986,Japan,45,SecondHalf,Pass,Successful,45.5,71.8,52.9,86.2
+342,344166,Daichi Kamada,986,Japan,45,SecondHalf,Dispossessed,Successful,53.4,83.2,,
+530,472122,Rayan,409,Brazil,45,SecondHalf,Tackle,Successful,46.6,16.8,,
+531,445649,Endrick,409,Brazil,45,SecondHalf,BallRecovery,Successful,62.2,21,,
+532,445649,Endrick,409,Brazil,45,SecondHalf,Pass,Successful,75.4,26.1,75.8,37.8
+533,362758,Matheus Cunha,409,Brazil,45,SecondHalf,Pass,Successful,75.8,37.9,72,33.3
+534,472122,Rayan,409,Brazil,45,SecondHalf,Pass,Successful,71.5,43.3,75.8,78
+535,337782,Vinícius Júnior,409,Brazil,45,SecondHalf,Pass,Unsuccessful,75.9,77.8,97.1,42.4
+343,447570,Zion Suzuki,986,Japan,45,SecondHalf,Claim,Successful,2.9,57.6,,
+344,447570,Zion Suzuki,986,Japan,45,SecondHalf,Pass,Successful,15.1,47.2,73.8,71.5
+345,377288,Ayase Ueda,986,Japan,45,SecondHalf,Pass,Successful,73,76.9,71.9,95.7
+346,379700,Keito Nakamura,986,Japan,45,SecondHalf,Pass,Unsuccessful,84.5,77,86.5,75.9
+536,88300,Danilo,409,Brazil,45,SecondHalf,BlockedPass,Successful,13.5,24.1,,
+347,379700,Keito Nakamura,986,Japan,46,SecondHalf,Pass,Successful,88.6,83.9,76.8,89.9
+348,422717,Hiroki Ito,986,Japan,46,SecondHalf,Pass,Successful,76.9,89.9,92.1,36.4
+349,343435,Ritsu Doan,986,Japan,46,SecondHalf,BallTouch,Unsuccessful,92.1,36.4,,
+537,115097,Douglas Santos,409,Brazil,46,SecondHalf,Clearance,Successful,6.9,63.3,18.8,96.9
+350,377283,Takehiro Tomiyasu,986,Japan,46,SecondHalf,BallTouch,Unsuccessful,77.4,2.5,,
+539,115097,Douglas Santos,409,Brazil,46,SecondHalf,Pass,Successful,16.2,100,25.6,96.4
+540,362758,Matheus Cunha,409,Brazil,46,SecondHalf,Pass,Successful,25.6,96.3,18.5,96.4
+541,115097,Douglas Santos,409,Brazil,46,SecondHalf,Pass,Unsuccessful,18.5,96.4,57.9,63.9
+352,143724,Shogo Taniguchi,986,Japan,46,SecondHalf,Clearance,Successful,43.5,34.3,47.3,23.1
+353,377283,Takehiro Tomiyasu,986,Japan,46,SecondHalf,Pass,Unsuccessful,47.3,23.1,53.3,31.5
+542,338780,Bruno Guimarães,409,Brazil,46,SecondHalf,Pass,Unsuccessful,46.2,72,48.6,72.9
+543,,,409,Brazil,46,SecondHalf,Foul,Successful,49,73,,
+354,343435,Ritsu Doan,986,Japan,46,SecondHalf,Foul,Unsuccessful,51,27,,
+544,88526,Casemiro,409,Brazil,47,SecondHalf,Pass,Successful,45.8,73.5,40.5,53.7
+545,101949,Marquinhos,409,Brazil,47,SecondHalf,Pass,Successful,44.1,48.1,59.4,12
+546,88300,Danilo,409,Brazil,47,SecondHalf,Pass,Successful,58.8,12.9,57.5,32.5
+547,338780,Bruno Guimarães,409,Brazil,47,SecondHalf,Pass,Successful,57.6,32.5,55.6,65.7
+548,334087,Gabriel Magalhães,409,Brazil,47,SecondHalf,Pass,Successful,62.5,67.8,66.1,92.5
+549,115097,Douglas Santos,409,Brazil,47,SecondHalf,Pass,Successful,66.1,92.5,76,95.8
+550,337782,Vinícius Júnior,409,Brazil,47,SecondHalf,Pass,Unsuccessful,73.5,80.7,85.9,53.2
+355,422717,Hiroki Ito,986,Japan,47,SecondHalf,BallTouch,Successful,13.2,51.8,,
+356,377287,Daizen Maeda,986,Japan,47,SecondHalf,BallRecovery,Successful,24.1,61.1,,
+358,377287,Daizen Maeda,986,Japan,47,SecondHalf,Foul,Successful,46.8,58,,
+552,88300,Danilo,409,Brazil,47,SecondHalf,Foul,Unsuccessful,53.2,42,,
+553,88300,Danilo,409,Brazil,47,SecondHalf,Card,Successful,0,0,,
+359,422717,Hiroki Ito,986,Japan,47,SecondHalf,Pass,Successful,54.2,65.2,47.1,30.3
+360,377283,Takehiro Tomiyasu,986,Japan,48,SecondHalf,Pass,Successful,47.1,30.1,54.5,7
+361,370255,Junya Ito,986,Japan,48,SecondHalf,Pass,Successful,54.5,7,53.2,34.5
+362,509815,Kaishu Sano,986,Japan,48,SecondHalf,Pass,Successful,53.2,34.5,38.4,54.5
+363,143724,Shogo Taniguchi,986,Japan,48,SecondHalf,Pass,Successful,38.4,54.5,42.2,76.3
+364,422717,Hiroki Ito,986,Japan,48,SecondHalf,Pass,Successful,42.3,78.2,54.9,98
+365,379700,Keito Nakamura,986,Japan,48,SecondHalf,Pass,Successful,54.3,96.8,36.5,95.7
+366,422717,Hiroki Ito,986,Japan,48,SecondHalf,Pass,Successful,35,95.3,6.7,70.6
+367,447570,Zion Suzuki,986,Japan,48,SecondHalf,Pass,Successful,7.6,59.4,12.7,33
+368,143724,Shogo Taniguchi,986,Japan,48,SecondHalf,Pass,Successful,12.7,33,8.8,67.3
+369,447570,Zion Suzuki,986,Japan,48,SecondHalf,Pass,Successful,13.5,67.9,23.3,47.9
+554,337782,Vinícius Júnior,409,Brazil,48,SecondHalf,Challenge,Unsuccessful,75,53,,
+370,509815,Kaishu Sano,986,Japan,48,SecondHalf,TakeOn,Successful,25,47,,
+371,509815,Kaishu Sano,986,Japan,48,SecondHalf,Pass,Successful,22.3,36.6,26.5,17.4
+372,377283,Takehiro Tomiyasu,986,Japan,48,SecondHalf,Foul,Successful,30,19.6,,
+555,362758,Matheus Cunha,409,Brazil,48,SecondHalf,Foul,Unsuccessful,70,80.4,,
+373,377283,Takehiro Tomiyasu,986,Japan,48,SecondHalf,Pass,Successful,29.7,18.6,20,39.1
+374,143724,Shogo Taniguchi,986,Japan,48,SecondHalf,Pass,Successful,20,39.1,7.4,62.1
+375,447570,Zion Suzuki,986,Japan,48,SecondHalf,Pass,Successful,7.4,62.1,32.9,80.2
+376,377287,Daizen Maeda,986,Japan,49,SecondHalf,Pass,Successful,34.1,91.1,37.5,97.4
+377,379700,Keito Nakamura,986,Japan,49,SecondHalf,Pass,Successful,37.5,97.4,53.7,81.8
+378,377288,Ayase Ueda,986,Japan,49,SecondHalf,Pass,Successful,53.3,86,48.2,83.2
+379,447570,Zion Suzuki,986,Japan,49,SecondHalf,BallTouch,Unsuccessful,51.9,76.4,,
+557,88526,Casemiro,409,Brazil,49,SecondHalf,Pass,Successful,45.9,27,77,22.8
+558,445649,Endrick,409,Brazil,49,SecondHalf,BallRecovery,Successful,78.5,22.8,,
+559,445649,Endrick,409,Brazil,49,SecondHalf,Pass,Unsuccessful,79.5,23.5,92.2,48.7
+380,447570,Zion Suzuki,986,Japan,49,SecondHalf,KeeperPickup,Successful,4.5,52.8,,
+381,447570,Zion Suzuki,986,Japan,49,SecondHalf,Pass,Successful,13,48.2,13.1,84.4
+382,422717,Hiroki Ito,986,Japan,49,SecondHalf,Pass,Successful,14.8,90.5,31.2,97.5
+383,379700,Keito Nakamura,986,Japan,49,SecondHalf,Pass,Successful,31.7,97.5,55.4,96.3
+384,377287,Daizen Maeda,986,Japan,49,SecondHalf,TakeOn,Unsuccessful,78.2,76.5,,
+560,101949,Marquinhos,409,Brazil,49,SecondHalf,Tackle,Successful,21.8,23.5,,
+562,114147,Alisson Becker,409,Brazil,49,SecondHalf,Clearance,Successful,10.6,34,37.7,34.6
+385,344166,Daichi Kamada,986,Japan,49,SecondHalf,Pass,Successful,58,67.8,65.1,21.9
+386,343435,Ritsu Doan,986,Japan,49,SecondHalf,Pass,Unsuccessful,61.1,10.3,65.3,13.4
+563,115097,Douglas Santos,409,Brazil,49,SecondHalf,Interception,Successful,34.7,86.6,,
+387,343435,Ritsu Doan,986,Japan,49,SecondHalf,Pass,Successful,58.7,5.9,53.9,33.4
+388,344166,Daichi Kamada,986,Japan,49,SecondHalf,Pass,Successful,54,33.7,45.9,49.7
+389,143724,Shogo Taniguchi,986,Japan,49,SecondHalf,Pass,Successful,46.3,48.5,46.5,27
+390,377283,Takehiro Tomiyasu,986,Japan,49,SecondHalf,Pass,Successful,46.5,27,55.2,14.1
+391,509815,Kaishu Sano,986,Japan,49,SecondHalf,Pass,Successful,55.2,14.1,60.9,29.7
+392,370255,Junya Ito,986,Japan,49,SecondHalf,Pass,Successful,60.9,29.7,46.5,11.1
+393,509815,Kaishu Sano,986,Japan,50,SecondHalf,Pass,Successful,41.6,15,23.9,27.7
+394,377283,Takehiro Tomiyasu,986,Japan,50,SecondHalf,Pass,Successful,23.3,27.7,28.5,58.8
+395,143724,Shogo Taniguchi,986,Japan,50,SecondHalf,Pass,Successful,28.6,60,48,76.3
+396,377287,Daizen Maeda,986,Japan,50,SecondHalf,Pass,Successful,47.9,81.2,46.9,97.5
+397,379700,Keito Nakamura,986,Japan,50,SecondHalf,Pass,Successful,46.2,95.6,31.9,95.3
+398,422717,Hiroki Ito,986,Japan,50,SecondHalf,Pass,Successful,31.9,95.3,44.4,85.3
+399,377288,Ayase Ueda,986,Japan,50,SecondHalf,BallTouch,Unsuccessful,44.6,83.6,,
+564,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,BallRecovery,Successful,51.4,38.1,,
+565,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Unsuccessful,62.1,53.2,75.6,73.5
+400,377283,Takehiro Tomiyasu,986,Japan,50,SecondHalf,Interception,Successful,24.4,26.5,,
+566,115097,Douglas Santos,409,Brazil,50,SecondHalf,Pass,Successful,57.9,89.8,76,95.5
+567,337782,Vinícius Júnior,409,Brazil,50,SecondHalf,TakeOn,Unsuccessful,81.6,89.2,,
+401,343435,Ritsu Doan,986,Japan,50,SecondHalf,Tackle,Unsuccessful,18.4,10.8,,
+568,337782,Vinícius Júnior,409,Brazil,50,SecondHalf,Pass,Successful,95.1,92.8,78.3,75
+569,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Successful,76.8,76.2,65.3,59.1
+570,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Successful,65.4,59.1,73.1,73.5
+571,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Successful,73.9,72,75.9,61.6
+572,88526,Casemiro,409,Brazil,50,SecondHalf,Pass,Successful,72.7,57.6,65.8,40
+573,101949,Marquinhos,409,Brazil,50,SecondHalf,Pass,Successful,65.1,39.4,74.6,12.7
+574,88300,Danilo,409,Brazil,50,SecondHalf,Pass,Successful,74.6,12.6,69.7,32.7
+575,88526,Casemiro,409,Brazil,50,SecondHalf,Pass,Successful,69.6,32.7,68.9,62.5
+576,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Unsuccessful,69.6,61.5,89,37.9
+402,422717,Hiroki Ito,986,Japan,50,SecondHalf,Clearance,Successful,8,65.4,39.9,100
+578,88300,Danilo,409,Brazil,51,SecondHalf,Pass,Successful,58.4,0,51.1,22.3
+579,101949,Marquinhos,409,Brazil,51,SecondHalf,Pass,Successful,52.6,23.2,49.9,57.7
+580,334087,Gabriel Magalhães,409,Brazil,51,SecondHalf,Pass,Successful,53,60,64.4,90.7
+581,115097,Douglas Santos,409,Brazil,51,SecondHalf,Pass,Successful,69.4,93.6,60.8,76.3
+582,334087,Gabriel Magalhães,409,Brazil,51,SecondHalf,Pass,Successful,62.5,75.3,77.9,90.3
+583,337782,Vinícius Júnior,409,Brazil,51,SecondHalf,Pass,Successful,78.4,87.1,78.4,60.7
+584,338780,Bruno Guimarães,409,Brazil,51,SecondHalf,Pass,Successful,78.3,60.7,77.9,69.1
+585,337782,Vinícius Júnior,409,Brazil,51,SecondHalf,Pass,Successful,77.8,69.1,74.1,24.7
+586,88300,Danilo,409,Brazil,51,SecondHalf,Pass,Successful,74,24.9,89.4,51.7
+587,338780,Bruno Guimarães,409,Brazil,51,SecondHalf,SavedShot,Successful,89.4,51.7,,
+404,447570,Zion Suzuki,986,Japan,51,SecondHalf,Save,Successful,1.7,51.5,,
+405,422717,Hiroki Ito,986,Japan,51,SecondHalf,Clearance,Successful,2.3,81.7,43.5,100
+589,88300,Danilo,409,Brazil,51,SecondHalf,Pass,Successful,64.6,0,38.7,16.5
+590,101949,Marquinhos,409,Brazil,51,SecondHalf,Pass,Successful,40.5,21.1,44.5,56.4
+591,334087,Gabriel Magalhães,409,Brazil,51,SecondHalf,Pass,Successful,46.3,60.1,66.2,92.1
+592,115097,Douglas Santos,409,Brazil,51,SecondHalf,Pass,Successful,71.9,88.5,82.3,93.7
+593,337782,Vinícius Júnior,409,Brazil,51,SecondHalf,Pass,Successful,78.5,85.7,71.2,33.8
+594,88300,Danilo,409,Brazil,52,SecondHalf,Pass,Unsuccessful,72.8,26.6,95.6,68.9
+407,343435,Ritsu Doan,986,Japan,52,SecondHalf,Clearance,Successful,3.7,34.3,13.9,30
+408,370255,Junya Ito,986,Japan,52,SecondHalf,BallTouch,Unsuccessful,13.9,30.1,,
+595,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Successful,73.6,71.2,68.7,77.1
+596,334087,Gabriel Magalhães,409,Brazil,52,SecondHalf,Pass,Successful,69.6,77.7,84.4,89.8
+597,338780,Bruno Guimarães,409,Brazil,52,SecondHalf,Pass,Successful,74.5,73.8,82.9,87.7
+598,337782,Vinícius Júnior,409,Brazil,52,SecondHalf,Pass,Successful,93.7,83.5,90.6,58.9
+599,445649,Endrick,409,Brazil,52,SecondHalf,MissedShots,Successful,90.6,58.9,,
+409,422717,Hiroki Ito,986,Japan,52,SecondHalf,Clearance,Successful,7.7,53.4,43.3,32.4
+600,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Successful,52,65.2,55,44.2
+601,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,60.2,39.9,67.4,16.6
+602,88300,Danilo,409,Brazil,52,SecondHalf,Pass,Successful,67.4,16.6,62.8,32.1
+603,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,62.7,32.1,62.7,64.3
+604,334087,Gabriel Magalhães,409,Brazil,52,SecondHalf,Pass,Successful,65.2,65.1,77.5,93.6
+605,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Unsuccessful,82.6,94.5,90.2,58.8
+410,143724,Shogo Taniguchi,986,Japan,52,SecondHalf,Clearance,Successful,8.2,45.1,10.9,10.9
+411,370255,Junya Ito,986,Japan,52,SecondHalf,Clearance,Successful,10.9,10.9,24.9,5.2
+606,337782,Vinícius Júnior,409,Brazil,52,SecondHalf,Pass,Successful,70.6,90.6,64.9,51.3
+607,101949,Marquinhos,409,Brazil,52,SecondHalf,Pass,Successful,66.4,46,76.9,4.9
+608,472122,Rayan,409,Brazil,53,SecondHalf,Pass,Successful,79,7.8,94.4,61.5
+609,115097,Douglas Santos,409,Brazil,53,SecondHalf,Pass,Successful,94.5,61.2,95.6,50.7
+610,88526,Casemiro,409,Brazil,53,SecondHalf,SavedShot,Successful,95.6,50.7,,
+412,377283,Takehiro Tomiyasu,986,Japan,53,SecondHalf,Save,Successful,0.6,48.9,,
+427,447570,Zion Suzuki,986,Japan,53,SecondHalf,BallTouch,Successful,1,46.7,,
+428,377283,Takehiro Tomiyasu,986,Japan,53,SecondHalf,BallTouch,Successful,0.6,49.4,,
+429,422717,Hiroki Ito,986,Japan,53,SecondHalf,Clearance,Successful,1.5,49.4,13.8,50.1
+413,344166,Daichi Kamada,986,Japan,53,SecondHalf,BallRecovery,Successful,22.8,52.1,,
+414,344166,Daichi Kamada,986,Japan,53,SecondHalf,Pass,Successful,53.4,42.7,63.3,14.6
+415,370255,Junya Ito,986,Japan,53,SecondHalf,Pass,Successful,75.3,25.5,91.7,74.2
+416,379700,Keito Nakamura,986,Japan,53,SecondHalf,Pass,Unsuccessful,90.6,69.9,100,29.5
+614,334087,Gabriel Magalhães,409,Brazil,53,SecondHalf,Pass,Successful,4.7,58.5,23.8,29.2
+615,101949,Marquinhos,409,Brazil,54,SecondHalf,Pass,Successful,23.7,29.2,23.9,65.4
+616,334087,Gabriel Magalhães,409,Brazil,54,SecondHalf,Pass,Successful,25.8,65.4,34.7,94
+617,115097,Douglas Santos,409,Brazil,54,SecondHalf,Pass,Successful,40.1,91.6,37.9,69.6
+618,334087,Gabriel Magalhães,409,Brazil,54,SecondHalf,Pass,Successful,42,66.1,65.3,71.2
+619,337782,Vinícius Júnior,409,Brazil,54,SecondHalf,Pass,Successful,64.3,70.8,58.7,54.4
+620,88526,Casemiro,409,Brazil,54,SecondHalf,Pass,Successful,58.5,54.1,73.1,7.5
+621,472122,Rayan,409,Brazil,54,SecondHalf,Pass,Successful,75.4,12.9,69.8,26.4
+622,338780,Bruno Guimarães,409,Brazil,54,SecondHalf,Pass,Unsuccessful,71.4,22.8,94.6,73.6
+422,343435,Ritsu Doan,986,Japan,54,SecondHalf,BallRecovery,Successful,1.9,32.2,,
+423,343435,Ritsu Doan,986,Japan,54,SecondHalf,Clearance,Successful,1.7,29.2,21.9,0
+624,115097,Douglas Santos,409,Brazil,54,SecondHalf,Pass,Successful,74.5,100,62.2,82.9
+625,334087,Gabriel Magalhães,409,Brazil,54,SecondHalf,Pass,Successful,66.2,82.5,74.6,93.3
+626,115097,Douglas Santos,409,Brazil,54,SecondHalf,Pass,Successful,78.3,91.9,67.9,78
+627,334087,Gabriel Magalhães,409,Brazil,54,SecondHalf,Pass,Successful,67.6,76.8,63.6,47.8
+628,101949,Marquinhos,409,Brazil,54,SecondHalf,Pass,Successful,62.7,47.1,79.7,5.7
+629,472122,Rayan,409,Brazil,54,SecondHalf,Pass,Unsuccessful,85.1,10,93.3,56.2
+425,143724,Shogo Taniguchi,986,Japan,54,SecondHalf,Aerial,Successful,6.7,43.8,,
+630,362758,Matheus Cunha,409,Brazil,54,SecondHalf,Aerial,Unsuccessful,93.3,56.2,,
+426,143724,Shogo Taniguchi,986,Japan,54,SecondHalf,Clearance,Successful,6.7,43.8,2.6,16.5
+631,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,Pass,Successful,95.4,83.8,78.4,73.5
+632,334087,Gabriel Magalhães,409,Brazil,55,SecondHalf,Pass,Successful,78.7,73.6,96.7,42.9
+633,88526,Casemiro,409,Brazil,55,SecondHalf,Goal,Successful,96.7,42.9,,
+430,370255,Junya Ito,986,Japan,56,SecondHalf,Pass,Successful,49.9,50.1,22,49.4
+431,447570,Zion Suzuki,986,Japan,56,SecondHalf,Pass,Unsuccessful,23.8,49.4,76.2,96.9
+634,88300,Danilo,409,Brazil,56,SecondHalf,Pass,Unsuccessful,27.6,6.1,43.9,0
+433,422717,Hiroki Ito,986,Japan,57,SecondHalf,Pass,Successful,62.8,100,52.1,95
+434,344166,Daichi Kamada,986,Japan,57,SecondHalf,Pass,Successful,51.9,94.4,42.3,69.3
+435,143724,Shogo Taniguchi,986,Japan,57,SecondHalf,Pass,Successful,45.4,57.6,44.8,17.9
+436,377283,Takehiro Tomiyasu,986,Japan,57,SecondHalf,Pass,Unsuccessful,57.6,11.3,80.2,35.4
+636,88526,Casemiro,409,Brazil,57,SecondHalf,Clearance,Successful,17.1,64.9,24.7,55.8
+637,88526,Casemiro,409,Brazil,57,SecondHalf,Pass,Unsuccessful,23.6,56.1,31.2,57.6
+437,509815,Kaishu Sano,986,Japan,57,SecondHalf,Pass,Successful,72.6,42.1,80.3,53.1
+438,377287,Daizen Maeda,986,Japan,57,SecondHalf,Dispossessed,Successful,79,52.3,,
+638,88526,Casemiro,409,Brazil,57,SecondHalf,Tackle,Successful,21,47.7,,
+639,88300,Danilo,409,Brazil,57,SecondHalf,BallRecovery,Successful,20.7,41.1,,
+640,88300,Danilo,409,Brazil,57,SecondHalf,Pass,Successful,20.7,41.1,32.7,31
+641,472122,Rayan,409,Brazil,57,SecondHalf,Pass,Successful,37.9,37.9,63.9,85.2
+439,377283,Takehiro Tomiyasu,986,Japan,57,SecondHalf,Challenge,Unsuccessful,32.2,18.6,,
+642,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,TakeOn,Successful,67.8,81.4,,
+440,509815,Kaishu Sano,986,Japan,57,SecondHalf,Challenge,Unsuccessful,16.2,33.9,,
+643,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,TakeOn,Successful,83.8,66.1,,
+649,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,GoodSkill,Successful,74.8,65.2,,
+644,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,SavedShot,Successful,90.5,67.5,,
+441,447570,Zion Suzuki,986,Japan,57,SecondHalf,Save,Successful,0.8,48.9,,
+442,422717,Hiroki Ito,986,Japan,57,SecondHalf,Clearance,Successful,3.2,50.3,20.5,46.1
+645,362758,Matheus Cunha,409,Brazil,57,SecondHalf,MissedShots,Successful,80,50.7,,
+444,143724,Shogo Taniguchi,986,Japan,58,SecondHalf,Pass,Successful,4.9,61.4,2.8,46.6
+445,447570,Zion Suzuki,986,Japan,58,SecondHalf,Pass,Unsuccessful,7.2,45.8,40.4,42.4
+647,334087,Gabriel Magalhães,409,Brazil,58,SecondHalf,Pass,Unsuccessful,56.9,62.1,79.3,100
+447,377283,Takehiro Tomiyasu,986,Japan,58,SecondHalf,Pass,Successful,22.2,0,44.8,15.8
+448,377288,Ayase Ueda,986,Japan,58,SecondHalf,Aerial,Successful,44.8,15.8,,
+650,88526,Casemiro,409,Brazil,58,SecondHalf,Aerial,Unsuccessful,55.2,84.2,,
+461,377288,Ayase Ueda,986,Japan,58,SecondHalf,Pass,Unsuccessful,44.8,15.8,45.4,13
+651,88526,Casemiro,409,Brazil,58,SecondHalf,BallTouch,Successful,54.4,82,,
+449,377287,Daizen Maeda,986,Japan,58,SecondHalf,Pass,Successful,46.5,25.6,53.6,44.3
+450,370255,Junya Ito,986,Japan,58,SecondHalf,Pass,Successful,53.6,44.3,84.2,14.9
+451,377288,Ayase Ueda,986,Japan,58,SecondHalf,Pass,Successful,84.6,17.6,77.8,9.1
+452,343435,Ritsu Doan,986,Japan,58,SecondHalf,Pass,Successful,77.2,18.2,85.1,40.9
+453,377288,Ayase Ueda,986,Japan,58,SecondHalf,BallTouch,Unsuccessful,85.3,41.3,,
+652,334087,Gabriel Magalhães,409,Brazil,58,SecondHalf,Clearance,Successful,12.3,52.9,13.9,55.9
+454,377288,Ayase Ueda,986,Japan,58,SecondHalf,BallTouch,Successful,85.3,41.3,,
+653,114147,Alisson Becker,409,Brazil,59,SecondHalf,KeeperPickup,Successful,7.2,49.2,,
+654,114147,Alisson Becker,409,Brazil,59,SecondHalf,Pass,Successful,6,51.7,11.1,66.6
+655,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Successful,12.1,66.1,23.5,93.4
+656,115097,Douglas Santos,409,Brazil,59,SecondHalf,Pass,Successful,19.4,88.9,3.9,78
+657,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Successful,3.8,76.9,2,55.6
+658,114147,Alisson Becker,409,Brazil,59,SecondHalf,Pass,Successful,10.7,46.6,12.8,23.8
+659,101949,Marquinhos,409,Brazil,59,SecondHalf,Pass,Successful,12.9,23.8,8.1,49.9
+660,114147,Alisson Becker,409,Brazil,59,SecondHalf,Pass,Successful,9.9,50.8,7.3,66.7
+661,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Unsuccessful,6.7,70.2,8.6,70.8
+455,377287,Daizen Maeda,986,Japan,59,SecondHalf,BlockedPass,Successful,91.4,29.2,,
+663,115097,Douglas Santos,409,Brazil,59,SecondHalf,Pass,Successful,26.3,100,7,80.4
+664,334087,Gabriel Magalhães,409,Brazil,59,SecondHalf,Pass,Successful,8.2,79.6,5.8,58.6
+665,114147,Alisson Becker,409,Brazil,59,SecondHalf,Pass,Unsuccessful,5.8,58.6,40.6,85
+457,377283,Takehiro Tomiyasu,986,Japan,59,SecondHalf,Aerial,Successful,59.4,15,,
+666,362758,Matheus Cunha,409,Brazil,59,SecondHalf,Aerial,Unsuccessful,40.6,85,,
+458,377283,Takehiro Tomiyasu,986,Japan,59,SecondHalf,Pass,Successful,59.4,15,63.6,29.7
+459,377288,Ayase Ueda,986,Japan,59,SecondHalf,BallTouch,Unsuccessful,63.4,31.5,,
+667,,,409,Brazil,59,SecondHalf,Foul,Successful,34.6,70,,
+460,377288,Ayase Ueda,986,Japan,59,SecondHalf,Foul,Unsuccessful,65.4,30,,
+668,88526,Casemiro,409,Brazil,59,SecondHalf,Pass,Successful,36.1,69,34.3,52.2
+669,101949,Marquinhos,409,Brazil,60,SecondHalf,Pass,Successful,34.3,51.4,45.2,12.4
+670,88300,Danilo,409,Brazil,60,SecondHalf,Pass,Successful,44.6,11.8,43.9,27.6
+671,338780,Bruno Guimarães,409,Brazil,60,SecondHalf,Pass,Successful,42.8,29.8,37,61.3
+672,334087,Gabriel Magalhães,409,Brazil,60,SecondHalf,Pass,Successful,55.9,75.7,65.6,93.9
+673,337782,Vinícius Júnior,409,Brazil,60,SecondHalf,Pass,Successful,66.6,90.7,65.6,57.7
+674,338780,Bruno Guimarães,409,Brazil,60,SecondHalf,Pass,Unsuccessful,67.2,64,100,88
+463,143724,Shogo Taniguchi,986,Japan,60,SecondHalf,Pass,Successful,5.1,62.3,3.6,46.4
+464,447570,Zion Suzuki,986,Japan,60,SecondHalf,Pass,Successful,7.1,42.1,19.9,45.5
+465,509815,Kaishu Sano,986,Japan,60,SecondHalf,Pass,Successful,19.9,45.5,14.6,68.1
+466,143724,Shogo Taniguchi,986,Japan,60,SecondHalf,Pass,Successful,23.6,68.2,22,30.7
+467,377283,Takehiro Tomiyasu,986,Japan,61,SecondHalf,Pass,Successful,27.6,31.3,25.5,58.7
+468,143724,Shogo Taniguchi,986,Japan,61,SecondHalf,Pass,Successful,26.1,59.9,27.8,81.8
+469,422717,Hiroki Ito,986,Japan,61,SecondHalf,Pass,Successful,27.8,81.8,36.8,97.1
+470,379700,Keito Nakamura,986,Japan,61,SecondHalf,Pass,Successful,36.5,96.5,33.6,80
+471,344166,Daichi Kamada,986,Japan,61,SecondHalf,Pass,Successful,33.6,80,26,91.7
+472,422717,Hiroki Ito,986,Japan,61,SecondHalf,Pass,Successful,21.7,86,3.4,61.1
+473,447570,Zion Suzuki,986,Japan,61,SecondHalf,Pass,Successful,3.7,54.5,77.2,80.2
+474,377287,Daizen Maeda,986,Japan,61,SecondHalf,BallTouch,Unsuccessful,77.2,80.2,,
+676,114147,Alisson Becker,409,Brazil,61,SecondHalf,KeeperSweeper,Successful,7.5,34.9,,
+677,114147,Alisson Becker,409,Brazil,61,SecondHalf,Smother,Successful,7.5,34.9,,
+678,114147,Alisson Becker,409,Brazil,61,SecondHalf,KeeperPickup,Successful,7.5,34.9,,
+679,114147,Alisson Becker,409,Brazil,61,SecondHalf,Pass,Successful,13.1,39.1,18.1,66.7
+680,334087,Gabriel Magalhães,409,Brazil,61,SecondHalf,Pass,Successful,18.8,66.1,25.4,60.7
+681,88526,Casemiro,409,Brazil,61,SecondHalf,Pass,Successful,25.2,53.8,22.5,35.5
+682,101949,Marquinhos,409,Brazil,61,SecondHalf,Pass,Successful,26.9,37.8,26.8,67.9
+683,334087,Gabriel Magalhães,409,Brazil,61,SecondHalf,Pass,Successful,26.8,68.5,10.4,47.5
+684,114147,Alisson Becker,409,Brazil,61,SecondHalf,Pass,Unsuccessful,12.6,48,14.8,48.3
+475,377287,Daizen Maeda,986,Japan,61,SecondHalf,BlockedPass,Successful,85.2,51.7,,
+685,338780,Bruno Guimarães,409,Brazil,62,SecondHalf,Pass,Successful,27,41.7,38.1,40.6
+686,445649,Endrick,409,Brazil,62,SecondHalf,Pass,Successful,35.5,49.8,35.4,85.8
+687,115097,Douglas Santos,409,Brazil,62,SecondHalf,Pass,Successful,35.4,85.8,44,92.5
+688,337782,Vinícius Júnior,409,Brazil,62,SecondHalf,Pass,Successful,51.1,93.4,60.3,82.2
+689,115097,Douglas Santos,409,Brazil,62,SecondHalf,Pass,Successful,60.3,82.2,57.7,82.5
+690,337782,Vinícius Júnior,409,Brazil,62,SecondHalf,Pass,Successful,66.4,72.7,69.1,63.9
+691,362758,Matheus Cunha,409,Brazil,62,SecondHalf,Pass,Successful,69.1,63.9,63.7,65.5
+692,338780,Bruno Guimarães,409,Brazil,62,SecondHalf,Pass,Successful,64.9,55.9,64.7,29.1
+693,88300,Danilo,409,Brazil,62,SecondHalf,Pass,Successful,64.7,28.9,74,7.5
+694,472122,Rayan,409,Brazil,62,SecondHalf,Pass,Successful,73.5,9.3,75.1,21.4
+695,362758,Matheus Cunha,409,Brazil,62,SecondHalf,Pass,Successful,75.1,21.4,82.3,14.7
+697,472122,Rayan,409,Brazil,62,SecondHalf,TakeOn,Successful,90.8,25.4,,
+478,422717,Hiroki Ito,986,Japan,62,SecondHalf,Challenge,Unsuccessful,9.2,74.6,,
+698,472122,Rayan,409,Brazil,62,SecondHalf,Pass,Successful,90,25.3,85.2,28
+699,362758,Matheus Cunha,409,Brazil,62,SecondHalf,Pass,Successful,85.2,27.9,89.1,19.3
+700,472122,Rayan,409,Brazil,62,SecondHalf,Pass,Unsuccessful,86.3,20.8,96.2,58.5
+479,447570,Zion Suzuki,986,Japan,62,SecondHalf,Claim,Successful,3.8,41.5,,
+480,447570,Zion Suzuki,986,Japan,62,SecondHalf,Pass,Successful,14.4,47,23.5,42.5
+481,509815,Kaishu Sano,986,Japan,62,SecondHalf,Pass,Successful,40.6,29.7,42.4,9.1
+482,343435,Ritsu Doan,986,Japan,62,SecondHalf,Pass,Successful,42.4,9.1,28.6,29.7
+483,377283,Takehiro Tomiyasu,986,Japan,62,SecondHalf,Pass,Successful,29.4,33,37.7,36.7
+484,509815,Kaishu Sano,986,Japan,63,SecondHalf,Pass,Successful,32,50.9,35.3,55.8
+485,344166,Daichi Kamada,986,Japan,63,SecondHalf,Pass,Successful,35.3,55.8,28,46.6
+486,509815,Kaishu Sano,986,Japan,63,SecondHalf,Pass,Successful,27.9,45.1,28,24
+487,377283,Takehiro Tomiyasu,986,Japan,63,SecondHalf,Pass,Successful,26.8,46.7,18.8,53.1
+488,143724,Shogo Taniguchi,986,Japan,63,SecondHalf,Pass,Successful,21.2,55.8,20.9,94.5
+489,422717,Hiroki Ito,986,Japan,63,SecondHalf,Pass,Successful,20.9,94.5,42.9,76.1
+490,377287,Daizen Maeda,986,Japan,63,SecondHalf,Pass,Successful,41.9,66.1,79.8,85.3
+491,377288,Ayase Ueda,986,Japan,63,SecondHalf,SavedShot,Successful,84.8,77,,
+702,114147,Alisson Becker,409,Brazil,63,SecondHalf,Save,Successful,2.5,45.6,,
+703,114147,Alisson Becker,409,Brazil,63,SecondHalf,KeeperPickup,Successful,4.2,32.1,,
+704,114147,Alisson Becker,409,Brazil,63,SecondHalf,Pass,Successful,14.9,45,22.5,13.8
+705,88300,Danilo,409,Brazil,63,SecondHalf,Pass,Successful,27.8,7.2,12.2,25.8
+706,101949,Marquinhos,409,Brazil,63,SecondHalf,Pass,Successful,13.9,27.6,15,72.4
+707,334087,Gabriel Magalhães,409,Brazil,63,SecondHalf,Pass,Successful,15.5,72.3,30.6,93.3
+708,115097,Douglas Santos,409,Brazil,63,SecondHalf,Pass,Successful,35.3,91.3,50.3,70.3
+709,88526,Casemiro,409,Brazil,63,SecondHalf,Pass,Successful,52.5,76,51.5,92.5
+710,115097,Douglas Santos,409,Brazil,64,SecondHalf,Pass,Successful,51.5,92.1,62.4,96
+711,337782,Vinícius Júnior,409,Brazil,64,SecondHalf,Pass,Unsuccessful,62.4,95.2,63.7,94
+492,343435,Ritsu Doan,986,Japan,64,SecondHalf,BallTouch,Successful,36.3,6,,
+713,115097,Douglas Santos,409,Brazil,64,SecondHalf,Pass,Successful,58.1,100,41,79.6
+714,334087,Gabriel Magalhães,409,Brazil,64,SecondHalf,Pass,Successful,41.5,78.6,53.1,60.1
+715,338780,Bruno Guimarães,409,Brazil,64,SecondHalf,Pass,Successful,58.1,43.8,61,15.7
+716,88300,Danilo,409,Brazil,64,SecondHalf,Pass,Successful,61.6,18.6,58.2,61
+717,334087,Gabriel Magalhães,409,Brazil,64,SecondHalf,Pass,Successful,63,63.1,77.2,95.4
+718,337782,Vinícius Júnior,409,Brazil,64,SecondHalf,Pass,Successful,78,94.2,68.8,78.4
+719,334087,Gabriel Magalhães,409,Brazil,64,SecondHalf,Pass,Successful,68.8,78.4,59.9,64.8
+720,88526,Casemiro,409,Brazil,64,SecondHalf,Pass,Successful,60.5,63.3,61.5,37.8
+721,101949,Marquinhos,409,Brazil,64,SecondHalf,Pass,Successful,63,35.8,79.9,6.6
+722,472122,Rayan,409,Brazil,64,SecondHalf,Pass,Successful,81.7,7.5,71.1,22.6
+723,338780,Bruno Guimarães,409,Brazil,64,SecondHalf,Pass,Successful,70.1,23.4,64.9,60.6
+724,334087,Gabriel Magalhães,409,Brazil,64,SecondHalf,Pass,Successful,65.1,59.4,79.8,92.4
+725,337782,Vinícius Júnior,409,Brazil,64,SecondHalf,Pass,Successful,81.7,90.3,96.2,80.1
+726,115097,Douglas Santos,409,Brazil,64,SecondHalf,Pass,Unsuccessful,96.2,80.1,92.7,61.3
+494,509815,Kaishu Sano,986,Japan,64,SecondHalf,Clearance,Successful,9.5,39.5,28.6,0
+728,362758,Matheus Cunha,409,Brazil,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+729,380706,Gabriel Martinelli,409,Brazil,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+850,,,409,Brazil,65,SecondHalf,FormationChange,Successful,0,0,,
+496,379700,Keito Nakamura,986,Japan,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+497,562979,Junnosuke Suzuki,986,Japan,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+498,343435,Ritsu Doan,986,Japan,65,SecondHalf,SubstitutionOff,Successful,0,0,,
+499,379783,Yukinari Sugawara,986,Japan,65,SecondHalf,SubstitutionOn,Successful,0,0,,
+500,,,986,Japan,65,SecondHalf,FormationChange,Successful,0,0,,
+730,115097,Douglas Santos,409,Brazil,65,SecondHalf,Pass,Successful,70.6,100,62.8,88.6
+731,88526,Casemiro,409,Brazil,65,SecondHalf,Pass,Successful,61.5,85.8,60.9,47.5
+732,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,63.9,42.7,77.3,7.6
+733,472122,Rayan,409,Brazil,65,SecondHalf,Pass,Successful,77.3,8.7,63.9,22.2
+734,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,64,22.2,60,35.7
+735,101949,Marquinhos,409,Brazil,66,SecondHalf,Pass,Successful,60,35.7,61,58.3
+736,88526,Casemiro,409,Brazil,66,SecondHalf,Pass,Successful,59.7,57,54.7,41.8
+737,101949,Marquinhos,409,Brazil,66,SecondHalf,Pass,Successful,54.9,41.7,45.7,61.8
+738,334087,Gabriel Magalhães,409,Brazil,66,SecondHalf,Pass,Successful,47.1,62.2,63.6,94.5
+739,115097,Douglas Santos,409,Brazil,66,SecondHalf,Pass,Successful,64.1,94,64.8,75.7
+740,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,Pass,Successful,64.8,75.7,57.2,76.5
+741,334087,Gabriel Magalhães,409,Brazil,66,SecondHalf,Pass,Successful,58,75.7,63.2,82.6
+742,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,Pass,Successful,64.4,82.3,73,75
+743,115097,Douglas Santos,409,Brazil,66,SecondHalf,Pass,Successful,73,75,72.3,63
+744,88526,Casemiro,409,Brazil,66,SecondHalf,Pass,Successful,72.6,62.1,71.2,72.9
+745,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,Pass,Successful,70.5,71.7,67.8,25.5
+746,88300,Danilo,409,Brazil,66,SecondHalf,Pass,Successful,67.9,24,79.2,8.8
+747,472122,Rayan,409,Brazil,66,SecondHalf,Pass,Unsuccessful,87.4,12,86.9,51.3
+501,509815,Kaishu Sano,986,Japan,66,SecondHalf,Clearance,Successful,14.3,47,68.5,97.7
+748,114147,Alisson Becker,409,Brazil,66,SecondHalf,Pass,Successful,31.6,5.7,37.9,10.6
+749,101949,Marquinhos,409,Brazil,66,SecondHalf,Pass,Successful,41.5,16.2,45.9,59.1
+750,334087,Gabriel Magalhães,409,Brazil,66,SecondHalf,Pass,Successful,47.5,62.1,60.8,89.2
+751,115097,Douglas Santos,409,Brazil,66,SecondHalf,Pass,Successful,61.9,88.9,71.5,96.3
+752,337782,Vinícius Júnior,409,Brazil,66,SecondHalf,Pass,Successful,73.4,93.6,70.5,78.9
+753,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,Pass,Successful,70.2,78.9,72,53.7
+754,88526,Casemiro,409,Brazil,66,SecondHalf,Pass,Successful,72.2,52.3,71.3,29.2
+755,88300,Danilo,409,Brazil,66,SecondHalf,Pass,Successful,71.3,29.2,81.1,7.2
+756,472122,Rayan,409,Brazil,67,SecondHalf,Pass,Unsuccessful,83.9,8.8,89.6,33.9
+502,344166,Daichi Kamada,986,Japan,67,SecondHalf,Clearance,Successful,12.3,66.1,31.9,73
+757,88300,Danilo,409,Brazil,67,SecondHalf,Pass,Successful,69.8,20.4,71.5,51.1
+758,380706,Gabriel Martinelli,409,Brazil,67,SecondHalf,Pass,Successful,71.5,51,45.8,87
+759,334087,Gabriel Magalhães,409,Brazil,67,SecondHalf,Pass,Successful,45.9,86.7,57.4,75.1
+760,380706,Gabriel Martinelli,409,Brazil,67,SecondHalf,Pass,Successful,57.7,74.2,73.6,49
+761,445649,Endrick,409,Brazil,67,SecondHalf,Pass,Successful,73.7,49.3,69.7,57.7
+762,115097,Douglas Santos,409,Brazil,67,SecondHalf,Pass,Successful,69.7,56.7,66.9,43.9
+763,88526,Casemiro,409,Brazil,67,SecondHalf,Pass,Unsuccessful,66.8,44.8,90.9,57.7
+503,377283,Takehiro Tomiyasu,986,Japan,67,SecondHalf,Aerial,Successful,9.1,42.3,,
+764,445649,Endrick,409,Brazil,67,SecondHalf,Aerial,Unsuccessful,90.9,57.7,,
+504,377283,Takehiro Tomiyasu,986,Japan,67,SecondHalf,Clearance,Successful,9.1,42.3,8.6,29.4
+505,379783,Yukinari Sugawara,986,Japan,67,SecondHalf,Clearance,Successful,8.6,29.4,60.8,100
+768,88300,Danilo,409,Brazil,70,SecondHalf,Pass,Successful,35.1,0,25.8,23.2
+769,101949,Marquinhos,409,Brazil,70,SecondHalf,Pass,Successful,26.5,25.3,30,55.2
+770,334087,Gabriel Magalhães,409,Brazil,71,SecondHalf,Pass,Successful,32.4,57,39.7,87.1
+771,115097,Douglas Santos,409,Brazil,71,SecondHalf,Pass,Successful,39.6,86.8,39.7,65.5
+772,334087,Gabriel Magalhães,409,Brazil,71,SecondHalf,Pass,Successful,43.9,64.5,43,39
+773,101949,Marquinhos,409,Brazil,71,SecondHalf,Pass,Successful,46.6,35.2,46,13.2
+774,88300,Danilo,409,Brazil,71,SecondHalf,Pass,Successful,46,13.8,41.4,32.8
+775,101949,Marquinhos,409,Brazil,71,SecondHalf,Pass,Successful,42.6,33.9,44.8,63.7
+776,334087,Gabriel Magalhães,409,Brazil,71,SecondHalf,Pass,Successful,54.2,67,59.4,87.7
+777,115097,Douglas Santos,409,Brazil,71,SecondHalf,Pass,Successful,59.1,87,65.4,94.3
+778,337782,Vinícius Júnior,409,Brazil,71,SecondHalf,Pass,Unsuccessful,64.6,92.8,67.3,84.7
+509,370255,Junya Ito,986,Japan,71,SecondHalf,BallRecovery,Successful,31.7,11,,
+511,370255,Junya Ito,986,Japan,71,SecondHalf,Foul,Successful,42.4,20.8,,
+779,380706,Gabriel Martinelli,409,Brazil,71,SecondHalf,Foul,Unsuccessful,57.6,79.2,,
+512,377283,Takehiro Tomiyasu,986,Japan,71,SecondHalf,Pass,Successful,44.6,19.2,45.1,58.7
+513,344166,Daichi Kamada,986,Japan,71,SecondHalf,Pass,Successful,54,71.1,61.4,97.5
+514,562979,Junnosuke Suzuki,986,Japan,71,SecondHalf,Pass,Successful,61.4,97.5,53.6,96.5
+515,422717,Hiroki Ito,986,Japan,71,SecondHalf,Pass,Successful,53.6,96.5,53.8,79.9
+516,344166,Daichi Kamada,986,Japan,71,SecondHalf,Pass,Successful,52.3,75.3,44,46.1
+517,143724,Shogo Taniguchi,986,Japan,71,SecondHalf,Pass,Successful,44,46.1,55.9,11.1
+518,370255,Junya Ito,986,Japan,72,SecondHalf,Pass,Successful,63.2,8.6,61.9,21.8
+519,509815,Kaishu Sano,986,Japan,72,SecondHalf,Pass,Unsuccessful,61.9,21.8,74,17
+780,115097,Douglas Santos,409,Brazil,72,SecondHalf,BallRecovery,Successful,26.8,80.8,,
+781,115097,Douglas Santos,409,Brazil,72,SecondHalf,Pass,Successful,28.4,79.8,29.8,67.5
+782,88526,Casemiro,409,Brazil,72,SecondHalf,Pass,Successful,29.8,67.2,16.9,48.3
+783,101949,Marquinhos,409,Brazil,72,SecondHalf,Pass,Successful,18.9,46.6,25.4,28.3
+784,88300,Danilo,409,Brazil,72,SecondHalf,Pass,Successful,35.7,23.4,39,33.6
+785,338780,Bruno Guimarães,409,Brazil,72,SecondHalf,Pass,Successful,39.8,31.5,59.5,29.5
+786,445649,Endrick,409,Brazil,72,SecondHalf,Pass,Successful,57.1,52.6,78.2,89.7
+787,337782,Vinícius Júnior,409,Brazil,72,SecondHalf,Pass,Unsuccessful,84.4,66.7,87.9,45.3
+521,562979,Junnosuke Suzuki,986,Japan,72,SecondHalf,Clearance,Successful,9,60.5,30.9,17.9
+522,370255,Junya Ito,986,Japan,72,SecondHalf,BallTouch,Unsuccessful,30.9,17.9,,
+788,334087,Gabriel Magalhães,409,Brazil,72,SecondHalf,Pass,Successful,57.4,72.7,60.5,68.5
+789,88526,Casemiro,409,Brazil,72,SecondHalf,Pass,Successful,60.8,67,72.4,94
+790,115097,Douglas Santos,409,Brazil,72,SecondHalf,Pass,Successful,71.6,92.8,67.1,81.3
+791,380706,Gabriel Martinelli,409,Brazil,72,SecondHalf,Pass,Successful,66.3,80.5,61.7,71.5
+792,334087,Gabriel Magalhães,409,Brazil,72,SecondHalf,Pass,Successful,60.8,68.8,60.5,46.3
+793,101949,Marquinhos,409,Brazil,72,SecondHalf,Pass,Successful,61.7,40.8,76.9,5.8
+794,472122,Rayan,409,Brazil,72,SecondHalf,Pass,Successful,78,6.1,67.8,15.7
+795,88300,Danilo,409,Brazil,72,SecondHalf,Pass,Successful,67.8,15.4,67.8,24.7
+796,338780,Bruno Guimarães,409,Brazil,73,SecondHalf,Pass,Successful,68.3,22.9,74.7,5.4
+797,472122,Rayan,409,Brazil,73,SecondHalf,Pass,Successful,74.7,5.4,64.9,15
+798,88300,Danilo,409,Brazil,73,SecondHalf,Pass,Successful,66,22.3,64.4,59.1
+799,334087,Gabriel Magalhães,409,Brazil,73,SecondHalf,Pass,Successful,65.4,60,81.8,91
+800,337782,Vinícius Júnior,409,Brazil,73,SecondHalf,Pass,Successful,85.3,88.2,77.9,76.9
+801,334087,Gabriel Magalhães,409,Brazil,73,SecondHalf,Pass,Successful,78,76.9,94.8,39.9
+802,472122,Rayan,409,Brazil,73,SecondHalf,SavedShot,Successful,94.8,39.9,,
+523,562979,Junnosuke Suzuki,986,Japan,73,SecondHalf,Save,Successful,3.3,56.5,,
+803,472122,Rayan,409,Brazil,73,SecondHalf,CornerAwarded,Successful,100,36,,
+524,562979,Junnosuke Suzuki,986,Japan,73,SecondHalf,CornerAwarded,Unsuccessful,0,64,,
+804,338780,Bruno Guimarães,409,Brazil,73,SecondHalf,Pass,Unsuccessful,99.5,0.5,90.5,37
+525,370255,Junya Ito,986,Japan,73,SecondHalf,Clearance,Successful,7.3,67,34.2,100
+806,472122,Rayan,409,Brazil,74,SecondHalf,Pass,Successful,62.6,0,47.7,19.3
+807,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,48.3,20.8,52.7,48.6
+808,115097,Douglas Santos,409,Brazil,74,SecondHalf,Pass,Successful,52.3,49,54.7,59.5
+809,334087,Gabriel Magalhães,409,Brazil,74,SecondHalf,Pass,Successful,64.5,62.8,61,35.2
+810,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,62.2,33.4,74.9,2.7
+811,472122,Rayan,409,Brazil,74,SecondHalf,Pass,Successful,74.9,2.7,60.6,21.9
+812,88300,Danilo,409,Brazil,74,SecondHalf,Pass,Successful,60.6,21.9,55.9,37.8
+813,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,53.8,42,55.2,65.2
+814,334087,Gabriel Magalhães,409,Brazil,74,SecondHalf,Pass,Successful,62.7,68.4,75.4,95.4
+815,337782,Vinícius Júnior,409,Brazil,74,SecondHalf,Pass,Successful,77.2,92.5,68.3,79.3
+816,334087,Gabriel Magalhães,409,Brazil,74,SecondHalf,Pass,Successful,69.7,76.6,65.3,43.8
+817,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,65.2,43.2,70.9,73.6
+818,380706,Gabriel Martinelli,409,Brazil,74,SecondHalf,Pass,Unsuccessful,75,74.5,76.1,72
+527,509815,Kaishu Sano,986,Japan,74,SecondHalf,BallTouch,Successful,22.6,23.9,,
+528,377287,Daizen Maeda,986,Japan,74,SecondHalf,Clearance,Successful,20.5,51.3,37.5,52.8
+819,101949,Marquinhos,409,Brazil,74,SecondHalf,Pass,Successful,64.4,44.8,69.5,65.4
+820,380706,Gabriel Martinelli,409,Brazil,74,SecondHalf,Pass,Successful,70.2,77.1,73.5,97.5
+821,337782,Vinícius Júnior,409,Brazil,75,SecondHalf,Pass,Successful,73.5,97.5,63.5,76
+822,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,63.6,75.6,61.9,45.9
+823,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,61.6,43.3,68.8,7.8
+824,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,69.6,9.7,59.6,30.4
+825,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,61.6,30.6,75.5,9.9
+826,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,75.5,9.9,55.2,15.7
+827,338780,Bruno Guimarães,409,Brazil,75,SecondHalf,Pass,Successful,55.5,26.8,53,38.4
+828,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,53,38.4,37.8,58
+829,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,45.2,60.4,51.4,43.3
+830,338780,Bruno Guimarães,409,Brazil,75,SecondHalf,Pass,Successful,49.6,49.8,44.1,31
+831,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,42.9,38.7,44.7,71.5
+832,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,44.4,69.6,51.3,92.4
+833,115097,Douglas Santos,409,Brazil,75,SecondHalf,Pass,Successful,45,89.8,44.2,66.4
+834,88526,Casemiro,409,Brazil,75,SecondHalf,Pass,Successful,44.2,66.4,55.8,91.2
+835,337782,Vinícius Júnior,409,Brazil,75,SecondHalf,Pass,Successful,53.1,76.5,69.3,49.5
+836,445649,Endrick,409,Brazil,75,SecondHalf,Pass,Unsuccessful,71.4,51,98,68.5
+529,447570,Zion Suzuki,986,Japan,75,SecondHalf,KeeperPickup,Successful,1.5,34.3,,
+530,447570,Zion Suzuki,986,Japan,76,SecondHalf,Pass,Successful,14.3,45.2,29.2,9.7
+531,379783,Yukinari Sugawara,986,Japan,76,SecondHalf,Pass,Unsuccessful,29.2,9.7,51.7,14.4
+837,88526,Casemiro,409,Brazil,76,SecondHalf,BallRecovery,Successful,39.4,88.9,,
+838,88526,Casemiro,409,Brazil,76,SecondHalf,Pass,Successful,38.1,87.9,31.6,69.7
+839,334087,Gabriel Magalhães,409,Brazil,76,SecondHalf,Pass,Successful,31.6,69.6,36.1,70
+840,88526,Casemiro,409,Brazil,76,SecondHalf,Pass,Successful,39.9,62.5,38.1,42.3
+841,101949,Marquinhos,409,Brazil,76,SecondHalf,Pass,Successful,43.2,33,59.9,3.3
+842,88300,Danilo,409,Brazil,76,SecondHalf,Pass,Successful,59.9,3,52.8,25.5
+843,338780,Bruno Guimarães,409,Brazil,76,SecondHalf,Pass,Successful,48.1,27.1,42.2,61.6
+844,334087,Gabriel Magalhães,409,Brazil,76,SecondHalf,Pass,Successful,56.9,66.3,69.8,93
+845,337782,Vinícius Júnior,409,Brazil,76,SecondHalf,Pass,Successful,68.2,82.6,77.1,93.1
+846,380706,Gabriel Martinelli,409,Brazil,76,SecondHalf,Pass,Successful,74.6,92.1,93.1,91.5
+847,115097,Douglas Santos,409,Brazil,76,SecondHalf,Pass,Unsuccessful,95.2,89.2,91.9,57
+533,377283,Takehiro Tomiyasu,986,Japan,76,SecondHalf,Clearance,Successful,3.4,41.6,20.5,29.7
+848,380706,Gabriel Martinelli,409,Brazil,76,SecondHalf,MissedShots,Successful,82.2,63.1,,
+535,370255,Junya Ito,986,Japan,77,SecondHalf,SubstitutionOff,Successful,0,0,,
+536,447590,Shuto Machino,986,Japan,77,SecondHalf,SubstitutionOn,Successful,0,0,,
+537,344166,Daichi Kamada,986,Japan,77,SecondHalf,SubstitutionOff,Successful,0,0,,
+538,423347,Ao Tanaka,986,Japan,77,SecondHalf,SubstitutionOn,Successful,0,0,,
+539,143724,Shogo Taniguchi,986,Japan,77,SecondHalf,Pass,Successful,4.8,62.3,3,46.9
+540,447570,Zion Suzuki,986,Japan,77,SecondHalf,Pass,Unsuccessful,7.5,34.9,56.6,6.8
+851,334087,Gabriel Magalhães,409,Brazil,77,SecondHalf,Interception,Successful,43.4,93.2,,
+852,115097,Douglas Santos,409,Brazil,77,SecondHalf,BallRecovery,Successful,30.6,78.1,,
+853,115097,Douglas Santos,409,Brazil,77,SecondHalf,Pass,Successful,30.6,78.1,27.4,64.3
+854,88526,Casemiro,409,Brazil,77,SecondHalf,Pass,Successful,27.3,63.9,22.7,40.3
+855,101949,Marquinhos,409,Brazil,77,SecondHalf,Pass,Successful,22.4,40.6,22.9,15
+856,88300,Danilo,409,Brazil,78,SecondHalf,Pass,Unsuccessful,15.9,11.1,17.1,10.5
+541,562979,Junnosuke Suzuki,986,Japan,78,SecondHalf,BlockedPass,Successful,82.9,89.5,,
+858,88300,Danilo,409,Brazil,78,SecondHalf,Pass,Successful,16.6,0,15.3,10.2
+859,88526,Casemiro,409,Brazil,78,SecondHalf,Pass,Unsuccessful,15.3,10.2,34,37.5
+543,509815,Kaishu Sano,986,Japan,78,SecondHalf,Aerial,Successful,66,62.5,,
+860,380706,Gabriel Martinelli,409,Brazil,78,SecondHalf,Aerial,Unsuccessful,34,37.5,,
+544,509815,Kaishu Sano,986,Japan,78,SecondHalf,Pass,Unsuccessful,66,62.5,86.5,65.2
+861,88526,Casemiro,409,Brazil,78,SecondHalf,Pass,Successful,14.7,39.1,9.7,45
+862,114147,Alisson Becker,409,Brazil,78,SecondHalf,KeeperPickup,Successful,9.7,45,,
+863,114147,Alisson Becker,409,Brazil,78,SecondHalf,Pass,Successful,12.5,46.3,25.9,87.4
+864,115097,Douglas Santos,409,Brazil,78,SecondHalf,Pass,Successful,34.1,82.9,33.1,68.8
+865,88526,Casemiro,409,Brazil,78,SecondHalf,Pass,Unsuccessful,35.6,66.7,89.1,32.4
+545,447570,Zion Suzuki,986,Japan,78,SecondHalf,BallRecovery,Successful,8,66.3,,
+546,447570,Zion Suzuki,986,Japan,78,SecondHalf,Pass,Successful,8.5,71.5,25.9,92.6
+547,562979,Junnosuke Suzuki,986,Japan,78,SecondHalf,Pass,Successful,28.9,94.2,26.5,77.6
+548,423347,Ao Tanaka,986,Japan,78,SecondHalf,Pass,Successful,26.5,77.6,15.4,74.8
+549,422717,Hiroki Ito,986,Japan,78,SecondHalf,Pass,Successful,15.1,72.9,3.2,52.1
+550,447570,Zion Suzuki,986,Japan,78,SecondHalf,Pass,Successful,3.5,52.4,13.4,48.7
+551,143724,Shogo Taniguchi,986,Japan,78,SecondHalf,Pass,Successful,12.9,55.7,13.9,87.2
+552,422717,Hiroki Ito,986,Japan,79,SecondHalf,Pass,Successful,15.3,89.7,29.1,97.2
+553,562979,Junnosuke Suzuki,986,Japan,79,SecondHalf,Pass,Unsuccessful,29.1,97.2,40.1,98.1
+866,88300,Danilo,409,Brazil,79,SecondHalf,Interception,Successful,59.9,1.9,,
+554,422717,Hiroki Ito,986,Japan,79,SecondHalf,Pass,Unsuccessful,28.7,97.4,48,85.9
+867,88526,Casemiro,409,Brazil,79,SecondHalf,BallRecovery,Successful,51.4,15.6,,
+868,88526,Casemiro,409,Brazil,79,SecondHalf,Pass,Successful,51.6,15.6,56,1.9
+869,88300,Danilo,409,Brazil,79,SecondHalf,Pass,Successful,56.1,3.3,71.5,23.4
+870,445649,Endrick,409,Brazil,79,SecondHalf,Dispossessed,Successful,74.2,24.4,,
+555,423347,Ao Tanaka,986,Japan,79,SecondHalf,Tackle,Unsuccessful,25.8,75.6,,
+871,445649,Endrick,409,Brazil,79,SecondHalf,BallTouch,Successful,72.3,23.8,,
+556,422717,Hiroki Ito,986,Japan,79,SecondHalf,Pass,Successful,20.4,76.6,24,76
+557,423347,Ao Tanaka,986,Japan,79,SecondHalf,BallRecovery,Successful,24,76,,
+558,423347,Ao Tanaka,986,Japan,79,SecondHalf,Pass,Unsuccessful,24,76,30.1,95
+872,88300,Danilo,409,Brazil,79,SecondHalf,Interception,Successful,69.9,5,,
+873,472122,Rayan,409,Brazil,79,SecondHalf,BallRecovery,Successful,71.9,9.7,,
+874,472122,Rayan,409,Brazil,79,SecondHalf,Pass,Unsuccessful,73.9,10,76.7,6.9
+559,562979,Junnosuke Suzuki,986,Japan,79,SecondHalf,Pass,Successful,20.7,95.1,24.2,95.6
+560,377287,Daizen Maeda,986,Japan,79,SecondHalf,BallRecovery,Successful,24.2,95.6,,
+561,377287,Daizen Maeda,986,Japan,79,SecondHalf,Pass,Successful,26.7,97.5,15.8,98.4
+562,562979,Junnosuke Suzuki,986,Japan,79,SecondHalf,Dispossessed,Successful,22.6,97,,
+875,472122,Rayan,409,Brazil,79,SecondHalf,Tackle,Successful,77.3,3,,
+564,422717,Hiroki Ito,986,Japan,79,SecondHalf,Pass,Successful,22.9,100,24.7,93
+565,423347,Ao Tanaka,986,Japan,79,SecondHalf,Pass,Successful,24.7,93,21.7,97.7
+566,422717,Hiroki Ito,986,Japan,79,SecondHalf,Pass,Successful,21.7,97.7,12.6,82.3
+567,143724,Shogo Taniguchi,986,Japan,79,SecondHalf,Pass,Successful,10.7,73.6,4.5,42.7
+568,447570,Zion Suzuki,986,Japan,79,SecondHalf,Pass,Successful,6.8,41.3,18.5,10.9
+569,377283,Takehiro Tomiyasu,986,Japan,79,SecondHalf,Pass,Successful,29.6,24.7,46.9,54
+570,377288,Ayase Ueda,986,Japan,79,SecondHalf,Pass,Unsuccessful,46.9,54,63.4,36.1
+877,334087,Gabriel Magalhães,409,Brazil,79,SecondHalf,BallRecovery,Successful,38.1,65.5,,
+878,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,38.2,66.6,43.9,65.1
+879,88526,Casemiro,409,Brazil,80,SecondHalf,Pass,Successful,43.8,65.1,37.3,68.1
+880,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,39,68.1,45.4,65.4
+881,88526,Casemiro,409,Brazil,80,SecondHalf,Pass,Successful,45,65.1,36.6,42.7
+882,101949,Marquinhos,409,Brazil,80,SecondHalf,Pass,Successful,44.1,40,45.4,30.1
+883,338780,Bruno Guimarães,409,Brazil,80,SecondHalf,Pass,Successful,51.8,27.9,59.6,5.1
+884,88300,Danilo,409,Brazil,80,SecondHalf,Pass,Successful,59.6,5.1,54.3,17.2
+885,338780,Bruno Guimarães,409,Brazil,80,SecondHalf,Pass,Successful,54.3,17.1,40.4,31.5
+886,101949,Marquinhos,409,Brazil,80,SecondHalf,Pass,Successful,43.9,31,44.7,60.6
+887,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,61.2,66.4,71.9,68.1
+888,380706,Gabriel Martinelli,409,Brazil,80,SecondHalf,Pass,Successful,71.9,68.1,63.4,68.5
+889,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,66.5,71.8,78.9,97
+890,337782,Vinícius Júnior,409,Brazil,80,SecondHalf,TakeOn,Unsuccessful,85.6,90.6,,
+571,379783,Yukinari Sugawara,986,Japan,80,SecondHalf,Tackle,Successful,14.4,9.4,,
+572,379783,Yukinari Sugawara,986,Japan,80,SecondHalf,Pass,Unsuccessful,9.9,7.9,50.9,34.2
+891,101949,Marquinhos,409,Brazil,80,SecondHalf,Pass,Successful,41.6,69.1,45,83.8
+892,334087,Gabriel Magalhães,409,Brazil,80,SecondHalf,Pass,Successful,52.7,79,47.5,52.6
+893,101949,Marquinhos,409,Brazil,80,SecondHalf,Pass,Successful,55.6,46.8,57,66.9
+894,334087,Gabriel Magalhães,409,Brazil,81,SecondHalf,Pass,Successful,62.6,74.2,75.7,94.9
+896,337782,Vinícius Júnior,409,Brazil,81,SecondHalf,BallTouch,Unsuccessful,87.5,84.6,,
+573,379783,Yukinari Sugawara,986,Japan,81,SecondHalf,Clearance,Successful,2.2,17.7,2.4,3.8
+897,115097,Douglas Santos,409,Brazil,81,SecondHalf,Pass,Unsuccessful,92.6,96.3,86.2,35.2
+574,562979,Junnosuke Suzuki,986,Japan,81,SecondHalf,Clearance,Successful,8,68.5,31.9,70.8
+898,88300,Danilo,409,Brazil,81,SecondHalf,Pass,Successful,62.1,27.4,59.1,34.3
+899,101949,Marquinhos,409,Brazil,81,SecondHalf,Pass,Successful,59.6,35.8,62.9,66.6
+900,334087,Gabriel Magalhães,409,Brazil,81,SecondHalf,Pass,Successful,65.4,65.8,76,67.5
+901,88526,Casemiro,409,Brazil,81,SecondHalf,Pass,Successful,76,67.5,63.9,69.4
+902,334087,Gabriel Magalhães,409,Brazil,81,SecondHalf,Pass,Unsuccessful,70.8,74.2,88.2,48.6
+575,143724,Shogo Taniguchi,986,Japan,81,SecondHalf,Clearance,Successful,14.3,54.2,36.7,66
+903,101949,Marquinhos,409,Brazil,81,SecondHalf,Pass,Successful,67.8,30.4,77.2,6.7
+904,88300,Danilo,409,Brazil,81,SecondHalf,Pass,Successful,77.6,6.9,60.3,31.5
+905,101949,Marquinhos,409,Brazil,81,SecondHalf,Pass,Successful,60.3,31.5,67.6,57
+906,380706,Gabriel Martinelli,409,Brazil,81,SecondHalf,Pass,Successful,69.5,60.3,77.5,94.8
+907,115097,Douglas Santos,409,Brazil,81,SecondHalf,Pass,Successful,76.8,94.5,74.6,88.6
+908,337782,Vinícius Júnior,409,Brazil,81,SecondHalf,Pass,Successful,73.6,85.3,77.6,16
+909,88300,Danilo,409,Brazil,81,SecondHalf,Pass,Successful,75.3,19,60.8,29.2
+910,101949,Marquinhos,409,Brazil,81,SecondHalf,Pass,Successful,63.2,29.7,71.1,15.7
+911,88300,Danilo,409,Brazil,81,SecondHalf,Pass,Successful,70.3,17.5,68.8,28.5
+912,338780,Bruno Guimarães,409,Brazil,82,SecondHalf,BallTouch,Successful,68.6,28.6,,
+913,101949,Marquinhos,409,Brazil,82,SecondHalf,Pass,Successful,65.8,26.7,65.8,60.4
+914,334087,Gabriel Magalhães,409,Brazil,82,SecondHalf,Pass,Successful,65.9,63.7,83.3,92.2
+915,115097,Douglas Santos,409,Brazil,82,SecondHalf,Pass,Successful,82.9,92.2,69.8,78.6
+916,380706,Gabriel Martinelli,409,Brazil,82,SecondHalf,Pass,Unsuccessful,69.5,78.3,100,35.2
+577,143724,Shogo Taniguchi,986,Japan,82,SecondHalf,Pass,Successful,5,62.1,5.4,42.7
+578,447570,Zion Suzuki,986,Japan,82,SecondHalf,Pass,Successful,7.4,34.9,73.5,18.2
+579,377288,Ayase Ueda,986,Japan,82,SecondHalf,BallTouch,Unsuccessful,73.6,18.2,,
+918,115097,Douglas Santos,409,Brazil,82,SecondHalf,BallRecovery,Successful,33,77.1,,
+919,115097,Douglas Santos,409,Brazil,82,SecondHalf,Pass,Successful,31.8,76.2,12.3,53.7
+920,114147,Alisson Becker,409,Brazil,82,SecondHalf,Pass,Successful,13.6,52.5,25.9,50.2
+921,88526,Casemiro,409,Brazil,82,SecondHalf,Pass,Successful,32.8,47.1,34.8,12.3
+922,88300,Danilo,409,Brazil,82,SecondHalf,Pass,Successful,36.5,9.3,32.1,29.4
+923,101949,Marquinhos,409,Brazil,82,SecondHalf,Pass,Successful,33.6,30.9,37.8,67.5
+924,334087,Gabriel Magalhães,409,Brazil,82,SecondHalf,Pass,Successful,53.6,67.2,45.9,41.7
+925,101949,Marquinhos,409,Brazil,83,SecondHalf,Pass,Successful,48.9,37.6,69.8,5.8
+926,472122,Rayan,409,Brazil,83,SecondHalf,Pass,Successful,70,6.1,68.8,12.1
+927,88300,Danilo,409,Brazil,83,SecondHalf,Foul,Successful,85.2,16.2,,
+580,562979,Junnosuke Suzuki,986,Japan,83,SecondHalf,Foul,Unsuccessful,14.8,83.8,,
+581,562979,Junnosuke Suzuki,986,Japan,83,SecondHalf,Card,Successful,0,0,,
+928,472122,Rayan,409,Brazil,84,SecondHalf,Pass,Unsuccessful,85.6,17,91.2,43.2
+582,562979,Junnosuke Suzuki,986,Japan,84,SecondHalf,Clearance,Successful,8.4,57.9,0,57.5
+583,562979,Junnosuke Suzuki,986,Japan,84,SecondHalf,CornerAwarded,Unsuccessful,0,66.4,,
+929,472122,Rayan,409,Brazil,84,SecondHalf,CornerAwarded,Successful,100,33.6,,
+930,472122,Rayan,409,Brazil,84,SecondHalf,Pass,Successful,99.5,0.5,91.6,40.8
+931,88526,Casemiro,409,Brazil,84,SecondHalf,Pass,Unsuccessful,91.6,40.8,90.3,48
+584,377287,Daizen Maeda,986,Japan,84,SecondHalf,Aerial,Successful,9.7,52,,
+932,380706,Gabriel Martinelli,409,Brazil,84,SecondHalf,Aerial,Unsuccessful,90.3,48,,
+585,377287,Daizen Maeda,986,Japan,84,SecondHalf,Clearance,Successful,9.7,52,20.9,35.2
+933,338780,Bruno Guimarães,409,Brazil,84,SecondHalf,Pass,Successful,76.2,57,79.8,74.5
+934,337782,Vinícius Júnior,409,Brazil,85,SecondHalf,Pass,Successful,93.3,73.8,80.2,67.8
+935,338780,Bruno Guimarães,409,Brazil,85,SecondHalf,Pass,Unsuccessful,81.1,73,100,35.8
+587,143724,Shogo Taniguchi,986,Japan,86,SecondHalf,Pass,Successful,5.1,62.3,3.1,47.5
+588,447570,Zion Suzuki,986,Japan,86,SecondHalf,Pass,Successful,3.5,42.5,55.7,8.5
+589,447590,Shuto Machino,986,Japan,86,SecondHalf,Pass,Successful,55.7,8.5,51.2,33
+590,377288,Ayase Ueda,986,Japan,86,SecondHalf,Pass,Successful,51,32.7,47.6,13.7
+591,379783,Yukinari Sugawara,986,Japan,86,SecondHalf,Pass,Successful,45.4,10.3,75.8,18.6
+592,377287,Daizen Maeda,986,Japan,86,SecondHalf,Pass,Successful,75.8,18,73.9,10.3
+593,447590,Shuto Machino,986,Japan,86,SecondHalf,Pass,Successful,72.2,9.5,66.7,16.2
+594,379783,Yukinari Sugawara,986,Japan,86,SecondHalf,Pass,Successful,66.7,16.2,64.4,29.8
+595,509815,Kaishu Sano,986,Japan,86,SecondHalf,Pass,Successful,65.5,26.8,72,8.5
+596,447590,Shuto Machino,986,Japan,86,SecondHalf,Pass,Unsuccessful,73.4,11.4,90.1,44.2
+937,88526,Casemiro,409,Brazil,86,SecondHalf,Clearance,Successful,9.6,59.4,41.2,58.2
+597,143724,Shogo Taniguchi,986,Japan,86,SecondHalf,Aerial,Successful,58.8,41.8,,
+938,445649,Endrick,409,Brazil,86,SecondHalf,Aerial,Unsuccessful,41.2,58.2,,
+598,143724,Shogo Taniguchi,986,Japan,86,SecondHalf,Pass,Successful,58.8,41.8,63.9,42.7
+599,423347,Ao Tanaka,986,Japan,86,SecondHalf,Pass,Unsuccessful,63.7,42.7,63.7,41
+939,380706,Gabriel Martinelli,409,Brazil,86,SecondHalf,BlockedPass,Successful,36.3,59,,
+940,445649,Endrick,409,Brazil,86,SecondHalf,BallRecovery,Successful,38.8,40.9,,
+941,445649,Endrick,409,Brazil,86,SecondHalf,Pass,Unsuccessful,41.4,37.8,76.5,31.5
+600,447570,Zion Suzuki,986,Japan,86,SecondHalf,KeeperSweeper,Successful,20.9,72.9,,
+601,447570,Zion Suzuki,986,Japan,86,SecondHalf,Clearance,Successful,20.9,72.9,25,100
+943,472122,Rayan,409,Brazil,86,SecondHalf,Pass,Successful,73.1,0,57.5,7.3
+944,88300,Danilo,409,Brazil,86,SecondHalf,Pass,Successful,57.9,7.5,52.9,32.1
+945,101949,Marquinhos,409,Brazil,87,SecondHalf,Pass,Successful,52.9,31.8,62.4,52.3
+946,88526,Casemiro,409,Brazil,87,SecondHalf,Pass,Successful,70.4,63.9,75.9,95.2
+947,115097,Douglas Santos,409,Brazil,87,SecondHalf,Pass,Successful,75.8,95.2,68,79.3
+948,88526,Casemiro,409,Brazil,87,SecondHalf,Pass,Successful,67.2,77.5,63.1,46.5
+949,101949,Marquinhos,409,Brazil,87,SecondHalf,Pass,Successful,63.2,45.3,78.9,5.4
+950,472122,Rayan,409,Brazil,87,SecondHalf,Dispossessed,Successful,78.4,5.8,,
+603,562979,Junnosuke Suzuki,986,Japan,87,SecondHalf,Tackle,Unsuccessful,21.6,94.2,,
+951,88300,Danilo,409,Brazil,87,SecondHalf,Pass,Successful,62,11.4,50.7,31.3
+952,101949,Marquinhos,409,Brazil,87,SecondHalf,Pass,Successful,51,31.6,54.1,66
+953,334087,Gabriel Magalhães,409,Brazil,87,SecondHalf,Pass,Successful,65.7,70,71.7,94.6
+954,337782,Vinícius Júnior,409,Brazil,87,SecondHalf,Pass,Successful,73.4,96,67.1,85.2
+955,115097,Douglas Santos,409,Brazil,87,SecondHalf,Pass,Successful,67.5,85.6,60.3,75.4
+956,334087,Gabriel Magalhães,409,Brazil,87,SecondHalf,Pass,Successful,61.5,73.5,62,42
+957,101949,Marquinhos,409,Brazil,87,SecondHalf,Pass,Successful,61.4,41.4,66.1,23.5
+958,88300,Danilo,409,Brazil,87,SecondHalf,Pass,Successful,65.1,23.8,73.5,3
+959,472122,Rayan,409,Brazil,87,SecondHalf,Foul,Successful,73,8.1,,
+604,562979,Junnosuke Suzuki,986,Japan,87,SecondHalf,Foul,Unsuccessful,27,91.9,,
+960,338780,Bruno Guimarães,409,Brazil,88,SecondHalf,Pass,Unsuccessful,73.3,9.1,94.6,51.6
+605,447570,Zion Suzuki,986,Japan,88,SecondHalf,Punch,Unsuccessful,5.4,48.4,22.6,37.4
+961,380706,Gabriel Martinelli,409,Brazil,88,SecondHalf,Pass,Successful,75.6,54.9,79.3,74.7
+962,337782,Vinícius Júnior,409,Brazil,88,SecondHalf,SavedShot,Successful,77.4,66.2,,
+606,509815,Kaishu Sano,986,Japan,88,SecondHalf,Save,Successful,19.4,37.6,,
+963,337782,Vinícius Júnior,409,Brazil,88,SecondHalf,CornerAwarded,Successful,100,39,,
+607,509815,Kaishu Sano,986,Japan,88,SecondHalf,CornerAwarded,Unsuccessful,0,61,,
+964,338780,Bruno Guimarães,409,Brazil,88,SecondHalf,Pass,Successful,99.5,0.5,86.5,8.4
+965,472122,Rayan,409,Brazil,88,SecondHalf,Pass,Unsuccessful,86.1,8.7,91.6,55.7
+608,377283,Takehiro Tomiyasu,986,Japan,88,SecondHalf,Aerial,Successful,8.4,44.3,,
+966,334087,Gabriel Magalhães,409,Brazil,88,SecondHalf,Aerial,Unsuccessful,91.6,55.7,,
+609,377283,Takehiro Tomiyasu,986,Japan,88,SecondHalf,Clearance,Successful,8.4,44.3,28.2,55.4
+968,380706,Gabriel Martinelli,409,Brazil,88,SecondHalf,Pass,Successful,76,49.6,63.8,58.8
+969,115097,Douglas Santos,409,Brazil,88,SecondHalf,Pass,Successful,63.9,58.6,77.1,87.4
+610,423347,Ao Tanaka,986,Japan,88,SecondHalf,Challenge,Unsuccessful,13.3,23.7,,
+970,337782,Vinícius Júnior,409,Brazil,88,SecondHalf,TakeOn,Successful,86.7,76.3,,
+971,337782,Vinícius Júnior,409,Brazil,89,SecondHalf,TakeOn,Unsuccessful,96.6,80.5,,
+611,423347,Ao Tanaka,986,Japan,89,SecondHalf,Tackle,Successful,3.4,19.5,,
+612,423347,Ao Tanaka,986,Japan,89,SecondHalf,BallRecovery,Successful,2.3,13.2,,
+613,423347,Ao Tanaka,986,Japan,89,SecondHalf,BallTouch,Unsuccessful,10.4,5.6,,
+972,337782,Vinícius Júnior,409,Brazil,89,SecondHalf,BallRecovery,Successful,77.9,91.2,,
+973,337782,Vinícius Júnior,409,Brazil,89,SecondHalf,Foul,Successful,75.2,88,,
+614,423347,Ao Tanaka,986,Japan,89,SecondHalf,Foul,Unsuccessful,24.8,12,,
+974,338780,Bruno Guimarães,409,Brazil,89,SecondHalf,Pass,Successful,71.9,86.7,77.4,95.4
+975,337782,Vinícius Júnior,409,Brazil,89,SecondHalf,Pass,Unsuccessful,78.3,91.9,93.7,47.5
+615,447570,Zion Suzuki,986,Japan,89,SecondHalf,Claim,Successful,6.3,52.5,,
+616,447570,Zion Suzuki,986,Japan,89,SecondHalf,Pass,Successful,9,56.7,23.5,83.2
+976,445649,Endrick,409,Brazil,89,SecondHalf,Challenge,Unsuccessful,58,13.2,,
+617,447590,Shuto Machino,986,Japan,89,SecondHalf,TakeOn,Successful,42,86.8,,
+618,447590,Shuto Machino,986,Japan,89,SecondHalf,Pass,Successful,43.6,79.1,67.5,11.4
+977,115097,Douglas Santos,409,Brazil,89,SecondHalf,Challenge,Unsuccessful,25.7,85.8,,
+619,379783,Yukinari Sugawara,986,Japan,89,SecondHalf,TakeOn,Successful,74.3,14.2,,
+620,379783,Yukinari Sugawara,986,Japan,89,SecondHalf,Pass,Unsuccessful,96.5,11.9,90.8,43.9
+978,380706,Gabriel Martinelli,409,Brazil,89,SecondHalf,Clearance,Successful,10.9,58.2,31.6,78.9
+621,423347,Ao Tanaka,986,Japan,89,SecondHalf,Pass,Successful,65.7,28.6,56.1,48.8
+622,143724,Shogo Taniguchi,986,Japan,89,SecondHalf,Pass,Successful,56.1,48.8,61.9,74.4
+623,422717,Hiroki Ito,986,Japan,89,SecondHalf,Pass,Successful,61.9,74.4,80.2,83.9
+624,562979,Junnosuke Suzuki,986,Japan,89,SecondHalf,Pass,Unsuccessful,90.4,75.6,95.8,54.8
+979,101949,Marquinhos,409,Brazil,89,SecondHalf,Clearance,Successful,7.8,42.6,32.2,0
+984,88526,Casemiro,409,Brazil,92,SecondHalf,SubstitutionOff,Successful,0,0,,
+985,115916,Fabinho,409,Brazil,92,SecondHalf,SubstitutionOn,Successful,0,0,,
+629,422717,Hiroki Ito,986,Japan,92,SecondHalf,Pass,Successful,54.3,100,42.9,88
+630,143724,Shogo Taniguchi,986,Japan,92,SecondHalf,Pass,Successful,39.4,65.7,38.5,44.3
+631,509815,Kaishu Sano,986,Japan,92,SecondHalf,Pass,Successful,38.5,43,45.6,8.2
+632,377283,Takehiro Tomiyasu,986,Japan,92,SecondHalf,Pass,Successful,46,7.7,63.7,35.4
+633,377288,Ayase Ueda,986,Japan,92,SecondHalf,BallTouch,Unsuccessful,63.7,35.4,,
+986,101949,Marquinhos,409,Brazil,92,SecondHalf,Clearance,Successful,27.4,53.5,66.3,70.8
+634,377283,Takehiro Tomiyasu,986,Japan,92,SecondHalf,Clearance,Successful,35.3,34.2,44.2,58.7
+987,472122,Rayan,409,Brazil,92,SecondHalf,BallRecovery,Successful,58.1,41.1,,
+988,472122,Rayan,409,Brazil,92,SecondHalf,Pass,Successful,58.1,41.1,86.3,32.1
+989,445649,Endrick,409,Brazil,92,SecondHalf,Pass,Unsuccessful,99.2,28.3,98.9,29.2
+635,143724,Shogo Taniguchi,986,Japan,92,SecondHalf,BlockedPass,Successful,1.1,70.8,,
+636,143724,Shogo Taniguchi,986,Japan,92,SecondHalf,CornerAwarded,Unsuccessful,0,68.6,,
+990,445649,Endrick,409,Brazil,92,SecondHalf,CornerAwarded,Successful,100,31.4,,
+991,338780,Bruno Guimarães,409,Brazil,93,SecondHalf,Pass,Successful,99.5,0.5,87.9,51.3
+992,115916,Fabinho,409,Brazil,93,SecondHalf,Aerial,Successful,87.9,51.3,,
+637,422717,Hiroki Ito,986,Japan,93,SecondHalf,Aerial,Unsuccessful,12.1,48.7,,
+993,115916,Fabinho,409,Brazil,93,SecondHalf,MissedShots,Successful,87.9,51.3,,
+639,447570,Zion Suzuki,986,Japan,93,SecondHalf,Pass,Unsuccessful,5.1,55.4,68.5,42.1
+995,334087,Gabriel Magalhães,409,Brazil,93,SecondHalf,Aerial,Successful,31.5,57.9,,
+640,377288,Ayase Ueda,986,Japan,93,SecondHalf,Aerial,Unsuccessful,68.5,42.1,,
+996,334087,Gabriel Magalhães,409,Brazil,93,SecondHalf,Pass,Unsuccessful,31.5,57.9,58.2,45.1
+641,143724,Shogo Taniguchi,986,Japan,93,SecondHalf,Pass,Successful,41.9,52.1,47.1,53.3
+642,423347,Ao Tanaka,986,Japan,93,SecondHalf,Pass,Successful,47.1,53.3,53.9,44.8
+643,447590,Shuto Machino,986,Japan,93,SecondHalf,Dispossessed,Successful,56,52,,
+997,338780,Bruno Guimarães,409,Brazil,93,SecondHalf,Tackle,Successful,44,48,,
+998,338780,Bruno Guimarães,409,Brazil,93,SecondHalf,BallRecovery,Successful,39.9,48.3,,
+999,338780,Bruno Guimarães,409,Brazil,93,SecondHalf,Pass,Successful,40.7,50.4,43.8,80.1
+1000,115097,Douglas Santos,409,Brazil,93,SecondHalf,Pass,Successful,43.7,80.2,33.9,56.8
+1001,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,Pass,Successful,33.7,57.1,35.2,38.8
+1002,101949,Marquinhos,409,Brazil,94,SecondHalf,Pass,Successful,44.5,35.7,48.3,55.3
+1003,115916,Fabinho,409,Brazil,94,SecondHalf,Pass,Successful,58.7,58.5,60.7,90.6
+1004,115097,Douglas Santos,409,Brazil,94,SecondHalf,Pass,Successful,60.6,90.9,51.9,67.5
+1005,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,Pass,Successful,51.8,67.5,52.5,38.1
+1006,101949,Marquinhos,409,Brazil,94,SecondHalf,Pass,Successful,55.2,34.2,68.1,4.2
+1007,472122,Rayan,409,Brazil,94,SecondHalf,Pass,Successful,68.1,4.3,57.1,24.6
+1008,88300,Danilo,409,Brazil,94,SecondHalf,Pass,Successful,57,25.3,44.9,45
+1009,101949,Marquinhos,409,Brazil,94,SecondHalf,Pass,Successful,44.9,45,46.7,65.1
+1010,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,Pass,Successful,57.5,66.7,57.6,86.8
+1011,115097,Douglas Santos,409,Brazil,94,SecondHalf,Pass,Successful,57.6,86.8,53.1,69.7
+1012,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,Pass,Successful,59.2,69.3,60.5,90.3
+1013,115097,Douglas Santos,409,Brazil,94,SecondHalf,Pass,Successful,60.5,89.4,51.7,66.1
+1014,334087,Gabriel Magalhães,409,Brazil,94,SecondHalf,Pass,Successful,52.7,66.4,49,47.4
+1015,101949,Marquinhos,409,Brazil,94,SecondHalf,Pass,Successful,53.5,40.3,66.3,14.8
+1016,88300,Danilo,409,Brazil,94,SecondHalf,Pass,Successful,66.5,14.7,71.6,10.2
+1017,472122,Rayan,409,Brazil,94,SecondHalf,Pass,Successful,71.7,10.2,70.6,16.9
+1018,88300,Danilo,409,Brazil,94,SecondHalf,Pass,Successful,81.7,18,80.4,34.9
+1019,445649,Endrick,409,Brazil,94,SecondHalf,BallTouch,Unsuccessful,80.2,35,,
+646,423347,Ao Tanaka,986,Japan,94,SecondHalf,Pass,Unsuccessful,18.5,75.2,14.5,76.7
+647,423347,Ao Tanaka,986,Japan,94,SecondHalf,Error,Successful,18.5,74.4,,
+1022,472122,Rayan,409,Brazil,94,SecondHalf,Pass,Successful,86.1,24.7,81.2,40.8
+1023,338780,Bruno Guimarães,409,Brazil,94,SecondHalf,Pass,Successful,81.2,41.8,90.2,52.8
+1024,380706,Gabriel Martinelli,409,Brazil,95,SecondHalf,Goal,Successful,89.8,55.8,,
+648,377287,Daizen Maeda,986,Japan,96,SecondHalf,SubstitutionOff,Successful,0,0,,
+649,487049,Koki Ogawa,986,Japan,96,SecondHalf,SubstitutionOn,Successful,0,0,,
+657,,,986,Japan,96,SecondHalf,FormationChange,Successful,0,0,,
+1025,338780,Bruno Guimarães,409,Brazil,97,SecondHalf,SubstitutionOff,Successful,0,0,,
+1026,399250,Danilo Santos,409,Brazil,97,SecondHalf,SubstitutionOn,Successful,0,0,,
+650,509815,Kaishu Sano,986,Japan,97,SecondHalf,Pass,Successful,49.7,50.1,24,47.5
+651,447570,Zion Suzuki,986,Japan,97,SecondHalf,Pass,Unsuccessful,24,47.5,79.9,64
+1027,115916,Fabinho,409,Brazil,97,SecondHalf,Clearance,Successful,19.7,34.9,40,38.4
+652,423347,Ao Tanaka,986,Japan,97,SecondHalf,Pass,Successful,56.6,64.9,86.9,97.1
+653,422717,Hiroki Ito,986,Japan,97,SecondHalf,Pass,Unsuccessful,86.9,97.1,94.8,93.3
+1028,472122,Rayan,409,Brazil,97,SecondHalf,Clearance,Successful,4.4,14.1,4.9,11.7
+654,562979,Junnosuke Suzuki,986,Japan,97,SecondHalf,BallTouch,Successful,95,94.5,,
+1030,88300,Danilo,409,Brazil,98,SecondHalf,Pass,Successful,13.3,0,38.1,10.9
+1031,445649,Endrick,409,Brazil,98,SecondHalf,Foul,Successful,41.2,7.8,,
+656,143724,Shogo Taniguchi,986,Japan,98,SecondHalf,Foul,Unsuccessful,58.8,92.2,,
+1032,88300,Danilo,409,Brazil,98,SecondHalf,Pass,Unsuccessful,42.2,6.4,78.9,30.7
+658,143724,Shogo Taniguchi,986,Japan,98,SecondHalf,Interception,Successful,21.1,69.3,,
+659,423347,Ao Tanaka,986,Japan,98,SecondHalf,Pass,Successful,26.4,75.9,37.2,77
+660,377288,Ayase Ueda,986,Japan,98,SecondHalf,BallTouch,Unsuccessful,37.2,77,,
+1033,88300,Danilo,409,Brazil,98,SecondHalf,Pass,Unsuccessful,61.5,16.8,84.7,22.3
+661,143724,Shogo Taniguchi,986,Japan,98,SecondHalf,Clearance,Successful,12.4,82.4,27.3,83.8
+662,423347,Ao Tanaka,986,Japan,98,SecondHalf,Aerial,Successful,27.3,83.8,,
+1034,380706,Gabriel Martinelli,409,Brazil,98,SecondHalf,Aerial,Unsuccessful,72.7,16.2,,
+663,423347,Ao Tanaka,986,Japan,98,SecondHalf,Pass,Successful,27.3,83.8,34.4,78.4
+664,377288,Ayase Ueda,986,Japan,99,SecondHalf,Pass,Unsuccessful,33.6,76.4,62.7,74.4
+1035,101949,Marquinhos,409,Brazil,99,SecondHalf,Foul,Successful,32.8,30.9,,
+665,447590,Shuto Machino,986,Japan,99,SecondHalf,Foul,Unsuccessful,67.2,69,,
+1036,114147,Alisson Becker,409,Brazil,99,SecondHalf,Pass,Successful,32.4,26.5,76.5,12.4
+1037,472122,Rayan,409,Brazil,99,SecondHalf,Aerial,Successful,76.5,12.4,,
+666,422717,Hiroki Ito,986,Japan,99,SecondHalf,Aerial,Unsuccessful,23.5,87.6,,
+1038,472122,Rayan,409,Brazil,99,SecondHalf,Pass,Unsuccessful,76.5,12.4,97,31.5
+667,447570,Zion Suzuki,986,Japan,99,SecondHalf,BallRecovery,Successful,1.3,69.9,,
+668,447570,Zion Suzuki,986,Japan,99,SecondHalf,Pass,Unsuccessful,18.2,45.4,73.8,47
+1039,334087,Gabriel Magalhães,409,Brazil,100,SecondHalf,Aerial,Successful,26.2,53,,
+669,447590,Shuto Machino,986,Japan,100,SecondHalf,Aerial,Unsuccessful,73.8,47,,
+1040,334087,Gabriel Magalhães,409,Brazil,100,SecondHalf,Clearance,Successful,26.2,53,40.5,55.6
+670,377283,Takehiro Tomiyasu,986,Japan,100,SecondHalf,Pass,Successful,62.9,41.5,79.4,23
+671,379783,Yukinari Sugawara,986,Japan,100,SecondHalf,Aerial,Successful,79.4,23,,
+1041,115097,Douglas Santos,409,Brazil,100,SecondHalf,Aerial,Unsuccessful,20.6,77,,
+672,379783,Yukinari Sugawara,986,Japan,100,SecondHalf,Pass,Unsuccessful,79.4,23,95.4,15.8
+1042,399250,Danilo Santos,409,Brazil,100,SecondHalf,BallRecovery,Successful,3.9,89.7,,
+1043,399250,Danilo Santos,409,Brazil,100,SecondHalf,Pass,Unsuccessful,4,89.7,31.2,85.6
+673,377283,Takehiro Tomiyasu,986,Japan,100,SecondHalf,BallTouch,Unsuccessful,78.5,11.4,,
+1044,115097,Douglas Santos,409,Brazil,100,SecondHalf,Pass,Unsuccessful,19.9,86.5,52.8,100
+675,447590,Shuto Machino,986,Japan,100,SecondHalf,Pass,Unsuccessful,58.7,0,74.9,30.6
+1046,115097,Douglas Santos,409,Brazil,100,SecondHalf,Aerial,Successful,25.1,69.4,,
+676,377288,Ayase Ueda,986,Japan,100,SecondHalf,Aerial,Unsuccessful,74.9,30.6,,
+1047,115097,Douglas Santos,409,Brazil,100,SecondHalf,Clearance,Successful,25.1,69.4,37.9,58.6
+1048,,,409,Brazil,100,SecondHalf,End,Successful,0,0,,
+677,,,986,Japan,100,SecondHalf,End,Successful,0,0,,
+1049,,,409,Brazil,0,PostGame,End,Successful,0,0,,
+678,,,986,Japan,0,PostGame,End,Successful,0,0,,
+1,,,409,Brazil,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,986,Japan,0,PreMatch,FormationSet,Successful,0,0,,

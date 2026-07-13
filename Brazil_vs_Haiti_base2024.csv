@@ -1,0 +1,1520 @@
+eventid,playerid,jogador,teamId,teamName,minute,tempo,type,outcome,x,y,endX,endY
+2,,,409,Brazil,0,FirstHalf,Start,Successful,0,0,,
+2,,,2693,Haiti,0,FirstHalf,Start,Successful,0,0,,
+3,319756,Lucas Paquetá,409,Brazil,0,FirstHalf,Pass,Successful,50.2,49.9,28.7,49
+4,114147,Alisson Becker,409,Brazil,0,FirstHalf,Pass,Successful,35.2,42.3,80.7,26.7
+5,88300,Danilo,409,Brazil,0,FirstHalf,Pass,Unsuccessful,80.7,26.7,80.8,62.5
+3,313385,Carlens Arcus,2693,Haiti,0,FirstHalf,Clearance,Successful,19.4,38.5,34,55.1
+6,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,62,48,71.9,42.1
+7,362758,Matheus Cunha,409,Brazil,0,FirstHalf,Aerial,Successful,71.9,42.1,,
+4,367189,Hannes Delcroix,2693,Haiti,0,FirstHalf,Aerial,Unsuccessful,28.1,57.9,,
+8,362758,Matheus Cunha,409,Brazil,0,FirstHalf,BallTouch,Unsuccessful,71.9,42,,
+5,431360,Danley Jean Jacques,2693,Haiti,0,FirstHalf,BallRecovery,Successful,32,55.5,,
+6,431360,Danley Jean Jacques,2693,Haiti,0,FirstHalf,Pass,Successful,32,55.8,38.8,41.5
+7,486042,Josué Casimir,2693,Haiti,0,FirstHalf,Pass,Successful,38.8,41.5,28.1,38.2
+8,374992,Jean-Kévin Duverne,2693,Haiti,0,FirstHalf,Pass,Unsuccessful,23.5,28.6,76.9,0
+10,115097,Douglas Santos,409,Brazil,0,FirstHalf,Pass,Successful,30.5,100,16.5,87
+11,334087,Gabriel Magalhães,409,Brazil,0,FirstHalf,Pass,Successful,21.9,75.3,34,70.3
+12,88526,Casemiro,409,Brazil,0,FirstHalf,Pass,Successful,36.2,64.8,36.5,36.3
+13,101949,Marquinhos,409,Brazil,0,FirstHalf,Pass,Successful,36.5,36.3,37.7,57.4
+14,88526,Casemiro,409,Brazil,0,FirstHalf,Pass,Successful,38.1,57.6,48.6,93
+15,115097,Douglas Santos,409,Brazil,0,FirstHalf,Pass,Successful,51.6,94.9,59.7,96.9
+16,337782,Vinícius Júnior,409,Brazil,0,FirstHalf,Pass,Successful,45.1,74.1,42.2,27.6
+17,88300,Danilo,409,Brazil,0,FirstHalf,Pass,Successful,42.2,27.6,39.2,39.9
+18,101949,Marquinhos,409,Brazil,1,FirstHalf,Pass,Successful,39.1,38.2,57.1,4.8
+19,300447,Raphinha,409,Brazil,1,FirstHalf,Pass,Successful,57.1,4.8,58.5,26.5
+20,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,Dispossessed,Successful,63.6,26.2,,
+12,367189,Hannes Delcroix,2693,Haiti,1,FirstHalf,Tackle,Unsuccessful,36.4,73.8,,
+21,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,Pass,Successful,58.8,24.8,62.3,26
+22,362758,Matheus Cunha,409,Brazil,1,FirstHalf,Pass,Successful,64.4,27,74.8,27
+23,300447,Raphinha,409,Brazil,1,FirstHalf,TakeOn,Unsuccessful,77.6,26.8,,
+13,145264,Ricardo Adé,2693,Haiti,1,FirstHalf,Tackle,Successful,22.4,73.2,,
+37,300447,Raphinha,409,Brazil,1,FirstHalf,BallTouch,Unsuccessful,73.8,28.8,,
+14,431360,Danley Jean Jacques,2693,Haiti,1,FirstHalf,BallTouch,Successful,18.7,72.7,,
+24,362758,Matheus Cunha,409,Brazil,1,FirstHalf,Pass,Unsuccessful,75.1,37.2,80.2,49.9
+15,313385,Carlens Arcus,2693,Haiti,1,FirstHalf,Pass,Successful,21.9,44,23.6,55.8
+16,555256,Martin Expérience,2693,Haiti,1,FirstHalf,Foul,Successful,26.7,54.6,,
+25,338780,Bruno Guimarães,409,Brazil,1,FirstHalf,Foul,Unsuccessful,73.4,45.4,,
+17,367189,Hannes Delcroix,2693,Haiti,1,FirstHalf,Pass,Successful,29.3,62.5,34,57.2
+18,320242,Jean-Ricner Bellegarde,2693,Haiti,1,FirstHalf,Pass,Successful,34,57.2,31.1,67
+19,367189,Hannes Delcroix,2693,Haiti,1,FirstHalf,Pass,Successful,31.1,67,24.7,54.6
+20,34069,Johny Placide,2693,Haiti,1,FirstHalf,Pass,Successful,27.4,48.9,28.2,30.2
+21,145264,Ricardo Adé,2693,Haiti,1,FirstHalf,Pass,Successful,28.1,28.4,36.3,8.9
+22,374992,Jean-Kévin Duverne,2693,Haiti,2,FirstHalf,Pass,Unsuccessful,36.5,8.1,100,10.4
+26,334087,Gabriel Magalhães,409,Brazil,2,FirstHalf,ShieldBallOpp,Successful,6.7,82.9,,
+28,114147,Alisson Becker,409,Brazil,2,FirstHalf,Pass,Successful,4.4,53.8,8.3,34
+29,101949,Marquinhos,409,Brazil,2,FirstHalf,Pass,Successful,29.7,33.4,32.5,22.8
+30,338780,Bruno Guimarães,409,Brazil,2,FirstHalf,Pass,Successful,32.4,22.8,42.7,5.1
+31,88300,Danilo,409,Brazil,2,FirstHalf,Pass,Successful,42.7,5.1,34.1,25.6
+32,338780,Bruno Guimarães,409,Brazil,2,FirstHalf,Pass,Successful,34.1,25.6,30.4,44.1
+33,101949,Marquinhos,409,Brazil,2,FirstHalf,Pass,Successful,31.2,45.6,37,91.2
+34,319756,Lucas Paquetá,409,Brazil,2,FirstHalf,Pass,Successful,37.4,90.7,54,92.1
+26,374992,Jean-Kévin Duverne,2693,Haiti,2,FirstHalf,Challenge,Unsuccessful,38.4,8.6,,
+41,337782,Vinícius Júnior,409,Brazil,2,FirstHalf,TakeOn,Successful,61.6,91.4,,
+35,337782,Vinícius Júnior,409,Brazil,2,FirstHalf,TakeOn,Unsuccessful,55.2,92.5,,
+24,431360,Danley Jean Jacques,2693,Haiti,2,FirstHalf,Tackle,Successful,44.8,7.5,,
+11042,362758,Matheus Cunha,409,Brazil,3,FirstHalf,OffsideGiven,Unsuccessful,75.2,70.5,,
+38,115097,Douglas Santos,409,Brazil,3,FirstHalf,Pass,Successful,53.4,100,40.7,87.1
+70,334087,Gabriel Magalhães,409,Brazil,3,FirstHalf,Pass,Successful,34.5,86.1,42.1,90.2
+39,319756,Lucas Paquetá,409,Brazil,3,FirstHalf,Pass,Successful,44.9,80.5,57.4,92.1
+40,115097,Douglas Santos,409,Brazil,3,FirstHalf,Foul,Successful,59.2,92.4,,
+27,313385,Carlens Arcus,2693,Haiti,3,FirstHalf,Foul,Unsuccessful,40.7,7.6,,
+28,313385,Carlens Arcus,2693,Haiti,3,FirstHalf,Card,Successful,0,0,,
+42,319756,Lucas Paquetá,409,Brazil,3,FirstHalf,OffsidePass,Successful,57,91,75.2,70.5
+29,145264,Ricardo Adé,2693,Haiti,3,FirstHalf,OffsideProvoked,Successful,26.1,27.5,,
+30,34069,Johny Placide,2693,Haiti,4,FirstHalf,Pass,Successful,21.3,34.6,25.8,27.9
+31,145264,Ricardo Adé,2693,Haiti,4,FirstHalf,Pass,Successful,33.7,37.2,34.5,68.3
+32,367189,Hannes Delcroix,2693,Haiti,4,FirstHalf,Pass,Successful,34.5,68.3,15.4,52.2
+33,34069,Johny Placide,2693,Haiti,4,FirstHalf,Pass,Unsuccessful,14.8,57.6,56.3,73.5
+43,101949,Marquinhos,409,Brazil,4,FirstHalf,Aerial,Successful,43.7,26.5,,
+34,443795,Frantzdy Pierrot,2693,Haiti,4,FirstHalf,Aerial,Unsuccessful,56.3,73.5,,
+44,101949,Marquinhos,409,Brazil,4,FirstHalf,Pass,Unsuccessful,43.7,26.5,44,26.1
+35,443795,Frantzdy Pierrot,2693,Haiti,4,FirstHalf,BallTouch,Successful,56.3,73.5,,
+45,338780,Bruno Guimarães,409,Brazil,4,FirstHalf,Pass,Successful,52.1,28.9,40.7,34.2
+46,88526,Casemiro,409,Brazil,4,FirstHalf,BallRecovery,Successful,40.1,37.9,,
+47,88526,Casemiro,409,Brazil,4,FirstHalf,Pass,Successful,40.1,37.9,38.4,67.3
+48,334087,Gabriel Magalhães,409,Brazil,4,FirstHalf,Pass,Successful,38.4,67.3,43.3,50.2
+49,88526,Casemiro,409,Brazil,4,FirstHalf,Pass,Unsuccessful,44.4,52.2,100,22.3
+37,34069,Johny Placide,2693,Haiti,5,FirstHalf,CornerAwarded,Unsuccessful,2.4,65.8,,
+51,,,409,Brazil,5,FirstHalf,CornerAwarded,Successful,97.6,34.3,,
+52,300447,Raphinha,409,Brazil,5,FirstHalf,Pass,Unsuccessful,99.5,0.5,94.4,43.5
+38,443795,Frantzdy Pierrot,2693,Haiti,5,FirstHalf,Clearance,Successful,3.4,58.7,24.6,85.4
+54,300447,Raphinha,409,Brazil,5,FirstHalf,Pass,Successful,71.7,16.3,61.9,28.3
+55,362758,Matheus Cunha,409,Brazil,5,FirstHalf,Pass,Successful,58.7,28.6,53.4,34.2
+56,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,53.1,36.6,57.1,31.9
+57,362758,Matheus Cunha,409,Brazil,5,FirstHalf,Pass,Successful,58.8,33.4,42.7,43.5
+58,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,45.2,46,48.2,88.9
+59,115097,Douglas Santos,409,Brazil,5,FirstHalf,Pass,Successful,47.7,88.6,36.8,59.4
+60,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,37.4,56.8,41.2,28.2
+61,88300,Danilo,409,Brazil,5,FirstHalf,Pass,Successful,39.9,29.5,36.8,41.2
+62,101949,Marquinhos,409,Brazil,5,FirstHalf,Pass,Successful,38.1,42.4,43.7,67.9
+63,319756,Lucas Paquetá,409,Brazil,5,FirstHalf,Pass,Successful,44.7,67.3,56.4,96
+64,115097,Douglas Santos,409,Brazil,6,FirstHalf,Pass,Successful,55.5,94.8,40.8,79
+65,334087,Gabriel Magalhães,409,Brazil,6,FirstHalf,Pass,Successful,41,78.1,40.8,45
+66,101949,Marquinhos,409,Brazil,6,FirstHalf,Pass,Successful,41.8,41.8,46.5,13
+67,88300,Danilo,409,Brazil,6,FirstHalf,Pass,Successful,45.4,12.1,99,3.1
+68,300447,Raphinha,409,Brazil,6,FirstHalf,BallTouch,Successful,99.1,3,,
+40,555256,Martin Expérience,2693,Haiti,6,FirstHalf,Pass,Successful,4.4,100,26.2,92.1
+41,404551,Ruben Providence,2693,Haiti,6,FirstHalf,Pass,Unsuccessful,26.2,92.1,25.2,92.1
+71,300447,Raphinha,409,Brazil,6,FirstHalf,BlockedPass,Successful,74.8,7.9,,
+72,338780,Bruno Guimarães,409,Brazil,6,FirstHalf,Pass,Unsuccessful,77.1,14.6,78.2,16.6
+83,320242,Jean-Ricner Bellegarde,2693,Haiti,6,FirstHalf,BallTouch,Successful,21.4,82,,
+42,145264,Ricardo Adé,2693,Haiti,6,FirstHalf,Pass,Successful,19.7,52.8,23.2,28.4
+43,374992,Jean-Kévin Duverne,2693,Haiti,6,FirstHalf,Pass,Successful,31.6,22.9,53.4,18.7
+44,486042,Josué Casimir,2693,Haiti,6,FirstHalf,Pass,Unsuccessful,66,24.4,92.8,38.5
+73,114147,Alisson Becker,409,Brazil,6,FirstHalf,Smother,Successful,7.2,61.5,,
+74,114147,Alisson Becker,409,Brazil,6,FirstHalf,KeeperPickup,Successful,10.9,64.9,,
+75,114147,Alisson Becker,409,Brazil,6,FirstHalf,Pass,Successful,11.1,59.1,21,61.5
+76,88526,Casemiro,409,Brazil,6,FirstHalf,Pass,Successful,21.3,61.3,23.5,35.7
+77,101949,Marquinhos,409,Brazil,6,FirstHalf,Pass,Successful,25.8,33.6,36.6,4.2
+78,88300,Danilo,409,Brazil,7,FirstHalf,Pass,Successful,37.8,3.6,31.9,24.3
+79,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,34.6,29.4,34,63.4
+80,334087,Gabriel Magalhães,409,Brazil,7,FirstHalf,Pass,Successful,34,63.4,42.6,93.9
+81,115097,Douglas Santos,409,Brazil,7,FirstHalf,Pass,Successful,42,95.5,52.1,94.3
+82,337782,Vinícius Júnior,409,Brazil,7,FirstHalf,Pass,Successful,52.1,94.3,35.5,74.5
+83,334087,Gabriel Magalhães,409,Brazil,7,FirstHalf,Pass,Successful,42,65.4,40.4,40.3
+84,101949,Marquinhos,409,Brazil,7,FirstHalf,Pass,Successful,41.9,36.4,57.2,4.6
+85,300447,Raphinha,409,Brazil,7,FirstHalf,Pass,Successful,57.4,15,59.1,48.3
+86,319756,Lucas Paquetá,409,Brazil,7,FirstHalf,Pass,Successful,59,48.3,49.5,45.7
+87,88526,Casemiro,409,Brazil,7,FirstHalf,Pass,Successful,49.5,45.7,55.5,88.8
+88,115097,Douglas Santos,409,Brazil,7,FirstHalf,Pass,Successful,55.5,88.8,63.2,95.5
+46,313385,Carlens Arcus,2693,Haiti,7,FirstHalf,Challenge,Unsuccessful,35,12.4,,
+89,337782,Vinícius Júnior,409,Brazil,7,FirstHalf,TakeOn,Successful,65,87.6,,
+90,337782,Vinícius Júnior,409,Brazil,7,FirstHalf,BallTouch,Unsuccessful,96.4,74.2,,
+784,431360,Danley Jean Jacques,2693,Haiti,7,FirstHalf,BallRecovery,Successful,4.8,28.2,,
+48,431360,Danley Jean Jacques,2693,Haiti,7,FirstHalf,Pass,Unsuccessful,6.1,30.4,10,30.4
+91,362758,Matheus Cunha,409,Brazil,7,FirstHalf,BlockedPass,Successful,90,69.6,,
+50,34069,Johny Placide,2693,Haiti,8,FirstHalf,Pass,Unsuccessful,3.8,43.9,62.6,31.7
+93,88526,Casemiro,409,Brazil,8,FirstHalf,Aerial,Successful,37.4,68.3,,
+51,443795,Frantzdy Pierrot,2693,Haiti,8,FirstHalf,Aerial,Unsuccessful,62.6,31.7,,
+94,88526,Casemiro,409,Brazil,8,FirstHalf,Pass,Unsuccessful,37.4,68.3,40,74.8
+785,443795,Frantzdy Pierrot,2693,Haiti,8,FirstHalf,TakeOn,Unsuccessful,59,28,,
+52,443795,Frantzdy Pierrot,2693,Haiti,8,FirstHalf,Foul,Successful,60.8,26.7,,
+95,319756,Lucas Paquetá,409,Brazil,8,FirstHalf,Foul,Unsuccessful,39.2,73.4,,
+53,320242,Jean-Ricner Bellegarde,2693,Haiti,8,FirstHalf,Pass,Successful,63.2,26.3,58.1,10.7
+54,374992,Jean-Kévin Duverne,2693,Haiti,8,FirstHalf,Pass,Successful,57.8,10.7,64.5,4
+55,313385,Carlens Arcus,2693,Haiti,8,FirstHalf,Pass,Successful,64.5,4,45.1,8.7
+56,374992,Jean-Kévin Duverne,2693,Haiti,8,FirstHalf,Pass,Successful,45.1,8.7,54.4,20.3
+57,320242,Jean-Ricner Bellegarde,2693,Haiti,8,FirstHalf,Pass,Successful,55.5,33.8,68.9,44.1
+58,443795,Frantzdy Pierrot,2693,Haiti,8,FirstHalf,Pass,Successful,70.7,46.8,66.8,51.2
+59,320242,Jean-Ricner Bellegarde,2693,Haiti,8,FirstHalf,Pass,Successful,58.8,60.8,61.8,92.1
+60,555256,Martin Expérience,2693,Haiti,8,FirstHalf,Pass,Successful,65.2,91.9,87.3,79.5
+61,443795,Frantzdy Pierrot,2693,Haiti,8,FirstHalf,Pass,Successful,86.3,86.2,78.4,93.2
+62,555256,Martin Expérience,2693,Haiti,8,FirstHalf,Pass,Successful,78.4,93.2,77.1,83.9
+63,404551,Ruben Providence,2693,Haiti,8,FirstHalf,Pass,Successful,81.1,85.2,81.1,95.2
+64,555256,Martin Expérience,2693,Haiti,8,FirstHalf,Pass,Unsuccessful,81.1,95.8,79.9,96
+97,300447,Raphinha,409,Brazil,8,FirstHalf,BlockedPass,Successful,20.1,4,,
+65,555256,Martin Expérience,2693,Haiti,8,FirstHalf,BallTouch,Successful,79.9,96,,
+99,88300,Danilo,409,Brazil,9,FirstHalf,Pass,Successful,24.9,0,26,28.5
+100,88526,Casemiro,409,Brazil,9,FirstHalf,Pass,Successful,27.5,27.6,38.6,32.1
+101,362758,Matheus Cunha,409,Brazil,9,FirstHalf,Pass,Successful,38.6,32.1,31.9,32.5
+102,88526,Casemiro,409,Brazil,9,FirstHalf,Pass,Successful,32.2,32.5,42.3,46.6
+103,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,BallTouch,Unsuccessful,42.2,32.1,,
+67,374992,Jean-Kévin Duverne,2693,Haiti,9,FirstHalf,BallTouch,Successful,51.1,76.4,,
+72,404551,Ruben Providence,2693,Haiti,9,FirstHalf,TakeOn,Successful,58,65.6,,
+107,319756,Lucas Paquetá,409,Brazil,9,FirstHalf,Challenge,Unsuccessful,42,34.4,,
+68,404551,Ruben Providence,2693,Haiti,9,FirstHalf,BallRecovery,Successful,60.7,54.6,,
+69,404551,Ruben Providence,2693,Haiti,9,FirstHalf,Pass,Successful,63.1,34.9,70.7,17.7
+70,313385,Carlens Arcus,2693,Haiti,9,FirstHalf,Pass,Unsuccessful,73.6,14.8,75.5,18.8
+105,88526,Casemiro,409,Brazil,9,FirstHalf,BlockedPass,Successful,24.5,81.2,,
+73,313385,Carlens Arcus,2693,Haiti,9,FirstHalf,Pass,Successful,88.6,0,81.1,8.1
+74,486042,Josué Casimir,2693,Haiti,9,FirstHalf,Pass,Successful,81.4,8.6,86,4.3
+75,313385,Carlens Arcus,2693,Haiti,9,FirstHalf,Pass,Successful,86,4.3,81.4,8.4
+76,486042,Josué Casimir,2693,Haiti,9,FirstHalf,Pass,Successful,83.2,5.3,73.7,13.1
+77,431360,Danley Jean Jacques,2693,Haiti,9,FirstHalf,Pass,Successful,73.6,13.3,75.2,5.3
+78,486042,Josué Casimir,2693,Haiti,9,FirstHalf,Pass,Successful,75.2,5.3,52.2,13.3
+79,374992,Jean-Kévin Duverne,2693,Haiti,9,FirstHalf,Pass,Successful,52.2,13.3,45.1,57.7
+80,367189,Hannes Delcroix,2693,Haiti,9,FirstHalf,Pass,Successful,45.3,64.6,37.4,43.6
+81,145264,Ricardo Adé,2693,Haiti,9,FirstHalf,Pass,Unsuccessful,37.4,42.4,72,0
+109,115097,Douglas Santos,409,Brazil,10,FirstHalf,Pass,Successful,28.3,100,14.1,82.9
+110,334087,Gabriel Magalhães,409,Brazil,10,FirstHalf,Pass,Successful,18.4,77.5,25.5,37.8
+111,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,26.9,36.7,40,4.3
+112,88300,Danilo,409,Brazil,10,FirstHalf,Pass,Successful,40.3,4.3,53.4,3.6
+113,300447,Raphinha,409,Brazil,10,FirstHalf,Pass,Successful,53.4,3.6,40.5,5.5
+114,88300,Danilo,409,Brazil,10,FirstHalf,Pass,Successful,40.1,9.1,36.1,34.8
+115,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,36.5,36.8,34.3,62.8
+116,334087,Gabriel Magalhães,409,Brazil,10,FirstHalf,Pass,Successful,36.5,61.3,35,36.7
+117,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,35.2,36.4,39.2,18.6
+118,88300,Danilo,409,Brazil,10,FirstHalf,Pass,Successful,39,19,52.8,3.4
+119,300447,Raphinha,409,Brazil,10,FirstHalf,Pass,Successful,52.7,3.4,60.9,27.4
+120,362758,Matheus Cunha,409,Brazil,10,FirstHalf,Pass,Successful,64.3,20.8,72.4,6.4
+121,338780,Bruno Guimarães,409,Brazil,10,FirstHalf,Pass,Successful,72.4,6.6,89,8.7
+122,362758,Matheus Cunha,409,Brazil,10,FirstHalf,Pass,Unsuccessful,89,8.7,88.8,12
+84,145264,Ricardo Adé,2693,Haiti,10,FirstHalf,Clearance,Successful,11.2,88,,
+125,362758,Matheus Cunha,409,Brazil,10,FirstHalf,Pass,Unsuccessful,93.6,0,88.5,8
+87,320242,Jean-Ricner Bellegarde,2693,Haiti,10,FirstHalf,Interception,Successful,11.5,92,,
+127,88300,Danilo,409,Brazil,10,FirstHalf,Pass,Successful,73.2,0,64.5,15.7
+128,101949,Marquinhos,409,Brazil,10,FirstHalf,Pass,Successful,61.6,16.3,57.3,59.4
+129,334087,Gabriel Magalhães,409,Brazil,10,FirstHalf,Foul,Successful,57.4,63.3,,
+89,486042,Josué Casimir,2693,Haiti,10,FirstHalf,Foul,Unsuccessful,42.6,36.7,,
+11138,300447,Raphinha,409,Brazil,11,FirstHalf,OffsideGiven,Unsuccessful,81.3,22.1,,
+174,88526,Casemiro,409,Brazil,11,FirstHalf,Pass,Successful,55.4,72.6,59.5,84.4
+130,319756,Lucas Paquetá,409,Brazil,11,FirstHalf,Pass,Successful,61.6,75.6,56.4,61.6
+131,88526,Casemiro,409,Brazil,11,FirstHalf,Pass,Successful,54,67.9,51.3,41.3
+132,101949,Marquinhos,409,Brazil,11,FirstHalf,Pass,Successful,55.3,32.5,67.2,6.1
+133,88300,Danilo,409,Brazil,11,FirstHalf,Pass,Successful,65.6,7.2,73.1,3.3
+134,300447,Raphinha,409,Brazil,11,FirstHalf,TakeOn,Unsuccessful,71.8,5.5,,
+90,555256,Martin Expérience,2693,Haiti,11,FirstHalf,Tackle,Successful,28.2,94.5,,
+91,555256,Martin Expérience,2693,Haiti,11,FirstHalf,Pass,Successful,29.6,91.3,34.1,87.7
+92,404551,Ruben Providence,2693,Haiti,11,FirstHalf,TakeOn,Unsuccessful,34.6,87.4,,
+135,88300,Danilo,409,Brazil,11,FirstHalf,Tackle,Unsuccessful,65.4,12.6,,
+93,145264,Ricardo Adé,2693,Haiti,11,FirstHalf,Clearance,Successful,26,73.7,34.7,87.4
+136,88300,Danilo,409,Brazil,11,FirstHalf,Pass,Successful,68.7,7.8,76.6,18
+137,300447,Raphinha,409,Brazil,11,FirstHalf,Pass,Successful,76.8,19,74.8,27
+138,338780,Bruno Guimarães,409,Brazil,11,FirstHalf,OffsidePass,Successful,72.7,23.5,81.3,22.1
+94,145264,Ricardo Adé,2693,Haiti,11,FirstHalf,OffsideProvoked,Successful,21.2,72,,
+11150,88300,Danilo,409,Brazil,12,FirstHalf,OffsideGiven,Unsuccessful,76.1,5.2,,
+95,34069,Johny Placide,2693,Haiti,12,FirstHalf,Pass,Successful,15,66.2,61.4,68.8
+96,443795,Frantzdy Pierrot,2693,Haiti,12,FirstHalf,Aerial,Successful,61.4,68.8,,
+140,88526,Casemiro,409,Brazil,12,FirstHalf,Aerial,Unsuccessful,38.6,31.2,,
+97,443795,Frantzdy Pierrot,2693,Haiti,12,FirstHalf,Pass,Unsuccessful,61.4,68.8,72.1,57.7
+141,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,27.1,36.3,11,32.7
+142,114147,Alisson Becker,409,Brazil,12,FirstHalf,KeeperPickup,Successful,11,32.7,,
+143,114147,Alisson Becker,409,Brazil,12,FirstHalf,Pass,Successful,12.1,33.7,21.3,82
+144,115097,Douglas Santos,409,Brazil,12,FirstHalf,Pass,Successful,21.3,82.2,4.9,49.2
+145,114147,Alisson Becker,409,Brazil,12,FirstHalf,Pass,Successful,9.1,48.3,15,22.5
+146,101949,Marquinhos,409,Brazil,12,FirstHalf,Pass,Successful,26.9,21.3,28.2,64.5
+147,334087,Gabriel Magalhães,409,Brazil,12,FirstHalf,Pass,Successful,35.3,64,44,86.7
+148,319756,Lucas Paquetá,409,Brazil,12,FirstHalf,Pass,Successful,48.4,74.5,63.8,7.5
+149,300447,Raphinha,409,Brazil,12,FirstHalf,Pass,Successful,65.1,8.2,66.8,27.7
+150,338780,Bruno Guimarães,409,Brazil,12,FirstHalf,OffsidePass,Successful,66.4,24.4,76.1,5.2
+98,555256,Martin Expérience,2693,Haiti,12,FirstHalf,OffsideProvoked,Successful,25.5,86.3,,
+99,367189,Hannes Delcroix,2693,Haiti,13,FirstHalf,Pass,Successful,26,90.8,13.7,64.9
+100,34069,Johny Placide,2693,Haiti,13,FirstHalf,Pass,Unsuccessful,23.7,61.1,59.4,31
+151,88526,Casemiro,409,Brazil,13,FirstHalf,Interception,Successful,40.6,69,,
+152,319756,Lucas Paquetá,409,Brazil,13,FirstHalf,BallRecovery,Successful,56.5,73.6,,
+153,319756,Lucas Paquetá,409,Brazil,13,FirstHalf,Pass,Successful,56.5,73.6,41.3,67.5
+154,115097,Douglas Santos,409,Brazil,13,FirstHalf,Pass,Successful,41.5,69.9,37.5,60.9
+155,334087,Gabriel Magalhães,409,Brazil,13,FirstHalf,Pass,Successful,37.5,60.6,42.3,33.3
+156,101949,Marquinhos,409,Brazil,13,FirstHalf,Pass,Successful,42.3,33.3,62.6,3.4
+157,88300,Danilo,409,Brazil,13,FirstHalf,Pass,Successful,62.6,3.4,55.3,23.5
+158,338780,Bruno Guimarães,409,Brazil,13,FirstHalf,Pass,Successful,51.9,26.4,41.6,67.8
+159,334087,Gabriel Magalhães,409,Brazil,13,FirstHalf,Pass,Successful,52.3,66,41.9,64.5
+160,88526,Casemiro,409,Brazil,13,FirstHalf,Pass,Successful,42.4,62.8,47.4,30.9
+161,101949,Marquinhos,409,Brazil,13,FirstHalf,Pass,Successful,59.1,26.8,65,5.4
+162,88300,Danilo,409,Brazil,13,FirstHalf,Pass,Unsuccessful,65,5.4,86.4,9
+102,555256,Martin Expérience,2693,Haiti,13,FirstHalf,Interception,Successful,13.6,91,,
+103,555256,Martin Expérience,2693,Haiti,13,FirstHalf,BallRecovery,Successful,17.8,90.1,,
+104,555256,Martin Expérience,2693,Haiti,13,FirstHalf,Pass,Unsuccessful,7.8,96.6,39.7,97
+105,404551,Ruben Providence,2693,Haiti,13,FirstHalf,Foul,Successful,33.8,94.1,,
+163,88300,Danilo,409,Brazil,13,FirstHalf,Foul,Unsuccessful,66.2,6,,
+106,555256,Martin Expérience,2693,Haiti,14,FirstHalf,Pass,Successful,34.7,94.2,30.7,83.4
+107,320242,Jean-Ricner Bellegarde,2693,Haiti,14,FirstHalf,Pass,Successful,30.6,79.4,24.3,66.2
+108,367189,Hannes Delcroix,2693,Haiti,14,FirstHalf,Pass,Successful,23.6,63.9,12.1,44.9
+109,34069,Johny Placide,2693,Haiti,14,FirstHalf,Pass,Successful,11.1,41.5,31.2,7.4
+110,374992,Jean-Kévin Duverne,2693,Haiti,14,FirstHalf,Pass,Successful,30.4,6.8,36.6,7.4
+111,313385,Carlens Arcus,2693,Haiti,14,FirstHalf,BallTouch,Unsuccessful,36.6,6.6,,
+165,319756,Lucas Paquetá,409,Brazil,14,FirstHalf,BallRecovery,Successful,72.4,96.3,,
+166,319756,Lucas Paquetá,409,Brazil,14,FirstHalf,TakeOn,Unsuccessful,72,96.6,,
+114,374992,Jean-Kévin Duverne,2693,Haiti,14,FirstHalf,Tackle,Successful,28,3.4,,
+168,115097,Douglas Santos,409,Brazil,14,FirstHalf,Pass,Successful,65.8,100,64,83.2
+169,88526,Casemiro,409,Brazil,14,FirstHalf,Pass,Successful,62.4,87.4,45.1,61.2
+170,101949,Marquinhos,409,Brazil,14,FirstHalf,Pass,Successful,45.7,58,52.1,28.8
+171,88300,Danilo,409,Brazil,14,FirstHalf,Pass,Successful,52.1,28.6,64.1,7.2
+172,300447,Raphinha,409,Brazil,14,FirstHalf,Pass,Unsuccessful,72.3,31.2,72.7,35.5
+116,431360,Danley Jean Jacques,2693,Haiti,14,FirstHalf,BlockedPass,Successful,27.3,64.5,,
+173,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Pass,Unsuccessful,65.4,79.2,98,70
+117,34069,Johny Placide,2693,Haiti,15,FirstHalf,KeeperPickup,Successful,6.1,23.9,,
+118,34069,Johny Placide,2693,Haiti,15,FirstHalf,Pass,Unsuccessful,15.3,43.7,68.4,41.3
+175,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Aerial,Successful,31.6,58.7,,
+119,443795,Frantzdy Pierrot,2693,Haiti,15,FirstHalf,Aerial,Unsuccessful,68.4,41.3,,
+176,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Pass,Successful,31.6,58.7,40.1,66.9
+177,319756,Lucas Paquetá,409,Brazil,15,FirstHalf,BallRecovery,Successful,40.1,67.6,,
+178,319756,Lucas Paquetá,409,Brazil,15,FirstHalf,Pass,Successful,40.1,67.6,35.6,64.3
+179,88526,Casemiro,409,Brazil,15,FirstHalf,Pass,Successful,37.1,67.8,37.5,80.7
+180,319756,Lucas Paquetá,409,Brazil,15,FirstHalf,Pass,Successful,38.3,79,59,73.9
+181,362758,Matheus Cunha,409,Brazil,15,FirstHalf,Pass,Unsuccessful,62.7,65.2,78.5,51.9
+120,367189,Hannes Delcroix,2693,Haiti,15,FirstHalf,Interception,Successful,21.5,48.1,,
+121,555256,Martin Expérience,2693,Haiti,15,FirstHalf,Clearance,Successful,25.7,61.5,69.7,60.7
+182,114147,Alisson Becker,409,Brazil,15,FirstHalf,Pass,Successful,28.1,48.1,39.4,32.2
+183,101949,Marquinhos,409,Brazil,15,FirstHalf,Pass,Successful,39.3,32.1,56.7,5.5
+184,88300,Danilo,409,Brazil,15,FirstHalf,Pass,Successful,55.6,6.4,56.3,24.1
+185,338780,Bruno Guimarães,409,Brazil,15,FirstHalf,Pass,Successful,48.4,26.8,39.6,66.6
+186,334087,Gabriel Magalhães,409,Brazil,15,FirstHalf,Pass,Successful,39.6,66.7,42.4,48.1
+187,88526,Casemiro,409,Brazil,16,FirstHalf,Pass,Successful,54.7,39.9,56.9,11.4
+188,88300,Danilo,409,Brazil,16,FirstHalf,Pass,Successful,56.9,11.2,47.3,29.8
+189,88526,Casemiro,409,Brazil,16,FirstHalf,Pass,Unsuccessful,47.3,29.8,93.1,26.5
+122,145264,Ricardo Adé,2693,Haiti,16,FirstHalf,Clearance,Successful,9.4,70.1,0,73.5
+123,145264,Ricardo Adé,2693,Haiti,16,FirstHalf,CornerAwarded,Unsuccessful,0,73.1,,
+190,88526,Casemiro,409,Brazil,16,FirstHalf,CornerAwarded,Successful,100,26.9,,
+191,300447,Raphinha,409,Brazil,16,FirstHalf,Pass,Unsuccessful,99.5,0.5,92.1,56.5
+125,34069,Johny Placide,2693,Haiti,16,FirstHalf,Aerial,Successful,7.9,43.5,,
+192,334087,Gabriel Magalhães,409,Brazil,16,FirstHalf,Aerial,Unsuccessful,92.1,56.5,,
+126,34069,Johny Placide,2693,Haiti,16,FirstHalf,Claim,Unsuccessful,5.7,47.4,,
+193,337782,Vinícius Júnior,409,Brazil,16,FirstHalf,SavedShot,Successful,85.9,66.1,,
+128,486042,Josué Casimir,2693,Haiti,16,FirstHalf,Save,Successful,12,35.9,,
+194,337782,Vinícius Júnior,409,Brazil,16,FirstHalf,CornerAwarded,Successful,92.4,56.6,,
+129,486042,Josué Casimir,2693,Haiti,16,FirstHalf,CornerAwarded,Unsuccessful,7.6,43.4,,
+195,300447,Raphinha,409,Brazil,17,FirstHalf,Pass,Unsuccessful,99.5,0.5,89.7,43.8
+130,320242,Jean-Ricner Bellegarde,2693,Haiti,17,FirstHalf,Clearance,Successful,8.6,53.3,20.7,88.7
+196,300447,Raphinha,409,Brazil,17,FirstHalf,Pass,Successful,84,12.1,82.8,54.2
+197,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Aerial,Successful,87.9,68.1,,
+131,374992,Jean-Kévin Duverne,2693,Haiti,17,FirstHalf,Aerial,Unsuccessful,12.1,31.9,,
+198,334087,Gabriel Magalhães,409,Brazil,17,FirstHalf,Pass,Unsuccessful,81.5,55.8,84.6,51.9
+132,367189,Hannes Delcroix,2693,Haiti,17,FirstHalf,Clearance,Successful,12.3,44.5,25.7,39.7
+133,431360,Danley Jean Jacques,2693,Haiti,17,FirstHalf,Pass,Unsuccessful,23.2,45.7,48.2,51.9
+199,319756,Lucas Paquetá,409,Brazil,17,FirstHalf,Pass,Unsuccessful,51.7,49.3,71.6,48.6
+134,145264,Ricardo Adé,2693,Haiti,17,FirstHalf,Clearance,Successful,26.8,50.4,43.7,60.2
+200,88300,Danilo,409,Brazil,17,FirstHalf,Pass,Unsuccessful,60.8,40.3,77.9,71.4
+135,313385,Carlens Arcus,2693,Haiti,17,FirstHalf,Pass,Successful,27,26.2,4.3,25.7
+136,34069,Johny Placide,2693,Haiti,17,FirstHalf,KeeperPickup,Successful,8.8,29.9,,
+137,34069,Johny Placide,2693,Haiti,17,FirstHalf,Pass,Successful,8.8,33.3,22,48.9
+138,145264,Ricardo Adé,2693,Haiti,17,FirstHalf,Pass,Successful,22,51.1,26.3,57.6
+139,320242,Jean-Ricner Bellegarde,2693,Haiti,17,FirstHalf,Pass,Successful,27.2,57.7,20.6,53
+140,145264,Ricardo Adé,2693,Haiti,17,FirstHalf,Pass,Successful,22.3,62.6,19.1,82
+141,367189,Hannes Delcroix,2693,Haiti,17,FirstHalf,Pass,Successful,20.2,85.2,52.6,75.8
+142,404551,Ruben Providence,2693,Haiti,17,FirstHalf,BallTouch,Successful,52.7,75.8,,
+143,443795,Frantzdy Pierrot,2693,Haiti,17,FirstHalf,Pass,Successful,58.6,69.1,52.2,47.3
+144,404551,Ruben Providence,2693,Haiti,17,FirstHalf,TakeOn,Unsuccessful,56,52.2,,
+201,362758,Matheus Cunha,409,Brazil,17,FirstHalf,Tackle,Unsuccessful,44,47.8,,
+786,404551,Ruben Providence,2693,Haiti,17,FirstHalf,BallTouch,Successful,55.4,50.1,,
+145,431360,Danley Jean Jacques,2693,Haiti,17,FirstHalf,Pass,Successful,44.6,48.9,53.7,54.2
+11159,313385,Carlens Arcus,2693,Haiti,18,FirstHalf,OffsideGiven,Unsuccessful,93.3,10.5,,
+146,320242,Jean-Ricner Bellegarde,2693,Haiti,18,FirstHalf,Pass,Successful,53.7,54.2,52.8,12.3
+147,374992,Jean-Kévin Duverne,2693,Haiti,18,FirstHalf,Pass,Successful,52.8,12.3,59.8,4
+148,313385,Carlens Arcus,2693,Haiti,18,FirstHalf,Pass,Successful,61.1,6,53.8,14.3
+149,431360,Danley Jean Jacques,2693,Haiti,18,FirstHalf,Pass,Successful,53.8,14.3,61,19.8
+150,486042,Josué Casimir,2693,Haiti,18,FirstHalf,Pass,Successful,61,19.8,62.7,7.6
+151,313385,Carlens Arcus,2693,Haiti,18,FirstHalf,Pass,Successful,63.8,7.4,73.4,6.8
+152,486042,Josué Casimir,2693,Haiti,18,FirstHalf,Pass,Successful,73.6,6.1,70.4,19.6
+153,404551,Ruben Providence,2693,Haiti,18,FirstHalf,Pass,Successful,70.4,18.2,63.9,8.3
+154,431360,Danley Jean Jacques,2693,Haiti,18,FirstHalf,Pass,Successful,61.3,4.7,51.8,13.6
+155,374992,Jean-Kévin Duverne,2693,Haiti,18,FirstHalf,Pass,Successful,51.8,13.6,52,24.7
+156,320242,Jean-Ricner Bellegarde,2693,Haiti,18,FirstHalf,Pass,Successful,52,24.7,62.8,24.5
+157,313385,Carlens Arcus,2693,Haiti,18,FirstHalf,Pass,Successful,58.9,22.1,67.8,5
+202,88526,Casemiro,409,Brazil,18,FirstHalf,Challenge,Unsuccessful,22.8,82.8,,
+158,486042,Josué Casimir,2693,Haiti,18,FirstHalf,TakeOn,Successful,77.2,17.2,,
+159,486042,Josué Casimir,2693,Haiti,18,FirstHalf,OffsidePass,Successful,86.5,16.8,93.3,10.5
+203,334087,Gabriel Magalhães,409,Brazil,18,FirstHalf,OffsideProvoked,Successful,9.3,65.4,,
+204,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,13.8,67.2,22.2,35.5
+205,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,23,34.6,24.8,43.6
+206,88526,Casemiro,409,Brazil,19,FirstHalf,Pass,Successful,30.3,44.4,34.1,32.1
+207,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,38,32.4,36.1,64.8
+208,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,35.8,64.8,36.3,37.5
+209,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,35.6,37.9,40.4,10.3
+210,88300,Danilo,409,Brazil,19,FirstHalf,Pass,Successful,40.4,10.3,56.7,3.3
+211,300447,Raphinha,409,Brazil,19,FirstHalf,Pass,Successful,53,2.5,48.4,9.2
+212,338780,Bruno Guimarães,409,Brazil,19,FirstHalf,Pass,Unsuccessful,48.6,6.6,80.1,7.5
+160,145264,Ricardo Adé,2693,Haiti,19,FirstHalf,Clearance,Successful,21.4,92.7,38,100
+214,88300,Danilo,409,Brazil,19,FirstHalf,Pass,Successful,65.6,0,47.4,15.7
+215,101949,Marquinhos,409,Brazil,19,FirstHalf,Pass,Successful,50.9,17.4,51.6,54
+216,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,57.9,61.2,56.9,40.6
+217,88526,Casemiro,409,Brazil,19,FirstHalf,Pass,Successful,56.8,40.6,71.6,3.6
+218,300447,Raphinha,409,Brazil,19,FirstHalf,Pass,Successful,71.4,4,59.1,17.4
+219,88300,Danilo,409,Brazil,19,FirstHalf,Pass,Successful,59.1,17.4,54.1,57
+220,334087,Gabriel Magalhães,409,Brazil,19,FirstHalf,Pass,Successful,54.8,58,61.9,83.2
+221,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,Pass,Successful,62.2,83.1,94.5,73
+222,337782,Vinícius Júnior,409,Brazil,20,FirstHalf,Pass,Unsuccessful,93.6,73,93.5,72.2
+162,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,BlockedPass,Successful,6.5,27.8,,
+223,115097,Douglas Santos,409,Brazil,20,FirstHalf,Pass,Successful,88.7,88.2,84.8,86.8
+224,337782,Vinícius Júnior,409,Brazil,20,FirstHalf,TakeOn,Unsuccessful,87,89.4,,
+163,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,Tackle,Unsuccessful,13,10.6,,
+248,337782,Vinícius Júnior,409,Brazil,20,FirstHalf,BallTouch,Successful,90.3,90.8,,
+164,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,Pass,Unsuccessful,11.4,6.5,14.8,4.5
+226,115097,Douglas Santos,409,Brazil,20,FirstHalf,BlockedPass,Successful,85.2,95.5,,
+165,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,Pass,Unsuccessful,10.4,3.4,11.4,3.5
+227,115097,Douglas Santos,409,Brazil,20,FirstHalf,BlockedPass,Successful,88.6,96.5,,
+166,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,BallRecovery,Successful,8.7,5.2,,
+167,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,Pass,Unsuccessful,6.3,5.5,10.6,4.5
+228,115097,Douglas Santos,409,Brazil,20,FirstHalf,BlockedPass,Successful,89.4,95.5,,
+169,374992,Jean-Kévin Duverne,2693,Haiti,20,FirstHalf,Pass,Unsuccessful,14.7,0,38,9.1
+230,88526,Casemiro,409,Brazil,20,FirstHalf,Pass,Successful,62.8,91.3,70.2,80.5
+231,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,BallRecovery,Successful,70.2,80.5,,
+232,319756,Lucas Paquetá,409,Brazil,20,FirstHalf,Pass,Successful,68.9,82.6,73.1,66.9
+233,338780,Bruno Guimarães,409,Brazil,20,FirstHalf,Pass,Successful,73,57.7,73.2,24.6
+234,88300,Danilo,409,Brazil,20,FirstHalf,Pass,Unsuccessful,74.4,27,94.7,66.6
+171,313385,Carlens Arcus,2693,Haiti,20,FirstHalf,Clearance,Successful,6.1,28.6,0,25.7
+235,88300,Danilo,409,Brazil,20,FirstHalf,CornerAwarded,Successful,100,71.8,,
+172,313385,Carlens Arcus,2693,Haiti,20,FirstHalf,CornerAwarded,Unsuccessful,0,28.2,,
+11241,300447,Raphinha,409,Brazil,21,FirstHalf,OffsideGiven,Unsuccessful,65.7,41.5,,
+236,300447,Raphinha,409,Brazil,21,FirstHalf,Pass,Unsuccessful,99.5,99.5,90.7,55.2
+366,443795,Frantzdy Pierrot,2693,Haiti,21,FirstHalf,Aerial,Successful,9.3,44.8,,
+473,88526,Casemiro,409,Brazil,21,FirstHalf,Aerial,Unsuccessful,90.7,55.2,,
+173,443795,Frantzdy Pierrot,2693,Haiti,21,FirstHalf,Clearance,Successful,9.3,44.8,34.3,70.4
+174,404551,Ruben Providence,2693,Haiti,21,FirstHalf,BallRecovery,Successful,34.8,81.7,,
+175,404551,Ruben Providence,2693,Haiti,21,FirstHalf,Pass,Unsuccessful,58.6,75.8,71.3,70.4
+237,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Interception,Successful,28.7,29.6,,
+239,362758,Matheus Cunha,409,Brazil,21,FirstHalf,BallRecovery,Successful,38.6,27,,
+238,362758,Matheus Cunha,409,Brazil,21,FirstHalf,Pass,Successful,40.8,33,33.4,32.4
+240,319756,Lucas Paquetá,409,Brazil,21,FirstHalf,Pass,Successful,32.3,27.2,44.7,26
+241,338780,Bruno Guimarães,409,Brazil,21,FirstHalf,OffsidePass,Successful,53.3,22.3,65.7,41.5
+176,145264,Ricardo Adé,2693,Haiti,21,FirstHalf,OffsideProvoked,Successful,36,66.4,,
+177,34069,Johny Placide,2693,Haiti,22,FirstHalf,Pass,Successful,19.4,49.8,65.5,77.6
+178,443795,Frantzdy Pierrot,2693,Haiti,22,FirstHalf,Pass,Successful,65.7,77.7,59.3,80.7
+179,404551,Ruben Providence,2693,Haiti,22,FirstHalf,Pass,Successful,59.3,81.2,64.6,92.6
+180,555256,Martin Expérience,2693,Haiti,22,FirstHalf,Pass,Successful,55.6,67.7,40.1,58.4
+181,145264,Ricardo Adé,2693,Haiti,22,FirstHalf,Pass,Successful,39.9,58.2,43.4,65.5
+182,320242,Jean-Ricner Bellegarde,2693,Haiti,22,FirstHalf,Pass,Successful,42.6,46.8,40.6,16.9
+183,374992,Jean-Kévin Duverne,2693,Haiti,22,FirstHalf,Pass,Successful,41,14.6,35.5,45.7
+184,145264,Ricardo Adé,2693,Haiti,22,FirstHalf,Pass,Successful,35.5,49.7,47.4,45.6
+185,431360,Danley Jean Jacques,2693,Haiti,22,FirstHalf,TakeOn,Unsuccessful,48.1,46,,
+243,362758,Matheus Cunha,409,Brazil,22,FirstHalf,Tackle,Unsuccessful,51.9,54,,
+186,431360,Danley Jean Jacques,2693,Haiti,22,FirstHalf,BallTouch,Successful,49.1,45,,
+244,362758,Matheus Cunha,409,Brazil,22,FirstHalf,BallRecovery,Successful,48.9,46.6,,
+245,362758,Matheus Cunha,409,Brazil,22,FirstHalf,Pass,Successful,51.1,45.4,62,44.6
+246,338780,Bruno Guimarães,409,Brazil,22,FirstHalf,Pass,Successful,63.1,46.6,75.2,60
+247,337782,Vinícius Júnior,409,Brazil,22,FirstHalf,SavedShot,Successful,88.7,66.3,,
+187,34069,Johny Placide,2693,Haiti,22,FirstHalf,Save,Successful,2.3,47.6,,
+188,367189,Hannes Delcroix,2693,Haiti,22,FirstHalf,Clearance,Successful,7.5,48.7,7.5,45.8
+788,367189,Hannes Delcroix,2693,Haiti,22,FirstHalf,Error,Successful,8.4,48.4,,
+249,362758,Matheus Cunha,409,Brazil,22,FirstHalf,Goal,Successful,93.3,51.4,,
+189,320242,Jean-Ricner Bellegarde,2693,Haiti,24,FirstHalf,Pass,Successful,50,49.9,35.9,14.6
+191,374992,Jean-Kévin Duverne,2693,Haiti,24,FirstHalf,Pass,Successful,35.1,23.9,45.9,7
+192,313385,Carlens Arcus,2693,Haiti,24,FirstHalf,Pass,Successful,56.2,6,83.8,28.1
+193,443795,Frantzdy Pierrot,2693,Haiti,24,FirstHalf,BallTouch,Unsuccessful,83.5,28.5,,
+251,88526,Casemiro,409,Brazil,25,FirstHalf,BallRecovery,Successful,13.4,87.7,,
+252,88526,Casemiro,409,Brazil,25,FirstHalf,Pass,Unsuccessful,13.5,89.7,24.8,93.1
+194,486042,Josué Casimir,2693,Haiti,25,FirstHalf,BallTouch,Successful,71.3,3.7,,
+256,115097,Douglas Santos,409,Brazil,28,FirstHalf,Pass,Successful,29.6,100,27.5,82.8
+276,362758,Matheus Cunha,409,Brazil,28,FirstHalf,BallTouch,Unsuccessful,32.1,89.1,,
+199,431360,Danley Jean Jacques,2693,Haiti,28,FirstHalf,BallTouch,Unsuccessful,78.9,24.4,,
+257,334087,Gabriel Magalhães,409,Brazil,28,FirstHalf,BallTouch,Successful,10.5,67.5,,
+258,101949,Marquinhos,409,Brazil,28,FirstHalf,Pass,Successful,11.2,54,10.3,6.2
+259,88300,Danilo,409,Brazil,28,FirstHalf,Pass,Successful,13.5,8.7,36.6,9.9
+260,300447,Raphinha,409,Brazil,28,FirstHalf,Pass,Successful,36.6,9.9,31.2,36.7
+261,362758,Matheus Cunha,409,Brazil,28,FirstHalf,Pass,Successful,35.2,36.6,36.9,61.5
+262,319756,Lucas Paquetá,409,Brazil,28,FirstHalf,Pass,Successful,36.9,61.5,80,38.2
+263,300447,Raphinha,409,Brazil,28,FirstHalf,SavedShot,Successful,85.6,39,,
+200,34069,Johny Placide,2693,Haiti,28,FirstHalf,Save,Successful,7.8,55.6,,
+201,34069,Johny Placide,2693,Haiti,28,FirstHalf,KeeperPickup,Successful,7.7,50.2,,
+202,34069,Johny Placide,2693,Haiti,28,FirstHalf,Pass,Successful,10.3,47,26.3,8.9
+203,374992,Jean-Kévin Duverne,2693,Haiti,28,FirstHalf,Pass,Successful,33.9,9.2,3.7,47.2
+204,34069,Johny Placide,2693,Haiti,29,FirstHalf,Pass,Unsuccessful,5.3,44.4,56.8,47.7
+264,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Aerial,Successful,25.3,50.7,,
+205,443795,Frantzdy Pierrot,2693,Haiti,29,FirstHalf,Aerial,Unsuccessful,74.7,49.3,,
+265,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,BallTouch,Successful,41.8,52,,
+266,101949,Marquinhos,409,Brazil,29,FirstHalf,BallRecovery,Successful,23.1,43,,
+267,101949,Marquinhos,409,Brazil,29,FirstHalf,Pass,Successful,32.2,43,31.2,64.9
+268,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Pass,Successful,31.7,66,31.8,45.7
+269,101949,Marquinhos,409,Brazil,29,FirstHalf,Pass,Successful,31.8,45.7,36.8,20.1
+270,88300,Danilo,409,Brazil,29,FirstHalf,Pass,Successful,36.8,20.1,33.8,41.2
+271,101949,Marquinhos,409,Brazil,29,FirstHalf,Pass,Successful,35,41.1,37.2,63.6
+272,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Pass,Successful,46.9,74.2,63,74.7
+273,337782,Vinícius Júnior,409,Brazil,29,FirstHalf,Pass,Successful,63,74.7,48.3,73.3
+274,334087,Gabriel Magalhães,409,Brazil,29,FirstHalf,Pass,Successful,45,72.9,40.9,52.6
+275,101949,Marquinhos,409,Brazil,29,FirstHalf,Pass,Unsuccessful,38.8,49.3,86.2,63.1
+206,34069,Johny Placide,2693,Haiti,29,FirstHalf,KeeperPickup,Successful,9.7,27.6,,
+11281,337782,Vinícius Júnior,409,Brazil,30,FirstHalf,OffsideGiven,Unsuccessful,62.8,88.5,,
+208,34069,Johny Placide,2693,Haiti,30,FirstHalf,Pass,Successful,21.4,32.3,62.4,38.5
+209,443795,Frantzdy Pierrot,2693,Haiti,30,FirstHalf,Aerial,Successful,62.4,38.5,,
+277,88526,Casemiro,409,Brazil,30,FirstHalf,Aerial,Unsuccessful,37.6,61.5,,
+210,443795,Frantzdy Pierrot,2693,Haiti,30,FirstHalf,Pass,Unsuccessful,62,41.9,70.4,45.6
+278,101949,Marquinhos,409,Brazil,30,FirstHalf,Pass,Successful,30.5,54.7,31.3,69.7
+279,115097,Douglas Santos,409,Brazil,30,FirstHalf,Pass,Unsuccessful,30.9,70.5,32.5,70.7
+229,486042,Josué Casimir,2693,Haiti,30,FirstHalf,BallTouch,Successful,63.1,26.3,,
+280,319756,Lucas Paquetá,409,Brazil,30,FirstHalf,BallRecovery,Successful,44.8,87.1,,
+281,319756,Lucas Paquetá,409,Brazil,30,FirstHalf,OffsidePass,Successful,45.6,93.8,62.8,88.5
+211,374992,Jean-Kévin Duverne,2693,Haiti,30,FirstHalf,OffsideProvoked,Successful,41.3,8.2,,
+212,320242,Jean-Ricner Bellegarde,2693,Haiti,30,FirstHalf,Pass,Successful,32.4,22.9,28.9,51.4
+213,431360,Danley Jean Jacques,2693,Haiti,30,FirstHalf,Pass,Successful,29.3,53,30.2,70.4
+214,367189,Hannes Delcroix,2693,Haiti,30,FirstHalf,Pass,Successful,30.2,70.4,33.9,52
+215,320242,Jean-Ricner Bellegarde,2693,Haiti,30,FirstHalf,Pass,Unsuccessful,36.3,61.1,55.4,74.2
+282,101949,Marquinhos,409,Brazil,30,FirstHalf,BallRecovery,Successful,49,22.6,,
+283,101949,Marquinhos,409,Brazil,30,FirstHalf,Pass,Successful,49.2,22.6,71.9,20.5
+284,300447,Raphinha,409,Brazil,30,FirstHalf,Pass,Unsuccessful,71.9,20.5,76.8,31.3
+216,367189,Hannes Delcroix,2693,Haiti,30,FirstHalf,BallRecovery,Successful,28.3,71.2,,
+217,367189,Hannes Delcroix,2693,Haiti,30,FirstHalf,Pass,Unsuccessful,28.6,71.6,32.9,73.8
+285,338780,Bruno Guimarães,409,Brazil,30,FirstHalf,BlockedPass,Successful,64.9,24.5,,
+218,555256,Martin Expérience,2693,Haiti,30,FirstHalf,Foul,Successful,40.6,89.6,,
+286,300447,Raphinha,409,Brazil,30,FirstHalf,Foul,Unsuccessful,59.4,10.4,,
+219,367189,Hannes Delcroix,2693,Haiti,31,FirstHalf,Pass,Successful,37,83,35.5,75.6
+220,320242,Jean-Ricner Bellegarde,2693,Haiti,31,FirstHalf,Pass,Successful,31.1,73.2,13.5,57
+221,34069,Johny Placide,2693,Haiti,31,FirstHalf,Pass,Unsuccessful,11.4,65.1,54,52.7
+287,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,Pass,Unsuccessful,41,50.5,68.6,50.5
+222,431360,Danley Jean Jacques,2693,Haiti,31,FirstHalf,Pass,Unsuccessful,31.6,46.5,48,51.1
+288,88526,Casemiro,409,Brazil,31,FirstHalf,Pass,Successful,53.3,45.4,55.3,56.1
+289,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,Pass,Successful,53.5,55.9,35.7,57.6
+290,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,BallRecovery,Successful,35.7,57.6,,
+291,334087,Gabriel Magalhães,409,Brazil,31,FirstHalf,Pass,Successful,35.7,57.7,41.9,69.9
+292,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,Pass,Successful,43.3,73.6,59,76.3
+293,362758,Matheus Cunha,409,Brazil,31,FirstHalf,Pass,Successful,58.6,77.8,57.2,95.2
+294,115097,Douglas Santos,409,Brazil,31,FirstHalf,Pass,Successful,56.2,93.4,70.3,78.9
+295,319756,Lucas Paquetá,409,Brazil,31,FirstHalf,Pass,Successful,71.1,78.1,85.8,76.6
+296,337782,Vinícius Júnior,409,Brazil,31,FirstHalf,Pass,Unsuccessful,87.8,74,90,56
+224,367189,Hannes Delcroix,2693,Haiti,31,FirstHalf,Clearance,Successful,10.7,37.7,25.7,12.6
+297,115097,Douglas Santos,409,Brazil,31,FirstHalf,Pass,Successful,71.2,69.6,67.2,29.1
+298,88300,Danilo,409,Brazil,31,FirstHalf,Pass,Successful,67.2,29.1,84,11.7
+299,300447,Raphinha,409,Brazil,31,FirstHalf,TakeOn,Unsuccessful,84.4,12.4,,
+225,555256,Martin Expérience,2693,Haiti,31,FirstHalf,Tackle,Successful,15.6,87.6,,
+300,300447,Raphinha,409,Brazil,31,FirstHalf,Dispossessed,Successful,90,4.1,,
+226,555256,Martin Expérience,2693,Haiti,31,FirstHalf,Tackle,Successful,10,95.9,,
+227,555256,Martin Expérience,2693,Haiti,32,FirstHalf,BallTouch,Unsuccessful,2.9,95.3,,
+304,88300,Danilo,409,Brazil,32,FirstHalf,Pass,Unsuccessful,87.9,3.7,100,8.7
+230,367189,Hannes Delcroix,2693,Haiti,32,FirstHalf,Pass,Successful,3.2,57.7,1.6,46.8
+231,34069,Johny Placide,2693,Haiti,32,FirstHalf,Pass,Successful,6.5,48.9,3,32.7
+232,145264,Ricardo Adé,2693,Haiti,32,FirstHalf,Pass,Successful,8.1,28.8,15.3,13.5
+233,374992,Jean-Kévin Duverne,2693,Haiti,32,FirstHalf,Pass,Successful,14.9,7.1,59.1,17.2
+234,443795,Frantzdy Pierrot,2693,Haiti,32,FirstHalf,Pass,Successful,58.1,19.8,55.5,53.7
+235,320242,Jean-Ricner Bellegarde,2693,Haiti,32,FirstHalf,Pass,Successful,55.5,53.7,76.2,94.2
+236,555256,Martin Expérience,2693,Haiti,32,FirstHalf,Pass,Unsuccessful,81.3,87.2,100,21.6
+307,334087,Gabriel Magalhães,409,Brazil,32,FirstHalf,Pass,Successful,4,59.4,3.8,49
+308,114147,Alisson Becker,409,Brazil,32,FirstHalf,Pass,Successful,3.8,49,10.8,66.4
+309,334087,Gabriel Magalhães,409,Brazil,33,FirstHalf,Pass,Successful,17.8,66.4,7.9,49.9
+310,114147,Alisson Becker,409,Brazil,33,FirstHalf,Pass,Successful,11,49.2,11.1,27.6
+311,101949,Marquinhos,409,Brazil,33,FirstHalf,Pass,Successful,11.3,25.2,45.7,15.6
+312,300447,Raphinha,409,Brazil,33,FirstHalf,Pass,Unsuccessful,45.7,15.6,55.9,45.7
+238,374992,Jean-Kévin Duverne,2693,Haiti,33,FirstHalf,BallRecovery,Successful,45.7,53.3,,
+239,374992,Jean-Kévin Duverne,2693,Haiti,33,FirstHalf,Pass,Successful,45.7,53.3,52.8,42.6
+240,431360,Danley Jean Jacques,2693,Haiti,33,FirstHalf,Pass,Successful,53,42.4,64.9,59.4
+241,320242,Jean-Ricner Bellegarde,2693,Haiti,33,FirstHalf,Pass,Successful,65.7,68.5,71.7,94.4
+242,555256,Martin Expérience,2693,Haiti,33,FirstHalf,Pass,Successful,73,65.9,86.1,59.8
+243,486042,Josué Casimir,2693,Haiti,33,FirstHalf,Pass,Unsuccessful,86.1,59.8,85.7,54.8
+313,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,Interception,Successful,14,37.8,,
+314,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,BallRecovery,Successful,10.9,34.9,,
+315,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,Clearance,Successful,1.9,29.7,0,15
+245,486042,Josué Casimir,2693,Haiti,33,FirstHalf,CornerAwarded,Successful,97.2,75.8,,
+316,338780,Bruno Guimarães,409,Brazil,33,FirstHalf,CornerAwarded,Unsuccessful,2.8,24.2,,
+246,320242,Jean-Ricner Bellegarde,2693,Haiti,33,FirstHalf,Pass,Unsuccessful,99.5,99.5,93.4,47.3
+317,88300,Danilo,409,Brazil,34,FirstHalf,Aerial,Successful,6.6,52.7,,
+247,367189,Hannes Delcroix,2693,Haiti,34,FirstHalf,Aerial,Unsuccessful,93.4,47.3,,
+318,88300,Danilo,409,Brazil,34,FirstHalf,Clearance,Successful,6.6,52.7,23.5,81.6
+248,313385,Carlens Arcus,2693,Haiti,34,FirstHalf,TakeOn,Unsuccessful,94.4,4.2,,
+319,337782,Vinícius Júnior,409,Brazil,34,FirstHalf,BallRecovery,Successful,7.4,89.4,,
+320,337782,Vinícius Júnior,409,Brazil,34,FirstHalf,Pass,Successful,4.6,90.3,5.6,76.3
+321,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Successful,3.3,81.2,2.8,90.1
+322,337782,Vinícius Júnior,409,Brazil,34,FirstHalf,Pass,Unsuccessful,8.7,82.2,28.8,71.8
+249,486042,Josué Casimir,2693,Haiti,34,FirstHalf,BallTouch,Unsuccessful,66.5,23.5,,
+324,115097,Douglas Santos,409,Brazil,34,FirstHalf,Pass,Successful,40.8,100,20.8,87.9
+325,334087,Gabriel Magalhães,409,Brazil,34,FirstHalf,Pass,Successful,21.1,87.3,23.9,47.7
+326,101949,Marquinhos,409,Brazil,34,FirstHalf,Pass,Successful,27.3,41.1,35,57.4
+327,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Unsuccessful,34.9,47,67.7,50.5
+251,374992,Jean-Kévin Duverne,2693,Haiti,34,FirstHalf,Clearance,Successful,27,45.5,36.9,61.3
+252,320242,Jean-Ricner Bellegarde,2693,Haiti,34,FirstHalf,BallTouch,Unsuccessful,37.8,63.4,,
+328,338780,Bruno Guimarães,409,Brazil,34,FirstHalf,BallTouch,Unsuccessful,59.8,43.9,,
+253,555256,Martin Expérience,2693,Haiti,34,FirstHalf,Pass,Successful,38.8,65.5,37,57.4
+254,320242,Jean-Ricner Bellegarde,2693,Haiti,34,FirstHalf,BallRecovery,Successful,37,57.4,,
+255,320242,Jean-Ricner Bellegarde,2693,Haiti,34,FirstHalf,Pass,Successful,37,57.4,54.9,46.2
+256,443795,Frantzdy Pierrot,2693,Haiti,34,FirstHalf,Pass,Successful,55.3,47.5,51.3,45.8
+257,431360,Danley Jean Jacques,2693,Haiti,34,FirstHalf,TakeOn,Unsuccessful,57.3,48.2,,
+329,88526,Casemiro,409,Brazil,34,FirstHalf,Tackle,Successful,42.8,51.8,,
+330,88526,Casemiro,409,Brazil,34,FirstHalf,Pass,Unsuccessful,39.7,50.2,42,21.4
+258,555256,Martin Expérience,2693,Haiti,34,FirstHalf,BallRecovery,Successful,62.9,78.2,,
+259,555256,Martin Expérience,2693,Haiti,35,FirstHalf,Pass,Successful,59.1,76.8,58,67.8
+260,320242,Jean-Ricner Bellegarde,2693,Haiti,35,FirstHalf,Pass,Successful,55.6,60,55.3,83.8
+261,431360,Danley Jean Jacques,2693,Haiti,35,FirstHalf,Pass,Successful,55.3,84.1,60.2,95.5
+262,404551,Ruben Providence,2693,Haiti,35,FirstHalf,Pass,Successful,73.6,94.4,69.6,81.8
+263,555256,Martin Expérience,2693,Haiti,35,FirstHalf,Pass,Successful,62.9,70.9,55.3,69.8
+264,320242,Jean-Ricner Bellegarde,2693,Haiti,35,FirstHalf,Pass,Successful,55.3,67.3,45.3,64.1
+265,367189,Hannes Delcroix,2693,Haiti,35,FirstHalf,Pass,Successful,46.1,63.3,42.1,33.3
+266,145264,Ricardo Adé,2693,Haiti,35,FirstHalf,Pass,Successful,40.9,32.5,52.6,7.8
+267,374992,Jean-Kévin Duverne,2693,Haiti,35,FirstHalf,Pass,Successful,52.6,7.8,55.3,16.6
+268,486042,Josué Casimir,2693,Haiti,35,FirstHalf,Dispossessed,Successful,58.8,16.2,,
+331,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,Tackle,Successful,41.2,83.8,,
+278,486042,Josué Casimir,2693,Haiti,35,FirstHalf,Error,Successful,58.6,16.9,,
+332,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,BallRecovery,Successful,39.7,78,,
+333,319756,Lucas Paquetá,409,Brazil,35,FirstHalf,Pass,Successful,39.7,78,47.1,73
+334,337782,Vinícius Júnior,409,Brazil,35,FirstHalf,Pass,Successful,69.9,52.8,81.5,61.5
+335,362758,Matheus Cunha,409,Brazil,35,FirstHalf,Goal,Successful,89.3,66.4,,
+11275,313385,Carlens Arcus,2693,Haiti,37,FirstHalf,OffsideGiven,Unsuccessful,85.1,7.1,,
+269,320242,Jean-Ricner Bellegarde,2693,Haiti,37,FirstHalf,Pass,Successful,50.1,51.1,33.5,69.1
+270,367189,Hannes Delcroix,2693,Haiti,37,FirstHalf,Pass,Successful,33.3,69.4,56.2,87.4
+271,555256,Martin Expérience,2693,Haiti,37,FirstHalf,Pass,Successful,61.3,94.6,54.1,85.4
+272,431360,Danley Jean Jacques,2693,Haiti,37,FirstHalf,Pass,Successful,57.1,72.4,62.5,65.4
+273,320242,Jean-Ricner Bellegarde,2693,Haiti,37,FirstHalf,Pass,Successful,62.4,54.8,44.7,64.6
+274,367189,Hannes Delcroix,2693,Haiti,37,FirstHalf,Pass,Successful,55.3,68.5,57.2,73.4
+275,431360,Danley Jean Jacques,2693,Haiti,37,FirstHalf,OffsidePass,Successful,54.3,58.5,85.1,7.1
+336,115097,Douglas Santos,409,Brazil,37,FirstHalf,OffsideProvoked,Successful,24.2,75,,
+338,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,24.3,82.2,37.9,78.1
+339,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,37.9,78.1,25.5,83.2
+340,334087,Gabriel Magalhães,409,Brazil,37,FirstHalf,Pass,Successful,25.9,83.5,44,85.2
+341,362758,Matheus Cunha,409,Brazil,37,FirstHalf,Pass,Successful,40.6,87.3,36.9,78.1
+342,319756,Lucas Paquetá,409,Brazil,37,FirstHalf,Pass,Successful,36.1,81.3,38.1,67.5
+343,338780,Bruno Guimarães,409,Brazil,37,FirstHalf,Pass,Unsuccessful,38.1,67.6,65.3,79.9
+279,374992,Jean-Kévin Duverne,2693,Haiti,38,FirstHalf,Clearance,Successful,32,15.2,45.7,15.4
+280,431360,Danley Jean Jacques,2693,Haiti,38,FirstHalf,Pass,Successful,41.4,16.7,39.4,12.6
+282,374992,Jean-Kévin Duverne,2693,Haiti,38,FirstHalf,Pass,Unsuccessful,39.4,12.6,42.6,9.7
+344,362758,Matheus Cunha,409,Brazil,38,FirstHalf,Interception,Successful,57.4,90.3,,
+345,362758,Matheus Cunha,409,Brazil,38,FirstHalf,BallRecovery,Successful,57.7,85.6,,
+346,362758,Matheus Cunha,409,Brazil,38,FirstHalf,Foul,Successful,59.6,81.6,,
+283,313385,Carlens Arcus,2693,Haiti,38,FirstHalf,Foul,Unsuccessful,40.4,18.4,,
+349,300447,Raphinha,409,Brazil,39,FirstHalf,SubstitutionOff,Successful,0,0,,
+350,472122,Rayan,409,Brazil,39,FirstHalf,SubstitutionOn,Successful,0,0,,
+351,334087,Gabriel Magalhães,409,Brazil,39,FirstHalf,Pass,Successful,52.3,88.6,38.5,74.2
+352,88526,Casemiro,409,Brazil,40,FirstHalf,Pass,Successful,39,73.3,43.7,47.5
+353,338780,Bruno Guimarães,409,Brazil,40,FirstHalf,Pass,Successful,43.5,47.8,30.5,37.8
+354,101949,Marquinhos,409,Brazil,40,FirstHalf,Pass,Successful,30.7,35.7,32.9,8.4
+355,88300,Danilo,409,Brazil,40,FirstHalf,Pass,Successful,32.9,8.4,45.2,4.8
+356,472122,Rayan,409,Brazil,40,FirstHalf,BallTouch,Unsuccessful,45.2,4.8,,
+288,555256,Martin Expérience,2693,Haiti,40,FirstHalf,Pass,Successful,49,100,37.6,91
+289,367189,Hannes Delcroix,2693,Haiti,40,FirstHalf,Pass,Successful,34.2,86.5,30.5,64.4
+290,145264,Ricardo Adé,2693,Haiti,40,FirstHalf,Pass,Successful,33.5,50.4,38.2,66.4
+291,367189,Hannes Delcroix,2693,Haiti,40,FirstHalf,Pass,Successful,37.4,70.9,43.2,57.4
+292,431360,Danley Jean Jacques,2693,Haiti,40,FirstHalf,Pass,Successful,46.5,38.4,39.8,14.9
+293,374992,Jean-Kévin Duverne,2693,Haiti,40,FirstHalf,Pass,Successful,38.7,10,61.2,21.3
+294,443795,Frantzdy Pierrot,2693,Haiti,40,FirstHalf,Foul,Successful,61,21.2,,
+358,88526,Casemiro,409,Brazil,40,FirstHalf,Foul,Unsuccessful,39,78.8,,
+295,486042,Josué Casimir,2693,Haiti,40,FirstHalf,Pass,Successful,61.7,20.8,56.5,25.3
+296,431360,Danley Jean Jacques,2693,Haiti,40,FirstHalf,Pass,Successful,54.1,24,44.1,43.7
+297,145264,Ricardo Adé,2693,Haiti,40,FirstHalf,Pass,Successful,43.1,42.1,48.1,49.9
+298,320242,Jean-Ricner Bellegarde,2693,Haiti,40,FirstHalf,Pass,Successful,43.6,41.6,34.1,33.3
+299,145264,Ricardo Adé,2693,Haiti,40,FirstHalf,Pass,Successful,29.7,27.1,11.9,50.7
+300,34069,Johny Placide,2693,Haiti,41,FirstHalf,Pass,Successful,15.8,46.8,41,4.2
+301,313385,Carlens Arcus,2693,Haiti,41,FirstHalf,Pass,Successful,41,4.2,39.6,14.9
+302,320242,Jean-Ricner Bellegarde,2693,Haiti,41,FirstHalf,Pass,Successful,39.6,14.9,83.2,14.6
+303,486042,Josué Casimir,2693,Haiti,41,FirstHalf,Pass,Unsuccessful,83.2,14.6,78,60.2
+359,88300,Danilo,409,Brazil,41,FirstHalf,BallRecovery,Successful,23.5,43,,
+360,88300,Danilo,409,Brazil,41,FirstHalf,Pass,Successful,23.5,43,22.5,59.8
+361,88526,Casemiro,409,Brazil,41,FirstHalf,Pass,Successful,21.6,54.7,37,30.3
+362,472122,Rayan,409,Brazil,41,FirstHalf,BallTouch,Successful,36.9,30.3,,
+304,555256,Martin Expérience,2693,Haiti,41,FirstHalf,Challenge,Unsuccessful,64.4,83.4,,
+363,88300,Danilo,409,Brazil,41,FirstHalf,TakeOn,Successful,35.6,16.6,,
+364,88300,Danilo,409,Brazil,41,FirstHalf,Pass,Successful,35.5,7.5,7.4,24.7
+365,101949,Marquinhos,409,Brazil,41,FirstHalf,Pass,Successful,15.5,27.9,15.8,65.2
+366,334087,Gabriel Magalhães,409,Brazil,41,FirstHalf,BallTouch,Successful,21,67.6,,
+307,313385,Carlens Arcus,2693,Haiti,42,FirstHalf,Pass,Unsuccessful,74.6,0,78.5,8.9
+370,334087,Gabriel Magalhães,409,Brazil,42,FirstHalf,BallRecovery,Successful,21.9,84.9,,
+371,334087,Gabriel Magalhães,409,Brazil,42,FirstHalf,Pass,Successful,23.5,80.8,28.6,66.7
+372,88526,Casemiro,409,Brazil,42,FirstHalf,Pass,Successful,27.3,66.4,26,76
+373,334087,Gabriel Magalhães,409,Brazil,42,FirstHalf,Pass,Successful,28.9,72.8,28.5,53.2
+374,88526,Casemiro,409,Brazil,42,FirstHalf,Pass,Successful,28.9,46.6,29.9,25.8
+375,101949,Marquinhos,409,Brazil,42,FirstHalf,Pass,Successful,33.3,37.8,32.8,72.4
+376,334087,Gabriel Magalhães,409,Brazil,42,FirstHalf,Pass,Successful,32.8,72.4,40.8,88
+377,319756,Lucas Paquetá,409,Brazil,42,FirstHalf,Pass,Successful,43.9,87.1,59.6,94
+378,115097,Douglas Santos,409,Brazil,42,FirstHalf,Pass,Successful,59.6,94,51.3,89.1
+379,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,51.3,89.1,63.2,89.8
+380,337782,Vinícius Júnior,409,Brazil,43,FirstHalf,Pass,Successful,63.2,89.8,52.8,88.6
+381,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,56.3,85.4,51.9,65.4
+382,88526,Casemiro,409,Brazil,43,FirstHalf,Pass,Successful,51.1,57.6,51.5,36.6
+383,88300,Danilo,409,Brazil,43,FirstHalf,Pass,Successful,51.5,36.6,52.1,69.3
+384,334087,Gabriel Magalhães,409,Brazil,43,FirstHalf,Pass,Successful,52.1,69.3,59.3,83.4
+385,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,59.5,83.4,70.9,85.2
+386,115097,Douglas Santos,409,Brazil,43,FirstHalf,Pass,Successful,70.9,85.2,65.2,71.7
+387,362758,Matheus Cunha,409,Brazil,43,FirstHalf,Pass,Successful,65.1,71.7,62.2,83.2
+388,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,59.2,84.4,58,57.7
+389,88526,Casemiro,409,Brazil,43,FirstHalf,Pass,Successful,57.1,58.2,53.9,32.2
+390,88300,Danilo,409,Brazil,43,FirstHalf,Pass,Successful,53.9,32.2,59.9,6.3
+391,472122,Rayan,409,Brazil,43,FirstHalf,Pass,Successful,59.3,8.5,41.7,37.9
+392,101949,Marquinhos,409,Brazil,43,FirstHalf,Pass,Successful,41.7,38.1,51.2,70.9
+393,334087,Gabriel Magalhães,409,Brazil,43,FirstHalf,Pass,Successful,59.3,71.2,67.2,82.9
+394,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,67.2,82.9,79,97.3
+395,337782,Vinícius Júnior,409,Brazil,43,FirstHalf,Pass,Successful,77.8,96,70.7,85.2
+396,319756,Lucas Paquetá,409,Brazil,43,FirstHalf,Pass,Successful,70.7,85.2,78,85.3
+397,115097,Douglas Santos,409,Brazil,43,FirstHalf,Pass,Successful,78,85.3,77.8,93.9
+398,337782,Vinícius Júnior,409,Brazil,43,FirstHalf,TakeOn,Unsuccessful,78.1,93.7,,
+310,313385,Carlens Arcus,2693,Haiti,43,FirstHalf,Tackle,Successful,21.9,6.3,,
+400,115097,Douglas Santos,409,Brazil,44,FirstHalf,Pass,Unsuccessful,82.6,100,78,88.2
+313,431360,Danley Jean Jacques,2693,Haiti,44,FirstHalf,Interception,Successful,22,11.8,,
+402,319756,Lucas Paquetá,409,Brazil,44,FirstHalf,Pass,Successful,66.8,100,46.7,87.4
+403,334087,Gabriel Magalhães,409,Brazil,44,FirstHalf,Pass,Successful,46.5,84.1,46.3,47.7
+404,101949,Marquinhos,409,Brazil,44,FirstHalf,Pass,Successful,45.4,46.3,48.8,21.7
+405,88300,Danilo,409,Brazil,44,FirstHalf,Pass,Successful,48.8,21.7,64.3,6.1
+406,472122,Rayan,409,Brazil,44,FirstHalf,Pass,Successful,62.8,7.8,63.4,22.9
+407,338780,Bruno Guimarães,409,Brazil,44,FirstHalf,Pass,Successful,63.4,22.9,71.6,10.3
+408,472122,Rayan,409,Brazil,44,FirstHalf,Pass,Unsuccessful,95.1,21,95.3,24.1
+315,367189,Hannes Delcroix,2693,Haiti,44,FirstHalf,Clearance,Successful,4.7,75.9,,
+410,472122,Rayan,409,Brazil,44,FirstHalf,BallTouch,Successful,94.4,24.6,,
+317,367189,Hannes Delcroix,2693,Haiti,44,FirstHalf,Pass,Successful,4.7,60.7,3.9,44.5
+318,34069,Johny Placide,2693,Haiti,44,FirstHalf,Pass,Successful,4.4,38.4,14.8,6.8
+319,374992,Jean-Kévin Duverne,2693,Haiti,44,FirstHalf,Pass,Successful,18.9,14.6,55.1,27.3
+320,443795,Frantzdy Pierrot,2693,Haiti,44,FirstHalf,Pass,Unsuccessful,55.9,27.5,41.3,21.3
+411,319756,Lucas Paquetá,409,Brazil,44,FirstHalf,BallRecovery,Successful,54.6,84.4,,
+435,319756,Lucas Paquetá,409,Brazil,44,FirstHalf,Dispossessed,Successful,58.3,95.6,,
+323,431360,Danley Jean Jacques,2693,Haiti,44,FirstHalf,Tackle,Unsuccessful,41.7,4.4,,
+412,319756,Lucas Paquetá,409,Brazil,44,FirstHalf,Pass,Successful,45.7,90.3,31.5,81.9
+413,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,31.5,81.9,30.6,52
+414,101949,Marquinhos,409,Brazil,45,FirstHalf,Pass,Successful,30.3,49.8,39.1,38.2
+415,338780,Bruno Guimarães,409,Brazil,45,FirstHalf,Pass,Successful,39.1,38.2,55.9,5.4
+416,472122,Rayan,409,Brazil,45,FirstHalf,Pass,Successful,55.9,5.4,40.7,13.6
+417,88300,Danilo,409,Brazil,45,FirstHalf,Pass,Successful,42.8,12.9,31.2,33
+418,101949,Marquinhos,409,Brazil,45,FirstHalf,Pass,Successful,31.2,32.8,30.7,66
+419,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,36,67,36.5,58.6
+420,88526,Casemiro,409,Brazil,45,FirstHalf,Pass,Successful,42.8,62.4,40.4,82.5
+421,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,41.6,79.9,53.6,75
+422,337782,Vinícius Júnior,409,Brazil,45,FirstHalf,Pass,Successful,54,75.4,59.7,94.6
+423,362758,Matheus Cunha,409,Brazil,45,FirstHalf,Pass,Successful,59.8,95.1,54.5,87.4
+424,88526,Casemiro,409,Brazil,45,FirstHalf,Pass,Successful,54.1,88.9,54.7,95.1
+425,362758,Matheus Cunha,409,Brazil,45,FirstHalf,Pass,Successful,54.7,95.2,38,77.2
+426,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,38,77.2,39.8,48.4
+427,101949,Marquinhos,409,Brazil,45,FirstHalf,Pass,Successful,44.5,44.4,61.8,34
+428,338780,Bruno Guimarães,409,Brazil,45,FirstHalf,Pass,Successful,44.5,39.3,41.5,69.7
+429,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,Pass,Successful,41.7,69.7,57.6,67
+430,362758,Matheus Cunha,409,Brazil,45,FirstHalf,Pass,Successful,57.6,67,49,84
+431,334087,Gabriel Magalhães,409,Brazil,45,FirstHalf,BallTouch,Successful,53.2,85,,
+432,337782,Vinícius Júnior,409,Brazil,46,FirstHalf,Pass,Unsuccessful,86.5,79.2,90.6,41.8
+327,555256,Martin Expérience,2693,Haiti,46,FirstHalf,Clearance,Successful,5,58.5,14.7,45.8
+328,320242,Jean-Ricner Bellegarde,2693,Haiti,46,FirstHalf,Pass,Successful,15.2,41.7,18.7,26.4
+364,313385,Carlens Arcus,2693,Haiti,46,FirstHalf,Pass,Successful,20.2,27.7,18.2,28.8
+365,486042,Josué Casimir,2693,Haiti,46,FirstHalf,BallTouch,Successful,18.4,29.4,,
+329,313385,Carlens Arcus,2693,Haiti,46,FirstHalf,Pass,Successful,21.4,30.3,19.2,28.6
+330,431360,Danley Jean Jacques,2693,Haiti,46,FirstHalf,Pass,Unsuccessful,18.4,26,21.9,11.2
+331,313385,Carlens Arcus,2693,Haiti,46,FirstHalf,Foul,Successful,27.6,15.6,,
+434,88526,Casemiro,409,Brazil,46,FirstHalf,Foul,Unsuccessful,72.4,84.5,,
+332,486042,Josué Casimir,2693,Haiti,46,FirstHalf,Pass,Successful,27.9,8.1,24.8,15.4
+333,374992,Jean-Kévin Duverne,2693,Haiti,46,FirstHalf,Pass,Successful,24.8,15.4,21.6,47.6
+334,145264,Ricardo Adé,2693,Haiti,46,FirstHalf,Pass,Successful,21.9,48.9,26.9,76.9
+335,367189,Hannes Delcroix,2693,Haiti,46,FirstHalf,Pass,Successful,27.9,76.9,37.8,94.5
+336,555256,Martin Expérience,2693,Haiti,46,FirstHalf,Pass,Unsuccessful,38.3,93.7,55.3,81.5
+436,101949,Marquinhos,409,Brazil,46,FirstHalf,BallRecovery,Successful,45.2,23.2,,
+437,101949,Marquinhos,409,Brazil,46,FirstHalf,Pass,Successful,45.8,22.3,51,8.5
+438,88300,Danilo,409,Brazil,46,FirstHalf,Pass,Successful,49.8,8.7,38.7,13.9
+439,101949,Marquinhos,409,Brazil,46,FirstHalf,Pass,Successful,38.6,15,32.8,45.7
+440,334087,Gabriel Magalhães,409,Brazil,46,FirstHalf,Pass,Successful,32.9,45.7,40.6,60.4
+441,319756,Lucas Paquetá,409,Brazil,46,FirstHalf,Pass,Successful,40.6,60.4,27.6,56.7
+442,334087,Gabriel Magalhães,409,Brazil,46,FirstHalf,Pass,Successful,27.1,56.7,18.7,37.6
+443,114147,Alisson Becker,409,Brazil,46,FirstHalf,Pass,Successful,19.1,37.6,27.2,24.3
+444,101949,Marquinhos,409,Brazil,46,FirstHalf,Pass,Successful,32.7,24.7,42,56.1
+445,319756,Lucas Paquetá,409,Brazil,47,FirstHalf,Pass,Successful,41.5,59.5,73.6,71.1
+446,337782,Vinícius Júnior,409,Brazil,47,FirstHalf,Goal,Successful,90.3,66.9,,
+337,320242,Jean-Ricner Bellegarde,2693,Haiti,48,FirstHalf,Pass,Successful,50.2,49.4,38.6,50.6
+338,431360,Danley Jean Jacques,2693,Haiti,48,FirstHalf,Pass,Successful,38.6,50.6,33.8,65.4
+339,367189,Hannes Delcroix,2693,Haiti,48,FirstHalf,Pass,Successful,33.8,67,32.7,50.6
+340,145264,Ricardo Adé,2693,Haiti,48,FirstHalf,Pass,Unsuccessful,32.6,50.4,80.6,46.3
+448,334087,Gabriel Magalhães,409,Brazil,48,FirstHalf,Foul,Successful,30.2,55.6,,
+341,443795,Frantzdy Pierrot,2693,Haiti,48,FirstHalf,Foul,Unsuccessful,69.8,44.4,,
+342,443795,Frantzdy Pierrot,2693,Haiti,48,FirstHalf,Card,Successful,0,0,,
+449,88526,Casemiro,409,Brazil,49,FirstHalf,Pass,Successful,34.8,54.4,34.1,30.1
+450,101949,Marquinhos,409,Brazil,49,FirstHalf,Pass,Successful,33.8,33.1,30.7,64.8
+451,334087,Gabriel Magalhães,409,Brazil,49,FirstHalf,Pass,Successful,30.4,64.9,38.1,82.8
+452,319756,Lucas Paquetá,409,Brazil,49,FirstHalf,Pass,Successful,47,90.4,62.1,84.7
+453,337782,Vinícius Júnior,409,Brazil,49,FirstHalf,Pass,Successful,59.3,83.5,43.8,57.4
+454,88526,Casemiro,409,Brazil,49,FirstHalf,Pass,Successful,43.9,55.9,45.1,27.3
+455,88300,Danilo,409,Brazil,49,FirstHalf,Pass,Successful,45.1,27.3,59.5,7.6
+456,472122,Rayan,409,Brazil,49,FirstHalf,Pass,Successful,58.7,8.2,39.8,30.4
+457,101949,Marquinhos,409,Brazil,49,FirstHalf,Pass,Successful,38.3,31.5,33.4,61
+458,334087,Gabriel Magalhães,409,Brazil,49,FirstHalf,Pass,Successful,35,61.5,47.3,68.1
+459,362758,Matheus Cunha,409,Brazil,49,FirstHalf,Pass,Unsuccessful,59.5,67.8,68.6,47.8
+343,367189,Hannes Delcroix,2693,Haiti,50,FirstHalf,Interception,Successful,31.4,52.2,,
+344,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,BallRecovery,Successful,37.7,39.2,,
+345,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,Pass,Unsuccessful,60.4,31.4,81.9,28.7
+460,319756,Lucas Paquetá,409,Brazil,50,FirstHalf,Interception,Successful,18.1,71.3,,
+461,101949,Marquinhos,409,Brazil,50,FirstHalf,Pass,Successful,13.4,58.2,37.1,67.9
+462,362758,Matheus Cunha,409,Brazil,50,FirstHalf,BallRecovery,Successful,37,67.9,,
+463,362758,Matheus Cunha,409,Brazil,50,FirstHalf,Dispossessed,Successful,40,66.5,,
+347,313385,Carlens Arcus,2693,Haiti,50,FirstHalf,Tackle,Successful,60,33.5,,
+348,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,BallRecovery,Successful,66.7,25,,
+349,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,Pass,Successful,64.8,38.5,59.5,56.7
+350,431360,Danley Jean Jacques,2693,Haiti,50,FirstHalf,Pass,Successful,59.5,56.7,61.1,49.4
+351,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,Pass,Successful,67.8,44.2,88.6,38.2
+352,443795,Frantzdy Pierrot,2693,Haiti,50,FirstHalf,Dispossessed,Successful,85.8,44.7,,
+465,88526,Casemiro,409,Brazil,50,FirstHalf,Tackle,Unsuccessful,14.2,55.3,,
+353,443795,Frantzdy Pierrot,2693,Haiti,50,FirstHalf,BallTouch,Successful,88.6,38.2,,
+466,319756,Lucas Paquetá,409,Brazil,50,FirstHalf,BallRecovery,Successful,18.7,48.3,,
+467,319756,Lucas Paquetá,409,Brazil,50,FirstHalf,Pass,Successful,18.7,48.3,26.1,46.5
+468,338780,Bruno Guimarães,409,Brazil,50,FirstHalf,Pass,Successful,26.1,46.5,26.6,62.1
+469,319756,Lucas Paquetá,409,Brazil,50,FirstHalf,Pass,Unsuccessful,26.7,62.1,66.9,64.5
+354,374992,Jean-Kévin Duverne,2693,Haiti,50,FirstHalf,Interception,Successful,45.4,33.1,,
+355,374992,Jean-Kévin Duverne,2693,Haiti,50,FirstHalf,BallRecovery,Successful,51.3,41.2,,
+356,374992,Jean-Kévin Duverne,2693,Haiti,50,FirstHalf,Pass,Successful,44.5,55.8,16.7,55.2
+357,34069,Johny Placide,2693,Haiti,50,FirstHalf,Pass,Successful,18.7,54.9,30.8,48.1
+358,431360,Danley Jean Jacques,2693,Haiti,50,FirstHalf,Pass,Successful,33.5,48.8,46.6,91.5
+359,555256,Martin Expérience,2693,Haiti,50,FirstHalf,Pass,Successful,47.2,92.7,43.6,74
+360,431360,Danley Jean Jacques,2693,Haiti,50,FirstHalf,Pass,Successful,42,66.8,46.5,54.3
+361,320242,Jean-Ricner Bellegarde,2693,Haiti,50,FirstHalf,Pass,Unsuccessful,53.8,52.7,79.6,62.1
+470,101949,Marquinhos,409,Brazil,51,FirstHalf,Clearance,Successful,15.1,36.1,26.9,22
+899,88526,Casemiro,409,Brazil,51,FirstHalf,Pass,Unsuccessful,25.4,23,39.1,11.5
+472,,,409,Brazil,51,FirstHalf,End,Successful,0,0,,
+363,,,2693,Haiti,51,FirstHalf,End,Successful,0,0,,
+367,313385,Carlens Arcus,2693,Haiti,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+368,622515,Dominique Simon,2693,Haiti,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+369,443795,Frantzdy Pierrot,2693,Haiti,45,SecondHalf,SubstitutionOff,Successful,0,0,,
+370,363535,Wilson Isidor,2693,Haiti,45,SecondHalf,SubstitutionOn,Successful,0,0,,
+371,,,2693,Haiti,45,SecondHalf,Start,Successful,0,0,,
+474,,,409,Brazil,45,SecondHalf,Start,Successful,0,0,,
+372,363535,Wilson Isidor,2693,Haiti,45,SecondHalf,Pass,Successful,50.1,50.4,21.6,50.6
+665,,,409,Brazil,45,SecondHalf,FormationChange,Successful,0,0,,
+386,,,2693,Haiti,45,SecondHalf,FormationChange,Successful,0,0,,
+373,34069,Johny Placide,2693,Haiti,45,SecondHalf,Pass,Successful,23.5,48.8,65.4,50.3
+374,363535,Wilson Isidor,2693,Haiti,45,SecondHalf,Aerial,Successful,65.4,50.3,,
+475,88526,Casemiro,409,Brazil,45,SecondHalf,Aerial,Unsuccessful,34.6,49.7,,
+375,363535,Wilson Isidor,2693,Haiti,45,SecondHalf,Pass,Unsuccessful,65.4,50.3,62.9,75.2
+476,472122,Rayan,409,Brazil,45,SecondHalf,Pass,Successful,36.3,23.5,24.4,17.7
+477,88300,Danilo,409,Brazil,45,SecondHalf,Pass,Unsuccessful,24.9,17.7,57,49
+376,145264,Ricardo Adé,2693,Haiti,45,SecondHalf,Pass,Unsuccessful,46.9,52.8,58.2,64.7
+478,88526,Casemiro,409,Brazil,45,SecondHalf,BallTouch,Unsuccessful,43.3,32.8,,
+377,431360,Danley Jean Jacques,2693,Haiti,45,SecondHalf,Pass,Successful,58.3,73.7,65.8,86
+378,404551,Ruben Providence,2693,Haiti,45,SecondHalf,Pass,Successful,64,89.9,41.3,72.5
+379,367189,Hannes Delcroix,2693,Haiti,45,SecondHalf,Pass,Successful,41.2,72.3,54.1,92.6
+380,555256,Martin Expérience,2693,Haiti,45,SecondHalf,Pass,Successful,53.9,93.2,55.5,79.4
+381,431360,Danley Jean Jacques,2693,Haiti,45,SecondHalf,Pass,Successful,54.5,71.6,62.7,7.1
+382,374992,Jean-Kévin Duverne,2693,Haiti,45,SecondHalf,Pass,Successful,62.7,7.1,65,18.8
+383,622515,Dominique Simon,2693,Haiti,45,SecondHalf,Pass,Unsuccessful,65,18.8,69.3,10.9
+479,319756,Lucas Paquetá,409,Brazil,45,SecondHalf,Interception,Successful,30.7,89.1,,
+480,115097,Douglas Santos,409,Brazil,45,SecondHalf,BallRecovery,Successful,28.8,88.3,,
+481,115097,Douglas Santos,409,Brazil,45,SecondHalf,Pass,Successful,28.8,88.3,37,80.4
+482,337782,Vinícius Júnior,409,Brazil,45,SecondHalf,TakeOn,Unsuccessful,37.2,82,,
+384,622515,Dominique Simon,2693,Haiti,45,SecondHalf,Tackle,Successful,62.8,17.9,,
+484,115097,Douglas Santos,409,Brazil,45,SecondHalf,Pass,Successful,34.2,100,20.5,86.2
+485,334087,Gabriel Magalhães,409,Brazil,45,SecondHalf,Pass,Successful,23.2,76.5,23.8,38.2
+486,101949,Marquinhos,409,Brazil,46,SecondHalf,Pass,Successful,23.6,37.9,12.7,56.1
+487,114147,Alisson Becker,409,Brazil,46,SecondHalf,Pass,Successful,12.7,56.1,22.5,78.9
+488,334087,Gabriel Magalhães,409,Brazil,46,SecondHalf,Pass,Successful,31.6,78.3,34.3,64.3
+489,362758,Matheus Cunha,409,Brazil,46,SecondHalf,Pass,Successful,34.3,64.5,23.6,70.5
+490,88526,Casemiro,409,Brazil,46,SecondHalf,Pass,Successful,23.6,70.5,20.8,32.2
+491,101949,Marquinhos,409,Brazil,46,SecondHalf,Pass,Successful,23.5,34.6,23.5,75
+492,334087,Gabriel Magalhães,409,Brazil,46,SecondHalf,Pass,Successful,33.8,68.8,32.7,30.6
+493,101949,Marquinhos,409,Brazil,46,SecondHalf,Pass,Successful,32.6,31.3,32.5,7.6
+494,88300,Danilo,409,Brazil,46,SecondHalf,Pass,Successful,32.5,7.9,38.7,27.1
+495,338780,Bruno Guimarães,409,Brazil,46,SecondHalf,Pass,Unsuccessful,40.8,20.2,75.2,10.8
+387,555256,Martin Expérience,2693,Haiti,46,SecondHalf,BallTouch,Successful,29.6,90.8,,
+388,622515,Dominique Simon,2693,Haiti,46,SecondHalf,Pass,Successful,31.4,89.3,26.6,71.4
+389,367189,Hannes Delcroix,2693,Haiti,46,SecondHalf,BallRecovery,Successful,26.6,71.4,,
+390,367189,Hannes Delcroix,2693,Haiti,46,SecondHalf,Pass,Successful,26.6,71.4,32.4,61.7
+391,431360,Danley Jean Jacques,2693,Haiti,46,SecondHalf,Pass,Successful,31.6,58.1,37.6,10.7
+392,374992,Jean-Kévin Duverne,2693,Haiti,46,SecondHalf,Pass,Successful,39.1,10.6,33.6,32.2
+393,145264,Ricardo Adé,2693,Haiti,46,SecondHalf,Pass,Successful,33.6,32.2,39.9,40.1
+394,431360,Danley Jean Jacques,2693,Haiti,46,SecondHalf,Pass,Successful,37.3,39.5,33.1,65.1
+395,367189,Hannes Delcroix,2693,Haiti,47,SecondHalf,Pass,Successful,33.5,76.2,72.4,90.3
+396,555256,Martin Expérience,2693,Haiti,47,SecondHalf,Pass,Successful,72.9,90.5,88.7,92
+397,404551,Ruben Providence,2693,Haiti,47,SecondHalf,Dispossessed,Successful,90.3,93.4,,
+496,101949,Marquinhos,409,Brazil,47,SecondHalf,Tackle,Unsuccessful,9.6,6.5,,
+407,404551,Ruben Providence,2693,Haiti,47,SecondHalf,BallTouch,Successful,94.1,96.7,,
+498,88300,Danilo,409,Brazil,47,SecondHalf,Pass,Unsuccessful,12.6,0,34,15
+399,431360,Danley Jean Jacques,2693,Haiti,47,SecondHalf,Pass,Unsuccessful,64.5,85.7,59.1,100
+500,88300,Danilo,409,Brazil,47,SecondHalf,Pass,Successful,35.2,0,22.1,15.1
+501,101949,Marquinhos,409,Brazil,47,SecondHalf,Pass,Successful,25,18.1,28.7,62.5
+502,334087,Gabriel Magalhães,409,Brazil,47,SecondHalf,Pass,Successful,32.4,65.7,51.9,97.3
+503,115097,Douglas Santos,409,Brazil,47,SecondHalf,Pass,Successful,60.6,97.2,46.9,85.8
+504,319756,Lucas Paquetá,409,Brazil,47,SecondHalf,Pass,Successful,46.9,85.8,55.8,95.5
+505,115097,Douglas Santos,409,Brazil,47,SecondHalf,Pass,Successful,55.8,95.5,32.2,81.6
+506,334087,Gabriel Magalhães,409,Brazil,47,SecondHalf,Pass,Successful,32.2,79.3,31.4,42.6
+507,101949,Marquinhos,409,Brazil,47,SecondHalf,Pass,Successful,31.4,42.6,32.9,20.7
+508,88300,Danilo,409,Brazil,48,SecondHalf,Pass,Unsuccessful,32.6,20.2,31.5,43.9
+401,363535,Wilson Isidor,2693,Haiti,48,SecondHalf,BallRecovery,Successful,70.2,56.6,,
+509,88300,Danilo,409,Brazil,48,SecondHalf,Error,Successful,30.3,20.4,,
+402,363535,Wilson Isidor,2693,Haiti,48,SecondHalf,SavedShot,Successful,78.1,48.1,,
+510,101949,Marquinhos,409,Brazil,48,SecondHalf,Save,Successful,18.4,51.5,,
+551,334087,Gabriel Magalhães,409,Brazil,48,SecondHalf,BallTouch,Successful,13.5,54.1,,
+511,101949,Marquinhos,409,Brazil,48,SecondHalf,Clearance,Successful,14.1,48.3,33.4,22.2
+513,472122,Rayan,409,Brazil,48,SecondHalf,Pass,Successful,33.2,24.3,39.6,40.9
+512,362758,Matheus Cunha,409,Brazil,48,SecondHalf,BallRecovery,Successful,42.6,37.4,,
+514,362758,Matheus Cunha,409,Brazil,48,SecondHalf,Pass,Successful,39.6,40.9,45.4,56.1
+515,337782,Vinícius Júnior,409,Brazil,48,SecondHalf,Pass,Successful,45.4,56.1,34,57.3
+516,88526,Casemiro,409,Brazil,48,SecondHalf,Pass,Successful,34.6,57.6,35.6,78.1
+517,319756,Lucas Paquetá,409,Brazil,48,SecondHalf,Pass,Successful,36.8,78.7,57.9,96.6
+518,115097,Douglas Santos,409,Brazil,48,SecondHalf,Pass,Successful,57.9,96.6,54,87.9
+519,319756,Lucas Paquetá,409,Brazil,48,SecondHalf,Pass,Successful,54.5,87.3,56.7,67.8
+520,362758,Matheus Cunha,409,Brazil,48,SecondHalf,Pass,Successful,57.3,61.2,57.1,39
+521,88300,Danilo,409,Brazil,48,SecondHalf,Pass,Successful,57,48.3,43.7,67.8
+522,334087,Gabriel Magalhães,409,Brazil,48,SecondHalf,Pass,Successful,43.6,67.8,59.3,96.3
+523,115097,Douglas Santos,409,Brazil,48,SecondHalf,Pass,Successful,59.3,96.3,56.7,85.5
+524,319756,Lucas Paquetá,409,Brazil,48,SecondHalf,Pass,Unsuccessful,56.7,85.5,68.2,78.7
+406,374992,Jean-Kévin Duverne,2693,Haiti,48,SecondHalf,Pass,Successful,37.7,17.8,40.5,14.6
+408,431360,Danley Jean Jacques,2693,Haiti,48,SecondHalf,Pass,Successful,40.5,14.6,41.1,7.7
+409,486042,Josué Casimir,2693,Haiti,48,SecondHalf,BallRecovery,Successful,41.1,7.7,,
+410,486042,Josué Casimir,2693,Haiti,48,SecondHalf,Pass,Successful,41.1,7.7,40.6,18.8
+411,431360,Danley Jean Jacques,2693,Haiti,48,SecondHalf,Pass,Unsuccessful,52.4,17.8,57.5,36.5
+525,338780,Bruno Guimarães,409,Brazil,48,SecondHalf,Pass,Successful,43.3,67.5,41,84.6
+526,319756,Lucas Paquetá,409,Brazil,48,SecondHalf,BallRecovery,Successful,38.5,75.7,,
+527,319756,Lucas Paquetá,409,Brazil,48,SecondHalf,Pass,Successful,39.2,74.5,40.7,64.2
+528,338780,Bruno Guimarães,409,Brazil,48,SecondHalf,TakeOn,Unsuccessful,42.8,56,,
+413,622515,Dominique Simon,2693,Haiti,48,SecondHalf,Tackle,Unsuccessful,57.2,44,,
+529,338780,Bruno Guimarães,409,Brazil,48,SecondHalf,Foul,Successful,45.6,50.4,,
+414,622515,Dominique Simon,2693,Haiti,48,SecondHalf,Foul,Unsuccessful,54.4,49.6,,
+530,101949,Marquinhos,409,Brazil,49,SecondHalf,Pass,Successful,42,39.7,38.1,63.9
+531,334087,Gabriel Magalhães,409,Brazil,49,SecondHalf,Pass,Successful,36.1,63.6,42.9,73.6
+532,319756,Lucas Paquetá,409,Brazil,49,SecondHalf,Pass,Successful,43.1,72.6,33,67
+533,334087,Gabriel Magalhães,409,Brazil,49,SecondHalf,Pass,Successful,33.6,65.2,32.5,36.4
+534,101949,Marquinhos,409,Brazil,49,SecondHalf,Pass,Successful,32.5,36.4,33.6,16
+535,88300,Danilo,409,Brazil,49,SecondHalf,Pass,Successful,33.6,16,26.7,38.4
+536,101949,Marquinhos,409,Brazil,49,SecondHalf,Pass,Successful,26.8,38.4,30.6,70.8
+537,334087,Gabriel Magalhães,409,Brazil,49,SecondHalf,Pass,Successful,29.3,72.6,9.4,55.6
+538,114147,Alisson Becker,409,Brazil,49,SecondHalf,Pass,Successful,15.7,52.6,18.4,26.2
+539,101949,Marquinhos,409,Brazil,49,SecondHalf,Pass,Successful,22.1,25.9,43.8,94.9
+540,115097,Douglas Santos,409,Brazil,49,SecondHalf,Pass,Successful,53,93.9,44.4,74.1
+541,88526,Casemiro,409,Brazil,49,SecondHalf,Pass,Successful,44.3,74.1,33.5,74.7
+542,334087,Gabriel Magalhães,409,Brazil,49,SecondHalf,Pass,Successful,33.5,74.5,45.4,63.1
+543,362758,Matheus Cunha,409,Brazil,49,SecondHalf,Pass,Successful,45.4,63.1,41.2,70.3
+544,88526,Casemiro,409,Brazil,49,SecondHalf,Pass,Successful,41.4,70.3,55.6,53.1
+545,338780,Bruno Guimarães,409,Brazil,49,SecondHalf,Pass,Successful,55.6,53.1,51.1,51.1
+546,362758,Matheus Cunha,409,Brazil,49,SecondHalf,Pass,Successful,52,50.3,55.8,53.8
+547,338780,Bruno Guimarães,409,Brazil,49,SecondHalf,Pass,Successful,61.6,55,77.7,23.5
+548,472122,Rayan,409,Brazil,49,SecondHalf,BallTouch,Unsuccessful,77.7,23.5,,
+415,555256,Martin Expérience,2693,Haiti,49,SecondHalf,BallTouch,Unsuccessful,18,75.8,,
+549,472122,Rayan,409,Brazil,49,SecondHalf,TakeOn,Unsuccessful,82.7,15,,
+416,555256,Martin Expérience,2693,Haiti,49,SecondHalf,Tackle,Successful,17.3,85,,
+417,555256,Martin Expérience,2693,Haiti,49,SecondHalf,BallRecovery,Successful,17,93.6,,
+418,555256,Martin Expérience,2693,Haiti,49,SecondHalf,Pass,Successful,14.3,92.6,13.4,69.2
+419,367189,Hannes Delcroix,2693,Haiti,49,SecondHalf,Pass,Successful,13.3,69,11.4,43.9
+420,145264,Ricardo Adé,2693,Haiti,49,SecondHalf,Pass,Successful,11.2,43.7,29.9,30.4
+421,486042,Josué Casimir,2693,Haiti,50,SecondHalf,Pass,Successful,30.8,28.9,27.8,5
+422,374992,Jean-Kévin Duverne,2693,Haiti,50,SecondHalf,Pass,Successful,27.7,4.9,30.4,20.9
+423,431360,Danley Jean Jacques,2693,Haiti,50,SecondHalf,Pass,Successful,31.9,25.4,37.6,30.7
+424,320242,Jean-Ricner Bellegarde,2693,Haiti,50,SecondHalf,Pass,Successful,38.9,32,67.3,92.3
+425,404551,Ruben Providence,2693,Haiti,50,SecondHalf,BallTouch,Unsuccessful,67.3,92.3,,
+552,88300,Danilo,409,Brazil,50,SecondHalf,Pass,Successful,31.8,0,30.5,11.4
+553,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Successful,30.5,11.4,30.3,6.9
+554,88300,Danilo,409,Brazil,50,SecondHalf,Pass,Successful,30.3,6.7,30.6,14.5
+555,338780,Bruno Guimarães,409,Brazil,50,SecondHalf,Pass,Successful,22.3,15,11.7,50.8
+556,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Successful,20.2,60.1,33.1,95.2
+557,115097,Douglas Santos,409,Brazil,50,SecondHalf,Pass,Successful,35.8,95.5,21.4,85.3
+558,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Successful,31.9,69,11.9,57.4
+559,114147,Alisson Becker,409,Brazil,50,SecondHalf,Pass,Successful,12.7,57.1,27.7,70.5
+560,334087,Gabriel Magalhães,409,Brazil,50,SecondHalf,Pass,Successful,25.1,71.4,10.5,55.3
+427,363535,Wilson Isidor,2693,Haiti,50,SecondHalf,Challenge,Unsuccessful,88.9,48.6,,
+561,114147,Alisson Becker,409,Brazil,50,SecondHalf,TakeOn,Successful,11.1,51.4,,
+567,114147,Alisson Becker,409,Brazil,51,SecondHalf,GoodSkill,Successful,13.6,45.1,,
+562,114147,Alisson Becker,409,Brazil,51,SecondHalf,Pass,Successful,12.7,53.6,15.1,30.7
+563,101949,Marquinhos,409,Brazil,51,SecondHalf,Pass,Successful,18.5,27.4,24.4,9.7
+564,88300,Danilo,409,Brazil,51,SecondHalf,Pass,Successful,24.4,9.7,39.9,7.9
+565,319756,Lucas Paquetá,409,Brazil,51,SecondHalf,BallTouch,Unsuccessful,40,7.8,,
+429,555256,Martin Expérience,2693,Haiti,51,SecondHalf,Pass,Successful,57.1,100,33.4,85.7
+430,367189,Hannes Delcroix,2693,Haiti,51,SecondHalf,Pass,Successful,37.7,82.2,39.4,91.5
+431,555256,Martin Expérience,2693,Haiti,51,SecondHalf,Pass,Successful,33.4,73.8,42.5,62.4
+432,622515,Dominique Simon,2693,Haiti,51,SecondHalf,Pass,Successful,42.5,62.4,40.3,51.8
+433,555256,Martin Expérience,2693,Haiti,51,SecondHalf,Pass,Successful,45,44,55.3,7.7
+434,374992,Jean-Kévin Duverne,2693,Haiti,51,SecondHalf,Pass,Unsuccessful,55.3,7.7,100,23.5
+570,334087,Gabriel Magalhães,409,Brazil,52,SecondHalf,Pass,Successful,4.5,60,4.2,51
+571,114147,Alisson Becker,409,Brazil,52,SecondHalf,Pass,Unsuccessful,10.1,52.6,63.9,72.6
+436,145264,Ricardo Adé,2693,Haiti,52,SecondHalf,Interception,Successful,36.1,27.4,,
+572,115097,Douglas Santos,409,Brazil,52,SecondHalf,Pass,Unsuccessful,43.6,89.4,82.5,87.1
+437,145264,Ricardo Adé,2693,Haiti,52,SecondHalf,BallRecovery,Successful,12.1,11.5,,
+438,145264,Ricardo Adé,2693,Haiti,52,SecondHalf,Pass,Successful,2.8,8.6,21.3,3.5
+439,374992,Jean-Kévin Duverne,2693,Haiti,52,SecondHalf,Dispossessed,Successful,19.2,4.3,,
+573,115097,Douglas Santos,409,Brazil,52,SecondHalf,Tackle,Successful,80.8,95.7,,
+582,115097,Douglas Santos,409,Brazil,52,SecondHalf,BallTouch,Unsuccessful,85.6,97.9,,
+441,374992,Jean-Kévin Duverne,2693,Haiti,52,SecondHalf,Foul,Successful,15.5,1,,
+576,115097,Douglas Santos,409,Brazil,52,SecondHalf,Foul,Unsuccessful,84.5,99,,
+442,34069,Johny Placide,2693,Haiti,52,SecondHalf,Pass,Unsuccessful,23.8,10.9,63.3,19.6
+577,88526,Casemiro,409,Brazil,53,SecondHalf,Aerial,Successful,36.7,80.4,,
+443,486042,Josué Casimir,2693,Haiti,53,SecondHalf,Aerial,Unsuccessful,63.3,19.6,,
+578,88526,Casemiro,409,Brazil,53,SecondHalf,Pass,Successful,36.7,80.4,31.3,63.3
+579,334087,Gabriel Magalhães,409,Brazil,53,SecondHalf,Pass,Unsuccessful,31.3,63.3,45.5,45.6
+787,555256,Martin Expérience,2693,Haiti,53,SecondHalf,Aerial,Successful,52.6,52.2,,
+901,472122,Rayan,409,Brazil,53,SecondHalf,Aerial,Unsuccessful,47.4,47.8,,
+444,555256,Martin Expérience,2693,Haiti,53,SecondHalf,Pass,Unsuccessful,52.9,54.6,55.5,46.3
+580,338780,Bruno Guimarães,409,Brazil,53,SecondHalf,Pass,Successful,42.6,54.2,54.6,60.5
+581,362758,Matheus Cunha,409,Brazil,53,SecondHalf,Pass,Unsuccessful,53.3,62.6,80.9,78.9
+445,374992,Jean-Kévin Duverne,2693,Haiti,53,SecondHalf,Pass,Successful,22.1,21.9,9.4,33.8
+446,34069,Johny Placide,2693,Haiti,53,SecondHalf,Pass,Successful,10.5,31.6,21.1,28
+447,431360,Danley Jean Jacques,2693,Haiti,53,SecondHalf,Pass,Successful,20.9,27.1,20.6,7.4
+448,374992,Jean-Kévin Duverne,2693,Haiti,53,SecondHalf,Pass,Successful,21.1,5.4,17.1,16.2
+449,431360,Danley Jean Jacques,2693,Haiti,53,SecondHalf,Pass,Successful,21.9,24.4,31,92.1
+450,555256,Martin Expérience,2693,Haiti,53,SecondHalf,Pass,Unsuccessful,40.1,92.1,75.8,93.2
+583,101949,Marquinhos,409,Brazil,53,SecondHalf,BallTouch,Unsuccessful,25.5,11.4,,
+452,404551,Ruben Providence,2693,Haiti,53,SecondHalf,Pass,Successful,76.1,100,61.9,66.5
+453,555256,Martin Expérience,2693,Haiti,53,SecondHalf,Pass,Successful,63.8,82.2,65.4,58.5
+454,320242,Jean-Ricner Bellegarde,2693,Haiti,53,SecondHalf,Pass,Successful,68.8,30.3,71.5,19.7
+487,486042,Josué Casimir,2693,Haiti,53,SecondHalf,Pass,Successful,69.7,16.8,59.5,5.8
+455,374992,Jean-Kévin Duverne,2693,Haiti,53,SecondHalf,Pass,Successful,55.9,11.3,61.7,13.4
+456,486042,Josué Casimir,2693,Haiti,53,SecondHalf,Pass,Successful,61.7,13.6,56.8,24.7
+457,374992,Jean-Kévin Duverne,2693,Haiti,53,SecondHalf,Pass,Successful,59,23,63.3,22.6
+458,320242,Jean-Ricner Bellegarde,2693,Haiti,53,SecondHalf,Pass,Successful,63.3,22.6,54.3,20.2
+459,374992,Jean-Kévin Duverne,2693,Haiti,54,SecondHalf,Pass,Successful,42.7,16.6,39.9,36.1
+460,145264,Ricardo Adé,2693,Haiti,54,SecondHalf,Pass,Successful,43.6,47.2,42.5,70.5
+461,367189,Hannes Delcroix,2693,Haiti,54,SecondHalf,Pass,Successful,42.5,70.5,59.3,88.5
+462,404551,Ruben Providence,2693,Haiti,54,SecondHalf,Pass,Unsuccessful,74.8,86.7,84.5,66.9
+585,101949,Marquinhos,409,Brazil,54,SecondHalf,BallTouch,Successful,13.1,36,,
+586,88526,Casemiro,409,Brazil,54,SecondHalf,Clearance,Successful,14.9,43.8,47.1,19
+463,367189,Hannes Delcroix,2693,Haiti,54,SecondHalf,Pass,Successful,57.6,83,66.4,89.7
+464,622515,Dominique Simon,2693,Haiti,54,SecondHalf,Pass,Successful,65.9,85.4,59.8,74.6
+465,431360,Danley Jean Jacques,2693,Haiti,54,SecondHalf,Pass,Successful,59.8,74.6,63.6,74.9
+466,622515,Dominique Simon,2693,Haiti,54,SecondHalf,Pass,Successful,63.6,73.8,65.3,59
+467,320242,Jean-Ricner Bellegarde,2693,Haiti,54,SecondHalf,Pass,Successful,65.3,59,73.9,65.3
+468,555256,Martin Expérience,2693,Haiti,54,SecondHalf,Pass,Unsuccessful,77.5,66.7,80.1,73
+587,88300,Danilo,409,Brazil,54,SecondHalf,BallRecovery,Successful,21.8,26.2,,
+588,88300,Danilo,409,Brazil,54,SecondHalf,Pass,Successful,21.8,26.2,6,51.1
+589,114147,Alisson Becker,409,Brazil,54,SecondHalf,Pass,Successful,5.1,46,14.5,39.9
+590,338780,Bruno Guimarães,409,Brazil,54,SecondHalf,Pass,Successful,14.4,39.5,3.7,26.8
+591,101949,Marquinhos,409,Brazil,54,SecondHalf,Pass,Successful,5.9,24.6,8.8,7
+592,88300,Danilo,409,Brazil,54,SecondHalf,Pass,Unsuccessful,9.7,7.5,47.3,4.5
+469,367189,Hannes Delcroix,2693,Haiti,54,SecondHalf,Clearance,Successful,55.9,93.5,53.1,100
+594,88300,Danilo,409,Brazil,54,SecondHalf,Pass,Successful,42.9,0,27.4,22.6
+595,101949,Marquinhos,409,Brazil,54,SecondHalf,Pass,Successful,28.8,25.6,31.8,67.5
+596,334087,Gabriel Magalhães,409,Brazil,54,SecondHalf,Pass,Successful,31.8,67.5,41.5,68.7
+597,319756,Lucas Paquetá,409,Brazil,54,SecondHalf,Pass,Successful,41.5,68.7,49.9,91.2
+598,115097,Douglas Santos,409,Brazil,55,SecondHalf,Pass,Successful,43.8,71.5,33,41.1
+599,101949,Marquinhos,409,Brazil,55,SecondHalf,Pass,Successful,32.7,39.7,80.8,67.8
+902,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,TakeOn,Unsuccessful,88.7,29.4,,
+600,337782,Vinícius Júnior,409,Brazil,55,SecondHalf,Pass,Unsuccessful,79.9,19.3,65.6,39.3
+471,320242,Jean-Ricner Bellegarde,2693,Haiti,55,SecondHalf,BallRecovery,Successful,32.1,73.2,,
+472,320242,Jean-Ricner Bellegarde,2693,Haiti,55,SecondHalf,Pass,Successful,53.9,85.4,65.5,93.2
+473,404551,Ruben Providence,2693,Haiti,55,SecondHalf,Pass,Unsuccessful,90.6,89,90.7,70.5
+601,101949,Marquinhos,409,Brazil,55,SecondHalf,Clearance,Successful,7.4,34.4,14,41.7
+602,338780,Bruno Guimarães,409,Brazil,55,SecondHalf,BallRecovery,Successful,13,39.5,,
+603,338780,Bruno Guimarães,409,Brazil,55,SecondHalf,Pass,Unsuccessful,25.1,37.3,69.7,96.9
+475,374992,Jean-Kévin Duverne,2693,Haiti,55,SecondHalf,BallRecovery,Successful,55.4,7.6,,
+476,374992,Jean-Kévin Duverne,2693,Haiti,55,SecondHalf,Pass,Successful,58.7,7.1,54.3,11.5
+477,431360,Danley Jean Jacques,2693,Haiti,55,SecondHalf,Pass,Successful,54.3,11.5,58.2,7.7
+478,374992,Jean-Kévin Duverne,2693,Haiti,55,SecondHalf,Pass,Successful,58.2,7.6,54.9,11.8
+479,431360,Danley Jean Jacques,2693,Haiti,56,SecondHalf,Pass,Successful,54.4,15.5,59.6,32.3
+480,320242,Jean-Ricner Bellegarde,2693,Haiti,56,SecondHalf,Pass,Unsuccessful,59.6,32.3,72.1,32.8
+604,101949,Marquinhos,409,Brazil,56,SecondHalf,Clearance,Successful,22.2,63.3,44,78
+481,431360,Danley Jean Jacques,2693,Haiti,56,SecondHalf,Pass,Successful,59,13,66.4,5.9
+482,374992,Jean-Kévin Duverne,2693,Haiti,56,SecondHalf,Pass,Unsuccessful,72.3,5.8,75.2,8.8
+605,115097,Douglas Santos,409,Brazil,56,SecondHalf,BallTouch,Successful,24.4,89.8,,
+483,431360,Danley Jean Jacques,2693,Haiti,56,SecondHalf,Pass,Successful,70.9,17.6,68,28.7
+484,320242,Jean-Ricner Bellegarde,2693,Haiti,56,SecondHalf,Pass,Successful,67.3,32,77.4,88.7
+485,404551,Ruben Providence,2693,Haiti,56,SecondHalf,Pass,Successful,81.1,83.8,87.8,62.2
+486,622515,Dominique Simon,2693,Haiti,56,SecondHalf,Pass,Unsuccessful,89.4,60.2,97,45.5
+606,114147,Alisson Becker,409,Brazil,56,SecondHalf,KeeperPickup,Successful,4,52.3,,
+607,114147,Alisson Becker,409,Brazil,56,SecondHalf,Pass,Successful,12.6,49.6,16.9,38.4
+608,101949,Marquinhos,409,Brazil,56,SecondHalf,Pass,Successful,16.9,38.4,28,37.3
+609,88526,Casemiro,409,Brazil,56,SecondHalf,Pass,Successful,31.4,33.9,45.5,19.2
+610,362758,Matheus Cunha,409,Brazil,56,SecondHalf,Pass,Successful,52.8,15.4,44.2,29.2
+611,88526,Casemiro,409,Brazil,56,SecondHalf,Pass,Successful,44.2,29.2,38.5,11.2
+612,88300,Danilo,409,Brazil,56,SecondHalf,Pass,Successful,38.7,11.2,29.1,30.3
+613,101949,Marquinhos,409,Brazil,56,SecondHalf,Pass,Successful,34.3,32.4,32.8,22
+614,88300,Danilo,409,Brazil,56,SecondHalf,Pass,Successful,33.1,22.3,35.1,67.9
+615,334087,Gabriel Magalhães,409,Brazil,57,SecondHalf,Pass,Successful,39.4,70,51.7,94.9
+616,115097,Douglas Santos,409,Brazil,57,SecondHalf,Pass,Successful,49.6,93.1,34.2,74.7
+617,334087,Gabriel Magalhães,409,Brazil,57,SecondHalf,Pass,Successful,34.3,74.7,40.5,62.8
+618,88526,Casemiro,409,Brazil,57,SecondHalf,Pass,Successful,43.6,66.9,48.7,89.2
+619,319756,Lucas Paquetá,409,Brazil,57,SecondHalf,Pass,Successful,52.4,89.1,65.2,87
+620,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,Pass,Successful,72.2,84,84.8,96
+621,115097,Douglas Santos,409,Brazil,57,SecondHalf,Pass,Successful,84.8,96,73.7,89.4
+622,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,Pass,Successful,74.1,78.1,71.3,70.6
+623,319756,Lucas Paquetá,409,Brazil,57,SecondHalf,Pass,Successful,73.1,72.6,84.2,89.4
+624,115097,Douglas Santos,409,Brazil,57,SecondHalf,Pass,Successful,85.6,87.1,97.3,72.4
+625,337782,Vinícius Júnior,409,Brazil,57,SecondHalf,Pass,Successful,97.9,71.8,84.8,6.9
+626,362758,Matheus Cunha,409,Brazil,57,SecondHalf,Pass,Successful,77.7,11.2,63.9,19.5
+627,88300,Danilo,409,Brazil,57,SecondHalf,Pass,Successful,63.9,19.5,57.3,33.4
+628,101949,Marquinhos,409,Brazil,57,SecondHalf,Pass,Successful,58.4,36.7,59.2,68.4
+629,334087,Gabriel Magalhães,409,Brazil,57,SecondHalf,Pass,Successful,59.9,69,70.2,95.1
+630,115097,Douglas Santos,409,Brazil,57,SecondHalf,Pass,Successful,70.2,95.1,71.5,83.7
+631,319756,Lucas Paquetá,409,Brazil,57,SecondHalf,Pass,Successful,71.5,83.7,67.8,94.3
+632,115097,Douglas Santos,409,Brazil,57,SecondHalf,Pass,Successful,65.3,93.3,45.4,73.9
+633,334087,Gabriel Magalhães,409,Brazil,57,SecondHalf,Pass,Successful,45.4,73.9,60.5,65.5
+634,88526,Casemiro,409,Brazil,57,SecondHalf,Pass,Successful,65.7,59.7,68.6,45.1
+635,362758,Matheus Cunha,409,Brazil,57,SecondHalf,Pass,Successful,68.3,45,75.2,24.6
+636,338780,Bruno Guimarães,409,Brazil,57,SecondHalf,Pass,Successful,74.6,25.2,81.4,12.4
+11643,115097,Douglas Santos,409,Brazil,58,SecondHalf,OffsideGiven,Unsuccessful,78.4,94.6,,
+637,472122,Rayan,409,Brazil,58,SecondHalf,Pass,Successful,81.2,12.7,67.1,21.9
+638,88300,Danilo,409,Brazil,58,SecondHalf,Pass,Successful,67.1,21.9,78.7,8.2
+639,472122,Rayan,409,Brazil,58,SecondHalf,Pass,Successful,78.7,8.2,79.6,14.2
+640,362758,Matheus Cunha,409,Brazil,58,SecondHalf,Pass,Successful,79.6,14.2,77.4,10.2
+641,472122,Rayan,409,Brazil,58,SecondHalf,Pass,Successful,76.2,11.5,63.2,20.5
+642,88300,Danilo,409,Brazil,58,SecondHalf,Pass,Successful,62.9,21,58.6,62.4
+643,334087,Gabriel Magalhães,409,Brazil,58,SecondHalf,OffsidePass,Successful,59,63.2,78.4,94.6
+488,374992,Jean-Kévin Duverne,2693,Haiti,58,SecondHalf,OffsideProvoked,Successful,23.8,29.7,,
+489,374992,Jean-Kévin Duverne,2693,Haiti,58,SecondHalf,Pass,Successful,19.2,8.8,9.4,47.4
+490,34069,Johny Placide,2693,Haiti,58,SecondHalf,Pass,Successful,11.8,48.1,21.1,45
+491,622515,Dominique Simon,2693,Haiti,58,SecondHalf,Pass,Successful,24.5,56.7,34.2,45.8
+492,431360,Danley Jean Jacques,2693,Haiti,58,SecondHalf,Pass,Successful,46.5,34.1,48,31.4
+493,320242,Jean-Ricner Bellegarde,2693,Haiti,58,SecondHalf,Pass,Successful,63.6,65,56.7,78.2
+494,367189,Hannes Delcroix,2693,Haiti,58,SecondHalf,Pass,Successful,56.7,78.2,64.7,92.4
+495,404551,Ruben Providence,2693,Haiti,59,SecondHalf,Pass,Successful,67.7,93.3,59.6,82.7
+496,367189,Hannes Delcroix,2693,Haiti,59,SecondHalf,Pass,Successful,59.6,82.7,58,68.9
+497,320242,Jean-Ricner Bellegarde,2693,Haiti,59,SecondHalf,Pass,Successful,60,67.5,62.7,8
+498,374992,Jean-Kévin Duverne,2693,Haiti,59,SecondHalf,Pass,Successful,67.4,9.4,64.1,20.2
+499,431360,Danley Jean Jacques,2693,Haiti,59,SecondHalf,Pass,Successful,63.8,20.9,70.3,4.6
+500,374992,Jean-Kévin Duverne,2693,Haiti,59,SecondHalf,Pass,Successful,66,10.3,56.3,9.8
+501,431360,Danley Jean Jacques,2693,Haiti,59,SecondHalf,Pass,Successful,56.1,9.8,45,37.9
+502,145264,Ricardo Adé,2693,Haiti,59,SecondHalf,Pass,Successful,54.4,41.2,64.2,41.5
+503,363535,Wilson Isidor,2693,Haiti,59,SecondHalf,Pass,Successful,63.4,39.3,56.3,9.2
+504,431360,Danley Jean Jacques,2693,Haiti,59,SecondHalf,Pass,Successful,55,9.2,61.3,19.5
+505,363535,Wilson Isidor,2693,Haiti,59,SecondHalf,Pass,Successful,59.3,32.9,74.3,34.6
+506,486042,Josué Casimir,2693,Haiti,59,SecondHalf,Pass,Unsuccessful,83.9,36.2,75.7,61.1
+644,472122,Rayan,409,Brazil,59,SecondHalf,BallRecovery,Successful,30,40.6,,
+645,472122,Rayan,409,Brazil,59,SecondHalf,Pass,Successful,30,40.6,34.2,39.7
+646,362758,Matheus Cunha,409,Brazil,59,SecondHalf,Pass,Successful,67.9,28,70.2,45.6
+647,88526,Casemiro,409,Brazil,59,SecondHalf,Pass,Unsuccessful,71.9,44.4,78.4,34.6
+508,367189,Hannes Delcroix,2693,Haiti,59,SecondHalf,Interception,Successful,21.6,65.4,,
+509,404551,Ruben Providence,2693,Haiti,59,SecondHalf,BallRecovery,Successful,34.5,91.7,,
+510,404551,Ruben Providence,2693,Haiti,59,SecondHalf,TakeOn,Unsuccessful,34.2,90.1,,
+648,88526,Casemiro,409,Brazil,59,SecondHalf,Tackle,Successful,65.8,9.9,,
+649,88526,Casemiro,409,Brazil,59,SecondHalf,BallRecovery,Successful,69.8,9.6,,
+650,88526,Casemiro,409,Brazil,59,SecondHalf,Pass,Successful,69.2,4.3,52.7,17.7
+651,101949,Marquinhos,409,Brazil,60,SecondHalf,Pass,Successful,52.4,20.7,43.1,52.8
+652,334087,Gabriel Magalhães,409,Brazil,60,SecondHalf,Pass,Successful,43.8,55.2,62.7,95.2
+653,115097,Douglas Santos,409,Brazil,60,SecondHalf,Pass,Successful,63,94.9,72,95.1
+654,337782,Vinícius Júnior,409,Brazil,60,SecondHalf,Pass,Successful,71.3,95.2,52.8,72.1
+655,334087,Gabriel Magalhães,409,Brazil,60,SecondHalf,Pass,Successful,52.8,72.1,62.2,72.1
+656,338780,Bruno Guimarães,409,Brazil,60,SecondHalf,Pass,Successful,62.9,71.2,60.3,77.2
+657,319756,Lucas Paquetá,409,Brazil,60,SecondHalf,Pass,Successful,61.2,76,55.4,63.6
+658,334087,Gabriel Magalhães,409,Brazil,60,SecondHalf,Pass,Successful,55,64.3,52.6,40.6
+659,101949,Marquinhos,409,Brazil,60,SecondHalf,Pass,Successful,52.7,39.3,46.2,25.5
+660,88300,Danilo,409,Brazil,60,SecondHalf,Pass,Successful,46.2,25.5,65.2,5.4
+661,472122,Rayan,409,Brazil,60,SecondHalf,Pass,Successful,65.2,5.4,64.4,19.5
+662,362758,Matheus Cunha,409,Brazil,60,SecondHalf,Pass,Successful,64.4,19.5,90.2,8.7
+663,472122,Rayan,409,Brazil,60,SecondHalf,Pass,Unsuccessful,87.2,16.9,80.9,35.7
+511,622515,Dominique Simon,2693,Haiti,60,SecondHalf,Interception,Successful,19.1,64.3,,
+512,622515,Dominique Simon,2693,Haiti,60,SecondHalf,Pass,Successful,22.4,75.9,30.4,79.7
+513,404551,Ruben Providence,2693,Haiti,60,SecondHalf,Foul,Successful,32.7,82.6,,
+664,88300,Danilo,409,Brazil,60,SecondHalf,Foul,Unsuccessful,67.2,17.4,,
+514,555256,Martin Expérience,2693,Haiti,60,SecondHalf,Pass,Successful,26.7,90.2,23.7,68.1
+515,367189,Hannes Delcroix,2693,Haiti,60,SecondHalf,Pass,Successful,23.7,68.1,31.4,58.4
+516,431360,Danley Jean Jacques,2693,Haiti,60,SecondHalf,Pass,Successful,32.6,55.5,43.6,2.6
+517,374992,Jean-Kévin Duverne,2693,Haiti,60,SecondHalf,Pass,Successful,54.2,6.4,54,19.1
+519,431360,Danley Jean Jacques,2693,Haiti,61,SecondHalf,BallTouch,Successful,68.7,21.4,,
+520,363535,Wilson Isidor,2693,Haiti,61,SecondHalf,Pass,Successful,66.3,11.2,53,39.2
+521,145264,Ricardo Adé,2693,Haiti,61,SecondHalf,Pass,Successful,53,39.2,55.9,43.7
+522,622515,Dominique Simon,2693,Haiti,61,SecondHalf,Pass,Successful,56.8,49.7,59.1,74
+523,367189,Hannes Delcroix,2693,Haiti,61,SecondHalf,Pass,Successful,60,82.7,79.7,91.7
+524,404551,Ruben Providence,2693,Haiti,61,SecondHalf,Pass,Successful,92.3,93,78.5,92.4
+525,367189,Hannes Delcroix,2693,Haiti,61,SecondHalf,Pass,Successful,78.2,92.7,75.8,74
+526,320242,Jean-Ricner Bellegarde,2693,Haiti,61,SecondHalf,Pass,Unsuccessful,97.1,71.3,95.2,66.2
+667,88300,Danilo,409,Brazil,61,SecondHalf,BlockedPass,Successful,4.8,33.8,,
+668,88300,Danilo,409,Brazil,61,SecondHalf,CornerAwarded,Unsuccessful,1.4,26.9,,
+527,320242,Jean-Ricner Bellegarde,2693,Haiti,61,SecondHalf,CornerAwarded,Successful,98.7,73.2,,
+528,486042,Josué Casimir,2693,Haiti,62,SecondHalf,SubstitutionOff,Successful,0,0,,
+529,487365,Louicius Deedson,2693,Haiti,62,SecondHalf,SubstitutionOn,Successful,0,0,,
+530,320242,Jean-Ricner Bellegarde,2693,Haiti,62,SecondHalf,Pass,Successful,99.5,99.5,95.7,60.2
+531,145264,Ricardo Adé,2693,Haiti,62,SecondHalf,Aerial,Successful,95.7,60.2,,
+673,101949,Marquinhos,409,Brazil,62,SecondHalf,Aerial,Unsuccessful,4.3,39.8,,
+532,145264,Ricardo Adé,2693,Haiti,62,SecondHalf,SavedShot,Successful,95.7,60.2,,
+669,114147,Alisson Becker,409,Brazil,62,SecondHalf,Save,Successful,0.7,48.3,,
+670,88300,Danilo,409,Brazil,62,SecondHalf,Clearance,Successful,2.1,55,35,86.2
+671,337782,Vinícius Júnior,409,Brazil,62,SecondHalf,BallTouch,Unsuccessful,35.1,86.2,,
+674,319756,Lucas Paquetá,409,Brazil,63,SecondHalf,SubstitutionOff,Successful,0,0,,
+675,380706,Gabriel Martinelli,409,Brazil,63,SecondHalf,SubstitutionOn,Successful,0,0,,
+676,362758,Matheus Cunha,409,Brazil,63,SecondHalf,SubstitutionOff,Successful,0,0,,
+677,445649,Endrick,409,Brazil,63,SecondHalf,SubstitutionOn,Successful,0,0,,
+534,374992,Jean-Kévin Duverne,2693,Haiti,63,SecondHalf,Pass,Successful,61.8,0,46.7,20.7
+535,145264,Ricardo Adé,2693,Haiti,63,SecondHalf,Pass,Successful,43.4,27.4,44.2,52.3
+536,367189,Hannes Delcroix,2693,Haiti,63,SecondHalf,Pass,Successful,44.3,58.8,54.3,91.2
+537,555256,Martin Expérience,2693,Haiti,63,SecondHalf,Pass,Successful,54.3,91.2,64.2,92.3
+538,404551,Ruben Providence,2693,Haiti,63,SecondHalf,Pass,Successful,63.7,89.6,44.1,75.6
+539,367189,Hannes Delcroix,2693,Haiti,63,SecondHalf,Pass,Successful,44.1,75.6,55.1,69
+540,320242,Jean-Ricner Bellegarde,2693,Haiti,64,SecondHalf,Pass,Successful,55.6,66.3,53.1,51
+541,431360,Danley Jean Jacques,2693,Haiti,64,SecondHalf,Pass,Successful,53.8,46.3,54.8,27.8
+542,145264,Ricardo Adé,2693,Haiti,64,SecondHalf,Pass,Successful,58.6,24.8,74.7,23.5
+543,487365,Louicius Deedson,2693,Haiti,64,SecondHalf,Pass,Successful,74.9,23.2,72.1,30.5
+544,431360,Danley Jean Jacques,2693,Haiti,64,SecondHalf,Pass,Successful,70.2,29.2,63,6.2
+545,374992,Jean-Kévin Duverne,2693,Haiti,64,SecondHalf,Pass,Successful,61.2,6.2,61.7,18.4
+546,431360,Danley Jean Jacques,2693,Haiti,64,SecondHalf,Pass,Successful,60.7,18.5,69.8,20.6
+548,363535,Wilson Isidor,2693,Haiti,64,SecondHalf,Foul,Successful,75.4,11.8,,
+678,115097,Douglas Santos,409,Brazil,64,SecondHalf,Foul,Unsuccessful,24.6,88.2,,
+690,115097,Douglas Santos,409,Brazil,64,SecondHalf,Card,Successful,0,0,,
+549,320242,Jean-Ricner Bellegarde,2693,Haiti,65,SecondHalf,Pass,Unsuccessful,70.4,10.9,91.1,55.2
+679,334087,Gabriel Magalhães,409,Brazil,65,SecondHalf,Clearance,Successful,9.1,45.8,15.1,33
+550,404551,Ruben Providence,2693,Haiti,65,SecondHalf,MissedShots,Successful,86.2,66.9,,
+579,404551,Ruben Providence,2693,Haiti,65,SecondHalf,BallTouch,Successful,86.7,67.9,,
+551,374992,Jean-Kévin Duverne,2693,Haiti,65,SecondHalf,MissedShots,Successful,90.9,65.4,,
+682,334087,Gabriel Magalhães,409,Brazil,65,SecondHalf,Pass,Successful,2.7,57.1,3.1,48.4
+683,114147,Alisson Becker,409,Brazil,65,SecondHalf,Pass,Successful,4,50.1,10.1,26.8
+684,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,20.1,21.6,21.7,6.3
+685,88300,Danilo,409,Brazil,65,SecondHalf,Pass,Successful,22.2,6,10.3,15.9
+686,101949,Marquinhos,409,Brazil,65,SecondHalf,Pass,Successful,12.2,9.9,42.6,13.6
+687,445649,Endrick,409,Brazil,65,SecondHalf,Aerial,Successful,42.6,13.6,,
+558,555256,Martin Expérience,2693,Haiti,65,SecondHalf,Aerial,Unsuccessful,57.4,86.4,,
+688,445649,Endrick,409,Brazil,65,SecondHalf,BallTouch,Unsuccessful,42.6,13.6,,
+554,622515,Dominique Simon,2693,Haiti,65,SecondHalf,Pass,Successful,58.4,100,33.5,83.4
+555,367189,Hannes Delcroix,2693,Haiti,65,SecondHalf,Pass,Successful,33.5,82.4,19.8,63.8
+556,34069,Johny Placide,2693,Haiti,66,SecondHalf,Pass,Unsuccessful,20.2,61.5,52,57.9
+692,88526,Casemiro,409,Brazil,66,SecondHalf,Pass,Successful,49.3,48,67.6,65.1
+715,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,TakeOn,Unsuccessful,72.4,71.7,,
+572,145264,Ricardo Adé,2693,Haiti,66,SecondHalf,Tackle,Unsuccessful,27.6,28.3,,
+691,380706,Gabriel Martinelli,409,Brazil,66,SecondHalf,BallTouch,Successful,69.1,67.9,,
+693,,,409,Brazil,66,SecondHalf,Foul,Successful,68.1,63.8,,
+557,145264,Ricardo Adé,2693,Haiti,66,SecondHalf,Foul,Unsuccessful,31.9,36.2,,
+11710,337782,Vinícius Júnior,409,Brazil,67,SecondHalf,OffsideGiven,Unsuccessful,88.2,72,,
+694,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Pass,Successful,69.2,70.2,92.4,28
+713,88526,Casemiro,409,Brazil,67,SecondHalf,Aerial,Successful,92.4,28,,
+571,555256,Martin Expérience,2693,Haiti,67,SecondHalf,Aerial,Unsuccessful,7.6,72,,
+695,88526,Casemiro,409,Brazil,67,SecondHalf,Pass,Unsuccessful,92.4,28,92.3,49.9
+560,145264,Ricardo Adé,2693,Haiti,67,SecondHalf,Clearance,Successful,7.5,49.5,8.5,49.5
+559,363535,Wilson Isidor,2693,Haiti,67,SecondHalf,BallTouch,Successful,7,47.4,,
+561,622515,Dominique Simon,2693,Haiti,67,SecondHalf,Clearance,Successful,10.3,53,37.7,52.8
+697,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Aerial,Successful,62.3,47.2,,
+562,487365,Louicius Deedson,2693,Haiti,67,SecondHalf,Aerial,Unsuccessful,37.7,52.8,,
+698,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Pass,Unsuccessful,70.5,52.1,71.4,52.3
+563,487365,Louicius Deedson,2693,Haiti,67,SecondHalf,BallTouch,Successful,25.6,47.4,,
+564,363535,Wilson Isidor,2693,Haiti,67,SecondHalf,TakeOn,Unsuccessful,37.6,51.2,,
+699,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Tackle,Successful,62.4,48.8,,
+700,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Pass,Successful,71.8,66.7,95.2,81.4
+701,337782,Vinícius Júnior,409,Brazil,67,SecondHalf,Pass,Unsuccessful,97.5,75.3,96.4,72.4
+565,374992,Jean-Kévin Duverne,2693,Haiti,67,SecondHalf,BlockedPass,Successful,3.6,27.6,,
+566,622515,Dominique Simon,2693,Haiti,67,SecondHalf,BallRecovery,Successful,4.1,21.1,,
+567,622515,Dominique Simon,2693,Haiti,67,SecondHalf,Pass,Unsuccessful,18.2,14,46.5,32.8
+702,334087,Gabriel Magalhães,409,Brazil,67,SecondHalf,BallRecovery,Successful,58.1,67.9,,
+703,334087,Gabriel Magalhães,409,Brazil,67,SecondHalf,Pass,Successful,49.5,70.2,42.6,82.3
+704,115097,Douglas Santos,409,Brazil,67,SecondHalf,Pass,Successful,42.6,82.3,52.4,67.8
+705,88526,Casemiro,409,Brazil,67,SecondHalf,Pass,Successful,52.5,69,57.8,92.8
+706,380706,Gabriel Martinelli,409,Brazil,67,SecondHalf,Pass,Successful,58,92.7,69.3,73.6
+707,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,Pass,Successful,69.3,73.6,90.2,82.3
+708,337782,Vinícius Júnior,409,Brazil,67,SecondHalf,Pass,Successful,93,78,81.2,90.6
+709,380706,Gabriel Martinelli,409,Brazil,67,SecondHalf,Pass,Successful,81.2,90.4,75.3,67.3
+710,338780,Bruno Guimarães,409,Brazil,67,SecondHalf,OffsidePass,Successful,77.4,68.5,88.2,72
+568,367189,Hannes Delcroix,2693,Haiti,67,SecondHalf,OffsideProvoked,Successful,12.7,52.3,,
+573,404551,Ruben Providence,2693,Haiti,70,SecondHalf,SubstitutionOff,Successful,0,0,,
+574,422218,Lenny Joseph,2693,Haiti,70,SecondHalf,SubstitutionOn,Successful,0,0,,
+576,34069,Johny Placide,2693,Haiti,71,SecondHalf,Pass,Unsuccessful,14.3,29.5,65.9,36.7
+717,88526,Casemiro,409,Brazil,71,SecondHalf,Pass,Unsuccessful,27.7,69.3,37.9,73.9
+577,622515,Dominique Simon,2693,Haiti,71,SecondHalf,Aerial,Successful,62.1,26.1,,
+718,380706,Gabriel Martinelli,409,Brazil,71,SecondHalf,Aerial,Unsuccessful,37.9,73.9,,
+578,622515,Dominique Simon,2693,Haiti,71,SecondHalf,Pass,Successful,62.1,26.1,61.1,27.7
+580,363535,Wilson Isidor,2693,Haiti,71,SecondHalf,TakeOn,Unsuccessful,64.6,28.6,,
+719,88526,Casemiro,409,Brazil,71,SecondHalf,Tackle,Unsuccessful,35.4,71.4,,
+581,363535,Wilson Isidor,2693,Haiti,71,SecondHalf,TakeOn,Unsuccessful,63.9,32.4,,
+720,338780,Bruno Guimarães,409,Brazil,71,SecondHalf,Tackle,Unsuccessful,35.7,67.5,,
+721,380706,Gabriel Martinelli,409,Brazil,71,SecondHalf,Foul,Successful,40.7,68.1,,
+582,431360,Danley Jean Jacques,2693,Haiti,71,SecondHalf,Foul,Unsuccessful,59.3,32,,
+583,431360,Danley Jean Jacques,2693,Haiti,71,SecondHalf,Card,Successful,0,0,,
+723,88526,Casemiro,409,Brazil,72,SecondHalf,Pass,Successful,40.4,62.7,33.5,67.2
+724,334087,Gabriel Magalhães,409,Brazil,72,SecondHalf,Pass,Successful,30.8,70.3,17.8,52.5
+725,114147,Alisson Becker,409,Brazil,72,SecondHalf,Pass,Successful,15.7,51.4,16.5,20.1
+726,101949,Marquinhos,409,Brazil,72,SecondHalf,Pass,Unsuccessful,22.1,19.8,66.3,28.3
+584,367189,Hannes Delcroix,2693,Haiti,72,SecondHalf,Foul,Successful,35.6,74.4,,
+727,445649,Endrick,409,Brazil,72,SecondHalf,Foul,Unsuccessful,64.4,25.6,,
+585,431360,Danley Jean Jacques,2693,Haiti,73,SecondHalf,Pass,Successful,35.4,76.8,19.1,54.5
+586,34069,Johny Placide,2693,Haiti,73,SecondHalf,Pass,Successful,19.1,54.5,27.3,73.4
+587,367189,Hannes Delcroix,2693,Haiti,73,SecondHalf,Pass,Unsuccessful,28.4,75.2,85.8,85.7
+728,88300,Danilo,409,Brazil,73,SecondHalf,BallRecovery,Successful,18.3,13.9,,
+729,88300,Danilo,409,Brazil,73,SecondHalf,Pass,Successful,17,14.2,6.6,39.9
+730,114147,Alisson Becker,409,Brazil,73,SecondHalf,Pass,Unsuccessful,6.8,40.6,35.6,0
+589,555256,Martin Expérience,2693,Haiti,73,SecondHalf,Pass,Successful,66.6,100,64.3,82.5
+590,320242,Jean-Ricner Bellegarde,2693,Haiti,73,SecondHalf,Dispossessed,Successful,69.6,80.4,,
+732,338780,Bruno Guimarães,409,Brazil,73,SecondHalf,Tackle,Unsuccessful,30.4,19.6,,
+790,320242,Jean-Ricner Bellegarde,2693,Haiti,73,SecondHalf,TakeOn,Unsuccessful,68.9,84.4,,
+591,320242,Jean-Ricner Bellegarde,2693,Haiti,73,SecondHalf,Foul,Successful,68.2,80.6,,
+733,472122,Rayan,409,Brazil,73,SecondHalf,Foul,Unsuccessful,31.8,19.3,,
+592,320242,Jean-Ricner Bellegarde,2693,Haiti,74,SecondHalf,Pass,Unsuccessful,67,87.8,87.2,62.1
+734,380706,Gabriel Martinelli,409,Brazil,74,SecondHalf,Clearance,Successful,12.5,37.2,48.9,60.3
+593,555256,Martin Expérience,2693,Haiti,74,SecondHalf,Pass,Successful,52.5,43.4,54.7,14
+594,622515,Dominique Simon,2693,Haiti,74,SecondHalf,Pass,Successful,56.8,23.8,40.3,35.3
+595,555256,Martin Expérience,2693,Haiti,74,SecondHalf,Pass,Successful,33.3,36.7,39.2,98.1
+596,320242,Jean-Ricner Bellegarde,2693,Haiti,74,SecondHalf,Pass,Successful,35.4,88.7,35.7,69.5
+597,367189,Hannes Delcroix,2693,Haiti,74,SecondHalf,Pass,Successful,35.7,69.5,38.5,68.3
+598,431360,Danley Jean Jacques,2693,Haiti,74,SecondHalf,Pass,Successful,41.1,70.7,43.8,92
+599,320242,Jean-Ricner Bellegarde,2693,Haiti,74,SecondHalf,Pass,Successful,43.7,92.1,53.6,95.1
+735,88300,Danilo,409,Brazil,74,SecondHalf,Challenge,Unsuccessful,38,5.7,,
+600,422218,Lenny Joseph,2693,Haiti,74,SecondHalf,TakeOn,Successful,61.1,93.8,,
+601,422218,Lenny Joseph,2693,Haiti,74,SecondHalf,BallTouch,Unsuccessful,68.4,83.6,,
+736,338780,Bruno Guimarães,409,Brazil,74,SecondHalf,Foul,Successful,36,27.3,,
+602,422218,Lenny Joseph,2693,Haiti,74,SecondHalf,Foul,Unsuccessful,64,72.6,,
+737,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,29.4,32.7,29.2,65.8
+738,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,30.2,64.2,27,36
+739,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,29,36,26.3,71.4
+740,334087,Gabriel Magalhães,409,Brazil,75,SecondHalf,Pass,Successful,28,72.3,36.1,65.7
+741,380706,Gabriel Martinelli,409,Brazil,75,SecondHalf,Pass,Successful,30.6,66.9,8.8,53.7
+742,114147,Alisson Becker,409,Brazil,75,SecondHalf,Pass,Successful,9.4,52.8,16.5,25.8
+743,101949,Marquinhos,409,Brazil,75,SecondHalf,Pass,Successful,16.4,26.1,12.3,54.9
+744,114147,Alisson Becker,409,Brazil,75,SecondHalf,Pass,Successful,16.1,56.4,36.3,39.9
+745,380706,Gabriel Martinelli,409,Brazil,75,SecondHalf,Pass,Successful,36.3,39.9,35,7.5
+746,88300,Danilo,409,Brazil,75,SecondHalf,Pass,Successful,36.1,6.7,53.8,8.4
+747,380706,Gabriel Martinelli,409,Brazil,75,SecondHalf,Pass,Successful,53.8,8.4,62.4,22.8
+748,445649,Endrick,409,Brazil,75,SecondHalf,Pass,Successful,62.7,27.9,69.7,52.9
+749,472122,Rayan,409,Brazil,75,SecondHalf,Pass,Successful,71.1,54.6,80.6,70.1
+750,115097,Douglas Santos,409,Brazil,75,SecondHalf,MissedShots,Successful,89.9,67.9,,
+604,34069,Johny Placide,2693,Haiti,76,SecondHalf,Pass,Successful,5.2,45.7,30.9,20.9
+605,374992,Jean-Kévin Duverne,2693,Haiti,76,SecondHalf,Pass,Successful,30.9,20.8,39.1,34.7
+606,431360,Danley Jean Jacques,2693,Haiti,76,SecondHalf,Pass,Successful,38.3,33.3,45.4,89.7
+607,555256,Martin Expérience,2693,Haiti,76,SecondHalf,Pass,Successful,64.5,90.9,61.7,77.3
+608,320242,Jean-Ricner Bellegarde,2693,Haiti,76,SecondHalf,Pass,Successful,62.8,78.3,72.3,90.5
+609,555256,Martin Expérience,2693,Haiti,76,SecondHalf,Pass,Successful,69.2,87.5,71.1,91.5
+610,320242,Jean-Ricner Bellegarde,2693,Haiti,76,SecondHalf,TakeOn,Unsuccessful,71.9,88.5,,
+752,338780,Bruno Guimarães,409,Brazil,76,SecondHalf,Tackle,Successful,28.5,10,,
+753,88526,Casemiro,409,Brazil,76,SecondHalf,Foul,Successful,32,12.6,,
+611,555256,Martin Expérience,2693,Haiti,76,SecondHalf,Foul,Unsuccessful,68,87.3,,
+754,101949,Marquinhos,409,Brazil,76,SecondHalf,Pass,Successful,31.1,17.4,16.2,45.1
+755,114147,Alisson Becker,409,Brazil,76,SecondHalf,Pass,Successful,16.4,45,32.8,54.6
+756,88526,Casemiro,409,Brazil,76,SecondHalf,Pass,Successful,32.8,54.6,20.1,33.1
+757,101949,Marquinhos,409,Brazil,76,SecondHalf,Pass,Successful,22.6,34.2,23.2,77.4
+758,334087,Gabriel Magalhães,409,Brazil,76,SecondHalf,Pass,Successful,24.2,77.5,9.9,44.1
+11764,445649,Endrick,409,Brazil,77,SecondHalf,OffsideGiven,Unsuccessful,81.9,43,,
+759,114147,Alisson Becker,409,Brazil,77,SecondHalf,Pass,Successful,9.9,44.1,17.1,25.8
+760,101949,Marquinhos,409,Brazil,77,SecondHalf,Pass,Successful,33.4,25.3,59.3,93.3
+761,115097,Douglas Santos,409,Brazil,77,SecondHalf,Pass,Successful,61.4,94.2,57.2,81.9
+762,380706,Gabriel Martinelli,409,Brazil,77,SecondHalf,Pass,Successful,57.9,80.8,57.1,56.2
+763,88526,Casemiro,409,Brazil,77,SecondHalf,Pass,Successful,60.8,55.5,73.3,48.1
+764,472122,Rayan,409,Brazil,77,SecondHalf,OffsidePass,Successful,72.1,46.2,81.9,43
+613,145264,Ricardo Adé,2693,Haiti,77,SecondHalf,OffsideProvoked,Successful,23.8,47.2,,
+614,34069,Johny Placide,2693,Haiti,77,SecondHalf,Pass,Successful,16,53.3,22.5,75.9
+615,367189,Hannes Delcroix,2693,Haiti,77,SecondHalf,Pass,Successful,22.5,75.9,10.9,59.9
+616,34069,Johny Placide,2693,Haiti,78,SecondHalf,Pass,Successful,15.4,53,40.4,95.6
+617,555256,Martin Expérience,2693,Haiti,78,SecondHalf,Pass,Successful,40.4,95.6,60.2,86.1
+618,422218,Lenny Joseph,2693,Haiti,78,SecondHalf,Pass,Successful,63.7,84.8,55.4,83.9
+619,555256,Martin Expérience,2693,Haiti,78,SecondHalf,Pass,Successful,46,81.6,43.4,58.8
+620,622515,Dominique Simon,2693,Haiti,78,SecondHalf,Pass,Successful,43.8,57,59.1,7.9
+621,374992,Jean-Kévin Duverne,2693,Haiti,78,SecondHalf,Pass,Successful,70.9,14.5,65.5,23.9
+622,431360,Danley Jean Jacques,2693,Haiti,78,SecondHalf,Pass,Successful,64.1,30.1,76.3,27.4
+623,320242,Jean-Ricner Bellegarde,2693,Haiti,78,SecondHalf,BallTouch,Unsuccessful,76.5,27.1,,
+765,115097,Douglas Santos,409,Brazil,78,SecondHalf,BallRecovery,Successful,25.8,81.7,,
+766,115097,Douglas Santos,409,Brazil,78,SecondHalf,Pass,Successful,25.8,81.7,39.1,93
+767,337782,Vinícius Júnior,409,Brazil,78,SecondHalf,Foul,Successful,37.8,89.6,,
+624,145264,Ricardo Adé,2693,Haiti,78,SecondHalf,Foul,Unsuccessful,62.2,10.5,,
+768,337782,Vinícius Júnior,409,Brazil,78,SecondHalf,Pass,Successful,36.6,95.4,31.5,95.1
+769,115097,Douglas Santos,409,Brazil,78,SecondHalf,Pass,Successful,31.8,94.5,22.4,83.2
+770,334087,Gabriel Magalhães,409,Brazil,78,SecondHalf,Pass,Successful,21.5,82,10.6,54
+771,114147,Alisson Becker,409,Brazil,78,SecondHalf,Pass,Successful,11.6,52.6,8.9,25.9
+772,101949,Marquinhos,409,Brazil,78,SecondHalf,Pass,Successful,17.7,29.4,23.8,6.7
+773,88300,Danilo,409,Brazil,78,SecondHalf,Pass,Successful,22.3,6.7,40.3,48.9
+774,472122,Rayan,409,Brazil,78,SecondHalf,Pass,Unsuccessful,40.3,48.9,52,56.1
+625,145264,Ricardo Adé,2693,Haiti,78,SecondHalf,BallRecovery,Successful,46.8,50,,
+626,145264,Ricardo Adé,2693,Haiti,78,SecondHalf,Pass,Successful,53.3,49.6,65.9,46.7
+627,431360,Danley Jean Jacques,2693,Haiti,79,SecondHalf,Pass,Successful,65.5,63.6,69.2,72.3
+628,320242,Jean-Ricner Bellegarde,2693,Haiti,79,SecondHalf,Pass,Successful,70,74.4,77.3,93
+629,363535,Wilson Isidor,2693,Haiti,79,SecondHalf,Pass,Successful,81.5,94.1,86.4,85.7
+630,622515,Dominique Simon,2693,Haiti,79,SecondHalf,Pass,Successful,86.5,85.7,77.9,85.4
+631,363535,Wilson Isidor,2693,Haiti,79,SecondHalf,Pass,Successful,77.8,85.4,84.6,88.7
+632,622515,Dominique Simon,2693,Haiti,79,SecondHalf,TakeOn,Unsuccessful,88.2,88.2,,
+775,338780,Bruno Guimarães,409,Brazil,79,SecondHalf,Tackle,Successful,11.8,11.8,,
+634,555256,Martin Expérience,2693,Haiti,79,SecondHalf,Pass,Successful,84.5,100,76.9,91.5
+635,363535,Wilson Isidor,2693,Haiti,79,SecondHalf,Pass,Successful,75.9,87.2,80.9,60.2
+636,422218,Lenny Joseph,2693,Haiti,79,SecondHalf,Pass,Unsuccessful,79.1,56.4,89.9,65.6
+777,88300,Danilo,409,Brazil,79,SecondHalf,Clearance,Successful,13.1,31.2,66.7,28.9
+637,145264,Ricardo Adé,2693,Haiti,79,SecondHalf,Pass,Successful,35.7,86.7,42.2,63.8
+638,431360,Danley Jean Jacques,2693,Haiti,79,SecondHalf,Pass,Successful,44,48.1,48.5,47.6
+639,622515,Dominique Simon,2693,Haiti,79,SecondHalf,Pass,Successful,48.5,47.6,44.9,53.4
+640,431360,Danley Jean Jacques,2693,Haiti,79,SecondHalf,Pass,Successful,46.5,52.2,54,41.5
+641,622515,Dominique Simon,2693,Haiti,79,SecondHalf,Pass,Unsuccessful,54,41.5,61.3,0
+779,337782,Vinícius Júnior,409,Brazil,80,SecondHalf,SubstitutionOff,Successful,0,0,,
+780,399250,Danilo Santos,409,Brazil,80,SecondHalf,SubstitutionOn,Successful,0,0,,
+781,338780,Bruno Guimarães,409,Brazil,80,SecondHalf,SubstitutionOff,Successful,0,0,,
+782,362556,Éderson Silva,409,Brazil,80,SecondHalf,SubstitutionOn,Successful,0,0,,
+797,,,409,Brazil,80,SecondHalf,FormationChange,Successful,0,0,,
+643,320242,Jean-Ricner Bellegarde,2693,Haiti,80,SecondHalf,SubstitutionOff,Successful,0,0,,
+644,318923,Derrick Etienne,2693,Haiti,80,SecondHalf,SubstitutionOn,Successful,0,0,,
+691,,,2693,Haiti,80,SecondHalf,FormationChange,Successful,0,0,,
+783,115097,Douglas Santos,409,Brazil,81,SecondHalf,Pass,Successful,33.5,100,13.5,91
+784,334087,Gabriel Magalhães,409,Brazil,81,SecondHalf,Pass,Successful,13.4,90.7,5.2,59.1
+785,114147,Alisson Becker,409,Brazil,81,SecondHalf,Pass,Successful,5.4,58.8,4.1,27.4
+786,101949,Marquinhos,409,Brazil,81,SecondHalf,Pass,Successful,4.1,27.4,37.9,8.7
+787,472122,Rayan,409,Brazil,81,SecondHalf,Pass,Successful,38,26.8,69.6,51.4
+788,380706,Gabriel Martinelli,409,Brazil,81,SecondHalf,Pass,Successful,78.6,41.2,89.5,27.1
+789,362556,Éderson Silva,409,Brazil,81,SecondHalf,Pass,Successful,90.3,27.1,89.4,45.6
+790,445649,Endrick,409,Brazil,81,SecondHalf,BallTouch,Unsuccessful,89.4,45.6,,
+646,145264,Ricardo Adé,2693,Haiti,81,SecondHalf,Clearance,Successful,9.2,60.3,10.1,65.1
+792,362556,Éderson Silva,409,Brazil,81,SecondHalf,BallTouch,Successful,92.1,32.5,,
+647,145264,Ricardo Adé,2693,Haiti,81,SecondHalf,Foul,Successful,8.6,65.4,,
+791,362556,Éderson Silva,409,Brazil,81,SecondHalf,Foul,Unsuccessful,91.5,34.6,,
+648,34069,Johny Placide,2693,Haiti,81,SecondHalf,Pass,Successful,5.6,62.6,12.1,70.5
+649,367189,Hannes Delcroix,2693,Haiti,82,SecondHalf,Pass,Successful,10,67.3,4.6,49.7
+650,34069,Johny Placide,2693,Haiti,82,SecondHalf,Pass,Unsuccessful,25.5,39.8,72.3,44.5
+793,101949,Marquinhos,409,Brazil,82,SecondHalf,Aerial,Successful,27.7,55.5,,
+651,422218,Lenny Joseph,2693,Haiti,82,SecondHalf,Aerial,Unsuccessful,72.3,44.5,,
+794,101949,Marquinhos,409,Brazil,82,SecondHalf,Pass,Unsuccessful,27.7,55.5,29.8,50.7
+677,422218,Lenny Joseph,2693,Haiti,82,SecondHalf,BallTouch,Successful,70.2,45.6,,
+652,487365,Louicius Deedson,2693,Haiti,82,SecondHalf,Dispossessed,Successful,67.4,33,,
+795,399250,Danilo Santos,409,Brazil,82,SecondHalf,Tackle,Unsuccessful,32.6,67,,
+653,622515,Dominique Simon,2693,Haiti,82,SecondHalf,Pass,Unsuccessful,64.1,31.1,68.9,31.1
+796,88526,Casemiro,409,Brazil,82,SecondHalf,BlockedPass,Successful,31.1,68.9,,
+654,374992,Jean-Kévin Duverne,2693,Haiti,82,SecondHalf,Pass,Successful,55.6,9.2,42.1,32.3
+655,145264,Ricardo Adé,2693,Haiti,82,SecondHalf,Pass,Successful,40.1,34,41.7,58.5
+656,367189,Hannes Delcroix,2693,Haiti,82,SecondHalf,Pass,Successful,41.9,63.6,56.8,90.2
+657,555256,Martin Expérience,2693,Haiti,82,SecondHalf,Pass,Successful,56.3,92.4,41.3,75.5
+658,367189,Hannes Delcroix,2693,Haiti,82,SecondHalf,Pass,Successful,41.2,75,37.9,39.8
+659,145264,Ricardo Adé,2693,Haiti,82,SecondHalf,Pass,Successful,37.9,39.5,45.6,44.9
+660,363535,Wilson Isidor,2693,Haiti,82,SecondHalf,Pass,Successful,46.8,33.8,47.3,12.4
+661,622515,Dominique Simon,2693,Haiti,82,SecondHalf,Pass,Successful,47.3,12.4,42.6,39.5
+662,145264,Ricardo Adé,2693,Haiti,82,SecondHalf,Pass,Successful,42.6,39.5,43.4,66.9
+663,367189,Hannes Delcroix,2693,Haiti,82,SecondHalf,Pass,Successful,43.4,67.2,34.6,38
+664,145264,Ricardo Adé,2693,Haiti,82,SecondHalf,Pass,Successful,33.7,35,23.9,52.1
+665,34069,Johny Placide,2693,Haiti,83,SecondHalf,Pass,Successful,22,49,26.7,64.8
+666,367189,Hannes Delcroix,2693,Haiti,83,SecondHalf,Pass,Successful,26.7,64.8,39.7,81.3
+667,555256,Martin Expérience,2693,Haiti,83,SecondHalf,Pass,Successful,39.8,85.1,27.6,74.7
+668,367189,Hannes Delcroix,2693,Haiti,83,SecondHalf,Pass,Successful,25.6,75.6,15.1,58.7
+669,34069,Johny Placide,2693,Haiti,83,SecondHalf,Pass,Unsuccessful,13.6,49.3,43.6,7.4
+798,380706,Gabriel Martinelli,409,Brazil,83,SecondHalf,Interception,Successful,56.4,92.6,,
+799,115097,Douglas Santos,409,Brazil,83,SecondHalf,Pass,Unsuccessful,38.4,95.2,54.8,91.6
+670,374992,Jean-Kévin Duverne,2693,Haiti,83,SecondHalf,Pass,Successful,51.7,9.9,66.2,14.3
+671,487365,Louicius Deedson,2693,Haiti,83,SecondHalf,TakeOn,Unsuccessful,69,25,,
+800,88526,Casemiro,409,Brazil,83,SecondHalf,Tackle,Unsuccessful,31,75,,
+672,487365,Louicius Deedson,2693,Haiti,83,SecondHalf,BallTouch,Successful,67.5,23.9,,
+801,88526,Casemiro,409,Brazil,83,SecondHalf,BallRecovery,Successful,34.8,65.7,,
+802,88526,Casemiro,409,Brazil,83,SecondHalf,Pass,Successful,32.1,67.6,30.8,49.6
+803,362556,Éderson Silva,409,Brazil,83,SecondHalf,Pass,Successful,26.9,41.1,4.8,43.9
+804,114147,Alisson Becker,409,Brazil,83,SecondHalf,Pass,Unsuccessful,5.9,42.3,57.6,48.3
+673,145264,Ricardo Adé,2693,Haiti,83,SecondHalf,BallRecovery,Successful,43.6,49.3,,
+674,145264,Ricardo Adé,2693,Haiti,83,SecondHalf,Pass,Successful,59.6,46.7,78.1,91.8
+675,318923,Derrick Etienne,2693,Haiti,83,SecondHalf,Pass,Unsuccessful,79.1,88.4,91.2,77.3
+805,88526,Casemiro,409,Brazil,83,SecondHalf,Foul,Successful,8.2,22.9,,
+676,555256,Martin Expérience,2693,Haiti,83,SecondHalf,Foul,Unsuccessful,91.8,77.1,,
+806,114147,Alisson Becker,409,Brazil,84,SecondHalf,Pass,Unsuccessful,7.6,29.5,79.4,15.4
+678,367189,Hannes Delcroix,2693,Haiti,84,SecondHalf,Pass,Unsuccessful,21.5,89.7,40.5,85.5
+807,362556,Éderson Silva,409,Brazil,84,SecondHalf,BallTouch,Unsuccessful,64,15.9,,
+679,622515,Dominique Simon,2693,Haiti,84,SecondHalf,BallRecovery,Successful,32.5,64.4,,
+680,622515,Dominique Simon,2693,Haiti,84,SecondHalf,Pass,Successful,32.5,64.4,22.5,48.1
+681,145264,Ricardo Adé,2693,Haiti,84,SecondHalf,Pass,Successful,32.9,31.4,39.2,43.4
+682,363535,Wilson Isidor,2693,Haiti,84,SecondHalf,Pass,Unsuccessful,40.5,37.3,70.1,40
+808,334087,Gabriel Magalhães,409,Brazil,84,SecondHalf,Aerial,Successful,29.9,60,,
+683,422218,Lenny Joseph,2693,Haiti,84,SecondHalf,Aerial,Unsuccessful,70.1,40,,
+809,334087,Gabriel Magalhães,409,Brazil,84,SecondHalf,Clearance,Successful,29.9,60,28.4,47.7
+684,318923,Derrick Etienne,2693,Haiti,84,SecondHalf,Pass,Unsuccessful,72.8,52.1,87.5,54.6
+810,114147,Alisson Becker,409,Brazil,84,SecondHalf,KeeperPickup,Successful,6.9,44.1,,
+811,114147,Alisson Becker,409,Brazil,84,SecondHalf,Pass,Successful,8.4,44.7,26.2,93.6
+812,115097,Douglas Santos,409,Brazil,85,SecondHalf,Pass,Successful,26.9,94.9,40,92.7
+813,380706,Gabriel Martinelli,409,Brazil,85,SecondHalf,Foul,Successful,38,79.8,,
+685,374992,Jean-Kévin Duverne,2693,Haiti,85,SecondHalf,Foul,Unsuccessful,62,20.2,,
+814,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,30,76.9,24.2,40
+815,101949,Marquinhos,409,Brazil,85,SecondHalf,Pass,Successful,20.9,41.2,23.8,12
+816,88300,Danilo,409,Brazil,85,SecondHalf,Pass,Successful,24.2,11.7,36.1,4.3
+817,472122,Rayan,409,Brazil,85,SecondHalf,Pass,Successful,33.3,5.8,31.4,26.1
+818,88526,Casemiro,409,Brazil,85,SecondHalf,Pass,Unsuccessful,31.4,26.2,49.6,34
+686,145264,Ricardo Adé,2693,Haiti,85,SecondHalf,BallRecovery,Successful,53,72.3,,
+687,145264,Ricardo Adé,2693,Haiti,85,SecondHalf,Pass,Unsuccessful,55.6,59,94.9,50.9
+819,114147,Alisson Becker,409,Brazil,85,SecondHalf,KeeperPickup,Successful,9.8,46,,
+820,114147,Alisson Becker,409,Brazil,85,SecondHalf,Pass,Successful,9.8,46,22.8,86.1
+821,115097,Douglas Santos,409,Brazil,85,SecondHalf,Pass,Successful,26.2,94.2,11.6,80.5
+822,334087,Gabriel Magalhães,409,Brazil,85,SecondHalf,Pass,Successful,12.1,80.4,6.1,49
+823,114147,Alisson Becker,409,Brazil,85,SecondHalf,Pass,Successful,6.5,48.9,9.4,27.1
+824,101949,Marquinhos,409,Brazil,85,SecondHalf,Pass,Successful,10.4,25.5,31.3,3.7
+825,472122,Rayan,409,Brazil,86,SecondHalf,Foul,Successful,34,7.2,,
+689,555256,Martin Expérience,2693,Haiti,86,SecondHalf,Foul,Unsuccessful,66,92.8,,
+826,101949,Marquinhos,409,Brazil,86,SecondHalf,Pass,Successful,23,10.3,37.4,25
+827,88526,Casemiro,409,Brazil,86,SecondHalf,Pass,Successful,33.4,27.6,10.9,43.6
+828,114147,Alisson Becker,409,Brazil,86,SecondHalf,Pass,Successful,10.9,43.5,13.3,16.2
+829,101949,Marquinhos,409,Brazil,86,SecondHalf,Pass,Successful,13.3,16.2,19.4,6.4
+830,88300,Danilo,409,Brazil,86,SecondHalf,Pass,Unsuccessful,19.4,6.4,21.6,6.7
+690,487365,Louicius Deedson,2693,Haiti,86,SecondHalf,BlockedPass,Successful,78.4,93.3,,
+832,88300,Danilo,409,Brazil,86,SecondHalf,Pass,Unsuccessful,22.4,0,37.5,13.6
+693,367189,Hannes Delcroix,2693,Haiti,86,SecondHalf,BallRecovery,Successful,58.9,92.3,,
+694,367189,Hannes Delcroix,2693,Haiti,86,SecondHalf,Pass,Successful,59.7,91.7,68.3,93.6
+695,487365,Louicius Deedson,2693,Haiti,86,SecondHalf,Pass,Successful,68.3,93.6,90,90.5
+696,363535,Wilson Isidor,2693,Haiti,86,SecondHalf,SavedShot,Successful,95.4,70.3,,
+833,114147,Alisson Becker,409,Brazil,86,SecondHalf,Save,Successful,1.6,41.3,,
+834,114147,Alisson Becker,409,Brazil,86,SecondHalf,CornerAwarded,Unsuccessful,1.2,29.3,,
+697,363535,Wilson Isidor,2693,Haiti,86,SecondHalf,CornerAwarded,Successful,98.8,70.7,,
+698,487365,Louicius Deedson,2693,Haiti,87,SecondHalf,Pass,Successful,99.5,99.5,92.8,86
+699,318923,Derrick Etienne,2693,Haiti,87,SecondHalf,Pass,Successful,93.7,85.4,86.4,89.4
+700,487365,Louicius Deedson,2693,Haiti,87,SecondHalf,Pass,Successful,86.4,89.4,95.4,74
+701,318923,Derrick Etienne,2693,Haiti,87,SecondHalf,Pass,Unsuccessful,96.1,77.1,96.5,56.1
+835,334087,Gabriel Magalhães,409,Brazil,87,SecondHalf,BallTouch,Successful,8.2,48.4,,
+836,88526,Casemiro,409,Brazil,87,SecondHalf,Clearance,Successful,6.9,33.4,52.7,5.8
+702,555256,Martin Expérience,2693,Haiti,87,SecondHalf,Pass,Successful,56.5,90.8,63.2,91.7
+703,487365,Louicius Deedson,2693,Haiti,87,SecondHalf,Pass,Successful,63.2,91.7,75.7,93.5
+704,318923,Derrick Etienne,2693,Haiti,87,SecondHalf,Pass,Unsuccessful,77.2,93.2,73.8,81.5
+837,362556,Éderson Silva,409,Brazil,87,SecondHalf,Interception,Successful,26.2,18.5,,
+705,367189,Hannes Delcroix,2693,Haiti,87,SecondHalf,Pass,Successful,59.5,82.4,69.8,93.2
+706,555256,Martin Expérience,2693,Haiti,87,SecondHalf,Pass,Successful,69.8,93.2,62.3,67.1
+707,622515,Dominique Simon,2693,Haiti,87,SecondHalf,Pass,Successful,62.4,63.5,55.1,54.3
+708,145264,Ricardo Adé,2693,Haiti,87,SecondHalf,Pass,Successful,54.3,49.9,57.8,77.6
+709,367189,Hannes Delcroix,2693,Haiti,87,SecondHalf,Pass,Successful,57.8,79.2,80.6,91.8
+710,487365,Louicius Deedson,2693,Haiti,87,SecondHalf,TakeOn,Unsuccessful,84.2,88.9,,
+838,88526,Casemiro,409,Brazil,87,SecondHalf,Tackle,Successful,15.8,11,,
+712,487365,Louicius Deedson,2693,Haiti,87,SecondHalf,Pass,Successful,86,100,87.9,87.6
+713,555256,Martin Expérience,2693,Haiti,87,SecondHalf,Pass,Successful,87.5,88.7,72.8,92.9
+714,622515,Dominique Simon,2693,Haiti,87,SecondHalf,Pass,Successful,70,93.2,65.9,82.4
+715,363535,Wilson Isidor,2693,Haiti,87,SecondHalf,Pass,Successful,65.9,82.4,58.6,36.1
+716,145264,Ricardo Adé,2693,Haiti,88,SecondHalf,MissedShots,Successful,65.5,33.5,,
+841,114147,Alisson Becker,409,Brazil,88,SecondHalf,Pass,Successful,2.3,43.5,56.7,9.6
+842,472122,Rayan,409,Brazil,88,SecondHalf,Pass,Successful,56,9.7,55.6,46.3
+844,399250,Danilo Santos,409,Brazil,88,SecondHalf,Pass,Unsuccessful,55.7,46.3,59.5,46.6
+719,431360,Danley Jean Jacques,2693,Haiti,88,SecondHalf,BallTouch,Successful,44.9,56.9,,
+845,380706,Gabriel Martinelli,409,Brazil,88,SecondHalf,BallTouch,Unsuccessful,58.1,61.9,,
+720,374992,Jean-Kévin Duverne,2693,Haiti,88,SecondHalf,Pass,Successful,36.4,45.5,28.1,55.4
+721,367189,Hannes Delcroix,2693,Haiti,88,SecondHalf,Pass,Unsuccessful,24.6,58.3,28.3,53.4
+878,445649,Endrick,409,Brazil,88,SecondHalf,BallTouch,Successful,68.9,50.9,,
+723,34069,Johny Placide,2693,Haiti,88,SecondHalf,BallRecovery,Successful,11.7,50.1,,
+724,34069,Johny Placide,2693,Haiti,88,SecondHalf,Pass,Successful,10.9,50.1,19.8,29.9
+725,145264,Ricardo Adé,2693,Haiti,88,SecondHalf,Pass,Successful,36.2,25.1,91.1,73.1
+11729,487365,Louicius Deedson,2693,Haiti,89,SecondHalf,OffsideGiven,Unsuccessful,96.2,31.9,,
+726,318923,Derrick Etienne,2693,Haiti,89,SecondHalf,Pass,Successful,80.3,57,78.4,28
+727,487365,Louicius Deedson,2693,Haiti,89,SecondHalf,TakeOn,Unsuccessful,85.2,32.8,,
+846,115097,Douglas Santos,409,Brazil,89,SecondHalf,Tackle,Unsuccessful,14.8,67.2,,
+847,115097,Douglas Santos,409,Brazil,89,SecondHalf,BallTouch,Unsuccessful,12.9,63.6,,
+728,487365,Louicius Deedson,2693,Haiti,89,SecondHalf,BallTouch,Successful,84.1,30.5,,
+729,318923,Derrick Etienne,2693,Haiti,89,SecondHalf,OffsidePass,Successful,88.9,34,96.2,31.9
+848,88300,Danilo,409,Brazil,89,SecondHalf,OffsideProvoked,Successful,7.3,45.1,,
+849,114147,Alisson Becker,409,Brazil,89,SecondHalf,Pass,Unsuccessful,9.6,62.7,61,75.1
+730,145264,Ricardo Adé,2693,Haiti,89,SecondHalf,Aerial,Successful,39,24.9,,
+850,380706,Gabriel Martinelli,409,Brazil,89,SecondHalf,Aerial,Unsuccessful,61,75.1,,
+731,145264,Ricardo Adé,2693,Haiti,89,SecondHalf,Clearance,Successful,39,24.9,62.6,7.3
+732,422218,Lenny Joseph,2693,Haiti,89,SecondHalf,BallTouch,Unsuccessful,65.2,4.1,,
+852,115097,Douglas Santos,409,Brazil,90,SecondHalf,Pass,Successful,32.9,100,31.9,89.1
+853,399250,Danilo Santos,409,Brazil,90,SecondHalf,Pass,Unsuccessful,29.9,86.8,28.1,84.4
+735,422218,Lenny Joseph,2693,Haiti,90,SecondHalf,BallTouch,Successful,74.1,26.8,,
+854,101949,Marquinhos,409,Brazil,90,SecondHalf,Pass,Successful,15.5,40.8,35.3,12.1
+855,472122,Rayan,409,Brazil,90,SecondHalf,Pass,Successful,35.3,12.1,35.2,29.5
+856,88526,Casemiro,409,Brazil,90,SecondHalf,Pass,Successful,37.5,33,58.2,36
+857,445649,Endrick,409,Brazil,90,SecondHalf,Pass,Successful,58,36,65,62.5
+858,399250,Danilo Santos,409,Brazil,90,SecondHalf,Pass,Successful,66.9,62.2,89.1,72.9
+859,380706,Gabriel Martinelli,409,Brazil,90,SecondHalf,Pass,Successful,95.4,68.1,97.9,41.1
+860,362556,Éderson Silva,409,Brazil,90,SecondHalf,MissedShots,Successful,97.9,41.1,,
+871,362556,Éderson Silva,409,Brazil,90,SecondHalf,BallTouch,Successful,98,31.2,,
+738,34069,Johny Placide,2693,Haiti,90,SecondHalf,Pass,Successful,2.8,47.5,24.9,9.1
+739,374992,Jean-Kévin Duverne,2693,Haiti,90,SecondHalf,Pass,Successful,36.4,10.3,42.4,7.4
+740,487365,Louicius Deedson,2693,Haiti,90,SecondHalf,Pass,Successful,42.4,7.4,36.4,12.4
+741,374992,Jean-Kévin Duverne,2693,Haiti,90,SecondHalf,Pass,Successful,36.4,12.4,32.8,30.4
+742,145264,Ricardo Adé,2693,Haiti,90,SecondHalf,Pass,Successful,32.8,30.4,41.4,83.7
+743,622515,Dominique Simon,2693,Haiti,90,SecondHalf,Pass,Successful,42.5,84.5,57.6,89.6
+744,318923,Derrick Etienne,2693,Haiti,90,SecondHalf,Pass,Successful,58.3,91.2,45.9,84.5
+745,622515,Dominique Simon,2693,Haiti,91,SecondHalf,Pass,Successful,54.7,57.6,65.3,54.8
+746,422218,Lenny Joseph,2693,Haiti,91,SecondHalf,Dispossessed,Successful,61.9,52,,
+862,445649,Endrick,409,Brazil,91,SecondHalf,Tackle,Successful,36.4,46.6,,
+783,422218,Lenny Joseph,2693,Haiti,91,SecondHalf,BallTouch,Successful,58.7,54,,
+863,399250,Danilo Santos,409,Brazil,91,SecondHalf,BallRecovery,Successful,41.5,62.4,,
+864,399250,Danilo Santos,409,Brazil,91,SecondHalf,Pass,Successful,41.5,62.4,42,42
+865,362556,Éderson Silva,409,Brazil,91,SecondHalf,Pass,Successful,42,41.8,37.9,56.8
+866,88526,Casemiro,409,Brazil,91,SecondHalf,Pass,Successful,37.9,56.8,73.2,68.1
+867,380706,Gabriel Martinelli,409,Brazil,91,SecondHalf,Pass,Successful,76.5,66.9,85.5,63.7
+868,445649,Endrick,409,Brazil,91,SecondHalf,Dispossessed,Successful,90.3,64.2,,
+747,367189,Hannes Delcroix,2693,Haiti,91,SecondHalf,Tackle,Unsuccessful,9.8,35.8,,
+898,445649,Endrick,409,Brazil,91,SecondHalf,BallTouch,Successful,87.5,58.8,,
+748,622515,Dominique Simon,2693,Haiti,91,SecondHalf,BallRecovery,Successful,15.8,28.6,,
+749,622515,Dominique Simon,2693,Haiti,91,SecondHalf,Pass,Unsuccessful,19.7,20.3,47.1,24.1
+869,88526,Casemiro,409,Brazil,91,SecondHalf,BallRecovery,Successful,66.9,73.3,,
+870,88526,Casemiro,409,Brazil,91,SecondHalf,Pass,Successful,65.9,70.9,54,51.6
+872,101949,Marquinhos,409,Brazil,91,SecondHalf,Pass,Successful,55,51.6,63.8,18.3
+873,88300,Danilo,409,Brazil,91,SecondHalf,Pass,Successful,67.2,17.5,56.3,33.7
+874,101949,Marquinhos,409,Brazil,91,SecondHalf,Pass,Successful,55.9,34.9,49.8,62.7
+875,334087,Gabriel Magalhães,409,Brazil,91,SecondHalf,Pass,Successful,48.8,60.3,43.8,29.2
+876,101949,Marquinhos,409,Brazil,91,SecondHalf,Pass,Successful,43.8,29.2,64.9,31.5
+877,472122,Rayan,409,Brazil,91,SecondHalf,Foul,Successful,65.2,28.4,,
+750,145264,Ricardo Adé,2693,Haiti,91,SecondHalf,Foul,Unsuccessful,34.8,71.6,,
+879,399250,Danilo Santos,409,Brazil,92,SecondHalf,Pass,Unsuccessful,66.5,30.7,88.5,49.9
+751,367189,Hannes Delcroix,2693,Haiti,92,SecondHalf,Clearance,Successful,13.8,52.4,26.4,30.5
+752,422218,Lenny Joseph,2693,Haiti,92,SecondHalf,BallRecovery,Successful,28,28.1,,
+753,422218,Lenny Joseph,2693,Haiti,92,SecondHalf,Pass,Successful,64.6,34.9,83.1,88.1
+754,318923,Derrick Etienne,2693,Haiti,92,SecondHalf,Pass,Successful,78.6,73.2,72.4,43.1
+755,622515,Dominique Simon,2693,Haiti,92,SecondHalf,SavedShot,Successful,72.4,43.1,,
+880,114147,Alisson Becker,409,Brazil,92,SecondHalf,Save,Successful,0.7,48.3,,
+881,114147,Alisson Becker,409,Brazil,92,SecondHalf,CornerAwarded,Unsuccessful,13.4,33,,
+756,622515,Dominique Simon,2693,Haiti,92,SecondHalf,CornerAwarded,Successful,93.6,79,,
+11760,374992,Jean-Kévin Duverne,2693,Haiti,93,SecondHalf,OffsideGiven,Unsuccessful,96.7,46,,
+757,318923,Derrick Etienne,2693,Haiti,93,SecondHalf,Pass,Successful,99.5,99.5,91.5,60.8
+758,431360,Danley Jean Jacques,2693,Haiti,93,SecondHalf,Aerial,Successful,91.5,60.8,,
+883,101949,Marquinhos,409,Brazil,93,SecondHalf,Aerial,Unsuccessful,8.5,39.2,,
+760,431360,Danley Jean Jacques,2693,Haiti,93,SecondHalf,OffsidePass,Successful,91.5,60.8,96.7,46
+882,88300,Danilo,409,Brazil,93,SecondHalf,OffsideProvoked,Successful,5.1,51.7,,
+884,114147,Alisson Becker,409,Brazil,93,SecondHalf,Pass,Unsuccessful,6.7,47.2,69.5,42.1
+761,367189,Hannes Delcroix,2693,Haiti,93,SecondHalf,Pass,Successful,39,66.5,55,66
+762,363535,Wilson Isidor,2693,Haiti,94,SecondHalf,BallTouch,Unsuccessful,55,66,,
+885,101949,Marquinhos,409,Brazil,94,SecondHalf,Aerial,Successful,43.4,33.8,,
+763,363535,Wilson Isidor,2693,Haiti,94,SecondHalf,Aerial,Unsuccessful,58.2,66.5,,
+886,101949,Marquinhos,409,Brazil,94,SecondHalf,Pass,Unsuccessful,38.6,33,58.5,23.1
+764,555256,Martin Expérience,2693,Haiti,94,SecondHalf,BallRecovery,Successful,43.6,84.9,,
+765,555256,Martin Expérience,2693,Haiti,94,SecondHalf,Pass,Successful,44.6,92,58.5,91.7
+766,363535,Wilson Isidor,2693,Haiti,94,SecondHalf,TakeOn,Unsuccessful,61.3,91,,
+887,101949,Marquinhos,409,Brazil,94,SecondHalf,Tackle,Successful,38.7,9,,
+768,555256,Martin Expérience,2693,Haiti,94,SecondHalf,Pass,Successful,56.5,100,55.3,88.7
+769,367189,Hannes Delcroix,2693,Haiti,94,SecondHalf,Pass,Successful,55.3,88.7,48.4,59.1
+770,145264,Ricardo Adé,2693,Haiti,94,SecondHalf,Pass,Successful,48.4,59.1,60.6,84.3
+771,367189,Hannes Delcroix,2693,Haiti,94,SecondHalf,Pass,Successful,60.6,84.9,68.3,93.3
+772,555256,Martin Expérience,2693,Haiti,94,SecondHalf,Pass,Unsuccessful,66,75.9,88.5,87
+889,88300,Danilo,409,Brazil,94,SecondHalf,Interception,Successful,11.5,13,,
+773,622515,Dominique Simon,2693,Haiti,94,SecondHalf,BallTouch,Successful,88.9,87,,
+890,88300,Danilo,409,Brazil,94,SecondHalf,BallTouch,Successful,8.6,9.1,,
+775,555256,Martin Expérience,2693,Haiti,94,SecondHalf,Pass,Successful,87.6,100,76,90.2
+776,318923,Derrick Etienne,2693,Haiti,94,SecondHalf,Pass,Unsuccessful,73.9,93.3,75.3,91.5
+892,472122,Rayan,409,Brazil,94,SecondHalf,Interception,Successful,24.7,8.5,,
+777,555256,Martin Expérience,2693,Haiti,94,SecondHalf,Foul,Successful,74.8,91.8,,
+893,472122,Rayan,409,Brazil,94,SecondHalf,Foul,Unsuccessful,25.1,8.2,,
+779,487365,Louicius Deedson,2693,Haiti,95,SecondHalf,Pass,Unsuccessful,72.8,87,89.7,51.8
+894,101949,Marquinhos,409,Brazil,95,SecondHalf,Clearance,Successful,11,50.8,32,77.7
+780,,,2693,Haiti,95,SecondHalf,End,Successful,0,0,,
+895,,,409,Brazil,95,SecondHalf,End,Successful,0,0,,
+896,,,409,Brazil,0,PostGame,End,Successful,0,0,,
+781,,,2693,Haiti,0,PostGame,End,Successful,0,0,,
+1,,,409,Brazil,0,PreMatch,FormationSet,Successful,0,0,,
+1,,,2693,Haiti,0,PreMatch,FormationSet,Successful,0,0,,
